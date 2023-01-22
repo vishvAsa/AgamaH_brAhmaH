@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 
 +++
 
-
+## मङ्गलाचरणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -16,7 +16,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/01_jaDa-dravya-saraH/001_laxmInetrotpalashrIsatataparichayAdeSha_saMvar.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+### ग्रन्थस्य नाम्न औचित्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाना-सिद्धान्त-नीति-श्रम-विमल-धियो ऽनन्त-सूरेस् तनूजो  
@@ -38,7 +38,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/01_jaDa-dravya-saraH/003_prajnAsUchyA-nuviddhaH_xatimanadhigataH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## तत्त्वत्रयज्ञानस्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **शिष्टा** जीवेश-तत्त्व-प्रमिति-युत-**परोपासना** मुक्ति-हेतुः  
@@ -49,7 +49,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/01_jaDa-dravya-saraH/004_shiShTA_jIveshatattvapramitiyutaparopAsanA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## तत्त्वज्ञानस्य महत्त्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आवापोद्वापतस् **स्युः कति** कति कवि-धी-चित्रवत् तत्-तद्-अर्थेष्व्  
@@ -71,13 +71,13 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/01_jaDa-dravya-saraH/006_dravyAdravyaprabhedAnmitamubhayavidhaM_tadvida.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## तत्त्वानां विभागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र द्रव्यं दशावत् प्रकृतिर् इह गुणैस् सत्त्व-पूर्वैर् उपेता  
-कालोऽब्दाद्य्-आकृतिस् स्याद् अणुर् अवगतिमान् जीव ईशोऽन्य आत्मा ।  
-संप्रोक्ता नित्य-भूतिस् त्रि-गुण-समधिका सत्त्व-युक्ता तथैव  
-ज्ञातुर् ज्ञेयावभासो मतिर् इति कथितं संग्रहाद् द्रव्य-लक्ष्म ॥ ७ ॥
+तत्र द्रव्यं दशा-वत् **प्रकृतिर्** इह **गुणैस्** सत्त्व-पूर्वैर् उपेता  
+**कालो** ऽब्दाद्य्+++(=वर्षाद्य्)+++-आकृतिस् स्याद्, अणुर् अवगतिमान् **जीव**, **ईशो** ऽन्य आत्मा+++(=चेतनः)+++ ।  
+संप्रोक्ता **नित्य-भूतिस्** त्रि-गुण-समधिका+++(=भिन्ना, किन्तु)+++ सत्त्व-युक्ता तथैव,  
+ज्ञातुर् ज्ञेयावभासो **मतिर्** इति कथितं संग्रहाद् द्रव्य-लक्ष्म ॥ ७ ॥
 </details>
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/01_jaDa-dravya-saraH/007_tatra_dravyam.md"  newLevelForH1="3" includeTitle="true"  > </div>
