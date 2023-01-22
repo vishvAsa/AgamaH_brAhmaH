@@ -16,7 +16,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/01_jaDa-dravya-saraH/001_laxmInetrotpalashrIsatataparichayAdeSha_saMvar.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-### ग्रन्थस्य नाम्न औचित्यम्
+## ग्रन्थकर्तृवैशिष्ट्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाना-सिद्धान्त-नीति-श्रम-विमल-धियो ऽनन्त-सूरेस् तनूजो  
@@ -27,7 +27,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/01_jaDa-dravya-saraH/002_nAnAsiddhAntanItishramavimaladhiyo-nantasUrest.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## ग्रन्थस्य नाम्न औचित्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रज्ञा-सूच्याऽनुविद्धः, क्षतिम् अनधिगतः, कर्कशात् तर्क-शाणाच्  
@@ -60,7 +60,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/01_jaDa-dravya-saraH/005_AvApodvApatassyuH_katikati.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## तत्त्वानां विभागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **द्रव्याद्रव्य**-प्रभेदान् मितम् उभय-विधं तद्-विदस् **तत्त्वम् आहुर्**,  
@@ -71,7 +71,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/01_jaDa-dravya-saraH/006_dravyAdravyaprabhedAnmitamubhayavidhaM_tadvida.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-## तत्त्वानां विभागः
+## द्रव्यादीनां लक्षणानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र द्रव्यं दशा-वत् **प्रकृतिर्** इह **गुणैस्** सत्त्व-पूर्वैर् उपेता  
@@ -82,11 +82,13 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/01_jaDa-dravya-saraH/007_tatra_dravyam.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## गुणानां द्रव्यातिरिक्तत्वसमर्थनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एकार्थप्रत्यभिज्ञा भवति दृढतरा दर्शनस्पर्शनाभ्यां संघातादेरयोगादवगमयति सा वस्तु रूपादतोऽन्यत् ।  
-एकस्मिन् दूरतादेरविशदविशदप्रत्यभिज्ञादि तद्वत् नैकत्वेऽप्यक्षभेदाद्भिदुरमिव मिथस्संश्रयादिप्रसङ्गात् ॥ ८ ॥
+एकार्थ-प्रत्यभिज्ञा भवति दृढ-तरा दर्शन-स्पर्शनाभ्यां,  
+संघातादेर् अयोगाद् अवगमयति सा वस्तु रूपाद् अतोऽन्यत् ।  
+एकस्मिन् दूरतादेर् अ-विशद-विशद-प्रत्यभिज्ञादि तद्वत्  
+नैकत्वे ऽप्य् अक्ष-भेदाद् भिदुरम् इव मिथस् संश्रयादि-प्रसङ्गात् ॥ ८ ॥
 </details>
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/01_jaDa-dravya-saraH/008_ekArthapratyabhijnA_bhavati.md"  newLevelForH1="3" includeTitle="true"  > </div>
