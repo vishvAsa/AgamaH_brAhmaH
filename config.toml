@@ -1,4 +1,4 @@
-baseURL = "https://vishvAsa.github.io/AgamaH/"
+baseURL = "https://vishvAsa.github.io/AgamaH_brAhmaH/"
 languageCode = "en-us"
 title = "आगमे विश्वासटिप्पन्यः"
 theme = "sanskrit-documentation-theme-hugo"
@@ -6,10 +6,10 @@ publishDir = "build_github"
 disablePathToLower = true
 
 [params]
-  githubEditMePathBase = "https://github.com/vishvAsa/AgamaH/edit/content/"
-  contactLink = "https://github.com/vishvAsa/AgamaH/issues/new"
-  build_img = "https://github.com/vishvAsa/AgamaH/actions/workflows/build.yml/badge.svg"
-  build_url = "https://github.com/vishvAsa/AgamaH/actions/workflows/build.yml"
+  githubEditMePathBase = "https://github.com/vishvAsa/AgamaH_brAhmaH/edit/content/"
+  contactLink = "https://github.com/vishvAsa/AgamaH_brAhmaH/issues/new"
+  build_img = "https://github.com/vishvAsa/AgamaH_brAhmaH/actions/workflows/build.yml/badge.svg"
+  build_url = "https://github.com/vishvAsa/AgamaH_brAhmaH/actions/workflows/build.yml"
   fullSearchURL = "/full_search"
   env = "production"  
   disqusShortcode = "vvasuki-site"
