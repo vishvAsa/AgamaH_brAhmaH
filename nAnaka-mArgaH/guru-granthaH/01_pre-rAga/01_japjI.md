@@ -1,5 +1,5 @@
 +++
-title = "मूल-मन्त्र"
+title = "०१ जपजी"
 unicode_script = "devanagari"
 +++
 
