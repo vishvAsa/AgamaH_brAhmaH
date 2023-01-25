@@ -8,6 +8,8 @@ unicode_script = "devanagari"
 - [गुरुग्रन्थदर्पणे](http://www.gurugranthdarpan.net/hindi/0001.html)
 - [श्रीग्रन्थे](http://www.srigranth.org/servlet/gurbani.gurbani?Action=Page&Param=1) 
 - [कार्लानुवादः](http://sanskrit-sikh-gurbani.blogspot.com/p/blog-page.html)
+- Structure
+  - [sw](https://www.sikhiwiki.org/index.php/Structure_of_Guru_Granth_Sahib)
 
 <details><summary>कार्ल-सूचना</summary>
 
