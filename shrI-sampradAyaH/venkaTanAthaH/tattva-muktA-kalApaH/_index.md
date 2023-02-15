@@ -12,3 +12,7 @@ unicode_script = "devanagari"
 
 - मूलम् - Seems like an OCRed version of [this pdf](https://archive.org/details/tattvamuktakalapa_201701), since it contains identical errors - like पुस्त्वे instead of पुंस्त्वे।
 
+## पाठाः
+- [आळ्वारतः](https://www.youtube.com/playlist?list=PLog-e7pBcwck24qngVTVJmEHVPcCg9w5R)
+- [रामप्रियार्यः]()
+- [काश्यप-कृष्णः](https://www.youtube.com/watch?v=dYyrRzJW0pc&list=PLog-e7pBcwckK9xeLxVivG3Wyd7Yk2NqF&index=1)
