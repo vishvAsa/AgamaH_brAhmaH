@@ -14,7 +14,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/001_tattaddravyeShu_dRShTam.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## अद्रव्ये प्रमाणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याख्यातं द्रव्यषट्कं व्यतिभिदुरमथाद्रव्यचिन्ताऽस्य सत्ताधीभेदादेः पुरोक्ता निजगदुरनुपादानतां तस्य लक्ष्म ।  
@@ -23,7 +23,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/002_vyAkhyAtaM_dravyaShaTkam.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## अद्रव्यम् अवर्जनीयम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्रव्यं द्रव्यसिद्धौ तदुपहिततया तच्च लक्ष्येत तस्मादेकासिद्धौ द्वयं नेत्यपि न सदुभयान्योन्यवैशिष्ट्यदृष्टेः ।  
@@ -50,7 +50,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/005_chAdInAM_vRttiyogyam.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## जैनमतम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आहुर्द्रव्येषु धर्मान् कतिचन गुणपर्यायवैषम्यभिन्नान् पर्यायाणां गुणत्वे स्थितवति सहजागन्तुतामात्रमेतत् ।  
@@ -59,7 +59,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/006_AhurdravyeShu_dharmAn.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## बौद्धमतम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाह्येऽर्थे बौद्धतोकाः किल जननजराभङ्गरूपान् विकारानाद्यन्तौ चित्तचैत्तेष्वपि जगदुरमी तत्स्वरूपं न वा स्युः ।  
@@ -68,7 +68,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/007_bAhye-rthe_bauddhatokAH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## भेदाभेदवादः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदावैक्येन बुद्धिर्द्वयमपि मिलितं गृह्णती व्यक्तिजात्योर्भेदाभेदाविरोधं दिशति यदि न तत्तद्विशिष्टैक्यबुद्धेः ।  
@@ -86,7 +86,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/009_vyaktyA_jAterabhedam.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## अनेकान्तवादः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्त्वान्नैकान्तमाहुर्विमतमितरवत् केऽपि तद्धीविरुद्धं न ह्यत्राकारभेदात् परिहृतिरनवस्थानदोषप्रसङ्गात् ।  
@@ -104,7 +104,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/011_siddhe_vastunyasheShaiH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## सप्तभङ्गी
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्यादस्ति स्याच्च नास्ति द्वितयमनुभयं स्यात्त्रिभिश्चान्तिमं त्रिस्सैषोक्ता सप्तभङ्गी जिनसमयजडैर्द्रव्यपर्यायवर्गे ।  
@@ -113,7 +113,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/012_syAdasti_syAchcha.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## भेददूषणोद्धारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भेदे वस्तुस्वरूपे भ्रम इह न भवेद्धर्मपक्षेऽनवस्था स्याद्वाऽन्योन्याश्रयादिस्तदयमनृत इत्युक्तिबाधादिदुःस्थम् ।  
@@ -131,7 +131,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/014_bhedo_gRhyeta.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## अद्रव्यविभागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्रव्ये नैकरूपे ह्यगणिषत गुणाः सत्त्वमुख्या द्विधाऽऽद्यं शुद्धं तन्नित्यभूतौ त्रितयमिह चतुर्विंशतौ व्याप्तितः स्यात् ।  
@@ -140,7 +140,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/015_adravye_naikarUpe.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## त्रिगुणाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थित्युत्पत्त्यन्तलीलाविधिषु भगवताऽधिष्ठिताः शास्त्रवेद्यास्सत्त्वाद्याः स्थूलसूक्ष्मप्रकृतिगतगुणा हेतुभूतास्सुखादेः ।  
@@ -185,7 +185,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/020_shabdo_naikeShu.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## शब्दः (बौद्धमतम्)
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यान् सत्यापयन्तः कतिचन चतुरः स्पर्शरूपादिधातून् शब्दं स्वार्हाक्षसिद्धं चतुरधिकरणं प्राहुरेभ्यो न भिन्नम् ।  
@@ -203,7 +203,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/022_shabdo-vasthAvisheShaH_shrutibhirabhihitastena.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## शब्दः (जैनमतम्)
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्णानां सध्वनीनामभिदधति हरिद्वाससः पुद्गलत्वं नाक्षादेस्सिद्धमेतन्न च तदभिमते शब्दितः शब्दशब्दः ।  
@@ -212,7 +212,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/023_varNAnAM_sadhvanInAmabhidadhati.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## वर्ण-नित्यत्व-निरासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्णे स्थैर्यं विरुद्धान्वयविरहवति प्रत्यभिज्ञा नियच्छेत्तैव्र्यादिव्यञ्जकस्थं भ्रमवशघटितं तत्र कल्प्येत दिग्वत् ।  
@@ -239,7 +239,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/026_shabdAnityatvato-pi_shrutiShu.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## वेदनित्यत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैवोष्णौ नापि शीतौ क्षितिसततगती तत्र तोयादियोगात् शीतत्वादिप्रतीतिस्तदुपधिकतया तत्रतत्रैव दृष्टेः ।  
@@ -248,7 +248,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/027_naivoShNau_nApi.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## स्पर्शः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्यादुष्णः कृष्णवर्त्मा सलिलमपि तथा शोतमस्तु प्रकृत्या स्पर्शोऽन्योऽप्यत्र दृष्टस्स तु भवतु रुमाक्षिप्तलावण्यवच्चेत् ।  
