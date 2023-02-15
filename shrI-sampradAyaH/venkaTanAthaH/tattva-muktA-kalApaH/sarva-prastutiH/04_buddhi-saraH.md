@@ -1221,9 +1221,4 @@ unicode_script = "devanagari"
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/04_buddhi-saraH/135_prajnAvyutpattipAkavyavaharaNaphalashreNinishr.md"  newLevelForH1="3" includeTitle="true"  > </div>
  
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 ॥ इति तत्त्वमुक्ताकलापे बुद्धिसरः चतुर्थः ॥ ४ ॥
-</details>
-
-<div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/04_buddhi-saraH/004_iti_tattvamuktAkalApe.md"  newLevelForH1="3" includeTitle="true"  > </div>

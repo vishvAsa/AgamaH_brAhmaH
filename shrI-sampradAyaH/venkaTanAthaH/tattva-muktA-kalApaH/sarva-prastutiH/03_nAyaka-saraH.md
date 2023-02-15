@@ -726,9 +726,4 @@ unicode_script = "devanagari"
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/03_nAyaka-saraH/080_trayyantodantachintAsahacharaNasahairebhirasmi.md"  newLevelForH1="3" includeTitle="true"  > </div>
  
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 ॥ इति तत्त्वमुक्ताकलापे नायकसरः तृतीयः ॥ ३ ॥
-</details>
-
-<div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/03_nAyaka-saraH/003_iti_tattvamuktAkalApe.md"  newLevelForH1="3" includeTitle="true"  > </div>

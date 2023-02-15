@@ -275,7 +275,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/030_kRShNAmAmnAsiShuH_xmAm.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## स्नेहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरब्धं रूपभेदैरवयवनियतैश्चित्रमन्यत्तु रूपं काणादाः कल्पयन्तः क्व तदिति कथयन्त्वंशतस्तद्विकल्पे ।  
@@ -302,7 +302,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/033_anye_sneham.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## द्रवत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मासृण्यादिप्रभेदोपहितगुरुतयाऽबादिनिम्नाभिमुख्यं माषव्रीह्यादिराशौ भवति च पतने तादृशं तारतम्यम् ।  
@@ -320,7 +320,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/035_toye_dRShTam.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## गुरुत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पातस्तुल्योऽम्बुभूम्योः पवनदहनयोस्तिर्यगूर्ध्वप्रवृत्त्या पाते भेदात् पलादिप्रतिनियतिरपि ह्यंशवैषम्यतः स्यात् ।  
@@ -347,7 +347,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/038_xityAdau_sAnkhyadRShTyA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## संख्या
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकद्व्यादिप्रतीतिव्यवहृतिविषयो यो गुणस्सा तु संख्या क्वाप्यैक्यं नित्यसिद्धं क्वचिदवयवगैर्जन्यते तत्तदैक्यैः ।  
@@ -392,7 +392,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/043_anyat_gRhNAtyabhijnA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## संख्या (प्राभाकरमतम्)
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्रव्येऽप्यस्ति संख्याव्यवहृतिबलतस्सा ततोऽन्या गुणादेर्मैवं संख्यासु संख्याव्यवहृतिवदियं स्यात्त्विहोपाधिसाम्यात् ।  
@@ -428,7 +428,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/047_sthUlANuhrasvadIrghetaradupaniShadi_sthApitam.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## परिमाणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नात्यन्ताणोर्महत्ताऽस्त्यवयविनि हते मध्यमं क्वास्तु मानं तद्धेतुष्वेव तद्धीरपि तव घटते लाघवोत्कण्ठितस्य ।  
@@ -455,7 +455,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/050_avyakte_syAdaNutvaprabhRtipariNatiH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## पृथक्त्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चर्चा तुल्यैव भिन्नं पृथगितरदिति प्रत्यये तत्पृथक्त्वं भेदाख्यो नीलपीतप्रभृतिरभिमतः किं मुधाऽन्यस्य कॢप्तिः ।  
@@ -464,7 +464,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/051_charchA_tulyaiva.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## संयोगः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्त्वादीनां पटादिव्यवहृतिनियता दृश्यते काऽप्यवस्था सा चेद् द्रव्यस्वरूपं भवति विफलता कारकव्यापृतीनाम् ।  
@@ -491,7 +491,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/054_nairantaryaM_vibhUnAmapi.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## विभागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संयोगाद्विश्वसृष्टिः प्रकृतिपुरुषयोस्तादृशैस्तद्विशेषैः ब्रह्मादिस्तम्बनिष्ठा जगति विषमता यन्त्रभेदादयश्च ।  
@@ -518,7 +518,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/057_ko-sau_saMyoganAshastava.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## परत्वापरत्वे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्पन्दावृत्त्यादिभेदात् परमपरमिति प्रत्ययौ तत्तदर्थे कालाधिक्यादिमात्रान्न खलु समधिकं शक्नुयातां विधातुम् ।  
@@ -527,7 +527,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/058_spandAvRttyAdibhedAt_paramaparamiti.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## विषय-विषयि-भावः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रव्यं प्राग् बुद्धिरुक्ता परमिह विषयैस्सङ्गमादिर्निरूप्यस्संयोगं भाष्यकाराः प्रथममकथयन्न्यायतत्त्वानुसारात् ।  
@@ -581,7 +581,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/064_nityAyA_eva.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## प्राकट्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राकट्यं नाम धर्मं कतिचन विषये बुद्धिसंबन्धजन्यं मन्यन्ते तन्न दृष्टं व्यवहरणविधावानुगुण्यं तु भानम् ।  
@@ -608,7 +608,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/067_Adhatte_dhIH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## इच्छादयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इच्छाद्वेषप्रयत्नाः सुखमितरदपि ज्ञानतो नातिरिक्ता या धीस्तद्धेतुरिष्टा न तदधिकतया कल्पने कोऽपि लाभः ।  
@@ -680,7 +680,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/075_saMsAre_nAsti.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## धर्माधर्मौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मोऽधर्मश्च तत्तत्फलकरणतया शास्त्रसिद्धं क्रियादिद्वारं त्वेतस्य कालान्तरनियतफले स्यादिहादृष्टमन्यत् ।  
@@ -779,7 +779,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/086_vishveshAkUtabhedavyavahitaphalade_vaidhaghaNT.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## अपूर्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्यादौ मर्दनादावपि च न हि परप्रीतिमूला फलाप्तिस्तद्वत् स्याच्छास्त्रसिद्धेष्विति न सदफलं ह्यत्र दृष्टान्तमात्रम् ।  
@@ -797,7 +797,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/088_pradhvastaM_karma.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## विध्यर्थः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत्युद्देश्यं सुखादि स्वत इह न परं स्यादनन्यार्थवेद्यं कॢप्तिश्चान्यस्य हेतोरपि च परिहृतं तत्परत्वं श्रुतीनाम् ।  
@@ -869,7 +869,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/096_santi_hyanye.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## षाड्गुण्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षाड्गुण्यस्यैव कुक्षौ गुणगण इतरः श्रीसखस्येव विश्वं षट्स्वन्ये ज्ञानशक्त्योर्विततय इति च व्यक्तमुक्तं हि तज्ज्ञैः ।  
@@ -878,7 +878,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/097_ShADguNyasyaiva_kuxau.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## शक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हेतोः कार्योपयुक्तं यदिह भवति तच्छक्तिशब्दाभिलप्यं तच्चामुष्य स्वधर्मस्तदितरदपि वाऽपेक्षितत्वाविशेषात् ।  
@@ -905,7 +905,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/100_shabdAdiShvasti_shaktiryadi.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## संस्कारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाह्याक्षादेरवृत्तौ चिरविदितमपि स्मर्यते येन सोऽयं संस्कारस्तुल्यदृष्टिप्रभृतिसहकृतश्चेतसस्साह्यकारी ।  
@@ -932,7 +932,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/103_buddherartheShu_pUrvaprasaraNajanitasteShu.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## वेगः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शीघ्रं यातीति कर्मातिशयसमधिको दृश्यते कुत्र वेगस्तद्भेदैर्वेगभेदं कथयसि च समस्तीव्रमन्दक्रमादिः ।  
@@ -941,7 +941,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/104_shIghraM_yAtIti.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## स्थित-स्थापकः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शाखाकोदण्डचर्मप्रभृतिषु सति चाकर्षणादौ कुतश्चिद् भूयः स्वस्थानयानं भवति स तु गुणः स्यात् स्थितस्थापकश्चेत् ।  
@@ -959,7 +959,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/106_prAgdeshaprApako-sau_kimiti.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## कर्म-स्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केचिद्देशान्तराप्तेर्जनिमभिदधते कर्म या कर्मजेष्टा नेत्येकेऽम्भःप्रवाहस्थिरवपुषि झषे तत्प्रतीतेरभावात् ।  
@@ -995,7 +995,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/110_karmotxepAdibhedAt_katichidakathayan.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## जाति-वादः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृत्स्वर्णादिप्रसूते भवति हि घटधीर्नान्यदन्यद् घटत्वं नैकं बाध्यं समत्वात्तदिह परिहृतिः कुत्रचित्क्वापि योगः ।  
@@ -1022,7 +1022,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/113_bhinneShvekAvamarsho_na.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## अपोह-वादः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मध्ये यद्यस्ति जातिर्मतिविहतमथो नास्ति भिन्ना भवेत् सा तस्मादन्यत्र वृत्तिर्न च सकलमतिः क्वापि कृत्स्नांशवृत्त्योः ।  
@@ -1067,7 +1067,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/118_vyAvRttairvyaktivanna_vyavahRtiniyamassAdhyatA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## सादृश्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सादृश्यस्यानुवृत्तौ भवति परमता जातिरेवान्यथा चेत्तन्मूला नानुवृत्तव्यवहृतिरुचितेत्येतदप्यात्तसारम् ।  
@@ -1103,7 +1103,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/122_sattAsAmAnyameke_triShu.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## विशेषः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्जातीयं सदा यद्यदवधिगुणकं यत्र न ह्यन्यदीदृक् दृष्टैरित्थं विशेषैर्जगति विषमतां वक्ति वैशेषिकोऽपि ।  
@@ -1130,7 +1130,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/125_nAsmaddRshyA_visheShAH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## समवायः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बन्धं नाध्यक्षयामस्समधिकमपृथक्सिद्धयोस्तत्स्वरूपात् कल्प्ये तस्यातिरेके तदुपरि च तथेत्यप्रकम्प्याऽनवस्था ।  
@@ -1148,7 +1148,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/127_sambandhe_sarvatulye.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## समवायः (प्राभाकरमतम्)
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मो धर्मी द्वयं वा कृतकमभिमतं यत्र संबन्धमत्र प्राहुः कार्यं स्वभावात्तदुभयघटितं केऽपि दत्तोत्तरं तत् ।  
@@ -1157,7 +1157,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/128_dharmo_dharmI.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## अभावः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽभावो यः स्वभावं नियमयति दशादेशकालादिभेदो नैवं सर्वाश्रितानां त्यजनमनितरस्थाप्यधीप्रापितत्वात् ।  
@@ -1175,7 +1175,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/130_pradhvaMsaprAgabhAvo_dvitanurabhimataH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## अभावो नातिरिक्तः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्रव्येष्वेव ह्यवस्थाक्रमत उपनता जन्मभङ्गादिरूपा नावस्थानामवस्थान्वय इति न भवेत् कार्यतादीति चेन्न ।  
@@ -1202,7 +1202,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/133_etAvantaH_padArthA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## ग्रन्थोपसंहारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्थं श्रीवेङ्कटेशः श्रुतममत जगन्मूलकन्दं मुकुन्दं विस्तारो यस्य विश्वं मुनिभिरभिदधे विस्तरो वाङ्मयं च ।  
@@ -1256,7 +1256,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/139_syAditthaM_shixitArtho.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-
+## मङ्गलम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गाथा ताथागतानां गलति गमनिका कापिली क्वापि लीना क्षीणा काणादवाणी द्रुहिणहरगिरस्सौरभं नारभन्ते ।  
@@ -1266,12 +1266,6 @@ unicode_script = "devanagari"
 <div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/140_gAthA_tAthAgatAnAm.md"  newLevelForH1="3" includeTitle="true"  > </div>
  
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 ॥ इति तत्त्वमुक्ताकलापे अद्रव्यसरः पञ्चमः ॥ ५ ॥
-</details>
-
-<div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/05_adravya-saraH/005_iti_tattvamuktAkalApe.md"  newLevelForH1="3" includeTitle="true"  > </div>
- 
 
 ॥ इति कवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु तत्त्वमुक्ताकलापः समाप्तः ॥
