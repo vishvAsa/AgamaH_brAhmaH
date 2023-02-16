@@ -1,5 +1,5 @@
 +++
-**title** = "३ नायकसरः"
+title = "३ नायकसरः"
 
 +++
 SPRE PSIES PROPENS 
