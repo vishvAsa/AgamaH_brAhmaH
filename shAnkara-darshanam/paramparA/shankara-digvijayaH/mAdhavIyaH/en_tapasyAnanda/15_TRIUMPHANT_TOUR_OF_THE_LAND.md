@@ -1,0 +1,298 @@
++++
+title = "15 TRIUMPHANT TOUR OF THE LAND"
+
++++
+
+Confrontation with Kapalikas in Karnataka 
+
+(1-23) Now Acharya Sankara, along with the king Sudhanya and a large number of disciples, started on a Dig-vijaya-a mis- sionary tour for the propagation of the Advaita doctrine by con- troverting all philosophies opposed to it. He first travelled towards the Setu. On his way, he came across a sect whose followers were externally Saivas, but drank liquor in their worship like the Saktas. He entered into a very heated debate with these Brahmanas of Sakta persuasion, silenced them in argument for the good of the world, and made them accept the right code of rituals that he formulated. After worshipping Ramanatha at Rameswaram, the Acharya travelled through the Pandya and Chola countries and reached the city of Kanchi which shone like an ornament to the Hasti ranges. There he built a temple, instituted the worship of Devi, with rituals that are in accordance with the Vedic traditions and suited to the attainment of supreme knowledge. He eschewed, in those rituals, every trace of the Tantrika modes of worship.1 Next, blessing the people of Andhra country and worshipping Lord Venkatanatha, he reached the land of Vidarbha. He was given a cordial reception by the king of that place. There, Padma- pada and other disciples engaged themselves in controverting the perverse doctrines of the Bhairavas. After a time, the Acharya started towards the Karnataka country, but was warned by the king of Vidarbha that those regions were very dangerous, as they were full of Kapalikas who were followers of the cult of human sacrifice who condemned the Vedic religion and were, on the whole, a curse to humanity. They were not likely to tolerate the spread of the Acharya's influence in those regions. Hearing this warning, 
+
+1 According to the traditions relied on by Anantanandagiri, Sankara came to Kanchi at the end of his spiritual mission and settled down there till his end. He either founded a new Devi temple there, or renovated and reformed the existing one, and helped the growth of the two blocks in that temple town, Siva Kanchi and Vishnu Kanchi, centred on the two deities of these names there. He also received large numbers of disputants and enquirers from Tamraparni and other parts of 
+
+South India. 
+
+TRIUMPHANT TOUR OF THE LAND 
+
+167 
+
+king Sudhanva, who was accompanying the Acharya on his travels, said, displaying his bow and arrows, that there was no danger from those brutish people so long as he was with the party. There- upon the Acharya, along with his disciples, entered into the heart of this region of Kapalikas, with a view to controvert their vicious doctrines. He was soon opposed by Krakacha, the leader of the Kapalika cult. Krakacha's body was smeared all over with the ashes from the cremation ground, and in his hands were a skull and a trident, the emblems of his cult. Accompanied by several disciples similar to him in their make-up, Krakacha said in a tone replete with pride and audacity, "It is quite proper that you are wearing marks with ashes. But why are you having in your hand this ugly water pot of mud in place of the most sacred skull? And above all, why are you not adoring the great Kapali (Siva with a skull in hand)? Without the offering consisting of the red lotus of a bleeding skull and liquor, how can the Bhairava (Kapali), embraced by Uma, be pleased?" Thereupon king Sudhanva, who was accompanying the Acharya with his men, drove away Krakacha with the contemptuous words: “You wretch! Get away." With his lips quivering and eye-brows arching in anger, Krakacha declared, flourishing his battle axe, "I am not the famous Krakacha unless I reap a harvest of the heads of your fellows!" He then despatched a large band of well equipped Kapalikas, who appro- ached the party with fierce and angry roars like a turbulent sea. The king put on his mail, and seated in his chariot, resisted the approaching Kapalika hoard with his bow and arrows. While this conflict was going on, Krakacha sent another batch of his followers to attack the party of Sankara's disciples and the entourage of devotees from the rear. Frightened by the sight of the Kapalika hoard, the members of the party immediately took shelter at the feet of the Acharya, their last resort. With the utterance of the mystic syllable 'Hung', the Acharya reduced to ash these terrible Kapalikas who were approaching the party with deadly weapons. Simultan 
+
+sly, the king also spread the earth with a carpet formed s of those Kapalikas who had come to attack at the 
+
+of the r front. 
+
+(24-29) Krakacha was much disconcerted to see that many of his own followers had been killed while the Sannyasins and their followers remained unhurt. So he now approached the Acharya 
+
+14 
+
+168 
+
+SANKARA-DIG-VIJAYA: CANTO 15 
+
+once again and said: "O infidel! See now my power, and suffer the consequences of your misdeeds. !" He then stood still with eyes closed, and a skull in hand. As he continued to meditate, the skull became full of liquor. He then drank half of it, and again continued to meditate on the Bhairava. Then there appeared before him the great Kapali (Bhairava) with a garland of skulls, long matted locks, and a trident in hand, bellowing out wild laughter and fierce roars. Addressing his deity, the Kapalika said, "O Lord! Destroy this persecutor of Thy devotees!" Then the great Kapali said: "Am I to destroy myself?” and with that question he cut off Krakacha's head. Then the Acharya sang a hymn in praise of the great Kapali, who forthwith disappeared from the sight of men. On the discomfiture of these sordid types of men, good folk every- where praised the Acharya in great joy. 
+
+The Acharya at Gokarna 
+
+(30-39) Travelling through many lands and controverting the atheistic and corrupt doctrines of many sects, Sankara reached the shores of the western sea. The sea looked like a great opposing controversialist-its waves standing for gesticulating hands, and its loud sound, for noisy argument to the accompaniment of kettle drums. The all-forgiving Acharya left that place for Gokarna without entering into a controversy with that challenging sea, as if out of the feeling that the sea, an agitated, unsteady and watery being, had already been conquered by the Devas who churned it, and, therefore, needed no special attention from him. At Gokarna, he took his bath in the sea and worshipped at the shrine of Lord Siva there. Then, while the Acharya was preaching his philosophy to those who came to pay obeisance to him, a person named Hara- datta went to his teacher Neelakantha, an upholder of Saivism, and said: “Revered Sir, a Sannyasin named Sankara, after having defeated famous scholars like Viswarupa, has now arrived at the temple along with his disciples. His idea is to defeat you also in argument and establish the supremacy of his doctrines." The great Saiva teacher, who had himself written, besides other works, a commentary on Vyasa's Sutras on the lines of Saivism, said at this: "He can never be an equal to me, be he capable of drinking up the sea, or rolling up the sky like a sheet of cloth, or plucking the disc of the sun from its wonted course. He will now see how 
+
+TRIUMPHANT TOUR OF THE LAND 
+
+169 
+
+the brilliant rays of the fierce sun of my dialectics will dispel the darkness of ignorance that constitutes his doctrines." With these words, that master of Saiva doctrines, who had the marks of white ashes on his body and a shining necklace of Rudraksha beads round his neck, started in a challenging mood from his home with a retinue of disciples to meet Sankara. The Saiva doctrine that he tried to establish in opposition to Sankara's Vedanta philosophy was, in contrast with it, as antiquated as the earlier Samkhya doctrine in the face of the teachings of Badarayana. 
+
+The Saiva Neelakanta's Criticism of Advaita 
+
+(40-48) When the Saiva teacher approached for controversy, Sureswara came forward and restraining his teacher, said: "Lord! Leave him to me. I shall meet him in argument, and you will be the witness of my controversial skill." But Neelakanta turned towards Sankara himself, dismissing Sureswara with the words, "Friend, I know enough of your controversial skill. But I wish to have your teacher himself as my adversary." As the controversy started, Neelakanta found that his own doctrines were disappearing into nothingness before Sankara's criticism of them, and so leaving the defensive position, he started a direct attack on the Advaita doctrine. He said: "O ascetic! The meaning of Tat tvam asi (That thou art) cannot be as you say, because Iswara and Jiva are by nature as different as light and darkness. The contention that they are non-different like the sun and its reflection cannot also hold good. That the sun and its reflection are two different entities, that the sun is a real entity and the reflection is a mere unsubstantial appearance, and that there can be no identity between a real entity and a mere passing show-has been established by our Acharya Vyomasiva and others. In your philosophy also, the reflected face is a mere appearance, as certified by an observer who sees both the face and its reflection. Next, there is your conten- tion that the ignorance of the Jiva and the omniscience of Iswara are both alike the effects of Maya, and that if both these contrary attributes of the Jiva and Iswara are eliminated, there is only one Pure Consciousness underlying both alike. This contention is also meaningless. It is an established truth that the difference between two distinct entities cannot be sublated. In other words, they both have their identities. For example, there is no meaning 
+
+} 
+
+170 
+
+SANKARA-DIG-VIJAYA: CANTO 15 
+
+in saying that if 'horseness' and 'cowness' are eliminated, a common principle behind them is obtained. For, such elimination is not possible in the nature of things. If you accept this, you will also have to accept that the 'I' (i.e., the Jiva) is not Iswara. Each has its unsublatable identity. There are many such proofs to establish the difference between the Jiva and Iswara." 
+
+The Real Meaning of Identity of the Jiva and Iswara 
+
+(49-60) Thus, just as an elephant creates a stir in a lotus lake, he tried to shake the foundations of the Vedantic doctrine of non-duality. Having heard all his criticism, Sankara said: "I shall now tell you the real meaning of 'Tat tvam asi' as understood according to the Vedantic tradition. It is true that there is a formal difference indicated by these words, Tat and tvam, as is the case with 'he' and 'man' in the sentence 'He is that man.' This is only in regard to the simple direct meaning of the word (Vachyartha). But, if the indirect and implied meaning (lakshana) is taken, there is identity in the purport of both the terms, the entity indicated by 'he' and 'that person' being identical. So also in Tat tvam asi, it is Pure Consciousness, the entity indicated by the indirect meaning of Tvam- an entity that is wrongly identified with body, mind, ego, etc. through super-imposition caused by Avidya- that is declared to be identical with the indirect meaning of the word 'That', namely, Pure Consciousness, which is the background on which Iswara is superimposed just as body, mind, ego, etc., are superimposed in the case of the Jiva. This is how the identity is to be understood and not in regard to the direct meanings- the insignificant limited individual and the omnipotent and omniscient Iswara. In the case of 'horse' and 'cow', which you have cited as example, there is no common indirect meaning to which they can refer. So by elimination of 'horseness' and 'cowness' no identical entity can be arrived at. Your example is, therefore, inappropriate. Besides, in the case of Jiva and Iswara, the ignorance of the former and the omniscience of the latter are both superimpositions on the non-dual Pure Consciousness. This Pure Consciousness is the implied meaning of both the superimpositions of the Jivahood and Iswara- hood. The body, mind, intellect and other entities that constitute the personality of man-all belong to the realm of objectivity, and are, therefore, by nature insentient. If these are eliminated 
+
+TRIUMPHANT TOUR OF THE LAND 
+
+171 
+
+from the Jiva, one arrives at the real nature of the Jiva. In the same way, this objective, phenomenal world is a superimposition, just as a snake is on a rope; and when the superimposed nature of the world is seen and its basis arrived at, the true nature of Iswara, too, is understood. The adjuncts of both the Jiva and Iswara ignorance and littleness in the case of Jiva, and omniscience and all-mightiness in the case of Iswara-do not actually inhere in their substratum, Pure Consciousness. Due to proximity, they are only reflected in it, just as the colour of a flower is in a crystal. The substratum is never affected by the adjuncts. It is ever pure and untainted. Unless difference were unreal, Sruti could not have condemned in such statements as: "From death to death he goes who perceives reality here as many." It would not also have said, "He who sees even a little difference here, is overcome by fear.” Conversely, if non-difference were unreal, the Veda would not have declared its realisation to be the acme of human attainment, in sentences like, "For him who sees unity, where is infatuation, where is sorrow?" The ordinary direct experience which man has of himself as a small and imperfect being is as incorrect as the immediate apprehension he has of the moon as a limited disc of six inches diameter. Just as in the above case, this immediate apprehension, being a mere attribution, does not affect the real size and nature of the moon, so also, the real nature of Reality as non-dual and perfect is not affected by man's ordinary ignorant apprehension to the contrary. What further proof do you require for the teaching that duality is sublated by the apprehension of Non-duality?" 
+
+(61-72) At this stage, Neelakantha intervened and said: “Great sages like Kapila and others have described the Supreme Reality and the supreme end of man in terms of duality. How can your contention that it is unity, stand against the view of sages?" To this, Sankara replied: "Before the clear statement of the Sruti, statements contrary to it found in Smritis are ineffective. So, if a Rishi's teaching is contrary to the teaching of the Veda, the former becomes unacceptable." Neelakantha again objected: "My posi- tion is that the statements of the Rishis, whenever they are true to experience and reasoning, are equal to Vedic statements and are, therefore, acceptable. Our experience shows that in each body, it is a separate spirit that experiences joy and sorrow. If difference 
+
+172 
+
+SANKARA-DIG-VIJAYA: CANTO 15 
+
+is not true, there will be mutual juxtaposition of the distress of a suffering man and the enjoyment of a king. In other words, how these two have contrary experiences cannot be explained. The diversity of experiences in different bodies, say of a king and a beggar, becomes inexplicable if the spirit in them all is one. Agency can accrue only to a sentient self. Nothing insentient can experi- ence itself to be an agent. Enjoyership should also accrue to the same one as the agent. To contend otherwise is to be irrelevant. Again, Mukti means the termination of all sorrows and not a state of happiness. For, sorrow always goes with happiness like a shadow. So, just like food mixed with poison, a Mukti that is a state of happiness is reprehensible". To this, Sankara replied: "The differences between happiness and misery are certain imagi- nary modes or states of mind. They do not pertain to the Atman, nor do they indicate multiplicity of the Atman. They indicate only several mental modes, the difference being only in the adjuncts through which the one Atman manifests. Though the body-mind combination is inert in itself, when consciousness is associated with it, it gets the sense of agency. Because in grass and similar entities there is no association of consciousness, they have no sense of agency also. The contention that happiness and sorrow go together, is no doubt applicable to happiness born of sense contacts. It has no relevancy in the bliss of Brahman, which is non-contactual. The attainment of it is the highest object of human life, and not the mere eradication of some sorrows. 
+
+"With such powerful arguments, logical, meaningful and based on Vedic authority, the Acharya refuted the doctrines of the Saiva and established the supremacy of the Vedanta philosophy. Thus defeated, Neelakantha abandoned his own commentary along with his pride, and became a disciple of the Acharya with all his fol- lowers like Haradatta. Hearing that Neelakantha was defeated by the great Sannyasin, Udayana and other dualists lost nerve and felt their position very shaky. 
+
+The Acharya at Dwaraka and at Ujjayini 
+
+(73-75) The Acharya and his disciples next travelled through Saurashtra and adjacent countries, and at last reached the city of Dwaraka. That place was full of Vaishnavas who bore the seal marks of Vishnu's emblems like Sankha, Chakra, etc. on their 
+
+TRIUMPHANT TOUR OF THE LAND 
+
+173 
+
+arms, big upright paintings on their forehead and Tulasi leaves on their ears. They held the doctrine that salvation is obtained by the recognition of the five differences-those between God and Jiva, between Jiva and Jiva, between Jiva and insentient objects, between God and insentient objects, and between in- sentient objects themselves. Hundreds of them came forward for controversy and were defeated by the disciples of the Acharya. 
+
+(76-88) The divine Sankara, after having defeated in argu- ments the sects of Vaishnavas, Saivas, Saktas and Sauras, now proceeded to the city of Ujjayini. To their great joy, the party heard the loud sound, of Mridanga, announcing that the worship of Lord Siva was going on in the great temple of the city. A mild wind, carrying the sweet smell of flowers and the fragrant smoke of sandal wood dust and incense, was blowing there, removing the pilgrims' physical exhaustion. The Acharya then proceeded to the great temple to adore the Deity, Maha Kala. The worship over, the illustrious Sankara, the adored of all the great sages, and the repository of great majesty and power, sat in the temple portico with his disciples. He called his disciple Padmapada to his side, and said: "Here there is a great scholar named Bhatta Bhaskara. Find him out and inform him of our presence here." Bhatta Bhaskara was considered a prince among scholars. He was the author of many works and a victor in numerous debates. Meeting him, Padmapada said: "Here has arrived the Yogi Sankara of worldwide reputation who has been going all over the country, defeating scholars of opposite schools and spreading the philosophy of Non-dualism. Refuting the interpretations of all other schools of thought, he has now made a commentary on Vyasa's Vedanta Sutras. I came here to carry this information to you. In that commentary, he has refuted your unsound doctrines also. You may, therefore, abandon your false doctrines and adopt the non- dualistic philosophy." Somewhat annoyed at this belittling speech, the reputed scholar, Bhatta Bhaskara, replied thus: "As a swan swallows the tender stalk of lotus and performs its dance, I have been eating up the reputation of other scholars and dancing on the pinnacle of scholarship. Perhaps your teacher has not yet heard of me who has torn to shreds the false teachings of many sects. Before my teachings, even the lustre of the words of Kanada, the teacher of the Nyaya-Vaiseshika system, fades like that of the 
+
+174 
+
+SANKARA-DIG-VIJAYA: CANTO 15 
+
+moon before the sun. Kapila's teachings also have run away and taken refuge in some unknown place before the attacks of my dialectics. When this is the case with these reputed ancient teachers, what can modern teachers, mere pigmies before me, do?" Padma- pada thereupon said: "Sir, do not indulge in such meaningless speech. With a stone chisel, it may be possible to cut the rocky side of a hill, but it will be of no avail to cut a piece of diamond!" 
+
+Controversy with Bhatta Bhaskara 
+
+(89-138) Padmapada then returned to his teacher and acquainted him with all that had happened. Just then Bhatta Bhaskara also arrived, and he entered into arguments with Sankara on philoso- phical and theological doctrines. Quoting many authors, each was bent on defeating the other. That controversy was unique for the subtlety of arguments employed, for the skill evinced in refuting the thesis of the opponent, and for the splendid eloquence and mastery of language they displayed. None could know in the least, on what side victory lay. Gradually, before the moon- light of Sankara's dialectics, the lotus of Bhatta's intellect began to shrink and close, and at last he fell into a confused state of mind. Finding it difficult to defend his own thesis and desirous of avoiding utter defeat, Bhatta Bhaskara started an attack on the doctrine of Non-dualism, the light of Vedic wisdom. He said: "Your position is that it is Prakriti or Maya that causes the dis- tinction between Iswara and the Jiva. Now, Prakriti must be resting either on Iswara or Jiva, and this will require the pre-exist- ence of the distinction between them." 
+
+The Locus of Avidya and Pre-existence of the Jiva 
+
+SANKARA: "No. Prakriti can create the distinction between Jiva and Iswara resting on Pure Consciousness, wherein there is no such distinction. Take the example of the mirror which causes the distinction between an object and its image. No image exists before the mirror is held before the object. The image only succeeds, and not precedes, the mirror. Thus, Prakriti can be said to be of Pure Consciousness without there being the Jiva. Hence the pre-existence of the distinction between Iswara and Jiva is not necessary for accepting Prakriti as the common Upadhi of both. Though Prakriti is an Upadhi (adjunct of Brahman), it does notTRIUMPHANT TOUR OF THE LAND 
+
+175 
+
+affect Brahman, just as the mirror does not affect the object. The image, however, is affected by the adjunct, the mirror. So also is Jiva, the image of Brahman, in the reflecting adjunct of Prakriti.” 
+
+BHATTA BHASKARA: "It is irrational to say that Prakriti, which is inert and of the nature of ignorance, has got its locus in Brahman who is Pure Consciousness. For, how can Pure Consciousness and pure unconsciousness co-exist in one and the same entity? So it must have its locus only in Jiva who is ignorant." 
+
+SANKARA: "Do not conclude like that. The fact is otherwise. There is no authority to support the view that Prakriti has its locus in the Jiva, who is qualified by the internal organ (mind)." 
+
+BHATTA BHASKARA: "In individuals, there is the feeling 'I am ignorant'. This direct experience is itself the authority for the thesis that the Jiva, qualified by Antahkarana (mind), is the locus of Prakriti." 
+
+SANKARA: "If what you pointed out is the authority, the know- ledge 'I am a self-conscious being' has also to be attributed to the unconscious entity Antahkarana. How can unconsciousness give the sense of self-consciousness?" 
+
+BHATTA BHASKARA: "It can be explained like this. A piece of iron, though cold, becomes red-hot in the proximity of fire. Just like that, the unconscious entity, the Antahkarana, appears to be a conscious entity by the association of Pure Consciousness." 
+
+SANKARA: "If this is granted, it will also have to be granted that the feeling, 'I am ignorant' is also not a result of Prakriti associating with the internal organ, but with Pure Consciousness. For Pure Consciousness permeates both alike.” 
+
+BHATTA BHASKARA: "As the insentient Antahkarana (mind) and the sentient consciousness are contradictories, we cannot say that self-consciousness is a product of Antahkarana, but con- sciousness can be superimposed on it by Pure Consciousness. As both Antahkarana and Prakriti are insentient, it can be said that Prakriti (Ignorance) is dependent on Antahkarana.' 
+
+SANKARA: "Then this defect arises: Your statement would make Antahkarana, which is itself a product of Prakriti, the object 
+
+-- 
+
+176 
+
+SANKARA-DIG-VIJAYA: CANTO 15 
+
+on which Prakriti (Ignorance) depends. Further, if this Ignorance (Prakriti) is dependent on the mind, it must be present in deep sleep also. But, we have no such experience in deep sleep as 'I am ignorant'. Such a feeling is not present in deep sleep. So, there is no proof to show that Prakriti depends on the mind. Its base must only be Pure Consciousness." 
+
+BHATTA BHASKARA: "In Sushupti (deep sleep), Ignorance is nowhere. To say that it is therefore in Pure Consciousness is meaningless. In the Sruti, it is said that, in Sushupti, the Jiva attains oneness with Pure Consciousness: Satā saumya tadā sampanno bhavati, svayamapīto bhavati. Then there is no question of Maya (Ignorance, Prakriti)." 
+
+SANKARA: "In the Veda it is only said that having gained unity with Brahman, they do not know anything: sati sampadya na viduḥ. By saying 'they do not know', it is implied that it exists in Sushupti, only one has no awareness of it." 
+
+BHATTA BHASKARA: "The Sruti you have quoted only asserts unity, but is not an admission of persisting Ignorance. On the other hand, it is an authority for the contention that, in deep sleep, there is no Ignorance (Maya).” 
+
+SANKARA: "The Vedic sentence 'sati sampadya na viduḥ' (at- taining the Paramatman, man knows nothing), asserts only that, in sleep, men do not know about the presence of Ajnana (Igno- rance). This implies that Ajnana is existing." 
+
+BHATTA BHASKARA: “*Knows nothing' only emphasises the unity. It is not an admission that Ignorance persists. Besides, if Ignorance is located in Pure Consciousness, is it permanently located or only temporarily? It cannot be permanent, because it is inconceivable how eternal Consciousness and eternal Ignorance could co-exist. Temporary presence of Ignorance in Pure Con- sciousness cannot also be accepted, because there is no agency to remove its presence in Pure Consciousness. Immediately you say 'İgnorance exists in Pure Consciousness', it means it is irremovably present there. What the light of Pure Consciousness cannot eradi- cate, cannot certainly be eradicated by any unconscious principle. Viewed in this light, Ignorance must be conceived as existing in all 
+
+2 
+
+TRIUMPHANT TOUR OF THE LAND 
+
+177 
+
+states without any means of eradicating it. This is unacceptable. So Ignorance, whether you call it permanent or temporary, cannot be located in Pure Consciousness. Then, the question will come--- what is the cause of Samsara? One will have to reply that it is the mind's tendency to grasp things in a contrary way, and its proneness to illusory perception (Bhrama).” 
+
+SANKARA: “Then, please define Bhrama or illusory perception." 
+
+BHATTA BHASKARA: "I am a man, not Iswara'-this is Bhrama or illusory perception; 'I am Brahman' is Prama or valid know- ledge." 
+
+SANKARA: "You who say that the perception 'I am a man and not Brahman's is illusory, have forgotten the fundamental doctrines of your Bhedabheda (Identity-cum-difference)-a doctrine which admits of admixture of identity and difference in all entities and, therefore, accepts the reality of everything. In such a theory, how can there be any Bhrama or unreal perception? For example, you say that the perception 'I see a cow with broken horns' is true. How can you then deny reality to the universally felt perception "I am an ignorant man.' Reasoning also leads to the same. 'I am the man I perceive myself to be' is the conclusion. The reason for this is that identity and difference co-exist. The illustration is the perception of a cow with broken horns." 
+
+BHATTA BHASKARA: "A different inference is possible. The pro- position is: The perception 'I am a man' is not true. The reason for this is: 'I am Brahman, and not man'. The illustration is that in the illusory perception, when corrected, the object seen is found to be nacre and not silver, the silver being a false perception." 
+
+SANKARA: "Even this interpretation will not suit your philo- sophy which takes all perceptions as real. Take the perception, "This is not a cow with broken horn, but a hornless cow'. Even when you arrive at this conclusion, the first notion of it as a cow with broken horn remains. For, all perceptions are real for you. So, even when the preception that it is a hornless cow arises, the first perception remains, and you cannot have any settled con- clusion about anything." 
+
+BHATTA BHASKARA: "When a perception 'This is such and 
+
+178 
+
+SANKARA-DIG-VIJAYA: CANTO 15 
+
+such a thing' is found incorrect and is corrected by this later percep- tion, the first perception is Bhrama or illusory perception. Such is my view and not as you put it." 
+
+SANKARA: "Even this will not help you. Because, according to your philosophy, the first perception 'This is a cow with broken horn' is as much true as the second perception, 'This is a hornless cow.' When both these perceptions are real, how can the idea of Bhrama or false perception arise at all?. How can you have a settled conviction?" 
+
+BHATTA BHASKARA: "My statement is not inconsistent or without sufficient reason. In the statement about ‘a cow with broken horn,' 'broken horn' is not denied in the perception of the cow, but in the next perception of the cow as hornless. When that perception comes, the earlier one goes and the settled con- viction that the cow is hornless arises. Where is inconsistency in this?" 
+
+• 
+
+SANKARA: "Your reasoning is certainly uncertain. Is your denial of 'broken horn' in mere 'hornlessness', or in 'a cow that is hornless?' It cannot be in the former, because the very perception of a mere 'broken horn' in more ‘hornlessness' is impossible. The irrelevance consists in the fact that, for the perception of a 'broken horn', mere 'hornlessness' can never be the cause. The second alternative also cannot hold good. As soon as denial is made of 'hornlessness' pertaining to the cow, that denial applies immediately to the cow in which the qualification of 'hornlessness' inheres and vice versa. So, you do not see 'broken horns' and 'hornless- ness', as separate from the cow. You have, therefore, two percep- tions- first the cow with broken horn and next the hornless cow. According to your philosophy, both these perceptions are equally real, and so it is confused and inconclusive reasoning." 
+
+BHATTA BHASKARA: "What we say in our system of thought is this: Even after it is settled that an animal is a hornless cow, still the idea of, or the proposition about, the cow with broken horn stands." 
+
+Salvation is Impossible in Identity-in-difference 
+
+SANKARA: "So also, according to your philosophy, if all percep- 
+
+• 
+
+TRIUMPHANT TOUR OF THE LAND 
+
+179 
+
+tions are real, the experience 'I am a man' must persist even if the consciousness 'I am Brahman' arises. For, both are real.” 
+
+BHATTA BHASKARA: "The Sruti says: "When one experiences everything as Atman, who sees whom?' So, when by such Vedic sentences one realises the self as Brahman, the experience 'I am a man' cannot stand. How can you say that such experience stands?" 
+
+SANKARA: “According to your philosophy, such a question as is posed by the Sruti cannot arise, as it goes against your assump- tion that both difference and unity are real. It is relevant only in our philosophy, and when you put this question, you are only slipping into our system of thought. In our system of thought, it is the absence of knowledge of Supreme Brahman that is the cause of ignorance and the consequent perception of the many. When the knowledge of Brahman arises, the world of multiplicity born of ignorance is dissolved. There is no question of the 'many' when the Absolute is realised. But, your system of Bhedäbheda maintains that the world of the 'many' is real. So, its effacement, including your sense of individuality, is not possible." 
+
+BHATTA BHASKARA: "In our system identity-in-difference is asserted only of five pairs of opposites. These are: species and individual; attribute and substance; cause and effect; qualification and the qualified; part and whole. We do not maintain that there is identity-in-difference between body and spirit. So, your objection will not hold good here. The dawn of identity of the spirit with Brahman can efface the sense of identity with the body.” 
+
+SANKARA: "Is identity-in-difference applicable to all these five pairs of opposites together, or to each pair separately? It cannot · be the first because all those five pairs of opposites of diverse kind cannot occur together. If it is in each of the pairs, then it must occur, according to your doctrine, in the pairs of opposites you describe as part and whole (Anga and Angi). Body and spirit are 'Anga and Angi' in your system, and so, identity-in-difference holds good in regard to them, and the feeling 'I am an embodied being' can never disappear. Further, if you ever maintain that identity-in- difference holds good only with one of the five, namely, cause and effect, then, since spirit and body have that relation, identity-in- difference must hold good in regard to them also viewed in this 
+
+way." 
+
+180 
+
+SANKARA-DIG-VIJAYA: CANTO 15 
+
+Bhrama and Prama cannot be distinguished in Identity-in-difference 
+
+BHATTA BHASKARA: "Body is an effect produced by Iswara and not by the Jiva." 
+
+SANKARA: "As you admit Jiva and Iswara are identical, to be the effect of one is to be the effect of the other also. In your doctrine, where even false perception (Bhrama) is equated with Prama (right knowledge)-when the false and the true are not clearly distinguished-the very use of the word Bhrama is irrelevant and out of place. For even Bhrama is Prama for you. So, you can never say that Samsara (worldly existence) is due to Bhrama or false identification. Now to show your inconsistency further, I ask the question-whose is this Bhrama according to you? Is it of the Antahkarana (mind) or of Pure Consciousness? It cannot be of Antahkarana, because it is the Consciousness (i.e., the self) that experiences Bhrama. If Antahkarana is what is affected, the self cannot be involved." 
+
+BHATTA BHASKARA: "By association with a red flower, a crystal can look red. In the same way, because of association with an Antahkarana that is affected by Bhrama, the Self or Consciousness also appears to be under Bhrama. By this, I do not admit that Consciousness is altered into the Bhrama state." 
+
+SANKARA: "If that is so, what is the nature of the relation of the Bhrama based on Antahkarana with the Self? Is it a real or a false relation? It cannot be the first, because in your philo- sophy, the association of the quality of one substance with another is not real. So the Self and Bhrama cannot be related in a real sense. But at the same time, as the experience of Bhrama is immediate and direct, the relation cannot be called unreal also. In this way, the contention that Bhrama is an off-shoot of Antah- karana is refuted. Now if you are going to contend that Bhrama is an off-shoot of the Self (Atman), that too is unacceptable. How can the Atman, who is accepted as partless and unaffected, change into any effect? If at all it changes, that change can only be of the nature of Pure Consciousness, and not of Bhrama. Atman is eternal and is of the nature of Pure Consciousness, and no Bhrama, which is of the nature of awareness of unreal things, can occur to it. Two contradictory qualities of being-of the nature of Pure 
+
+! 
+
+་ 
+
+TRIUMPHANT TOUR OF THE LAND 
+
+181 
+
+Consciousness, and of being possessed of illusory consciousness- cannot co-exist in the Self." 
+
+BHATTA BHASKARA: "Chit or Pure Consciousness is not à quality. It is substance, the very Self itself. So, your objection cannot hold good as far as Chit is concerned." 
+
+SANKARA: "Still it cannot have the transformation of Bhrama (illusory knowledge). A quantity of gold made into the ornament called Kataka can be the base for only that ornament at a time, and not also for another called Ruchaka at the same time. So also the Atman, which is eternally of the nature of knowledge, cannot be of the nature of ignorance also at the same time." 
+
+BHATTA BHASKARA: "If the word Bhrama is not suited, lẹt us leave it and say the tendency for false perception (Bhrama-sam- skara), or incapacity to grasp the truth, is the cause of Samsara." 
+
+SANKARA: "If there is no Bhrama at all, how can there be Bhrama-samskara or tendency for false perception (Bhrama) and` incapacity to grasp the truth? All these are only aspects of Bhrama. As for non-perception, since Chit (Pure Consciousness) is eternal, its non-perception by itself is inconceivable. If it is the absence of mental modification that is meant by non-perception, the luminous Self shines even then." 
+
+BHATTA BHASKARA: "If this is the position, there is no way of overcoming the sense of ignorance, suffering and falsity in which the Jiva finds himself." 
+
+SANKARA: "Not so. It can be done by the unmodified mental mode apprehending the unity of the Jiva and Iswara generated by the Upanishadic sentences like "Thou art That'. But, if your doctrine of Bhedabheda, characterised by the equal validity of both unity and difference, is accepted, a confusing situation would arise, which would make both life in the world and life of abandon- ment impossible. 
+
+(139-155) In this way, by his brilliant arguments, Sankara, the divine sage, silenced even that great scholar Bhatta Bhaskara put down the dominance of doctrines contrary tò the teachings of the Vedas. The glory of Sankara's life and teachings spread everywhere in the world like the light of the moon in a sky that 
+
+and 
+
+182 
+
+SANKARA-DIG-VIJAYA: CANTO 15 
+
+has been cleared of all clouds with the onset of the spring season. Great scholars of Avanti like Bana, Mayura and Dandin abandoned their perverse doctrines and became devoted to the study of Sankara's commentaries. 
+
+Controversy with the Jainas 
+
+When the Acharya was teaching his commentaries to disciples in the land called Bahlika, a group of Jainas, intolerent of these teachings, went to challenge him for debate. 
+
+The Jainas asked: "Why don't you accept the seven categories of Jainism- namely, soul, lifeless objects, sense attraction, sense control, austerity, bondage and liberation, as also our Syad-Vada or seven-pronged statement of the nature of reality?" 
+
+SANKARA: "What is the Jiva like in the religion of the Jainas?" JAINA: "The Jiva is of the size of the body bound by the eight forms of Karma," 
+
+" 
+
+SANKARA: "A thing that is neither atomic, nor all-pervasive, but is of the size of the body, will be perishable like a pot. In trans- migration, how can such a Jiva occupy bodies of vastly varying sizes like that of a man, an elephant, or a fly.” 
+
+JAINA: "When it enters a big body, more souls combine together; and when it enters a small one, many go apart.’ 
+
+SANKARA: "If the soul also grows and shrinks, originates and perishes like the body, it must belong to the category of non-self. How does it originate after death and how does it spread in the body?" 
+
+JAINA: "Souls are without origination and destruction. They unite with the body and separate from it. Their size changes according to the size of the body." 
+
+SANKARA: "Tell me whether these Jivas are insentient or sentient. If insentient, they will not be able to move the body. If there are several sentient entities, they will pull the body in diverse directions owning to mutual antagonism, and the body itself may perish under their pulls and counter-pulls." 
+
+I 
+
+Ї 
+
+TRIUMPHANT TOUR OF THE LAND 
+
+183 
+
+JAINA: "If one chariot may be drawn by several horses, why should not several Jivas function in a unified manner in a single body?" 
+
+SANKARA: "O friend! The chariot has one driver to control and direct the horses. Here in the body, there is none, according to your theory, to fulfil this function of co-ordination." 
+
+JAINA: "It is not that the souls come and go. In big bodies they grow big, and in small bodies they contract. The leeches provide an example for this.” 
+
+SANKARA: "If the souls are then subject to change, they must be perishable. If the soul thus perishes, even new embodiments become impossible, not to speak of salvation. It can only float about in the ocean of Samsara like the shell of a gourd carrying the load of Karma. In the same way, your seven-pronged description of reality is also a silly doctrine, as contradictions like existence, non-existence, etc., cannot co-exist in one and the same entity." 
+
+Defeat of Navagupta and Others 
+
+(156-162) Thus, he humbled the pride of the Jaina sect known as Madhyamikas and propagated his commentary in the country of Surasena. Afterwards, he had triumphal propaganda tours through the lands of Darada, Bharata, Kuru, Panchala and others. By his powerful dialectics he became victorious over (the followers of) Guru Prabhakara (the founder of the Mimamsa school), Bhatta (the follower of another Mimamsa school), Udayana (a leader of the Nyaya school), Khandanakara (the famous dialectician, Harsha) and others. Then he went to Kamarupa where he won victories. over Navagupta, a leading thinker of the Sakta school and a com- mentator on the Vyasa Sutras from the point of view of that school. Navagupta now reflected in his mind thus: "He is like a sun to the lotus of the Vedas. Under his warmth, that lotus will bloom and our school will perish. In all the worlds, there is none equal to him in intelligence and learning. He must, therefore, be put down somehow. I shall do this through black magic." Plotting thus with his disciples, he abandoned his hitherto professed cult because of fear of public criticism, and followed the Acharya, pretending to have become a disciple of his. The Acharya finished his preaching 
+
+15 
+
+184 
+
+SANKARA-DIG-VIJAYA: CANTO 15 
+
+in the northern region, and then proceeded through the lands of Kosala, Anga, etc. to Gauda. In Gauda he won over scholars like Murari Misra and Udayana, and triumphed over Dharmagupta. His fame was, thus, firmly established in those regions. 
+
+Panegyric of Sankara 
+
+(163-174) Bhaskara had defeated and converted large numbers of Brahmanas who had broken away from the Vedic path, in- fluenced by the deceptive teachings of the Bauddhas. Even such renowned scholars were humbled by the great Acharya and, thus, brought to accept the Advaita doctrine, for which the Vedas stand. Thus, he uprooted all perverse sects. Various misleading sectaries like Saktas, Pasupatas, Kshapanakas, Kapalikas and Vaishnavas had inflicted wounds on the body of Vedic religion by their perverse interpretations. It was to save the true spirit of the Vedas from destructive encroachments that he took to the path of fierce pole- mics and not for gaining renown as a great dialectician. For, the crocodile of craze for renown can never devour an' omniscient one like him. The highway of Advaita, laid first by the four-faced Brahma, trodden by his sons Sanaka and the other Kumaras, and maintained carefully by sages like Valmiki, was, in course of time covered with thorny shrubs of dualistic pseudo-religions, which the Acharya cleared, so that seekers of liberation could tread that path in safety and with ease. Just as the 'six mothers' brought up. Shanmukha tenderly with all attention, so did the great spiritual and ethical virtues like peace, forbearance, renun- ciation and others foster the growth of Sankara. And, just as Shanmukha liberated the Devas from the fear of Taraka and his hosts, Sankara destroyed the tribe of vociferous atheists feeding and fattening themselves on all kinds of filthy doctrines, and saved the true spiritual seekers from their oppressive fear. No sooner was his bugle sounded, than the atheistic Charvakas took to their heels; the followers of Kanada lost sight of their way in the cloud of dust they raised; and, so also, the Sankhyas and the followers of Patanjali ran helter-skelter, abandoning their spirit of confrontation. For, who on earth or heaven can stand in a battle of disputation before that mighty intellect and tower of spiritual strength? The resounding, drum-beat announcing the Acharya's victory over Mandana had blown like a fierce windTRIUMPHANT TOUR OF THE LAND 
+
+185 
+
+through the forest of the ears of numerous atheistical sophists; and then lit up a conflagration that became a fierce and roaring forest fire, cosuming all the wild growth of perverse doctrines therein. The Buddhists ran away pell-mell when confronted by him in controversy; the followers of Kanada took shelter in obscure corners; the disciples of Gautama dissolved in darkness; the sect of Kapila lost all its glamour; and the followers of Patanjali sur- rendered to him with hands in salutation. In all the three worlds, who is there that can equal Sankara, the emperor of the spiritual realm? Some of his controversial antagonists like the followers of Kanada, whose philosophy accepts the Vedas, came to his way of thinking and ended with a friendly shake of hands, while others like the atheistical Charvakas sustained disastrous defeat and disappeared from the philosophical arena. All the followers of the Vedas joined his ranks and became devoted followers of the path leading to Brahman proclaimed in the Upanishads. Ah! Wonderful are both the power and the mercy of this prince among the Sannyasins! A veritable flame of Badavanala (submarine fire) · to the ocean of peace and other spiritual excellences; a fierce wind threatening to scatter the clouds of truth; a fire burning up the tree of faith; the fourteenth day of the black fortnight for the moonlight of kindliness; a full moon night to the lotus of forbear- ance; and a rainy season to the swan of virtue-such was the nature. of the vicious sophistries which met with their doom at the hands of this ‘king of staff-holders' (Dandiswara, Dandi being another term for Sannyasin having the staff as his emblem). A mass of rain clouds showering the ambrosial downpour of Advaitic thought, the activities of this supreme teacher put an end to the spiritual famine caused by the misdeeds of Buddhist Bhikshus and the fierce summer heart radiating from the atheistic doctrines preached by some other sectaries. The Acharya's dialectics crushed the new sprouts of atheism put forth by the Jaina sect of Digambaras, who are the servants of the Patanjala sect, the spittoon-holders for the Kapalikas, the gate-keepers of the sect of Kanada, and the orchestra for the king of Kshapanakas. Thus, through the teachings of the genuine philosophy augmented by his spiritual lustre, this holy personage, Sri Sankara, plastered all forms of dualistic doctrines, erased all doubts and disbelief and removed the darkness of igno rance from the minds of men... 

@@ -1,0 +1,22 @@
++++
+title = "+En - Tapasyananda"
+
++++
+
+
+SANKARA-DIG-VIJAYA  
+THE TRADITIONAL LIFE  
+OF  
+SRI SANKARACHARYA
+
+By
+
+MADHAVA-VIDYARANYA
+
+Translated by
+
+SWAMI TAPASYANANDA
+
+SRI RAMAKRISHNA MATH
+
+MADRAS-600 004, India ̧ ́
