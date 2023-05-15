@@ -4,7 +4,7 @@ title = "pramANas for brahman"
 
 Source: [TW](https://www.youtube.com/watch?v=GOGDiKbYm4Y)
 
-Brahman is the Eternal subject it is eternally a subject as awareness it  [[56:57]] illumines everything and the entire universe including the mind, the body, the [[57:02]] sense organs are its objects. Brahman is the light of even the lights.
+Brahman is the Eternal subject it is eternally a subject as awareness it  [[56:57]] illumines everything and the entire universe including the mind, the body, AAAAAAAAAthe [[57:02]] sense organs are its objects. Brahman is the light of even the lights.
 
 ## Not pratyakSha and anumAna
 Shankaracharya says [[57:38]] does not deny the validity or the capacity of the pramanas like perception [[57:44]] and anumana inference to produce valid knowledge in their respective spheres of [[57:51]] the empirical World. In fact, he says that practical affairs would become impossible if the pramanas were rendered [[57:58]] to be fundamentally useless. 
