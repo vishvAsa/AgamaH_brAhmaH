@@ -4,6 +4,8 @@ unicode_script = "devanagari"
 
 +++
 
+<div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/_index.md"  newLevelForH1="3" includeTitle="false"  > </div>
+
 ## मङ्गलाचरणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -661,4 +663,3 @@ unicode_script = "devanagari"
 ॥ इति तत्त्वमुक्ताकलापे जडद्रव्यसरः प्रथमः ॥ १ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/001_iti_tattvamuktAkalApe.md"  newLevelForH1="3" includeTitle="true"  > </div>

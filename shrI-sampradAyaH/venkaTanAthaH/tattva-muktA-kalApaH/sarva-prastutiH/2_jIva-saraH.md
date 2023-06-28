@@ -4,6 +4,8 @@ unicode_script = "devanagari"
 
 +++
 
+<div class="js_include " url="/AgamaH_brAhmaH/shrI-sampradAyaH/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/2_jIva-saraH/_index.md"  newLevelForH1="3" includeTitle="false"  > </div>
+
 ## शरीरात्मवादः, आत्मनश् शरीरातिरिक्तत्वम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
