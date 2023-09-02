@@ -2,8 +2,8 @@
 title = "+उत्तमूरु-वीरराघव-परमार्थ-भूषणम्"
 
 +++
-Source: [TW](https://archive.org/details/in.ernet.dli.2015.553903/page/n609/mode/1up)
-Source: [TW](https://archive.org/details/ParamarthaBhushana1959SriUttamurViraRaghavacharya/page/n549/mode/2up)
+Source: [version1](https://archive.org/details/in.ernet.dli.2015.553903/page/n609/mode/1up)
+Source: [version2](https://archive.org/details/ParamarthaBhushana1959SriUttamurViraRaghavacharya/page/n549/mode/2up)
 
 [[TODO: TO BE PROOFREAD]]
 
