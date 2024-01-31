@@ -1,5 +1,5 @@
 +++
-title = "श्रीशारीरककारिकावली"
+title = "कारिकावली"
 
 +++
 [[श्रीशारीरककारिकावली	Source: [EB](https://www.ebharatisampat.in/readbook3?bookid=NDY0MTgwMzcxNjMzNDA0&pageno=MjI0MjQyNjk5NTk=)]]
