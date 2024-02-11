@@ -43,6 +43,9 @@ The work is offered in the devout spirit of service.
 S. S. RAGHAVACHAR 
 
 ## ABBREVIATIONS 
+(Abbreviations: Vi. Pu. = Vishnu Purana; Chan. = Chandogya Upanishad; B.S. = Brahma  Sutras;  
+Pu. Suk. = Purusha Suktam; Tai. = Taittiriya Upanishad; Tait. Ar. = Taittiriya Aranyaka;  Brh. Ar. = Brhad-aranyaka Upanishad; M.B. = Mahabharata; Ra. = Ramayana; )
+
 
 Ã 
 Ai 
