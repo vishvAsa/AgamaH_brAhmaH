@@ -46,7 +46,7 @@ attributes or differentiating features (Bheda) ...
 43 
 50. 
 56 
-The doctrine of Avidya or Maya is against Sruti ... 
+The doctrine of Avidya or Maya is against Śruti ... 
 It is also against reason 
 66 
 75 
@@ -109,7 +109,7 @@ really teach
 
 
 ## INTRODUCTION 
-Bhagavan Ramanuja, the great exponent of the Visishtadvaita system of philosophy, was the author of nine treatises: Vedartha Sangraha, Sri Bhashya, Vedanta Deepa, Vedanta Sara, Gita Bhashya, three prose works called Vaikunta Gadya, Saranagati Gadya and Sri Ranga Gadya and a book called Nitya which deals with the daily rites and duties that should be performed by every Sri Vaishnavite. Among these, Sri Bhashya is his famous commentary on Badarayana's Brahma Sutras. The commentary on the first sutra is a lengthy thesis in which the author shows the untenability of rival systems of philosophy and expounds a number of disputed passages in the Srutis and Smritis as being in favour of his own system. Vedanta Sara and Vedanta Deepa are also commentaries on the Brahma Sutras, but are briefer than Sri Bhashya and leave out lengthy controversial discussions. They were evidently intended by the author to suit the average reader who is unacquainted with the methods of logical and interpretative disputation. 
+Bhagavan Ramanuja, the great exponent of the Visishtadvaita system of philosophy, was the author of nine treatises: Vedartha Sangraha, Sri Bhashya, Vedanta Deepa, Vedanta Sara, Gita Bhashya, three prose works called Vaikunta Gadya, Saranagati Gadya and Sri Ranga Gadya and a book called Nitya which deals with the daily rites and duties that should be performed by every Sri Vaishnavite. Among these, Sri Bhashya is his famous commentary on Badarayana's Brahma Sutras. The commentary on the first sutra is a lengthy thesis in which the author shows the untenability of rival systems of philosophy and expounds a number of disputed passages in the Śrutis and Smritis as being in favour of his own system. Vedanta Sara and Vedanta Deepa are also commentaries on the Brahma Sutras, but are briefer than Sri Bhashya and leave out lengthy controversial discussions. They were evidently intended by the author to suit the average reader who is unacquainted with the methods of logical and interpretative disputation. 
 
 ### Purpose
 Vedartha Sangraha, which was written before Sri Bhashya and which is referred to in the later work, may be considered primarily as a dissertation on the Visishtadvaita doctrine to show that it is more in keeping with the spirit of the Vedas or srutis than Advaita or Bhedabheda. Though this seems to have been the author's purpose, he has also appended, to this discussion, short essays on the validity of the Upanishads as a source of true knowledge which had been questioned by the Mimamsakas, the truth concerning the Supreme Deity whether it is Brahma, Vishnu or Siva and the existence of a region of eternal glory (Nitya vibhuti), a transcendental world beyond this world of matter, where Narayana, whom Ramanuja identifies with the Supreme Brahman of the Upanishads, ever dwells with His Consort and His attendants, in His mansions of wonderful beauty and grandeur and to which the souls of those that have attained release from the bondage of samsara proceed. 
@@ -143,7 +143,7 @@ If you ask the Advaitin,
 
 he replies, 
 
-> "Certainly there is. The Sastra(Sruti or Veda)is always reliable and can give unmistakable knowledge of the truth of things. The sastra' or Scripture is a sure and trustworthy means of knowledge and it says that only Brahman is real and that all the rest. namely, the world, is illusory. 
+> "Certainly there is. The Sastra(Śruti or Veda)is always reliable and can give unmistakable knowledge of the truth of things. The sastra' or Scripture is a sure and trustworthy means of knowledge and it says that only Brahman is real and that all the rest. namely, the world, is illusory. 
 > 
 > The sruti says "All this (namely, the world that we see) is Brahman' (Chandogya Upanishad III-14). This means that there is nothing else than Brahman. 
 > 
@@ -181,7 +181,7 @@ The student of Vedanta is likely to put the following question now:---
 
 The Advaitin hastens to correct the misapprehension in the following words: 
 
-> "No, no. Brahman has no attributes or qualities. If it had, there would be not only Brahman but its attributes, as well. But the Srutis clearly say "Brahman is one, without a second". Further there are texts in the Srutis which expressly state that Brahman is without parts (niravayava), without activity (nishkriya), and without qualities (nirguna) or differentiating features (heda). It can be described only in negative terms, It is not this, not this, [[7]] neti neti."
+> "No, no. Brahman has no attributes or qualities. If it had, there would be not only Brahman but its attributes, as well. But the Śrutis clearly say "Brahman is one, without a second". Further there are texts in the Śrutis which expressly state that Brahman is without parts (niravayava), without activity (nishkriya), and without qualities (nirguna) or differentiating features (heda). It can be described only in negative terms, It is not this, not this, [[7]] neti neti."
 
 "What, then, do you mean", the student asks, “by *satyam' 'jnanam', 'anantam', if they are not attributes?” 
 
@@ -189,7 +189,7 @@ The Advaitin answers:
 
 > 'When the sruti says satyam jnanam anantam Brahma, it means to say what Brahman is not.+++(5)+++ Brahman is other than the unreal or non-existing (satyam); it is other than non-sentience ( jnanam), it is other than the finite (anantam). That does not mean three different attributes. The three negatives mean only a single thing, "Brahman”. 
 > 
-> If these words mean three different attributes, it would follow that there are three objects or substantives (viseshyas) of which they are attributes (viseshana). But there is only Brahman. According to our Advaita doctrine, Brahman is knowledge or consciousness, not the knower or possessor of knowledge. It is infiniteness and not the possessor of infiniteness. Some Srutis add also 'ananda' to the three words already quoted from the sruti. It means that Brahman is other than 'dukkkham' or pain and misery." 
+> If these words mean three different attributes, it would follow that there are three objects or substantives (viseshyas) of which they are attributes (viseshana). But there is only Brahman. According to our Advaita doctrine, Brahman is knowledge or consciousness, not the knower or possessor of knowledge. It is infiniteness and not the possessor of infiniteness. Some Śrutis add also 'ananda' to the three words already quoted from the sruti. It means that Brahman is other than 'dukkkham' or pain and misery." 
 
 From what has been said so far, it may have become clear that Advaita, in its purest and most uncompromising form, does not recognise the real existence of anything other than Brahman. Then what about the world of sentient and nonsentient things which are said to exist? Advaita recognises three orders or degrees of existence (satta). One is transient or temporary appearance or existence, pratibhasika satta like that of the serpent which appears in the rope as rope as an illusion. In a few moments the illusion disappears, or, as it is termed, is sublated by true knowledge; far higher or superior is the existence of the world with all that it contains. It is real for all practical purposes ( vyavaharika satta ). This existence persists as long as the Jivatma is in the bondage of but when the atma attains release or mukti, the world disappears like any other illusion and the pure atma shines alone and without a second. This atma which is the same as Brahman is the only true Reality (paramarthika satta). 
 
@@ -198,15 +198,15 @@ There are some schools of Advaitins who hold also that there is only one Jiva in
 
 
 #### nirvikalpa pratyaxa
-It was stated before that Advaitins consider Sastra or Sruti as a more reliable authority or pramana than pratyaksha or sense-perception. This statement has now to be qualified and clarified. There is one form of pratyaksha which they look upon as a reliable source of knowledge. Take the case of a pot in front of us. 
+It was stated before that Advaitins consider Sastra or Śruti as a more reliable authority or pramana than pratyaksha or sense-perception. This statement has now to be qualified and clarified. There is one form of pratyaksha which they look upon as a reliable source of knowledge. Take the case of a pot in front of us. 
 
 Even before we preceive the pot as a pot, we perceive, says the Advaitin, that there is existence or sat or what corresponds to is (asti). At the very first instant, moment or kshana, what pratyaksha reveals is is or mere existence and in the perceptions that follow in later instants, 'pot' appears illusorily on the is and we say "There is a pot". This second or later perception is illusory and presents differentiating features like the quality of being a pot and others (bheda) which mark it off from, say, a cloth; when the pot is taken away, and a cloth is seen in its place, the perception of the cloth is super-imposed on bare existence, namely, the is spoken of before and later still, other things like table, chair, pen etc., are super-imposed, illusorily, on it. The one permanent feature that persists throughout and for ever is is or bare existence or sat and the other percepts, pot, cloth, table and the like supersede one another without persistence. So this bare existence or sat is alone real, being persistent; the temporary appearances, such as pot, cloth etc., are unreal.+++(5)+++ The first instant's perception which does not present differentiating features is called nirvikalpa pratyaksha and it is a source of true knowledge and the later perceptions presenting differentiating features are called savikalpa pratyaksha and are illusory. What persists for ever is alone true or real and this is one of the fundamental doctrines of Advaita, viz., whatever is temporary or transient is unreal or illusory. 
 
 
 #### Illusory shruti?
-When the Advaitin claims greater authority for Sastra or Sruti, other students of Vedanta are tempted to ask, 
+When the Advaitin claims greater authority for Sastra or Śruti, other students of Vedanta are tempted to ask, 
 
-> "According to your doctrine, everything other than Brahman is false or illusory. This would mean that the Sruti i-e Veda is illusory and false. How, then, could the Sruti, which is itself false, give true knowledge such as Brahman alone being real, the identity between the Jivatma and Brahman, and the like? Is not the knowledge given by an illusory or tainted source likely to be false also?" 
+> "According to your doctrine, everything other than Brahman is false or illusory. This would mean that the Śruti i-e Veda is illusory and false. How, then, could the Śruti, which is itself false, give true knowledge such as Brahman alone being real, the identity between the Jivatma and Brahman, and the like? Is not the knowledge given by an illusory or tainted source likely to be false also?" 
 
 To this the Advaitin replies as follows:- 
 
@@ -214,7 +214,7 @@ To this the Advaitin replies as follows:-
 
 A further question might be asked also, 
 
-> "If Sruti or Sastra destroys all illusions and reveals the only Reality, Brahman, what about the Sruti itself? Is there anything else that destroys Sruti, which itself is also an illusion?" 
+> "If Śruti or Sastra destroys all illusions and reveals the only Reality, Brahman, what about the Śruti itself? Is there anything else that destroys Śruti, which itself is also an illusion?" 
 
 The Advaitin answers thus: 
 
@@ -270,13 +270,13 @@ In the Upanishads, however, there are some passages where the soul or self is sa
 There is yet another step to be taken by the self or soul which it will realise as the result of Jnana and that is Pure Consciousness or Brahman. This alone is real mukti. 
 
 ### The means of attaining Mukti or upaya or Sadhana 
-Since Advita teaches that the bondage of Samsara is due to avidya or ignorance, the only means by which avidya, the cause of this bondage, could disappear is Jnana or knowledge. The Sastra or Sruti teaches this knowledge by which the self understands that, in reality, it is Brahman, ('Tat Tvam Asi: That thou art") The knowledge of the identity of the Jiva with Brahman is the only means by which the ignorance or Avidya could be got rid of. 
+Since Advita teaches that the bondage of Samsara is due to avidya or ignorance, the only means by which avidya, the cause of this bondage, could disappear is Jnana or knowledge. The Sastra or Śruti teaches this knowledge by which the self understands that, in reality, it is Brahman, ('Tat Tvam Asi: That thou art") The knowledge of the identity of the Jiva with Brahman is the only means by which the ignorance or Avidya could be got rid of. 
 
 The Gita describes three ways or Yogas to be followed by the seeker after salvation or mukti. One of them is karma yoga, the performance of the rites and duties pertaining to the man's station in life, his varna and his asrama, in a spirit of complete detachment, without any thought of their consequences or fruits (nishkama karma.) The rites and duties are to be performed as forms of worship to the Lord. 
 
 The Gita also teaches a second way, bhakti yoga which consists in loving devotion, adoration and meditation of the Lord (upasana.) 
 
-The third way is jnana yoga or the way of knowledge or jnana and the Jnani is praised highly in several passages. The Advaitin holds that, the direct means or sadhana which leads directly and at once to moksha or liberation is only jnana. In support of his view, he cites the authority of such passages in the Srutis as the following: 
+The third way is jnana yoga or the way of knowledge or jnana and the Jnani is praised highly in several passages. The Advaitin holds that, the direct means or sadhana which leads directly and at once to moksha or liberation is only jnana. In support of his view, he cites the authority of such passages in the Śrutis as the following: 
 
 > "He who [[15]] knows Brahman becomes Brahman," 
 
@@ -288,16 +288,16 @@ Thus in the Advaitic system, only jnana is the means of mukti. The jnani might g
 
 ## Sri Ramanuja's Visishtadvaita 
 ### I. On Tattva 
-After this preliminary study of Sri Sankaracharya's views on Tattva, Purushartha and Upaya in the system of Advaita philosophy, we may proceed to the study of Sri Ramanuja's views on these points as set forth in his Vedartha Sangraha. The reader would have noticed that the Advaitin approaches the inquiry into these points in two ways; first, through the Srutis or revelation, which he considers as superior even to sense-perception, inference and reason and afterwards through reason, inference or yukti. 
+After this preliminary study of Sri Sankaracharya's views on Tattva, Purushartha and Upaya in the system of Advaita philosophy, we may proceed to the study of Sri Ramanuja's views on these points as set forth in his Vedartha Sangraha. The reader would have noticed that the Advaitin approaches the inquiry into these points in two ways; first, through the Śrutis or revelation, which he considers as superior even to sense-perception, inference and reason and afterwards through reason, inference or yukti. 
 
 Sri Ramanuja adopts the same method in his approach. Taking the evidence of the srutis first, what do we find ?  
 
 #### Divergences in shrutis
 There are some srutis or passages in the Upanishads which describe Brahman as being without imperfections, without qualities or attributes, without change or modification, without activity and as being of the nature of pure consciousness or jnana and bliss ananda. [[16]] In the Katopanishad and Brihadaranyaka Upanishad, it is said that there is no such thing here as the many, or as plurality. These and other such texts deny the existence of the many. 
 
-There are other Srutis, however, which say of Brahman; "He is omniscient" (Mundaka Upanishad:) "By his mere will, He creates the Universe” "He gives forms and names to all things". "He is free from faults, from old age, from death, from sorrow, from hunger and thirst and is all-perfect and omnipotent" (Chandogya Upanishad). These Srutis deny the existence of faults and imperfections and affirm the existence in Him of positive qualities and attributes like omniscience and omnipotence. 
+There are other Śrutis, however, which say of Brahman; "He is omniscient" (Mundaka Upanishad:) "By his mere will, He creates the Universe” "He gives forms and names to all things". "He is free from faults, from old age, from death, from sorrow, from hunger and thirst and is all-perfect and omnipotent" (Chandogya Upanishad). These Śrutis deny the existence of faults and imperfections and affirm the existence in Him of positive qualities and attributes like omniscience and omnipotence. 
 
-A third set of passages in the Srutis declares: 
+A third set of passages in the Śrutis declares: 
 
 > "All this is Brahman, because all things are created by Him, sustained by Him and are merged in Him". 
 
@@ -305,7 +305,7 @@ A third set of passages in the Srutis declares:
 
 These affirm the world with all its varied contents as the creation of Brahman and also their oneness with Him. 
 
-There are, however, other Srutis which say, 
+There are, however, other Śrutis which say, 
 
 > "Man can attain immortality by realising that the individual self is different from the Supreme Self which inspires and directs it." 
 
@@ -319,7 +319,7 @@ and again,
 
 > "He is the Supreme Ruler among all rulers and is the Supreme Deity over all deities." 
 
-These Srutis state that Brahman is different from all else and that He rules over all. Other Srutis again declare as follows: 
+These Śrutis state that Brahman is different from all else and that He rules over all. Other Śrutis again declare as follows: 
 
 > "He has entered into all beings and rules them from within as their self or soul. This Atma is the Inner Ruler, Immortal." 
 
@@ -327,36 +327,36 @@ These Srutis state that Brahman is different from all else and that He rules ove
 
 These passages state that the relationship that exists between Brahman and the world consisting of sentient and non-sentient beings is that which exists between the soul and the body. 
 
-When there are such apparent inconsistencies in the Srutis regarding the essential nature of Brahman, how are we to explain them? One explanation might suggest itself at first sight, namely, that the Srutis were composed by different seers at different times and that these seers held divergent views about the nature of Brahman; but none of the orthodox commentators of the Upanishads or Brahma Sutras, would subscribe to this view, neither Sankara, nor Ramanuja, nor Bhaskara, nor Madhvacharya nor any others.+++(5)+++ They all agree in thinking that the Srutis are not divided among themselves and that all of them declare the same truth without any inconsistency or contradiction. The Srutis, they say, are not the work of any human or divine being and are eternal revelations of Tattva, Purushartha and Hita or Upaya. Their authority is unquestioned. If inconsistencies or contradictions are noticed, they are only apparent and due to wrong interpretations of the meaning of the passages. 
+When there are such apparent inconsistencies in the Śrutis regarding the essential nature of Brahman, how are we to explain them? One explanation might suggest itself at first sight, namely, that the Śrutis were composed by different seers at different times and that these seers held divergent views about the nature of Brahman; but none of the orthodox commentators of the Upanishads or Brahma Sutras, would subscribe to this view, neither Sankara, nor Ramanuja, nor Bhaskara, nor Madhvacharya nor any others.+++(5)+++ They all agree in thinking that the Śrutis are not divided among themselves and that all of them declare the same truth without any inconsistency or contradiction. The Śrutis, they say, are not the work of any human or divine being and are eternal revelations of Tattva, Purushartha and Hita or Upaya. Their authority is unquestioned. If inconsistencies or contradictions are noticed, they are only apparent and due to wrong interpretations of the meaning of the passages. 
 
-How Advaitins explain away these apparent inconsistencies and contradictions has already been indicated. According to them, the Srutis describe two Brahmans, a higher Para or Supreme Brahman without attributes and without activity, change or modification and a lower or Apara Brahman, who has the attributes, and activites mentioned in some passages, This lower Brahman is Iswara who is called the Ruler of the world, its director and so on. But He is unreal in the ultimate reckoning. Only pure, attributeless Brahman is real. 
+How Advaitins explain away these apparent inconsistencies and contradictions has already been indicated. According to them, the Śrutis describe two Brahmans, a higher Para or Supreme Brahman without attributes and without activity, change or modification and a lower or Apara Brahman, who has the attributes, and activites mentioned in some passages, This lower Brahman is Iswara who is called the Ruler of the world, its director and so on. But He is unreal in the ultimate reckoning. Only pure, attributeless Brahman is real. 
 
 Another explanation of theirs is that the passages which assign attributes and activities to Brahman express the prima-facie [[18]] view which is rejected by the passages which deny attributes and activities. The passages which deny attributes are later than the passages which affirm and therefore sublate or supersede them. 
 
 Sri Ramanuja is a realist. To him, Brahman, Iswara or God is real, so also the Jivatma or the individual self or soul. These souls are infinite in number and not one. Further matter or prakriti with all its modifications or evolutes is real. So there are three 'Reals' or Tattvas, Brahman or Iswara, the Soul or self (Jiva), (speaking of it as a class) and Prakriti or matter (inclusive of its evolutes). 
 
 #### One brahman
-Speaking of the first Tattva, namely, Brahman or Iswara, Ramanuja is emphatic in declaring that the Srutis do not speak of the existence of two Brahmans, a higher and a lower, and that the one Brahman, the Supreme Being which is described in the Srutis has infinite auspicious qualities. 
+Speaking of the first Tattva, namely, Brahman or Iswara, Ramanuja is emphatic in declaring that the Śrutis do not speak of the existence of two Brahmans, a higher and a lower, and that the one Brahman, the Supreme Being which is described in the Śrutis has infinite auspicious qualities. 
 
 Those passages which seemingly deny attributes in Brahman and call it Nirguna deny the existence in Brahman only of the three qualities ascribed to Prakriti, namely, sattvam, rajas and tamas. What is denied is only the existence in Brahman of faults and imperfections. How else could we explain such attributes as omniscience and omnipotence which are ascribed to Brahman in the very passages which deny a number of attributes? Nirguna means "without blemishes, faults or imperfections". 
 
 #### Attributes
 In reply to the Advaitin who states that the passages in which Brahman is said to possess attributes express the prima facie view and that they are superseded or sublated by the passages which deny attributes, Sri Ramanuja says:- 
 
-> "All the knowledge concerning the nature of Brahman has to come to us only from Scripture or Sruti. We can have no valid knowledge of it from any other source. It would indeed be funny if the Srutis first said that Brahman had qualities and activities only to deny it afterwards. Why should the Srutis state at first something that is not true and then deny its truth?''+++(5)+++ [[19]] 
+> "All the knowledge concerning the nature of Brahman has to come to us only from Scripture or Śruti. We can have no valid knowledge of it from any other source. It would indeed be funny if the Śrutis first said that Brahman had qualities and activities only to deny it afterwards. Why should the Śrutis state at first something that is not true and then deny its truth?''+++(5)+++ [[19]] 
 
 #### neti neti
 The Advaitin may ask: "But how do you explain those passages which state that Brahman can be described only in negative terms (Neti-Neti)? Do they not mean that Brahman is without attributes and that it is not this, not this, not that and so on?" 
 
 Ramanuja answers the question as follows;,-
 
-> The Sruti which says Neti-Neti "not this", "not this" really means that Brahman's nature or Svarupa and qualities are incapable of adequate and complete description and that what is at all possible is only a partial or fragmentary description. What the Sruti states by saying "not this" "not this" is that Brahman is not to be considered as being limited to this or that, but that it is these and an infinity of others as well, which defy adequate enumeration. 
+> The Śruti which says Neti-Neti "not this", "not this" really means that Brahman's nature or Svarupa and qualities are incapable of adequate and complete description and that what is at all possible is only a partial or fragmentary description. What the Śruti states by saying "not this" "not this" is that Brahman is not to be considered as being limited to this or that, but that it is these and an infinity of others as well, which defy adequate enumeration. 
 > 
 > The passage in question is in Brihadaranyaka Upanishad IV. iii. 6. It is said there that Brahman is two-fold, that it has a tangible form and is also formless. Then follows the statement neti neti, which means Iti na, Iti na, not this only, not this only'. 
 > 
-> The author of the Brahma Sutras has explained the meaning of this text or Sruti in III, ii, 21 as follows:-  
+> The author of the Brahma Sutras has explained the meaning of this text or Śruti in III, ii, 21 as follows:-  
 > 
-> > " What is denied is, of course, that Brahman is only this much. Therefore the Sruti proceeds further to describe Brahman. What is said in the Sruti after Neti-Neti, is that there is nothing superior to Brahman and that it is the real (Satyam) of all reals (satyasya); for the individual souls (pranas) are real and Brahman is the Real among all reals". 
+> > " What is denied is, of course, that Brahman is only this much. Therefore the Śruti proceeds further to describe Brahman. What is said in the Śruti after Neti-Neti, is that there is nothing superior to Brahman and that it is the real (Satyam) of all reals (satyasya); for the individual souls (pranas) are real and Brahman is the Real among all reals". 
 > 
 > The individual self is called Real because, in its essential nature, it does not undergo any change or modification like matter or prakriti. 
 
@@ -367,13 +367,13 @@ The Advaitin will now ask,
 
 Sri Ramanuja's answer is to this effect: 
 
-> "This idea that there is no such thing in Brahman as the many (nana) is found in the Kata Upanishad II, and in the 'Brihadaranyaka Upanishad VI. Immediately after this statement, the Sruti declares that Brahman has all things under His control (sarvasya vasi) and that He rules over all (sarvasya isanah). In the face of these later passages, how can it be maintained that Brahman has no attributes at all, while rulership and control are ascribed to Him ?" 
+> "This idea that there is no such thing in Brahman as the many (nana) is found in the Kata Upanishad II, and in the 'Brihadaranyaka Upanishad VI. Immediately after this statement, the Śruti declares that Brahman has all things under His control (sarvasya vasi) and that He rules over all (sarvasya isanah). In the face of these later passages, how can it be maintained that Brahman has no attributes at all, while rulership and control are ascribed to Him ?" 
 
 It may be said by the Advaitin that the passage in question denies the existence of anything other than Brahman. To this Ramanuja would reply as follows:- 
 
 > That is certainly not the meaning. 
 
-To decide what the true interpretation of the text is, we should go back to a consideration of the apparently divergent Srutis quoted before,  
+To decide what the true interpretation of the text is, we should go back to a consideration of the apparently divergent Śrutis quoted before,  
 
 - some seemingly denying the existence of anything other than Brahman,  
 - some stating that all this is Brahman, because it is created and sustained by Brahman and is merged in it, which seem to recognise the reality of the world with its sentient and non-sentient beings and  
@@ -381,13 +381,13 @@ To decide what the true interpretation of the text is, we should go back to a co
 
 What are we to make of these apparently inconsistent statements?  
 
-The Advaitin flatly declares that the Srutis which speak of the reality of the world and of the differences between Brahman and the jivas on the one hand and Brahman and matter on the other, are not valid and that only those passages like "This existed, my dear, as Sat without a second" are authoritative.  
+The Advaitin flatly declares that the Śrutis which speak of the reality of the world and of the differences between Brahman and the jivas on the one hand and Brahman and matter on the other, are not valid and that only those passages like "This existed, my dear, as Sat without a second" are authoritative.  
 This would imply rejection of all the passages in the Upanishads which speak of the Jiva and of Prakriti or matter and of the attributes of Brahman as real. 
 
 Similarly if we take the Svetasvatara passage cited before, which says that Brahman, the Jiva and Prakriti are real and different from one another as valid and authoritative,  
 we shall have to reject the authority any of those texts which declare that Brahman is the only reality and that there is no such thing as the many. 
 
-Is there any interpretation or view which would enable us to explain and reconcile these apparently divergent Srutis without rejecting of them as invalid? Ramanuja says, 
+Is there any interpretation or view which would enable us to explain and reconcile these apparently divergent Śrutis without rejecting of them as invalid? Ramanuja says, 
 
 > "Yes, there is and this key which would reconcile all the texts is found in the Brihadaranyaka text usually called Antaryami Brahmanam. It says that the world of matter or non-sentient things is the body of Brahman and that Brahman is its soul. Likewise, it says that all sentient beings or Jivas are Brahman's body, Brahman being their soul. This relationship between body and soul existing between the world and Brahman is the key- doctrine of Sri Ramanuja's Visishtadvaita system. 
 > 
@@ -398,10 +398,10 @@ Is there any interpretation or view which would enable us to explain and reconci
 > Brahman with chit and achit, the sentient and non-sentient things, as His body, forms a unity or a Single Real and there is indeed nothing else, for the world with all its variety is included in Brahman as its body.  
 > This body is really an attribute or prakara of the soul;  
 > and we often speak of the soul of a man with its prakara or body as a single thing or unity.  
-> In the same way Brahman is, according to the Srutis, a single Real and there is nothing else, for all else form the body of Brahman which is inseparable from it and may therefore be included as one with the Svarupa or the substantive part of Brahman which has, for its attributive amsa or part, the world of chit and achit. Thus the texts that, in the opinion of the Advaitin, teach unity, [[22]] find an easy explanation without denying the reality of the world and calling it an illusion. 
+> In the same way Brahman is, according to the Śrutis, a single Real and there is nothing else, for all else form the body of Brahman which is inseparable from it and may therefore be included as one with the Svarupa or the substantive part of Brahman which has, for its attributive amśa or part, the world of chit and achit. Thus the texts that, in the opinion of the Advaitin, teach unity, [[22]] find an easy explanation without denying the reality of the world and calling it an illusion. 
 > 
 > At the same time, the body of man is different from his soul. So also the world of chit and achit, which is the body of Brahman, is different from the Inner Soul or self of all, namely, the Svarupa of Brahman  
-> and the Svetasvatara and other texts which speak of the differences between Iswara, the individual self, and matter or prakriti are easily explained as being consistent with this Sruti called Antaryami Brahmana.  
+> and the Svetasvatara and other texts which speak of the differences between Iswara, the individual self, and matter or prakriti are easily explained as being consistent with this Śruti called Antaryami Brahmana.  
 > Thus Brahman with chit and achit as its prakaras or attributes is the only Reality and Ramanuja's system is therefore Visishta Advaita. 
 
 #### Body and karma
@@ -417,15 +417,89 @@ In order to understand this aright, we should first define what is meant by the 
 > The body of a sentient being is something that is supported and controlled by its soul or self and that exists solely for the fulfilment of the purposes of the soul or self.  
 > If this definition is a true definition (and its truth cannot be denied), the question of Brahman suffering from samsara owing to the possession of a body will not asise". 
 
-#### nirvikaratA
-The Srutis which say that Brahman is without change or modification (nirvikara) are easily explained in Visishtadvaita, because the Svarupa or substantive part or Viseshya amsa of Brahman never undergoes any change and remainsever Satyam, Jnanam, Anantam, ("Reality, Consciousness and Infiniteness.) In the attributive part or amsa of Brahmae which is its body, there are two reals, chit and achit. These alone undergo changes. The achit portion or prakriti, which is in such a subtle state or sukshma dasa, in pralaya (ie) before creation, that it can hardly be said to exist at all, becomes modified in creation or Srishti into Sthula or gross matter and evolves into various forms like earth, water, fire, air, ether (akasa), the senses, etc., and we see them in the pot, cloth, wood, metal, the bodies of animals and so on. The chit or sentient part, which also lies in Brahman during pralaya as indistinguishable and insignificant, so much so that it may be said not to exist at all, becomes associated with prakriti in the gross or sthula state in accordance with its past karma and is seen as the self in gods, men, animals, plants and so on. And let us remember that Brahman is the Inner Self of chit and achit, both in their subtle and in their gross state; the sentient being chit thus enclosed in the body, enjoys or experiences pleasures and pains due to samsara, while the Svarupa of Brahman, the substantive, which has the chit as its body, remains changeless and unaffected by the sorrows of the latter. 
-We are now in a position to understand Ramanuja's interpretation of what is stated in Sadvidya which Advaitins consider as strongly supporting their doctrine. "This, my dear, existed before as sat, alone and without a second." This is the text in question. "Before" says Ramanuja, means "during pralaya". "This" means, of course, the world of chit and achit. Sat, which, Advaitins say, means pure existence (satyam) or Brahman, means, according to Ramanuja, Brahman with chit and achit in their subtle state. Sat does not mean "pure and mere existence"; for, in other Upanishads, the same sentence occurs with substitutes like Atma or the Self, Brahman and even Narayana; so it refers 
-24 
-to the Supreme Being with attributes; for, immediately after, the Sruti, says: 'It willed to become the many'. Then follows a description of srishti or creation. So will is ascribed by the Sruti itself to Sat in this very passage which is considered to support the Advaita doctrine of a Brahman without attributes. 
-This naturally leads us to another passage in the Chandogya Upanishad: Chapter VI, where Sadvidya is taught by his father to Svetaketu, The father asks, at the beginning of the chapter, whether Svetaketu asked his teachers. about that, by knowing which everything else becomes known. Svetaketu does not know how, by knowing one thing, all things could become known and the father afterwards explains his meaning to Svetaketu, The Advaitins explain the meaning of this passage thus: "Brahman being the only Reality, when it is known, all other things become known, because they are only illusory appearances which have no reality. Since no other 'reals' exist, by knowing Brahman all become known." Svetaketu finds it difficult to understand this. So the father, says the Advaitin, gives illustrations to explain the statement as follows:- "When you know a single lump of mud, all things made of mud are known (such as pots and pitchers), for all changes and modifications are mere forms and names which have no reality. Only mud is real". The passage in the Sruti, says the Advaitin, means, that Brahman alone is real like the mud in the illustration and that other things which are super-imposed on it are mere forms and names having no reality. Ramanuja denies that the original statement and the mud illustration which follows it are a statement of the Advaitic doctrine of Brahman being the only "real". His explanation of the passage is to this effect:- Svetaketu is here taught the truth that Brahman with chit and achit as His body in the subtle state in pralaya, (ie) before creation, gives rise to Brahman 
-25 
-with chit and achit in their gross state (namely the world that we see). The former is the material cause (upadana karana) from which arises the effect (karya) namely the world with Brahman as its Inner Self. What the father teaches his son is this: When Brahman, the cause, is known, the effect, namely, the world of chit and achit with Brahman as its soul is also known, for the effect, karya, is only the cause, karana, with new states, forms and names. which enable it to serve certain practical purposes. This does not deny the reality of the world. Pots and pitchers are modifications or new states of mud with new forms and names and serving certain new purposes, but as substance, they are only mud and are not essentially different from mud which has only entered a new state or condition. 
-Towards the end of this same sixth chapter of Chandogya Upanishad,the well-known sentence, Tut Tvam Asi, is repeated several times, as it were, to enforce the teaching in Svetaketu's mind. To the Advaitin this is a Maha Vakya teaching the identity of the Jiva with Brahman. Tat is Brahman, the ultimate and only Real, on which the illusory world appears. Tram (thou) is Svetaketu, who is addressed by his father. The two are said to be the same. The Advaitin asks, "Can there be a more emphatic declara.. tion of the unity or identity of Brahman and the Jiva than these words which are repeated ever so many times in that context? This Mahavakya declares that there is only one 'real', namely, Brahman, which is the cause or substrate of the origin, maintenance and dissolution of the world and it is declared to be the individual self of Svetaketu in "That Thou Art"; but on the face of it, the sentence would appear to convey no coherent meaning, for how can the individual self of Svetaketu with its limited powers be the same as Erahman which is infinite? So the direct or primary meaning of the word "Thou" will have to be given up as being incongruous 
+#### nirvikāratā
+The Śruti-s which say that Brahman is without change or modification (nirvikara) are easily explained in Visishtadvaita, because  
+the Svarupa or substantive part or Viseshya amśa of Brahman never undergoes any change and remainsever Satyam, Jnanam, Anantam, ("Reality, Consciousness and Infiniteness.)  
+In the attributive part or amśa of Brahman which is its body, there are two reals, chit and achit. These alone undergo changes.  
+
+#### sthUla and sUxma
+The achit portion or prakriti,  
+which is in such a subtle state or sukshma dasa, in pralaya (ie) before creation, that it can hardly be said to exist at all,  
+becomes modified in creation or Srishti into Sthula or gross matter  
+and evolves into various forms like earth, water, fire, air, ether (akasa), the senses, etc., and we see them in the pot, cloth, wood, metal, the bodies of animals and so on.  
+The chit or sentient part, which also lies in Brahman during pralaya as indistinguishable and insignificant,  
+so much so that it may be said not to exist at all,  
+becomes associated with prakriti in the gross or sthula state in accordance with its past karma  
+and is seen as the self in gods, men, animals, plants and so on. 
+
+And let us remember that Brahman is the Inner Self of chit and achit, both in their subtle and in their gross state;  
+the sentient being chit thus enclosed in the body, enjoys or experiences pleasures and pains due to samsara,  
+while the Svarupa of Brahman, the substantive, which has the chit as its body, remains changeless and unaffected by the sorrows of the latter. 
+
+We are now in a position to understand Ramanuja's interpretation of what is stated in Sadvidya  
+which Advaitins consider as strongly supporting their doctrine. 
+
+> "This, my dear, existed before as sat, alone and without a second." 
+
+This is the text in question.  
+"Before" says Ramanuja, means "during pralaya".  
+"This" means, of course, the world of chit and achit.  
+Sat, which, Advaitins say, means pure existence (satyam) or Brahman,  
+means, according to Ramanuja, Brahman with chit and achit in their subtle state.+++(5)+++  
+Sat does not mean "pure and mere existence"; for, in other Upanishads, the same sentence occurs with substitutes like Atma or the Self, Brahman and even Narayana; so it refers [[24]] to the Supreme Being with attributes;  
+for, immediately after, the Śruti, says:  
+'It willed to become the many'.  
+Then follows a description of srishti or creation.  
+So will is ascribed by the Śruti itself to Sat in this very passage  
+which is considered to support the Advaita doctrine of a Brahman without attributes.+++(5)+++ 
+
+#### Only thing to be known
+This naturally leads us to another passage in the Chandogya Upanishad:  
+Chapter VI, where Sadvidya is taught by his father to Svetaketu,  
+The father asks, at the beginning of the chapter,  
+whether Svetaketu asked his teachers about that,  
+by knowing which everything else becomes known.  
+Svetaketu does not know how, by knowing one thing,  
+all things could become known  
+and the father afterwards explains his meaning to Svetaketu.  
+
+The Advaitins explain the meaning of this passage thus:  
+"Brahman being the only Reality, when it is known, all other things become known, because they are only illusory appearances which have no reality. Since no other 'reals' exist, by knowing Brahman all become known." 
+
+Svetaketu finds it difficult to understand this.  
+So the father, says the Advaitin, gives illustrations to explain the statement as follows:- 
+
+>"When you know a single lump of mud,  
+all things made of mud are known (such as pots and pitchers),  
+for all changes and modifications are mere forms and names which have no reality. Only mud is real". 
+
+The passage in the Śruti, says the Advaitin,  
+means that Brahman alone is real like the mud in the illustration  
+and that other things which are super-imposed on it are mere forms and names having no reality.  
+
+
+Ramanuja denies that the original statement and the mud illustration which follows it are a statement of the Advaitic doctrine of Brahman being the only "real". His explanation of the passage is to this effect:- [[25]] 
+
+> Svetaketu is here taught the truth  
+that Brahman with chit and achit as His body in the subtle state in pralaya, (ie) before creation,  
+gives rise to Brahman with chit and achit in their gross state (namely the world that we see).  
+The former is the material cause (upadana karana)  
+from which arises the effect (karya) namely the world  
+with Brahman as its Inner Self.  
+>
+> What the father teaches his son is this:  
+When Brahman, the cause, is known,  
+the effect, namely, the world of chit and achit with Brahman as its soul is also known,  
+for the effect, karya, is only the cause, karana, with new states, forms and names;  
+which enable it to serve certain practical purposes.  
+This does not deny the reality of the world.  
+Pots and pitchers are modifications or new states of mud with new forms and names and serving certain new purposes,  
+but as substance,  
+they are only mud and are not essentially different from mud  
+which has only entered a new state or condition. 
+
+#### Tat Tvam Asi
+Towards the end of this same sixth chapter of Chandogya Upanishad,the well-known sentence, Tat Tvam Asi, is repeated several times, as it were, to enforce the teaching in Svetaketu's mind. To the Advaitin this is a Maha Vakya teaching the identity of the Jiva with Brahman. Tat is Brahman, the ultimate and only Real, on which the illusory world appears. Tram (thou) is Svetaketu, who is addressed by his father. The two are said to be the same. The Advaitin asks, "Can there be a more emphatic declara.. tion of the unity or identity of Brahman and the Jiva than these words which are repeated ever so many times in that context? This Mahavakya declares that there is only one 'real', namely, Brahman, which is the cause or substrate of the origin, maintenance and dissolution of the world and it is declared to be the individual self of Svetaketu in "That Thou Art"; but on the face of it, the sentence would appear to convey no coherent meaning, for how can the individual self of Svetaketu with its limited powers be the same as Erahman which is infinite? So the direct or primary meaning of the word "Thou" will have to be given up as being incongruous 
 26 
 and a secondary or indirect meaning (lakshana) will have to be taken. The result of this would be: 
 ** That would 
@@ -483,7 +557,7 @@ It was pointed out before that the Advaitin postulates a factor called maya or a
 32 
 
 this is a table', and so 
-So far the evidence of the Srutis. Approaching the question from the point of view of reason, Ramanuja does not accept the Advaitin's contention that only what persists for ever is real. It may be remembered that in pratyaksha, according to the Advaitin, there is only one aspect that persists right through, namely, mere existence or what corresponds to asti oris and that this existence or asti alone is real and that pot, cloth, table, etc., as in the perceptions 
+So far the evidence of the Śrutis. Approaching the question from the point of view of reason, Ramanuja does not accept the Advaitin's contention that only what persists for ever is real. It may be remembered that in pratyaksha, according to the Advaitin, there is only one aspect that persists right through, namely, mere existence or what corresponds to asti oris and that this existence or asti alone is real and that pot, cloth, table, etc., as in the perceptions 
 this is a pot, 
 this is a cloth, on, do not persist, as they replace one another and are therefore unreal. Ramanuja states in reply that if an object like pot is seen to exist in a certain place, at a certain time and another object. say, cloth, is seen there at the next instant or afterwards, it does not follow that the thing which does not persist is unreal. To put it in other words, the Advaitin holds that only what exists for ever and is not superseded or sublated by anything else, is real. Ramanuja, on the other hand, maintains that the reality or unreality of a certain 
 
