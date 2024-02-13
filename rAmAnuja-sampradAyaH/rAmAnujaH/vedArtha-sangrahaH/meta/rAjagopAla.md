@@ -499,31 +499,41 @@ they are only mud and are not essentially different from mud
 which has only entered a new state or condition. 
 
 #### Tat Tvam Asi
-Towards the end of this same sixth chapter of Chandogya Upanishad,the well-known sentence, Tat Tvam Asi, is repeated several times, as it were, to enforce the teaching in Svetaketu's mind. To the Advaitin this is a Maha Vakya teaching the identity of the Jiva with Brahman. Tat is Brahman, the ultimate and only Real, on which the illusory world appears. Tram (thou) is Svetaketu, who is addressed by his father. The two are said to be the same. The Advaitin asks, "Can there be a more emphatic declara.. tion of the unity or identity of Brahman and the Jiva than these words which are repeated ever so many times in that context? This Mahavakya declares that there is only one 'real', namely, Brahman, which is the cause or substrate of the origin, maintenance and dissolution of the world and it is declared to be the individual self of Svetaketu in "That Thou Art"; but on the face of it, the sentence would appear to convey no coherent meaning, for how can the individual self of Svetaketu with its limited powers be the same as Erahman which is infinite? So the direct or primary meaning of the word "Thou" will have to be given up as being incongruous 
-26 
-and a secondary or indirect meaning (lakshana) will have to be taken. The result of this would be: 
-** That would 
-• 
-mean pure Brahman. without attributes, activity, change or relations of any kind and thou' should be taken to mean not the individual self of Svetaketu, which is the direct meaning, but Brahman without the limitations, attributes, 
-68 
-"} 
-activities etc., of the individual, a meaning arrived at by having recourse to the indirect meaning (or lakshana). There would then be no equation of two different things but an identity or unity, namely. Brahman". The Advaitin, who gives this explanation of the Mahavakya That thou art illustrates it with an example from ordinary life. Having seen a person, called, say, Devadatta, in the past, in a certain place, we now see him, say, in some other place and say, This is that Devadatta'. Since the Devadatta seen formerly in one place cannot be the same as the Devadatta seen now in a different place, we have to resort to lakshana and give up the qualifications and relationships such as ⚫ formerly in one place and now in a different place'. What results in thus giving up the direct meanings which would not convey a coherent meaning, is the bare identity, namely, Devadatta. So also, Brahman in That Thou Art'. 
-• 
-? 
-⚫ 
-* 
-' 
-· 
-In reply to this Advaitic explanation of identity as contained in That thou art', Ramanuja submits the whole question of appositional or coordinative use of words, as in That thou art Janaka is a king "This is that Devadatta ”, Ayodhya was the capital of the Raghus' and so on, to a careful investigation. It is really a question for grammarians to decide. What do we really mean when we say 'Janaka is a king'? Is it simply the identity of Janaka or something more? So also in " Ayodhya city of the Raghus ", is the purport merely something more? This kind of grammatical 
-was the capital 
-• 
-or 
-Ayodhya ' apposition or 
-( 
-f 
-27 
-C 
-co-ordination of two substantive words is called samanadhikaranya in Sanskrit and as That thou art', the Advaitin's Mahavakya, is an instance of samanadhikaranya, Ramanuja considers it necessary to determine the meaning and purpose of this appositional use more than once in Vedarthasangraha. The purpose of samanadhikaranya is to show that two or more different attributes, qualities or relationships refer to a single object. For example in Janaka is a king', the word Janaka, signifies a person with a specific form and with that name. The word king' means something different, namely, his being the ruler of a kingdom. The sentence having the co-ordination or samanadhikaranya aims at showing that these two sets of different attributes meet in the same person and not the bare identity of Janaka. In the example cited by the Advaitin, 'This is that Devadatta', Ramanuja says that there is no incoherence or absurdity in taking the direct meaning of the words just as they are (ie) the Devadatta seen formerly in the place A is the same as the Devadatta seen now in the place B. The same person could have been in one place in the past and in a diffent place at present. Where is the absurdity in it? So we may take the direct meaning of the words 'the Devadatta seen in the past in the place A, is the Devadatta seen at present in the place B.' In fact the aim of the samanadhikaranya is just to show that 'being present in A at a former time' and 'being present now in B' are both in Devadatta. There is absolutely no reason why we should give up the direct and primary meaning. It may be asked what is the relevancy of all this discussion of the meaning of samanadhikaranya to the interpretation of the Maharakya "That thou art"? Ramanuja replies as follows:-When the direct and primary meanings of That' and 'thou' may be taken just as they are and a sound, coherent and valid meaning can be had for the sentence, where is the need for resorting to lakshana or the indireet 
+Towards the end of this same sixth chapter of Chandogya Upanishad,the well-known sentence, Tat Tvam Asi, is repeated several times, as it were, to enforce the teaching in Svetaketu's mind. To the Advaitin this is a Maha Vakya teaching the identity of the Jiva with Brahman. Tat is Brahman, the ultimate and only Real, on which the illusory world appears. Tram (thou) is Svetaketu, who is addressed by his father. The two are said to be the same. 
+
+The Advaitin asks, 
+
+> "Can there be a more emphatic declaration of the unity or identity of Brahman and the Jiva than these words which are repeated ever so many times in that context?  
+> This Mahavakya declares that there is only one 'real', namely, Brahman,  
+> which is the cause or substrate of the origin, maintenance and dissolution of the world  
+> and it is declared to be the individual self of Svetaketu in "That Thou Art";  
+> but on the face of it, the sentence would appear to convey no coherent meaning,  
+> for how can the individual self of Svetaketu with its limited powers be the same as Brahman which is infinite?  
+> So the direct or primary meaning of the word "Thou" will have to be given up as being incongruous [[26]] and a secondary or indirect meaning (lakshana) will have to be taken.  
+> The result of this would be:  
+That would mean pure Brahman without attributes, activity, change or relations of any kind  
+and 'thou' should be taken to mean not the individual self of Svetaketu, which is the direct meaning, but Brahman without the limitations, attributes, [[68]] activities etc., of the individual,  
+a meaning arrived at by having recourse to the indirect meaning (or lakshana).  
+There would then be no equation of two different things but an identity or unity, namely - Brahman". 
+
+The Advaitin, who gives this explanation of the Mahavakya "That thou art" illustrates it with an example from ordinary life.  
+
+> Having seen a person, called, say, Devadatta, in the past, in a certain place,  
+> we now see him, say, in some other place and say,  
+> 'This is that Devadatta'.  
+> Since the Devadatta seen formerly in one place cannot be the same as the Devadatta seen now in a different place,  
+> we have to resort to lakshana and give up the qualifications and relationships such as 'formerly in one place' and 'now in a different place'.  
+> What results in thus giving up the direct meanings which would not convey a coherent meaning, is the bare identity, namely, Devadatta.  
+> So also, 'Brahman in That Thou Art'. 
+
+In reply to this Advaitic explanation of identity as contained in 'That thou art',  
+Ramanuja submits the whole question of appositional or coordinative use of words,  
+as in "That thou art", "Janaka is a king", "This is that Devadatta ”, 'Ayodhya was the capital of the Raghus' and so on, to a careful investigation.  
+It is really a question for grammarians to decide. What do we really mean when we say 'Janaka is a king'? Is it simply the identity of Janaka or something more? So also in " Ayodhya was the capital of the Raghus ", is the purport merely '... city Ayodhya'  apposition or something more?  
+This kind of grammatical [[27]] co-ordination of two substantive words is called samanadhikaranya in Sanskrit  
+and as 'That thou art', the Advaitin's Mahavakya, is an instance of samanadhikaranya,  
+Ramanuja considers it necessary to determine the meaning and purpose of this appositional use more than once in Vedarthasangraha.  
+The purpose of samanadhikaranya is to show that two or more different attributes, qualities or relationships refer to a single object. For example in Janaka is a king', the word Janaka, signifies a person with a specific form and with that name. The word king' means something different, namely, his being the ruler of a kingdom. The sentence having the co-ordination or samanadhikaranya aims at showing that these two sets of different attributes meet in the same person and not the bare identity of Janaka. In the example cited by the Advaitin, 'This is that Devadatta', Ramanuja says that there is no incoherence or absurdity in taking the direct meaning of the words just as they are (ie) the Devadatta seen formerly in the place A is the same as the Devadatta seen now in the place B. The same person could have been in one place in the past and in a diffent place at present. Where is the absurdity in it? So we may take the direct meaning of the words 'the Devadatta seen in the past in the place A, is the Devadatta seen at present in the place B.' In fact the aim of the samanadhikaranya is just to show that 'being present in A at a former time' and 'being present now in B' are both in Devadatta. There is absolutely no reason why we should give up the direct and primary meaning. It may be asked what is the relevancy of all this discussion of the meaning of samanadhikaranya to the interpretation of the Maharakya "That thou art"? Ramanuja replies as follows:-When the direct and primary meanings of That' and 'thou' may be taken just as they are and a sound, coherent and valid meaning can be had for the sentence, where is the need for resorting to lakshana or the indireet 
 · 
 28 
 ? 
