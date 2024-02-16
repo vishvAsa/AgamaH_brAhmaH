@@ -543,61 +543,299 @@ When the direct and primary meanings of That' and 'thou' may be taken just as th
 
 He then proceeds to explain what he considers to be the real meaning of 'Tat Tvam Asi', That thou art ';  
 'That' of course signifies the Supreme Brahman who is the cause of the origin, maintenance and dissolution of the world.  
-'Thou', at first sight, would seem to mean Svetaketu or Svetaketu's self but it really means here the soul or the Inner Self within the soul of Svetaketu. When we use the word or name 'Devadatta', it refers to the bodily configuration of Devadatta, but does not stop there. It is not merely his body that is meant by the word Devadatta' but his Atma soul or self as well. The denotation or meaning of the word does not stop there; it refers also to the soul or Inner Self or Antaryami who has the soul of Devadatta for His body, as set forth in the Brihadaranyaka Upanishal. So That thou art means Brahman who is the cause, the support etc., of the world, is also the inner Self or Antaryami who dwells within the soul of Svetaketu. Here two different attributes, that of being the cause etc., of the world and that of being the inner self of Svetaketu are ascribed to the same object, namely, Brahman, and this is the real purport or significance of samanadhikaranya as understood by grammarians, whose authority in a matter like this should be unquestioned. But it may be asked: "Is not Ramanuja also giving up the primary and direct meaning of thou' namely, Svetaketu's self and taking up lakshana or an indirect and secondary mean ng viz.. the inner self within the self of Svetaketu? Ramanuja's answer is as follows, Take any word, say, cow. It has three meanings, all primary and direct, namely, the bodily configuration of the cow, the self or soul of the cow and likewise, the Inner Self within the soul of the cow, which is Brahman or God or Iswara. Laymen who are not acquainted with Vedanta are not aware of this third significance or meaning which is as direct and as primary as the other two. 
-¿ 
-29 
+
+'Thou', at first sight, would seem to mean Svetaketu or Svetaketu's self but it really means here the soul or the Inner Self within the soul of Svetaketu.  
+When we use the word or name 'Devadatta', it refers to the bodily configuration of Devadatta, but does not stop there.  
+It is not merely his body that is meant by the word 'Devadatta' but his Atma soul or self as well.  
+The denotation or meaning of the word does not stop there; it refers also to the soul or Inner Self or Antaryami who has the soul of Devadatta for His body, as set forth in the Brihadaranyaka Upanishad. 
+
+So That thou art means Brahman who is the cause, the support etc., of the world,  
+is also the inner Self or Antaryami who dwells within the soul of Svetaketu.
+
+Here two different attributes, that of being the cause etc., of the world and that of being the inner self of Svetaketu are ascribed to the same object, namely, Brahman,  
+and this is the real purport or significance of samanadhikaranya as understood by grammarians, whose authority in a matter like this should be unquestioned. 
+
+But it may be asked: 
+
+> "Is not Ramanuja also giving up the primary and direct meaning of 'thou' namely, Svetaketu's self and taking up lakshana or an indirect and secondary meaning viz.. the inner self within the self of Svetaketu?" 
+
+Ramanuja's answer is as follows, 
+
+> Take any word, say, cow. It has three meanings, all primary and direct, namely, the bodily configuration of the cow, the self or soul of the cow and likewise, the Inner Self within the soul of the cow, which is Brahman or God or Iswara.  
+> Laymen who are not acquainted with Vedanta are not aware of this third significance or meaning which is as direct and as primary as the other two.  [[29]]  
 So my interpretation is sound and in accordance with the Antaryami Brahmanam and the science of grammar. 
-as expounded by 
-To sum up: In Visishtadvaita 
-' Ramanuja, the Upanishads impart to us knowledge of only one Brahman and that is Saguna Brahman or Brahman with infinite auspicious qualities. He has chat and achit as His body. The words Nirguna, Niranjana, etc., mean only that Brahman has none of the faults and the imperfections. found in the Jiva. Visishtadvaita agrees with Advaita in holding that the essential nature or Svarupa of Brahman is Jnana or consciousness, but maintains, in addition, that Brahman, who is consciousness, has for its attribute, jnana. Brahman is thus the knower as well as knowledge or conscious. ness. Without a knower, there can be no such thing as bare consciousness. The knowledge or jnana which is an attribute of Brahman is called dharmabhuta jnana or attributive knowledge, to distinguish it from the Svarupa (or substance) of Brahman which is also called Jnana. As has been pointed out, the Brahman of the Upanishads is also the God of religion who creates, maintains and sustains the world. It is He who rewards the Jiva with mukti, when he strives for it. 
-The Jiva in Visishtadvaita is as real as Brahman itself. Its essential nature svarupa, is also jnana but it differs from Brahman in being atomic (anu), whereas Brahman is all-pervasive or omnipresent (vibhu). The Jivatma, has knowledge for one of its attributes and this knowledge is called dharma bhuta jnana, or attributive knowledge. Though the individual self or Jiratma is anu, its attributive knowledge is capable of infinite reach. Owing, however, to beginningless avidya or karma, this attibutive knowledge has undergone contraction, but in the state of mukti or release from samsara, it will become infinite in its reach and will be capable of 
-30 
-understanding all things at the same time. Sri Ramanuja states also that there is another class of individual souls called Nityas in the region of eternal glory, which he calls Nitya Vibhuti. Their attributive knowledge has always been infinite in its range as they have never been in the bondage of samsara. The arguments by which he establishes this will be seen in chapter-9. 
-Prakriti or matter is also real in Ramanuja's system. It undergoes modifications into various tattrās (24 in number) which are the same as the 24 reals in the Sankhya system. Prakriti and its evolutes exist for the enjoyment or experience of the individual souls in accordance with their 
-PURUSHARTHA in VISISHTADVAITA. 
-past karma. 
-The ultimate or supreme goal of life is to attain release from samsara, and enjoy the bliss of Brahman and not, as in Advaita, to become Brahman. The avidya which is the same as karmı belongs to the jiva and not to Brahman. Ramanuja accepts the view that the released soul will enjoy infinite bliss in Nitya Vibhuti or God's Region of Eternal Glory. 
+
+#### saguNa-brahman
+To sum up: In Visishtadvaita as expounded by Ramanuja,  
+the Upanishads impart to us knowledge of only one Brahman and that is Saguna Brahman or Brahman with infinite auspicious qualities. He has chat and achit as His body.  
+The words Nirguna, Niranjana, etc., mean only that Brahman has none of the faults and the imperfections found in the Jiva.  
+
+#### dharmabhuta jnana
+Visishtadvaita agrees with Advaita  
+in holding that the essential nature or Svarupa of Brahman is Jnana or consciousness,  
+but maintains, in addition,  
+that Brahman, who is consciousness,  
+has for its attribute, jnana.  
+Brahman is thus the knower  
+as well as knowledge or consciousness.  
+Without a knower, there can be no such thing as bare consciousness.  
+The knowledge or jnana which is an attribute of Brahman is called **dharmabhuta jnana** or attributive knowledge,  
+to distinguish it from the Svarupa (or substance) of Brahman which is also called Jnana.  
+
+As has been pointed out,  
+the Brahman of the Upanishads  
+is also the God of religion who creates, maintains and sustains the world.  
+It is He who rewards the Jiva with mukti, when he strives for it. 
+
+#### Jiva
+The Jiva in Visishtadvaita is as real as Brahman itself.  
+Its essential nature svarupa, is also jnana  
+but it differs from Brahman in being atomic (anu),  
+whereas Brahman is all-pervasive or omnipresent (vibhu).  
+
+The Jivatma, has knowledge for one of its attributes  
+and this knowledge is called dharma bhuta jnana, or attributive knowledge.  
+Though the individual self or Jivatma is anu,  
+its attributive knowledge is capable of infinite reach.  
+
+Owing, however, to beginningless avidya or karma,  
+this attibutive knowledge has undergone contraction,  
+but in the state of mukti or release from samsara,  
+it will become infinite in its reach and will be capable of [[30]] understanding all things at the same time. 
+
+#### Nityas
+Sri Ramanuja states also  
+that there is another class of individual souls called Nityas  
+in the region of eternal glory, which he calls Nitya Vibhuti.  
+Their attributive knowledge has always been infinite in its range  
+as they have never been in the bondage of samsara.  
+The arguments by which he establishes this will be seen in chapter-9. 
+
+#### Prakriti
+Prakriti or matter is also real in Ramanuja's system.  
+It undergoes modifications into various tattvas (24 in number)  
+which are the same as the 24 reals in the Sankhya system.  
+Prakriti and its evolutes exist for the enjoyment or experience of the individual souls  
+in accordance with their past karma. 
+
+### PURUSHARTHA in VISISHTADVAITA
+The ultimate or supreme goal of life  
+is to attain release from samsara,  
+and enjoy the bliss of Brahman  
+and not, as in Advaita, to become Brahman.+++(5)+++  
+
+The avidya which is the same as karma  
+belongs to the jiva and not to Brahman.  
+Ramanuja accepts the view  
+that the released soul will enjoy infinite bliss in Nitya Vibhuti or God's Region of Eternal Glory. 
 
 ### THE MEANS or UPAYA
 
+Of the three Yogas, taught in the Gita,  
+bhakti or devotion with its highest development,  
+which Ramanuja calls parama bhakti,  
+is the direct and only means of attaining mukti. 
 
-Of the three Yogas, taught in the Gita, bhakti or devotion with its highest development, which Ramanuja calls parama bhakti, is the direct and only means of attaining mukti. Karma and jnana are essential but are only accessories to bhakti; karma or the rites and duties prescribed for each varna and each asrama, have to be performed as long as life lasts and are, on no account, to be given up. 
+Karma and jnana are essential  
+but are only accessories to bhakti;  
+karma or the rites and duties prescribed for each varna and each asrama,  
+have to be performed as long as life lasts  
+and are, on no account, to be given up. 
 
-One of the texts in the Mundaka Upanishad says that Brahman reveals Himself only to him with whom He is pleased. Brahman would be pleased only with him, who has deserved well of Him by supreme devotion in accordance with the Sastras. Bhakti is, therefore, the only means or upaya 
+One of the texts in the Mundaka Upanishad says that  
+Brahman reveals Himself only to him  
+with whom He is pleased.  
+Brahman would be pleased only with him,  
+who has deserved well of Him by supreme devotion  
+in accordance with the Sastras.  
+Bhakti is, therefore, the only means or upaya [[31]] for attaining the bliss of Brahman.  
 
-31 
-for attaining the bliss of Brahman. At the same time, Ramanuja states that bhakti and jnana are not essentially different. Bhakti, too, is knowledge or jnana. When jnana deepens sufficiently, it attains the form of bhakti. It is this deep jnana which has developed intɔ bhakti that is the upaya or means to mukti. 
-It was said above that the Svarupa or essential nature of Brahman and of the individual self in its purity is jnana and that Brahman and the Jiva have jnana cr knowledge as an attribute. It may be asked how jnana which is a substance or dravya could be an attribute of jnana (srarupa-jnana). Attributes are usually of the nature of gunas or qualities and not substances or dravya. Ramanuja replies to this objection by stating that there is no such invariable rule. Even a substance may be an attribute of another substance as when we speak of a dandi or a man with a stick or danda. Here danda or stick, which is a substance, is an attribute of the dandi. The only difference is that the stick is not inseparable from the man, whereas attributive knowledge is inseparable from the knowledge which is the svarupa or substance of the Jira or Brahman. So also the Jiva and Prakriti, or matter, though substances (dravya), are inseparable attributes of Brahman, being His body. 
-It was pointed out before that the Advaitin postulates a factor called maya or avidya, which, by some kind of shadowing or association with Brahman, causes the illusory appearance of the world. Ramanuja submits this theory to an elaborate and critical examination and shows that maya, cannot be defined in any manner to the satisfaction of others and that it lands Advaita in inconsistencies and contradictions. These arguments may be studied in the text itself of Vedarthasangraha. 
-32 
+At the same time, Ramanuja states that bhakti and jnana are not essentially different.  
+Bhakti, too, is knowledge or jnana.  
+When jnana deepens sufficiently, it attains the form of bhakti.+++(5)+++  
+It is this deep jnana  
+which has developed into bhakti  
+that is the upaya or means to mukti. 
 
-this is a table', and so 
-So far the evidence of the Śrutis. Approaching the question from the point of view of reason, Ramanuja does not accept the Advaitin's contention that only what persists for ever is real. It may be remembered that in pratyaksha, according to the Advaitin, there is only one aspect that persists right through, namely, mere existence or what corresponds to asti oris and that this existence or asti alone is real and that pot, cloth, table, etc., as in the perceptions 
-this is a pot, 
-this is a cloth, on, do not persist, as they replace one another and are therefore unreal. Ramanuja states in reply that if an object like pot is seen to exist in a certain place, at a certain time and another object. say, cloth, is seen there at the next instant or afterwards, it does not follow that the thing which does not persist is unreal. To put it in other words, the Advaitin holds that only what exists for ever and is not superseded or sublated by anything else, is real. Ramanuja, on the other hand, maintains that the reality or unreality of a certain 
+### dharma-bhUta-jNAna as dravya
+It was said above that  
+the Svarupa or essential nature of Brahman  
+and of the individual self in its purity  
+is jnana  
+and that Brahman and the Jiva have jnana or knowledge as an attribute.  
 
-see in 
-thing has nothing to do with the duration of its existence. A thing may exist only for a short time and yet be real. The Advaitin might ask thereon, The objects that we dreams are seen only for a very short time and are replaced or superseded by others. Do you think that these objects or experiences in dreams are real? Is it not agreed on all hands that dreams ate unreal?' Ramanuja would reply to this effect: I do not admit for a moment that because a thing exists only for a short time, it is unreal. Dreams, too, are real in our system. They are created by Iswara to reward or punish the Jivatma for his karma. The fact of their transience cannot be considered as a reason to deny their reality. So it would come to this that in Visishtadvaita, there is no experience or object that is unreal. " 
-The Advaitin may ask, "What about the shell that is mistaken for silver owing to a defect in the vision or in the• 
-33 
-light?" Ramanuja's answer is that, in the shell there is an element' or aspect of real silver which accounts for the mistake or illusion. It is this fraction of real silver that is 
-taken to be all silver. 
-In Visishtadvaita, Brahman, Iswara or God, for all these mean the same, is both the cause and the effect. As has been indicated before, Brahman with chit and achit in their subtle state is the upadana karana or material cause and Brahman with chit and achit in their sthula state as the world is the effect. 
-In reply to the Advaitin's contention that first perception (pratyaksha) or perception at the first instant or kshana presents only bare existence without any differentiating features (bheda) and that this nirvikalpaka pratyaksha is alone true and valid, presenting as it does, pure Brahman without any differentiating features, Ramanuja denies that, even in the first instant, there is any such thing as nirvikalpaka pratyaksha and that even in that instant, the perception presents not bare existence but the configuration or physical structure of the object which has differentiating features. All perceptions, whether of the first instant or of the later, are only savikalpaka or sakara pratyaksha. 
-Besides the criticism of Advaita which occupies the greater part of Vedarthasangraha, brief references are made also to the Bhedabheda systems of Bhaskara, and Yadavaprakasa. 
-In Bhaskara's system, mayavada or the theory of the world being an illusory appearance due to the shadowing of Brahman by maya, is strongly condemned. The reality of the world is affirmed as strongly as in Visishtadvaita; but the identity of the Jiva with 
-4-A 
-34 
-Brahman, which is the apparent purport of such texts as 'That thou art' is sought to be explained in a manner different from that adopted by Advaitins and Visishtadvaitins. Brahman is considered to be full of infinite auspicious qualities, as in Ramanuja's system. But owing to some limiting adjuncts or upadhis Brahman becomes the Jivas subject to samsara and its ills. Unlike maya in Advaita, which is postulated to account for the Jivas, these adjuncts or upadhis are real in Bhaskara's system. Brahman, in a sense, is different from the Jiva, as it has been conditioned by the upadhi. At the same time, in mukti when the adjuncts will be got rid of, the jiva or individual self becomes one with Brahman by knowing its unity with Brahman as taught in such passages as "He who knows Brahman becomes Brahman", Thus in another sense, there is no difference between Brahman and the individual self. This system is therefore called Bhedabheda. In holding that in mukti, the individual self becomes Brahman, from which its difference is only adventitious, Bhaskara's system has affinities with Advaita. 
-The adjuncts or upadhis, are the body, the senses and the mind. The means of attaining mukti or becoming Brahman are both karma and jnana, neither of them being merely accessory. In Yadhavaprakasa's system, Brahman has, within itself, a certain power or energy by which it evolves (parinama) into Iswara, chit and achit. 
-The means of attaining mukti, which is the as becoming Brahman, are karma and jnana, both being. equally important as in Bhaskara's system. 
-is a modification or parinama of Brahman, again and this explains the purport of the 
-The jiva, which 
-becomes Brahman Mahavakya •That 
-thou art '. This system is also called Bhedabheda, as the Jiva, in one sense, is different from Brahman and, in another, the same as Brahman. 
-35 
+It may be asked how jnana which is a substance or dravya  
+could be an attribute of jnana (svarupa-jnana).  
+Attributes are usually of the nature of gunas or qualities  
+and not substances or dravya.  
+
+Ramanuja replies to this objection by stating that there is no such invariable rule.  
+Even a substance may be an attribute of another substance  
+as when we speak of a dandi or a man with a stick or danda.+++(5)+++  
+Here danda or stick, which is a substance, is an attribute of the dandi.  
+The only difference is that  
+the stick is not inseparable from the man,  
+whereas attributive knowledge is inseparable  
+from the knowledge which is the svarupa or substance of the Jiva or Brahman.  
+So also the Jiva and Prakriti, or matter, though substances (dravya),  
+are inseparable attributes of Brahman, being His body.+++(5)+++ 
+
+### avidya
+It was pointed out before that the Advaitin postulates a factor called maya or avidya,  
+which, by some kind of shadowing or association with Brahman,  
+causes the illusory appearance of the world.  
+Ramanuja submits this theory to an elaborate and critical examination  
+and shows that maya, cannot be defined in any manner  
+to the satisfaction of others  
+and that it lands Advaita in inconsistencies and contradictions.  
+
+These arguments may be studied in the text itself of Vedarthasangraha. 
+[[32]] 
+
+### What is real?
+So far the evidence of the Śrutis.  
+Approaching the question from the point of view of reason,  
+Ramanuja does not accept the Advaitin's contention  
+that only what persists for ever is real.+++(5)+++  
+
+#### Temporary things
+It may be remembered that in pratyaksha,  
+according to the Advaitin,  
+there is only one aspect that persists right through,  
+namely, mere existence or what corresponds to asti oris and that this existence or asti alone is real  
+and that pot, cloth, table, etc.,  
+as in the perceptions 
+'this is a pot, this is a cloth, this is a table', and so on,  
+do not persist,  
+as they replace one another and are therefore unreal.  
+
+Ramanuja states in reply  
+that if an object like pot is seen to exist in a certain place, at a certain time  
+and another object, say, cloth, is seen there at the next instant or afterwards,  
+it does not follow that the thing which does not persist is unreal.  
+
+To put it in other words,  
+the Advaitin holds that only what exists for ever and is not superseded or sublated by anything else, is real.  
+Ramanuja, on the other hand, maintains that the reality or unreality of a certain thing has nothing to do with the duration of its existence.  
+A thing may exist only for a short time and yet be real.  
+
+#### Dream
+The Advaitin might ask thereon,  
+
+> The objects that we dreams are seen only for a very short time and are replaced or superseded by others.  
+Do you think that these objects or experiences in dreams are real?  
+Is it not agreed on all hands that dreams are unreal?
+
+Ramanuja would reply to this effect: 
+
+> I do not admit for a moment that  
+> because a thing exists only for a short time, it is unreal.  
+> Dreams, too, are real in our system.  
+> They are created by Iswara to reward or punish the Jivatma for his karma.  
+> The fact of their transience cannot be considered as a reason to deny their reality.  
+> So it would come to this  
+> that in Visishtadvaita,  
+> there is no experience or object that is unreal. " 
+
+#### Silver in shell
+The Advaitin may ask, 
+
+> "What about the shell that is mistaken for silver owing to a defect in the vision or in the [[33]] light?" 
+
+Ramanuja's answer is that,  
+
+> in the shell there is an element or aspect of real silver  
+which accounts for the mistake or illusion.  
+It is this fraction of real silver  
+that is taken to be all silver. 
+
+### brahman is both cause and effect
+In Visishtadvaita, Brahman, Iswara or God, for all these mean the same,  
+is both the cause and the effect. As has been indicated before, Brahman with chit and achit in their subtle state is the upadana karana or material cause and Brahman with chit and achit in their sthula state as the world is the effect.  
+
+### No nirvikalpa pratyaxa
+In reply to the Advaitin's contention that first perception (pratyaksha) or perception at the first instant or kshana presents only bare existence  
+without any differentiating features (bheda)  
+and that this nirvikalpaka pratyaksha is alone true and valid,  
+presenting as it does, pure Brahman without any differentiating features, 
+
+Ramanuja denies that, even in the first instant, there is any such thing as nirvikalpaka pratyaksha  
+and that even in that instant,  
+the perception presents not bare existence  
+but the configuration or physical structure of the object which has differentiating features.  
+
+All perceptions, whether of the first instant or of the later,  
+are only savikalpaka or sakara pratyaksha. 
+
+## bhAskara's jIva-brahmaikya
+Besides the criticism of Advaita which occupies the greater part of Vedarthasangraha,  
+brief references are made also to the Bhedabheda systems of Bhaskara, and Yadavaprakasa.  
+
+In Bhaskara's system,  
+mayavada or the theory of the world being an illusory appearance due to the shadowing of Brahman by maya,  
+is strongly condemned.  
+The reality of the world is affirmed as strongly as in Visishtadvaita;  
+but the identity of the Jiva with [[34]] Brahman,  
+which is the apparent purport of such texts as 'That thou art' is sought to be explained  
+in a manner different from that adopted by Advaitins and Visishtadvaitins. 
+
+Brahman is considered to be full of infinite auspicious qualities,  
+as in Ramanuja's system.  
+But owing to some limiting adjuncts or upadhis  
+Brahman becomes the Jivas  
+subject to samsara and its ills.+++(4)+++  
+
+Unlike maya in Advaita, which is postulated to account for the Jivas,  
+these adjuncts or upadhis are real in Bhaskara's system.  
+Brahman, in a sense, is different from the Jiva,  
+as it has been conditioned by the upadhi.  
+At the same time, in mukti when the adjuncts will be got rid of,  
+the jiva or individual self becomes one with Brahman  
+by knowing its unity with Brahman as taught in such passages as  
+"He who knows Brahman becomes Brahman".  
+
+Thus in another sense,  
+there is no difference between Brahman and the individual self.  
+This system is therefore called Bhedabheda.  
+
+In holding that in mukti, the individual self becomes Brahman,  
+from which its difference is only adventitious,  
+Bhaskara's system has affinities with Advaita. 
+
+The adjuncts or upadhis, are the body, the senses and the mind.  
+The means of attaining mukti or becoming Brahman  
+are both karma and jnana,  
+neither of them being merely accessory. 
+
+## Yadhavaprakasa
+In Yadhavaprakasa's system,  
+Brahman has, within itself,  
+a certain power or energy  
+by which it evolves (parinama) into Iswara, chit and achit.  
+
+The means of attaining mukti,  
+which is the as becoming Brahman,  
+are karma and jnana, both being equally important as in Bhaskara's system. 
+
+The jiva, which is a modification or parinama of Brahman, 
+becomes Brahman again  
+and this explains the purport of the Mahavakya  
+'That thou art '.  
+This system is also called Bhedabheda,  
+as the Jiva, in one sense, is different from Brahman  
+and, in another, the same as Brahman. 
+
+[[35]] 
+
+
 Sri Ramanuja's criticism of these two systems may be studied in the text itself. 
-The short essays on The Supreme Deity,' 'Nitya Vibhuti,' and Brahman's being both the 'Upadana Karana', and the 'Nimitta Karana of the world are easy and do not require any explanatory notes. A separate introduction is, however, given at the beginning of the essay on the views of Mimamsakas. 
 
 NOTE :-In Yadavaprakasa's system, the Jiva in mukti becomes one with Brahman by remaining within it as its sakti with a separate consciousness of its own. 
 (See Srutaprakasika; 4-4-4) ' 
+
+## Conclusion
+The short essays on 'The Supreme Deity,' 'Nitya Vibhuti,' and Brahman's being both the 'Upadana Karana', and the 'Nimitta Karana of the world' are easy  
+and do not require any explanatory notes.  
+
+A separate introduction is, however, given at the beginning of the essay on the views of Mimamsakas. 
+
