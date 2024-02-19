@@ -6,9 +6,7 @@ title = "01"
 
 1. Then therefore the enquiry into Brahman.
 
-In this Sūtra the word 'then' expresses immediate sequence; the word 'therefore' intimates that what has taken place (viz. the study of the karmakāṇḍa of the Veda) constitutes the reason (of the enquiry into Brahman). For the fact is that the enquiry into (lit.'the desire to know') Brahman--the fruit of which enquiry is infinite in nature and permanent--follows immediately in the case of him who, having read the Veda together with its auxiliary
-
-disciplines, has reached the knowledge that the fruit of mere works is limited and non-permanent, and hence has conceived the desire of final release.
+In this Sūtra the word 'then' expresses immediate sequence; the word 'therefore' intimates that what has taken place (viz. the study of the karmakāṇḍa of the Veda) constitutes the reason (of the enquiry into Brahman). For the fact is that the enquiry into (lit.'the desire to know') Brahman--the fruit of which enquiry is infinite in nature and permanent--follows immediately in the case of him who, having read the Veda together with its auxiliary disciplines, has reached the knowledge that the fruit of mere works is limited and non-permanent, and hence has conceived the desire of final release.
 
 The compound 'brahmajijñāsā' is to be explained as 'the enquiry of Brahman,' the genitive case 'of Brahman' being understood to denote the object; in agreement with the special rule as to the meaning of the genitive case, Pāṇini II, 3, 65. It might be said that even if we accepted the general meaning of the genitive case--which is that of connexion in general--Brahman's position (in the above compound) as an object would be established by the circumstance that the 'enquiry' demands an object; but in agreement with the principle that the direct denotation of a word is to be preferred to a meaning inferred we take the genitive case 'of Brahman' as denoting the object.
 
