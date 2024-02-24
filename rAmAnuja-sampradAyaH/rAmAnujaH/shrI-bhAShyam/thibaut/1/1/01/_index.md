@@ -32,7 +32,9 @@ Hence the earlier and the later Mīmāṁsā are separate only in so far as ther
 
 [^fn_1]: 5:1 The first six books of the Pūrva Mīmāṁsā-sūtras give rules for the fundamental forms of the sacrifice; while the last six books teach how these rules are to be applied to the so-called modified forms.
 
-The entire Mīmāṁsā-sātra--which begins with the Sūtra 'Now therefore the enquiry into religious duty' and concludes with the Sūtra '(From there is) no return on account of scriptural statement'--has, owing to the special character of the contents, a definite order of internal succession. This is as follows. At first the precept 'one is to learn one's own text (svādhyāya)' enjoins the apprehension of that aggregate of syllables which is called 'Veda,' and is here referred to as 'svādhyāya.' Next there arises the desire to know of what nature the 'Learning' enjoined is to be, and how it is to be done. Here there come in certain injunctions such as
+The entire Mīmāṁsā-sātra--which begins with the Sūtra 'Now therefore the enquiry into religious duty' and concludes with the Sūtra '(From there is) no return on account of scriptural statement'--has, owing to the special character of the contents, a definite order of internal succession. 
+
+This is as follows. At first the precept 'one is to learn one's own text (svādhyāya)' enjoins the apprehension of that aggregate of syllables which is called 'Veda,' and is here referred to as 'svādhyāya.' Next there arises the desire to know of what nature the 'Learning' enjoined is to be, and how it is to be done. Here there come in certain injunctions such as
 
 
  'Let a Brahnmana be initiated in his eighth year' and 'The teacher is to make him recite the Veda'; and certain rules about special observances and restrictions--such as 'having performed the upākarman on the full moon of Śravaṇa or Praushṭḥapada according to prescription, he is to study the sacred verses for four months and a half--which enjoin all the required details.
