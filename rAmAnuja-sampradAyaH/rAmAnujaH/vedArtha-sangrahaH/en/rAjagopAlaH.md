@@ -1270,21 +1270,130 @@ which might be given by Mimamsakas of apurva or karya
 would apply either to the rite or the fruit of the rite  
 and not merely to this karya or apurva. 
 
+#### Not that which is aimed by volition
 Further, those who hold this theory  
 regarding the meanings of words as being related only to a thing to be done,  
 they should define what they mean by karya or 'the thing to be done'  
-(when they say it is identical with apurva.) 
-If they say karya or apurva is what is produced by the volition (kriti or mental effort) and is, at the same time, aimed at by the voli. tion, we ask, what is meant by "that which is aimed at by the volition?". (1) If the reply is "that with which the volition concerns itself is that which is aimed at by the volition", volition which is an activity of a person cannot have any concerns (adhikara) or aims (for only persons have aims and concern themselves with activities like sacrifices). How can volition have 'concerns' (adhikara)? (2) If the definition is altered or amended in this way: "That desirous of securing which a person produces the mental effort (or volition) is what is aimed at by the volition”, it would become too wide as a definition (ativayapti) for, then, that which is desired would become that which is aimed at by the volition. (It would apply to svarga or any worldly enjoyment that the sacrificer desires as well as to the apurva). The Mimam saka 
-.. 
-might reply, "There are two aspects of desire, one is existence as the object of the desire and the other is the power of stimulating the person175 
-to act. It is this stimulating or inspiring aspect that forms the definition of "that which is aimed at by the volition." This effort (to amend the definition) which is due to an obstinate insistence on one's theory is all in vain. The power of stimulating or inspiring is nothing but the absolute dependence of what appears to be the object of desire on one's own effort for its realization (i. e.) that the object desired cannot be attained except by one's own effort; for only then (i. e.) after realising that it cannot be secured without one's effort, does one proceed to enter on the activity. When the desire for a thing (svarga and the like) has arisen, and when the person realises that the desired object cannot be secured without beginning his effort, the desire to act arises and then the person acts. This is the order of sequence as understood by those who know the truth of these things. Therefore, there is no such thing as that which is aimed at by the volition (apurva) apart from the desired object 
-object being dependent for its attainment on one's volition. The Mimamasaka might now say, "The reason for a thing being desired is its being agreeable (anukula) to a person. (8) So, that which is agreeable to a person is that which is aimed at by volition". But this cannot be. That which is agreeable (anukula) to a person (is synonymous with pleasure and) means nothing other than pleasure, in the same way as that which is disagreeable to a person is synonymous with pain (dukkha). There is nothing other than pleasure which can be said to be agreeable to a person (and apurva is certainly not pleasure). The Mimamsaka might reply, "The relief from pain which is other than pleasure (sukha) is seen to be agreeable to a 
-a person". We refute this statement as follows:AND 
-176 
-"Whatever is agreeable to one's self is pleasure (sukha) and whatever is disagreeable to one's self is pain (dukkha). This is the differentiation between pleasure and pain. Between them, pleasure which is agreeable to one's self becomes an object of desire and pain which is disagreeable to one's self becomes undesirable. Since contact with pain is unbearable, relief from it, too, becomes an object of desire. Since it becomes an object of desire in the same way as pleasure, relief from pain is confounded with pleasure (though it is not the same as pleasure). To a man who is still in the stream of births and deaths (samsara) owing to contact with prakriti, there are three possible states:- contact with what is agreeable, contact 
-contact with what is disagreeable and being in his own essential nature with neither pleasure nor pain. Absence of contact with pleasure and absence of contact with pain are both the same (because that is the third state described above with neither pleasure nor pain). Therefore when the contact with what is disagreeable exists, relief from it, which is this third state of being in a neutral condition, becomes desirable. Since, there is a similarity between pleasure and this relief from pain in both of them being desirable, relief from pain is illusorily mistaken (bhrama) for pleasure, 
-Therefore, those who judge matters by valid evidence laugh at the man who says that Niyoga (commandment as also that which is acquired by the commandment or vidhi namely, apurva, is agreeable because whatever is agreeable is of the nature of pleasure (sukha). It is because Niyoga (apurva) can bring about the accomplishment of the desired object that it is assumed to be the object of a commandment, an enduring thing 
-177 
+(when they say it is identical with apurva.)  
+If they say karya or apurva is what is produced by the volition (kriti or mental effort) and is, at the same time, aimed at by the volition,  
+we ask, what is meant by  
+"that which is aimed at by the volition?".  
+
+- (1) If the reply is  
+  "that with which the volition concerns itself is  
+  that which is aimed at by the volition",  
+  volition which is an activity of a person  
+  cannot have any concerns (adhikara) or aims (for only persons have aims and concern themselves with activities like sacrifices).  
+  How can volition have 'concerns' (adhikara)? 
+- (2) If the definition is altered or amended in this way:  
+  "That desirous of securing which  
+  a person produces the mental effort (or volition)  
+  is what is aimed at by the volition”,  
+  it would become too wide as a definition (ativayapti)  
+  for, then, that which is desired  
+  would become that which is aimed at by the volition.  
+  (It would apply to svarga or any worldly enjoyment  
+  that the sacrificer desires as well as to the apurva). 
+
+The Mimamsaka might reply, 
+
+> "There are two aspects of desire, one is existence as the object of the desire  
+> and the other is the power of stimulating the person [[175]] to act.  
+> It is this stimulating or inspiring aspect  
+> that forms the definition of "that which is aimed at by the volition."  
+
+This effort (to amend the definition)  
+which is due to an obstinate insistence on one's theory  
+is all in vain.  
+The power of stimulating or inspiring  
+is nothing but the absolute dependence  
+of what appears to be the object of desire  
+on one's own effort for its realization  
+(i. e.) that the object desired cannot be attained  
+except by one's own effort;  
+for only then (i. e.)  
+after realising that it cannot be secured without one's effort,  
+does one proceed to enter on the activity.  
+When the desire for a thing (svarga and the like) has arisen,  
+and when the person realises that the desired object cannot be secured  
+without beginning his effort,  
+the desire to act arises  
+and then the person acts.  
+This is the order of sequence  
+as understood by those who know the truth of these things.  
+Therefore, there is no such thing as  
+that which is aimed at by the volition (apurva)  
+apart from the desired object -  
+object being dependent for its attainment  
+on one's volition. 
+
+The Mimamasaka might now say, 
+
+> "The reason for a thing being desired  
+> is its being agreeable (anukula) to a person. (3)  
+> So, that which is agreeable to a person  
+> is that which is aimed at by volition". 
+
+But this cannot be.  
+That which is agreeable (anukula) to a person  
+(is synonymous with pleasure and)  
+means nothing other than pleasure,  
+in the same way as that which is disagreeable to a person is synonymous with pain (dukkha).  
+There is nothing other than pleasure  
+which can be said to be agreeable to a person  
+(and apurva is certainly not pleasure). 
+
+The Mimamsaka might reply, 
+
+> "The relief from pain which is other than pleasure (sukha) is seen to be agreeable to a 
+a person". 
+
+[[176]]
+
+We refute this statement as follows: 
+ 
+> "Whatever is agreeable to one's self is pleasure (sukha)  
+and whatever is disagreeable to one's self is pain (dukkha).  
+This is the differentiation between pleasure and pain.  
+Between them,  
+pleasure which is agreeable to one's self  
+becomes an object of desire  
+and pain which is disagreeable to one's self  
+becomes undesirable.  
+Since contact with pain is unbearable,  
+relief from it, too,  
+becomes an object of desire.  
+Since it becomes an object of desire  
+in the same way as pleasure,  
+relief from pain is confounded with pleasure  
+(though it is not the same as pleasure).  
+> 
+> To a man who is still in the stream of births and deaths (samsara)  
+owing to contact with prakriti,  
+there are three possible states:-  
+contact with what is agreeable,  
+contact with what is disagreeable  
+and being in his own essential nature with neither pleasure nor pain.  
+Absence of contact with pleasure  
+and absence of contact with pain  
+are both the same  
+(because that is the third state described above with neither pleasure nor pain).  
+Therefore when the contact with  
+what is disagreeable exists,  
+relief from it, which is this third state of being in a neutral condition, becomes desirable.  
+>
+> Since, there is a similarity between pleasure and this relief from pain  
+in both of them being desirable,  
+relief from pain is illusorily mistaken (bhrama) for pleasure.  
+Therefore, those who judge matters by valid evidence  
+laugh at the man who says that Niyoga  
+(commandment as also  
+that which is acquired by the commandment or vidhi  
+namely, apurva), is agreeable  
+because whatever is agreeable is of the nature of pleasure (sukha).  
+[[177]]  
+It is because Niyoga (apurva) can bring about the accomplishment of the desired object that it is assumed to be the object of a commandment, an enduring thing 
+
 (lasting for a long time) and also as a new and super-sensuous entity (resulting from the activity connected with sacrifices and the like). In the words "Svarga kamo yajeta" (He who is desirous of svarga shall perform the sacrifice), the contention of the Mimamsakas that the thing to be done signified by the word yajeta is something other than the activity connected with the performance of the sacrifice, namely, apurta-this contention would be possible only because of its being read in association with the words, "He who is desirous of svarga" and consequently of its being considered as the means of attaining savrga. The *Mimamsakas cannot say that the use of the word yajeta first suggests niyoga or apurva independently of the other words in the sentence and that its being read in association with the words "He who is desirous of svarga”, later brings into prominence the person (commanded to perform the sacrifice) who is necessary for the production of this apurva. They cannot say so, for the verb yajeta suggests only "what can be accomplished by man's effort". It is only by its being read in association with "He who is desirous of svarga", that the Mimamsakas could infer what is not conveyed by the verb yajeta and what is other than that denoted by the verb, namely "the thing to be done", its enduring quality, and its being a new super-sensuous entity (apurva). Its being different from the activity which alone is suggested by the verb is inferred from its appearing as the means of bringing into effect. The terminations of the potential (ling) and imperative moods affixed to verbs only indicate that the activity is the means of attaining svarga, 
 Note:-*The Sanskrit verb yajeta means “should perform a sacrifice". But the Mimamsahas say that it means "create or acquire apurva (by performing the sacrifice)"' 
 svarga 
