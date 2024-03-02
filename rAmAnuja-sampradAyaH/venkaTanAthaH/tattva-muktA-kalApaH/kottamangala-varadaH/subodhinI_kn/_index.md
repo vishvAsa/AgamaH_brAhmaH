@@ -3,6 +3,8 @@ title = "+ಸುಬೋಧಿನಿ"
 
 +++
 
+Source: [TW](https://archive.org/details/in.ernet.dli.2015.382168/page/n3/mode/2up)
+
 
 ಶ್ರೀಮನ್ನಿಗಮಾನ್ಯಮಹಾದೇಶಿಕವಿರಚಿತವಾದ   
 ತತ್ವಮುಕ್ತಾಕಲಾಪ   
