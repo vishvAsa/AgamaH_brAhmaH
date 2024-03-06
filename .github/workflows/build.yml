@@ -35,13 +35,12 @@ jobs:
       if: ${{ github.event_name != 'workflow_dispatch' }}
       uses: tj-actions/changed-files@v41
       with:
-        fetch_additional_submodule_history: "true"
         files_ignore: |
           static/**
           content/**
     - name: Setup Hugo
       id: setup_hugo
-      if: ${{ steps.changed-files.conclusion == 'skipped' || steps.changed-files-yaml.outputs.any_changed == 'true'}}
+      if: ${{ steps.changed-files.conclusion == 'skipped' || steps.changed-files.outputs.any_changed == 'true'}}
       uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: "0.122.0"
