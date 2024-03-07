@@ -881,15 +881,125 @@ Nor finally can we admit the contention that it is rational to interpret the Ved
 यदुक्तम् इत्यादि । श्रुतिप्रामाण्याङ्गीकारेऽपि श्रुत्यर्थविरोधस्यानादरणीयत्वे प्रयोजकत्वात् तत् कापिललोकायतमतयोरविशिष्टमिति त्याज्यत्वमित्यर्थः ॥ 1 ॥
 </details>
 
+## योगि-प्रत्यक्ष-निरासः
 
-अथ स्यात् - कपिलस्य स्वयोगमहिम्ना ... ....
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ स्यात्,  
+
+> कपिलस्य स्व-योग-महिम्ना वस्तु-याथात्म्योपलब्धेस्  
+तत्-स्मृत्य्-अनुसारेण वेदान्तार्थो व्यवस्थापयितव्य 
+
+इति; अत उत्तरं पठति -
+</details>
+
+<details><summary>English</summary>
+
+But, it may here be said, the Vedānta-texts should after all be interpreted in agreement with Kapila's Smr̥ti, for the reason that Kapila had through the power of his concentrated meditation (yoga) arrived at an insight into truth.--To this objection the next Sūtra replies.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+अथ स्यात्, कपिलस्य स्वयोगमहिम्ना वस्तुयाथात्म्योपलब्धेस्तत्स्मृत्यनुसारेण वेदान्तार्थो व्यवस्थापयितव्य इति; अत उत्तरं पठति -
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उत्तरसूत्रशङ्कामाह - अथ स्यात् इति ।  
+मन्व्-आदीनां धर्म-प्रवर्तना ऽन्यपरत्वात्  
+न योगावसर इति भावः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(मन्वादि-)+++इतरेषां चानुपलब्धेः +++(योगादि-साधनैः कपिल-स्मृत्यर्थस्य)+++ ॥ 2-1-2 ॥
+</details>
+
+<details><summary>English</summary>
+
+2. And on account of the non-perception (of truth on the part) of others.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 इतरेषां चानुपलब्धेः ॥ 2-1-2 ॥
+</details>
 
-चशब्दस्तुशब्दार्थः ..... ... न तया यथोक्तो वेदान्तार्थश्चालयितुं शक्य इति सिद्धम् ॥ 2 ॥
 
-उत्तरसूत्रशङ्कामाह - अथ स्यात् इति । मन्वादीनां धर्मप्रवर्तनान्यपरत्वात् न योगावसर इति भावः । इतरेषां चानुपलब्धेः । बहूनामुपलब्धिभिः एकोपलब्धेः भ्रान्तित्वनिश्चयः । धर्मानुष्ठानपरत्वं तु मनोनैर्मल्यहेतुरिति मन्वाद्युपलब्धिप्राबल्यहेतुः । तद्राहित्यं मनोमालिन्यात् भ्रान्तित्वावहमित्यर्थः ॥2 ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इति स्मृत्यधिकरणम् -1
+**च**-शब्दस् तु-शब्दार्थश्  
+चोदिताशङ्का-निवृत्त्यर्थः । 
+</details>
 
-----
+<details><summary>English</summary>
+
+The 'and' in the Sūtra has the force of 'but,' being meant to dispel the doubt raised. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+चशब्दस्तुशब्दार्थश्चोदिताशङ्कानिवृत्त्यर्थः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**इतरेषाम्**- मन्व्-आदीनां बहूनां  
+स्व-योग-महिम--साक्षात्-कृत--  
+परावर-तत्त्व-याथात्म्यानां  
+
+निखिल-जगद्--भेषज-भूत--स्व-वाक्यतया  
+"यद्वै किञ्चन मनुर् अवदत् तद् भेषजम्"  
+इति श्रुति-प्रसिद्धानां  
+
+कपिल-दृष्ट-प्रकारेण तत्त्वानुपलब्धेः  
+श्रुति-विरुद्धा कपिलोपलब्धिर् भ्रान्तिमूलेति  
+न तया यथोक्ता वेदान्तार्थश् चालयितुं शक्य 
+
+इति सिद्धम् ।।  
+
+</details>
+
+<details><summary>English</summary>
+
+There are many other authors of Smr̥tis, such as Manu, who through the power of their meditation had attained insight into the highest truth, and of whom it is known from Scripture that the purport of their teaching was a salutary medicine to the whole world ('whatever Manu said that was medicine'). Now, as these R̥shis did not see truth in the way of Kapila, we conclude that Kapila's view, which contradicts Scripture, is founded on error, and cannot therefore be used to modify the sense of the Vedānta-texts.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इतरेषाम्- मन्वादीनां बहूनां स्वयोगमहिमसाक्षात्कृतपरावरतत्त्वयाथात्म्यानां निखिलजगद्भेषजभूतस्ववाक्यतया "यद्वै किञ्चन मनुरवदत्तद्भेषजम्" इति श्रुतिप्रसिद्धानां कपिलदृष्टप्रकारेण तत्त्वानुपलब्धेः श्रुतिविरुद्धाकपिलोपलब्धिर्भ्रान्तिमूलेति न तया यथोक्ता वेदान्तार्थश्चालयितुं शक्य इति सिद्धम् ।। इति स्मृत्यधिकरणम् ।।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इतरेषां चानुपलब्धेः ।  
+बहूनामुपलब्धिभिः एकोपलब्धेः भ्रान्तित्व-निश्चयः ।  
+धर्मानुष्ठान-परत्वं तु मनो-नैर्मल्य-हेतुर्  
+इति मन्व्-आद्य्-उपलब्धि-प्राबल्य-हेतुः ।  
+तद्-राहित्यं मनो-मालिन्यात् भ्रान्तित्वावहम् इत्य्-अर्थः ॥2 ॥
+
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति स्मृत्यधिकरणम् ।।
+</details>
+
+<details><summary>English</summary>
+
+--Here finishes the adhikaraṇa treating of 'Smr̥ti.'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इति स्मृत्यधिकरणम् ।।
+</details>
