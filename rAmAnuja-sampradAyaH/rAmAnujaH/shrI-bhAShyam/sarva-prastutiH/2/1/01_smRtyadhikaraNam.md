@@ -632,15 +632,255 @@ and it is for this reason that Kapila's Smr̥ti which contains a doctrine oppose
 **कपिलस्य** ऋषित्वम् एव । अत्र आप्तिमात्रम् ।  
 "यद्वै मनुरवदत् तद्भेषजम्" इत्य्  
 उभयं मन्वादीनाम् अस्ति इति **आप्ततमम्** ।  
-"प्रणीताः बह्व्यः न्यायोपेताश्च" इति वैषम्य-त्रयम् उक्तम् ।  
-हेत्वन्तरं चाह - **उपबृंहणं च** इति ॥
+
+"प्रणीताः बह्व्यः न्यायोपेताश्च" इति वैषम्य-त्रयम्+++(=??)+++ उक्तम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**उपबृंहणं** च श्रुति-प्रतिपन्नार्थ-विशदी-करणम्;  
+तच् च विरुद्धार्थया स्मृत्या  
+न शक्यते कर्तुम् ।  
+</details>
+
+<details><summary>English</summary>
+
+The support required is elucidation of the sense conveyed by Scripture, and this clearly cannot be effected by means of a Smr̥ti contradicting Scripture. 
 </details>
 
 
+<details><summary>मूलम्</summary>
 
-न च इत्यादि स्फुटम् । विद्याङ्गकर्मणां हि भगवदाराधनरूपत्वं , स्वर्गादिफलानां तु तदभावात् आराध्यभूतब्रह्मणि न तात्पर्यमित्यत्राह न चैहिक इति । स्पष्टम् ॥
+उपबृंहणं च श्रुतिप्रतिपन्नार्थविशदीकरणम्; तच्च विरुद्धार्थया स्मृत्या न शक्यते कर्तुम् ।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+हेत्वन्तरं चाह - **उपबृंहणं च** इति ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चैतासां स्मृतीनां  
+प्राचीन-भागोदित-धर्मांश--विशदी-करणेन सावकाशत्वम्;  
+पर-ब्रह्म-भूत--परम-पुरुषाराधनत्वेन धर्मान् विदधतीनाम् एतासाम्  
+आराध्य-भूत--परम-पुरुष-प्रतिपादनाभावे सति  
+तद्-आराधन-भूत--धर्म-प्रतिपादनासम्भवात् ।+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+Nor is it of any avail to plead, as the Pūrvapakshin does, that Manu and other Smr̥tis of the same kind fulfil in any case the function of elucidating the acts of religious duty enjoined in the karmakāṇda.  
+For if they enjoin acts of religious duty as means to win the favour of the Supreme Person  
+but do not impress upon us the idea of that Supreme Person himself who is to be pleased by those acts,  
+they are also not capable of impressing upon us the idea of those acts themselves.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न चैतासां स्मृतीनां प्राचीनभागोदितधर्मांशविशदीकरणेन सावकाशत्वम्; परब्रह्मभूतपरमपुरुषाराधनत्वेन धर्मान्विदधतीनामेतासामाराध्य भूतपरमपुरुषप्रतिपादनाभावे सति तदाराधनभूतधर्मप्रतिपादनासम्भवात् ।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+न च इत्यादि स्फुटम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि  
+परम-पुरुषाराधन-रूपता  
+सर्वेषां कर्मणां स्मर्यते  
+</details>
+
+<details><summary>English</summary>
+
+That it is the character of all religious acts to win the favour of the Supreme Spirit, Smr̥ti distinctly declares, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा हि परमपुरुषाराधनरूपता सर्वेषां कर्मणां स्मर्यते   
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"यतः प्रवृत्तिर् भूतानां  
+येन सर्वम् इदं ततम् ।  
+स्वकर्मणा तम् अभ्यर्च्य  
+सिद्धिं विन्दति मानवः"+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+'Man attains to perfection by worshipping with his proper action Him from whom all Beings proceed; and by whom all this is stretched out' (Bha. Gī. XVIII, 46); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् ।  
+स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः"  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ध्यायेन् नारायणं देवं  
+स्नानादिषु च कर्मसु ।  
+ब्रह्मलोकम् अवाप्नोति  
+न चेहावर्तते पुनः" +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+'Let a man meditate on Nārāyaṇa, the divine one, at all works, such as bathing and the like; he will then reach the world of Brahman and not return hither' (Daksha-smr̥ti); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"ध्यायेन्नारायणं देवं स्नानादिषु च कर्मसु ।  
+ब्रह्मलोकमवाप्नोति न चेहावर्तते पुनः" 
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"यैस् स्व-कर्म-परैर् नाथ  
+नरैर् आराधितो भवान् ।  
+ते तरन्त्य् अखिलाम् एतां  
+मायाम् आत्म-विमुक्तये" 
+</details>
+
+<details><summary>English</summary>
+
+and 'Those men with whom, intent on their duties, thou art pleased, O Lord, they pass beyond all this Māya and find Release for their souls' (Vi. Pu.). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"यैस्स्वकर्मपरैर्नाथ नरैराराधितो भवान् ।  
+ते तरन्त्यखिलामेतां मायामात्मविमुक्तये" 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चैहिकामुष्मिक-सांसारिक-फल--साधन-कर्म-प्रतिपादनेन  
+तासां सावकाशत्वम्;  
+यतस् तेषाम् अपि कर्मणां  
+परम-पुरुषाराधनत्वम् एव स्वरूपम्;
+</details>
+
+
+<details><summary>English</summary>
+
+Nor can it be said that Manu and similar Smr̥tis have a function in so far as setting forth works (not aiming at final Release but) bringing about certain results included in transmigratory existence, whether here on earth or in a heavenly world; for the essential character of those works also is to please the highest Person. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चैहिकामुष्मिकसांसारिकफलसाधनकर्मप्रतिपादनेनतासां सावकाशत्वम्; यतस्तेषामपि कर्मणां परमपुरुषाराधनत्वमेव स्वरूपम्;
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+विद्याङ्ग-कर्मणां हि भगवद्-आराधन-रूपत्वं ,  
+स्वर्गादि-फलानां तु  
+तद्-अभावात् आराध्य-भूत-ब्रह्मणि न तात्पर्यम्  
+इत्य्-अत्राह **न चैहिक** इति । स्पष्टम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथोक्तं 
+
+> "येऽप्यन्यदेवताभक्ता  
+> यजन्ते श्रद्धयाऽन्विताः ।  
+> तेऽपि मामेव कौन्तेय  
+> यजन्त्यविधिपूर्वकम् ।  
+> अहं हि सर्वयज्ञानां  
+> भोक्ता च प्रभुर् एव च ।  
+> न तु माम् अभिजानन्ति  
+> तत्त्वेनातश् च्यवन्ति ते" 
+
+इति;  
+</details>
+
+<details><summary>English</summary>
+
+As is said in the Bhagavad-gītā (IX, 23, 24); 'Even they who devoted to other gods worship them with faith, worship me, against ordinance. For I am the enjoyer and the Lord of all sacrifices; but they know me not in truth and hence they fall,' 
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथोक्तं "येऽप्यन्यदेवताभक्तता यजन्ते श्रद्धयाऽन्विताः । तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम् । अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च । न तु मामभिजानन्ति तत्त्वेनातश्च्यवन्तिते" इति;  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा 
+
+"यज्ञैस् त्वम् इज्यसे नित्यं  
+सर्व-देवमयाच्युत ।  
+हव्य-कव्य-भुग् एकस् त्वं  
+पितृ-देव--स्व-रूप-धृक्" 
+
+इति । 
+</details>
+
+<details><summary>English</summary>
+
+and 'Thou art ever worshipped by me with sacrifices; thou alone, bearing the form of pitr̥s and of gods, enjoyest all the offerings made to either.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा "यज्ञैस्त्वमिज्यसे नित्यं सर्वदेवमयाच्युत । हव्यकव्यभुगेकस्त्वं पितृदेवस्वरूपधृक्" इति । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् उक्तं  
+
+> "ऋषिं प्रसूतं कपिलम्"  
+इति कपिलस्याप्ततया सङ्कीर्तनात्  
+तत्-स्मृत्य्-अनुसारेण  
+वेदान्तार्थ-व्यवस्थापनं न्याय्यम् 
+
+इति;  
+तद् असत्,  
+
+> बृहस्-पतेः श्रुति-स्मृतिषु  
+सर्वेषाम् अतिशयित-ज्ञानानां निदर्शनत्वेन  सङ्कीर्तनात्  
+तत्-प्रणीतेन लोकायतेन  
+श्रुत्य्-अर्थ-व्यवस्थापन-प्रसक्तेर्  
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+Nor finally can we admit the contention that it is rational to interpret the Vedánta-texts in accordance with Kapila's Smr̥ti because Kapila, in the Śvetāśvatara text, is referred to as a competent person. For from this it would follow that, as Br̥haspati is, in Śruti and Smr̥ti, mentioned as a pattern of consummate wisdom, Scripture should be interpreted in agreement with the openly materialistic and atheistic Smr̥ti composed by that authority. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदुक्तं "ऋषिं प्रसूतं कपिलम्" इति कपिलस्याप्ततया सङ्कीर्तनात्तत्स्मृत्यनुसारेण वेदान्तार्थव्यवस्तापनं न्याय्यमिति; तदसत्, बृहस्पतेः श्रुतिस्मृतिषु सर्वेषामतिशयितज्ञानानां निदर्शनत्वेन सङ्कीर्तनात्तत्प्रणीतेन लोकायतेन श्रुत्यर्थव्यवस्थापनप्रसक्तेरिति ।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 यदुक्तम् इत्यादि । श्रुतिप्रामाण्याङ्गीकारेऽपि श्रुत्यर्थविरोधस्यानादरणीयत्वे प्रयोजकत्वात् तत् कापिललोकायतमतयोरविशिष्टमिति त्याज्यत्वमित्यर्थः ॥ 1 ॥
+</details>
+
 
 अथ स्यात् - कपिलस्य स्वयोगमहिम्ना ... ....
 
