@@ -3,19 +3,289 @@ title = "०१ स्मृत्यधिकरणम्"
 
 +++
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> +++(एकदेश-)+++स्मृत्य्-अनवकाश-दोष-प्रसङ्ग  
+
+इति चेन् न -  
++++(तद्-इतर-)+++अन्य-स्मृत्य्-अनवकाश-दोष-प्रसङ्गात् ॥ 2-1-1 ॥
+</details>
+
+<details><summary>English</summary>
+
+\1. If it be said that there would result the fault of there being no room for (certain) Smr̥tis:   
+(we reply) 'no,' because there would result the fault of want of room for other Smr̥tis.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 स्मृत्यनवकाशदोषप्रसङ्ग इति चेन्नान्यस्मृत्यनवकाशदोषप्रसङ्गात् ॥ 2-1-1 ॥
+</details>
 
-प्रथमेऽध्याये प्रत्यक्षादिप्रमाणगोचरात् ... ... तदिदमाशङ्कते - स्मृत्यनवकाशदोषप्रसङ्ग इति चेत् - इति ॥
+## पूर्वपक्षः
 
-स्मृत्यनवकाशदोषप्रसङ्ग इति चेन्नान्यस्मृत्यनवकाशदोषप्रसङ्गात् । सङ्गत्यर्थं प्राथमिकार्थसुग्रहार्थं च प्रथमाध्यायार्थमनुवदति - प्रथम इति । द्वितीयार्थमाह - अनन्तरम् इति । समस्त इति । तत्तत्पादनिरसनीयतर्कर्वैविध्यं विवक्षितम् । अयोगान्ययोगव्यवच्छेदेन ब्रह्मकारणत्वं निरूपितं प्रथमे । द्वितीये तु विरोधः परिह्नियते इत्यर्थः ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वितीयाद्यप्रतिपाद्यमाह - प्रथमम् इति । उत्थानमाक्षिपति कथम् इति। परिहरति - सत्यम् इति । औदुम्बर्यादिवाक्येषु श्रुतिन्यायानपेक्षं श्रुत्यर्थस्य निश्चित्वात् तद्विरुद्धस्मृस्यनादरो युक्तः । इह तु श्रुतिवैविध्यात् श्रुत्यर्थे संशय्यमाने , तद्विरोघेन स्मृतित्यागायोगात् विचारो युक्त इत्यर्थः ॥
+प्रथमं तावत् +++(साङ्ख्याख्य-)+++कपिल-स्मृति-विरोधाद् वेदान्तानाम्,  
+अ-तत्+++(→प्रथमाध्यायोक्त)+++-परत्वम् आशङ्क्य  
+तन् निराक्रियते ।  
+</details>
 
-कपिलस्य महर्षित्वे किं मानम् ? सत्यपि तस्मिन् बृहस्पत्याद्युक्तलोकायतादिवत् किं न स्यात् ? उक्तप्राथमिकन्यायतो निर्णीतत्वात् न च स्मृत्यपेक्षेत्यत्राह - एतदुक्तम् इति ।
+<details><summary>English</summary>
 
-अभ्युपगच्छता इत्यन्तेन लोकायतादिव्यावृत्तिरुक्ता । ऋषिम् इति मानोक्तिः । स्मृत्युपबृंहणम् स्मृतिरूपोबृंहणम् । अल्पश्रुतैः इत्यादिना तदपेक्षा दर्शिता । न च न्यायत स्मृत्यनपेक्षता , वचनविरोधे न्यायदौर्बल्यादिति भावः । सकलायाः इति मन्वादिस्मृतिव्यावृत्तिः । तासां सावकाशत्वात् । अस्याश्चाप्तप्रणीताया अनवकाशत्वमयुक्तम् । पूर्वपक्षस्यानुत्सूत्रत्वमाह - तदिदम् इति ॥
+The Sūtrakāra at first turns against those who maintain that  
+the Vedanta-texts do not establish the view indicated above,  
+on the ground of that view being contradicted by the Smr̥ti of Kapila, i. e. the Sānkhya-system.
+</details>
 
-सिद्धान्तः
+
+<details><summary>मूलम्</summary>
+
+प्रथमं तावत् कपिलस्मृतिविरोधाद्वेदान्तानां अतत्परत्वमाशङ्क्य तन्निराक्रियते ।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+द्वितीयाद्य-प्रतिपाद्यमाह - प्रथमम् इति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कथं स्मृति-विरोधाच्  
+छ्रुतेर् +++(स्मृति-विशेषापेक्षया)+++ अन्य-परत्वम् ?  
+उक्तं हि "विरोधे त्व् अनपेक्ष्यं स्यात्"  
+इति श्रुति-विरुद्धायाः स्मृतेर् अनादरणीयत्वम् ।  
+</details>
+
+<details><summary>English</summary>
+
+> But how can it be maintained at all that  
+Scripture does not set forth a certain view  
+because thereby it would enter into conflict with Smr̥ti?  
+For that Smr̥ti if contradicted by Scripture is to be held of no account, is already settled in the Pūrva Mīmāṁsā ('But where there is contradiction Smr̥ti is not to be regarded,' I, 3, 3).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कथं स्मृतिविरोधाच्छ्रुतेरन्यपरत्वम् ?  
+उक्तं हि "विरोधे त्वनपेक्ष्यं स्यात्"  
+इति श्रुतिविरुद्धायाः स्मृतेरनादरणीयत्वम् ।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उत्थानम् आक्षिपति **कथम्** इति।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्यम्, "औदुम्बरीं स्पृष्ट्वोद्गायेत्" इत्य्-आदिषु  
+स्वत एवार्थ-निश्चय-सम्भवात्  
+तद्-विरुद्धा स्मृतिर् अनादरणीयैव।  
+</details>
+
+<details><summary>English</summary>
+
+--Where, we reply, a matter can be definitely settled on the basis of Scripture--as e.g. in the case of the Vedic injunction, 'he is to sing, after having touched the Uḍumbara branch' (which clearly contradicts the Smr̥ti injunction that the whole branch is to be covered up)--Smr̥ti indeed need not be regarded. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सत्यम्, "औदुम्बरीं स्पृष्ट्वोद्गायेत्" इत्यादिषु स्वत एवार्थनिश्चयसम्भवात् तद्विरुद्धा स्मृतिरनादरणीयैव;
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+परिहरति - **सत्यम्** इति ।  
+औदुम्बर्यादिवाक्येषु श्रुतिन्यायानपेक्षं श्रुत्यर्थस्य निश्चित्वात् तद्विरुद्धस्मृस्यनादरो युक्तः ।  
+
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इह तु वेदान्त-वेद्य-तत्त्वस्य दुर्-अवबोधत्वेन  
+परम-र्षि-प्रणीत-स्मृति-विरोधे सति  
+"अयम् अर्थ" इति निश्चयात्  
+योगास्मृत्या श्रुतेर् अ-तत्-परत्वोपपादनम् अ-विरुद्धम् ।
+</details>
+
+<details><summary>English</summary>
+
+But the topic with which the Vedānta-texts are concerned is hard to understand,  
+and hence, when a conflict arises between those texts and a Smr̥ti propounded by some great R̥shi,  
+the matter does not admit of immediate decisive settlement:  
+it is not therefore unreasonable to undertake to prove by Smr̥ti  
+that Scripture does not set forth a certain doctrine. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इह तु वेदान्तवेद्यतत्त्वस्य दुरवबोधत्वेन परमर्षिप्रणीतस्मृतिविरोधे सति अयमर्थ इति निश्चयात् योगास्मृत्या श्रुतेरतत्परत्वोपपादनमविरुद्धम् ।
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इह तु श्रुतिवैविध्यात्  
+श्रुत्यर्थे संशय्यमाने ,  
+तद्विरोघेन स्मृति-त्यागायोगात्  
+विचारो युक्त इत्यर्थः ॥
+</details>
+ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतद् उक्तं भवति - 
+
+> प्राचीन-भागोदित--निखिलाभ्युदय-साधन-भूत-  
++अग्नि-होत्र--दर्श-पूर्ण-मास--ज्योतिष्टोमादि-कर्माणि  
+यथावद् अभ्युपगच्छता  
+>
+> श्रुति-स्मृतीतिहास-पुराणेषु  
+"ऋषिं प्रसूतं कपिलम्" इत्य्-आदि-वाक्यैर्  
+आप्तत्वेन सङ्कीर्तितेन परम-र्षिणा कपिलेन  
+> 
+> परम-निःश्रेयस--तत्-साधनावबोधित्वेन +उपनिबद्ध-स्मृत्य्-उपबृंहणेन विना  
+अल्प-श्रुतैर् मन्द-मतिभिः वेदान्तार्थ-निश्चयायोगात् 
+> 
+> यथा-श्रुतार्थ-ग्रहणे चाप्त-प्रणीतायास् साङ्ख्य-स्मृतेः सकलाया एव अनवकाश-प्रसङ्गाच् च
+> 
+> "स्मृति-प्रसिद्ध एवार्थो वेदान्त-वेद्य"  
+इति बलाद् अभ्युपगमनीयम् 
+
+इति । 
+</details>
+
+<details><summary>English</summary>
+
+That is to say--  
+we possess a Smr̥ti composed with a view to teach men the nature and means of supreme happiness,  
+by the great R̥shi Kapila  
+to whom Scripture, Smr̥ti, Itihāsa and Purāṇa alike  
+refer as a person worthy of all respect (compare e. g. 'the R̥shi Kapila,' Śvet. Up. V, 2),  
+and who moreover (unlike Br̥haspati and other Smr̥ti--writers) fully acknowledges the validity of all the means of earthly happiness  
+which are set forth in the karmakāṇda of the Veda,  
+such as the daily oblations to the sacred fires, the New and Full Moon offerings and the great Soma sacrifices.  
+Now, as men having only an imperfect knowledge of the Veda,  
+and moreover naturally slow-minded,  
+can hardly ascertain the sense of the Vedānta-texts  
+without the assistance of such a Smr̥ti,  
+and as to be satisfied with that sense of the Vedānta which discloses itself on a mere superficial study of the text  
+would imply the admission that the whole Sānkhya Smr̥ti,  
+although composed by an able and trustworthy person,  
+really is useless;  
+we see ourselves driven to acknowledge that the doctrine of the Vedānta-texts  
+cannot differ from the one established by the Sānkhyas. 
+</details>
+ 
+
+
+<details><summary>मूलम्</summary>
+
+एतदुक्तं भवति - प्राचीनभागोदितनिखिलाभ्युदयसाधनभूताग्निहोत्रदर्शपूर्णमासज्योतिष्टोमादिकर्माणि यथावदभ्युपगच्छता श्रुतिस्मृतीतिहासपुराणेषु "ऋषिं प्रसूतं कपिलम्" इत्यादिवाक्यैराप्तत्वेन सङ्कीर्तितेन परमर्षिणा कपिलेन परमनिःश्रेयसतत्साधनावबोधित्वेन उपनिबद्धस्मृत्युपबृंहणेन विना अल्पश्रुतैर्मन्दमतिभिः वेदान्तार्थनिश्चयायोगात् यथाश्रुतार्थग्रहणे चाप्तप्रणीतायास्साङ्ख्यस्मृतेः सकलाया एव अनवकाशप्रसङ्गाच्च
+स्मृतिप्रसिद्ध एवार्थो वेदान्तवेद्य इति बलादभ्युपगमनीयमिति । 
+
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कपिलस्य महर्षित्वे किं मानम् ?  
+सत्यपि तस्मिन् बृहस्पत्य्-आद्य्-उक्त-लोकायतादिवत् किं न स्यात् ?  
+उक्त-प्राथमिक-न्यायतो निर्णीतत्वात्  
+न च स्मृत्य्-अपेक्षेत्य्-अत्राह - **एतदुक्तम्** इति ।
+
+**अभ्युपगच्छता** इत्य्-अन्तेन लोकायतादि-व्यावृत्तिर् उक्ता । ऋषिम् इति मानोक्तिः ।  
+**स्मृत्युपबृंहणम्** स्मृतिरूपोबृंहणम् ।  
+**अल्पश्रुतैः** इत्यादिना तदपेक्षा दर्शिता ।  
+न च न्यायतः स्मृत्य्-अनपेक्षता ,  
+"वचन-विरोधे न्याय-दौर्बल्याद्" इति भावः ।  
+**सकलायाः** इति मन्वादिस्मृतिव्यावृत्तिः -  
+तासां सावकाशत्वात् ।  
+अस्याश् चाप्त-प्रणीताया अनवकाशत्वम् अयुक्तम् । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च वाच्यं -
+
+> मन्वादि-स्मृतीनां ब्रह्मैक-कारणत्व-वादिनीनाम्  
+> एवं सत्य् अनवकाशत्व-दोषप्रसङ्ग 
+
+इति;  
+धर्म-प्रतिपादन-पर--प्राचीन-भागोपबृंहण एव सावकाशत्वात् । 
+</details>
+
+<details><summary>English</summary>
+
+Nor must you object that to do so would force on us another unacceptable conclusion, viz. that those Smr̥tis, that of Manu e.g.,  
+which maintain Brahman to be the universal cause, are destitute of authority;  
+for Manu and similar works inculcate practical religious duty  
+and thus have at any rate the uncontested function of supporting the teaching of the karmakāṇda of the Veda. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च वाच्यं मन्वादिस्मृतीनां ब्रह्मैककारणत्ववादिनीनामेवं सत्यनवकाशत्वदोषप्रसङ्ग इति; धर्मप्रतिपादनपरप्राचीनभागोपबृंहण एव सावकाशत्वात् । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्यास् तु कृत्स्नायास्  
+तत्त्व-प्रतिपादन-परत्वात्  
+तथा ऽन्-अभ्युपगमे निरवकाशत्वम् एव स्यात् ।
+</details>
+
+<details><summary>English</summary>
+
+The Sānkhya Smr̥ti, on the other hand, is entirely devoted to the setting forth of theoretical truth (not of practical duty), and if it is not accepted in that quality, it is of no use whatsoever.--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अस्यास्तु कृत्स्नायास्तत्त्वप्रतिपादनपरत्वात्तथानभ्युपगमे निरवकाशत्वमेव स्यात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् इदम् आशङ्कते -  
+
+> "स्मृत्य्-अनवकाश-दोष-प्रसङ्ग" इति चेद् 
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+On this ground the Sūtra sets forth the primā facie view,
+
+ 'If it be said that there results the fault of there being no room for certain Smr̥tis.'
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदिदमाशङ्कते - स्मृत्यनवकाशदोषप्रसङ्ग इति चेदिति ।
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+पूर्वपक्षस्यानुत्सूत्रत्वम् आह - तदिदम् इति ॥
+</details>
+
+
+## सिद्धान्तः
 
 तत्रोत्तरम् - नान्यस्मृत्यनवकाशशेषप्रसङ्गात् इति । अन्या हि ...तत्प्रणीतेन लोकायतेन श्रुत्यर्थव्यस्थापनप्रसक्तेः - इति ॥ 1 ॥
 
