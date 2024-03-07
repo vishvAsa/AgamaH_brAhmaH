@@ -80,23 +80,81 @@ and thirdly, because Hiraṇyagarbha, who proclaimed the Yoga-smr̥ti is qualifi
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिहारस् तु-  
-अ-ब्रह्मात्मक--प्रधान-कारण-वादान्  
-निमित्त-कारण-मात्रेश्वराभ्युपगमात्  
+
+अ-ब्रह्मात्मक--प्रधान-कारण-वादान्,  
+निमित्त-कारण-मात्रेश्वराभ्युपगमात्,  
+
 ध्यानात्मकस्य योगस्य  
 ध्येयैक-निरूपणीयस्य  
-ध्येय-भूतयोर् आत्मेश्वरयोर् ब्रह्मात्मकत्व-जगद्-उपादानतादि-सर्वकल्याणगुणात्मकत्वविरहेणावैदिकत्वाद्वक्तुर्हिरण्यगर्भस्यापि क्षेत्रज्ञभूतस्य कदाचिद्रजस्तमोऽभिभवसम्भवाच्च योगस्मृतिरपि तत्प्रणीतरजस्तमोमूलपुराणवद्भ्रान्तिमूलेति न तया वेदान्तोपबृंहणं न्याय्यमिति ।। 
+ध्येय-भूतयोर् आत्मेश्वरयोर् ब्रह्मात्मकत्व--जगद्-उपादानतादि-- 
+सर्व-कल्याण-गुणात्मकत्व--विरहेणावैदिकत्वाद्  
+
+वक्तुर् हिरण्य-गर्भस्यापि  
+क्षेत्र-ज्ञ-भूतस्य कदाचिद् रजस्-तमोऽभिभव-सम्भवाच् च 
+
+योग-स्मृतिर् अपि  
+तत्-प्रणीत--रजस्-तमो-मूल--  
+पुराणवद्-भ्रान्ति-मूलेति  
+
+न तया वेदान्तोपबृंहणं न्याय्यम् इति ।। 
 </details>
+
+<details><summary>English</summary>
+
+--But these arguments refute themselves as follows.  
+
+In the first place the Yoga holds the Pradhāna,  
+which is independent of Brahman,  
+to be the general material cause,  
+and hence the Lord acknowledged by it is a mere operative cause.  
+
+In the second place the nature of meditation,  
+in which Yoga consists,  
+is determined by the nature of the object of meditation, and as of its two objects, viz. the soul and the Lord,  
+the former does not have its Self in Brahman,  
+and the latter is neither the cause of the world  
+nor endowed with the other auspicious qualities (which belong to Brahman),  
+the Yoga is not of Vedic character. 
+
+And as to the third point,  
+Hiraṇyagarbha himself is only an individual soul,  
+and hence liable to be overpowered by the inferior guṇas, i.e. passion and darkness;  
+and hence the Yoga-smr̥ti is founded on error,  
+no less than the Purāṇas, promulgated by him,  
+which are founded on rajas and tamas.  
+The Yoga cannot, therefore, be used for the support of the Vedānta.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 परिहारस्तु- अब्रह्मात्मकप्रधानकारणवादान्निमित्तकारणमात्रेश्वराभ्युपगमात् ध्यानात्मकस्य योगस्य ध्येयैकनिरूपणीयस्य ध्येयभूतयोरात्मेश्वरयोर्ब्रह्मात्मकत्वजगदुपादानतादिसर्वकल्याणगुणात्मकत्वविरहेणावैदिकत्वाद्वक्तुर्हिरण्यगर्भस्यापि क्षेत्रज्ञभूतस्य कदाचिद्रजस्तमोऽभिभवसम्भवाच्च योगस्मृतिरपि तत्प्रणीतरजस्तमोमूलपुराणवद्भ्रान्तिमूलेति न तया वेदान्तोपबृंहणं न्याय्यमिति ।। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-अब्रह्मात्मक इति । तत्त्ववैषम्यमुक्तम् । ध्यानात्मकस्य इत्यनुष्ठानवैषम्यम्
+अब्रह्मात्मक इति । तत्त्व-वैषम्यम् उक्तम् । ध्यानात्मकस्य इत्य् अनुष्ठानवैषम्यम्
 
 ॥ 3 ॥
 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इति योगप्रत्युक्त्यधिकरणम् -2
+</details>
+
+<details><summary>English</summary>
+
+--Here finishes the adhikaraṇa of 'the refutation of the Yoga.'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इति योगप्रत्युक्त्यधिकरणम् -2
+</details>
+
 
 -----
