@@ -3,13 +3,245 @@ title = "०३ विलक्षणत्वाधिकरणम्"
 
 +++
 
-न विलक्षणत्वादस्य तथात्वं च शब्दात् ॥ 2-1-4 ॥
+## पूर्व-पक्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न +++(ब्रह्म +उपादान-कारणं जगतः -)+++ विलक्षणत्वाद् अस्य।  
+तथात्वं च शब्दात् ॥ 2-1-4 ॥
+</details>
+
+<details><summary>English</summary>
+
+4. Not, on account of the difference of character of that; and its being such (appears) from Scripture.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न विलक्षणत्वादस्य  
+तथात्वं च शब्दात् ॥ 2-1-4 ॥
+
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> न विलक्षणत्वादस्य तथात्वं च शब्दात् । 
+
+मन्वादि-स्मृतिभिर् वेदानाम् उपबृंहणं कार्यम् इत्य् उक्तम् ।  
+तास् तर्कविरुद्धाः ।  
+तर्कानुगृहीत-सांख्य-स्मृत्यैव कार्यम्  
+इति प्रत्यवस्थानात् सङ्गतिः ।  
+
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुनर् अपि स्मृति-विरोध-वादी  
+**तर्कम् अवलम्बमानः प्रत्यवतिष्ठते** -  
+
+> यत् साङ्ख्य-स्मृति-निराकरणेन  
+जगतो **ब्रह्म-कार्यत्वम्** उक्तम्,  
+तन् **नोपपद्यते**;  
+अस्य प्रत्यक्षादिभिर्  
+अचेतनत्वेनाशुद्धत्वेनानीश्वरत्वेन **दुःखात्मकत्वेन चोपलभ्यमानस्य**  
+चिद्--अ-चिद्--आत्मकस्य जगतः  
+भवद्-अभ्युपेतात् सर्वज्ञात् सर्वेश्वराद् +हेय-प्रत्यनीकाद् आनन्दैकतानाद् ब्रह्मणो विलक्षणत्वात् । 
+</details>
+
+
+<details><summary>English</summary>
+
+The same opponent who laid stress on the conflict between Scripture and Smr̥ti now again comes forward, relying this time (not on Smr̥ti but) on simple reasoning.  
+Your doctrine, he says, as to the world being an effect of Brahman  
+which you attempted to prove by a refutation of the Sānkhya Smr̥ti  
+shows itself to be irrational for the following reason.  
+Perception and the other means of knowledge show this world with all its sentient and non-sentient beings to be of a non-intelligent and impure nature,  
+to possess none of the qualities of the Lord,  
+and to have pain for its very essence;  
+and such a world totally differs in nature from the Brahman, postulated by you,  
+which is said to be all-knowing, of supreme lordly power,  
+antagonistic to all evil, enjoying unbroken uniform blessedness.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पुनरपि स्मृतिविरोधवादी तर्कमवलम्बमानः प्रत्यवतिष्ठतेयत्साङ्ख्यस्मृतिनिराकरणेन जगतो ब्रह्मकार्यत्वमुक्तम्,तन्नोपपद्यते; अस्य प्रत्यक्षादिभिरचेतनत्वेनाशुद्धत्वेनानीश्वरत्वेन दुःखात्मकत्वेन चोपलभ्यमानस्य चिदचिदात्मकस्य जगतः भवदभ्युपेतात्सर्वज्ञात्सर्वेश्वराद्धेयप्रत्यनीकादानन्दैकतानाद्ब्रह्मणो विलक्षणत्वात् । 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सोत्र **न** इति पदं व्याचष्टे **यत्** इति ।  
+**अस्य** इति व्याख्येयम् ।  
+विलक्षणत्वात् इति पदं व्याचष्टे  
+**भवद्-अभिमत** इति ।  
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न केवलं प्रत्यक्षादिभिर् एव जगतो वैलक्षण्यम् उपलभ्यते,  
+> शब्दाच् च तथात्वम् विलक्षणत्वम् उपलभ्यते  
+> 
+>> "विज्ञानं चाविज्ञानं च"  
+> 
+>> "एवम् एवैता भूत-मात्राः  
+> प्रज्ञा-मात्रास्व् अर्पिताः  
+> प्रज्ञामात्राः प्राणे अर्पिताः"  
+> 
+>> "समाने वृक्षे पुरुषो निमग्नो  
+> ऽग्नीशया शोचति मुह्यमानः" 
+> 
+>> "अनीशश्चात्मा बध्यते भोक्तृ-भावात्" 
+> 
+> इत्य्-आदिभिः ।  
+</details>
+
+<details><summary>English</summary>
+
+This difference in character of the world from Brahman is, moreover, not only known through Perception, and so on, but is seen to be directly stated in Scripture itself; compare 
+
+> 'Knowledge and non-knowledge' (Taitt. Up. II, 6, 1); 
+
+> 'Thus are these objects placed on the subjects, and the subjects on the prāṇa' (Kau. Up. III, 9); 
+> 
+> 'On the same tree man sits grieving, immersed, bewildered by his own impotence' (Śvet. Up. IV, 7); 
+> 
+> 'The soul not being a Lord is bound because he has to enjoy' (Śvet. Up. I, 8); 
+
+and so on; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न केवलं प्रत्यक्षादिभिरेव जगतो वैलक्षण्यमुपलभ्यते, शब्दाच्च तथात्वम् विलक्षणत्वम् उपलभ्यते "विज्ञानं चाविज्ञानं च" "एवमेवैता भूतमात्राः प्रज्ञामात्रास्वर्पिताः प्रज्ञामात्राः प्राणे अर्पिताः" समाने वृक्षे पुरुषो निमग्नोऽग्नीशया शोचति मुह्यमानः" "अनीशश्चात्मा बध्यते भोक्तृभावात्" इत्यादिभिः ।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**तथात्वम्** इत्य्-आदि-सूत्र-खण्डं व्याचष्टे  
+**न केवलम्** इति ।  
+</details>
+
+<details><summary>English</summary>
+
+all which texts refer to the effect, i.e. the world as being non-intelligent, of the essence of pain, and so on.  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कार्यस्य हि जगतो ऽचेतनत्व-दुःखित्वादयो निर्दिश्यन्ते ।  
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+कार्यस्य हि जगतोऽचेतनत्वदुःखित्वादयो निर्दिश्यन्ते ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यद्+धि यत्-कार्यम्,  
+तत् तस्माद् अ-विलक्षणम्,  
+यथा मृत्-सुवर्णादि-कार्यं घट-रुचकादि।  
+</details>
+
+<details><summary>English</summary>
+
+The general rule is that an effect is non-different in character from its cause; as e.g. pots and bracelets are non-different in character from their material causes--clay and gold. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्धि यत्कार्यम्, तत्तस्मादविलक्षणम्, यथा मृत्सुवर्णादिकार्यं घटरुचकादि;  
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ततः किम् इत्य्-अत्राह - यद्धि इति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अतो ब्रह्मविलक्षणस्यास्य जगतस्  
+> तत्-कार्यत्वं न सम्भवतीति  
+> साङ्ख्य-स्मृत्य्-अनुरोधेन  
+> कार्य-स-लक्षणं प्रधानम् एव  
+> कारणं भवितुम र्हति ।  
+</details>
+
+<details><summary>English</summary>
+
+The world cannot, therefore, be the effect of Brahman from which it differs in character,  
+and we hence conclude that, in agreement with the Sānkhya Smr̥ti, the Pradhāna which resembles the actual world in character must be assumed to be the general cause. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो ब्रह्मविलक्षणस्यास्य जगतस्तत्कार्यत्वं न सम्भवतीति साङ्ख्यस्मृत्यनुरोधेन कार्यसलक्षणं प्रधानमेव कारणं भवितुमर्हति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अवश्यं च शास्त्रस्य +अनन्यापेक्षस्य +अतीन्द्रियार्थ-गोचरत्वे ऽपि  
+तर्को ऽनुसरणीयः,  
+यतस् सर्वेषां प्रमाणानां  
+क्वचित् क्वचिद् विषये  त
+र्कानुगृहीतानाम् एवार्थनिश्चय-हेतुत्वम् ।  
+</details>
+
+<details><summary>English</summary>
+
+> Scripture, although not dependent on anything else and concerned with super-sensuous objects, must all the same come to terms with ratiocination (tarka); for all the different means of knowledge can in many cases help us to arrive at a decisive conclusion, only if they are supported by ratiocination. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवश्यं च शास्त्रस्यानन्यापेक्षस्यातीन्द्रियार्थगोचरत्वेपि तर्कोऽनुसरणीयः, यतस्सर्वेषां प्रमाणानां क्वचित् क्वचिद्विषये तर्कानुगृहीतानामेवार्थनिश्चयहेतुत्वम् ।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+शास्त्रेण तर्को बाध्य इत्यत्राह अवश्यं च इति । अनन्यापेक्षस्य - प्रमाणान्तरानपेक्षस्य ।  
+न हि तर्को मानम् ;  
+अतोऽङ्गत्वाद् अपेक्षित इत्यर्थः ।  
+क्वचित् क्वचित् - स्वतोऽस्पष्टार्थविषयेषु ॥
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तर्को हि नाम  
+अर्थ--स्व-भाव--विषयेण  
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+तर्को हि नाम अर्थस्वभावविषयेण 
+
+</details>
+
+
 
 पुनरपि स्मृतिविरोधवादी तर्कमवलम्बमानः ... नैतदेवम् , यतस्तत्राप्यचेतनांश एव कार्यकारणभावः ॥ 4॥
 
-न विलक्षणत्वादस्य तथात्वं च शब्दात् । मन्वादिस्मृतिभिर्वेदानामुपबृंहणं कार्यमित्युक्तम् । तास्तर्कविरुद्धाः । तर्कानुगृहीतसांख्यस्मृत्यैव कार्यमिति प्रत्यवस्थानात् सङ्गतिः । सोत्रं न इति पदं व्याचष्टे यत् इति । अस्य इति व्याख्येयम् । विलक्षणत्वात् इति पदं व्याचष्टे भवदभिमत इति । तथात्वम् इत्यादिसूत्रखण्डं व्याचष्टे न केवलम् इति । ततः किमित्यत्राह - यद्धि इति । शास्त्रेण तर्को बाध्य इत्यत्राह अवश्यं च इति । अनन्यापेक्षस्य - प्रमाणान्तरानपेक्षस्य । न हि तर्को मानम् ; अतोऽङ्गत्वादपेक्षित इत्यर्थः । क्वचित् क्वचित् - स्वतोऽस्पष्टार्थविषयेषु ॥
+  
 
-तर्केंण मानस्य किञ्चित्कारमाह - तर्को हि इति । शास्त्रस्य तु इति तुशब्दः साध्यवैषम्ये । विशेषेण इति साधनवैषम्ये । स्वापे चैतन्यानुपलम्भः , तच्छक्तियोगश्च वेदतदितराभिमतौ । कथं ब्रह्मोपादानतोक्तेः घटादौ धीनिश्चयापेक्षेत्यत्राह - विलक्षणयोर्हि इति । यूपादित्यैक्यवदिति भावः । किं पुनः इत्यादिना वैलक्षण्यासिद्धिराशङ्क्य परिहृता । ननु च इत्यादिना अनैकान्त्यम् ॥ 4 ॥
+
+तर्केण मानस्य किञ्चित्कारमाह - तर्को हि इति ।   
+शास्त्रस्य तु इति तुशब्दः साध्यवैषम्ये । विशेषेण इति साधनवैषम्ये । स्वापे चैतन्यानुपलम्भः , तच्छक्तियोगश्च वेदतदितराभिमतौ । कथं ब्रह्मोपादानतोक्तेः घटादौ धीनिश्चयापेक्षेत्यत्राह - विलक्षणयोर्हि इति । यूपादित्यैक्यवदिति भावः । किं पुनः इत्यादिना वैलक्षण्यासिद्धिराशङ्क्य परिहृता । ननु च इत्यादिना अनैकान्त्यम् ॥ 4 ॥
 
 अथ स्यात् - अचेतनत्वेनाभिमतानामपि ... ...
 
