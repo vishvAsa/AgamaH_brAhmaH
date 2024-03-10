@@ -3,7 +3,14 @@ title = "०३ विलक्षणत्वाधिकरणम्"
 
 +++
 
+<details><summary>सारः (द्रष्टुं नोद्यम्)</summary>
+
+अधिकरणार्थः – ब्रह्मणो जगदपेक्षया वैलक्षण्यं जगत्कारणत्वाविरोधि
+</details>
+
+
 ## पूर्व-पक्षः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न +++(ब्रह्म +उपादान-कारणं जगतः -)+++ विलक्षणत्वाद् अस्य।  
@@ -34,6 +41,7 @@ title = "०३ विलक्षणत्वाधिकरणम्"
 </details>
 
 
+### सङ्गतेः प्रदर्शनम्, सूत्राक्षरविवरणम्
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -81,6 +89,7 @@ antagonistic to all evil, enjoying unbroken uniform blessedness.
 
 </details>
 
+### शब्दतश्च ब्रह्मणि जगद्वैलक्षण्यप्रदर्शनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न केवलं प्रत्यक्षादिभिर् एव जगतो वैलक्षण्यम् उपलभ्यते,  
@@ -145,6 +154,9 @@ all which texts refer to the effect, i.e. the world as being non-intelligent, of
 कार्यस्य हि जगतोऽचेतनत्वदुःखित्वादयो निर्दिश्यन्ते ।  
 </details>
 
+
+### कार्य-समान-लक्षणस्यैव कारणत्वे युक्तिः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यद्+धि यत्-कार्यम्,  
@@ -190,6 +202,8 @@ and we hence conclude that, in agreement with the Sānkhya Smr̥ti, the Pradhān
 अतो ब्रह्मविलक्षणस्यास्य जगतस्तत्कार्यत्वं न सम्भवतीति साङ्ख्यस्मृत्यनुरोधेन कार्यसलक्षणं प्रधानमेव कारणं भवितुमर्हति ।  
 </details>
 
+### प्रमाणानां तर्कानुग्रहापेक्षा-विशदी-करमम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अवश्यं च शास्त्रस्य +अनन्यापेक्षस्य +अतीन्द्रियार्थ-गोचरत्वे ऽपि  
@@ -221,27 +235,206 @@ and we hence conclude that, in agreement with the Sānkhya Smr̥ti, the Pradhān
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तर्को हि नाम  
-अर्थ--स्व-भाव--विषयेण  
+**तर्को** हि नाम  
+अर्थ--स्व-भाव--विषयेण वा  
++++(परिकर-)+++सामग्री-विषयेण वा निरूपणेन  
++अर्थ-विशेषे प्रमाणं व्यवस्थापयत्  
+तद्+++(=??)+++-इति-कर्तव्यता-रूपम्  
+**ऊहा**ऽपर-पर्यायं ज्ञानम्। 
 </details>
 
+<details><summary>English</summary>
+
+For by tarka 
+we understand that kind of knowledge (intellectual activity)  
+which in the case of any given matter,  
+by means of an investigation  
+either into the essential nature of that matter  
+or into collateral (auxiliary) factors,  
+determines what possesses proving power,  
+and what are the special details of the matter under consideration:  
+this kind of cognitional activity is also called ūha. 
+
+</details>
 
 
 <details><summary>मूलम्</summary>
 
-तर्को हि नाम अर्थस्वभावविषयेण 
+तर्को हि नाम अर्थस्वभावविषयेण वा सामग्रीविषयेण वा निरूपणेनार्थविशेषे प्रमाणं व्यवस्थापयत्तदितिकर्तव्यतारूपमूहापरपर्यायं ज्ञानम्
 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तर्केण मानस्य किञ्चित्-कारम् आह - तर्को हि इति ।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-अपेक्षा च सर्वेषां प्रमाणानां समाना;  
+</details>
+
+<details><summary>English</summary>
+
+All means of knowledge equally stand in need of tarka; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदपेक्षा च सर्वेषां प्रमाणानां समाना;  
+</details>
+
+### प्रत्यक्ष-विलक्षणस्य शास्त्रस्य तर्कानुग्रहापेक्षा-नियमः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्रस्य तु  
+विशेषेणाकाङ्क्षा-सन्निधि-योग्यता-ज्ञानाधीन-प्रमाण-भावस्य  
+सर्वत्रैव तर्कानुग्रहापेक्षा ;
+</details>
+
+<details><summary>English</summary>
+
+Scripture however, the authoritative character of which specially depends on expectancy (ākānkshā), proximity (sannidhi), and compatibility (yogyatā), throughout requires to be assisted by tarka. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शास्त्रस्य तु विशेषेणाकाङ्क्षासन्निधियोग्यताज्ञा- नाधीनप्रमाणभावस्य सर्वत्रैव तर्कानुग्रहापेक्षा ;
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उक्तं च मनुना 
+
+> " यस् तर्केणानुसन्धत्ते  
+> स धर्मे वेद नेतरः" 
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+In accordance with this Manu says,'He who investigates by means of reasoning, he only knows religious duty, and none other.' 
+</details>
+
+<details><summary>मूलम्</summary>
+
+उक्तंच मनुना 
+" यस्तर्केणानुसन्धत्ते स धर्मे वेद नेतरः" इति ।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**शास्त्रस्य तु** इति - **तु**-शब्दः साध्यवैषम्ये ।  
+**विशेषेण** इति साधनवैषम्ये ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् एव हि तर्कानुगृहीत-शास्त्रार्थ-प्रतिष्ठापनं श्रुत्या च “ मन्तव्यः" इत्युच्यते ।  
+</details>
+
+<details><summary>English</summary>
+
+It is with a view to such confirmation of the sense of Scripture by means of Reasoning that the texts declare that certain topics such as the Self must be 'reflected on' (mantavya).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदेव हि तर्कानुगृहीतशास्त्रार्थप्रतिष्ठापनं श्रुत्या च “ मन्तव्यः" इत्युच्यते ।  
+</details>
+
+### जगति अनुद्भूत-चैतन्याभ्युपगमेन ब्रह्म-सालक्षण्याशङ्का-परिहारौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथोच्येत –  
+
+> श्रुत्या जगतो ब्रह्मैक-कारणत्वे निश्चिते सति  
+तत्-कार्यस्यापि जगतश्  
+चैतन्यानुवृत्तिर् अभ्युपगम्यते। 
+</details>
+
+<details><summary>English</summary>
+
+Now here it might possibly be said that as Brahman  
+is ascertained from Scripture to be the sole cause of the world,  
+it must be admitted that intelligence exists in the world also, which is an effect of Brahman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथोच्येत – श्रुत्या जगतो ब्रह्मैककारणत्वे निश्चिते सति तत्कार्यस्यापि जगतश्चैतन्यानुवृत्तिरभ्युपगम्यते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तथा चेतनस्य  
+सु-षुप्ति--मूर्च्छादिषु  
+चैतन्यानुपलम्भः;  
+तथा घटादिष्व् अपि  
+सद् एव चैतन्यम् अनुद्भूतम्,  
+अत +++(→अनुभवाननुभवत)+++ एव चेतनाचेतन-विभागः 
+
+– इति ॥
+</details>
+
+<details><summary>English</summary>
+
+> In the same way as the consciousness of an intelligent being is not perceived  
+when it is in the states of deep sleep, swoon, &c., so the intelligent nature of jars and the like also is not observed, although it really exists;  
+and it is this very difference of manifestation and non-manifestation of intelligence on which the distinction of intelligent and non-intelligent beings depends.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा चेतनस्य सुषुप्तिमूर्च्छादिषु चैतन्यानुपलम्भः;  
+तथा घटादिष्वपि सदेव चैतन्यमनुद्भूतम्,  
+अत एव चेतनाचेतनविभागः – इति ॥
+</details>
+
+<details><summary>English</summary>
+
+स्वापे चैतन्यानुपलम्भः ,  
+तच्छक्ति-योगश् च वेद-तद्-इतराभिमतौ ।  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैतदुपपद्यते,  
+यतो नित्यानुपलब्धिर् अ-सद्भावम् एव साधयति।  
+अत एव चैतन्य-शक्ति-योगो ऽपि तेषु निरस्तः।  
+</details>
+
+<details><summary>English</summary>
+
+--But to this we reply that permanent non-perception of intelligence proves its non-existence. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नैतदुपपद्यते, यतो नित्यानुपलब्धिरसद्भावमेव साधयति। अत एव चैतन्यशक्तियोगोऽपि तेषु निरस्तः।  
+</details>
+
 
 
 
 पुनरपि स्मृतिविरोधवादी तर्कमवलम्बमानः ... नैतदेवम् , यतस्तत्राप्यचेतनांश एव कार्यकारणभावः ॥ 4॥
 
-  
 
 
-तर्केण मानस्य किञ्चित्कारमाह - तर्को हि इति ।   
-शास्त्रस्य तु इति तुशब्दः साध्यवैषम्ये । विशेषेण इति साधनवैषम्ये । स्वापे चैतन्यानुपलम्भः , तच्छक्तियोगश्च वेदतदितराभिमतौ । कथं ब्रह्मोपादानतोक्तेः घटादौ धीनिश्चयापेक्षेत्यत्राह - विलक्षणयोर्हि इति । यूपादित्यैक्यवदिति भावः । किं पुनः इत्यादिना वैलक्षण्यासिद्धिराशङ्क्य परिहृता । ननु च इत्यादिना अनैकान्त्यम् ॥ 4 ॥
+
+कथं ब्रह्मोपादानतोक्तेः  
+घटादौ धी-निश्चयापेक्षेत्य् अत्राह - विलक्षणयोर्हि इति । यूपादित्यैक्यवदिति भावः । किं पुनः इत्यादिना वैलक्षण्यासिद्धिराशङ्क्य परिहृता । ननु च इत्यादिना अनैकान्त्यम् ॥ 4 ॥
 
 अथ स्यात् - अचेतनत्वेनाभिमतानामपि ... ...
 
