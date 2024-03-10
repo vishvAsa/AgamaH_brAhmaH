@@ -349,7 +349,7 @@ It is with a view to such confirmation of the sense of Scripture by means of Rea
 तदेव हि तर्कानुगृहीतशास्त्रार्थप्रतिष्ठापनं श्रुत्या च “ मन्तव्यः" इत्युच्यते ।  
 </details>
 
-### जगति अनुद्भूत-चैतन्याभ्युपगमेन ब्रह्म-सालक्षण्याशङ्का-परिहारौ
+### जगति अनुद्भूत-चैतन्यस्याभ्युपगमेन ब्रह्म-सालक्षण्याशङ्का-परिहारौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोच्येत –  
@@ -400,17 +400,16 @@ and it is this very difference of manifestation and non-manifestation of intelli
 अत एव चेतनाचेतनविभागः – इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 स्वापे चैतन्यानुपलम्भः ,  
 तच्छक्ति-योगश् च वेद-तद्-इतराभिमतौ ।  
-
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नैतदुपपद्यते,  
+नैतद् उपपद्यते,  
 यतो नित्यानुपलब्धिर् अ-सद्भावम् एव साधयति।  
 अत एव चैतन्य-शक्ति-योगो ऽपि तेषु निरस्तः।  
 </details>
@@ -418,6 +417,8 @@ and it is this very difference of manifestation and non-manifestation of intelli
 <details><summary>English</summary>
 
 --But to this we reply that permanent non-perception of intelligence proves its non-existence. 
+
+This consideration also refutes the hypothesis of things commonly called non-intelligent possessing the power, or potentiality, of consciousness. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -425,16 +426,121 @@ and it is this very difference of manifestation and non-manifestation of intelli
 नैतदुपपद्यते, यतो नित्यानुपलब्धिरसद्भावमेव साधयति। अत एव चैतन्यशक्तियोगोऽपि तेषु निरस्तः।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यस्य हि क्वचित् कदाचिद् अपि यत्-कार्यानुपलब्धिः;  
+तस्य तत्-कार्य-शक्तिं ब्रुवाणो  
+वन्ध्या-सुत-समितिषु तज्-जननीनां प्रजनन-शक्तिं ब्रूताम् ॥
+</details>
+
+<details><summary>English</summary>
+
+For if you maintain that a thing possesses the power of producing an effect while yet that effect is never and nowhere _seen_ to be produced by it, you may as well proclaim at a meeting of sons of barren women that their mothers possess eminent procreative power! 
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-पुनरपि स्मृतिविरोधवादी तर्कमवलम्बमानः ... नैतदेवम् , यतस्तत्राप्यचेतनांश एव कार्यकारणभावः ॥ 4॥
+यस्य हि क्वचित्कदाचिदपि यत्कार्यानुपलब्धिः;  
+तस्य तत्कार्यशक्तिं ब्रुवाणो वन्ध्यासुतसमितिषु तज्जननीनां प्रजननशक्तिं ब्रूताम् ॥
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+किञ्च वेदान्तैर्  
+जगतो ब्रह्मोपादानता-प्रतिपादन-निश्चये सति  
+घटादीनां चैतन्य-शक्तेश्  
+चैतन्यस्य वाऽनुद्भूतस्य सद्भावनिश्चयः,  तन्-निश्चये सति  
+वेदान्तैर्  
+जगतो ब्रह्मोपादानताप्-रतिपादन-निश्चय  
+इतीतरेतराश्रयत्वम्। 
+</details>
+
+<details><summary>English</summary>
+
+Moreover, to prove at first from the Vedānta-texts that Brahman is the material cause of the world, and from this that pots and the like possess potential consciousness, and therefrom the existence of non-manifested consciousness; and then, on the other hand, to start from the last principle as proved and to deduce therefrom that the Vedānta-texts prove Brahman to be the material cause of the world, is simply to argue in a circle; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किञ्च वेदान्तैर्जगतो ब्रह्मोपादानताप्रतिपादननिश्चये सति घटादीनां चैतन्यशक्तेश्चैतन्यस्य वाऽनुद्भूतस्य सद्भावनिश्चयः, तन्निश्चये सति वेदान्तैर्जगतो ब्रह्मोपादानताप्रतिपादननिश्चय इतीतरेतराश्रयत्वम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विलक्षणयोर् हि कार्य-कारण-भावः  
+प्रतिपादयितुम् एव न शक्यते ॥
+</details>
+
+<details><summary>English</summary>
+
+for that the relation of cause and effect should exist between things different in character is just what cannot be proved.
+</details>
+
+<details><summary>मूलम्</summary>
+
+विलक्षणयोर्हि कार्यकारणभावः प्रतिपादयितुमेव न शक्यते ॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 कथं ब्रह्मोपादानतोक्तेः  
-घटादौ धी-निश्चयापेक्षेत्य् अत्राह - विलक्षणयोर्हि इति । यूपादित्यैक्यवदिति भावः । किं पुनः इत्यादिना वैलक्षण्यासिद्धिराशङ्क्य परिहृता । ननु च इत्यादिना अनैकान्त्यम् ॥ 4 ॥
+घटादौ धी-निश्चयापेक्षेत्य् अत्राह - विलक्षणयोर्हि इति । यूपादित्यैक्यवद् इति भावः । 
+</details>
+
+
+### प्रसक्त-सालक्षण्य-विवेचनतः ब्रह्मणः उपादानत्वं तन्निषेधश् च
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं पुनः प्रकृति-विकारयोस् सालक्षण्यम् अभिप्रेतम्,  
+यद्-अभावाज्  
+जगतो ब्रह्मोपादानता-प्रतिपादनासम्भवं ब्रूषे?  
+</details>
+
+<details><summary>English</summary>
+
+What sameness of character, again,  
+of causal substance and effects,  
+have you in mind  
+when you maintain that  
+from the absence of such sameness  
+it follows that Brahman cannot be proved to be the material cause of the world?  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किं पुनः प्रकृतिविकारयोस्सालक्षण्यमभिप्रेतम्, यदभावाज्जगतो ब्रह्मोपादानता-प्रतिपादनासम्भवं ब्रूषे; 
+</details>
+ 
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न तावत् सर्व-धर्म-सारूप्यम्,  
+कार्य-कारण-भावानुपपत्तेः।  
+</details>
+
+<details><summary>English</summary>
+
+It cannot be complete sameness of all attributes, because in that case the relation of cause and effect (which after all requires _some_ difference) could not be established. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न तावत्सर्वधर्मसारूप्यम्, कार्यकारणभावानुपपत्तेः।  
+</details>
+
+
+किं पुनः इत्यादिना वैलक्षण्यासिद्धिराशङ्क्य परिहृता । ननु च इत्यादिना अनैकान्त्यम् ॥ 4 ॥
 
 अथ स्यात् - अचेतनत्वेनाभिमतानामपि ... ...
 
