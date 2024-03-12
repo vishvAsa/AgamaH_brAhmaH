@@ -29,7 +29,7 @@ title = "०३ विलक्षणत्वाधिकरणम्"
 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 > न विलक्षणत्वादस्य तथात्वं च शब्दात् । 
 
@@ -80,7 +80,7 @@ antagonistic to all evil, enjoying unbroken uniform blessedness.
 पुनरपि स्मृतिविरोधवादी तर्कमवलम्बमानः प्रत्यवतिष्ठतेयत्साङ्ख्यस्मृतिनिराकरणेन जगतो ब्रह्मकार्यत्वमुक्तम्,तन्नोपपद्यते; अस्य प्रत्यक्षादिभिरचेतनत्वेनाशुद्धत्वेनानीश्वरत्वेन दुःखात्मकत्वेन चोपलभ्यमानस्य चिदचिदात्मकस्य जगतः भवदभ्युपेतात्सर्वज्ञात्सर्वेश्वराद्धेयप्रत्यनीकादानन्दैकतानाद्ब्रह्मणो विलक्षणत्वात् । 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 सोत्र **न** इति पदं व्याचष्टे **यत्** इति ।  
 **अस्य** इति व्याख्येयम् ।  
@@ -130,7 +130,7 @@ and so on;
 न केवलं प्रत्यक्षादिभिरेव जगतो वैलक्षण्यमुपलभ्यते, शब्दाच्च तथात्वम् विलक्षणत्वम् उपलभ्यते "विज्ञानं चाविज्ञानं च" "एवमेवैता भूतमात्राः प्रज्ञामात्रास्वर्पिताः प्रज्ञामात्राः प्राणे अर्पिताः" समाने वृक्षे पुरुषो निमग्नोऽग्नीशया शोचति मुह्यमानः" "अनीशश्चात्मा बध्यते भोक्तृभावात्" इत्यादिभिः ।  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 **तथात्वम्** इत्य्-आदि-सूत्र-खण्डं व्याचष्टे  
 **न केवलम्** इति ।  
@@ -175,7 +175,7 @@ The general rule is that an effect is non-different in character from its cause;
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 ततः किम् इत्य्-अत्राह - यद्धि इति ।  
 </details>
@@ -224,7 +224,7 @@ and we hence conclude that, in agreement with the Sānkhya Smr̥ti, the Pradhān
 अवश्यं च शास्त्रस्यानन्यापेक्षस्यातीन्द्रियार्थगोचरत्वेपि तर्कोऽनुसरणीयः, यतस्सर्वेषां प्रमाणानां क्वचित् क्वचिद्विषये तर्कानुगृहीतानामेवार्थनिश्चयहेतुत्वम् ।  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 शास्त्रेण तर्को बाध्य इत्यत्राह अवश्यं च इति । अनन्यापेक्षस्य - प्रमाणान्तरानपेक्षस्य ।  
 न हि तर्को मानम् ;  
@@ -264,7 +264,7 @@ this kind of cognitional activity is also called ūha.
 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 तर्केण मानस्य किञ्चित्-कारम् आह - तर्को हि इति ।   
 </details>
@@ -327,7 +327,7 @@ In accordance with this Manu says,'He who investigates by means of reasoning, he
 " यस्तर्केणानुसन्धत्ते स धर्मे वेद नेतरः" इति ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 **शास्त्रस्य तु** इति - **तु**-शब्दः साध्यवैषम्ये ।  
 **विशेषेण** इति साधनवैषम्ये ।  
@@ -400,7 +400,7 @@ and it is this very difference of manifestation and non-manifestation of intelli
 अत एव चेतनाचेतनविभागः – इति ॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 स्वापे चैतन्यानुपलम्भः ,  
 तच्छक्ति-योगश् च वेद-तद्-इतराभिमतौ ।  
@@ -485,7 +485,7 @@ for that the relation of cause and effect should exist between things different 
 विलक्षणयोर्हि कार्यकारणभावः प्रतिपादयितुमेव न शक्यते ॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 कथं ब्रह्मोपादानतोक्तेः  
 घटादौ धी-निश्चयापेक्षेत्य् अत्राह - विलक्षणयोर्हि इति । यूपादित्यैक्यवद् इति भावः । 
@@ -636,7 +636,7 @@ It cannot be complete sameness of all attributes, because in that case the relat
 न सर्वप्रयोगानुगुणम्यथोक्तेषु ईश्वरशरीरतया अभिहितेषु पृथिव्यादिषु अव्याप्तेः ।+++(4)+++
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 लोके च इत्यादि ।  
 क्रिमि-कीट-पतङ्गादाव् अनुगतत्वाय हि  
@@ -720,7 +720,7 @@ It cannot be complete sameness of all attributes, because in that case the relat
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 अनुयायिनि संभवति ,  
 अन्-अनुगत-स्वीकारायोगात् ।  
@@ -757,7 +757,7 @@ It cannot be complete sameness of all attributes, because in that case the relat
 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 अतः - अनुयायिनो लक्षणत्वात् ,  
 त्वद्-उक्तस्य चाननुयायित्वाद् इत्य् अर्थः ॥

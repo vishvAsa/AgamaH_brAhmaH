@@ -45,7 +45,7 @@ on the ground of that view being contradicted by the Smr̥ti of Kapila, i. e. th
 प्रथमं तावत् कपिलस्मृतिविरोधाद्वेदान्तानां अतत्परत्वमाशङ्क्य तन्निराक्रियते ।  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 द्वितीयाद्य-प्रतिपाद्यमाह - प्रथमम् इति ।  
 </details>
@@ -74,7 +74,7 @@ For that Smr̥ti if contradicted by Scripture is to be held of no account, is al
 इति श्रुतिविरुद्धायाः स्मृतेरनादरणीयत्वम् ।  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 उत्थानम् आक्षिपति **कथम्** इति।  
 </details>
@@ -98,7 +98,7 @@ For that Smr̥ti if contradicted by Scripture is to be held of no account, is al
 सत्यम्, "औदुम्बरीं स्पृष्ट्वोद्गायेत्" इत्यादिषु स्वत एवार्थनिश्चयसम्भवात् तद्विरुद्धा स्मृतिरनादरणीयैव;
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 परिहरति - **सत्यम्** इति ।  
 औदुम्बर्यादिवाक्येषु श्रुतिन्यायानपेक्षं श्रुत्यर्थस्य निश्चित्वात् तद्विरुद्धस्मृस्यनादरो युक्तः ।  
@@ -132,7 +132,7 @@ that Scripture does not set forth a certain doctrine.
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 इह तु श्रुतिवैविध्यात्  
 श्रुत्यर्थे संशय्यमाने ,  
@@ -194,7 +194,7 @@ cannot differ from the one established by the Sānkhyas.
 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 कपिलस्य महर्षित्वे किं मानम् ?  
 सत्यपि तस्मिन् बृहस्पत्य्-आद्य्-उक्त-लोकायतादिवत् किं न स्यात् ?  
@@ -279,7 +279,7 @@ On this ground the Sūtra sets forth the primā facie view,
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 पूर्वपक्षस्यानुत्सूत्रत्वम् आह - तदिदम् इति ॥
 </details>
@@ -310,7 +310,7 @@ The same Sūtra replies
 </details>
  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 परिहार-खण्डम् अवतारयति - **तत्रोत्तरम्** इति ।  
 </details>
@@ -357,7 +357,7 @@ For other Smr̥tis, that of Manu e.g., teach that Brahman is the universal cause
 अन्या हि मन्वादिस्मृतयो ब्रह्मैककारणतां वदन्ति; यथाह मनुः - "आसीदिदं तमोभूतम्" इत्यारभ्य "ततः स्वयम्भूर्भगवानव्यक्तो व्यञ्जयन्निदम् । महाभूतादिवृत्तौजाः प्रादुरासीत्तमोनुदः" "सोऽभिध्याय शरीरात्स्वात् सिसृक्षुविर्विधाः प्रजाः । अप एव ससर्जादौ तासु वीर्यमपासृजत्"इति । 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 सर्व-कर्माराध्यत्वाय  
 कार्य-भूत--सर्व-देवतात्मत्व-सिद्धये  
@@ -427,7 +427,7 @@ And the Bhagavad-gitā,
 भगवद्गीतासु च "अहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा" "अहं सर्वस्य प्रभवो मत्तस्सर्वं प्रवर्तते" इति च । 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 "अहं कृत्स्नस्य" इत्यादि स्फुटम् ॥
 </details>
@@ -618,7 +618,7 @@ and it is for this reason that Kapila's Smr̥ti which contains a doctrine oppose
 
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 मन्व्-आदिस्मृतयः सावकाशाः , कपिलश्चाप्तः । उपबृंहणं चापेक्षितम् इत्य् उक्तम् ।  
 कथं तत्-स्मृतिं हित्वा  
@@ -654,7 +654,7 @@ The support required is elucidation of the sense conveyed by Scripture, and this
 उपबृंहणं च श्रुतिप्रतिपन्नार्थविशदीकरणम्; तच्च विरुद्धार्थया स्मृत्या न शक्यते कर्तुम् ।  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 हेत्वन्तरं चाह - **उपबृंहणं च** इति ॥
 </details>
@@ -683,7 +683,7 @@ they are also not capable of impressing upon us the idea of those acts themselve
 न चैतासां स्मृतीनां प्राचीनभागोदितधर्मांशविशदीकरणेन सावकाशत्वम्; परब्रह्मभूतपरमपुरुषाराधनत्वेन धर्मान्विदधतीनामेतासामाराध्य भूतपरमपुरुषप्रतिपादनाभावे सति तदाराधनभूतधर्मप्रतिपादनासम्भवात् ।  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 न च इत्यादि स्फुटम् ।  
 </details>
@@ -788,7 +788,7 @@ Nor can it be said that Manu and similar Smr̥tis have a function in so far as s
 न चैहिकामुष्मिकसांसारिकफलसाधनकर्मप्रतिपादनेनतासां सावकाशत्वम्; यतस्तेषामपि कर्मणां परमपुरुषाराधनत्वमेव स्वरूपम्;
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 विद्याङ्ग-कर्मणां हि भगवद्-आराधन-रूपत्वं ,  
 स्वर्गादि-फलानां तु  
@@ -876,7 +876,7 @@ Nor finally can we admit the contention that it is rational to interpret the Ved
 यदुक्तं "ऋषिं प्रसूतं कपिलम्" इति कपिलस्याप्ततया सङ्कीर्तनात्तत्स्मृत्यनुसारेण वेदान्तार्थव्यवस्तापनं न्याय्यमिति; तदसत्, बृहस्पतेः श्रुतिस्मृतिषु सर्वेषामतिशयितज्ञानानां निदर्शनत्वेन सङ्कीर्तनात्तत्प्रणीतेन लोकायतेन श्रुत्यर्थव्यवस्थापनप्रसक्तेरिति ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 यदुक्तम् इत्यादि । श्रुतिप्रामाण्याङ्गीकारेऽपि श्रुत्यर्थविरोधस्यानादरणीयत्वे प्रयोजकत्वात् तत् कापिललोकायतमतयोरविशिष्टमिति त्याज्यत्वमित्यर्थः ॥ 1 ॥
 </details>
@@ -904,7 +904,7 @@ But, it may here be said, the Vedānta-texts should after all be interpreted in 
 अथ स्यात्, कपिलस्य स्वयोगमहिम्ना वस्तुयाथात्म्योपलब्धेस्तत्स्मृत्यनुसारेण वेदान्तार्थो व्यवस्थापयितव्य इति; अत उत्तरं पठति -
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 उत्तरसूत्रशङ्कामाह - अथ स्यात् इति ।  
 मन्व्-आदीनां धर्म-प्रवर्तना ऽन्यपरत्वात्  
@@ -976,7 +976,7 @@ There are many other authors of Smr̥tis, such as Manu, who through the power of
 इतरेषाम्- मन्वादीनां बहूनां स्वयोगमहिमसाक्षात्कृतपरावरतत्त्वयाथात्म्यानां निखिलजगद्भेषजभूतस्ववाक्यतया "यद्वै किञ्चन मनुरवदत्तद्भेषजम्" इति श्रुतिप्रसिद्धानां कपिलदृष्टप्रकारेण तत्त्वानुपलब्धेः श्रुतिविरुद्धाकपिलोपलब्धिर्भ्रान्तिमूलेति न तया यथोक्ता वेदान्तार्थश्चालयितुं शक्य इति सिद्धम् ।। इति स्मृत्यधिकरणम् ।।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 इतरेषां चानुपलब्धेः ।  
 बहूनामुपलब्धिभिः एकोपलब्धेः भ्रान्तित्व-निश्चयः ।  

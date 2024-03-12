@@ -30,7 +30,7 @@ The different states of the individual soul have been discussed, to the end that
 दोषदर्शनाद्वैराग्योदयाय जीवस्यावस्थाविशेषा निरूपिताः
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 एसङ्गतिमाह - दोष इति ।  
 ब्रह्मणो हेयप्रत्यनीकत्वं कल्याणगुणाकरत्वं च पादार्थः ।  स्वप्नार्थ-स्रष्टृवत्व--सुषुप्ति-स्थानत्वयोर् अपि  
@@ -70,7 +70,7 @@ for everywhere (it is described) as having twofold characteristics.
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 स्थानेषु - अवस्थासु ।  
 तत्-तद्-अवस्थ-शरीरे - जागारदिहेतुत्वावस्थद्-इशरीरे । 

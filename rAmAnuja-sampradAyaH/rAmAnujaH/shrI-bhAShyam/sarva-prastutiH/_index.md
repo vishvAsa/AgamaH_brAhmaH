@@ -2,8 +2,15 @@
 title = "+सर्व-प्रस्तुतिः"
 
 +++
+
+## श्रुतप्रदीपिका
 [[श्रुतदीपिका श्रीभाष्यव्याख्या	Source: [EB](https://www.ebharatisampat.in/read_chapter?bookid=MjUxMTUwODUxMDI3NDA0)]]
 
+Source: [TW](https://archive.org/details/ShrutaPradipika)
+
+
+
+## श्रुतप्रकाशिका
 १९८९ Source: [१-१-१ - १-२](https://archive.org/details/WUoh_brahmasutra-sri-bhashya-of-shri-bhagavad-ramanujacharya-with-sruta-prakasika-com/page/n7/mode/2up)
 
 
@@ -20,7 +27,7 @@ Source: [TW](https://archive.org/details/nYWi_sri-bhashyam-of-ramanujacharya-ved
 
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 ** ॥श्रीः॥ **
 
