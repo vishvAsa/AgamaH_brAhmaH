@@ -1,0 +1,14 @@
++++
+full_title = ""
+title = "22 None"
+
++++
+
+
+22. (Of them) there is non-return, according to scripture; non-return, according to scripture.
+
+Those who, in following the road of the gods, to which the vein and the ray are leading, and on which light is the first stage, reach the world of Brahman as described by scripture--where 'there are the two lakes Ara and Ṇya in the world of Brahman, in the third heaven from hence,' and where 'there is the lake Airammadīya and the Aśvattha tree showering down Soma. and the city of Brahman Aparājitā and the golden hall built by Prabhu' (Cḥ. Up. VIII, 5, 3)--and set forth at length in mantras,
+
+arthavādas, and so on; those, we say, who reach that world do not return from there after having finished the enjoyment of their deeds; as those do who have gone to the world of the moon and other places.---Why so?--Because scriptural passages teach that they do not so return. Compare 'Moving upwards by it he reaches the immortal' (Cḥ. Up. VIII, 6, 6); 'For them there is no return' (Br̥. Up. VI, 2, 15); 'Those who proceed on that path do not return to the life of man' (Cḥ. Up. IV, 15, 6); 'He reaches the world of Brahman and does not return' (Cḥ. Up. VIII, 15, 1). That the finality of their lordly power does not imply their return to the life of man, we have shown under IV, 3, 10. It is a settled matter that those who through perfect knowledge have dispelled all mental darkness and are devoted to the eternally perfect Nirvāṇa do not return. And as those also who rely on the knowledge of the qualified Brahman in the end have recourse to that (Nirvāṇa), it follows that they also do not return.--The repetition of the words, 'Non-return, according to scripture,' indicates the conclusion of this body of doctrine.
+
+[^fn_237]: 418:1 All the commentators explain the reading 'mīyante.'--Ān. Gi. says--taṁ brahmalokagatam upāsakaṁ hiraṇyagarbhaḥ svasamīpam upāgataṁ sānunayam āha mayā khalv āpa evāmr̥tamayyo mīyante dr̥śyante bhujyante tavāpy asāv amr̥arūpodakalakshaṇo loko bhogyo yathāsukhaṁ bhujyatām.
