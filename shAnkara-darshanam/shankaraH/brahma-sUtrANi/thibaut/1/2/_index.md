@@ -1,5 +1,5 @@
 +++
-title = "2 second pāda"
+title = "+२"
 full_title = "SECOND PĀDA."
 
 +++

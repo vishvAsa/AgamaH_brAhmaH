@@ -1,5 +1,5 @@
 +++
-title = "3 third pāda"
+title = "+३"
 full_title = "THIRD PĀDA."
 
 +++

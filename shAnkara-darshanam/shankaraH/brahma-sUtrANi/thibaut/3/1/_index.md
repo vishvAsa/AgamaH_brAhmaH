@@ -1,5 +1,5 @@
 +++
-title = "1 first pāda"
+title = "+१"
 full_title = "FIRST PĀDA"
 
 +++
