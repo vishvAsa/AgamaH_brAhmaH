@@ -264,16 +264,141 @@ title = "०६ आरम्भणाधिकरणम्"
 ஏற்படுகிறது; அந்த ஸமயத்தில் பிரத்யக்ஷம்போல் வெறும் தோற்றம் என்ற எண்ணம்
 இருப்பதில்லை, அதைப்போல.
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कथं त्व् असत्येन वेदान्त-वाक्येन सत्यस्य ब्रह्मात्मत्वस्य
+प्रतिपत्तिर् उपपद्येत ?+++(5)+++  
+न हि रज्जु-सर्पेण दष्टो म्रियते।  
+नापि मृग-तृष्णिकाम्भसा  
+पानावगाहनादि-प्रयोजनं क्रियत इति। 
+</details>
+
+<details><summary>English</summary>
+
+> But how (to restate an objection raised above) can the Vedānta-texts if untrue convey information about the true being of Brahman? We certainly do not observe that a man bitten by a rope-snake (i.e. a snake falsely imagined in a rope) dies, nor is the water appearing in a mirage used for drinking or bathing [^fn_286].
+
+[^fn_286]: 324:1 I.e. ordinary experience does not teach us that real effects spring from unreal causes.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 कथं त्वसत्येन वेदान्तवाक्येन सत्यस्य ब्रह्मात्मत्वस्य
 प्रतिपत्तिरुपपद्येत ? न हि रज्जुसर्पेण दष्टो म्रियते। नापि
-मृगतृष्णिकाम्भसा पानावगाहनादिप्रयोजनं क्रियत इति। नैष दोषः,
+मृगतृष्णिकाम्भसा पानावगाहनादिप्रयोजनं क्रियत इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैष दोषः -
+शङ्का-विषादि-निमित्त--मरणादि-कार्योपलब्धेः,  
+स्वप्न-दर्शनावस्थस्य च
+सर्प-दंशनोदक-स्नानादि-कार्य-दर्शनात्। 
+</details>
+
+<details><summary>English</summary>
+
+This objection, we reply, is without force  
+(because as a matter of fact  
+we do see real effects to result from unreal causes),  
+for we observe that death sometimes takes place from imaginary venom,  
+(when a man imagines himself to have been bitten by a venomous snake,)  
+and effects (of what is perceived in a dream) such as the bite of a snake or bathing in a river take place with regard to a dreaming person.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नैष दोषः,
 शङ्काविषादिनिमित्तमरणादिकार्योपलब्धेः, स्वप्नदर्शनावस्थस्य च
-सर्पदंशनोदकस्नानादिकार्यदर्शनात्। तत्कार्यमप्यनृतमेवेति चेद्ब्रूयात् ,
+सर्पदंशनोदकस्नानादिकार्यदर्शनात्। 
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"तत्-कार्यम् अप्य् अनृतम् एवे"ति चेद् ब्रूयात् ,  
+अत्र ब्रूमः —  
+यद्य् अपि स्वप्न-दर्शनावस्थस्य सर्प-दंशनोदक-स्नानादि-कार्यम् अनृतम्,  
+तथा ऽपि तद्-अवगतिः सत्यम् एव फलम् , प्रतिबुद्धस्याप्य् अबाध्यमानत्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+> But, it will be said, these effects themselves are unreal!
+
+These effects themselves, we reply, are unreal indeed;  
+but not so the consciousness which the dreaming person has of them.  
+This consciousness is a real result;  
+for it is not sublated by the waking consciousness.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्कार्यमप्यनृतमेवेति चेद्ब्रूयात् ,
 अत्र ब्रूमः — यद्यपि स्वप्नदर्शनावस्थस्य सर्पदंशनोदकस्नानादिकार्यमनृतम्
-, तथापि तदवगतिः सत्यमेव फलम् , प्रतिबुद्धस्याप्यबाध्यमानत्वात्। न हि
+, तथापि तदवगतिः सत्यमेव फलम् , प्रतिबुद्धस्याप्यबाध्यमानत्वात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि स्वप्नाद् उत्थितः  
+स्वप्न-दृष्टं सर्प-दंशनोदक-स्नानादि-कार्यं मिथ्येति मन्यमानस्  
+तद्-अवगतिम् अपि मिथ्येति मन्यते कश्चित्। 
+</details>
+
+<details><summary>English</summary>
+
+The man who has risen from sleep  
+does indeed consider the effects perceived by him in his dream  
+such as being bitten by a snake, bathing in a river, &c. to be unreal,   
+but he does not on that account  
+consider the consciousness he had of them to be unreal likewise.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हि
 स्वप्नादुत्थितः स्वप्नदृष्टं सर्पदंशनोदकस्नानादिकार्यं मिथ्येति
-मन्यमानस्तदवगतिमपि मिथ्येति मन्यते कश्चित्। एतेन स्वप्नदृशोऽवगत्यबाधनेन
+मन्यमानस्तदवगतिमपि मिथ्येति मन्यते कश्चित्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतेन स्वप्न-दृशो ऽवगत्य्-अबाधनेन
+देहमात्रात्म-वादो दूषितो वेदितव्यः ।
+</details>
+
+<details><summary>English</summary>
+
+--(We remark in passing that) by this fact of the consciousness of the dreaming person not being sublated (by the waking consciousness) the doctrine of the body being our true Self is to be 'considered as refuted.
+
+(325:1 Svapna-jāgrad-dehayor vyabhicāre#pi  
+pratyabhijñānāt tad-anugatātmaikya-siddheś caitanyasya ca  
+deha-dharmatve rūpādivat  
+tad-anupalabdhi-prasangād  
+avagateś cābādhāt  
+tad-rūpasyātmano dehadvayātireka-siddher dehātrātmavādo na yukta ity arthaḥ. Ān. Gi.
+)</details>
+ 
+
+
+<details><summary>मूलम्</summary>
+
+एतेन स्वप्नदृशोऽवगत्यबाधनेन
 देहमात्रात्मवादो दूषितो वेदितव्यः ।
+
+</details>
+
+
 
 வாஸ்தவமில்லாத வேதாந்த வாக்கியத்தினால் ஸத்யமாய் உள்ள பிரஹ்மமே ஆத்மாவென்ற
 அறிவு எப்படி ஏற்படும்? கயிற்றில் தோன்றும் பாம்பினால் கடிபட்டு இறப்பது
@@ -293,15 +418,104 @@ title = "०६ आरम्भणाधिकरणम्"
 பார்ப்பவனுடைய இந்த அறிவு பாதிக்கப்படாததினால் தேஹமே ஆத்மா என்ற வாதம்
 தூஷிக்கப்பட்டதாக அறியவேண்டும்.
 
-तथा च श्रुतिः — ‘यदा कर्मसु काम्येषु स्त्रियं स्वप्नेषु पश्यति।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च श्रुतिः — 
+
+> ‘यदा कर्मसु काम्येषु  
+स्त्रियं स्वप्नेषु पश्यति।
+समृद्धिं तत्र जानीयात्  
+तस्मिन् स्वप्न-निदर्शने’ (छा. उ. ५। २। ८)
+
+इत्य् असत्येन स्वप्न-दर्शनेन  
+सत्यायाः समृद्धेः प्रतिपत्तिं दर्शयति, 
+</details>
+
+<details><summary>English</summary>
+
+--Scripture also (in the passage, 'If a man who is engaged in some sacrifice undertaken for some special wish sees in his dream a woman, he is to infer therefrom success in his work') declares that by the unreal phantom of a dream a real result such as prosperity may be obtained. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा च श्रुतिः — 
+
+‘यदा कर्मसु काम्येषु स्त्रियं स्वप्नेषु पश्यति।
 समृद्धिं तत्र जानीयात्तस्मिन्स्वप्ननिदर्शने’ (छा. उ. ५। २। ८)
-इत्यसत्येन स्वप्नदर्शनेन सत्यायाः समृद्धेः प्रतिपत्तिं दर्शयति, तथा
+इत्यसत्येन स्वप्नदर्शनेन सत्यायाः समृद्धेः प्रतिपत्तिं दर्शयति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा
+प्रत्यक्ष-दर्शनेषु केषुचिद् अरिष्टेषु जातेषु 
+
+> ‘न चिरम् इव जीविष्यतीति विद्यात्’
+
+इत्युक्त्वा 
+
+> ‘अथ स्वप्नाः पुरुषं कृष्णं  
+> कृष्णदन्तं पश्यति  
+> स एनं हन्ति’(ऐ॰आ॰ ३-२-४) 
+
+इत्यादिना तेन तेनासत्येनैव स्वप्न-दर्शनेन सूच्यत इति
+दर्शयति। 
+</details>
+
+<details><summary>English</summary>
+
+And, again, another scriptural passage, after having declared that from the observation of certain unfavourable omens a man is to conclude that he will not live long, continues 'if somebody sees in his dream a black man with black teeth and that man kills him,' intimating thereby that by the unreal dream-phantom a real fact, viz. death, is notified.--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा
 प्रत्यक्षदर्शनेषु केषुचिदरिष्टेषु जातेषु ‘न चिरमिव जीविष्यतीति विद्यात्’
 इत्युक्त्वा ‘अथ स्वप्नाः पुरुषं कृष्णं कृष्णदन्तं पश्यति स एनं
 हन्ति’(ऐ॰आ॰ ३-२-४) इत्यादिना तेन तेनासत्येनैव स्वप्नदर्शनेन सूच्यत इति
-दर्शयति। प्रसिद्धं चेदं लोकेऽन्वयव्यतिरेककुशलानामीदृशेन स्वप्नदर्शनेन
-साध्वागमः सूच्यते, ईदृशेनासाध्वागम इति। तथा
+दर्शयति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रसिद्धं चेदं लोके ऽन्वय-व्यतिरेक-कुशलानाम्  
+ईदृशेन स्वप्न-दर्शनेन साध्व्-आगमः सूच्यते, ईदृशेनासाध्व्-आगम इति।  
+</details>
+
+<details><summary>English</summary>
+
+It is, moreover, known from the experience of persons who carefully observe positive and negative instances that such and such dreams are auspicious omens, others the reverse. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रसिद्धं चेदं लोकेऽन्वयव्यतिरेककुशलानामीदृशेन स्वप्नदर्शनेन साध्वागमः सूच्यते, ईदृशेनासाध्वागम इति।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा अकारादि-+++(शब्द-रूप)+++सत्याक्षर-प्रतिपत्तिर् दृष्टा  
+रेखानृताक्षर-प्रतिपत्तेः ।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+And (to quote another example that something true can result from or be known through something untrue) we see that the knowledge of the real sounds A. &c. is reached by means of the unreal written letters. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा
 अकारादिसत्याक्षरप्रतिपत्तिर्दृष्टा रेखानृताक्षरप्रतिपत्तेः ।
+
+</details>
+
+
 
 அப்படியே சுருதியும், “எப்பொழுது காம்ய கர்மாக்களில் ஸ்வப்னங்களில்
 ஸ்திரீயைப் பார்க்கிறானோ, அந்த ஸ்வப்னம் பார்ப்பதினால் அவைகளில் ஸமிருத்
@@ -318,15 +532,135 @@ title = "०६ आरम्भणाधिकरणम्"
 பிரஸித்தம். அப்படியே, கோடாகவுள்ள பொய்யான அக்ஷரத்தின் அறிவினால் ‘அ’
 முதலான ஸத்யமான அக்ஷரத்தின் ஞானம் ஏற்படுவது பார்க்கப் படுகிறது.
 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि चान्त्यम् इदं प्रमाणम् आत्मैकत्वस्य प्रतिपादकम् ,  
+नातःपरं किञ्चिद् आकाङ्क्ष्यम् अस्ति। 
+</details>
+
+<details><summary>English</summary>
+
+Moreover, the reasons which establish the unity of the Self are altogether final, so that subsequently to them nothing more is required for full satisfaction. 
+
+(326:1 As long as the 'vyavahāra' presents itself to our mind,  
+we might feel inclined to assume in Brahman an element of manifoldness  
+whereby to account for the vyavahāra;  
+but as soon as we arrive at true knowledge,  
+the vyavahāra vanishes,  
+and there remains no longer any reason for qualifying in any way the absolute unity of Brahman.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अपि चान्त्यमिदं प्रमाणमात्मैकत्वस्य प्रतिपादकम् , नातःपरं
-किञ्चिदाकाङ्क्ष्यमस्ति। यथा हि लोके यजेतेत्युक्ते, किं केन कथम्
-इत्याकाङ्क्ष्यते। नैवं ‘तत्त्वमसि’ ‘अहं ब्रह्मास्मि’ इत्युक्ते,
-किञ्चिदन्यदाकाङ्क्ष्यमस्ति — सर्वात्मैकत्वविषयत्वावगतेः। सति
-ह्यन्यस्मिन्नवशिष्यमाणेऽर्थे आकाङ्क्षा स्यात्। न
-त्वात्मैकत्वव्यतिरेकेणावशिष्यमाणोऽन्योऽर्थोऽस्ति, य आकाङ्क्ष्येत। न
+किञ्चिदाकाङ्क्ष्यमस्ति। 
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा हि लोके यजेतेत्य् उक्ते,  
+किं केन कथम् इत्य् आकाङ्क्ष्यते। 
+</details>
+
+<details><summary>English</summary>
+
+An injunction as, for instance, 'He is to sacrifice' at once renders us desirous of knowing what is to be effected, and by what means and in what manner it is to be effected; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा हि लोके यजेतेत्युक्ते, किं केन कथम्
+इत्याकाङ्क्ष्यते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैवं ‘तत्त्वमसि’ ‘अहं ब्रह्मास्मि’ इत्युक्ते,  
+किञ्चिद् अन्यद् आकाङ्क्ष्यम् अस्ति — सर्वात्मैकत्व-विषयत्वावगतेः। 
+</details>
+
+<details><summary>English</summary>
+
+but passages such as, 'Thou art that,' 'I am Brahman,' leave nothing to be desired because the state of consciousness produced by them has for its object the unity of the universal Self. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नैवं ‘तत्त्वमसि’ ‘अहं ब्रह्मास्मि’ इत्युक्ते,
+किञ्चिदन्यदाकाङ्क्ष्यमस्ति — सर्वात्मैकत्वविषयत्वावगतेः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सति ह्य् अन्यस्मिन्न् अवशिष्यमाणेऽर्थे  
+आकाङ्क्षा स्यात्। 
+</details>
+
+<details><summary>English</summary>
+
+For as long as something else remains a desire is possible; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सति
+ह्यन्यस्मिन्नवशिष्यमाणेऽर्थे आकाङ्क्षा स्यात्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न त्व् आत्मैकत्व-व्यतिरेकेणावशिष्यमाणो ऽन्यो ऽर्थोऽस्ति, य आकाङ्क्ष्येत। 
+</details>
+
+<details><summary>English</summary>
+
+but there is nothing else which could be desired in addition to the absolute unity of Brahman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न
+त्वात्मैकत्वव्यतिरेकेणावशिष्यमाणोऽन्योऽर्थोऽस्ति, य आकाङ्क्ष्येत। 
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चेयम् अवगतिर् नोत्पद्यत इति शक्यं वक्तुम् ,  
+‘तद्धास्य विजज्ञौ’ (छा. उ. ६।
+१६। ३) इत्यादिश्रुतिभ्यः,  
+अवगति-साधनानां च श्रवणादीनां  
+वेदानुवचनादीनां च विधानात् ।
+</details>
+
+<details><summary>English</summary>
+
+Nor can it be maintained that such states of consciousness do not actually arise; for scriptural passages such as, 'He understood what he said' (Cḥ. Up. VII, 18, 2), declare them to occur,  
+
+and certain means are enjoined to bring them about, such as the hearing (of the Veda from a teacher) and the recital of the sacred texts. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न
 चेयमवगतिर्नोत्पद्यत इति शक्यं वक्तुम् , ‘तद्धास्य विजज्ञौ’ (छा. उ. ६।
-१६। ३) इत्यादिश्रुतिभ्यः। अवगतिसाधनानां च श्रवणादीनां वेदानुवचनादीनां च
+१६। ३) इत्यादिश्रुतिभ्यः,   
+अवगतिसाधनानां च श्रवणादीनां वेदानुवचनादीनां च
 विधानात् ।
+
+</details>
+
+
+
 
 மேலும், ஆத்மாவின் ஒன்றாயிருக்கும் தன்மையை பிரதிபாதிக்கிற இந்தப்பிரமாணம்
 கடைசியாயுள்ளது. இதற்குப் பிறகு அறியவேண்டியதாக எதுவும் கிடையாது.
@@ -342,12 +676,77 @@ title = "०६ आरम्भणाधिकरणम्"
 6-16-3) என்பது முதலான சுருதிகளால். அறிவதற்குள் ஸாதனமாயுள்ள சிரவணம்
 முதலியவைகளும் வேதானுவசனம் முதலியவைகளும் விதிக்கப் பட்டிருப்பதாலும்.
 
-न चेयमवगतिरनर्थिका भ्रान्तिर्वेति शक्यं वक्तुम्।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चेयम् अवगतिर् अनर्थिका भ्रान्तिर्वेति शक्यं वक्तुम् -  
+अविद्या-निवृत्ति-फल-दर्शनात् , बाधक-ज्ञानान्तराभावाच् च।
+</details>
+
+<details><summary>English</summary>
+
+Nor, again, can such consciousness be objected to on the ground either of uselessness or of erroneousness, because,  
+firstly, it is seen to have for its result the cessation of ignorance,  
+and because, secondly, there is no other kind of knowledge by which it could be sublated. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न चेयमवगतिरनर्थिका भ्रान्तिर्वेति शक्यं वक्तुम्  
 अविद्यानिवृत्तिफलदर्शनात् , बाधकज्ञानान्तराभावाच्च।
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राक्चात्मैकत्वावगतेर् अव्याहतः  
+सर्वः सत्यानृत-व्यवहारो लौकिको
+वैदिकश् चेत्य् अवोचाम। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+And that before the knowledge of the unity of the Self has been reached  
+the whole real-unreal course of ordinary life, worldly as well as religious, goes on unimpeded,  
+we have already explained. 
+
+</details>
+ 
+
+
+<details><summary>मूलम्</summary>
+
 प्राक्चात्मैकत्वावगतेरव्याहतः सर्वः सत्यानृतव्यवहारो लौकिको
-वैदिकश्चेत्यवोचाम। तस्मादन्त्येन प्रमाणेन प्रतिपादिते आत्मैकत्वे
+वैदिकश्चेत्यवोचाम। 
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माद् अन्त्येन प्रमाणेन  
+प्रतिपादिते आत्मैकत्वे   
+समस्तस्य प्राचीनस्य भेद-व्यवहारस्य बाधितत्वात्  
+न अनेकात्मक-ब्रह्म-कल्पना-वकाशोऽस्ति। 
+</details>
+
+<details><summary>English</summary>
+
+When, however, final authority having intimated the unity of the Self, the entire course of the world which was founded on the previous distinction is sublated, then there is no longer any opportunity for assuming a Brahman comprising in itself various elements.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मादन्त्येन प्रमाणेन प्रतिपादिते आत्मैकत्वे
 समस्तस्य प्राचीनस्य भेदव्यवहारस्य बाधितत्वात् न
-अनेकात्मकब्रह्मकल्पनावकाशोऽस्ति। ननु
+अनेकात्मकब्रह्मकल्पनावकाशोऽस्ति। 
+
+</details>
+
+
+ननु
 मृदादिदृष्टान्तप्रणयनात्परिणामवद्ब्रह्म शास्त्रस्याभिमतमिति गम्यते।
 परिणामिनो हि मृदादयोऽर्था लोके समधिगता इति। नेत्युच्यते — ‘स वा एष
 महानज आत्माजरोऽमरोऽमृतोऽभयो ब्रह्म’ (बृ. उ. ४। ४। २५) ‘स एष नेति
