@@ -306,7 +306,6 @@ we do see real effects to result from unreal causes),
 for we observe that death sometimes takes place from imaginary venom,  
 (when a man imagines himself to have been bitten by a venomous snake,)  
 and effects (of what is perceived in a dream) such as the bite of a snake or bathing in a river take place with regard to a dreaming person.
-
 </details>
 
 
@@ -711,7 +710,6 @@ and because, secondly, there is no other kind of knowledge by which it could be 
 And that before the knowledge of the unity of the Self has been reached  
 the whole real-unreal course of ordinary life, worldly as well as religious, goes on unimpeded,  
 we have already explained. 
-
 </details>
  
 
