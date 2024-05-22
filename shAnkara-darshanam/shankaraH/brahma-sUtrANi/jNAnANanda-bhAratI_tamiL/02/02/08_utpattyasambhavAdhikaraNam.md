@@ -3,13 +3,35 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 
 +++
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उत्पत्त्यसम्भवात् ॥ ४२ ॥  
+</details>
+
+<details><summary>English</summary>
+
+42. On account of the impossibility of the origination (of the individual soul from the highest Lord, the doctrine of the Bhāgavatas cannot be accepted).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उत्पत्त्यसम्भवात् ॥ ४२ ॥  
+</details>
+
+
+
 உத்பத்த்யஸம்பவாத் ॥ 42 ॥
 
-जीवोत्पत्त्यादिकं पञ्चरात्रोक्तं य़ुज्यते न वा ॥  
-युक्तं नारायणव्यूहतत्समाराधनादिवत् ॥ १५ ॥  
-युज्यतामविरुद्धांशो जीवोत्पत्तिर्न युज्यते ॥  
-उत्पन्नस्य विनाशित्वे कृतनाशादिदोषतः ॥ १६ ॥  
+जीवोत्पत्त्यादिकं पञ्चरात्रोक्तं युज्यते न वा ॥  
+युक्तं नारायण-व्यूह--तत्-समाराधनादिवत् ॥ १५ ॥  
+
+युज्यताम् अविरुद्धांशो  
+जीवोत्पत्तिर् न युज्यते ॥  
+उत्पन्नस्य विनाशित्वे  
+कृत-नाशादि-दोषतः ॥ १६ ॥  
+
+
 --வையாஸிக ந்யாயமாலா
 
 பாஞ்சாரத்ர ஆகமத்தில் சொல்லப்படுகிற ஜீவனுடைய உத்பத்தி முதலியது யுக்தமா,
@@ -20,6 +42,43 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 உத்பத்தியென்பது பொருந்தாது. உண்டாவ திற்கு நசிக்கும் தன்மை இருப்பதால்
 செய்ததற்கு நாசம் முதலான தோஷங்கள் ஏற்படுமானதினால்.
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+येषाम् अप्रकृतिर् अधिष्ठाता  
+केवल-निमित्त-कारणम् ईश्वरोऽभिमतः,  
+तेषां पक्षः प्रत्याख्यातः।  
+येषां पुनः प्रकृतिश् चाधिष्ठाता च उभयात्मकं कारणम् ईश्वरोऽभिमतः,  
+तेषां पक्षः प्रत्याख्यायते।+++(5)+++  
+
+> ननु श्रुति-समाश्रयणेनाप्य्  
+एवंरूप एवेश्वरः प्राङ्निर्धारितः —
+प्रकृतिश् चाधिष्ठाता चेति।  
+श्रुत्य्-अनुसारिणी च स्मृतिः प्रमाणम्  
+इति स्थितिः।  
+तत् कस्य हेतोर्  
+एष पक्षः प्रत्याचिख्यासित इति — 
+
+उच्यते —
+यद्यप्य् एवं-जातीयको ऽंशः  
+समानत्वान् न विसंवाद-गोचरो भवति,  अस्ति त्व् अंशान्तरं विसंवाद-स्थानम्  
+इत्य् अतस् तत्-प्रत्याख्यानायारम्भः ॥
+
+</details>
+
+<details><summary>English</summary>
+
+We have, in what precedes, refuted the opinion of those who think that the Lord is not the material cause but only the ruler, the operative cause of the world. We are now going to refute the doctrine of those according to whom he is the material as well as the operative cause.
+
+> But, it may be objected, in the previous portions of the present work a Lord of exactly the same nature, i.e. a Lord who is the material, as well as the operative, cause of the world, has been ascertained on the basis of Scripture, and it is a recognised principle that Smr̥ti, in so far as it agrees with Scripture, is authoritative; why then should we aim at controverting the doctrine stated?
+
+It is true, we reply, that a part of the system which we are going to discuss agrees with the Vedānta system, and hence affords no matter for controversy; another part of the system, however, is open to objection, and that part we intend to attack.
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
 येषामप्रकृतिरधिष्ठाता केवलनिमित्तकारणमीश्वरोऽभिमतः, तेषां पक्षः
 प्रत्याख्यातः। येषां पुनः प्रकृतिश्चाधिष्ठाता च उभयात्मकं
 कारणमीश्वरोऽभिमतः, तेषां पक्षः प्रत्याख्यायते। ननु
@@ -28,6 +87,11 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 स्थितिः। तत्कस्य हेतोरेष पक्षः प्रत्याचिख्यासित इति — उच्यते —
 यद्यप्येवंजातीयकोंऽशः समानत्वान्न विसंवादगोचरो भवति, अस्ति त्वंशान्तरं
 विसंवादस्थानमित्यतस्तत्प्रत्याख्यानायारम्भः ॥
+
+</details>
+
+
+
 
 (ஐந்து பதார்த்தங்களை ஒப்புக்கொள்கிற மாஹே சுவர மதத்தை கண்டித்த பின்
 நான்கு வ்யூஹங்களைச் சொல்கிற பாகவத மதம் இந்த அதிகரணத்தில் கண்டிக்கப்
@@ -86,6 +150,18 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 क्षीण-क्लेशो भगवन्तम् एव प्रतिपद्यत इति ।
 </details>
 
+<details><summary>English</summary>
+
+The so-called Bhāgavatas are of opinion that the one holy (bhagavat) Vāsudeva, whose nature is pure knowledge, is what really exists, and that he, dividing himself fourfold, appears in four forms (vyūha), as Vāsudeva, Sankarshaṇa, Pradyumna, and Aniruddha.  
+
+Vāsudeva denotes the highest Self, Sankarshaṇa the individual soul, Pradyumna the mind (manas), Aniruddha the principle of egoity (ahankāra). 
+
+Of these four Vāsudeva constitutes the ultimate causal essence, of which the three others are the effects.
+
+The believer after having worshipped Vāsudeva for a hundred years by means of approach to the temple (abhigamana), procuring of things to be offered (upādāna), oblation (ījyā), recitation of prayers, &c. (svādhyāya), and devout meditation (yoga), passes beyond all affliction and reaches the highest Being.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 तत्र भागवता मन्यते —  
@@ -98,7 +174,6 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 प्रकृतिः, इतरे सङ्कर्षणादयः कार्यम्। तमित्थंभूतं परमेश्वरं
 भगवन्तमभिगमनोपादानेज्यास्वाध्याययोगैर्वर्षशतमिष्ट्वा क्षीणक्लेशो
 भगवन्तमेव प्रतिपद्यत इति ।
-
 </details>
 
 
@@ -119,20 +194,28 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र यत् तावद् उच्यते —  
-योऽसौ नारायणः परोऽव्यक्तात् प्रसिद्धः  
+योऽसौ नारायणः परो  
+ऽव्यक्तात् प्रसिद्धः  
 परमात्मा सर्वात्मा,  
-स आत्मनात्मानम् अनेकधा व्यूह्यावस्थित इति —  
+स आत्मना ऽऽत्मानम् अनेकधा व्यूह्यावस्थित इति —  
 तन् न निराक्रियते,  
 
 > ‘स एकधा भवति त्रिधा भवति’ (छा. उ. ७। २६। २) 
 
 इत्य्-आदि-श्रुतिभ्यः -  
 परमात्मनो ऽनेकधा-भावस्याधिगतत्वात्।  
+
 यदपि तस्य भगवतो ऽभिगमनादि-लक्षणम् आराधनम् अजस्रम् अनन्य-चित्ततया ऽभिप्रेयते,  
 तद् अपि न
 प्रतिषिध्यते,  
 श्रुति-स्मृत्योर् ईश्वर-प्रणिधानस्य प्रसिद्धत्वात् ।
 </details>
+
+<details><summary>English</summary>
+
+Concerning this system we remark that we do not intend to controvert the doctrine that Nārāyaṇa, who is higher than the Undeveloped, who is the highest Self, and the Self of all, reveals himself by dividing himself in multiple ways; for various scriptural passages, such as 'He is onefold, he is threefold' (Cḥ. Up. VII, 26, 2)', teach us that the highest Self appears in manifold forms. Nor do we mean to object to the inculcation of unceasing concentration of mind on the highest Being which appears in the Bhāgavata doctrine under the forms of reverential approach, &c.; for that we are to meditate on the Lord we know full well from Smr̥ti and Scripture. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -176,6 +259,15 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 तस्माद् असङ्गतैषा कल्पना ॥ ४२ ॥
 </details>
 
+<details><summary>English</summary>
+
+We, however, must take exception to the doctrine that Sankarshaṇa springs from Vāsudeva, Pradyumna from Sankarshaṇa, Aniruddha from Pradyumna. It is not possible that from Vāsudeva, i.e. the highest Self, there should originate Sankarshaṇa, i.e. the individual soul; for if such were the case, there would attach to the soul non-permanency, and all the other imperfections which belong to things originated. 
+
+And thence release, which consists in reaching the highest Being, could not take place; for the effect is absorbed only by entering into its cause.--That the soul is not an originated thing, the teacher will prove later on (II, 3, 17). For this reason the Bhāgavata hypothesis is unacceptable.
+
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 यत् पुनर् इदम् उच्यते —  वासुदेवात्सङ्कर्षण उत्पद्यते, सङ्कर्षणाच्च
@@ -207,6 +299,12 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 न च कर्तुः करणम् ॥ ४३ ॥  
 </details>
 
+<details><summary>English</summary>
+
+43. And (it is) not (observed that) the instrument is produced from the agent.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 न च कर्तुः करणम् ॥ ४३ ॥  
@@ -234,6 +332,12 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 
 </details>
 
+<details><summary>English</summary>
+
+The Bhāgavata hypothesis is to be rejected for that reason also, that observation never shows us an instrument, such as a hatchet and the like, to spring from an agent such as Devadatta, or any other workman. But the Bhāgavatas teach that from an agent, viz. the individual soul termed Sankarshaṇa, there springs its instrument, viz. the internal organ termed Pradyumna, and again from this offspring of the agent another instrument, viz. the ahankāra termed Aniruddha. Such doctrines cannot be settled without observed instances. And we do not meet with any scriptural passage in their favour.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इतश्चासङ्गतैषा कल्पना — यस्मान्न हि लोके कर्तुर्देवदत्तादेः करणं
@@ -256,8 +360,14 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विज्ञानादिभावे वा तदप्रतिषेधः ॥ ४४ ॥  
+विज्ञानादि-भावे वा तद्-अप्रतिषेधः ॥ ४४ ॥  
 </details>
+
+<details><summary>English</summary>
+
+44. Or (if) in consequence of the existence of knowledge, &c. (Vāsudeva, &c. be taken as Lords), yet there is non-exclusion of that (i.e. the objection raised in Sūtra 42).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -282,8 +392,15 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 
 "तस्मान् नायं यथा-वर्णित उत्पत्त्य्-अ-सम्भवो दोषः प्राप्नोती"ति
 ।
-
 </details>
+
+<details><summary>English</summary>
+
+Let us then--the Bhāgavatas may say--understand by Sankarshaṇa, and so on, not the individual soul, the mind, &c., but rather Lords, i.e. powerful beings distinguished by all the qualities characteristic of rulers, such as pre-eminence of knowledge and ruling capacity, strength, valour, glory.
+
+All these are Vāsudevas free from faults, without a substratum (not sprung from pradhāna), without any imperfections. Hence the objection urged in Sūtra 42 does not apply.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -324,6 +441,19 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 भगवान् एवैको वासुदेवः परमार्थ-तत्त्वम् इत्य् अभ्युपगमात् ।
 </details>
 
+<details><summary>English</summary>
+
+Even on this interpretation of your doctrine, we reply, the 'non-exclusion of that,' i.e. the non-exclusion of the impossibility of origination, can be established.
+
+Do you, in the first place, mean to say that the four individual Lords, Vāsudeva, and so on, have the same attributes,  
+but do not constitute one and the same Self?
+
+If so, you commit the fault of uselessly assuming more than one Lord, while all the work of the Lord can be done by one.  
+Moreover, you offend thereby against your own principle, according to which there is only one real essence, viz. the holy. Vāsudeva.
+</details>
+
+
+
 <details><summary>मूलम्</summary>
 
 अत्रोच्यते — एवमपि, तदप्रतिषेधः उत्पत्त्यसम्भवस्याप्रतिषेधः,
@@ -357,8 +487,9 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 भवितव्यं हि कार्यकारणयोर् अतिशयेन, यथा मृद्घटयोः।  
 न ह्य् असत्य् अतिशये,  
 कार्यं कारणम् इत्य् अवकल्पते।  
-न च पञ्चरात्र-सिद्धान्तिभिर् वासुदेवादिषु
-एकस्मिन् सर्वेषु वा ज्ञानैश्वर्यादि-तारतम्य-कृतः कश्चिद्भेदो ऽभ्युपगम्यते।  
+न च पञ्च-रात्र-सिद्धान्तिभिर् वासुदेवादिषु
+एकस्मिन् सर्वेषु वा ज्ञानैश्वर्यादि-तारतम्य-कृतः  
+कश्चिद् भेदो ऽभ्युपगम्यते।  
 
 वासुदेवा एव हि  
 सर्वे व्यूहा निर्विशेषा इष्यन्ते।  
@@ -366,6 +497,21 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 ब्रह्मादि-स्तम्ब-पर्यन्तस्य समस्तस्यैव जगतो भगवद्-व्यूहत्वावगमात् ॥ ४४ ॥
 
 </details>
+
+<details><summary>English</summary>
+
+Or do you perhaps mean to say that from the one highest Being there spring those four forms possessing equal attributes?
+
+In that case the objection urged in Sūtra 42 remains valid.  
+For Sankarshaṇa cannot be produced from Vāsudeva, nor Pradyumna from Sankarshaṇa, nor Aniruddha from Pradyumna, since (the attributes of all of them being the same) there is no supereminence of any one of them.  
+
+Observation shows that the relation of cause and effect requires some superiority on the part of the cause--as, for instance, in the case of the clay and the jar (where the cause is more extensive than the effect)--and that without such superiority the relation is simply impossible. 
+
+But the followers of the Pāñcarātra do not acknowledge any difference founded on superiority of knowledge, power, &c. between Vāsudeva and the other Lords, but simply say that they all are forms of Vāsudeva, without any special distinctions. 
+
+The forms of Vāsudeva cannot properly be limited to four, as the whole world, from Brahman down to a blade of grass, is understood to be a manifestation of the supreme Being.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -406,6 +552,12 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 विप्रतिषेधाच्च ॥ ४५ ॥  
 </details>
 
+<details><summary>English</summary>
+
+45. And on account of contradictions.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 विप्रतिषेधाच्च ॥ ४५ ॥  
@@ -430,6 +582,16 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 तस्मात् असङ्गतैषा कल्पनेति सिद्धम् ॥ ४५ ॥
 
 </details>
+
+<details><summary>English</summary>
+
+Moreover, manifold contradictions are met with in the Bhāgavata system, with reference to the assumption of qualities and their bearers. Eminence of knowledge and ruling capacity, strength, valour, and glory are enumerated as qualities, and then they are in some other place spoken of as Selfs, holy Vāsudevas, and so on.
+
+Moreover, we meet with passages contradictory of the Veda. The following passage, for instance, blames the Veda, 'Not having found the highest bliss in the Vedas Śāṇḍilya. studied this śāstra.'
+
+For this reason also the Bhāgavata doctrine cannot be accepted.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
