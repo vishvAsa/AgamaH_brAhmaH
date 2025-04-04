@@ -31,13 +31,7 @@ p. 3
 
  
 
-Ś
-
-A
-
-N
-
-KARA'S INTRODUCTION
+ŚANKARA'S INTRODUCTION
 
  
 
@@ -49,19 +43,18 @@ FIRST PĀDA.
 
 REVERENCE TO THE AUGUST VĀSUDEVA!
 
-It is a matter not requiring any proof that the object and the subject [^fn_36] whose respective spheres are the notion of the 'Thou' (the Non-Ego [^fn_37]) and the 'Ego,' and which are opposed to each other as much as darkness and light are, cannot be identified. All the less can their respective attributes be identified. Hence it follows that it is wrong to superimpose [^fn_38] upon the subject--whose Self is intelligence, and which has for its sphere the notion of the Ego--the object whose sphere is the notion of the Non-Ego, and the attributes of the object, and _vice versā_ to superimpose the subject and the attributes of the subject on the object. In spite of this it is on the part of man a natural [^fn_39] procedure--
+…
 
-[^fn_36]: 3:1 The subject is the universal Self whose nature is intelligence (cit); the object comprises whatever is of a non-intelligent nature, viz. bodies with their sense organs, internal organs, and the objects of the senses, i.e. the external material world.
+[[p. 4]]
 
-[^fn_37]: 3:2 The object is said to have for its sphere the notion of the 'thou' (yushmat), not the notion of the 'this' or 'that' (idam), in order better to mark its absolute opposition to the subject or Ego. Language allows of the co-ordination of the pronouns of the first and the third person ('It is I,' 'I am he who,' &c.; ete vayam, ime vayam āsmahe), but not of the co-ordination of the pronouns of the first and second person.
+In spite of this it is on the part of man a natural [^fn_39] procedure-- which has its cause in wrong knowledge--not to distinguish the two entities (object and subject) and their respective attributes, although they are absolutely distinct, but to superimpose upon each the characteristic nature and the attributes of the other, and thus, coupling the Real and the Unreal [^fn_40], to make use of expressions such as 'That am I,' 'That is mine [^fn_41].'
 
-[^fn_38]: 3:3 Adhyāsa, literally 'superimposition' in the sense of (mistaken) ascription or imputation, to something, of an essential nature or attributes not belonging to it. See later on.
 
 [^fn_39]: 3:4 Natural, i.e. original, beginngless; for the modes of speech p. 4 and action which characterise transmigratory existence have existed, with the latter, from all eternity.
 
-p. 4
 
-which has its cause in wrong knowledge--not to distinguish the two entities (object and subject) and their respective attributes, although they are absolutely distinct, but to superimpose upon each the characteristic nature and the attributes of the other, and thus, coupling the Real and the Unreal [^fn_40], to make use of expressions such as 'That am I,' 'That is mine [^fn_41].'
+
+
 
 But what have we to understand by the term 'superimposition?'
 
