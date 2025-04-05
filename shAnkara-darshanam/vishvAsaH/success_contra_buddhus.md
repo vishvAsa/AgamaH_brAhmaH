@@ -32,7 +32,7 @@ So, was S's attempt successful like the latter?
 
 - dayAnanda & followers actively engaged with and criticized buddhist texts. There is no evidence that shankara did that.
 - Even if he did argue with buddhists, why would they leave their buddha and sangha for something which is basically the same advaita (but philosophically more messed up, being avidyA + brahman rather than just the former)?
-- One must note that dayAnanda actually believed in what he wrote. This is contrary to the theory (by a parakAla yati) that shankara's writings were a subversive operation against buddhists (ie. he himself did not believe in what he was writing).
+- One must note that dayAnanda actually believed in what he wrote. This is contrary to the theory (by a parakAla yati, [YT](https://youtu.be/duVRhGpyoNQ?si=Je9zSWgyMEeOlsB2)) that shankara's writings were a subversive operation against buddhists (ie. he himself did not believe in what he was writing).
 
 Historically, we find buddhism continuing with strength in their centers such as nalanda. If anything, tAntrism (of Astika origin) may have subverted them - but they'd "domesticated" that as well. Ultimately, they were downed by the muslim invasion from afghAnistAn to bengal, despite collaborating with them against their hated "tIrthaka-s" (eg. McLean thesis on sindh [here](https://archive.org/details/ReligionAndSocietyInArabSind/page/n133)).
 
