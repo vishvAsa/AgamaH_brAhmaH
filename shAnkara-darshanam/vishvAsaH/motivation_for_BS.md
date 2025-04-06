@@ -10,9 +10,15 @@ Plainly, shankara was caught in a game involving buddhists and Astika-s - as in 
 ## adhyAsa on BS
 It is clear from his own admission, that he was interested in foisting nirguNa-brahma-vivarta-vAda on to brahma-sUtra-s, rather than explaining it as it is. (Contrast अध्यासवादं प्रसाध्य - "यथा चायमर्थो वेदान्तानां तथा वयमस्यां शारीरकमीमांसायां प्रदर्शयिष्यामः" with R's "तन्मतानुसारेण सूत्राक्षराणि व्याख्यास्यन्ते"). It's a hopeless task, and the fraud is apparent by the second sUtra itself. It's akin to dressing up a monkey like a man, and hoping no one will notice.
 
+Besides rAmAnuja and the mAdhvas, it was noticed by bhAskara as well - 
+
+> सूत्राभिप्राय-संवृत्या  
+> स्वाभिप्राय-प्रकाशनात् ।  
+> **व्याख्यातं** यैर् इदं शास्त्रं  
+> **व्याख्येयं** तन्-निवृत्तये ॥
+
 ## Reasons?
 Why did he get this itch? He could have stopped at adhyAsya-bhAShya (the introductory part), which is a perfectly respectable, if flawed, philosophical piece. Some possibilities follow.
-
 
 He had attachment to vaidika-s, but was also attached to gauDapAda (who explicitly, comically, needed to clarify - "तथा ज्ञानं नैतद्बुद्धेन भाषितम्  ॥ ४.९९ ॥" in his kArika extension). So, he had to convince himself, most of all, that his vivartavAda is vaidika.
 

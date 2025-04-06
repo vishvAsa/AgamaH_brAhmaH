@@ -38,4 +38,5 @@ Historically, we find buddhism continuing with strength in their centers such as
 
 Contemporarily, we find the example of chinna-jIyar of telangAna/ AP foisting "social justice" (mild "wokism") on to rAmAnuja - this was apparent in the "statue of equality" website. Some claimed that this helped bring some antagonistic people into the tradition. However, we find that people who actively engage with inimical narratives (eg. "shiva shakti" in the same AP & TE) being far more credibly successful. 
 
-Similarly, one can estimate that udayanAchArya and jayanta bhaTTa (even kumArIla the mImAMsaka?) having a far greater impact against the bauddha-s than shankara.
+Similarly, one can estimate that udayanAchArya and jayanta bhaTTa (even kumArIla the mImAMsaka?) having a far greater impact against the bauddha-s than shankara.  
+Popular bhakti poets like jNAnasambandha and the ALvAr-s must have done the same (esp. with jaina-s) - directly or otherwise by weaning away popular support.
