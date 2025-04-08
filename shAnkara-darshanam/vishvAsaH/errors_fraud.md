@@ -53,6 +53,9 @@ This has been interpreted erroneously as follows by Shankara -
 
 This particular interpretation by Acharya Shankara is incorrect, as can be noticed by any student of Sanskrit. The subject of यम् and तेन has to be the same and not different arbitrarily unless the author of the mantra is nuts.
 
+## Logical errors
+- If brahman is the only real, what is avidyA, which apparently is a co-eternal?
+
 
 ## Argument experience
 > I tried to reason with Adi Shankara's followers in the group that this particular interpretation by Acharya Shankara is incorrect, as can be noticed by any student of Sanskrit. ... However, no one saw the merit in this argument of mine. That's what blind following does to people. They can't notice what's right in front of them.
