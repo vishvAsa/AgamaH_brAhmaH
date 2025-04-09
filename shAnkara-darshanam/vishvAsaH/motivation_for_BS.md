@@ -25,7 +25,7 @@ He had attachment to vaidika-s, but was also attached to gauDapAda (who explicit
 Another guess is that he was so into "अध्यास" that he just could not resist doing it on to BS and laughing at all those who fall for it.
 
 parakAla yati & varadAchArya thought that it was a subversive operation against buddhists (ie. he himself did not believe in what he was writing), but that seems a very unlikely conspiracy theory. [YT](https://youtu.be/duVRhGpyoNQ?si=Je9zSWgyMEeOlsB2)  
-(the tenkalais eg. shrI rAmasharma of yadugiri, claim vaDakalais haven't understood deshika properly, and that he was basically a thenkalai 😂 This is no different in its absurdity.)
+
 
 The mAdhva text सुमध्व-विजय guesses that he was on the bauddha side: 
 
@@ -36,3 +36,4 @@ Similarly maNimanjarI -
 
 > सूत्रैः प्रपञ्चयाञ्चक्रे मायावी सौगतं मतम् ।  
 शून्यं ब्रह्मपदेनोक्त्वा तथाविद्येति संवृतिम् ॥ ४६ ॥
+

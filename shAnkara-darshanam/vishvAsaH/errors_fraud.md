@@ -43,7 +43,7 @@ Motivation is considered [elsewhere](../motivation_for_BS).
 मुण्डकोपनिषद् मन्त्र 3.2.3
 
 > नाय॑म् आत्मा प्र॒वचने॑न लभ्यो न॒ मेध॑या न ब॒हुना॑ श्रुतेन।
-यम् ए॑वैष वृणुते ते॒न लभ्यस् तस्यै॑ष आ॒त्मा विवृ॑णुते तनूं स्वाम्॥MunU.3.2.3॥
+यम् ए॑वैष वृणुते ते॒न लभ्यस् तस्यै॑ष आ॒त्मा विवृ॑णुते तनूं स्वाम्॥ MunU.3.2.3॥
 
 Clearly the meaning of second line यमेवैष वृणुते is --- whom (यम्) this Atman (एष) chooses (विवृणुते) for him/her (तस्य) this Atman (एष आत्मा) opens itself (विवृणुते तनूं स्वाम्). It aligns perfectly with the context set up by the first line of this mantra and previous ones.
 
@@ -52,6 +52,45 @@ This has been interpreted erroneously as follows by Shankara -
 > यम् एव परमात्मानम् एव एषः विद्वान् वृणुते प्राप्तुम् इच्छति, तेन वरणेन एष पर आत्मा लभ्यः, न_अन्येन साधनान्तरेण।
 
 This particular interpretation by Acharya Shankara is incorrect, as can be noticed by any student of Sanskrit. The subject of यम् and तेन has to be the same and not different arbitrarily unless the author of the mantra is nuts.
+
+> नाय॑म् आत्मा प्र॒वचने॑न लभ्यो न॒ मेध॑या न ब॒हुना॑ श्रुतेन।   
+> यम् ए॑वैष वृणुते ते॒न लभ्यस् तस्यै॑ष आ॒त्मा विवृ॑णुते तनूं स्वाम्
+
+इत्यत्र यदि  
+"अदः"-शब्द आत्म-वाची,
+प्रथम "एतच्"-छब्दः साधक-वाची,
+यच्-छब्दः परमात्मवाची,  
+प्रथमस् तच्-छब्दो यदि क्रियावाची,  
+द्वितीयस् तच्-छब्दो यदि साधकवाची,  
+द्वितीय एतच्-छब्दो ऽप्य् आत्म-वाची,  
+तर्हि, 
+यत्-तदोस् सम्बन्धो नास्त्य् एव,  
+अद-एतदोः सम्बन्ध एकत्र नास्ति,  
+एतद्-एतदोर् अपि सम्बन्धो नास्त्य् एव,  
+तत्-तदोर् अपि सम्बन्धो नास्ति।  
+भाषायां सङ्गतिर् इति काचिद् वर्तेत वाक्येषु।  
+यदि कश्चन 
+
+> (नाय॑म् आत्मा प्र॒वचने॑न लभ्यो न॒ मेध॑या न ब॒हुना॑ श्रुतेन।  
+> यम् ए॑वैष वृणुते ते॒न लभ्यस् तस्यै॑ष आ॒त्मा विवृ॑णुते तनूं स्वाम्॥)  
+> 
+> this (male) AtmA can't be obtained by pravachana, medhas and bahu-shruti.  
+> whomever (male) this (male) choses, by him he is obtained, for him this (male) AtmA reveals himself" 
+
+इति श्रुत्वा  
+
+> (यमेव परमात्मानमेव एषः विद्वान् वृणुते प्राप्तुमिच्छति, तेन वरणेन एष पर आत्मा लभ्यः, नान्येन साधनान्तरेण, नित्यलब्धस्वभावत्वात् । कीदृशोऽसौ विदुष आत्मलाभ इति, उच्यते — तस्य एष आत्मा अविद्यासञ्छन्नां स्वां परां तनूं स्वात्मतत्त्वं स्वरूपं विवृणुते प्रकाशयति)  
+> Actually, 
+> the first and third _this (male)_ refers to the AtmA,  but the second _this (male)_ refers to the sAdhaka (my magic!).  
+> The "whomever" refers to the "this Atma"; 
+the first "him" is actually an "it", referring to the "choice",  
+but the second "him" refers to the sAdhaka (my magic!)  
+so the final meaning is "that Atma who is chosen by the sAdhaka, by that choice he is obtained, for that sAdhaka this Atma reveals himself."  
+and not the simple meaning apparent from the original wording itself.
+
+इति व्याख्याति,  
+अमत्सरो यः कश्चिद् अपि "शाठ्यम् एवेदम्" इत्य् एव निश्चिनोति। 
+
 
 ## Logical errors
 - If brahman is the only real, what is avidyA, which apparently is a co-eternal?
