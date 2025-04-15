@@ -12,6 +12,35 @@ title = "Errors & fraud"
 इदं लक्षणं न मुख्यस्य निर्विशेषस्य ब्रह्मणः  
 इत्यादिव्याख्यानं कथं स्वरसं भवेत्? 🤣
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> ये तु निर्विशेषवस्तु जिज्ञास्यमिति वदन्ति, तन्मते "ब्रह्म-जिज्ञासा", "जन्माद्यस्य यतः" इत्यसङ्गतं स्यात्; निरतिशयबृहत् बृंहणं च ब्रह्मेति निर्वचनात्; तच्च ब्रह्म जगज्जन्मादिकारणमितिवचनाच्च।
+
+इति रामानुजः श्रीभाष्ये।
+
+vyAsa's originals (Thibaut's translation of S's bhAShyam) to which S provides absurd commentary :
+
+1. Then therefore the enquiry into Brahman.
+2. (Brahman is that) from which the origin, &c. (i.e. the origin, subsistence, and dissolution) of this (world proceed).
+
+Suppose I say -
+
+> "Now I will talk about Abhinanda. He writes good reports.",
+
+and someone says -
+
+> "Mr X in the first sUtra refers to our friend, who is the main X;  
+> but X of the second sUtra is not about him - rather about the imaginary Mr X."
+
+Does that sound right?
+
+Was going to say how my regard for shankara reached "record levels" upon noticing this, but then what to say about us v1s for whom this is the (numerically) preeminent darshana!?  
+But maybe it's too much to expect much else considering "uttarAyaNa" and all.  
+Still points to a deep systemic failure. The most charitable guess is that the muzzie invasion is to blame for the "time-freeze" and major talent loss.
+</details>
+
+
+
 One can excuse language / interpretation errors, and even logical errors saying "
 
 > his capacity is only that much, we all make mistakes",
