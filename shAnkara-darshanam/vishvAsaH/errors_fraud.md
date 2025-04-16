@@ -29,8 +29,8 @@ Suppose I say -
 
 and someone says -
 
-> "Mr X in the first sUtra refers to our friend, who is the main X;  
-> but X of the second sUtra is not about him - rather about the imaginary Mr X."
+> "Mr X in the first sentence refers to our friend, who is the main X;  
+> but X of the second sentence is not about him - rather about the imaginary Mr X."
 
 Does that sound right?
 
