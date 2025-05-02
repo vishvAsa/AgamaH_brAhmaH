@@ -8,6 +8,11 @@ No one's AchArya is above "comments", including yours and mine. Why? Because the
 Plainly, shankara was caught in a game involving buddhists and Astika-s - as in the case of such people (double agents, civilians in rebel areas), you can never be sure whose side he's on. This is apparent from his philosophy.
 
 ## adhyAsa on BS
+नमो मायाविने तस्माय्  
+अध्यास-व्यसनात् स यः।  
+चिक्षेप ब्रह्म-सूत्रेषु  
+विवर्तं भाष्य-भाषितम्॥
+
 It is clear from his own admission, that he was interested in foisting nirguNa-brahma-vivarta-vAda on to brahma-sUtra-s, rather than explaining it as it is. (Contrast अध्यासवादं प्रसाध्य - "यथा चायमर्थो वेदान्तानां तथा वयमस्यां शारीरकमीमांसायां प्रदर्शयिष्यामः" with R's "तन्मतानुसारेण सूत्राक्षराणि व्याख्यास्यन्ते"). It's a hopeless task, and the fraud is apparent by the second sUtra itself. It's akin to dressing up a monkey like a man, and hoping no one will notice.
 
 Besides rAmAnuja and the mAdhvas, it was noticed by bhAskara as well - 
