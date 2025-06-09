@@ -141,7 +141,10 @@ unicode_script = "devanagari"
 सगुणब्रह्मविषये शङ्कराभिप्रायो ऽर्वाचीन-शाङ्करानुसार्य् एवेत्य् एतावतो निराकरणम् इष्टम्।
 </details>
 
-वेङ्कटनाथार्यस् तात्पर्यचन्द्रिकायां शाङ्करा विष्णुपारम्यम् अङ्गीकुर्वन्तीति वदति।
+वेङ्कटनाथार्यस् तात्पर्य-चन्द्रिकायां शाङ्करा विष्णुपारम्यम् अङ्गीकुर्वन्तीति वदति।
+
+#### Not appropriation
+Many vaiShNavas say that he was an overt (not covert) vaiShNava, who called saguNabrahma as vAsudeva. Even while doing so, they don't appropriate him (ie call him their AchArya).
 
 ### प्रस्थानत्रयभाष्य-प्रामाण्यम्
 एवञ्च +उभयवादिप्रतिपन्नप्रमाणम् आधारीकृत्यैव वादः प्रवर्तेत।  

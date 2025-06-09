@@ -31,11 +31,14 @@ Another guess is that he was so into "अध्यास" that he just could not
 
 parakAla yati & varadAchArya thought that it was a subversive operation against buddhists (ie. he himself did not believe in what he was writing), but that seems a very unlikely conspiracy theory. [YT](https://youtu.be/duVRhGpyoNQ?si=Je9zSWgyMEeOlsB2)  
 
+### mAdhvas
+The mAdhva-s think he was some asura  
+(mirroring perhaps the shAnkara belief that he was an avatAra of shiva).
 
 The mAdhva text सुमध्व-विजय guesses that he was on the bauddha side: 
 
 > अवैदिकं माध्यमिकं निरस्तं निरीक्ष्य तत्पक्षसुपक्षपाती ।  
-तमेव पक्षं प्रतिपादुकोऽसौ न्यरूरुपन्मार्गमिहानुरूपम्॥ १.५० ॥  
+तमेव पक्षं प्रतिपादुकोऽसौ न्यरूरुपन् मार्गम् इहानुरूपम्॥ १.५० ॥  
 
 Similarly maNimanjarI - 
 

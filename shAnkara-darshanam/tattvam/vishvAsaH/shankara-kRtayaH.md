@@ -30,3 +30,16 @@ Arthur Avalon ([TW](https://archive.org/details/in.ernet.dli.2015.282765/page/n6
 "कं जलं रश्मिभिः पिबन् कपिः" इति व्याख्यानं विद्यते।  
 तद् भट्टभास्करस्यारण्यकभाष्यम् अनुसरति, रामानुज-प्रथितं च।  
 शङ्करेण च्छान्दोग्योपनिषद्-भाष्ये तद् उपेक्ष्यान्यथैव व्याख्यातम्। 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Let's just be honest - Just list out what S loose or gain if he used kapi = कम् पिबति vs kapi=ape in case of kapyAsa? 
+
+The color? Appropriateness? Anything else?
+
+If the answer is that he looses nothing, and gains something; one must wonder why he didn't use the former option if he was aware of it.  
+So, it must either be that the sahasranAma commentator was someone else,  
+or he later became aware of this meaning at a later point in time. If the latter is the case, one must then wonder why he did not edit the kapyAsa meaning to be objectively superior. 
+
+This line of reasoning leads us to strongly suspect that the sahasranAma author was someone else.
+</details>
