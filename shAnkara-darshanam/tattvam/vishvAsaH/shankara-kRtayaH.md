@@ -7,7 +7,7 @@ title = "शङ्कर-कृतयः"
 ## General considerations
 
 - Lack of temporally proximate citations
-- Notoriety of shAnkaras in
+- Notoriety of shAnkaras in attributing hundreds of unrelated works to shankara.
 
 ## कृत्य्-अन्तरम्
 श्वेताश्वतरोपनिषद्-भाष्यं शङ्करकृतम् इत्यत्र विश्वासो नास्ति।  
