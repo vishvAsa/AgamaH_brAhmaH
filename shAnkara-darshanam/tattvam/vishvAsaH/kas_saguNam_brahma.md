@@ -76,7 +76,8 @@ unicode_script = "devanagari"
 Nor do we mean to object to the inculcation of unceasing concentration of mind on the highest Being which appears in the Bhāgavata doctrine under the forms of reverential approach
 
 अत्र पाञ्चरात्रोक्त-नारायणाङ्गीकारस् स्पष्ट एव।  
-"परो ऽव्यक्तात्, प्रसिद्धः" इत्य् उक्तम्, पुनः "अभिगमनादि-लक्षणम् आराधनम्" अप्य् उक्तम्।  
+"परो ऽव्यक्तात्, प्रसिद्धः" इत्य् उक्तम्,  
+पुनः "अभिगमनादि-लक्षणम् आराधनम्" अप्य् उक्तम्।  
 अतो सगुणम् ब्रह्मैवोक्तम्। 
 
 
