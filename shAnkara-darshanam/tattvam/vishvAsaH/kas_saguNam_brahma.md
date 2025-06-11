@@ -60,6 +60,25 @@ unicode_script = "devanagari"
 इति स्फुटम्। 
 
 
+ब्रह्म-सूत्र-भाष्ये - 
+
+> तत्र +++(पाञ्चरात्रे)+++ यत् तावद् उच्यते —  
+योऽसौ नारायणः  
+परो ऽव्यक्तात् प्रसिद्धः  
+परमात्मा सर्वात्मा,  
+स आत्मना ऽऽत्मानम् अनेकधा व्यूह्यावस्थित इति —  
+तन् न निराक्रियते …  
+यद् अपि तस्य भगवतो ऽभिगमनादि-लक्षणम् आराधनम्  
+अजस्रम् अनन्य-चित्ततया ऽभिप्रेयते,  
+तद् अपि न प्रतिषिध्यते
+
+> Concerning this system we remark that we do not intend to controvert the doctrine that Nārāyaṇa, who is higher than the Undeveloped, who is the highest Self, and the Self of all, reveals himself by dividing himself in multiple ways; for various scriptural passages, such as 'He is onefold, he is threefold' (Cḥ. Up. VII, 26, 2)', teach us that the highest Self appears in manifold forms. …  
+Nor do we mean to object to the inculcation of unceasing concentration of mind on the highest Being which appears in the Bhāgavata doctrine under the forms of reverential approach
+
+अत्र पाञ्चरात्रोक्त-नारायणाङ्गीकारस् स्पष्ट एव।  
+"परो ऽव्यक्तात्, प्रसिद्धः" इत्य् उक्तम्, पुनः "अभिगमनादि-लक्षणम् आराधनम्" अप्य् उक्तम्।  
+अतो सगुणम् ब्रह्मैवोक्तम्। 
+
 
 कठोपनिषद्-भाष्ये च -
 
