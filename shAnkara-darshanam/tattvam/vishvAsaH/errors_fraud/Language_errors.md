@@ -1,56 +1,8 @@
 +++
-title = "Errors & fraud"
+title = "Language errors"
+
 +++
-
-## BS Fraud
-वरदार्येण साधूच्यते -
-
-> "अथातो ब्रह्मजिज्ञासा" इति प्रथमसूत्रेण  
-सूत्रकारेण ब्रह्मजिज्ञासां प्रतिज्ञाय  
-"जन्माद्य् अस्य यतः" इति द्वितीयसूत्रण  
-तस्य जगज्-जन्मादि-कारणत्व-लक्षणेऽभिहिते सत्य् अपि  
-इदं लक्षणं न मुख्यस्य निर्विशेषस्य ब्रह्मणः  
-इत्यादिव्याख्यानं कथं स्वरसं भवेत्? 🤣
-
-<details><summary>विश्वास-टिप्पनी</summary>
-
-> ये तु निर्विशेषवस्तु जिज्ञास्यमिति वदन्ति, तन्मते "ब्रह्म-जिज्ञासा", "जन्माद्यस्य यतः" इत्यसङ्गतं स्यात्; निरतिशयबृहत् बृंहणं च ब्रह्मेति निर्वचनात्; तच्च ब्रह्म जगज्जन्मादिकारणमितिवचनाच्च।
-
-इति रामानुजः श्रीभाष्ये।
-
-vyAsa's originals (Thibaut's translation of S's bhAShyam) to which S provides absurd commentary :
-
-1. Then therefore the enquiry into Brahman.
-2. (Brahman is that) from which the origin, &c. (i.e. the origin, subsistence, and dissolution) of this (world proceed).
-
-Suppose I say -
-
-> "Now I will talk about Abhinanda. He writes good reports.",
-
-and someone says -
-
-> "Mr X in the first sentence refers to our friend, who is the main X;  
-> but X of the second sentence is not about him - rather about the imaginary Mr X."
-
-Does that sound right?
-
-Was going to say how my regard for shankara reached "record levels" upon noticing this, but then what to say about us v1s for whom this is the (numerically) preeminent darshana!?  
-But maybe it's too much to expect much else considering "uttarAyaNa" and all.  
-Still points to a deep systemic failure. The most charitable guess is that the muzzie invasion is to blame for the "time-freeze" and major talent loss.
-</details>
-
-
-
-One can excuse language / interpretation errors, and even logical errors saying "
-
-> his capacity is only that much, we all make mistakes",
-
-but not dead-obvious outright fraud. 
-
-Motivation is considered [elsewhere](../motivation_for_BS). 
-
-## Language errors
-### एष सेतुः
+## एष सेतुः
 > > "तम् एवैकम् आत्मानं जानथ,  
 > एष अमृतस्य सेतुः"
 >
@@ -68,7 +20,7 @@ Motivation is considered [elsewhere](../motivation_for_BS).
 > 
 > - इति वरदार्यः
 
-### यम् ए॑वैष वृणुते ते॒न लभ्यः
+## यम् ए॑वैष वृणुते ते॒न लभ्यः
 मुण्डकोपनिषद् मन्त्र 3.2.3
 
 > नाय॑म् आत्मा प्र॒वचने॑न लभ्यो न॒ मेध॑या न ब॒हुना॑ श्रुतेन।
@@ -121,7 +73,7 @@ and not the simple meaning apparent from the original wording itself.
 अमत्सरो यः कश्चिद् अपि "शाठ्यम् एवेदम्" इत्य् एव निश्चिनोति। 
 
 
-#### Bellamkonda Ramaraya
+### Bellamkonda Ramaraya
 Furtherance of the same comical tradition by a certain initiate (not a convert, as claimed) into shAnkarAdvaita named bellamkoNDa rAmarAya (supposedly a "kavIndra", haygrIvopAsaka etc..) - 
 
 Given this:
@@ -144,14 +96,3 @@ he comments -
 
 teShAm referring to something other than yeShAm of the same shloka is bizarre (as anyone with any experience with any language - let alone sanskrit - can verify), but that's in keeping with shankara's prior "brilliance" in this regard .
 
-
-## Logical errors
-- If brahman is the only real, what is avidyA, which apparently is a co-eternal?
-
-
-## Argument experience
-> I tried to reason with Adi Shankara's followers in the group that this particular interpretation by Acharya Shankara is incorrect, as can be noticed by any student of Sanskrit. ... However, no one saw the merit in this argument of mine. That's what blind following does to people. They can't notice what's right in front of them.
->
-> > “It's hard to win an argument with a smart person. It's damn near impossible to win an argument with a stupid person.”
->
-> - Lokesh sharma, [TW](https://groups.google.com/d/msgid/cheto-deva-jivadi/98e00e39-1fea-45d8-9fc0-77963431f4a7n%40googlegroups.com?utm_medium=email&utm_source=footer)
