@@ -47,3 +47,7 @@ One can excuse language / interpretation errors, and even logical errors saying 
 but not dead-obvious outright fraud. 
 
 Motivation is considered [elsewhere](../motivation_for_BS). 
+
+
+## pAncharAtra
+shankara dismisses the supposedly pAncharAtra claim that jIva-s have a beginning in his BS bhAShya. But, he doesn't even quote a pAncharAtra text that says so. He was likely mistaken and prejudiced (This was supposedly later admitted by madhusUdana sarasvatI), if not deliberately fraudulent. Or, in the best case, he was referring to some obscure non-mainstream cult; which still amounts to a misrepresentation of pAncharAtra.
