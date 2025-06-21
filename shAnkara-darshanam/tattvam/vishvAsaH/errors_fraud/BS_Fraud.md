@@ -51,3 +51,25 @@ Motivation is considered [elsewhere](../motivation_for_BS).
 
 ## pAncharAtra
 shankara dismisses the supposedly pAncharAtra claim that jIva-s have a beginning in his BS bhAShya. But, he doesn't even quote a pAncharAtra text that says so. He was likely mistaken and prejudiced (This was supposedly later admitted by madhusUdana sarasvatI), if not deliberately fraudulent. Or, in the best case, he was referring to some obscure non-mainstream cult; which still amounts to a misrepresentation of pAncharAtra.
+
+shAnkara-s have uncritically followed suit. For example, शाङ्करः भामत्य्-उपव्याख्याता +अमलानन्द-सरस्वती - 
+
+> सिद्धान्तस्तु – 
+> 
+> > बुद्धिपूर्वकृतिः पञ्च-  
+रात्रं  निःश्वसितं श्रुतिः ।  
+तेन जीव-जनिस् तत्र  
+सिद्धा गौणी नियम्यते ॥  
+>
+> यावद् ध्य् एकदेशे वेदाऽविरोधाद्  
+ईश्वर-बुद्धेर् वेद-मूलत्वं  
+वेदाद् वा सर्व-विषयत्वं प्रमीयते ,  
+तावद् एव स्वतः-प्रमाण-वेदाज् जीवानुत्पत्ति-प्रमितौ  
+तादृग्-बुद्धि-पूर्वकेश्वर-वचनान्  
+न जीवोत्पत्तिर् अवगन्तुं शक्यते ।  
+अतः प्रमाणापहृत-विषये  
+गौणं तद्-वचनं,  
+न तु भ्रान्तम्, पूर्व-पक्ष-युक्तेर् इति।  
+
+So, not rejecting shankara's characterization of pAncharAtra; and refuting jIvotpatti supposedly mentioned therein; while implying that S subscribed to the view that 
+pAncharAtra is of divine origin, but subsidiary to vedA; and should be interpreted as such. (So, to that limited extant, subverting the subversion of pAncharAtra authoritativeness by S.)
