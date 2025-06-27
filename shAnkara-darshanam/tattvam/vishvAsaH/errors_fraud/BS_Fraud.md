@@ -17,19 +17,24 @@ title = "BS Fraud"
 
 इति रामानुजः श्रीभाष्ये।
 
-vyAsa's originals (Thibaut's translation of S's bhAShyam) to which S provides absurd commentary :
+vyAsa's originals (Thibaut's translation of S's bhAShyam) :
 
 1. Then therefore the enquiry into Brahman.
 2. (Brahman is that) from which the origin, &c. (i.e. the origin, subsistence, and dissolution) of this (world proceed).
 
+to which S provides absurd commentary :  
+sUtra 1 refers to nirguNa brahman.  
+sUtra 2 refers to saguNa-brahman (=nirguNa + mAyA).
+
 Suppose I say -
 
-> "Now I will talk about Abhinanda. He writes good reports.",
+> "Now I will talk about Mr X. He's the one who writes good reports.",
 
 and someone says -
 
 > "Mr X in the first sentence refers to our friend, who is the main X;  
-> but X of the second sentence is not about him - rather about the imaginary Mr X."
+> but X of the second sentence is not about him -  
+rather about a distorted imagination of Mr X."
 
 Does that sound right?
 
