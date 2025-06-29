@@ -2,6 +2,38 @@
 title = "BS Fraud"
 
 +++
+## First 2 sUtras
+### En
+vyAsa's originals (Thibaut's translation of S's bhAShyam) :
+
+1. Then therefore the enquiry into Brahman.
+2. (Brahman is that) from which the origin, &c. (i.e. the origin, subsistence, and dissolution) of this (world proceed).
+
+to which S provides absurd commentary :  
+sUtra 1 refers to nirguNa brahman.  
+But sUtra 2 refers to an illusory saguNa-brahman (=nirguNa + mAyA) who's into illusory activities with illusory objects.
+
+Suppose I say -
+
+> "Now I will talk about Mr X. He's the one who writes good reports.",
+
+and someone, claiming to interpret me correctly, says -
+
+> "Mr X in the first sentence refers to our friend, who is the main X;  
+> but X of the second sentence is not about him -  
+rather about an illusory Mr X who appears to write illusory reports."
+
+Would that sound right? What would you call him?
+
+
+### Sa
+> ये तु निर्विशेषवस्तु जिज्ञास्यमिति वदन्ति,  
+तन्मते "ब्रह्म-जिज्ञासा", "जन्माद्यस्य यतः" इत्यसङ्गतं स्यात्;  
+निरतिशयबृहत् बृंहणं च ब्रह्मेति निर्वचनात्;  
+तच्च ब्रह्म जगज्जन्मादिकारणमितिवचनाच्च।
+
+इति रामानुजः श्रीभाष्ये।
+
 वरदार्येण साधूच्यते -
 
 > "अथातो ब्रह्मजिज्ञासा" इति प्रथमसूत्रेण  
@@ -11,47 +43,22 @@ title = "BS Fraud"
 इदं लक्षणं न मुख्यस्य निर्विशेषस्य ब्रह्मणः  
 इत्यादिव्याख्यानं कथं स्वरसं भवेत्? 🤣
 
+
+### Commentary
+One can excuse language / interpretation errors, and even logical errors saying 
+
+> his capacity is only that much, we all make mistakes,
+
+but not dead-obvious outright fraud. 
+
+Motivation is considered [elsewhere](../motivation/motivation_for_BS). 
+
 <details><summary>विश्वास-टिप्पनी</summary>
-
-> ये तु निर्विशेषवस्तु जिज्ञास्यमिति वदन्ति, तन्मते "ब्रह्म-जिज्ञासा", "जन्माद्यस्य यतः" इत्यसङ्गतं स्यात्; निरतिशयबृहत् बृंहणं च ब्रह्मेति निर्वचनात्; तच्च ब्रह्म जगज्जन्मादिकारणमितिवचनाच्च।
-
-इति रामानुजः श्रीभाष्ये।
-
-vyAsa's originals (Thibaut's translation of S's bhAShyam) :
-
-1. Then therefore the enquiry into Brahman.
-2. (Brahman is that) from which the origin, &c. (i.e. the origin, subsistence, and dissolution) of this (world proceed).
-
-to which S provides absurd commentary :  
-sUtra 1 refers to nirguNa brahman.  
-sUtra 2 refers to saguNa-brahman (=nirguNa + mAyA).
-
-Suppose I say -
-
-> "Now I will talk about Mr X. He's the one who writes good reports.",
-
-and someone says -
-
-> "Mr X in the first sentence refers to our friend, who is the main X;  
-> but X of the second sentence is not about him -  
-rather about a distorted imagination of Mr X."
-
-Does that sound right?
 
 Was going to say how my regard for shankara reached "record levels" upon noticing this, but then what to say about us v1s for whom this is the (numerically) preeminent darshana!?  
 But maybe it's too much to expect much else considering "uttarAyaNa" and all.  
 Still points to a deep systemic failure. The most charitable guess is that the muzzie invasion is to blame for the "time-freeze" and major talent loss.
 </details>
-
-
-
-One can excuse language / interpretation errors, and even logical errors saying "
-
-> his capacity is only that much, we all make mistakes",
-
-but not dead-obvious outright fraud. 
-
-Motivation is considered [elsewhere](../motivation_for_BS). 
 
 
 ## pAncharAtra
