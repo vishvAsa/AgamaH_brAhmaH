@@ -7,7 +7,7 @@ Here we consider cases where shankara (with varying degrees of certainty) delibe
 
 ## First 2 sUtras
 ### En
-vyAsa's originals (Thibaut's translation of S's bhAShyam) :
+bAdarAyaNa's originals (Thibaut's translation of S's bhAShyam) :
 
 1. Then therefore the enquiry into Brahman.
 2. (Brahman is that) from which the origin, &c. (i.e. the origin, subsistence, and dissolution) of this (world proceed).
