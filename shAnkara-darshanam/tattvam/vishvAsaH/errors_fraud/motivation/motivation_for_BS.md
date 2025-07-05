@@ -7,7 +7,7 @@ No one's AchArya is above "comments", including yours and mine. Why? Because the
 
 
 ## adhyAsa on BS
-shankara misrepresented bAdarAyaNa's brahmasUtra-s. This is considered separately [here](../../BS_Fraud?printCols=1&bodyFontSize=0.4cm&includeStyle=true). 
+shankara misrepresented bAdarAyaNa's brahmasUtra-s. This is considered separately [here](../../BS_Fraud?printCols=1&bodyFontSize=0.4cm&includeStyle=true). It's a hopeless task, and the fraud is apparent by the second sUtra itself. It's akin to dressing up a monkey like a man, and hoping no one will notice.
 
 ## Reasons?
 Why did he get this itch? He could have stopped at adhyAsya-bhAShya (the introductory part), which is a perfectly respectable, if flawed, philosophical piece. Some possibilities follow.
