@@ -7,19 +7,7 @@ No one's AchArya is above "comments", including yours and mine. Why? Because the
 
 
 ## adhyAsa on BS
-नमो मायाविने तस्माय्  
-अध्यास-व्यसनात् स यः।  
-चिक्षेप ब्रह्म-सूत्रेषु  
-विवर्तं भाष्य-भाषितम्॥
-
-It is clear from his own admission, that he was interested in foisting nirguNa-brahma-vivarta-vAda on to brahma-sUtra-s, rather than explaining it as it is. (Contrast अध्यासवादं प्रसाध्य - "यथा चायमर्थो वेदान्तानां तथा वयमस्यां शारीरकमीमांसायां प्रदर्शयिष्यामः" with R's "तन्मतानुसारेण सूत्राक्षराणि व्याख्यास्यन्ते"). It's a hopeless task, and the fraud is apparent by the second sUtra itself. It's akin to dressing up a monkey like a man, and hoping no one will notice.
-
-Besides rAmAnuja and the mAdhvas, it was noticed by bhAskara as well - 
-
-> सूत्राभिप्राय-संवृत्या  
-> स्वाभिप्राय-प्रकाशनात् ।  
-> **व्याख्यातं** यैर् इदं शास्त्रं  
-> **व्याख्येयं** तन्-निवृत्तये ॥
+shankara misrepresented bAdarAyaNa's brahmasUtra-s. This is considered separately [here](../../BS_Fraud?printCols=1&bodyFontSize=0.4cm&includeStyle=true). 
 
 ## Reasons?
 Why did he get this itch? He could have stopped at adhyAsya-bhAShya (the introductory part), which is a perfectly respectable, if flawed, philosophical piece. Some possibilities follow.
