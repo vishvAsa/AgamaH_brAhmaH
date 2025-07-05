@@ -2,6 +2,9 @@
 title = "BS Fraud"
 
 +++
+## Intro
+Here we consider cases where shankara (with varying degrees of certainty) deliberately misrepresented brahma-sUtra-s of bAdarAyaNa.
+
 ## First 2 sUtras
 ### En
 vyAsa's originals (Thibaut's translation of S's bhAShyam) :
@@ -43,23 +46,7 @@ Would that sound right? What would you call him?
 इदं लक्षणं न मुख्यस्य निर्विशेषस्य ब्रह्मणः  
 इत्यादिव्याख्यानं कथं स्वरसं भवेत्? 🤣
 
-
-### Commentary
-One can excuse language / interpretation errors, and even logical errors saying 
-
-> his capacity is only that much, we all make mistakes,
-
-but not dead-obvious outright fraud. 
-
-Motivation is considered [elsewhere](../motivation/motivation_for_BS). 
-
-<details><summary>विश्वास-टिप्पनी</summary>
-
-Was going to say how my regard for shankara reached "record levels" upon noticing this, but then what to say about us v1s for whom this is the (numerically) preeminent darshana!?  
-But maybe it's too much to expect much else considering "uttarAyaNa" and all.  
-Still points to a deep systemic failure. The most charitable guess is that the muzzie invasion is to blame for the "time-freeze" and major talent loss.
-</details>
-
+माध्वेषु व्यासतीर्थो ऽपि तात्पर्य-चन्द्रिकायाम् अलक्षयद् इदम्। 
 
 ## pAncharAtra
 shankara dismisses the supposedly pAncharAtra claim that jIva-s have a beginning in his BS bhAShya. But, he doesn't even quote a pAncharAtra text that says so. He was likely mistaken and prejudiced (This was supposedly later admitted by madhusUdana sarasvatI), if not deliberately fraudulent. Or, in the best case, he was referring to some obscure non-mainstream cult; which still amounts to a misrepresentation of pAncharAtra.
@@ -85,3 +72,21 @@ shAnkara-s have uncritically followed suit. For example, शाङ्करः �
 
 So, not rejecting shankara's characterization of pAncharAtra; and refuting jIvotpatti supposedly mentioned therein; while implying that S subscribed to the view that 
 pAncharAtra is of divine origin, but subsidiary to vedA; and should be interpreted as such. (So, to that limited extant, subverting the subversion of pAncharAtra authoritativeness by S.)
+
+## Commentary
+One can excuse language / interpretation errors, and even logical errors saying 
+
+> his capacity is only that much, we all make mistakes,
+
+but not dead-obvious outright fraud. 
+
+Motivation is considered [elsewhere](../motivation/motivation_for_BS). 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Was going to say how my regard for shankara reached "record levels" upon noticing this, but then what to say about us v1s for whom this is the (numerically) preeminent darshana!?  
+But maybe it's too much to expect much else considering "uttarAyaNa" and all.  
+Still points to a deep systemic failure. The most charitable guess is that the muzzie invasion is to blame for the "time-freeze" and major talent loss.
+</details>
+
+
