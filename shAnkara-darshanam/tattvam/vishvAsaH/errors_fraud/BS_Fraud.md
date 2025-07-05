@@ -55,15 +55,15 @@ Would that sound right? What would you call him?
 अविद्यमानाहम्-अर्थे  
 लक्षणत्वेन कीर्तिता ।  
 ईश्वरस्य तृतीये तु  
-निर्विशेषप्रमाणता ॥२॥  
+निर्विशेष-प्रमाणता ॥२॥  
 शास्त्रस्योक्ता चतुर्थे च  
-तस्मिन्नेव समन्वयः ।  
+तस्मिन्न् एव समन्वयः ।  
 प्रतिज्ञातोऽन्तरित्यादौ  
 सविशेषं तु कथ्यते ॥३॥  
 ब्रह्मेति मायिनां पक्षस्  
 तत्र किं केन सङ्गतम् ।  
-तत्त्व-विद्वेष-मात्रेण  
-श्रुति-सूत्रे कद्-अर्थते ॥ ४ ॥
+**तत्त्व-विद्वेष-मात्रेण  
+श्रुति-सूत्रे कद्-अर्थते** ॥ ४ ॥
 
 ## pAncharAtra
 shankara dismisses the supposedly pAncharAtra claim that jIva-s have a beginning in his BS bhAShya. But, he doesn't even quote a pAncharAtra text that says so. He was likely mistaken and prejudiced (This was supposedly later admitted by madhusUdana sarasvatI), if not deliberately fraudulent. Or, in the best case, he was referring to some obscure non-mainstream cult; which still amounts to a misrepresentation of pAncharAtra.
