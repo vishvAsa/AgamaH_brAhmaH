@@ -35,7 +35,7 @@ Fast forward to 2/3 centuries after Rāmānuja’s time, by which time the follo
  With a growing body of Vipras who accepted both Āgamika & Smārta texts & rites, the word, “Smārta” would have been redefined to refer to those Vaidikas who primarily practised Śrauta & Smārta rites & didn’t take any position on Āgamas but accepted temple worship & Purāṇas.
 
 ## Affiliation
-Fast forward to 16th century when śrautasmārta praxis was diminishing & Advaita/Vedānta became the dominant framework & a “compulsion” for everyone to adhere to. When one thing is rapidly diminishing & another thing is gaining in exponential value, it’s not difficult to imagine why the Maṭha affiliations became a marker of the “default group” whose fortunes were changing considerably.
+Fast forward to 16th century when śrauta-smārta praxis was diminishing & Advaita/Vedānta became the dominant framework & a “compulsion” for everyone to adhere to. When one thing is rapidly diminishing & another thing is gaining in exponential value, it’s not difficult to imagine why the Maṭha affiliations became a marker of the “default group” whose fortunes were changing considerably.
 
 A genius survival move by both the yati-run-maṭhas & the Smārta Gṛhasthas in my opinion. 
 
