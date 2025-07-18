@@ -106,6 +106,29 @@ Nor do we mean to object to the inculcation of unceasing concentration of mind o
 
 न चैवम् पाशुपतनिराकरणे ऽकथयत् - "परमात्मानं शिवं, शिवाराधनं चाङ्गीकुर्मः"। 
 
+अयम् अङ्गीकारः कैश्चिद् इतो ऽप्य् अग्रे नीतः।  
+शाङ्करः भामत्य्-उपव्याख्याता +अमलानन्द-सरस्वती - 
+
+> सिद्धान्तस्तु – 
+> 
+> > बुद्धिपूर्वकृतिः पञ्च-  
+रात्रं  निःश्वसितं श्रुतिः ।  
+तेन जीव-जनिस् तत्र  
+सिद्धा गौणी नियम्यते ॥  
+>
+> यावद् ध्य् एकदेशे वेदाऽविरोधाद्  
+ईश्वर-बुद्धेर् वेद-मूलत्वं  
+वेदाद् वा सर्व-विषयत्वं प्रमीयते ,  
+तावद् एव स्वतः-प्रमाण-वेदाज् जीवानुत्पत्ति-प्रमितौ  
+तादृग्-बुद्धि-पूर्वकेश्वर-वचनान्  
+न जीवोत्पत्तिर् अवगन्तुं शक्यते ।  
+अतः प्रमाणापहृत-विषये  
+गौणं तद्-वचनं,  
+न तु भ्रान्तम्, पूर्व-पक्ष-युक्तेर् इति।  
+
+So, not rejecting shankara's characterization of pAncharAtra; and but taking it's supposed jIvotpatti as a pUrva-paxa; while implying that S subscribed to the view that pAncharAtra is of divine origin, but subsidiary to vedA; and should be interpreted as such.  
+(So, to that limited extant, subverting the subversion of pAncharAtra authoritativeness by S.)
+
 ### उपनिषत्सु
 बृहदारण्यकोपनिषदि, यत्र मूले नारायण-शब्दो नास्ति, तत्राह - 
 

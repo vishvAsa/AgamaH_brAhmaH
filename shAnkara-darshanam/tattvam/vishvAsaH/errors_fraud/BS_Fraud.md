@@ -66,29 +66,33 @@ Would that sound right? What would you call him?
 श्रुति-सूत्रे कद्-अर्थते** ॥ ४ ॥
 
 ## pAncharAtra
-shankara dismisses the supposedly pAncharAtra claim that jIva-s have a beginning in his BS bhAShya. But, he doesn't even quote a pAncharAtra text that says so. He was likely mistaken and prejudiced (This was supposedly later admitted by madhusUdana sarasvatI), if not deliberately fraudulent. Or, in the best case, he was referring to some obscure non-mainstream cult; which still amounts to a misrepresentation of pAncharAtra.
+shankara dismisses the supposedly pAncharAtra claim that jIva-s have a beginning in his BS bhAShya, while admitting the applicability of other doctrines. But, he doesn't even quote a pAncharAtra text that says so. 
 
-shAnkara-s have uncritically followed suit. For example, शाङ्करः भामत्य्-उपव्याख्याता +अमलानन्द-सरस्वती - 
+He was likely mistaken and prejudiced, if not deliberately fraudulent.  
+Or, in the best case, he was referring to some obscure non-mainstream cult; which still amounts to a misrepresentation of pAncharAtra.
 
-> सिद्धान्तस्तु – 
-> 
-> > बुद्धिपूर्वकृतिः पञ्च-  
-रात्रं  निःश्वसितं श्रुतिः ।  
-तेन जीव-जनिस् तत्र  
-सिद्धा गौणी नियम्यते ॥  
+shAnkara-s have uncritically followed suit; while some have adjusted for it in [various ways](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/vishvAsaH/misadvertisement/kas_saguNam_brahma). 
+
+### Notice by others
+shankara's mischaracterization was supposedly later admitted by madhusUdana sarasvatI.
+
+यामुन आगम-प्रामाण्ये -
+
+>> कथं तर्हीदं सूत्रम् "उत्पत्त्यसंभवात्" इति?  
 >
-> यावद् ध्य् एकदेशे वेदाऽविरोधाद्  
-ईश्वर-बुद्धेर् वेद-मूलत्वं  
-वेदाद् वा सर्व-विषयत्वं प्रमीयते ,  
-तावद् एव स्वतः-प्रमाण-वेदाज् जीवानुत्पत्ति-प्रमितौ  
-तादृग्-बुद्धि-पूर्वकेश्वर-वचनान्  
-न जीवोत्पत्तिर् अवगन्तुं शक्यते ।  
-अतः प्रमाणापहृत-विषये  
-गौणं तद्-वचनं,  
-न तु भ्रान्तम्, पूर्व-पक्ष-युक्तेर् इति।  
-
-So, not rejecting shankara's characterization of pAncharAtra; and refuting jIvotpatti supposedly mentioned therein; while implying that S subscribed to the view that 
-pAncharAtra is of divine origin, but subsidiary to vedA; and should be interpreted as such. (So, to that limited extant, subverting the subversion of pAncharAtra authoritativeness by S.)
+> किं वाऽस्य सूत्रस्य हृदयम् ?  
+>
+> > इदम् अस्य सूत्रस्य [भावः]  
+>> 
+>> > भागवत-शास्त्रे जीवोत्पत्तेः प्रतिपाद्यमानत्वात्  
+तस्याश् च श्रुति-न्याय-विरोधेनासम्भवाद्  
+असमीचीनं शास्त्रम्  
+>> 
+>> इति । 
+>
+> यद्य् एष सूत्रार्थस्  
+तर्हि पञ्चरात्र-शास्त्र-निराकरण-परं सूत्रम् ।  
+> न हि पञ्चरात्र-शास्त्रेषु जीवोत्पत्तिर् अङ्गीकृता येनैवम् उच्यते ।
 
 ## Deliberateness
 नमो मायाविने तस्माय्  
