@@ -12,7 +12,7 @@ Māṇḍūkya Upaniṣad is one of the ten major Upaniṣad-s admitted by Sampr
 
 That means you can bypass all other details enumerated in other Upaniṣad -s and go straight to Māṇḍūkya Upaniṣad and that is the right thing to do. Mumukṣu is a sādhaka who is after liberation. For his liberation, study of this Upaniṣad will give him the necessary guide lines and there is no need to waste time going through other vedāntic texts- says the axiom. Such a point of view on this Upaniṣad is reasonable because as I see there is no waste of time at all here- not a syllable, not a word which is extra is stated in this text than what is required. It is as straight as the flight of an arrow. There are no stories told in this Upaniṣad, no ākhyāyika and no dialogue between the master and the disciple as found in other Upaniṣad-s. Brevity of this order or an accuracy of this order is not seen elsewhere. That is why it is remarkable. People have rightly called it the best. Let us study the aspect of Omkāra as described in First Mantra of Māṇḍūkya Upaniṣad: 
 
-**ओमित्येतदक्षरमिदꣳ सर्वं तस्योपव्याख्यानम् भूतम् भवद्भभविष्यदिति सर्वमोङ्कार एव।**
+**ओमित्येतदक्षरमिदँ सर्वं तस्योपव्याख्यानम् भूतम् भवद्भभविष्यदिति सर्वमोङ्कार एव।**
 
 **यच्चान्यत्रिकालातीतं तदप्योङ्कार एव ।।**
 
@@ -24,7 +24,7 @@ That means you can bypass all other details enumerated in other Upaniṣad -s an
 
 This is the first mantra which tries to extol Omkāra. I always wondered why Upaniṣad-s have extolled Omkāra. Śankara quotes number of references from other Upaniṣad-s to show that there is hardly any vedāntic text without the mention of Omkāra. Let me explain my difficulty. Atman is nirguṇa - lakṣaṇarahita, without attributes. That is, all adjectives are withdrawn from the one who is the enjoyer, cognisor and the doer. Whatever lakṣaṇā-s we seem to possess are superimpositions on us are what śāstra wants to prove. If you drop them one after the other or en-block, whatever is the residue, is your Self. That is a satisfactory definition and is consistent for all of us to agree. But I could not understand as to why Omkāra has been extolled so much? I could not get the right vision until I went through Śankarā’s commentary on Māṇḍūkya Upaniṣad which I want to share with you all.
 
-**ओमित्येतदक्षरमिदꣳ सर्वं ।**
+**ओमित्येतदक्षरमिदँ सर्वं ।**
 
 **Ōmiti-ētat-akṣaram-idagṁ sarvaṁ.**
 
