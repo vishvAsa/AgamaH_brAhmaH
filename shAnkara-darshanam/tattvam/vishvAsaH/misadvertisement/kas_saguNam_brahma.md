@@ -3,6 +3,12 @@ title = "कस् सगुणम् ब्रह्म"
 unicode_script = "devanagari"
 +++
 
+<details><summary>English</summary>
+
+Direct quotes from shankara (and not mischievous "out of context" ones). 
+The maTha shAnkara-s are, actually, heretics misled by attribution of hundreds of later works to shankara.
+</details>
+
 
 यद्य् अपि शङ्करमतय् एकम् एवात्मा मायया बहुधा प्रतिभाति,  
 तादृशम् प्रतीयमानेष्व् एकतमम् एव  
