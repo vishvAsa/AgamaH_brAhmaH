@@ -25,7 +25,42 @@ He had attachment to vaidika-s, but was also attached to gauDapAda (who explicit
 Another guess is that he was so into "अध्यास" that he just could not resist doing it on to BS and laughing at all those who fall for it.
 
 ### Commentary by force theory
-parakAla yati & varadAchArya thought that it was a subversive operation against buddhists (ie. he himself did not believe in what he was writing), but that seems a very unlikely conspiracy theory. [YT](https://youtu.be/duVRhGpyoNQ?si=Je9zSWgyMEeOlsB2)  
+abhinava-ranganAtha parakAla yati & varadAchArya thought that it was a subversive operation against buddhists (ie. he himself did not believe in what he was writing), but that seems a very unlikely conspiracy theory. [YT](https://youtu.be/duVRhGpyoNQ?si=Je9zSWgyMEeOlsB2)  
+
+<details><summary>वरदाचार्यस्य सर्वाङ्कषा-व्याख्याने</summary>
+
+श्रीमद्-अभिनव-रङ्ग-नाथ-ब्रह्म-तन्त्र-परकाल-महादेशिकाः  
+तदा तदा सत्यम् एवं प्रकटयेरन् बहुजन-मध्य एव, न रहसि -
+
+> 'भगवद्-रामानुज एवावतारपुरुषः,  
+नेतर इति नाहम् अङ्गी करोमि ।  
+व्याख्यातॄणां यथा-तथात्वेऽपि  
+मूलपुरुषास् सर्वेऽपि महात्मान एव ।  
+परं तु व्यवहारस्य पुरोवर्ति-चेतनोद्देश्यकत्वात्  
+काल-देश-पुरुषानुगुणं भिद्येरन्न् एव शब्दाः ।  
+एतावद् विन्यास-विशेषम् अजानद्भिः शब्द-मात्र-परायणैः  
+पूर्व-ग्रह-ग्राहाद् आत्मानं रक्षितुम् अशक्तैः  
+मोचितुम् तत्-तद्-व्याख्याकारैर् एव सर्वं पूर्व-पश्चिमी-कृतम् ।  
+सारतस् तु श्रीशङ्कराचार्यैर् उपक्रान्तम्, भगवद्-रामानुजैः पूरितम् । तावद् एव '
+
+इति ॥
+
+समय-विशेषे च स भगवान् स्पष्टम् एवान्वग्रहीत्
+
+> 'श्रीशङ्कराचार्याणां काले  
+> श्रीरामानुजाचार्या यद्य् अवतीर्णाः स्युः,  
+> तदैतेऽपि श्रीशङ्कराचार्य-क्रमम् एव नूनम् अनुसरेयुः ।  
+> तथैव श्रीशङ्कराचार्या यदि श्रीरामानुजाचार्याणां कालेऽवतीर्णाः स्युः,  
+> तदा तेऽपि श्रीमद्-रामानुजाचार्य-मार्गम् एव नूनम् अनुसरेयुः,  
+> न संशयः ।  
+> उभयोर् हृदयम् एकम् एव।  
+> शब्द-विन्यासस् तु तत्-तत्-कालानुगुणो ऽनिवार्यः'
+
+इति ॥
+</details>
+
+
+
 
 ### Asura? 
 The mAdhva-s think he was some asura (maNimAn?)  

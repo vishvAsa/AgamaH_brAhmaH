@@ -5,7 +5,7 @@ unicode_script = "devanagari"
 
 <details><summary>English</summary>
 
-Direct quotes from shankara (and not mischievous "out of context" ones). 
+Direct quotes from shankara (and not mischievous "out of context" ones).  
 The maTha shAnkara-s are, actually, heretics misled by attribution of hundreds of later works to shankara.
 </details>
 
