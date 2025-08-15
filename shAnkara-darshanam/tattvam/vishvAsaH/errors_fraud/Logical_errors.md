@@ -8,6 +8,26 @@ title = "Logical errors"
 - If brahman is the only real, what is avidyA, which apparently is a co-eternal? 
   - jivas having no beginning, as admitted by shankara, implies that avidyA too is beginningless. The only way out would be to say that avidyA (and jIva-s) can have an end; but we don't know if it will. 
 
+## अपशूद्राधिकरणे समस्या 
+यथाह रामानुजः - 
+
+> तैर् ब्रह्म-ज्ञाने शूद्रादेर् अनधिकारो वक्तुं न शक्यते;  
+अनुपनीतस्य,  
+अनधीत-वेदस्याश्रुत-वेदान्त-वाक्यस्यापि  
+यस्मात् कस्माद् अपि 
+> 
+>>  निर्विशेष-चिन्मात्रं ब्रह्मैव परमार्थो  
+ऽन्यत् सर्वं तस्मिन् परिकल्पितं मिथ्याभूतम्  
+> 
+> इति वाक्याद्  
+वस्तु-याथात्म्य-ज्ञानोत्पत्तेः,  
+तावतैव बन्ध-निवृत्तेश् च।  …  
+यथा पौरुषेयाद् अप्य् आप्त-वाक्याच्  
+छुक्तिका-रजतादि-भ्रान्तिर् ब्राह्मणस्य शूद्रादेर् अपि निवर्तते,  
+तद्वद् एव शूद्रस्यापि वेद-वित्-सम्प्रदायागत-वाक्याद्  
+वस्तु-याथात्म्य-ज्ञानेन जगद्-भ्रम-निवृत्तिर् अपि भविष्यति ॥
+
+
 ## पाञ्चरात्र-तिरस्कारे ऽन्यायः
 Hasn't applied "principle of charity", and descended into charlatanry of focusing on what was said rather than what was meant.
 
