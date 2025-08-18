@@ -97,7 +97,7 @@ Obvious to common sense (without vyAk) that "monkey-butt" doesn't fit, but vyAka
 ##### Temporal cultural shift?
 One need not argue that the sage's morality was the same as later morality - just basic aesthetic sense. I don't think that a woman 5k yr ago would be flattered by monkey bum similie. Bum and eyes being dual doesn't generate appropriateness.  
 
-
+{{< figure src="../images/kapyAsam_puNDarIkam" title="तस्या (sic) यथा कप्यासं पुण्डरीकम् एवम् अक्षिणी" class="thumbnail">}}
 
 ### भट्ट-भास्करः
 > " कं पिबति इति कपिः"
