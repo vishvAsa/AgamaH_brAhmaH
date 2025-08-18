@@ -55,7 +55,9 @@ Refer to verses 20-26 of Tattvasara by Vatsya Varadaguru of 13th century. This e
 तस्य यथा कपेः मर्कटस्य आसः कप्यासः ;  
 आसेरुपवेशनार्थस्य करणे घञ् ;  
 कपिपृष्ठान्तः येनोपविशति ;  
-कप्यास इव पुण्डरीकम् अत्यन्ततेजस्वि एवम् देवस्य अक्षिणी ; उपमितोपमानत्वात् न हीनोपमा ।  
+कप्यास इव पुण्डरीकम् अत्यन्ततेजस्वि  
+एवम् देवस्य अक्षिणी ;  
+उपमितोपमानत्वात् न हीनोपमा ।  
 
 इति शङ्कर उपनिषद्-भाष्ये। 
 
@@ -79,7 +81,6 @@ Surely, one sees the difference between comparing
 - red sandal paste to ~pig's~ boar's blood 
 - God's eye to "monkey bum" lotus?
 Further, note that वराह is used, not सूकर - grAmya-sUkara is amedhya, varAha is not - rather an avatAra of viShNu himself.
-
 </details>
 
 
@@ -87,9 +88,15 @@ Further, note that वराह is used, not सूकर - grAmya-sUkara is ame
 
 विष्णुसहस्रनामभाष्यकारस् तु "कं जलं रश्मिभिः पिबन् कपिः" इत्य् एव +उवाच। (अनेन तत्-कर्ता न शङ्कर इति ज्ञायते। विस्तारो ऽन्यत्र। )
 
-A rebuttal to "कम् पिबति" has been provided by Rāma Śāstrī in his Kapyāsa-Kaumudī.
+A rebuttal to "कम् पिबति" has been provided by Rāma Śāstrī in his Kapyāsa-Kaumudī. 
 
-Strikes me as a case where some vyAkaraNa knowledge hindered rather than helped. Obvious to common sense (without vyAk) that "monkey-butt" doesn't fit, but vyAkaraNa leads to superficial "vyutpatti" bias, instead of going straight for avyutpatti or nirukti.
+#### Appropriateness
+"Monkey bum" strikes one as a case where some vyAkaraNa knowledge hindered rather than helped.  
+Obvious to common sense (without vyAk) that "monkey-butt" doesn't fit, but vyAkaraNa leads to superficial "vyutpatti" bias, instead of going straight for avyutpatti or nirukti.
+
+##### Temporal cultural shift?
+One need not argue that the sage's morality was the same as later morality - just basic aesthetic sense. I don't think that a woman 5k yr ago would be flattered by monkey bum similie.
+
 
 
 ### भट्ट-भास्करः
@@ -119,6 +126,7 @@ Bottom line is by nirukta time, kapi was rUDha as sun among the early vaidika-s 
 
 इत्य् उज्ज्वलदत्त उणादिसूत्रेषु । 
 
+### पद्मोपजातिः
 > A word such as kapyāsa, denoting a particular variety of lotus, may have no meaningful connection to either kapi or āsa. ... 
 
 \- कुशाग्रः

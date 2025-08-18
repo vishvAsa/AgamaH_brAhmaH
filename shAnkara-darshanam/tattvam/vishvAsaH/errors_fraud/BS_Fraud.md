@@ -28,7 +28,6 @@ rather about an illusory Mr X who appears to write illusory reports."
 
 Would that sound right? What would you call him?
 
-
 ### Sa
 > ये तु निर्विशेषवस्तु जिज्ञास्यमिति वदन्ति,  
 तन्मते "ब्रह्म-जिज्ञासा", "जन्माद्यस्य यतः" इत्यसङ्गतं स्यात्;  
@@ -64,6 +63,12 @@ Would that sound right? What would you call him?
 तत्र किं केन सङ्गतम् ।  
 **तत्त्व-विद्वेष-मात्रेण  
 श्रुति-सूत्रे कद्-अर्थते** ॥ ४ ॥
+
+### Appeal to context?
+A judgement here does not require sophisticated philosophical knowledge - just basic reading comprehension and honesty.
+
+These are literally the first two sentences off the author's mouth. One cannot argue that the context (complete Śruti corpus) should be accounted to make sense of these - same as in the case of वृद्धिर् आद् ऐच्, अथाथो धर्मजिज्ञासा,  धीश्रीस्त्री म् ॥ etc.
+
 
 ## pAncharAtra
 shankara dismisses the supposedly pAncharAtra claim that jIva-s have a beginning in his BS bhAShya, while admitting the applicability of other doctrines. But, he doesn't even quote a pAncharAtra text that says so. 
