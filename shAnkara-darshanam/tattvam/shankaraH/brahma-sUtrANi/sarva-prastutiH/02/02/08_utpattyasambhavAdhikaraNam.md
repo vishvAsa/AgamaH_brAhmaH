@@ -13,7 +13,7 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 
 इति। 
 
-विस्तारो [ऽत्र](/AgamaH_vaiShNavaH/pAncharAtrAgamaH/meta/jIvotpatti-layau)।  
+विस्तारो [ऽत्र](/mahAbhAratam/vyAsaH/goraxapura-pAThaH/hindy-anuvAdaH/12_shAntiparva/03_moxadharmaparva/335-351_nArAyaNIyam/vishvAsaH/339_jIvotpatti-layau)।  
 
 एतत् प्रत्याख्यातम् पटु - यामुनेनागमप्रामाण्ये। 
 </details>

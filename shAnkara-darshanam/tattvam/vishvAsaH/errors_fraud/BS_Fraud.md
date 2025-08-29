@@ -71,22 +71,7 @@ These are literally the first two sentences off the author's mouth. One cannot a
 
 
 ## pAncharAtra
-shankara dismisses the supposedly pAncharAtra claim that jIva-s have a beginning in his BS bhAShya, while admitting the applicability of other doctrines. But, he doesn't even quote a pAncharAtra text that says so. 
-
-He was likely mistaken and prejudiced, if not deliberately fraudulent.  
-Or, in the best case, he was referring to some obscure non-mainstream cult; which still amounts to a misrepresentation of pAncharAtra.
-
-shAnkara-s have uncritically followed suit; while some have adjusted for it in [various ways](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/vishvAsaH/misadvertisement/kas_saguNam_brahma). 
-
-### Notice by others
-shankara's mischaracterization was supposedly later admitted by madhusUdana sarasvatI.
-
-यामुन आगम-प्रामाण्ये -
-
-> अ-विद्यमान-जीवोत्पत्ति-प्रतिपादनाध्यारोपेण  
-तन्-निराकरण-परतया सूत्रं व्याख्यायमानं  
-व्याख्यातॄणाम् एवाख्याति ख्यापयतीत्यलं प्रबन्धेन ।
-
+See elsewhere - [अत्र](/mahAbhAratam/vyAsaH/goraxapura-pAThaH/hindy-anuvAdaH/12_shAntiparva/03_moxadharmaparva/335-351_nArAyaNIyam/vishvAsaH/339_jIvotpatti-layau)
 
 ## Deliberateness
 नमो मायाविने तस्माय्  
