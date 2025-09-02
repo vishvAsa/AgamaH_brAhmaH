@@ -411,7 +411,89 @@ And, further, 'on account of impossibility' (the person in the eye cannot be the
 कण्णै स्ताऩमागवुडैयदु पिरदिबिम्ब आत्मावागवो, विक्ञाऩात्मावागवो, तेवदात् मावागवो, इरुक्कलाम् ऎऩ्ऱु ऎदु सॊल्लप्पट्टदो, अव्विषयत्तिल् सॊल्गिऱोम्; पिरदिबिम्ब आत्मा मुदलियमऱ्ऱदु इङ्गे ऎडुत्तुक्कॊळ्ळत्तक्कदिल्लै। एऩ्? ‘निलैयाऩ इरुप्पु इल्लाददिऩाल्'। पिरदिबिम्ब आत्माविऱ्कु ऎप्पॊऴुदुम् कण्णिल् इरुप्पदु सम्बविक्कादु। ऎप्पॊऴुदु ऒरु पुरुषऩ् कण्णिऩ् अरुगिल् वरुगिऱाऩो, अप्पॊऴुदुदाऩ् (अवऩ्) कण्णिल् (इन्द) पुरुषऩुडैय पिरदिबिम्बम् काणप्पडुम्; अवऩ् विलगिविट्टाल् काणप्पडादु। मेलुम् “ऎन्द इन्द पुरुषऩ् कण्णिल्” ऎऩ्ऱ सुरुदि समीबमाऩदिऩाल् तऩ् कण्णिल् काणप्पडुम् पुरुषऩै उबासिक्कत् तगुन्दवराग उबदेसिक्किऱदु। (तऩ् कण्णिल् तॆरियुम् पुरुषऩैत् ताऩ् पार्क्कमुडियादु।) तविरवुम्, उबासऩै सॆय्युम् कालत्तिल् पिरदिबिम्बत्तै एऱ्पडुत्तक्कूडिय ऒरु पुरुषऩै कण्णुक्कु समीबत्तिल् इरुक्कुम्बडिच् चॆय्दुगॊण्डु उबासिक्किऱाऩ् ऎऩ्ऱु कल्बिप्पदु युक्तमिल्लै। (पिरदिबिम्बत्तैक् कॊडुक्कुम् पिम्बमाऩ) 'इन्द सरीरत्तिऩ् मऱैवैयऩुसरित्ते इदु (पिरदिबिम्बम्) मऱैन्दुविडुगिऱदु' (सान्। ८-९-१) ऎऩ्ऱु सुरुदि, पिरदिबिम्ब आत्माविऩ् निलै इल्लामैयैयुम् काट्टुगिऱदु। अन्द पिरदिबिम्ब आत्माविल् मरणमऱ्ऱ तऩ्मै मुदलाऩ कुणङ्गळुक्कु सम्बवमिल्लाददालुम्, पिरदिबिम्बात् मावुक्कु किरहणमिल्लै।
 </details>
 
-तथा विज्ञानात्मनोऽपि साधारणे कृत्स्नशरीरेन्द्रियसम्बन्धे सति न चक्षुष्येवावस्थितत्वं शक्यं वक्तुम्। ब्रह्मणस्तु सर्वव्यापिनोऽपि दृष्ट उपलब्ध्यर्थो हृदयादिदेशविशेषसम्बन्धः। समानश्च विज्ञानात्मन्यप्यमृतत्वादीनां गुणानामसम्भवः। यद्यपि विज्ञानात्मा परमात्मनोऽनन्य एव, तथाप्यविद्याकामकर्मकृतं तस्मिन्मर्त्यत्वमध्यारोपितं भयं चेत्यमृतत्वाभयत्वे नोपपद्येते। संयद्वामत्वादयश्चैतस्मिन्ननैश्वर्यादनुपपन्ना एव ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा विज्ञानात्मनोऽपि  
+साधारणे कृत्स्न-शरीरेन्द्रिय-सम्बन्धे सति  
+न चक्षुष्य् एवावस्थितत्वं शक्यं वक्तुम्। 
+</details>
+
+<details><summary>English</summary>
+
+Of the cognitional Self, in the second place, which is in general connexion with the whole body and all the senses, it can likewise not be said that it has its permanent station in the eye only. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा विज्ञानात्मनोऽपि साधारणे कृत्स्नशरीरेन्द्रियसम्बन्धे सति न चक्षुष्येवावस्थितत्वं शक्यं वक्तुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मणस् तु सर्व-व्यापिनोऽपि  
+दृष्ट उपलब्ध्य्-अर्थो  
+हृदयादि-देश-विशेष-सम्बन्धः। 
+</details>
+
+<details><summary>English</summary>
+
+That, on the other hand, Brahman although all-pervading may, for the purpose of contemplation, be spoken of as connected with particular places such as the heart and the like, we have seen already. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मणस्तु सर्वव्यापिनोऽपि दृष्ट उपलब्ध्यर्थो हृदयादिदेशविशेषसम्बन्धः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+समानश् च विज्ञानात्मन्य् अप्य् अमृतत्वादीनां गुणानाम् असम्भवः। 
+</details>
+
+<details><summary>English</summary>
+
+The cognitional Self shares (with the reflected Self) the impossibility of having the qualities of immortality and so on attributed to it. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+समानश्च विज्ञानात्मन्यप्यमृतत्वादीनां गुणानामसम्भवः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्य् अपि विज्ञानात्मा परमात्मनोऽनन्य एव,  
+तथाप्य् अ-विद्या--काम-कर्म-कृतं तस्मिन् मर्त्यत्वम् अध्यारोपितं भयं चेत्य्  
+अमृतत्वाभयत्वे नोपपद्येते।
+</details>
+
+<details><summary>English</summary>
+
+Although the cognitional Self is in reality not different from the highest Self, still there are fictitiously ascribed to it (adhyāropita) the effects of nescience, desire and works, viz. mortality and fear; so that neither immortality nor fearlessness belongs to it. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्यपि विज्ञानात्मा परमात्मनोऽनन्य एव, तथाप्यविद्याकामकर्मकृतं तस्मिन्मर्त्यत्वमध्यारोपितं भयं चेत्यमृतत्वाभयत्वे नोपपद्येते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संयद्वामत्वादयश् चैतस्मिन्न् अनैश्वर्याद् अनुपपन्ना एव ।
+</details>
+
+<details><summary>English</summary>
+
+The qualities of being the saṁyadvāma, &c. also cannot properly be ascribed to the cognitional Self, which is not distinguished by lordly power (aiśvarya).
+</details>
+
+<details><summary>मूलम्</summary>
+
+संयद्वामत्वादयश्चैतस्मिन्ननैश्वर्यादनुपपन्ना एव ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -423,7 +505,149 @@ And, further, 'on account of impossibility' (the person in the eye cannot be the
 विक्ञाऩात्मा परमात्माविडमिरुन्दु वेऱुबडा मले इरुन्दबोदिलुम्, अप्पडियुम् अदऩिडत्तिल् अवित्यै कामम् कर्मा इवैगळाल् उण्डागुम् मरणमुळ्ळ तऩ्मैयुम्, पयमुम् आरोबिक्कप् पट्टिरुक्कुम् कारणत्तिऩाल् मरणमऱ्ऱ तऩ्मैयुम्, पयमऱ्ऱ तऩ्मैयुम् पॊरुन्दादु। सम्यत्वामत्तऩ्मै मुदलाऩवैगळुम् इवऩिडत्तिल् ईसुवरत्तऩ्मै यिल्लाददिऩाल्, पॊरुन्दादवैगळे।
 </details>
 
-देवतात्मनस्तु ‘रश्मिभिरेषोऽस्मिन्प्रतिष्ठितः’ इति श्रुतेः यद्यपि चक्षुष्यवस्थानं स्यात् , तथाप्यात्मत्वं तावन्न सम्भवति, पराग्रूपत्वात्। अमृतत्वादयोऽपि न सम्भवन्ति, उत्पत्तिप्रलयश्रवणात्। अमरत्वमपि देवानां चिरकालावस्थानापेक्षम्। ऐश्वर्यमपि परमेश्वरायत्तम् , न स्वाभाविकम्; ‘भीषास्माद्वातः पवते। भीषोदेति सूर्यः। भीषास्मादग्निश्चेन्द्रश्च। मृत्युर्धावति पञ्चमः’ (तै. उ. २। ८। १) इति मन्त्रवर्णात्। तस्मात्परमेश्वर एवायमक्षिस्थानः प्रत्येतव्यः। अस्मिंश्च पक्षे ‘दृश्यते’ इति प्रसिद्धवदुपादानं शास्त्राद्यपेक्षं विद्वद्विषयं प्ररोचनार्थमिति व्याख्येयम् ॥ १७ ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देवतात्मनस् तु  
+‘रश्मिभिर् एषो ऽस्मिन् प्रतिष्ठितः’ इति श्रुतेः  
+यद्य् अपि चक्षुष्य् अवस्थानं स्यात् ,  
+तथाप्य् आत्मत्वं तावन् न सम्भवति,  
+पराग्-रूपत्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+In the third place, although the Self of a deity (viz. the sun) has its station in the eye--  
+according to the scriptural passage,  
+'He rests with his rays in him'--  
+still Selfhood cannot be ascribed to the sun, on account of his externality (parāgrūpatva). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देवतात्मनस्तु ‘रश्मिभिरेषोऽस्मिन्प्रतिष्ठितः’ इति श्रुतेः यद्यपि चक्षुष्यवस्थानं स्यात् , तथाप्यात्मत्वं तावन्न सम्भवति, पराग्रूपत्वात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अमृतत्वादयोऽपि न सम्भवन्ति, उत्पत्तिप्रलयश्रवणात्। 
+</details>
+
+<details><summary>English</summary>
+
+Immortality, &c. also cannot be predicated of him, as Scripture speaks of his origin and his dissolution. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अमृतत्वादयोऽपि न सम्भवन्ति, उत्पत्तिप्रलयश्रवणात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अमरत्वमपि देवानां चिरकालावस्थानापेक्षम्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+For the (so-called) deathlessness of the gods only means their (comparatively) long existence. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अमरत्वमपि देवानां चिरकालावस्थानापेक्षम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऐश्वर्यमपि परमेश्वरायत्तम् , न स्वाभाविकम्; 
+</details>
+
+<details><summary>English</summary>
+
+And their lordly power also is based on the highest Lord and does not naturally belong to them; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऐश्वर्यमपि परमेश्वरायत्तम् , न स्वाभाविकम्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘भीषास्माद्वातः पवते।  
+भीषोदेति सूर्यः।  
+भीषास्माद् अग्निश् चेन्द्रश्च।  
+मृत्युर्धावति पञ्चमः’  
+(तै. उ. २। ८। १)  
+
+इति मन्त्रवर्णात्। 
+</details>
+
+<details><summary>English</summary>
+
+as the mantra declares, 'From terror of it (Brahman) the wind blows, from terror the sun rises; from terror of it Agni and Indra, yea, Death runs as the fifth.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+> ‘भीषास्माद्वातः पवते।  
+भीषोदेति सूर्यः।  
+भीषास्माद् अग्निश् चेन्द्रश्च।  
+मृत्युर्धावति पञ्चमः’  
+(तै. उ. २। ८। १)  
+
+इति मन्त्रवर्णात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात्परमेश्वर एवायमक्षिस्थानः प्रत्येतव्यः। 
+</details>
+
+<details><summary>English</summary>
+
+Hence the person in the eye must be viewed as the highest Lord only. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मात्परमेश्वर एवायमक्षिस्थानः प्रत्येतव्यः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्मिंश् च पक्षे  
+
+> ‘दृश्यते’ इति प्रसिद्धवद् उपादानं  
+शास्त्राद्य्-अपेक्षं विद्वद्-विषयं प्ररोचनार्थम्  
+
+इति व्याख्येयम् ॥ १७ ॥
+</details>
+
+<details><summary>English</summary>
+
+In the case of this explanation being adopted the mention (of the person in the eye) as something well known and established,  
+which is contained in the words 'is seen' (in the phrase 'the person that is seen in the eye'),  
+has to be taken as referring to (the mental perception founded on) the śāstra  
+which belongs to those who know;  
+and the glorification (of devout meditation) has to be understood as its purpose.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अस्मिंश्च पक्षे ‘दृश्यते’ इति प्रसिद्धवदुपादानं शास्त्राद्यपेक्षं विद्वद्विषयं प्ररोचनार्थमिति व्याख्येयम् ॥ १७ ॥
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
