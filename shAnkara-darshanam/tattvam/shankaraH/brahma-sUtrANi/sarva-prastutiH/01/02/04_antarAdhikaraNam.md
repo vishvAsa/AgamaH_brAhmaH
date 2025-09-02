@@ -9,10 +9,14 @@ title = "०४ अन्तराधिकरणम्"
 अन्दर उबबत्ते: ॥ १३ ॥
 </details>
 
-छायाजीवौ देवतेशौ वाऽसौ योऽक्षणि दृश्यते ॥  
-आधारदृश्यतोक्त्येशादन्येषु त्रिषु कश्चन ॥ ७ ॥  
-कं खं ब्रह्म यदुक्तं प्राक्तदेवाक्षण्युपास्यते ॥  
-वामनीत्वादिनाऽन्येषु नामृतत्वादिसम्भवः ॥ ८ ॥  
+छाया-जीवौ देवतेशौ  
+वाऽसौ योऽक्षणि दृश्यते ॥  
+आधार-दृश्यतोक्त्येशाद्  
+अन्येषु त्रिषु कश्चन ॥ ७ ॥  
+कं खं ब्रह्म यद् उक्तं प्राक्  
+तद् एवाक्षण्य् **उपास्यते** ॥  
+वामनीत्वादिनाऽन्येषु  
+नामृतत्वादि-सम्भवः ॥ ८ ॥  
 --वैयासिकन्यायमाला
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -175,13 +179,232 @@ title = "०४ अन्तराधिकरणम्"
 आगैयाल् इङ्गे पिरह्मोबासगऩ् विषयमाय् पिरसित्तमायुळ्ळ कदि सॊल्लियिरुप्पदाल्, कण्णै स्ताऩमायुडैयवरुक्कु पिरह्मत्तऩ्मै निच्चयिक्कप् पडुगिऱदु।
 </details>
 
-अनवस्थितेरसम्भवाच्च नेतरः ॥ १७ ॥  
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+## नानीश्वरः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनवस्तिदेरसम्बवाच्च नेदर: ॥ १७ ॥
+अनवस्थितेर् असम्भवाच् च नेतरः ॥ १७ ॥  
 </details>
 
-यत्पुनरुक्तं छायात्मा, विज्ञानात्मा, देवतात्मा वा स्यादक्षिस्थान इति, अत्रोच्यते — न च्छायात्मादिरितर इह ग्रहणमर्हति। कस्मात् ? अनवस्थितेः। न तावच्छायात्मनश्चक्षुषि नित्यमवस्थानं सम्भवति। यदैव हि कश्चित्पुरुषश्चक्षुरासीदति, तदा चक्षुषि पुरुषच्छाया दृश्यते। अपगते तस्मिन्न दृश्यते। ‘य एषोऽक्षिणि पुरुषः’ इति च श्रुतिः सन्निधानात्स्वचक्षुषि दृश्यमानं पुरुषमुपास्यत्वेनोपदिशति। न चोपासनाकाले च्छायाकरं कञ्चित्पुरुषं चक्षुःसमीपे सन्निधाप्योपास्त इति युक्तं कल्पयितुम् । ‘अस्यैव शरीरस्य नाशमन्वेष नश्यति’ (छा. उ. ८। ९। १) इति श्रुतिश्छायात्मनोऽप्यनवस्थितत्वं दर्शयति। असम्भवाच्च तस्मिन्नमृतत्वादीनां गुणानां न च्छायात्मनि प्रतीतिः ।
+<details><summary>English</summary>
+
+17. (The person within the eye is the highest), not any other Self; on account of the non-permanency (of the other Selfs) and on account of the impossibility (of the qualities of the person in the eye being ascribed to the other Selfs).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनवस्थितेरसम्भवाच्च नेतरः ॥ १७ ॥  
+</details>
+
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अनवस्थितेरसम्भवाच्च नेतरः ॥ १७ ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् पुनर् उक्तं  
+
+> छायात्मा, विज्ञानात्मा, देवतात्मा वा स्याद्  
+अक्षि-स्थान 
+
+इति, अत्रोच्यते — 
+</details>
+
+<details><summary>English</summary>
+
+To the assertion made in the pūrvapaksha that  
+
+> the person in the eye is either the reflected Self  
+or the cognitional Self (the individual soul)  
+or the Self of some deity 
+
+the following answer is given.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत्पुनरुक्तं छायात्मा, विज्ञानात्मा, देवतात्मा वा स्यादक्षिस्थान इति, अत्रोच्यते — 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च्छायात्मादिरितर इह ग्रहणमर्हति। 
+</details>
+
+<details><summary>English</summary>
+
+No other Self such as, for instance, the reflected Self can be assumed here, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च्छायात्मादिरितर इह ग्रहणमर्हति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कस्मात् ? अनवस्थितेः। 
+</details>
+
+<details><summary>English</summary>
+
+on account of non-permanency.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कस्मात् ? अनवस्थितेः। 
+</details>
+
+
+### न च्छायात्मा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न तावच् छायात्मनश् चक्षुषि  
+नित्यम् अवस्थानं सम्भवति। 
+</details>
+
+<details><summary>English</summary>
+
+The reflected Self, in the first place, does not permanently abide in the eye. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न तावच्छायात्मनश्चक्षुषि नित्यमवस्थानं सम्भवति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदैव हि कश्चित् पुरुषश् चक्षुर् आसीदति,  
+तदा चक्षुषि पुरुषच्छाया दृश्यते। 
+</details>
+
+<details><summary>English</summary>
+
+For when some person approaches the eye the reflection of that person is seen in the eye, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदैव हि कश्चित्पुरुषश्चक्षुरासीदति, तदा चक्षुषि पुरुषच्छाया दृश्यते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपगते तस्मिन्न दृश्यते। 
+</details>
+
+<details><summary>English</summary>
+
+but when the person moves away the reflection is seen no longer. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपगते तस्मिन्न दृश्यते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘य एषोऽक्षिणि पुरुषः’ इति च श्रुतिः  
+सन्निधानात् स्व-चक्षुषि दृश्यमानं पुरुषम् उपास्यत्वेनोपदिशति। 
+</details>
+
+<details><summary>English</summary>
+
+The passage 
+
+> 'That person within the eye' 
+
+must, moreover, be held, on the ground of proximity, to intimate that  
+the person seen in a man's own eye is the object of (that man's) devout meditation  
+(and not the reflected image of his own person which he may see in the eye of another man).  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘य एषोऽक्षिणि पुरुषः’ इति च श्रुतिः सन्निधानात्स्वचक्षुषि दृश्यमानं पुरुषमुपास्यत्वेनोपदिशति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च
+
+> उपासनाकाले  
+च्छाया-करं कञ्चित् पुरुषं  
+चक्षुः-समीपे सन्निधाप्योपास्त 
+
+इति युक्तं कल्पयितुम् । 
+</details>
+
+<details><summary>English</summary>
+
+[Let, then, another man approach the devout man,  
+and let the latter meditate on the image reflected in his own eye,  
+but seen by the other man only.  
+No, we reply, for] 
+
+we have no right to make the (complicated) assumption that the devout man is, at the time of devotion, to bring close to his eye another man in order to produce a reflected image in his own eye. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न चोपासनाकाले च्छायाकरं कञ्चित्पुरुषं चक्षुःसमीपे सन्निधाप्योपास्त इति युक्तं कल्पयितुम् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘अस्यैव शरीरस्य नाशम् अन्व्  
+एष नश्यति’ (छा. उ. ८। ९। १) 
+
+इति श्रुतिश् छायात्मनो ऽप्य् अनवस्थितत्वं दर्शयति। 
+</details>
+
+<details><summary>English</summary>
+
+Scripture, moreover, (viz. Cḥ. Up. VIII, 9, 1, 'It (the reflected Self) perishes as soon as the body perishes,') declares the non-permanency of the reflected Self.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘अस्यैव शरीरस्य नाशमन्वेष नश्यति’ (छा. उ. ८। ९। १) इति श्रुतिश्छायात्मनोऽप्यनवस्थितत्वं दर्शयति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+असम्भवाच् च -  
+तस्मिन्न् अमृतत्वादीनां गुणानां न च्छायात्मनि प्रतीतिः ।
+</details>
+
+<details><summary>English</summary>
+
+And, further, 'on account of impossibility' (the person in the eye cannot be the reflected Self). For immortality and the other qualities ascribed to the person in the eye are not to be perceived in the reflected Self.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+असम्भवाच्च तस्मिन्नमृतत्वादीनां गुणानां न च्छायात्मनि प्रतीतिः ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
