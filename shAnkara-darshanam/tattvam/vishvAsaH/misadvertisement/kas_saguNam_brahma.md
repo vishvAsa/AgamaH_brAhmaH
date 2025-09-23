@@ -173,13 +173,25 @@ So, not rejecting shankara's characterization of pAncharAtra; and but taking it'
 > … यस्य च पद्भ्यां जाता पृथिवी,  
 एष देवो विष्णुर् अनन्तः प्रथम-शरीरी त्रैलोक्य-देहोपाधिः सर्वेषां भूतानाम् अन्तरात्मा ।
 
-
-### Not appropriation
-Many vaiShNavas say that he was an overt (not covert) vaiShNava, who called saguNabrahma as vAsudeva. Even while doing so, they don't appropriate him (ie call him their AchArya).
-
-
 ### अपह्नवे प्रयासः
 Modern shAnkaras make risible attempts to turn SB into NB so that you can disassociate vAsudeva from shankara. 
+
+#### प्रत्याख्यान-पराः
+Many vaiShNavas say that he was an overt (not covert) vaiShNava, who called saguNabrahma as vAsudeva. Even while doing so, they don't appropriate him (ie call him their AchArya). So, they can't be said to be "(mis)appropriating" shankara.
+
+Notable shAnkaras who correctly observed viShNu-paratva of shankara. 
+
+The hari-harAbheda-vAdin rAma-subba-shAstrI wrote "mahA-shaiva-mata-mardanam" in vitaNDA style to that effect.  
+kRShNapremi, a shAnkara descendent of periya-vAchchAn-piLLai, describes shankara in vaiShNavasaMhitA- 
+
+>  प्रसन्नवदनं बालं  
+> तप्तस्वर्णाभविग्रहम् ।  
+> ऊर्ध्वपुण्डलसत्फालं  
+> बद्धपूर्वशिखं तथा ॥ १३ ॥  
+> तेजस्विनं महाशान्तं  
+> सरसीरुहलोचनम् ।  
+> पलाशदण्ड-पाणिञ्च  
+> मौञ्जीकौपीनधारिणम् ॥ १४ ॥
 
 
 ## देवतान्तर-व्यावर्तनम्
