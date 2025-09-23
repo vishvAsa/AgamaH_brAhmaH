@@ -3,9 +3,7 @@ title = "विष्णु-द्वेष-कर-महा-शैव-मत-�
 +++
 Source: [TW](https://archive.org/details/ramasubba/Mahasaivamatamardanam/page/n11/mode/2up)
 
-
 Source: [TW](https://archive.org/details/shrI-vaiShNava-tattva-granthAH/mahA-shaiva-mata-mardanam.pdf)
-
 
 [TODO: परिष्कार्यम्] 
 [[P1]] [[P2]] 
@@ -31,7 +29,6 @@ Source: [TW](https://archive.org/details/shrI-vaiShNava-tattva-granthAH/mahA-sha
 
 ॥ विष्णु-द्वेषकर-महा-शैव-मत-मर्दनम् ॥
 
-
 ## प्रतिज्ञा
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -44,7 +41,6 @@ Source: [TW](https://archive.org/details/shrI-vaiShNava-tattva-granthAH/mahA-sha
 
 By Shaivites like Dravida Haradatta and others, a confusion (or disorder) in the meaning of the scriptures has been caused. To remove that, I offer obeisance to the feet of Rama.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -62,7 +58,6 @@ By Shaivites like Dravida Haradatta and others, a confusion (or disorder) in the
 
 We have no hatred towards the well-known and established principle of Shiva. This endeavor is for crushing those whose minds are hateful towards the principle of Hari (Vishnu).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -83,7 +78,6 @@ We have no hatred towards the well-known and established principle of Shiva. Thi
 Although Advaita (non-duality) alone is the Brahman spoken of by hundreds of scriptures, whether that be Shiva or Vishnu, no fault can be asserted here even by people like us. Some, being firmly established in perverse arguments, have attained a bad state (or destination) by writing books stating that there is no supremacy of Hari in the scriptures; their view is refuted here.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यद्यप्य् अद्वैतम् एव श्रुति-शत-गदितं ब्रह्म, तत् स्याच् छिवो वा विष्णुर् वा, नात्र काचित् क्षतिर् अपि गदितुं शक्यते {{मादृशैव|मादृशैः}} ।  
@@ -102,7 +96,6 @@ Although Advaita (non-duality) alone is the Brahman spoken of by hundreds of scr
 
 In Vedanta, Mahabharata, etc., in matters concerning Hari and Hara (Vishnu and Shiva), the intellect clinging to difference is prohibited by numerous statements. How can the doctrine of difference somehow exist here? Even with such unity, by many people here, superiority of Rudra (Shiva) over Vishnu is established; therefore, something is written here not out of animosity towards Rudra.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -123,7 +116,6 @@ In Vedanta, Mahabharata, etc., in matters concerning Hari and Hara (Vishnu and S
 I have resorted to that method of disputation (vaitandika-rīti) in this (work). It is not fair to suspect that I have no reverence for Shiva.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वैतण्डिक-रीतिं ताम् अवलम्ब्यास्मिन् प्रवृत्तोऽस्मि ।  
@@ -140,7 +132,6 @@ I have resorted to that method of disputation (vaitandika-rīti) in this (work).
 
 If a clear understanding of the principles of Hari and Hara has arisen from what was truly declared by Narada in the Harivamsa, then who can create a distinction there?
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -165,7 +156,6 @@ If a clear understanding of the principles of Hari and Hara has arisen from what
 It is clear that in the Mimamsa-Shastra-dvaya (two Mimamsa treatises) – the Jaiminiya Dharma Mimamsa, which consists of sixteen chapters, and which was undertaken for determining the meaning of the Karma-kanda (ritualistic section) of the Vedas, and the Vaiyasaki Brahmasutras (or Shariraka Mimamsa), which consists of four chapters, and which was undertaken for determining the meaning of the Jnana-kanda (knowledge section) of the Vedas, which elucidates the nature of Brahman with all its accessories – just as Smriti is written as an auxiliary to the Veda by the sutras "Smritischa", "Smaryate cha", "Smaranti cha", and "Pramanam Anumanam Syat" in the section on writing auxiliaries for the meaning of the Vedas, by making the sutra "Puranacchha" and thereby writing Puranas as auxiliaries to the Veda, Puranas are to be disregarded in the context of augmenting the Karma-kanda and Jnana-kanda of the Vedas.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 [[P4]] वेद-गत-कर्म-काण्डार्थ-निर्णयार्थं प्रवृत्तायां जैमिनीय-षोडश-लक्षण-धर्म-मीमांसायां, वेद-गत-स-परिकर-ब्रह्म-स्वरूप-प्रतिपादक-ज्ञान-काण्डार्थ-निर्णयार्थं प्रवृत्तायां शारीरक-संज्ञायां वैयासिक्यां चतुर्-लक्षण-ब्रह्म-मीमांसायां च श्रुत्यर्थ-निर्णायकोपबृंहण-लेखन-प्रकरणे “स्मृतेश् च”, “स्मर्यते च”, “स्मरन्ति च”, “प्रमाणम् अनुमानं स्यात्” इति सूत्रैः स्मृतेर् वेदोपबृंहणतया लेखनवत्, “पुराणाच् च” इति सूत्रं कृत्वा पुराणस्य वेदोपबृंहणत्वाल् लेखनान् मीमांसा-शास्त्र-द्वय-रीत्या पुराणं वेद-गत-कर्म-काण्ड-ज्ञान-काण्डोपबृंहण-विषयेऽनादरणीयम् इति स्पष्टम् ।
@@ -185,7 +175,6 @@ It is clear that in the Mimamsa-Shastra-dvaya (two Mimamsa treatises) – the Ja
 
 By the principle stated in the sutras "Etena Shishtaparigraha Vyākhyātāḥ" and "Aparigrahāt Chātyantam Anapekṣā" from the first and second pādas of the second chapter of the Shariraka (Brahmasutras), since the Puranas are not accepted as auxiliaries to the Vedas by Jaimini and Badarayana, the foremost among the discerning scholars who authored the two Mimamsa schools, the Puranas are indeed to be disregarded by the discerning in this matter.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -208,7 +197,6 @@ By the principle stated in the sutras "Etena Shishtaparigraha Vyākhyātāḥ" a
 
 For this very reason, in the phrase "Itihāsa-Purāṇābhyāṁ Vedaṁ Samupabṛṁhayet" (One should augment the Veda with Itihasa and Purana), to indicate the apparent nature of the Purana in the context of Vedic augmentation, the word `Purāṇa` (having fewer syllables) does not precede in the dvandva compound, but rather the word `Itihāsa` (having more syllables) is placed first according to the vārttika "Abhyarhitaṁ Pūrvam" (the more revered comes first), and then the word `Purāṇa` is placed.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -240,7 +228,6 @@ For this very reason, in the phrase "Itihāsa-Purāṇābhyāṁ Vedaṁ Samupab
 By the statement of Shatatapa, quoted in Madhaviya, "That which is prescribed as penance without Dharma-shastra; one does not attain purity by it, even if the penance is performed," and by the statement of Parashara Smriti, "Twice-born ones, mounted on the chariot of Dharma-shastra and holding the sword of Veda, whatever they declare even for sport, that is remembered as Dharma, not otherwise," even though there is no lack of authority for all other parts of the Puranas, as in the part related to sin-removing dharma and the part related to Vedic augmentation, in those parts, the Purana is indeed unreliable.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यद् विना धर्म-शास्त्रेण प्रायश्चित्तं विधीयते । न तेन शुद्धिम् आप्नोति प्रायश्चित्ते कृतेऽपि सः इति माधवीय-धृतेन शातातप-वचनेन, धर्म-शास्त्र-रथारूढा वेद-खङ्ग-धरा द्विजाः । क्रीडार्थम् अपि यद् ब्रूयुः स धर्मो नेतरः स्मृतः इति पराशर-स्मृति-वचनेन च पाप-निवर्तक-धर्मांश इव वेदोपबृंहणांश इव च तद्-इतर-सर्वांशस्याप्रामाण्याभावेऽपि तद्-अंशे पुराणम् अविश्वसनीयम् एव ।
@@ -260,7 +247,6 @@ By the statement of Shatatapa, quoted in Madhaviya, "That which is prescribed as
 Otherwise, in the Chandogya Madhu Vidya, in the expression "Itihāsa-Purāṇaṁ Puṣpam" (Itihasa and Purana are flowers), how would the posterior placement of the word `Purana` and the prior placement of the word `Itihasa` in the dvandva compound be appropriate, to indicate that Purana is an unvenerable flower, which is a synonym for a foul-smelling flower?
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अन्यथा च्छान्दोग्य-मधु-विद्यायाम् “इतिहास-पुराणं पुष्पम्” इत्यत्र द्वन्द्व-समासे पुराणस्यानभ्यर्हित-पुष्पत्वापर-पर्याय-दुर्गन्ध-पुष्पत्व-द्योतनार्थं पुराण-पदस्य पर-निपात इतिहास-पदस्य पूर्व-निपातश् च कथं कृतः संगच्छते ।
@@ -277,7 +263,6 @@ Otherwise, in the Chandogya Madhu Vidya, in the expression "Itihāsa-Purāṇa�
 Otherwise, according to the rule "alpāch-taram" (the one with fewer syllables), the word `Purana` itself would have been placed first.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अन्यथा “अल्पाच्-तरम्” इति शास्त्र-रीत्या पुराण-पदम् एव पूर्वनिविष्टं स्यात् ।
@@ -292,7 +277,6 @@ Otherwise, according to the rule "alpāch-taram" (the one with fewer syllables),
 
 Indeed, it is not seen as such.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -314,7 +298,6 @@ Indeed, it is not seen as such.
 Furthermore, even if the one hundred and eight Upanishads are accepted as Vedas, among the Upanishads, the ten Upanishads named Isha, Kena, Katha, Prashna, Mundaka, Mandukya, Taittiriya, Aitareya, Chandogya, and Brihadaranyaka are included in the Jnana-kanda (knowledge section) of the Veda, but not the Shvetashvatara, Kaivalya, Atharvashikha, Atharvashiras, and other such Upanishads.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 किं च, अष्टोत्तर-शतोपनिषदां वेदत्व-स्वीकारेऽपि उपनिषदां मध्ये ईश-केन-कठ-प्रश्न-मुण्ड-माण्डूक्य-तैत्तिरीयैतरेय-छान्दोग्य-बृहदारण्यक-संज्ञिकानां दशोपनिषदां वेद-गत-ज्ञान-काण्डान्तर्भावः, न तु श्वेताश्वतर-कैवल्याथर्वशिखाथर्वशिरः-प्रभृति-उपनिषदाम् ।
@@ -332,7 +315,6 @@ Furthermore, even if the one hundred and eight Upanishads are accepted as Vedas,
 Their non-inclusion in the Karma-kanda (ritualistic section) of the Veda is, however, clear.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वेद-गत-कर्म-काण्डानन्त- [[P5]] र्भावस् तु स्पष्ट एव ।
@@ -347,7 +329,6 @@ Their non-inclusion in the Karma-kanda (ritualistic section) of the Veda is, how
 
 No proof needs to be stated there.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -377,7 +358,6 @@ No proof needs to be stated there.
 In the Muktikopanishad, Sri Rama's statements to Anjaneya are seen: "The Mandukya Upanishad alone is sufficient for the liberation of those desirous of moksha. Yet, if knowledge is not attained, study the ten Upanishads. Having attained knowledge, you will quickly reach My abode. Yet, O son of Anjana, if there is no firmness in knowledge, then study the Upanishad named Dvatrimshat (Thirty-Two) and turn back (from worldly pursuits)."
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मुक्तिकोपनिषद्य् आञ्जनेयं प्रति माण्डूक्यम् एकम् एवालं मुमुक्षूणां विमुक्तये । तथाप्य् अलब्धं चेज् ज्ञानं दशोपनिषदं पठ । ज्ञानं लब्ध्वा चिराद् एव मामकं धाम यास्यसि ॥ तथापि दृढता नो चेद् विज्ञानस्याञ्जनासुत । द्वात्रिंशद्-आख्योपनिषदं समभ्यस्य निवर्तय इति श्री-राम-वाक्यानि दृश्यन्ते ।
@@ -395,7 +375,6 @@ In the Muktikopanishad, Sri Rama's statements to Anjaneya are seen: "The Manduky
 And by these (statements), it is said that the Ten Upanishads are for Brahman-knowledge, if the Brahman-knowledge generated by the Ten Upanishads is not firm, then the Upanishad named Dvatrimshat is for the firmness of the knowledge generated by the Ten Upanishads, and that other Upanishads are to be abandoned by those desirous of Brahman-knowledge and its firmness.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तैश् च दशोपनिषदां ब्रह्म-ज्ञानार्थत्वं, दशोपनिषज्-जनित-ब्रह्म-ज्ञानस्य दार्ढ्याभावे द्वात्रिंशत्-संज्ञकोपनिषदो दशोपनिषज्-जन्य-ज्ञान-दार्ढ्यार्थत्वम्, अन्यासाम् उपनिषदां ब्रह्म-ज्ञान-तद्-दार्ढ्य-कामनावद्भिः परित्याज्यत्वं चोक्तम् ।
@@ -411,7 +390,6 @@ And by these (statements), it is said that the Ten Upanishads are for Brahman-kn
 
 Thereby, it is understood that only the Ten Upanishads constitute the Jnana-kanda of the Veda, and there is an absence of Jnana-kanda status for the Shvetashvatara and others that appear later than the Ten Upanishads.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -431,7 +409,6 @@ Thereby, it is understood that only the Ten Upanishads constitute the Jnana-kand
 
 Here, in the phrase "Dvatrimshad-akhyopanishadam" (the Upanishad named Dvatrimshat), the word "Dvatrimshad-akhyopanishat" does not refer to thirty-two Upanishads as a numerical count; for if it did, there would have been a direct injunction like "study thirty-two Upanishads" just as in "study the ten Upanishads," and the word "akhya" (named) would become redundant.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -453,7 +430,6 @@ Here, in the phrase "Dvatrimshad-akhyopanishadam" (the Upanishad named Dvatrimsh
 Therefore, by the grammatical analysis "Dvatrimshat is the name of that which is Dvatrimshad-akhya, and that Upanishad is Dvatrimshad-akhyopanishat," it is said that there is a particular Upanishad named Dvatrimshat which generates firmness in Brahman-knowledge.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अतः ‘द्वात्रिंशद् इत्याख्या संज्ञा यस्याः सा द्वात्रिंशद्-आख्या, सा चोपनिषद् द्वात्रिंशद्-आख्योपनिषत्’ इति समास-रीत्या द्वात्रिंशत्-संज्ञिका काचिद् उपनिषद् अस्ति ब्रह्म-ज्ञान-दार्ढ्योत्पादिकेत्य् उक्तं भवति ।
@@ -473,13 +449,10 @@ Therefore, by the grammatical analysis "Dvatrimshat is the name of that which is
 (1. The Gita Upanishad. In the Gita Upanishad, the presence of the causes of the name Dvatrimshat (thirty-two) and the thirty-two tattvas (principles) is predominantly seen. Similarly, the predominant exposition of the eight types of inert nature like 'Bhumi, Apah' (earth, water), the conscious nature, the Lord who is the abode of these two natures, the eleven sense organs mentioned as 'Indriyanam Manah' (mind among the senses), the four varnas mentioned as 'Chaturvarnyam Maya' (the four-fold order by Me), the four natural dharmas of the four varnas mentioned as 'Shamo Damas tatha Shaucham' (tranquility, self-restraint, purity), and the three gunas (qualities) mentioned as 'Sattvam Rajas Tamah Iti Gunah Prakriti-sambhavah' (Sattva, Rajas, and Tamas, these are qualities born of nature).)
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 (१. गीतोपनिषत् । गीतोपनिषदि {{द्वाविंशत्समाख्या|द्वात्रिंशत्-समाख्या}}-प्रवृत्ति-निमित्तानां {{द्वाविंशत्तत्त्वानां|द्वात्रिंशत्-तत्त्वानां}} सत्त्वं प्राधान्येन दृश्यते । तथैव ‘भूमिर् आपः’ इत्याद्य् उक्ताष्ट-विध-जड-प्रकृतीनां चित्-प्रकृतेः तादृश-प्रकृति-द्वयाश्रय-भगवतः ‘इन्द्रियाणां मनः’ इत्य् उक्तैकादशेन्द्रियाणाम् ‘चातुर्वर्ण्यं मया’ इत्य् उक्त-वर्ण-चतुष्टयस्य ‘शमो दमस् तथा शौचम्’ इत्य् उक्त-चतुर्वर्ण-स्वाभाविक-धर्म-चतुष्टयस्य ‘सत्त्वं रजस् तम इति गुणाः प्रकृति-संभवाः’ इत्य् उक्त-गुण-त्रयस्य च प्राधान्येन प्रतिपादनात् ।)
 </details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -490,7 +463,6 @@ Therefore, by the grammatical analysis "Dvatrimshat is the name of that which is
 
 The Jnana-kanda is itself the Brahma-kanda.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -509,7 +481,6 @@ The Jnana-kanda is itself the Brahma-kanda.
 
 The inclusion of the Shvetashvatara and other later Upanishads by their respective commentators in the chapter on Brahman should be understood as merely a rhetorical flourish, just like the inclusion of Puranas as auxiliaries.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -545,7 +516,6 @@ The inclusion of the Shvetashvatara and other later Upanishads by their respecti
 Even there, in the study, listening, and contemplation of the meaning of the Shvetashvatara Upanishad, and similarly in the study, listening, and contemplation of the meaning of the Kaivalya Upanishad, only those outside the ashramas (orders of life) have the right; not the Brahmacharis (celibate students), Grihasthas (householders), Vanaprasthas (forest dwellers), and Sannyasis (renunciates) who have entered the ashramas, as is evident from the authoritative statements: "To the atyāśramis (those beyond ashramas), he (the Rishi) properly declared the supreme sacred knowledge, worshipped by hosts of Rishis" from the sixth chapter of the Shvetashvatara Upanishad, and "The atyāśrami should always (or at least once) chant. By this, he attains knowledge that destroys the ocean of samsara" from the second section of the Kaivalya Upanishad. Enough said.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तत्रापि श्वेताश्वतरोपनिषद्-अध्ययन-श्रवण-तद्-अर्थ-विचारणादौ कैवल्योपनिषद्-अध्ययन-श्रवण-तद्-अर्थ-विचारणादौ चाश्रम-बाह्यस्यैवाधिकारः; न त्व् आश्रम-प्रविष्टानां ब्रह्मचारि-गृहस्थ-वानप्रस्थ-संन्यासिनाम्, श्वेताश्वतरोपनिषद्-गत-षष्ठाध्यायीय- “अत्याश्रमिभ्यः परमं [[P6]] पवित्रं प्रोवाच सम्यग् ऋषि-संघ-जुष्टम्” इति, कैवल्योपनिषद्-गत-द्वितीय-खण्डीय- “अत्याश्रमी सर्वदा सकृद् वा जपेत् । अनेन ज्ञानम् आप्नोति संसारार्णव-नाशनम्” इति च वाक्य-प्रामाण्याद् इत्य् अलम् ।
@@ -561,7 +531,6 @@ Even there, in the study, listening, and contemplation of the meaning of the Shv
 
 By this, the statement by some that Purana is also Smriti is refuted.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -587,7 +556,6 @@ By this, the statement by some that Purana is also Smriti is refuted.
 Because it would lead to a contradiction with the statement from Vyasa Smriti: "Where there is a contradiction among Shruti, Smriti, and Puranas, there Shruti is stronger; among the two, Smriti is superior. When Shruti, Smriti, and Puranas contradict each other, the earlier one is stronger – thus know the knowers of Veda."
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 श्रुति-स्मृति-पुराणानां विरोधो यत्र दृश्यते । तत्र श्रुतिर् बलिष्ठा स्याद् द्वयोर् मध्ये स्मृतिर् वरा ॥ श्रुति-स्मृति-पुराणेषु विरुद्धेषु परस्परम् । पूर्वं पूर्वं बलीयः स्याद् इति वेद-विदो विदुः इति व्यास-स्मृति-वचन-विरोधापत्तेः ।
@@ -604,7 +572,6 @@ Because it would lead to a contradiction with the statement from Vyasa Smriti: "
 
 By this, the statement by some that Itihasas and Puranas are one and the same is refuted; because the dvandva compound which pervades difference in the expressions "Itihāsa-Purāṇaṁ Puṣpam" and "Itihāsa-Purāṇābhyāṁ Vedaṁ Samupabṛṁhayet" in Shruti and Smriti, referring to Itihasa and Purana, would be inappropriate.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -623,7 +590,6 @@ By this, the statement by some that Itihasas and Puranas are one and the same is
 
 In the Vishishtadvaita commentary, the occasional inclusion of a Purana statement in the category of Smriti is to be understood as an assumption of the Purana's Smriti-status for the sake of argument.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -648,7 +614,6 @@ In the Vishishtadvaita commentary, the occasional inclusion of a Purana statemen
 Otherwise, in that commentary, in the text 'in Dharma-shastras, Itihasas, and Puranas, which are based on mixed Brahmanas, Mantras, and Arthavadas' in the context of the sutra "Tad-upari api Badarayanaḥ Sambhavāt", the separate mention of Puranas as having Arthavada as their source, distinct from Dharma-shastras (which are Smritis based on Brahmanas, the injunctive parts of the Veda) and Itihasas (based on Mantras from the Veda), would be inappropriate.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अन्यथा तद्-भाष्ये “तद्-उपर्य् अपि बादरायणः संभवात्” इति-सूत्रीये ‘संकीर्ण-ब्राह्मण-मन्त्रार्थ-वाद-मूलेषु धर्म-शास्त्रेतिहास-पुराणेषु’ इति ग्रन्थे विधि-वाक्यात्मक-वेद-गत-ब्राह्मण-मूलक-धर्म-शास्त्र-शब्दित-स्मृत्यपेक्षया वेद-गत-मन्त्र-मूलकेतिहासापेक्षया च पृथक्त्वेनार्थ-वाद-मूलकत्वेन पुराणस्य कथनानुपपत्तेः ।
@@ -669,7 +634,6 @@ Otherwise, in that commentary, in the text 'in Dharma-shastras, Itihasas, and Pu
 The status of Dharma-shastra as Smriti is established by the statement of Manu Smriti: "Shruti is to be known as Veda, and Dharma-shastra is indeed Smriti."
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 धर्म-शास्त्रस्य स्मृतित्वं च “श्रुतिस् तु वेदो विज्ञेयो धर्म-शास्त्रं तु वै स्मृतिः” इति मनु-स्मृति-वचन-सिद्धम् ।
@@ -687,7 +651,6 @@ The status of Dharma-shastra as Smriti is established by the statement of Manu S
 
 By stating that Puranas are based on Arthavadas (eulogistic passages) which lack independent purport, it is clearly understood that the commentators also hold the view that Puranas are unvenerable in the context of augmenting the Vedas.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -715,7 +678,6 @@ By stating that Puranas are based on Arthavadas (eulogistic passages) which lack
 This is also the opinion of the Advaita commentators; because in their Advaita commentary, in the context of the sutra "Bhāvaṁ Tu Bādarāyaṇo 'sti Hi," it is stated by the text 'Itihasas and Puranas, which are based on Mantras and Arthavadas, are also capable of elaborating on the forms of deities, etc.,' which declares the Puranas to be based on Arthavadas.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 एवम् एवाद्वैत-भाष्य-कृताम् अभिप्रायः; तदीयाद्वैत-भाष्ये “भावं तु बादरायणोऽस्ति हि” इति-सूत्रीयेण ‘मन्त्रार्थ-वाद-मूलकम् इतिहास-पुराणम् अपि देवता-विग्रहादि प्रपञ्चयितुम् अलम्’ इति ग्रन्थेन पुराणस्यार्थ-वाद-मूलकत्वोक्तेः ।
@@ -732,7 +694,6 @@ This is also the opinion of the Advaita commentators; because in their Advaita c
 
 The absence of independent purport for Arthavada, which is synonymous with eulogy, is clear from the sutra "Stutaye 'numatiḥ Vā" in both Advaita and Vishishtadvaita commentaries.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -752,7 +713,6 @@ The absence of independent purport for Arthavada, which is synonymous with eulog
 
 Even the acceptance of the statements from the Shvetashvatara Upanishad in the Advaita and Vishishtadvaita commentaries is done by assuming, for the sake of argument, that those statements are part of the Jnana-kanda of the Veda, and not because they are primarily Jnana-kanda in nature.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -775,7 +735,6 @@ Even the acceptance of the statements from the Shvetashvatara Upanishad in the A
 
 Even the acceptance or non-acceptance for the sake of argument is the view of the Advaita and Vishishtadvaita commentators; in both commentaries on the sutra "Vidhir Va Dharanavat," it is stated that the sutra "Vidhir Va Dharanavat" applies by assuming the absence of the statement "Yadi vetaratha brahmacharyād eva pravrajet" (or otherwise, one should renounce directly from brahmacharya) for the sake of argument. Enough said.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -802,7 +761,6 @@ Even the acceptance or non-acceptance for the sake of argument is the view of th
 
 This, however, should be understood: even according to Yajnavalkya Smriti, only the Ten Upanishads, such as Isha and others, are considered Vedas and places of Dharma and Vidya (knowledge) like the Karma-kanda of Rigveda etc.; not the Upanishads different from the Ten Upanishads, as per the authoritative statement from the first chapter of Yajnavalkya Smriti: "Puranas, Nyaya, Mimamsa, Dharma-shastras, Angas, mixed with Vedas – these fourteen are the seats of Vidyas and Dharma."
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -842,7 +800,6 @@ for if one were to consider the mixed elements along with the principal subject 
 or "Devadatta mixed with Yajnadatta are two" as authoritative.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न ह्य् अस्मिन् वचने वेद-गत-मिश्रण-प्रतियोगि-पुराणादि-दशकं वेद-चतुष्टयं च मिश्रीकृत्य चतुर्दशत्वं तेषु धर्म-स्थानत्वं विद्या-स्थानत्वं चोक्तम् इति शङ्क्यम्; मिश्रण-प्रतियोगिनम् आदाय मिश्रणानुयोगि-पद-समानाधिकरण-चतुर्दश-पदोक्त-चतुर्दशत्व-संपादने तत्-समानाधिकरण-स्थान-पadoक्त-स्थानत्वस्य तत्र संपादने देवदत्त-यज्ञदत्त-मिश्रितम् एक-विष्णुमित्रं गृहीत्वा देवदत्त-यज्ञदत्त-मिश्रिता विष्णुमित्रास् त्रयः पण्डिताः शिष्टा इति देवदत्त-मिश्रितो यज्ञदत्तो द्वाव् इत्य् आदि-निर्देशस्यापि प्रामाणिकत्वापत्तेः ।
@@ -858,7 +815,6 @@ or "Devadatta mixed with Yajnadatta are two" as authoritative.
 
 Indeed, the syntactic connection of the attributes stated by the word in apposition to the principal subject, with the mixed attributes that modify the principal subject, is nowhere seen.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -876,7 +832,6 @@ Indeed, the syntactic connection of the attributes stated by the word in apposit
 
 Therefore, the four Karma-kandas and the Ten Upanishads together constitute fourteen Vedas.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -906,7 +861,6 @@ Therefore, the four Karma-kandas and the Ten Upanishads together constitute four
 The bestower of liberation is Vishnu alone, not Brahma, Shiva, etc.; because in the Purusha Sukta Shruti, which is universally accepted and recited, it is stated that the object of knowledge leading to liberation is Narayana, denoted by the word Mahapurusha ("I know that great Purusha, effulgent like the sun, beyond darkness. Knowing Him thus, one becomes immortal here; there is no other path for liberation"), and in "nānyaḥ panthāḥ" (there is no other path), when it is understood as a prohibition of other established means, it prohibits any other means of liberation than Mahapurusha, who is the object of knowledge leading to liberation.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मुक्ति-दातृत्वं विष्णोर् एव, न तु विधि-शिवादीनाम्; वेदाहम् एतं पुरुषं महान्तम् आदित्य-वर्णं तमसः परस्तात् । तम् एवं विद्वान् अमृत इह भवति नान्यः पन्था विद्यतेऽयनाय इति सर्व-संप्रतिपन्न-पठ्यमान-पुरुष-सूक्त-श्रुतौ मोक्ष-हेतु-ज्ञान-विषयत्वस्य महा-पुरुष-शब्दित-नारायणे कथनात् “नान्यः पन्थाः” इत्यत्र सिद्धोपायान्तर-निषेध-परत्वे मोक्ष-हेतु-ज्ञान-विषय-महा-पुरुषान्यस्य मोक्षोपायत्व-प्रतिषेधाच् च ।
@@ -922,7 +876,6 @@ The bestower of liberation is Vishnu alone, not Brahma, Shiva, etc.; because in 
 
 Therefore, it is established that Vishnu alone is the object of knowledge leading to liberation and the means to liberation.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -940,7 +893,6 @@ Therefore, it is established that Vishnu alone is the object of knowledge leadin
 
 In this Shruti, from the mention of the word "iha" (here), it is established that liberation occurs in this very birth for one devoted to Vishnu, but not for one devoted to others.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1001,7 +953,6 @@ In this Shruti, from the mention of the word "iha" (here), it is established tha
 By this, the assertion that in the Shvetashvatara Upanishad, which is outside the Jnana-kanda, by statements like "He who is the source and origin of the gods, the ruler of the universe, Rudra, the great Rishi, who first created Hiranyagarbha, may he unite us with auspicious intellect," "Knowing Him, the one who envelops the universe, the Lord, they become immortal," "Knowing Him thus, one transcends death; there is no other path for liberation," "Those who know this become immortal; others indeed go to suffering," and "O Rudra, with that auspicious face of yours, protect me always," and by the statement in the Kaivalya Upanishad, which begins with "He who is accompanied by Uma," the knowability of Shiva as the cause of liberation and his being the bestower of liberation are stated, is refuted; because even though the knowability of Shiva as the object of knowledge leading to liberation is stated in the verses you cited, due to the absence of the word "iha" (here), Shiva's bestowing liberation in this very birth, like Vishnu, the object of knowledge leading to liberation as stated in the Purusha Sukta, is not established. On the contrary, the Purusha Sukta Shruti, which contains the word "iha," prohibits the bestowing of liberation in this very birth by Shiva and others. And since the status of Shiva-knowledge as a cause of liberation is established indirectly by generating Vishnu-knowledge, which causes liberation in another birth, and not directly, and since Shiva's role as a bestower of liberation is confined only to being a promoter of liberation, like the Agnihotra and other rituals, it is not established that Shiva directly bestows liberation.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 एतेन ज्ञान-काण्ड-बहिर्-भूत-श्वेताश्वतरोपनिषदि “यो देवानां प्रभवश् चोद्भवश् च विश्वाधिपो रुद्रो महर्षिर् हिरण्य-गर्भं जनयामास पूर्वं स नो बुद्ध्या शुभया संयुनक्तु”, “विश्वस्यैकं परिवेष्टितारम् ईशं तं ज्ञात्वा अमृता भवन्ति”, “तम् एवं विदित्वाति मृत्यु- [[P8]] म् एति नान्यः पन्था विद्यतेऽयनाय”, “य एतद् विदुर् अमृतास् ते भवन्ति अथेतरे दुःखम् एवापियन्ति”, “रुद्र यत् ते दक्षिणं मुखं तेन मां पाहि नित्यम्” इत्यादिभिर् वचनैः “उमा-सहायम्” इत्य् उपक्रम्य प्रवृत्तेन कैवल्योपनिषद्-वचनेन शिवस्य मोक्ष-हेतु-ज्ञान-विषयत्वं मोक्ष-दातृत्वं च कथितम् इत्य् उक्तम् अपास्तम्; त्वद्-उदाहृत-वचनेषु शिवस्य मोक्ष-हेतु-ज्ञान-विषयकत्व-कथनेऽपि इहेति-पदाभावेन पुरुष-सूक्तोक्त-मोक्ष-हेतु-ज्ञान-विषय-विष्णाव् एतज्-जन्मनि मोक्ष-दातृत्ववच् छिवस्य तद्-असिद्ध्या प्रत्युत इह-पद-घटित-पुरुष-सूक्त-श्रुत्या शिवादीनाम् एतज्-जन्मनि मोक्ष-दातृत्व-प्रतिषेधाच् च जन्मान्तरे मोक्ष-हेतु-विष्णु-ज्ञान-जनन-द्वारा शिव-ज्ञानस्य मोक्ष-हेतुत्व-सिद्ध्या साक्षाच् छिव-ज्ञानस्य मोक्ष-हेतुत्वासिद्ध्या अग्निहोत्रादि-कर्मणाम् इव मोक्ष-प्रयोजकत्व एव विश्रान्त्या शिवस्य मोक्ष-दातृत्वासिद्धेः ।
@@ -1025,7 +976,6 @@ By this, the assertion that in the Shvetashvatara Upanishad, which is outside th
 And if the bestowing of liberation is accepted even for an indirect cause of liberation, then why would not the Yajnas (sacrifices) and others, which are stated by the Shruti "Tam etam Vedānuvachanena Brāhmaṇā Vividiṣanti Yajñena Dānena Tapasānāśakena" (Brahmins desire to know Him through Vedic study, sacrifice, charity, and austerity) to be causes of liberation through Brahman-knowledge, also bestow liberation?
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यदि च परम्परया मोक्ष-हेतोर् अपि तद्-दातृत्वम् अभिमतं तदा तम् एतं वेदानुवचनेन ब्राह्मणा विविदिषन्ति यज्ञेन दानेन तपसानाशकेन इति श्रुत्या ब्रह्म-ज्ञान-द्वारा मोक्ष-हेतुतया प्रतिपादित-यज्ञादीनां मोक्ष-प्रदत्वं कुतो न भवेत् ।
@@ -1041,7 +991,6 @@ And if the bestowing of liberation is accepted even for an indirect cause of lib
 
 If the direct causality of liberation is impossible for Yajnas and others, and therefore their being bestowers of liberation is not accepted, then the same applies to Shiva and knowledge of Shiva.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1062,7 +1011,6 @@ If the direct causality of liberation is impossible for Yajnas and others, and t
 
 If Shiva and the knowledge of Shiva are accepted as means to liberation, then the contradiction with the Shruti "Knowing Him thus, one becomes immortal here; there is no other path for liberation" becomes difficult to overcome.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1087,7 +1035,6 @@ If Shiva and the knowledge of Shiva are accepted as means to liberation, then th
 For this very reason, by the sage's statement "One should seek knowledge from Shankara, and liberation from Janardana (Vishnu)," the inferiority indicated by the Karma-pravacaniya particle 'anu,' culminating in indirect causality of liberation, is stated for the knowledge of Shankara; the meaning is that one should desire inferior knowledge from Shankara.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अत एव शंकराज् ज्ञानम् अन्विच्छेन् मोक्षम् इच्छेज् जनार्दनात् इति मुनि-वचनेन निहीनार्थक-कर्म-प्रवचनीयानु-शब्द-बोधित-निहीनत्वं परम्परया मोक्ष-हेतुत्व-पर्यवसितं शंकर-ज्ञाने कथितम्; निहीनं ज्ञानं शंकराद् इच्छेद् इत्य् अर्थः ।
@@ -1104,7 +1051,6 @@ For this very reason, by the sage's statement "One should seek knowledge from Sh
 
 Otherwise, if liberation is attained solely from the knowledge of Shankara, then the entire statement "Mokṣam icchej Janardanāt" (One should desire liberation from Janardana) would become unauthoritative.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1129,7 +1075,6 @@ Otherwise, if liberation is attained solely from the knowledge of Shankara, then
 Indeed, it is better to interpret a word with a secondary meaning to avoid the redundancy of a statement, as demonstrated in the tenth chapter of Purva-tantra (Mimamsa Sutras) in Shabarabhashya, Shastradipika, etc., in the context of 'Although the sacrificer performs with four oblations, the omentum should still be offered with five oblations.'
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वरं हि वाक्य-वैयर्थ्य-परिहारार्थं पदस्य गौणार्थ-वर्णनम् अपीति पूर्व-तन्त्रे दशमाध्याये ‘यद्यपि चतुरवत्ती यजमानस् तथापि पञ्चावत्तैव वपा कार्या’ इत्यत्र शाबर-भाष्य-शास्त्र-दीपिकादौ न्यायः प्रदर्शितः ।
@@ -1146,7 +1091,6 @@ Indeed, it is better to interpret a word with a secondary meaning to avoid the r
 
 What more needs to be said about justifying the use of 'anu' by resorting to its primary meaning of inferiority, in order to avoid the redundancy of the statement "Mokṣam icchej Janardanāt" (One should desire liberation from Janardana)?
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1169,7 +1113,6 @@ What more needs to be said about justifying the use of 'anu' by resorting to its
 
 Furthermore, if direct causality of liberation is accepted for the knowledge mentioned as "Shankarat jnanam anvicchet" (one should seek knowledge from Shankara), it would lead to a contradiction with the Shruti "Knowing Him thus, one becomes immortal here; there is no other path for liberation."
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1196,7 +1139,6 @@ Furthermore, if direct causality of liberation is accepted for the knowledge men
 For this very reason, in the Harivamsa Parva, which is included in the Fifth Veda, during the journey to Kailasa, in the presence of Sri Krishna, Shiva himself said to the gods and Rishis, "You all, meditating upon me truly, then know Keshava (Vishnu). This Hari is to be worshipped, O Vipras; I am remembered as a means for Hari," which is consistent with his own meditation being a means for knowledge of Vishnu, who is the cause of liberation.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अत एव पञ्चम-वेदान्तर्गत-हरिवंश-पर्वणि कैलास-यात्रायां देवान् ऋषींश् च प्रति श्री-कृष्ण-संनिधौ— “यूयं मां तत्त्वतो ध्यात्वा ततो जानीत केशवम् । उपास्योऽयं हरिर् विप्रा उपायोऽस्मि हरेः स्मृतौ” इति शिवेनैव मोक्ष-हेतु-विष्णु-ज्ञान-हेतुत्वं स्व-ध्यानस्योक्तं संगच्छते ।
@@ -1212,7 +1154,6 @@ For this very reason, in the Harivamsa Parva, which is included in the Fifth Ved
 
 If Shiva-knowledge were a direct cause of liberation, the aforementioned statement of Shiva would be contradicted.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1236,7 +1177,6 @@ If Shiva-knowledge were a direct cause of liberation, the aforementioned stateme
 For this very reason, in the Harivamsa, there in the presence of Sri Krishna, the statement made by Shiva to Ghantakarna, "Trilochana (Shiva) said this to me, who was praying for liberation: 'Vishnu alone is the bestower of liberation for all, there is no doubt'," was reiterated by Ghantakarna.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अत एव हरिवंशे तत्रैव श्री-कृष्ण-संनिधौ “मुक्तिं प्रार्थयमानं माम् एवम् आह त्रिलोचनः । मुक्ति-प्रदाता सर्वेषां विष्णुर् एव न संशयः” इति शिवोक्तं वचनं घण्टा-कर्णेनानूदितम् ।
@@ -1252,7 +1192,6 @@ For this very reason, in the Harivamsa, there in the presence of Sri Krishna, th
 
 If Shiva also were a direct cause of liberation, that statement too would be contradicted.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1280,7 +1219,6 @@ If Shiva also were a direct cause of liberation, that statement too would be con
 
 According to the statements of the Parva (chapters) like "Here, the sacred Upanishad was declared by Krishna Dvaipayana," in the Bhagavad-Gita Upanishad, which is the essence of the Mahabharata, it is clearly understood that liberation, which is the transcending of Maya, belongs only to those who surrender to Sri Krishna, as stated by the verse containing the particle "eva" (only): "Those who take refuge in Me alone, they cross over this Maya," and not to those who surrender to Brahma, Shiva, etc.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1314,7 +1252,6 @@ In the commentary of Shrimat Shankara-Bhagavatpada on that very verse, by the ju
 
 > 'How then do they overcome this divine Maya, which is composed of three gunas? It is answered— Because My Maya, which is divine, belonging to Me, the Lord Vishnu, and made of gunas as described, is difficult to overcome, meaning its transcendence is difficult. In such a situation, those who, abandoning all dharmas, surrender completely to Me alone, who am the wielder of Maya and their own inner Self, they cross over this Maya, which deludes the minds of all beings, and are liberated from the bonds of samsara.'
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1353,7 +1290,6 @@ In the commentary of Shrimat Shankara-Bhagavatpada on that very verse, by the ju
 In the subsequent verse, "The evildoers, the foolish, the lowest among men, do not take refuge in Me; their knowledge stolen by Maya, they cling to the demonic nature," and in the commentary of Shrimat Shankara-Bhagavatpada on it, by the mention of the particle "eva" in the phrase 'Kasmāt tvām eva sarve na prapadyante' (Why do not all surrender to You alone?), it is clearly stated that the question is raised as to why all do not surrender to the Lord alone as the cause of liberation without resorting to other deities, and that resorting to other deities apart from the Lord is indeed the cause of sin which is an impediment to liberation.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः । माययापहृत-ज्ञाना आसुरं भावम् आश्रिताः इत्य् अनन्तर-श्लोकीये ‘यदि त्वां प्रपन्ना मायाम् एतां तरन्ति तर्हि कस्मात् त्वाम् एव सर्वे न प्रपद्यन्त इति; उच्यते— न माम् इति । मां परमेश्वरं दुष्कृतिनः पाप-कारिणः मूढा न प्रपद्यन्ते । नराणां मध्ये अधमा निकृष्टाः ते च माययापहृत-ज्ञानाः आसुरं भावं हिंसानृतादि-लक्षणम् आश्रिताः’ इति श्रीमच्-छंकर-भगवत्-पाद-भाष्ये ‘कस्मात् त्वाम् एव सर्वे न प्रपद्यन्ते’ इत्य् अंशेन एव-कार-घटनाद् देवतान्तर-संबन्धे मोक्ष-विरोधि पापम् एव निमित्तम् इति च स्पष्टम् उक्तम् ।
@@ -1385,7 +1321,6 @@ In the subsequent verse, "The evildoers, the foolish, the lowest among men, do n
 In Shankara-Bhagavatpada's commentary on the Gita verse 'Prashāntātmā Vigatabhīḥ' (one with a tranquil mind, free from fear), by the statement 'Someone who is passionate and woman-minded does not consider a woman as supreme, but rather a king or Mahadeva. But this one (the devotee of Vishnu) is mindful of Me and devoted to Me,' it is established that Mahadeva is considered supreme only by lustful, woman-minded men, and not by those devoted to the Lord, thereby proving that Mahadeva is to be worshipped only by lustful men, not by those desirous of liberation.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ‘प्रशान्तात्मा विगत-भीः’ इति गीता-श्लोकीय-शंकर-भगवत्-पाद-भाष्ये ‘कश्चिद् रागी स्त्री-चित्तः न तु स्त्रियम् एव परत्वेन गृह्णाति, किं तु राजानं महादेवं वा । अयं तु मत्-चित्तो मत्-परश् च’ इत्यनेन कामुक-स्त्री-चित्त-पुरुष-गृहीत-परत्वकत्वं महादेवस्य, न तु भगवन्-निष्ठ-पुरुष-गृहीत-परत्वकत्वम् इति कथनेन महादेवस्य कामुक-पुरुष-मात्र-भजनीयत्वं न तु मुमुक्षु-भजनीयत्वम् इति सिद्धम् ।
@@ -1404,7 +1339,6 @@ In Shankara-Bhagavatpada's commentary on the Gita verse 'Prashāntātmā Vigatab
 Thus, by the aforementioned Shruti "Tam evaṁ Vidvān" (Knowing Him thus), the statement in Harivamsa, the Bhagavad-Gita verse, and its commentary by Shankara-Bhagavatpada, it is clearly established that Vishnu alone is to be worshipped by those desirous of liberation, and not Brahma, Shiva, or others!
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तथा च उदाहृत- “तम् एवं विद्वान्” इति-श्रुति-हरिवंश-वचन-भगवद्-गीता-श्लोक-तदीय-शंकर-भगवत्-पाद-भाष्यैः मुमुक्षूपास्यो विष्णुर् एव न विधि-शिवादिर् इति स्पष्टम् एव प्रतिपादितम् !
@@ -1420,7 +1354,6 @@ Thus, by the aforementioned Shruti "Tam evaṁ Vidvān" (Knowing Him thus), the 
 
 Indeed, no statement supporting Shiva as an object of worship for those desirous of liberation is found in the Mahabharata or in the commentaries of Bhagavatpada.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1439,7 +1372,6 @@ Indeed, no statement supporting Shiva as an object of worship for those desirous
 
 By this, all those Mahabharata statements pertaining to Shiva worship, which were written by some Gauda-mundin (a derogatory term implying one with shaven head or a fool from Gauda country), are refuted because they are reproofs of what was not stated.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1461,7 +1393,6 @@ By this, all those Mahabharata statements pertaining to Shiva worship, which wer
 Indeed, in those statements, it is not said that a person desirous of liberation should worship Shiva for liberation, or that Shiva was worshipped by this person for liberation.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न हि तेषु वचनेषु मुमुक्षुणा मोक्षार्थं शिवाराधनं कर्तव्यम्, अनेन मोक्षार्थं शिव आराधित इति वा कथितम् अस्ति ।
@@ -1479,7 +1410,6 @@ Indeed, in those statements, it is not said that a person desirous of liberation
 On the contrary, Shiva worship and the like are taught only for results similar to those obtained from Ashvamedha and Rajasuya sacrifices, which are for the removal of sins.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 प्रत्युत पाप-क्षयार्थाश्वमेध-राजसूयादि-जन्य-फल-saman-phalartham eva shiva-pūjanādikaṁ pratipāditam asti ।
@@ -1496,7 +1426,6 @@ On the contrary, Shiva worship and the like are taught only for results similar 
 Indeed, a person not desirous of liberation, who desires results other than liberation, should perform Shiva worship for those specific results.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मोक्ष-vyatirikta-phalāpekṣiṇā amumukṣuṇā tattat-phalārthaṁ śivārādhanaṁ kāryam eva ।
@@ -1511,7 +1440,6 @@ Indeed, a person not desirous of liberation, who desires results other than libe
 
 That, however, is not prohibited.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1530,7 +1458,6 @@ That, however, is not prohibited.
 By this, the assertion that the worship of Shiva, whose objective is Shiva, as mentioned in the mantra "Tryambakam Yajamahe," is a cause of liberation, is refuted.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 एतेन “त्रियम्बकं यजामहे” इति मन्त्रे शिवोद्देश्यक-यजने मोक्ष-हेतुत्वम् अस्तीति लिखितम् अपास्तम् ।
@@ -1547,7 +1474,6 @@ By this, the assertion that the worship of Shiva, whose objective is Shiva, as m
 
 Because Shiva worship, which falls into the category of karma (ritualistic action), is different from Brahman-knowledge, its being a cause of liberation is not established; otherwise, it would lead to a contradiction with the Shruti "There is no other path for liberation."
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1572,7 +1498,6 @@ Because Shiva worship, which falls into the category of karma (ritualistic actio
 
 Since commentators like Sri Shankaracharya, Sri Ramanujacharya, and Sri Madhvacharya do not accept anything other than knowledge as a cause of liberation, it must be accepted that the Shruti "Tryambakam Yajamahe" also states that Shiva worship, which falls into that category, is an indirect cause of liberation through knowledge, just as the Vedic study, sacrifices, etc., are stated by the Shruti "Tam etam Vedānuvachanena" and others to be promoters of liberation through knowledge.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1641,7 +1566,6 @@ Since commentators like Sri Shankaracharya, Sri Ramanujacharya, and Sri Madhvach
 By this, the statement that Shiva's superiority is perceived from the mention of Sri Rama and Krishna as Shiva worshippers in Vyasa's statement to Ashwatthama in Drona Parva: "Your births, actions, austerities, and yogas are abundant, as are Mine; by those, the god was worshipped in the linga by you, and in the image by Me in every age," and in the Ramayana statement: "Here, formerly, Mahadeva, the Lord, bestowed grace," is refuted; because by the Bhagavad-Gita statement: "O Partha, I have no duty in the three worlds whatsoever, nor anything to attain that is not attained; yet I engage in action," and by Sri Krishna's statements in Shanti Parva, Mokshadharma, Narayaniya: "Indeed, I am the Self of all beings, O son of Pandu. Therefore, I worship Rudra, my own Self, first. If I do not worship Ishana, the bestower of boons, Shiva, then no one would worship the Self – this is My thought. Indeed, I have set a precedent, and the world follows it. Precedents are to be honored, therefore I worship Him. No boon is to be given to Me by anyone, O son of Pandu," it is understood that if the Lord Himself did not perform Shiva worship etc., Shiva's worshipability by others would not be established; therefore, for the sake of establishing Shiva's worshipability by others, the Lord set a precedent of Shiva worship, not for His own sake; for the Lord has no duty whatsoever; whatever action is performed by Him is done only for the welfare of the world – by this understanding, Shiva's superiority is not established by the Lord's Shiva worship, receiving boons from him, etc., as these are merely a semblance (of action).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 एतेन “जन्म-कर्म-तपो-योगास् तयोस् तव च पुष्कलाः । ताभ्यां लिङ्गेऽर्चितो देवस् त्वयार्चायां युगे युगे” इति द्रोण-पर्वण्य् अश्वत्थामानं प्रति व्यास-वचनेन “अत्र पूर्वं महादेवः प्रसादम् अकरो- [[P11]] त् प्रभुः” इति श्रीमद्-रामायण-वचने च श्री-राम-कृष्णयोः शिवाराधकत्वोक्त्या शिवस्योत्कर्षः प्रतीयत इत्य् उक्तम् अपास्तम्; “न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किंचन । नानवाप्तम् अवाप्तव्यं वर्त एव च कर्मणि” इति भगवद्-गीता-वचनेन “अहम् आत्मा हि भूतानां विश्वेषां पाण्डु-नन्दन । तस्माद् आत्मानम् एवाग्रे रुद्रं संपूजयाम्य् अहम् ॥ यद्य् अहं नार्चयेयं वै ईशानं वरदं शिवम् । आत्मानं नार्चयेत् कश्चिद् इति मे भाषितं मनः ॥ मया प्रमाणं हि कृतं लोकस् तद् अनुवर्तते । प्रमाणानीह पूज्यानि ततस् तं पूजयाम्य् अहम् ॥ न हि मे केनचिद् देयो वरः पाण्डव-नन्दन” इति शान्ति-पर्व-मोक्ष-धर्म-नारायणीय-गत-श्री-कृष्ण-वचनैः— स्वेन शिव-पूजनाद्य् अकरणे शिवस्यान्यैः पूज्यत्वं न सिध्येत्; अतः शिवस्यान्य-पूज्यत्व-सिद्ध्यर्थं भगवता शिव-पूजनाख्यं प्रमाणं कृतं न तु स्वार्थम्; न हि भगवतः कर्तव्यं किंचिद् अस्ति; यत् क्रियते कर्म तत् लोक-संग्रहार्थम् एव कृतम्— इत्य् अवगमेन भगवत्-कृत-शिव-पूजा-तद्-वर-ग्रहणादेर् विडम्बन-मात्रतया तेन शिवोत्कर्षासिद्धेः ।
@@ -1664,7 +1588,6 @@ By this, the statement that Shiva's superiority is perceived from the mention of
 Indeed, since I, Krishna, am the Self of all beings, by the power of syntactic connection, it is understood that the worship performed by Sri Krishna is directed towards the Self, which is the form of Sri Krishna, the inner Self of all beings, and the causality of worship indicated by 'hi' and 'tasmat' rests solely in Krishna, denoted by 'aham'.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 हि यस्माद् अहं कृष्णः सर्व-प्राणिनाम् आत्मा तस्माद् आत्मानम् एवाग्रे पूजयामीत्य् अन्वय-बलेन सर्व-प्राण्य्-अन्तर्यामिणः श्री-कृष्ण-भगवद्-रूपस्यात्मनः श्री-कृष्ण-कृत-पूजन-कर्मत्वं प्रतीयते, हि-शब्द-तस्माद् इति-शब्दोक्त-पूजा-प्रयोजक-हेतुत्वस्याहं-शब्दिते कृष्ण एव विश्रान्तेः ।
@@ -1682,7 +1605,6 @@ Indeed, since I, Krishna, am the Self of all beings, by the power of syntactic c
 The epithet 'Rudra' for 'Ātmānam' (the Self) means the Self endowed with the vibhuti (manifestation/power) of Rudra.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 आत्मानम् इत्यस्य विशेषणं रुद्रम् इति रुद्र-विभूतिकम् आत्मानम् इति लभ्यते ।
@@ -1697,7 +1619,6 @@ The epithet 'Rudra' for 'Ātmānam' (the Self) means the Self endowed with the v
 
 By the particle "eva" (alone), the independent status of Rudra, who is a manifestation of Sri Krishna's Self, as an object of worship is excluded.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1715,7 +1636,6 @@ By the particle "eva" (alone), the independent status of Rudra, who is a manifes
 
 The verse "Yadyaham" (If I...) reiterates Shiva's status as an object of worship by the Lord, which is established as an attribute of the Self.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1745,7 +1665,6 @@ The verse "Yadyaham" (If I...) reiterates Shiva's status as an object of worship
 This very intention of the Lord was also stated by Sanjaya, who had attained divine sight by the grace of Vyasa, to Dhritarashtra in the Udyoga Parva: "Though being the Lord, the great Yogi Hari, the Lord of the entire universe, He begins to perform actions like a weak farmer. By that (action), Keshava deceives the worlds through His yoga of Maya. Those human beings who surrender to Him alone are not deluded."
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 एतम् एव भगवद्-अभिप्रायम् उद्योग-पर्वणि “ईशन्न् अपि महा-योगी सर्वस्य जगतो हरिः । कर्माण्य् आरभते कर्तुं कीनाश इव दुर्बलः ॥ तेन वञ्चयते लोकान् माया-योगेन केशवः । एतम् एव प्रपद्यन्ते न ते मुह्यन्ति मानवाः” इति धृतराष्ट्रं प्रति व्यास-प्रसाद-लब्ध-दिव्य-दृष्टिः संजयोऽप्य् अकथयत् ।
@@ -1762,7 +1681,6 @@ This very intention of the Lord was also stated by Sanjaya, who had attained div
 
 Sanjaya clearly indicated that Krishna's actions like Shiva worship are merely a semblance, by the phrase "tena vañcayate lokān" (by that, he deceives the worlds).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1786,7 +1704,6 @@ Sanjaya clearly indicated that Krishna's actions like Shiva worship are merely a
 
 At the end of the Mahabharata, Bhagavan Sri Vedavyasa stated that all actions of the Lord are of the nature of sport, by phrases like "by Him, the glory of the great-souled Pandavas was spread, and the sport of Vasudeva, the God of gods, the wielder of the discus."
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1825,7 +1742,6 @@ At the end of the Mahabharata, Bhagavan Sri Vedavyasa stated that all actions of
 Indeed, no statement indicating the mock nature of Shiva's worship of the Lord is found in the Mahabharata, such as in the Narayaniya statement: "All the great Rishis, along with Brahma, Rudra, and Indra, worship the best of gods, Lord Narayana," or in the Ashvamedhika statement: "The lotus-eyed one touched (him) from head to toe with his lotus-like foot, which is worshipped by Brahma and Rudra," or in the Raja-Dharma statement: "Mahadeva, having offered himself in Sarvamedha, became the God of gods. Enveloping all worlds and pervading them, he, wearing deer-skin, shines with glory."
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 [[P12]] न ह्य् एवं महा-भारते “स-ब्रह्मकाः स-रुद्राश् च स-इन्द्राः सर्वे महर्षयः । अर्चयन्ति सुर-श्रेष्ठं देवं नारायणं प्रभुम्” इति नारायणीय-वचनेन, “पादेन कमलाभेन ब्रह्म-रुद्रार्चितेन च । पस्पर्श पुण्डरीकाक्षो ह्य् आपादतलमस्तकम्” इत्य् आश्वमेधिक-वचनेन, “महादेवः सर्व-मेधे हुत्वात्मानं देव-देवो बभूव । विश्वाल् लोकान् अव्याप्य विष्टभ्य कीर्त्या विराजते द्युतिमान् कृत्ति-वासाः” इति राज-धर्म-वचनेन च शिव-कृत-भगवद्-आराधनस्य विडम्बनत्व-बोधकं किम् अपि वचनं दृश्यते ।
@@ -1842,7 +1758,6 @@ Indeed, no statement indicating the mock nature of Shiva's worship of the Lord i
 
 However, Puranic statements are not venerable, as has been already established by the dvandva compounds found in Shruti and Smriti. Enough said.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1863,7 +1778,6 @@ However, Puranic statements are not venerable, as has been already established b
 
 A statement in the Mahabharata says that Shiva attained the status of God of gods and pervasiveness of all worlds by offering his body, endowed with all limbs like hands, feet, eyes, etc., into the fire in the Sarvamedha sacrifice dedicated to Vishnu.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1890,7 +1804,6 @@ A statement in the Mahabharata says that Shiva attained the status of God of god
 Another statement says that Vishnu obtained the discus by worshipping Shiva with one part of his body, specifically by plucking out his left eye.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 शरीरस्यैकावयवेन तत्रापि वामेन लोचनेनोत्पाटितेन शिवार्चनं कृत्वा विष्णुना चक्रं लब्धम् इति कचिद् वचनं कथयति ।
@@ -1906,7 +1819,6 @@ Another statement says that Vishnu obtained the discus by worshipping Shiva with
 
 There, let the discerning scholars understand the superiority between the two.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1930,7 +1842,6 @@ There, let the discerning scholars understand the superiority between the two.
 This, however, should be understood: In the mantra "Tryambakam yajamahe Sugandhim pushti-vardhanam. Urvārukam iva bandhanān mṛtyor mukṣīya mā mṛtāt" (We worship Tryambaka, the fragrant, increaser of prosperity. May I be liberated from death, as a cucumber from its stalk, not from immortality), it is established that Shiva worship is for prosperity, by the natural implication of the qualifying epithet 'pushti-vardhanam' (increaser of prosperity), which contains a reason.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इदं तु बोध्यम्— त्रियम्बकं यजामहे सुगन्धिं पुष्टि-वर्धनम् । उर्वारुकम् इव बन्धनान् मृत्योर् मुक्षीय मा मृतात् इति मन्त्रे पुष्टि-वर्धनम् इति हेतु-गर्भ-विशेषण-स्वारस्याच् छिव-यजनं पुष्ट्यर्थम् इति सिध्यति ।
@@ -1945,7 +1856,6 @@ This, however, should be understood: In the mantra "Tryambakam yajamahe Sugandhi
 
 From the natural implication of the middle person singular "mukṣīya" (may you be liberated), the word "tvam" (you) is implied.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1968,7 +1878,6 @@ From the natural implication of the middle person singular "mukṣīya" (may you
 Thus, the meaning of the mantra is understood as: "For prosperity, we worship the fragrant Tryambaka; may you liberate me from the bondage of samsara, denoted by death, which is associated with mortality, just as a cucumber from its stalk."
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तथा च puṣṭyarthaṁ sugandhiṁ tryambakaṁ vayaṁ yajamahe; tvaṁ mṛti-yuktān mṛtyu-śabdita-saṁsārād bandhanāt urvārukam iva mā māṁ mukṣīya mocayeti mantrārthaḥ pratīyate ।
@@ -1990,7 +1899,6 @@ Thus, the meaning of the mantra is understood as: "For prosperity, we worship th
 From the use of the first person and middle person, it is understood that the bestower of liberation is different from the one whose generative action is stated, just as it is understood in common usage, e.g., "I serve Devadatta, you liberate me from difficulties."
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यज्-janaka-karmatvaṁ yasya kathitaṁ tad-bhinnasyaiva mokṣa-dātṛtvam uttama-puruṣa-madhyama-puruṣābhyāṁ pratīyate, “ahaṁ devadattaṁ paricarāmi tvam āpado mokṣaya” ityādau loke tathaivāvagamat ।
@@ -2006,7 +1914,6 @@ From the use of the first person and middle person, it is understood that the be
 
 Thus, Shiva is indeed the increaser of prosperity, but the bestower of liberation is someone else – this is the natural meaning of the said mantra.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2087,7 +1994,6 @@ Thus, Shiva is indeed the increaser of prosperity, but the bestower of liberatio
 As for the assertion that in the Shvetashvatara Upanishad, by the mantra "He who is the source and origin of the gods, the ruler of the universe, Rudra, the great Rishi, who first created Hiranyagarbha, may he unite us with auspicious intellect," Hiranyagarbha is understood to be born of Rudra, and therefore Rudra is not born of Hiranyagarbha – that is not so; because in the Taittiriya (Aranyaka) by the Shruti "Prajāpatau Hara āsīt" (Hara was in Prajapati), in the Brihadaranyaka by the statement "He created that which is superior form, that is Kshatra, those divine Kshatriyas here are Indra, Varuna, Soma, Rudra, Parjanya, Mrityu, Ishana," in the Samaveda Mantra-Brahmana, in the Pra-pada mantra, starting with "You are Virupaksha, Dantāñji, you are a Brahmana among gods, I am a Brahmana among men; a Brahmana indeed approaches a Brahmana, I approach you," and continuing with the statement "Salutations to that Virupaksha, the son of Brahma," and in the Shatapatha of the Kanva recension, starting with "Indeed, this was unsupported," and then stating "And Prajapati of beings performed initiation for a year; the lord of beings was the householder, Ushas was his wife," and then saying "The lord of beings deposited semen in Ushas in a year, a boy was born in a year, he cried; Prajapati said to him, 'Kumar, why do you cry, since you are born from labor and austerity?' He said, 'Indeed, I am one whose sins are not removed, whose name is not placed, give me a name, for the removal of sin.' Prajapati said to him, 'You are Rudra,' and gave him that name. Agni became his form, Agni is indeed Rudra, because he cried, therefore he is Rudra. He said, 'You are Bhava,' 'You are Sharva,' 'You are Ishana,' 'You are Pashupati,' 'You are Ugra,' 'You are Bhima,' 'You are Mahadeva'," by these Shrutis, the birth of Rudra from Chaturmukha (Brahma), his birth from Para-Brahman, and his being a Kshatriya and a Brahmana are stated.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यत् तु श्वेताश्वतरोपनिषदि “यो वै देवानां प्रभवश् चोद्भवश् च विश्वाधिपो रुद्रो महर्षिः हिरण्य-गर्भं जनयामास पूर्वं स नो बुद्ध्या शुभया संयुनक्तु” इति मन्त्रेण हिरण्य-गर्भस्य रुद्र-जन्यत्वं प्रतीयते अतो न रुद्र-जनको हिरण्य-गर्भ इति, तन् न; तैत्तिरीये “प्रजापतौ हर आसीत्” इति श्रुत्या बृहदारण्यके “तच्-छ्रेयो- [[P13]] रूपम् अत्यसृजत, तत् क्षत्त्रं, यान्य् अत्र देव-क्षत्त्राणि, इन्द्रो वरुणः सोमो रुद्रः पर्जन्यो मृत्युर् ईशानः” इति वाक्येन, साम-वेद-मन्त्र-ब्राह्मणे प्र-पद-मन्त्रे “विरूपाक्षोऽसि दन्ताञ्जिस् त्वं देवेषु ब्राह्मणः अहं मनुष्येषु ब्राह्मणः ब्राह्मणो वै ब्राह्मणम् उपधावति उप त्वा धावामि” इत्य् आरभ्य प्रवृत्तेन “tasmai virūpākṣāya brahmaṇaḥ putrāya namaḥ” iti vākyena, śatapthe ca kāṇva-śākhīye “abhūd dhedam apratiṣṭhā” ity ārabya “bhūtānāṁ ca prajāpatiḥ saṁvatsarāyādīkṣata, bhūtānāṁ patiḥ gṛhapatiḥ āsīt, uṣāḥ patnī” ityādim uktvā “bhūtānāṁ patiḥ saṁvatsare uṣasi reto’siñcat, saṁvatsare kumāro’jāyata, so’rodīt taṁ prajāpatir abravīt, kumāra kiṁ rodiṣi, yac chramāt tapasodhijāto’si, so’bravīt, anapahata-pāpmā vā aham anāhita-nāmā nāma me dhehi, pāpmano’pahatyā iti, taṁ prajāpatir abravīt, rudro’sīti, tad asya tan-nāmākarot, agnis tad-rūpam abhavad agnir vai rudro yad arodīt tasmād rudraḥ so’bravīt, bhavo’sīti, śarvo’sīti, īśāno’sīti, paśupatir asi iti, ugro’sīti, bhīmo’sīti, mahādevo’sīti” iti śrutyā ca rudrasya caturmukha-janyatva-para-brahma-janyatva-kṣattriyatva-brāhmaṇatvānām uktvāt ।
@@ -2102,7 +2008,6 @@ As for the assertion that in the Shvetashvatara Upanishad, by the mantra "He who
 
 According to Chaturmukha's (Brahma's) statement to Rudra in the Mokṣadharma Narayaniya, "I am born from his grace, due to some other cause. And you, O son, are born from eternal wrath in a previous creation," there is no contradiction in the possibility of these (different origins/natures) for Rudra due to different kalpas (aeons).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2119,7 +2024,6 @@ According to Chaturmukha's (Brahma's) statement to Rudra in the Mokṣadharma Na
 The Shvetashvatara statement cited by you is indeed unreliable because it is not included in the Ten Upanishads.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 त्वद्-ukta-śvetāśvatara-vākyasya daśopaniṣad-anantargatatayā aviśvasanīyatvam eva ।
@@ -2134,7 +2038,6 @@ The Shvetashvatara statement cited by you is indeed unreliable because it is not
 
 By the Rig-Samhita mantra "Praise him, who has good arrows, a good bow, who destroys all disease. We worship Rudra for peace of mind, propitiate the god, the fierce one, with salutations," by the explanation that praises, sacrifices, and salutations to Rudra are to be performed for Rudra's benevolence, which is the absence of fieriness in him, who is a demon synonymous with fierceness, it is established that Rudra's praises, salutations, etc., are for his own benevolence, which is the absence of fierce nature in him, and not because they imply Rudra's superiority.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2151,7 +2054,6 @@ By the Rig-Samhita mantra "Praise him, who has good arrows, a good bow, who dest
 For this very reason, the abundance of salutations mentioned in Rudradhyaya and other texts is for the attainment of benevolence (peace of mind) preceded by the removal of undesirable outcomes for the performer of those salutations; it is not indicative of superiority, for if salutations were indicative of superiority, the epithet "asuram" (fierce, demonic) would become redundant.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अत एव rudrādhyāyādau kathita-namaskāra-bāhulyaṁ tat-kartṛkāniṣṭa-nivṛtti-pūrvaka-saumanasya-siddhyarthaṁ; na tūtkarṣa-gamakaṁ, namaskārasyotkarṣa-prayuktatve asuram iti viśeṣaṇa-vaiyarthyāpatteḥ ।
@@ -2166,7 +2068,6 @@ For this very reason, the abundance of salutations mentioned in Rudradhyaya and 
 
 By this, the statement that Shiva's supreme superiority is established by seeing the abundance of salutations (to him) is refuted.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2183,7 +2084,6 @@ By this, the statement that Shiva's supreme superiority is established by seeing
 The meaning of the mantra is: The word `Rudra` in the Taittiriya Shruti "sviṣuḥ Rudro bhūtvā" (becoming Rudra, the good archer) does not refer to Agni (fire), because it would require a metaphorical interpretation (lakṣaṇā), and there is no dictionary or other authoritative text to establish the direct meaning of that word as Agni. Although Rudra can be Agni due to the Shruti "Rudro vā eṣa yad agniḥ" (Rudra is indeed this Agni), which, by the primary and 'va' particles, establishes Agni-ness as an attribute of Rudra (the subject), there is no evidence for the word `Rudra` primarily applying to Agni.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मन्त्रस्यायम् अर्थः— स्विषुः [[P14]] रुद्रो भूत्वा” इति तैत्तिरीय-श्रुतो रुद्र-शब्दो नाग्नि-परः, लक्षणापत्तेः अग्नौ तत्-पद-शक्ति-ग्राहक-कोशादि-प्रमाणाभावात् “रुद्रो वा एष यद् अग्निः” इति श्रुत्या “यो रुद्रः एषः अग्निः” इति प्राथम्य-वा-शब्दावगतोद्देश्य-पर-रुद्रोद्देशेनाग्नित्व-विधानात् रुद्रस्याग्नित्व-संभवेऽपि अग्नौ रुद्र-शब्द-प्रवृत्तौ प्रमाणं नास्त्य् एव ।
@@ -2198,7 +2098,6 @@ The meaning of the mantra is: The word `Rudra` in the Taittiriya Shruti "sviṣu
 
 Thus, in the phrase "mṛt-piṇḍo ghaṭo bhūtvā" (the lump of clay becoming a pot), the word "mṛt-piṇḍa" (lump of clay) for the pot, which is a modification of the lump of clay, is secondary (aupacārika), used due to its identity with the lump of clay.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2215,7 +2114,6 @@ Thus, in the phrase "mṛt-piṇḍo ghaṭo bhūtvā" (the lump of clay becomin
 Similarly, by the statement of Rudra's nature as being that of Ishvara (the Lord), it is understood that the word `Ishvara` for Rudra, who is a modification of Ishvara, is used secondarily due to his identity with Ishvara, and not primarily.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 tathā īśvarasyaiva sato rudra-bhāvoktyā īśvaropādeyasya rudrasya īśvara-śabdaḥ īśvara-tādātmya-prayukto na tu mukhya ity avagamyate ।
@@ -2230,7 +2128,6 @@ tathā īśvarasyaiva sato rudra-bhāvoktyā īśvaropādeyasya rudrasya īśvar
 
 If Shiva were accepted as Ishvara (the Lord), it would contradict the aforementioned Shruti. Therefore, Shiva must necessarily be non-Ishvara. Since it is appropriate for non-Ishvara Shiva to pray for the boon of Pashupatya and other such things, and since the Shrutis mentioning boons and prayers cannot be mere eulogies (arthavadas), and since there is no contradiction in reiterating the established Pashupatya (lordship over creatures) through prayer as per the Shruti "Namah Pashupataye" (Salutations to Pashupati), and since the non-venerability of Puranas has already been established, (this argument stands).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2247,7 +2144,6 @@ If Shiva were accepted as Ishvara (the Lord), it would contradict the aforementi
 Furthermore, Shiva's nature as Yajna (sacrifice) must necessarily be accepted; because from the mutually recognized meaning of the Aruna-ketuka Shruti "This is Rudra's bow, indeed Rudra's bow is that which causes pain; he broke off the head, it became Pravargya; therefore, whoever performs Yajna with Pravargya, restores Rudra's head," and the Chandogya Shruti "restores its head," the identity of Rudra and Yajna is understood. And since the word `Yajna` is common to Rudra, Vishnu, Prajapati, and Indra, as stated in many Rig-Brahmanas ("Rudra is Yajna indeed, Vishnu is Yajna indeed, Prajapati is Yajna indeed, Indra is Yajna indeed"), the general term `Yajna` ultimately applies to the specific form of Rudra in the present context, just as the general term `Yajna`, even in its accusative case in "Yajñena Yañjam Ayajanta" (They worshipped Yajna with Yajna), applies to the specific form of Vishnu due to its presence in the Vaishnava Purusha Sukta.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 किं च शिवस्य यज्ञ-रूपत्वम् अवश्यं स्वीकर्तव्यम्; “एतद् रुद्रस्य धनुः, रुद्रस्य त्व् एव धनुर् आर्तिनः, शिर उत्-पिपेष, स प्रवर्ग्योऽभवत्, तस्माद् यः स प्रवर्येण यज्ञेन यजते, रुद्रस्य सं शिरः प्रतिदधाति” इत्य् आरुण-केतुक-श्रुति-यज्ञस्यैवतच्-छिरः प्रतिदधातीति-छान्दोग्य-श्रुतिभ्यां परस्परार्थ-प्रत्यभिज्ञया रुद्र-यज्ञयोर् ऐक्यावगतेः “रुद्रो वै यज्ञः, विष्णुर् वै यज्ञः, प्रजापतिर् वै यज्ञः, इन्द्रो वै यज्ञः” इति बहु-ऋच-ब्राह्मणेन रुद्र-विष्णु-प्रजापतीन्द्र-साधारणस्य यज्ञ-शब्दस्य सामान्य-शब्दतया रुद्र-रूप-विशेषे प्रकृते पर्यवसानात् वैष्णव-पुं-सूक्तस्थत्वाद् धेतोः “यज्ञेन यज्ञम् अयजन्त” इत्यत्र सामान्य-शब्दस्यापि द्वितीयान्त-यज्ञ-शब्दस्य विष्णु-रूप-विशेष इव ।
@@ -2262,7 +2158,6 @@ Furthermore, Shiva's nature as Yajna (sacrifice) must necessarily be accepted; b
 
 And it should not be suspected that the word `Yajna` has a special power (meaning) for Vishnu because of the Shruti "Yajño vai Viṣṇuḥ" (Yajna is indeed Vishnu); because by the priority and the particle 'vai', it is understood that Yajna is the subject, and Vishnu-ness is being enjoined (attributed) to Yajna.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2279,7 +2174,6 @@ And it should not be suspected that the word `Yajna` has a special power (meanin
 Just as in "Parvato Vahnimān" (The mountain possesses fire), although the word "Vahnimat" (possessing fire), which denotes the attribute of fire to the mountain (the subject), can be established as a word signifying that which is qualified by the predicate Vishnu-ness in the subject Yajna, yet, just as the word 'mountain' does not necessarily apply to the kitchen, which is included within that which is qualified by the predicate 'fire', similarly, it is impossible for the word `Yajna` (the subject) to invariably apply to Lakshmikanta (Vishnu), who is qualified by the predicate 'Vishnu-ness'. Therefore, the word `Yajna` cannot primarily mean Vishnu through a special power.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “पर्वतो वह्निमान्” ity atroddyeśya-parvate vidheya-viśiṣṭa-bodhaka-vahnimac-chabdavat uddyeśya-yajñe vidheya-viṣṇutva-viśiṣṭa-vācaka-śabda-siddhāv api vidheya-vahni-viśiṣṭatvāvacchiṇṇāntargata-mahānasādāv uddyeśaya-parvata-śabdāpravṛttivat vidheya-viṣṇutvāvacchiṇṇe lakṣmī-kānte uddyeśya-yajña-padasya niyamena pravṛtty asambhavena yajña-śabdasya viśeṣa-śaktito viṣṇv-arthakatvāsiddheḥ ।
@@ -2294,7 +2188,6 @@ Just as in "Parvato Vahnimān" (The mountain possesses fire), although the word 
 
 By this, it is established that even if the word `Rudra` in the Shruti "Puruṣo vai Rudraḥ" (Purusha is indeed Rudra) refers to Narayana, who is denoted by the word `Purusha`, the word `Purusha` does not primarily apply to Rudra, who is qualified by the predicate 'Rudratva' (being Rudra).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2311,7 +2204,6 @@ By this, it is established that even if the word `Rudra` in the Shruti "Puruṣo
 For the word `Purusha`, its conventional meaning (rudhi) is exclusively Narayana in Lord Narayana, established by the statement in the Sri Mahabharata Narayaniya, which is the Fifth Veda, "Indeed, His oneness and greatness are such that He is remembered as the one Purusha. Indeed, the eternal one alone bears the name Mahapurusha," which serves as an indicator of its denotative power along with the statement of reason.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 पुरुष-śabdasya “tasyaikatvaṁ mahattvaṁ hi sa ekaḥ puruṣaḥ smṛtaḥ । mahā-puruṣa-śabdaṁ hi bibharty ekaḥ sanātanaḥ” iti pañcama-veda-śrī-mahā-bhārata-nārāyaṇīya-vacanena puruṣa-śabdasya bhagavati nārāyaṇe śakti-grāhakeṇa hetu-nirdeśa-sahitena nārāyaṇa-mātra-rūḍhatvam ।
@@ -2326,7 +2218,6 @@ For the word `Purusha`, its conventional meaning (rudhi) is exclusively Narayana
 
 In other cases (when referring to other males), it is a conventional metaphorical usage (nirūḍha-lakṣaṇā).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2343,7 +2234,6 @@ anyatra puṁsi nirūḍha-lakṣaṇā ।
 Even dictionaries, with phrases like "Puruṣau ātma-mānavau" (Purusha means the Self and a human being), indicate the import of conventional metaphorical usage; they are not indicators of conventional meaning, because it would contradict the Narayaniya statement which is an indicator of conventional meaning for Vishnu.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 kośo’pi “puruṣāv ātma-mānavau” ityādi-nirūḍha-lakṣaṇā-tātparya-grāhakaḥ; na tu rūḍhi-grāhakaḥ, viṣṇau rūḍhi-grāhaka-nārāyaṇīya-vacana-virodhāpatteḥ ।
@@ -2358,7 +2248,6 @@ kośo’pi “puruṣāv ātma-mānavau” ityādi-nirūḍha-lakṣaṇā-tātp
 
 Vishnu's nature, however, is being present above the Yajna, not being Yajna itself, as per the authoritative statement in the Bhagavad-Gita, "I alone am the Adhiyajña (the presiding deity of Yajna) in this body."
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2375,7 +2264,6 @@ viṣṇos tu yajñopari vartamānatvam eva na tu yajñatvam, “adhiyajño’ha
 By this, the assertion that the severing of Vishnu's head is also stated in the Vajasaneyi branch by the statement "Viṣṇoḥ śiraḥ pracchidatu" (May Vishnu's head be severed) is refuted; because by the use of the optative mood (lot) in "pracchidatu," the severing is stated as an object of prayer, and its accomplished fact is not stated, unlike in "Rudraśya śira ut-pipeṣa" (He crushed Rudra's head).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 etena vājaseneyī-śākhāyām “viṣṇoḥ śiraḥ pracchidatu” iti vākyena viṣṇu-śiraso’pi pracchedanam uktam iti parāstam; “pracchidatu” iti loṭā pracchedanasya prārthanā-viṣayatvoktyā “rudrasya śira ut-pipeṣa” iti-vat tac-chedanasya siddhatvānuvṛtteḥ ।
@@ -2390,7 +2278,6 @@ etena vājaseneyī-śākhāyām “viṣṇoḥ śiraḥ pracchidatu” iti vāk
 
 The severing of Vishnu's head might also be desired by some enemy of Vishnu.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2407,7 +2294,6 @@ viṣṇu-śiraḥ-pracchidanam api viṣṇu-dveṣiṇaḥ kasyacid āśaṁsi
 The Shruti "Viṣṇoḥ śiraḥ pracchidatu" (May Vishnu's head be severed) reiterates that.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 tad anuvadati “viṣṇoḥ śiraḥ pracchidatu” iti śrutiḥ ।
@@ -2422,7 +2308,6 @@ tad anuvadati “viṣṇoḥ śiraḥ pracchidatu” iti śrutiḥ ।
 
 The interpretation of "Devā yad yajñaṁ tanvānāḥ, abadhnan puruṣaṁ paśum" (When the gods performed the sacrifice, they bound Purusha as the victim) is that the gods bound Purusha, Narayana, as the sacrificial animal, intending Him; if the word `Purusha` were not accepted as the subject, it would lead to the fault of positing another word to denote the subject.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2439,7 +2324,6 @@ devā yad yajñaṁ tanvānāḥ, abadhnan puruṣaṁ paśum ity asya puruṣa�
 The interpretation of "Taṁ yajñaṁ barhiṣi praukṣan, puruṣaṁ jātam agrataḥ" (They sprinkled that sacrifice on the sacred grass, Purusha, born at the beginning) is that the performers of the sacrifice sprinkled Hiranyagarbha, who was born at the beginning as stated by "Tasmād Virāḍ Ajāyata" (From him was born Viraj), in the sacrifice on the sacred grass, intending Purusha; since "born at the beginning" is stated only for Hiranyagarbha in this Purusha Sukta, and since the meaning of the mantra in the Purusha Sukta is consistent with taking "born at the beginning" as referring to the Purusha Sukta itself, it is inappropriate to refer to someone else born at the beginning mentioned in another Shruti.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 taṁ yajñaṁ barhiṣi praukṣan, puruṣaṁ jātam agrataḥ ity asya puruṣaṁ prati yajñaṁ tanvānā agrato jātam “tasmād virāḍ ajāyata” ity ukta-hiraṇya-garbhaṁ barhiṣi yāge praukṣann iti yojanā; agrato jātatvasyāsmin puruṣa-sūkte hiraṇya-garbha evoktatvāt, puruṣa-sūkta-gata-mantrārthasya puruṣa-sūktāgra-jātam ādāyopapattau śrutyantarokta-grajātānya-grahaṇasyāyuktatvāt ।
@@ -2454,7 +2338,6 @@ taṁ yajñaṁ barhiṣi praukṣan, puruṣaṁ jātam agrataḥ ity asya puru
 
 In "yat puruṣeṇa haviṣā" (with the oblation by Purusha), the instrumental case in "puruṣeṇa" (by Purusha) indicates a cause for the result, similar to "adhyayanena vasati" (he lives for the sake of study).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2471,7 +2354,6 @@ yat puruṣeṇa haviṣā ity atra puruṣeṇeti tṛtīyā “adhyayanena vas
 The meaning of the sentence is that they performed the sacrifice with oblation for the attainment of Purusha, just as one lives for the sake of study.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 adhyayanārtha-vāsavat puruṣāptyarthaṁ haviṣā yajñam atanvateti vākyārthaḥ ।
@@ -2487,7 +2369,6 @@ adhyayanārtha-vāsavat puruṣāptyarthaṁ haviṣā yajñam atanvateti vāky�
 By this, in the Purusha Sukta, Vishnu, who is referred to as Purusha, is said to be the sacrificial animal, the one sprinkled for sacrifice, and the sacrificial oblation.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 etena puṁ-sūkte puruṣa-śabditasya viṣṇor yāga-paśutvaṁ yāga-prokṣitatvaṁ yāga-haviṣṭvaṁ coktam ।
@@ -2502,7 +2383,6 @@ etena puṁ-sūkte puruṣa-śabditasya viṣṇor yāga-paśutvaṁ yāga-prok�
 
 Therefore, the statement by Haradatta and the Linga-bearers that Shiva is the sole objective in a sacrifice where Vishnu is the substance is refuted.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -3689,7 +3569,7 @@ If Krishna's worship of Rudra etc. were truly accepted without the purpose of de
 Similarly, in the concluding chapter of Drona Parva, "In battle, I struck down enemies with pure arrows."
 </details>
 
-<details><summary>मूलम्</details>
+<details><summary>मूलम्</summary></details>
 
 एवं द्रोण-पर्वण्य् अन्त्याध्याये संग्रामे न्यहनं शत्रून् शरौघैर् विमलैर् अहम् ।
 </details>
@@ -7616,7 +7496,7 @@ Similarly, in the Bhagavata, it is stated that the venerable Lord protected the 
 
 <details><summary>En - Gemini 2.5</summary>
 
-"Girīśa (Shiva)'s liberation, he is freed from worldly existence and also from enemies" - thus, in the Shrīmad Bhagavata Maha Purana, tenth skandha, latter half, the eighty-eighth chapter named Rudra-Mokṣaṇa (the liberation of Rudra) should be seen.
+"Girīśa (Shiva)'s liberation, he is freed from worldly existence and also from enemies" - thus, in the Shrīmad Bhagavata Maha Purana, tenth skandha, latter half, the eighty-eighth chapter named Rudra-Mokṣaṇa (the liberation of Rudra) should be seen.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9320,7 +9200,6 @@ Thus, the discussion on the authoritative nature of Upanishads included in the G
 The Splendor of the Atharvashira Upanishad.
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथर्व-शिरसि स्थितैः पद-कदम्बकैर् विष्णुतः शिवस्य जनिर् उच्यते प्रथम-सत्त्व-संकीर्तनात् ।
@@ -10377,7 +10256,6 @@ However, a lexicon indicating the power of the word "pashu" to denote a four-leg
 
 The Splendor of the Kaivalya Upanishad.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -14007,8 +13885,6 @@ How can Shiva, who is controlled and distinct from Parabrahman, be the Brahman w
 
 कथं नियम्यस्य परब्रह्मभिन्नस्य शिवस्य पृष्टजगत्कारणब्रह्मत्वं संभवति ।
 </details>
-
-
 
 #### शुद्धिसूचिका
 
