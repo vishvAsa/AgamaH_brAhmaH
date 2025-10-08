@@ -8,6 +8,10 @@ title = "Logical errors"
 - If brahman is the only real, what is avidyA, which apparently is a co-eternal? 
   - jivas having no beginning, as admitted by shankara, implies that avidyA too is beginningless. The only way out would be to say that avidyA (and jIva-s) can have an end; but we don't know if it will. 
 
+## मिथ्या-वेद-प्रामाण्यम्
+veda being transactionally real (mithyA) only, can only be "guaranteed" to be true as far as other transactional reals (mithyA) are concerned (if there), and not about the ultimately real (brahman).
+
+
 ## अपशूद्राधिकरणे समस्या 
 यथाह रामानुजः - 
 
