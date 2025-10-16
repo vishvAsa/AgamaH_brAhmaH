@@ -1969,7 +1969,7 @@ Thus, Shiva is indeed the increaser of prosperity, but the bestower of liberatio
 इन्द्रो वरुणः सोमो रुद्रः पर्जन्यो मृत्युर् ईशानः” 
 
 इति वाक्येन,  
-साम-वेद-मन्त्र-ब्राह्मणे प्र-पद-मन्त्रे 
+साम-वेद-मन्त्र-ब्राह्मणे प्रपद-मन्त्रे 
 
 > “विरूपाक्षोऽसि दन्ताञ्जिस्  
 त्वं देवेषु ब्राह्मणः,  
@@ -2026,7 +2026,7 @@ As for the assertion that in the Shvetashvatara Upanishad, by the mantra "He who
 > त्वं चैव क्रोधजस् तात  
 > पूर्व-सर्गे सनातनात्” 
 
-इति रुद्रं प्रति मोक्ष-धर्म-नारायणीय-चतुर्मुख-वचन-रीत्या कल्प-भेदेन च तेषां रुद्रे संभवाविरोधः ।
+इति रुद्रं प्रति मोक्ष-धर्म-नारायणीय-चतुर्-मुख-वचन-रीत्या कल्प-भेदेन च तेषां रुद्रे संभवाविरोधः ।
 </details>
 
 <details><summary>En - Gemini 2.5</summary>
@@ -2055,13 +2055,13 @@ The Shvetashvatara statement cited by you is indeed unreliable because it is not
 त्वद्-उक्त-श्वेताश्वतर-वाक्यस्य दशोपनिषद्-अनन्तर्गततया अविश्वसनीयत्वम् एव ।
 </details>
 
-### रौद्रतापकरणम्
+### नमोभी रौद्रतापकरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> तम् उ ष्टुहि यः स्विषुः सुधन्वा  
-यो विश्वस्य क्षयति भेषजस्य ।  
-यक्ष्वामहे सौमनसाय रुद्रं  
-नमोभिर् देवम् असुरं दुवस्य 
+> तमु॑ **ष्टुहि॒** यः स्वि॒षुः सु॒धन्वा॒  
+यो विश्व॑स्य॒ **क्षय॑ति** भेष॒जस्य॑ ।  
+**यक्ष्वा॑** म॒हे सौ॑मन॒साय॑ रु॒द्रं  
+नमो॑भिर् दे॒वम् असु॑रं दुवस्य ॥
 
 इति ऋक्-संहिता-मन्त्रेण  
 
@@ -2093,7 +2093,7 @@ By the Rig-Samhita mantra "Praise him, who has good arrows, a good bow, who dest
 अत एव रुद्राध्यायादौ कथित-नमस्कार-बाहुल्यं  
 तत्-कर्तृकानिष्ट-निवृत्ति-पूर्वक-सौमनस्य-सिद्ध्यर्थं;  
 न तूत्कर्ष-गमकं,  
-नमस्कारस्योत्कर्ष-प्रयुक्तत्वे "असुरम्" इति विशेषण-वैयर्थ्यापत्तेः ।+++(4)+++
+नमस्-कारस्योत्कर्ष-प्रयुक्तत्वे "असुरम्" इति विशेषण-वैयर्थ्यापत्तेः ।+++(4)+++
 </details>
 
 <details><summary>En - Gemini 2.5</summary>
@@ -2127,7 +2127,420 @@ By this, the statement that Shiva's supreme superiority is established by seeing
 </details>
 
 
-[[TODO: pages 12-13 missing.]]
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन्त्रस्यायम् अर्थः - **स्विषुः** = सुसायकः, **सुधन्वा** शोभनधनुष्मान् यः विश्वस्य भेषजस्य सर्वोषधस्य । द्वितीयार्थे षष्ठी ।
+</details>
+
+<details><summary>English</summary>
+
+Meaning of the mantra is this -  
+स्विषुः He who has good arrows, सुधन्वा, he who has a beautiful bow, who is the medicine for the whole world, the panacea for all ills.
+
+The genitive case is used here with the sense of the accusative.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मन्त्रस्यायम् अर्थः - स्विषुः सुसायकः सुधन्वा शोभनधनुष्मान् यः विश्वस्य भेषजस्य सर्वोषधस्य । द्वितीयार्थे षष्ठी ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**क्षयति** नाशयति तम् असुरं रुद्रं **स्तुहि**,  
+महे उत्सवे **यक्ष्वा** यज;  
+नमोभिः नमस्कारैः दुवस्य परिचरेति ।
+</details>
+
+<details><summary>English</summary>
+
+Praise that Rudra who destroys, who annihilates the asura; worship him in the great festival (or sacrifice); serve him with salutations, with prostrations.
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्षयति नाशयति तम् असुरं रुद्रं स्तुहि, महे उत्सवे यक्ष्वा यज; नमोभिः नमस्कारैः दुवस्य परिचरेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् तु 
+
+> असुरम् इत्य् अस्य  
+प्राण-दातारम् इत्य् अर्थ  
+
+इति हर-दत्ताचार्यकृत--चतुर्-वेद-तात्पर्य-संग्रहव्याख्यात्रा लिङ्ग-भूभुजोक्तं तन् न;
+</details>
+
+<details><summary>English</summary>
+
+However, that which was stated by the commentator of the Caturvedatātparyasaṅgraha authored by Haradattācārya, namely Liṅgabhūbhuj, that the word 'asura' means 'the giver of life (prāṇa)', is not correct;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्तु असुरमित्यस्य प्राणदातारमित्यर्थ इति हरदत्ताचार्यकृतचतुर्वेदतात्पर्यसंग्रहव्याख्यात्रा लिङ्गभूभुजोक्तं तन्न;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+असुरशब्दस्य मुख्यार्थत्यागापत्तेः, संभवति मुख्यार्थत्वे गौणयौगिकार्थकल्पनस्यान्याय्यत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+Because it would lead to the abandonment of the primary meaning of the word 'asura'; and when the primary meaning is possible, it is unjust to imagine a secondary or etymological meaning.
+</details>
+
+<details><summary>मूलम्</summary>
+
+असुरशब्दस्य मुख्यार्थत्यागापत्तेः, संभवति मुख्यार्थत्वे गौणयौगिकार्थकल्पनस्यान्याय्यत्वात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव ऋक्संहितायामम्भ्रणीसूक्ते 'अहं रुद्राय धनुरातनोमि ब्रह्मद्विषे शरवे हन्त वा उ' इति मन्त्रे रुद्रस्य ब्रह्मद्विट्त्रं शरुत्वापरपर्यायहिंस्रत्वं च असुरस्वभावतानियामकमुक्तं संगच्छते ।
+</details>
+
+<details><summary>English</summary>
+
+For this very reason, in the Ambhraṇīsūkta of the Ṛksaṃhitā, in the mantra 'ahaṃ rudrāya dhanurātanomi brahmadviṣe śarave hanta vā u' (I bend the bow for Rudra, for the hater of brahman, for the arrow, to slay indeed), Rudra's nature as an enemy of brahman and his violence, synonymous with being a 'śaru' (arrow/destroyer), are stated as determinants of his asuric nature, which is fitting.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत एव ऋक्संहितायामम्भ्रणीसूक्ते 'अहं रुद्राय धनुरातनोमि ब्रह्मद्विषे शरवे हन्त वा उ' इति मन्त्रे रुद्रस्य ब्रह्मद्विट्त्रं शरुत्वापरपर्यायहिंस्रत्वं च असुरस्वभावतानियामकमुक्तं संगच्छते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरु हिंसायाम् ।
+</details>
+
+<details><summary>English</summary>
+
+The root 'śaru' means violence.
+</details>
+
+<details><summary>मूलम्</summary>
+
+शरु हिंसायाम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन एत्र रुद्राध्याये शिवस्यासुरस्वभावत्वसूचनार्थ प्रथमतो मन्युपदं रुद्रेण मन्योः स्वस्मिन्नप्रेरणार्थ नमनं च 'नमस्ते रुद्र मन्यवे' इत्यनेन कथितम् ।
+</details>
+
+<details><summary>English</summary>
+
+For this very reason, in the Rudrādhyāya, to indicate Śiva's asuric nature, first the word 'manyu' (wrath) and the bowing by Rudra to his own wrath for not inciting it within himself are stated in the verse 'namaste rudra manyave' (Salutations to your wrath, O Rudra).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन एत्र रुद्राध्याये शिवस्यासुरस्वभावत्वसूचनार्थ प्रथमतो मन्युपदं रुद्रेण मन्योः स्वस्मिन्नप्रेरणार्थ नमनं च 'नमस्ते रुद्र मन्यवे' इत्यनेन कथितम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं च 'सोमं वो अद्य रुद्राय शिक्क्से, क्षयद्वीराय नमसा दिदिष्टन, एभिः शिवस्त्रवानेव यावभिः, दिवः सिषक्ति स्वयशा निकामभिः' इति पठयमानश्रुत्या रुद्रोद्देश्यकनमस्कारादिकमपि अन्यस्यैव न रुद्रस्येति प्रतीयते ।
+</details>
+
+<details><summary>English</summary>
+
+Furthermore, from the recited śruti 'somaṃ vo adya rudrāya śikṣase, kṣayadvīrāya namasā didiṣṭana, ebhiḥ śivastravāneva yāvabhiḥ, divaḥ siṣakti svayaśā nikāmabhiḥ', it appears that the salutation and other acts directed towards Rudra are indeed for someone else, not Rudra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+किं च 'सोमं वो अद्य रुद्राय शिक्क्से, क्षयद्वीराय नमसा दिदिष्टन, एभिः शिवस्त्रवानेव यावभिः, दिवः सिषक्ति स्वयशा निकामभिः' इति पठयमानश्रुत्या रुद्रोद्देश्यकनमस्कारादिकमपि अन्यस्यैव न रुद्रस्येति प्रतीयते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्यार्थः — हे जनाः शिक्कसे शक्ताय क्षयद्वीराय विनश्यद्वीराय रुद्राय क्रियमाणं वः नमसा सह नमस्कारेण सह स्तोत्रं दिवः दीव्यन्त इति दिवः प्रकाशमानदेवान्प्रति दिदिष्टन प्रयच्छत, एभिर्येर्हेतुभिः, यता हेतोरिति यावत् ।
+</details>
+
+<details><summary>English</summary>
+
+Its meaning is: O people, offer your praise, along with salutations, which is being performed for Rudra—the powerful (śikṣase), the one with destroying heroes (kṣayadvīrāya)—to the shining gods of heaven (divaḥ); for these reasons (ebhir hetubhiḥ), which is to say, on account of which reason (yato hetoriti yāvat).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अस्यार्थः — हे जनाः शिक्कसे शक्ताय क्षयद्वीराय विनश्यद्वीराय रुद्राय क्रियमाणं वः नमसा सह नमस्कारेण सह स्तोत्रं दिवः दीव्यन्त इति दिवः प्रकाशमानदेवान्प्रति दिदिष्टन प्रयच्छत, एभिर्येर्हेतुभिः, यता हेतोरिति यावत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शिवः यावभिः यावद्भिः निकामभिः नितरां फलविशिष्टैः स्ववानेव काम्यमानसर्वफलनिष्ठस्वत्ववानेव, स्वयशा एव न त्वन्यस्मै काम्यं स्त्रयशो वा सिषक्ति ददातीति ।
+</details>
+
+<details><summary>English</summary>
+
+Śiva, by whatever abundant and exceedingly fruitful means, is the owner of all desired fruits, possessing them himself; he of self-glory bestows or gives the desired glory to himself, not to another.
+</details>
+
+<details><summary>मूलम्</summary>
+
+शिवः यावभिः यावद्भिः निकामभिः नितरां फलविशिष्टैः स्ववानेव काम्यमानसर्वफलनिष्ठस्वत्ववानेव, स्वयशा एव न त्वन्यस्मै काम्यं स्त्रयशो वा सिषक्ति ददातीति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन एत्र 'आकाशात्पतितं तोयं यथा गच्छति सागरम् ।
+</details>
+
+<details><summary>English</summary>
+
+For this very reason, 'As water that has fallen from the sky goes to the ocean,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन एत्र 'आकाशात्पतितं तोयं यथा गच्छति सागरम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वदेवनमस्कारः केशवं प्रति गच्छति' इति च्छन्दोग गृह्यपरिशिष्टोक्तिः संगच्छते ।
+</details>
+
+<details><summary>English</summary>
+
+so the salutation to any god goes to Keśava'—this statement from the Chāndogya Gṛhyapariśiṣṭa is consistent.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वदेवनमस्कारः केशवं प्रति गच्छति' इति च्छन्दोग गृह्यपरिशिष्टोक्तिः संगच्छते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं च 'यस्मै नमस्तस्मै त्वा जुष्टं नियुनज्मि' इति यजुर्वेदश्रुत्या यच्छब्दार्थस्य नमस्वित्वं प्रतीयते ।
+</details>
+
+<details><summary>English</summary>
+
+Moreover, by the Yajurveda śruti 'yasmai namastasmai tvā juṣṭaṃ niyunajmi' (To whom salutation is offered, to him I appoint you, pleased), it is understood that the meaning of the word 'yad' (whoever/whichever) is the object of salutation.
+</details>
+
+<details><summary>मूलम्</summary>
+
+किं च 'यस्मै नमस्तस्मै त्वा जुष्टं नियुनज्मि' इति यजुर्वेदश्रुत्या यच्छब्दार्थस्य नमस्वित्वं प्रतीयते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यच्छब्दार्थस्तु 'यत्तत्पदमनुत्तमम्' इति यत्पदस्य सहस्रनामाध्याये विष्णुनामत्वोक्त्या विष्णुरेव न त्वन्यः पूर्वप्रकृतः यस्मै नम इति एतद्वाक्यपूर्ववाक्येषु यच्छब्दपरामर्शयोग्यस्य कस्यचिद्देवस्यानुक्तेः ।
+</details>
+
+<details><summary>English</summary>
+
+And the meaning of the word 'yad' is indeed Viṣṇu, because the word 'yat' is stated to be a name of Viṣṇu in the chapter of a thousand names ('yat tat padam anuttamam' - That which is the supreme state), and not any other previously mentioned deity, since in the sentences preceding 'yasmai namaḥ', no specific god worthy of being referred to by the pronoun 'yad' is mentioned.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यच्छब्दार्थस्तु 'यत्तत्पदमनुत्तमम्' इति यत्पदस्य सहस्रनामाध्याये विष्णुनामत्वोक्त्या विष्णुरेव न त्वन्यः पूर्वप्रकृतः यस्मै नम इति एतद्वाक्यपूर्ववाक्येषु यच्छब्दपरामर्शयोग्यस्य कस्यचिद्देवस्यानुक्तेः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च बोधायनाश्वलायनोक्तस्मार्तशूलगवकर्माङ्गमन्त्रेषु 'ईशानाय त्वा जुष्टमुपाकरोमि' इत्यादिषु रुद्रो बोध्यत इति शङ्कयम् ;
+</details>
+
+<details><summary>English</summary>
+
+And it should not be doubted that in the mantras which are part of the Smārta Śūlagava ceremony, as stated by Bodhāyana and Āśvalāyana, such as 'īśānāya tvā juṣṭamupākaromi' (To Īśāna I offer you, pleased), Rudra is to be understood;
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च बोधायनाश्वलायनोक्तस्मार्तशूलगवकर्माङ्गमन्त्रेषु 'ईशानाय त्वा जुष्टमुपाकरोमि' इत्यादिषु रुद्रो बोध्यत इति शङ्कयम् ;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+'ईशानाय' इत्यादिमन्त्राणां 'यस्मै नमः' इत्येतद्वाक्यपूर्वस्थत्वाभावेन यच्छब्दप्रतिपादनयोग्यस्येशानस्य पूर्वप्रकृतत्वासंभवात् ।
+</details>
+
+<details><summary>English</summary>
+
+Because the mantras 'īśānāya' and so on do not precede the sentence 'yasmai namaḥ', it is impossible for Īśāna, who would be fit to be denoted by the word 'yad', to have been previously mentioned.
+</details>
+
+<details><summary>मूलम्</summary>
+
+'ईशानाय' इत्यादिमन्त्राणां 'यस्मै नमः' इत्येतद्वाक्यपूर्वस्थत्वाभावेन यच्छब्दप्रतिपादनयोग्यस्येशानस्य पूर्वप्रकृतत्वासंभवात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+'यस्मै नमः' इति श्रुत्युक्तनमस्कारोद्देश्यत्वं विष्णोरेवेति निप्प्रत्यूहम् ।
+</details>
+
+<details><summary>English</summary>
+
+It is unopposed that the state of being the object of salutation mentioned in the śruti 'yasmai namaḥ' belongs to Viṣṇu alone.
+</details>
+
+<details><summary>मूलम्</summary>
+
+'यस्मै नमः' इति श्रुत्युक्तनमस्कारोद्देश्यत्वं विष्णोरेवेति निप्प्रत्यूहम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं च 'यस्मै नमस्तच्छिरः' इत्यारभ्य 'स वा एष दिव्यः शाकरः शिंशुमारः' इनि तैत्तिरीयश्रुतौ विष्णोः शिंशुमारहृदयत्वेन निगदात् अवनीन्द्रप्रजापत्यादीनां शिरोव्यतिरिक्ततत्तदवयवत्वकथनात् नमनशेषी यच्छब्दार्थः शिरस्त्वेन कथितो दृश्यते ।
+</details>
+
+<details><summary>English</summary>
+
+Furthermore, in the Taittirīya śruti, starting with 'yasmai namas tacchiraḥ' (To whom salutation, that is the head) and ending with 'sa vā eṣa divyaḥ śākaraḥ śiṃśumāraḥ' (He is indeed this divine Śākara Śiṃśumāra), because it is stated that Viṣṇu is the heart of the Śiṃśumāra (celestial dolphin/porpoise constellation) and that Avani, Indra, Prajāpati, and others are its various limbs other than the head, the meaning of the word 'yad', which is the recipient of the salutation, is seen to be described as the head.
+</details>
+
+<details><summary>मूलम्</summary>
+
+किं च 'यस्मै नमस्तच्छिरः' इत्यारभ्य 'स वा एष दिव्यः शाकरः शिंशुमारः' इनि तैत्तिरीयश्रुतौ विष्णोः शिंशुमारहृदयत्वेन निगदात् अवनीन्द्रप्रजापत्यादीनां शिरोव्यतिरिक्ततत्तदवयवत्वकथनात् नमनशेषी यच्छब्दार्थः शिरस्त्वेन कथितो दृश्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स च 'यत्तत्पदमनुत्तमम्' इति भगवन्नामसहस्त्रप्रसिद्धयत्तत्पदनामधेयो भगवानेत्र न तु रुद्रः सूर्यादिर्वा; तच्छ्रुतौ पूर्ववाक्येषु तेषामप्रस्तुतत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+And he is the Lord Himself, named 'Yat-tat-pada' as is famous in the thousand names of the Lord ('yat tat padam anuttamam' - that which is the supreme state), and not Rudra or Sūrya or others; because in the preceding sentences of that śruti, they are not the topic of discussion.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स च 'यत्तत्पदमनुत्तमम्' इति भगवन्नामसहस्त्रप्रसिद्धयत्तत्पदनामधेयो भगवानेत्र न तु रुद्रः सूर्यादिर्वा; तच्छ्रुतौ पूर्ववाक्येषु तेषामप्रस्तुतत्वात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परमात्मोपासनस्थानानां मध्ये हृदयस्थानस्योत्तमत्वेन शरीरावयवानां मध्ये शिरस उत्तमाङ्गत्वेन विष्णोस्तदुभयरूपत्वकथनं युक्तमेव ।
+</details>
+
+<details><summary>English</summary>
+
+Among the places for meditation on the Supreme Self, the heart is the best; among the parts of the body, the head is the highest limb. Thus, stating that Viṣṇu has the form of both is indeed appropriate.
+</details>
+
+<details><summary>मूलम्</summary>
+
+परमात्मोपासनस्थानानां मध्ये हृदयस्थानस्योत्तमत्वेन शरीरावयवानां मध्ये शिरस उत्तमाङ्गत्वेन विष्णोस्तदुभयरूपत्वकथनं युक्तमेव ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एकस्योभयावयवत्वास्वीकारे शिवस्य परब्रह्मत्ववादिनापि शिंशुमारपुच्छत्वेन निरूपितनपुंसकब्रह्मशब्दार्थपरमात्मन एव नमस्वियच्छब्दार्थशिवरूपत्वं वक्तव्यम् ।
+</details>
+
+<details><summary>English</summary>
+
+If one does not accept that a single entity can be both limbs, then even one who argues for Śiva's status as the Supreme Brahman must state that the Supreme Self, which is the meaning of the neuter word 'Brahman' and described as the tail of the Śiṃśumāra, is itself in the form of Śiva, who is the meaning of the word 'yad' and the recipient of salutations.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एकस्योभयावयवत्वास्वीकारे शिवस्य परब्रह्मत्ववादिनापि शिंशुमारपुच्छत्वेन निरूपितनपुंसकब्रह्मशब्दार्थपरमात्मन एव नमस्वियच्छब्दार्थशिवरूपत्वं वक्तव्यम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यथा शिरोरूपावयवत्वेन पुच्छरूपावयवत्वेन च रूपितयोः शिवपरमात्मनोः परस्परं भेदापत्त्या नमस्विनः शिवस्य परमात्मत्वानुपपत्तेः ।
+</details>
+
+<details><summary>English</summary>
+
+Otherwise, with Śiva and Paramātman being described as the limb in the form of the head and the limb in the form of the tail respectively, a difference between them would arise, and consequently, the status of Śiva, the recipient of salutations, as the Supreme Self would be untenable.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्यथा शिरोरूपावयवत्वेन पुच्छरूपावयवत्वेन च रूपितयोः शिवपरमात्मनोः परस्परं भेदापत्त्या नमस्विनः शिवस्य परमात्मत्वानुपपत्तेः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत्तु 'यस्मै नमः' इति यच्छब्देन अनुक्तदेव एव नमस्वितया ग्रहीतव्यः स च शिव एवेति, तन्न;
+</details>
+
+<details><summary>English</summary>
+
+As for the argument that in 'yasmai namaḥ', by the word 'yad', an unmentioned god should be taken as the object of salutation, and that he is Śiva alone—that is not correct;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्तु 'यस्मै नमः' इति यच्छब्देन अनुक्तदेव एव नमस्वितया ग्रहीतव्यः स च शिव एवेति, तन्न;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्कन्दविनायकादीनामनुक्तत्वाविशेषे शिवस्यैव तत्र ग्रहणमित्यस्यानुचितत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+Because, since Skanda, Vināyaka, and others are also equally unmentioned, the assumption that only Śiva should be taken there is inappropriate.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्कन्दविनायकादीनामनुक्तत्वाविशेषे शिवस्यैव तत्र ग्रहणमित्यस्यानुचितत्वात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+'सवै वो वरं वृणा इति, वृणीष्वेति, स एतमेव वरमवृणीत, पशूनामाधिपत्यम्, तदस्यैतत्पशुमान्नामेति, अहमेव पशूनामधिपतिरसानीति, तस्माद्रुद्रः पशूनामधिपतिः' इति शिवस्य पराधीनैश्वर्यप्रतीतिः ।
+</details>
+
+<details><summary>English</summary>
+
+From the passage, '"Choose a boon from us," "Choose," so he chose this very boon, lordship over creatures (paśus), so this name of his is Paśumān, "May I be the lord of creatures," therefore Rudra is the lord of creatures,' Śiva's sovereignty appears to be dependent on another.
+</details>
+
+<details><summary>मूलम्</summary>
+
+'सवै वो वरं वृणा इति, वृणीष्वेति, स एतमेव वरमवृणीत, पशूनामाधिपत्यम्, तदस्यैतत्पशुमान्नामेति, अहमेव पशूनामधिपतिरसानीति, तस्माद्रुद्रः पशूनामधिपतिः' इति शिवस्य पराधीनैश्वर्यप्रतीतिः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत्क्तूक्तं हरदत्ताचार्येण श्रुतिषु शित्रस्येश्वरत्वोक्त्या जीवानामनीश्वरत्वोक्त्या जीवसका शादीश्वरस्य शिवस्य पाशुपत्यवरप्रार्थनादेरनुपपन्नत्वात् 'पशुपतये नमः' इत्यादिनित्यसिद्धपाशुपत्यानुवादश्रुतेश्च नित्यसिद्धपाशुपत्यत्रो धक्पुराणवचनविरोधाच्च पाशुपत्यवरप्रार्थना पर श्रुतिवाक्यद्वयमर्थवाद इनि, तन्नः
+</details>
+
+<details><summary>English</summary>
+
+As for what was stated by Haradattācārya, that because the śrutis declare Śiva's lordship and the jīvas' lack of lordship, the request for the boon of lordship over creatures (pāśupatya) by Śiva, who is the Lord from the perspective of the jīvas, is untenable, and because of the śruti 'paśupataye namaḥ' which merely reiterates an eternally established lordship, and also because it contradicts the Purāṇic statements that establish his eternal lordship, therefore the two śruti sentences concerning the request for the boon of lordship are mere arthavāda (eulogy)—that is not correct:
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्क्तूक्तं हरदत्ताचार्येण श्रुतिषु शित्रस्येश्वरत्वोक्त्या जीवानामनीश्वरत्वोक्त्या जीवसका शादीश्वरस्य शिवस्य पाशुपत्यवरप्रार्थनादेरनुपपन्नत्वात् 'पशुपतये नमः' इत्यादिनित्यसिद्धपाशुपत्यानुवादश्रुतेश्च नित्यसिद्धपाशुपत्यत्रो धक्पुराणवचनविरोधाच्च पाशुपत्यवरप्रार्थना पर श्रुतिवाक्यद्वयमर्थवाद इनि, तन्नः
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+'स ईश्वरो
+</details>
+
+<details><summary>English</summary>
+
+'He is the Lord'
+</details>
+
+<details><summary>मूलम्</summary>
+
+'स ईश्वरो
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
