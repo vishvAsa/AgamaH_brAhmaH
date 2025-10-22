@@ -2,6 +2,12 @@
 title = "Language errors"
 
 +++
+## General principles
+Linguistic competence is not the mere invocation of pANini's rules to justify vibhaktis - it involves internally consistent identification of subjects referred to by pronouns. In "convenient" cases, shankara spectacularly fails, providing a clearly twisted "interpretation".
+
+"Crypticity of vedic language" does not excuse such gross whimsical violation of basic linguistic principles like consistency of pronouns. Otherwise, anything can be read into anything; and you can as well throw away the shruti. The said crypticity comes in at the level of imagery and etymology as seen in brAhmaNa texts.
+
+
 ## एष सेतुः
 > > "तम् एवैकम् आत्मानं जानथ,  
 > एष अमृतस्य सेतुः"
@@ -30,14 +36,29 @@ title = "Language errors"
 
 Clearly the meaning of second line यमेवैष वृणुते is --- whom (यम्) this Atman (एष) chooses (विवृणुते) for him/her (तस्य) this Atman (एष आत्मा) opens itself (विवृणुते तनूं स्वाम्). It aligns perfectly with the context set up by the first line of this mantra and previous ones.
 
-This has been interpreted erroneously as follows by Shankara -
+The particular interpretation by Acharya Shankara is incorrect, as can be noticed by any student of Sanskrit, since it violaltes the basic principles of consistency of subjects referred to by pronouns.  
 
-> **यम्** एव परमात्मानम् **एव +एषः** विद्वान् **वृणुते** प्राप्तुम् इच्छति,  
-> **तेन** वरणेन **एष** पर आत्मा **लभ्यः**,  
-> न+अन्येन साधनान्तरेण।
+यदि कश्चन
 
-This particular interpretation by Acharya Shankara is incorrect, as can be noticed by any student of Sanskrit. The subject of यम् and तेन has to be the same and not different arbitrarily unless the author of the mantra is nuts.  
-shAnkarans can bring in "2.3.23, hetau" - still, the subject of यम् and तेन has to be the same.
+> (नाय॑म् आत्मा प्र॒वचने॑न लभ्यो न॒ मेध॑या न ब॒हुना॑ श्रुतेन।  
+> यम् ए॑वैष वृणुते ते॒न लभ्यस् तस्यै॑ष आ॒त्मा विवृ॑णुते तनूं स्वाम्॥)
+>
+> this (male) AtmA can't be obtained by pravachana, medhas and bahu-shruti.  
+> whomever (male) this (male) choses, by him he is obtained, for him this (male) AtmA reveals himself"
+
+इति श्रुत्वा
+
+> (**यमेव** परमात्मानमेव **एषः** विद्वान् **वृणुते** प्राप्तुमिच्छति, **तेन** वरणेन **एष** पर आत्मा लभ्यः, नान्येन साधनान्तरेण, नित्यलब्धस्वभावत्वात् । कीदृशोऽसौ विदुष आत्मलाभ इति, उच्यते — **तस्य एष** आत्मा अविद्यासञ्छन्नां स्वां परां तनूं स्वात्मतत्त्वं स्वरूपं **विवृणुते** प्रकाशयति)  
+> Actually,  
+> the first and third _**this** (male अयम्, एष)_ refers to the AtmA, but the second _**this** (male एष)_ refers to the sAdhaka (my magic!).  
+> The "whomever" (यम्) refers to the "this Atma";
+> the first "him" (तेन) is actually an "it" (तेन), referring to the "choice",  
+> but the second "him" (तस्य) refers to the sAdhaka (my magic!)  
+> so the final meaning is "that (यम्) {Atma} who is chosen by this (एष) {sAdhaka}, by that (तेन) {choice} he is obtained, for that (तस्य) {sAdhaka} this (एष) Atma reveals himself. (Insertions indicated by {})"  
+> and not the simple meaning apparent from the original wording itself.
+
+इति व्याख्याति,  
+अमत्सरो यः कश्चिद् अपि "शाठ्यम् एवेदम्" इत्य् एव निश्चिनोति।
 
 > नाय॑म् आत्मा प्र॒वचने॑न लभ्यो  
 > न॒ मेध॑या न ब॒हुना॑ श्रुतेन।   
@@ -56,31 +77,9 @@ shAnkarans can bring in "2.3.23, hetau" - still, the subject of यम् and �
 +++("एष वृणुते … एष आत्मा"→)+++ एतद्-एतदोर् अपि सम्बन्धो नास्त्य् एव,  
 +++("तेन… तस्य"→)+++ तत्-तदोर् अपि सम्बन्धो नास्ति।  
 भाषायां सङ्गतिर् इति काचिद् वर्तेत वाक्येषु।  
-यदि कश्चन 
 
-> (नाय॑म् आत्मा प्र॒वचने॑न लभ्यो न॒ मेध॑या न ब॒हुना॑ श्रुतेन।  
-> यम् ए॑वैष वृणुते ते॒न लभ्यस् तस्यै॑ष आ॒त्मा विवृ॑णुते तनूं स्वाम्॥)  
-> 
-> this (male) AtmA can't be obtained by pravachana, medhas and bahu-shruti.  
-> whomever (male) this (male) choses, by him he is obtained, for him this (male) AtmA reveals himself" 
-
-इति श्रुत्वा  
-
-> (**यमेव** परमात्मानमेव **एषः** विद्वान् **वृणुते** प्राप्तुमिच्छति, **तेन** वरणेन **एष** पर आत्मा लभ्यः, नान्येन साधनान्तरेण, नित्यलब्धस्वभावत्वात् । कीदृशोऽसौ विदुष आत्मलाभ इति, उच्यते — **तस्य एष** आत्मा अविद्यासञ्छन्नां स्वां परां तनूं स्वात्मतत्त्वं स्वरूपं **विवृणुते** प्रकाशयति)  
-> Actually,  
-> the first and third _**this** (male अयम्, एष)_ refers to the AtmA, but the second _**this** (male एष)_ refers to the sAdhaka (my magic!).  
-> The "whomever" (यम्) refers to the "this Atma";
-> the first "him" (तेन) is actually an "it" (तेन), referring to the "choice",  
-> but the second "him" (तस्य) refers to the sAdhaka (my magic!)  
-> so the final meaning is "that (यम्) {Atma} who is chosen by this (एष) {sAdhaka}, by that (तेन) {choice} he is obtained, for that (तस्य) {sAdhaka} this (एष) Atma reveals himself. (Insertions indicated by {})"  
-> and not the simple meaning apparent from the original wording itself.
-
-इति व्याख्याति,  
-अमत्सरो यः कश्चिद् अपि "शाठ्यम् एवेदम्" इत्य् एव निश्चिनोति। 
-
-Linguistic competence is not the mere invocation of pANini's rules to justify vibhaktis - it involves internally consistent identification of subjects referred to by pronouns. shankara spectacularly fails, providing a clearly twisted "interpretation". 
-
-"Crypticity of vedic language" does not excuse such gross whimsical violation of basic linguistic principles like consistency of pronouns. Otherwise, anything can be read into anything; and you can as well throw away the shruti. The said crypticity comes in at the level of imagery and etymology as seen in brAhmaNa texts.
+### Flimsy defences
+shAnkarans bring in "2.3.23, hetau" to explain the vibhakti in तेन. That doesn't explain how तेन and तस्य within the same verse refers to different subjects.
 
 ### Bellamkonda Ramaraya
 Furtherance of the same comical tradition by a certain initiate (not a convert, as claimed) into shAnkarAdvaita named bellamkoNDa rAmarAya (supposedly a "kavIndra", haygrIvopAsaka etc..) - 
