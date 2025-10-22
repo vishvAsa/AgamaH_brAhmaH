@@ -78,7 +78,9 @@ shAnkarans can bring in "2.3.23, hetau" - still, the subject of यम् and �
 इति व्याख्याति,  
 अमत्सरो यः कश्चिद् अपि "शाठ्यम् एवेदम्" इत्य् एव निश्चिनोति। 
 
-Linguistic competence is not the mere invocation of pANini's rules to justify vibhaktis - it involves internally consistent identification of subjects referred to by pronouns. shankara spectacularly fails.
+Linguistic competence is not the mere invocation of pANini's rules to justify vibhaktis - it involves internally consistent identification of subjects referred to by pronouns. shankara spectacularly fails, providing a clearly twisted "interpretation". 
+
+"Crypticity of vedic language" does not excuse such gross whimsical violation of basic linguistic principles like consistency of pronouns. Otherwise, anything can be read into anything; and you can as well throw away the shruti. The said crypticity comes in at the level of imagery and etymology as seen in brAhmaNa texts.
 
 ### Bellamkonda Ramaraya
 Furtherance of the same comical tradition by a certain initiate (not a convert, as claimed) into shAnkarAdvaita named bellamkoNDa rAmarAya (supposedly a "kavIndra", haygrIvopAsaka etc..) - 
