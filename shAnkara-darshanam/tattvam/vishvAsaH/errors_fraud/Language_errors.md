@@ -5,7 +5,7 @@ title = "Language errors"
 ## General principles
 Linguistic competence is not the mere invocation of pANini's rules to justify vibhaktis - it involves internally consistent identification of subjects referred to by pronouns. In "convenient" cases, shankara spectacularly fails, providing a clearly twisted "interpretation".
 
-"Crypticity of vedic language" does not excuse such gross whimsical violation of basic linguistic principles like consistency of pronouns. Otherwise, anything can be read into anything; and you can as well throw away the shruti. The said crypticity comes in at the level of imagery and etymology as seen in brAhmaNa texts.
+"Crypticity of vedic language" does not excuse such gross whimsical violation of basic linguistic principles like consistency of pronouns. Otherwise, anything can be read into anything; and you can as well throw away the shruti. The said crypticity comes in at the level of imagery and etymology as seen in brAhmaNa texts. Even there, one should resort to "crypticity" sparingly - the more one hand-waves, the more doubtful the interpretation is.
 
 
 ## एष सेतुः
