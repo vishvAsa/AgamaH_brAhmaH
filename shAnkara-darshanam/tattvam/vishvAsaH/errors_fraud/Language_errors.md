@@ -9,14 +9,14 @@ title = "Language errors"
 > इति कथनाद् एष इति शब्दः परमात्मवाच्येव ।
 >
 > अतः परमात्मन एव संसार-पार-प्रापकत्वं वैदिकमार्गे स्पष्टं विधीयते ।  
-अत्र
+> अत्र
 >
 > > "एष"-इत्य्-अनेन पुंल्लिङ्गान्तेन  
 "जानथ" इति ज्ञा-धात्व्-अर्थ-भूतं ज्ञानम् एव गृह्यते
 >
 > इति ज्ञान-मार्गिणां व्याख्यानम् ।  
-किन्तु कथं पुंल्लिङ्गान्तेन "एष" इति पदेन
-धातुच्छन्नं ज्ञानं ग्रहीतुं शक्यम् ?  
+> किन्तु कथं पुंल्लिङ्गान्तेन "एष" इति पदेन
+> धातुच्छन्नं ज्ञानं ग्रहीतुं शक्यम् ?  
 > 
 > - इति वरदार्यः
 
@@ -24,9 +24,9 @@ title = "Language errors"
 मुण्डकोपनिषद् मन्त्र 3.2.3
 
 > नाय॑म् आत्मा प्र॒वचने॑न लभ्यो  
-न॒ मेध॑या न ब॒हुना॑ श्रुतेन।
-यम् ए॑वैष वृणुते ते॒न लभ्यस्  
-तस्यै॑ष आ॒त्मा विवृ॑णुते तनूं स्वाम्॥ MunU.3.2.3॥
+> न॒ मेध॑या न ब॒हुना॑ श्रुतेन।
+> यम् ए॑वैष वृणुते ते॒न लभ्यस्  
+> तस्यै॑ष आ॒त्मा विवृ॑णुते तनूं स्वाम्॥ MunU.3.2.3॥
 
 Clearly the meaning of second line यमेवैष वृणुते is --- whom (यम्) this Atman (एष) chooses (विवृणुते) for him/her (तस्य) this Atman (एष आत्मा) opens itself (विवृणुते तनूं स्वाम्). It aligns perfectly with the context set up by the first line of this mantra and previous ones.
 
@@ -68,16 +68,17 @@ shAnkarans can bring in "2.3.23, hetau" - still, the subject of यम् and �
 
 > (**यमेव** परमात्मानमेव **एषः** विद्वान् **वृणुते** प्राप्तुमिच्छति, **तेन** वरणेन **एष** पर आत्मा लभ्यः, नान्येन साधनान्तरेण, नित्यलब्धस्वभावत्वात् । कीदृशोऽसौ विदुष आत्मलाभ इति, उच्यते — **तस्य एष** आत्मा अविद्यासञ्छन्नां स्वां परां तनूं स्वात्मतत्त्वं स्वरूपं **विवृणुते** प्रकाशयति)  
 > Actually,  
-> the first and third _**this** (male)_ refers to the AtmA,  but the second _**this** (male)_ refers to the sAdhaka (my magic!).  
-> The "whomever" refers to the "this Atma"; 
-the first "him" is actually an "it", referring to the "choice",  
-but the second "him" refers to the sAdhaka (my magic!)  
-so the final meaning is "that Atma who is chosen by the sAdhaka, by that choice he is obtained, for that sAdhaka this Atma reveals himself."  
-and not the simple meaning apparent from the original wording itself.
+> the first and third _**this** (male अयम्, एष)_ refers to the AtmA, but the second _**this** (male एष)_ refers to the sAdhaka (my magic!).  
+> The "whomever" (यम्) refers to the "this Atma";
+> the first "him" (तेन) is actually an "it" (तेन), referring to the "choice",  
+> but the second "him" (तस्य) refers to the sAdhaka (my magic!)  
+> so the final meaning is "that (यम्) {Atma} who is chosen by this (एष) {sAdhaka}, by that (तेन) {choice} he is obtained, for that (तस्य) {sAdhaka} this (एष) Atma reveals himself. (Insertions indicated by {})"  
+> and not the simple meaning apparent from the original wording itself.
 
 इति व्याख्याति,  
 अमत्सरो यः कश्चिद् अपि "शाठ्यम् एवेदम्" इत्य् एव निश्चिनोति। 
 
+Linguistic competence is not the mere invocation of pANini's rules to justify vibhaktis - it involves internally consistent identification of subjects referred to by pronouns. shankara spectacularly fails.
 
 ### Bellamkonda Ramaraya
 Furtherance of the same comical tradition by a certain initiate (not a convert, as claimed) into shAnkarAdvaita named bellamkoNDa rAmarAya (supposedly a "kavIndra", haygrIvopAsaka etc..) - 
