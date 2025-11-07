@@ -227,9 +227,6 @@ kRShNapremi, a shAnkara descendent of periya-vAchchAn-piLLai, describes shankara
 गतस् तर्हि षण्-मत-स्थापकत्वं शङ्करस्य। 
 
 ### न रुद्रादित्यादयः
-When dismissing Shaiva Agamas as avaidika, shankara says- "माहेश्वरास्तु मान्यते... पशुपतिर् ईश्वरो..." - "The Shaivas regard Pashupati as Ishvara" - meaning, he doesn't regard Pashupati that way.
-
-
 > ॥6.47॥ **योगिनामपि सर्वेषां** रुद्रादित्यादि-ध्यान-पराणां मध्ये  
 **मद्-गतेन** मयि वासुदेवे समाहितेन  
 **अन्तरात्मना** अन्तःकरणेन  
