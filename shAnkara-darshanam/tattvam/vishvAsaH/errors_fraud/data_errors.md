@@ -2,14 +2,19 @@
 title = "Data errors"
 +++
 
-## करणोत्पत्ति-श्रुतिः
+## pAncharAtra
+(Logical errors considered separately.)
+
+Mainly, did not understand what was supposed to have been dismissed; _guessed_ (wrongly at that) 3+ positions pAncharAtrins might have; and assumed that bAdarAyaNa did the same - see [YT](https://www.youtube.com/watch?v=gS-xk9qiPo4&t=515s)
+
+### करणोत्पत्ति-श्रुतिः
 
 > “न च कर्तुः करणम् । इतश् चासङ्गतैषा कल्पना —  … न चैवंभूतां श्रुतिम् उपलभामहे ॥ ४३ ॥
 
 "प्राण-मनः-प्रभृति-निखिल-करणोत्पत्त्यभ्युपगमः" ।  (Muṇḍ Up., 2\.1\.3\.  ) इति श्रुतिर् उपेक्षिता।  
 (यामुनेनेदं दर्शितम् आगम-प्रामाण्ये। )
 
-## देव-गृहीत-शरीर-भेदाः
+### देव-गृहीत-शरीर-भेदाः
 
 > न ह्य् असत्य् अतिशये,  
 कार्यं कारणम् इत्य् अवकल्पते।  

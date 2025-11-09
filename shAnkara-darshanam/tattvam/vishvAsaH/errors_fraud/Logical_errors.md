@@ -33,6 +33,12 @@ veda being transactionally real (mithyA) only, can only be "guaranteed" to be tr
 
 
 ## पाञ्चरात्र-तिरस्कारे ऽन्यायः
+(Data errors listed separately.)
+
+### sankarShaNa-jIvotpatti?
+See elsewhere - [अत्र](/mahAbhAratam/vyAsaH/goraxapura-pAThaH/hindy-anuvAdaH/12_shAntiparva/03_moxadharmaparva/335-351_nArAyaNIyam/vishvAsaH/339_jIvotpatti-layau)
+
+### विप्रतिषेधाः
 Hasn't applied "principle of charity", and descended into charlatanry of focusing on what was said rather than what was meant.
 
 > विप्रतिषेधश् च +अस्मिन् शास्त्रे बहुविध उपलभ्यते —  

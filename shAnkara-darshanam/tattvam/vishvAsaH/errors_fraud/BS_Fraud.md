@@ -70,9 +70,6 @@ A judgement here does not require sophisticated philosophical knowledge - just b
 These are literally the first two sentences off the author's mouth. One cannot argue that the context (complete Śruti corpus) should be accounted to make sense of these - same as in the case of वृद्धिर् आद् ऐच्, अथाथो धर्मजिज्ञासा,  धीश्रीस्त्री म् ॥ etc.
 
 
-## pAncharAtra
-See elsewhere - [अत्र](/mahAbhAratam/vyAsaH/goraxapura-pAThaH/hindy-anuvAdaH/12_shAntiparva/03_moxadharmaparva/335-351_nArAyaNIyam/vishvAsaH/339_jIvotpatti-layau)
-
 ## Deliberateness
 नमो मायाविने तस्माय्  
 अध्यास-व्यसनात् स यः।  
