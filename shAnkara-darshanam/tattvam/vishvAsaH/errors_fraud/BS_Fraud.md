@@ -69,6 +69,8 @@ A judgement here does not require sophisticated philosophical knowledge - just b
 
 These are literally the first two sentences off the author's mouth. One cannot argue that the context (complete Śruti corpus) should be accounted to make sense of these - same as in the case of वृद्धिर् आद् ऐच्, अथाथो धर्मजिज्ञासा,  धीश्रीस्त्री म् ॥ etc.
 
+## pAncharAtra
+shankara has casually (and badly) dealt with the section dealing with pAncharAtra; as if he doesn't care about the accuracy of his understanding of brahma-sUtras there. Details in the data-errors [page](../data-errors).
 
 ## Deliberateness
 नमो मायाविने तस्माय्  
