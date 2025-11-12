@@ -476,10 +476,20 @@ Moreover certain Vedānta-texts make us comprehend the Lord as the Self,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् उक्तम् — प्रतीक-दर्शनम् इदं विष्णु-प्रतिमा-न्यायेन भविष्यतीति, तद् अयुक्तम् -  
-गौणत्व-प्रसङ्गात्,  
-वाक्य-वैरूप्याच् च। 
++++("त्वं वा अहम् अस्मि भगवो" इत्यादौ)+++ गौणत्व-प्रसङ्गात्,  
++++(वक्ष्यमाण-रीत्या)+++ वाक्य-वैरूप्याच् च। 
 </details>
 
+<details><summary>English</summary>
+
+Nor can we admit the truth of the assertion, made by the pūrvapakshin,  
+that all these passages teach merely a contemplation (of the Lord) in certain symbols,  
+analogous to the contemplation of Vishnu in an image.  
+For that would firstly involve that the texts have not to be understood in their primary sense [^fn_209];  
+and in the second place there is a difference of syntactical form.  
+
+[^fn_209]: 339:1 And this is objectionable as long as it has not been demonstrated that the primary meaning is altogether inadmissable.
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -489,8 +499,175 @@ Moreover certain Vedānta-texts make us comprehend the Lord as the Self,
 वाक्य-वैरूप्याच् च। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्र हि प्रतीक-दृष्टिर् अभिप्रेयते, सकृद् एव तत्र वचनं भवति — यथा ‘मनो ब्रह्म’ (छा. उ. ३। १८। १) ‘आदित्यो ब्रह्म’ (छा. उ. ३। १९। १) इत्य् आदि। इह पुनः — त्वम् अहम् अस्मि, अहं च त्वम् असत्य् आह। अतः प्रतीक-श्रुति-वैरूप्यात् अभेद-प्रतिपत्तिः। भेद-दृष्ट्य्-अपवादाच् च; तथा हि — ‘अथ यो ऽन्यां देवताम् उपास्ते, अन्यो ऽसाव् अन्यो ऽहम् अस्मीति, न स वेद’ (बृ. उ. १। ४। १०), ‘मृत्योः स मृत्युम् आप्नोति य इह नानेव पश्यति’ (बृ. उ. ४। ४। १९), ‘सर्वं तं परादाद् यो ऽन्यत्रात्मनः सर्वं वेद’ (बृ. उ. २। ४। ६) इत्य्-एवमाद्या भूयसी श्रुतिः भेद-दर्शनम् अपवदति।
+यत्र हि प्रतीक-दृष्टिर् अभिप्रेयते,  
+सकृद् एव तत्र वचनं भवति —  
+</details>
+
+<details><summary>English</summary>
+
+For where scripture intends the contemplation of something in a symbol,  
+it conveys its meaning through a single enunciation 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत्र हि प्रतीक-दृष्टिर् अभिप्रेयते,  
+सकृद् एव तत्र वचनं भवति —  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा ‘मनो ब्रह्म’ (छा. उ. ३। १८। १)  
+‘आदित्यो ब्रह्म’ (छा. उ. ३। १९। १)  
+इत्य्-आदि। 
+</details>
+
+<details><summary>English</summary>
+
+such as 'Brahman is Mind' (Cḥ. Up. III, 18, 1),  
+or 'Brahman is Āditya' (Cḥ. Up. III, 10, 1). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा ‘मनो ब्रह्म’ (छा. उ. ३। १८। १)  
+‘आदित्यो ब्रह्म’ (छा. उ. ३। १९। १)  
+इत्य्-आदि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इह पुनः — त्वम् अहम् अस्मि, अहं च त्वम् असीत्य् आह। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+But in the passage quoted above,  
+scripture says, 'I am Thou and thou art I.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इह पुनः — त्वम् अहम् अस्मि, अहं च त्वम् असीत्य् आह। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः प्रतीक-श्रुति-वैरूप्याद् अभेद-प्रतिपत्तिः। 
+</details>
+
+<details><summary>English</summary>
+
+As here the form of expression differs from that of texts teaching the contemplation of symbols,  
+the passage must be understood as teaching non-difference. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतः प्रतीक-श्रुति-वैरूप्याद् अभेद-प्रतिपत्तिः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भेद-दृष्ट्य्-अपवादाच् च; 
+</details>
+
+<details><summary>English</summary>
+
+This moreover follows from the express prohibition of the view of difference which a number of scriptural texts convey. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+भेद-दृष्ट्य्-अपवादाच् च; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि —  
+
+> ‘अथ यो ऽन्यां देवताम् उपास्ते,  
+अन्यो ऽसाव् अन्यो ऽहम् अस्मीति,  
+न स वेद’ (बृ. उ. १। ४। १०), 
+</details>
+
+<details><summary>English</summary>
+
+Compare e.g. 
+
+> 'Now if a man worships another deity,  
+> thinking the deity is one and he another,  
+> he does not know' (Br̥. Up. I, 4, 10); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा हि —  
+
+> ‘अथ यो ऽन्यां देवताम् उपास्ते,  
+अन्यो ऽसाव् अन्यो ऽहम् अस्मीति,  
+न स वेद’ (बृ. उ. १। ४। १०), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘मृत्योः स मृत्युम् आप्नोति  
+य इह नानेव पश्यति’ (बृ. उ. ४। ४। १९), 
+</details>
+
+<details><summary>English</summary>
+
+> 'From death to death goes he  
+> who here perceives any diversity' (Br̥. Up. IV, 4, 19); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ‘मृत्योः स मृत्युम् आप्नोति  
+य इह नानेव पश्यति’ (बृ. उ. ४। ४। १९), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘सर्वं तं परादाद्  
+> यो ऽन्यत्रात्मनः सर्वं वेद’  
+> (बृ. उ. २। ४। ६) 
+</details>
+
+<details><summary>English</summary>
+
+> 'Whosoever looks for anything elsewhere than in the Self  
+> is abandoned by everything' (Br̥. Up. II, 4, 6).
+</details>
+
+<details><summary>मूलम्</summary>
+
+> ‘सर्वं तं परादाद्  
+> यो ऽन्यत्रात्मनः सर्वं वेद’  
+> (बृ. उ. २। ४। ६) 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-एवमाद्या भूयसी श्रुतिः भेद-दर्शनम् अपवदति।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्य्-एवमाद्या भूयसी श्रुतिः भेद-दर्शनम् अपवदति।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -503,6 +680,12 @@ Moreover certain Vedānta-texts make us comprehend the Lord as the Self,
 विरुद्ध-गुणताया मिथ्यात्वोपपत्तेः। 
 </details>
 
+<details><summary>English</summary>
+
+Nor is there any force in the objection that  
+things with contrary qualities cannot be identical;  
+for this opposition of qualities can be shown to be false.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -513,8 +696,18 @@ Moreover certain Vedānta-texts make us comprehend the Lord as the Self,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् पुनर् उक्तम् —  "ईश्वराभाव-प्रसङ्ग" इति, तद् असत्,  
-शास्त्र-प्रामाण्याद् अनभ्युपगमाच् च। 
+शास्त्र-प्रामाण्याद् अनभ्युपगमाच् च +++(वक्ष्यमाण-रीत्या)+++। 
 </details>
+
+<details><summary>English</summary>
+
+Nor is it true that  
+from our doctrine it would follow that  
+the Lord is not a Lord. 
+
+For in these matters scripture alone is authoritative,  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -522,10 +715,72 @@ Moreover certain Vedānta-texts make us comprehend the Lord as the Self,
 शास्त्र-प्रामाण्याद् अनभ्युपगमाच् च। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि ईश्वरस्य संसार्य्-आत्मत्वं प्रतिपाद्यत  
+न हीश्वरस्य संसार्य्-आत्मत्वं प्रतिपाद्यत  
 इत्य् अभ्युपगच्छामः —  
-किं तर्हि? संसारिणः संसारित्वापोहेन ईश्वरात्मत्वं प्रतिपिपादयिषितम् इति। एवं च सति अद्वैतेश्वरस्य अपहत-पाप्मत्वादि-गुणता, विपरीत-गुणता तु इतरस्य मिथ्येति व्यवतिष्ठते।
+</details>
+
+<details><summary>English</summary>
+
+and we, moreover, do not at all admit that scripture teaches the Lord to be the Self of the transmigrating soul,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हीश्वरस्य संसार्य्-आत्मत्वं प्रतिपाद्यत  
+इत्य् अभ्युपगच्छामः —  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं तर्हि?  
+
+> संसारिणः संसारित्वापोहेन  
+ईश्वरात्मत्वं प्रतिपिपादयिषितम्  
+
+इति। 
+</details>
+
+<details><summary>English</summary>
+
+but maintain that by denying the transmigrating character of the soul  
+it aims at teaching that the soul is the Self of the Lord. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किं तर्हि?  
+
+> संसारिणः संसारित्वापोहेन  
+ईश्वरात्मत्वं प्रतिपिपादयिषितम्  
+
+इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं च सति अद्वैतेश्वरस्य अपहत-पाप्मत्वादि-गुणता,  
+विपरीत-गुणता तु इतरस्य मिथ्येति व्यवतिष्ठते।
+</details>
+
+<details><summary>English</summary>
+
+From this it follows that the non-dual Lord is free from all evil qualities,  
+and that to ascribe to him contrary qualities is an error.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं च सति अद्वैतेश्वरस्य अपहत-पाप्मत्वादि-गुणता,  
+विपरीत-गुणता तु इतरस्य मिथ्येति व्यवतिष्ठते।
+</details>
+
+
 
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>

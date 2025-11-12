@@ -4,6 +4,19 @@ title = "Logical errors"
 +++
 
 
+## Mysticism and intellectual unsoundness
+When logical lacunae are pointed out, some votaries say ([YT](https://youtu.be/bJl8wumOIFw)) you have experience some sort of "transcendence" to finally "understand"- 
+
+> Attempting to intellectually “remove” maya from Saguna Brahman without transcending ignorance is futile. The attribution of maya to Ishvara arises from one’s own ignorance of the Self. Realize who you truly are first - then the question of who Ishvara is will resolve by itself.
+
+This does not excuse lack of consistency within a theory (philosophical or otherwise). When one says "mAyA is unexplainable/ anirvachanIya" and such, one is simply admitting intellectual unsoundness.
+
+Yogic experience / Mystical experience cannot be a requirement for understanding or answering. It can a requirement for (obv) experiencing, moxa via bhakti, in making knowledge firm (ज्ञान-निष्ठ stage of shAnkaras vs ज्ञान-प्राप्ति in sattva-shuddhi → jnana-prapti → sarva-karma-sanyasa → jnana-niShTha → Moksha) and so on.  
+
+It cannot be used as "proof", like - I can't explain or prove with words, you have to experience something to understand. Then one should ask - why did you even compose bhAShya-s - stick to yogic experience only then.
+
+If there are edges, we better say they are edges, and not you have to do tapas to understand this.
+
 ## avdiyA anirvachanIyA
 - If brahman is the only real, what is avidyA, which apparently is a co-eternal? 
   - jivas having no beginning, as admitted by shankara, implies that avidyA too is beginningless. The only way out would be to say that avidyA (and jIva-s) can have an end; but we don't know if it will. 
@@ -31,6 +44,14 @@ veda being transactionally real (mithyA) only, can only be "guaranteed" to be tr
 तद्वद् एव शूद्रस्यापि वेद-वित्-सम्प्रदायागत-वाक्याद्  
 वस्तु-याथात्म्य-ज्ञानेन जगद्-भ्रम-निवृत्तिर् अपि भविष्यति ॥
 
+
+## निर्विशेषता
+निर्विशेषो वस्तु न किञ्चिद् अस्ति।  
+बौद्धा एवम् अमन्यन्त - प्रथम-क्षणे निर्विशेषं वस्तु गृह्यते, तद्-अनन्तरं विशेषा इति। किञ्च तद् अप्रामाणिकं कल्पनम्।  
+निर्विशेषं ज्ञानं न भवितुम् अर्हत्य् एव।  
+
+ब्रह्म निराकार इति न क्वाप्य् उल्लेखो ऽस्तीति,  
+तस्य शब्दस्य प्रयोग एव नास्तीति वाल्लभानाम् पूर्णानन्दार्यः। 
 
 ## पाञ्चरात्र-तिरस्कारे ऽन्यायः
 (Data errors listed separately.)
