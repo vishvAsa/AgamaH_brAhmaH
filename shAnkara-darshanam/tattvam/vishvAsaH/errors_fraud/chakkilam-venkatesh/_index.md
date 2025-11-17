@@ -9,9 +9,11 @@ While doing so, he was slated to teach 6 darshanas in shRngeri shAradA pITha's "
 ## List of lies
 Some of these have been debunked.
 
+### Fake quotes
 Fraudulent quotes from brahmasUtra-s, viShNu-purANa ([VYT](https://youtu.be/RPMtkEPuV2E)) and mahAbhArata ([VYT](https://youtu.be/98pSDGX3Bm8)).
 
-Lies about vaikhAnasa darshana : [TW](https://youtu.be/l30dALL0ykQ?t=279) 
+### On vaikhAnasa darshana 
+[TW](https://youtu.be/l30dALL0ykQ?t=279) 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -22,7 +24,7 @@ Lies about vaikhAnasa darshana : [TW](https://youtu.be/l30dALL0ykQ?t=279)
   - Don't have chatur-vyUha-like concept (ते च चतुर्व्यूहरूपं भगवतो न मन्यन्ते)
   - Implicitly - non-vishiShTAdvaitism (न च तेषां विशिष्टाद्वैतं दर्शनम्)
 - Contradicted by
-  - Agama-vimarsha by Prof viShNu bhaTTAchAryulu of tirupati CSU, Agama advisor to TTD temple
+  - Agama-vimarsha by Prof viShNu bhaTTAchAryulu of tirupati CSU, Agama advisor to TTD temple ([TW](https://nsktu.ac.in/storage/2021/07/Resume.pdf))
   - brahma-sUtra-bhAShya of shrInivAsa-makhI, with subcommentary by sundararAja
     - Their utpatty-asambhavAdhikaraNa defends pAncharAtra.
   - tAtparya-chandrikA with दश-विध-हेतु-निरूपणम् of shrInivAsa-makhI.
@@ -31,8 +33,14 @@ Lies about vaikhAnasa darshana : [TW](https://youtu.be/l30dALL0ykQ?t=279)
 </details>
 
 
-Lies about rAmAnuja's commentary : [TW](https://youtu.be/l30dALL0ykQ?t=226)
+### On rAmAnuja and vishiShTAdvaita
 
+- [TW](https://youtu.be/l30dALL0ykQ?t=226)
+
+- Claims rAmAnuja ascribes arguments rejecting 
+- Claims vishiShTAdvaita is based on pAncharAtra (and contrasts with vaikhAnasa-s)
+  - How then do vaikhAnasa-s, who don't follow pAncharAtra, claim to be shrI-vishiShTAdvaitins?
+  - Nowhere does rAmANuja use pAncharAtra quotes to support vishiShTAdvaita.
 
 ### Reactions
 #### Chakkilam venkatesh
