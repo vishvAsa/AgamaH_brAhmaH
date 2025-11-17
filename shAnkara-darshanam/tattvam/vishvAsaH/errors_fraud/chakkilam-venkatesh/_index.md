@@ -4,7 +4,11 @@ title = "+चक्किल-वेङ्कटेशः"
 
 ## Intro
 Chakkilam Venkatesh makes several fraudulent claims on YouTube, and popular Telugu channels.  
-While doing so, he was slated to teach 6 darshanas in shRngeri shAradA pITha's "Aham brahmAsmi Foundation" [TW](https://ahambrahmaasmi.org/about-us/); and called himself a "traditionally trained vedAntAchArya".  
+While doing so, he was slated to teach 6 darshanas in shRngeri shAradA pITha's "Aham brahmAsmi Foundation" [TW](https://ahambrahmaasmi.org/about-us/); [VYT](https://youtu.be/hjdiTt9ikaI)  
+and called himself a "traditionally trained vedAntAchArya".[TW](https://youtu.be/l30dALL0ykQ)  
+
+Is Chakkilam Venkatesh, who lies and fakes so much, qualified to call himself vedAntAchArya and teach 6-darshanas for shRngeri-pITha?
+
 
 ## List of lies
 Some of these have been debunked.
@@ -13,6 +17,8 @@ Some of these have been debunked.
 Fraudulent quotes from brahmasUtra-s, viShNu-purANa ([VYT](https://youtu.be/RPMtkEPuV2E)) and mahAbhArata ([VYT](https://youtu.be/98pSDGX3Bm8)).
 
 ### On vaikhAnasa darshana 
+[VYT](https://youtu.be/svZ0M70VufM) chakkilam venkaTesh - many lies about vaikhAnasa-s (also pAncharAtra, vishiShTAdvaita, rAmAnuja)
+
 [TW](https://youtu.be/l30dALL0ykQ?t=279) 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -27,17 +33,20 @@ Fraudulent quotes from brahmasUtra-s, viShNu-purANa ([VYT](https://youtu.be/RPMt
   - Agama-vimarsha by Prof viShNu bhaTTAchAryulu of tirupati CSU, Agama advisor to TTD temple ([TW](https://nsktu.ac.in/storage/2021/07/Resume.pdf))
   - brahma-sUtra-bhAShya of shrInivAsa-makhI, with subcommentary by sundararAja
     - Their utpatty-asambhavAdhikaraNa defends pAncharAtra.
+  - uttama-brahma-vidyA-sAra of sundararAja
   - tAtparya-chandrikA with दश-विध-हेतु-निरूपणम् of shrInivAsa-makhI.
   - vaikhAnasa-matra-prashna's pAramAtmikopaniShad-bhAShya by shrInivAsa-yajvA.
   - vaikhAnasa-dharma-sUtram, nRsiMha-vAjapeyi's commentary ("निर्गुण")
+  - vaikhAnasa-vijaya by uttamUr-vIrarAghavAchArya, endorsed by several prominent vaikhAnasa-s and even kAnchI jayendra-sarasvatI
 </details>
 
 
 ### On rAmAnuja and vishiShTAdvaita
+[VYT](https://youtu.be/svZ0M70VufM) chakkilam venkaTesh - many lies about vaikhAnasa-s (also pAncharAtra, vishiShTAdvaita, rAmAnuja)
 
 - [TW](https://youtu.be/l30dALL0ykQ?t=226)
 
-- Claims rAmAnuja ascribes arguments rejecting 
+- Claims rAmAnuja ascribes arguments rejecting pAncharAtra to "some other pAncharAtra".
 - Claims vishiShTAdvaita is based on pAncharAtra (and contrasts with vaikhAnasa-s)
   - How then do vaikhAnasa-s, who don't follow pAncharAtra, claim to be shrI-vishiShTAdvaitins?
   - Nowhere does rAmANuja use pAncharAtra quotes to support vishiShTAdvaita.
@@ -60,6 +69,8 @@ Fraudulent quotes from brahmasUtra-s, viShNu-purANa ([VYT](https://youtu.be/RPMt
 - chakkilam venkatesh errs on "शुक्लाम्बरधरं विष्णुम्", polytheism, monotheism. Gods are MANY.: [VYT](https://youtu.be/4QQ-DhoYE-8)
 - chakkilam venkaTesh's errors on nRsiMha-pUrva-tApinI/ tapanIya upaniShat नृसिंहपूर्वतापिन्युपनिषत्: [VYT](https://youtu.be/YVDRmTkq0Sk)
 - chakkilam venkatesh's errors on (shankara on) Gītā 2.20 reg. kalpa, pAncharAtra, jIvotpatti : [VYT](https://youtu.be/gS-xk9qiPo4)
+  - Correct understanding of vyAsa on pAncharAtra - [VYT](https://www.youtube.com/watch?v=gS-xk9qiPo4&t=515s)
+  - vaikhAnasa agreement : [VYT](https://www.youtube.com/watch?v=svZ0M70VufM&t=2155s)
 - chakkilam venkatesh fabricates brahma-sUtras, can't locate pAncharAtrik doctrine refuted by shankara : [VYT](https://youtu.be/30R6KhUKZSA)
 - Errors in Chakkilam Venkatesh's dismissal of rAmAnuja on bhagavad-gItA 2.24 (louder) : [VYT](https://youtu.be/rucIjElq3mM)
 - Errors in venkaTesh Chakkilam's dismissal of rAmAnuja on bhagavad-gItA 2.17 : [VYT](https://youtu.be/tXpUd-mYzNs)
