@@ -6,7 +6,9 @@ title = "Parameshvara and nirguNa brahman"
 ## shankara bhAShya challenge
 **Challenge statement** - Show any sentence from shAnkara bhAShya where "parameshvara", by itself, unambiguously refers directly to nirguNa brahman (SB) without going via saguNa brahman (NB). 
 
-Video - [YT](https://youtu.be/bJl8wumOIFw)
+- Challenge Video - [YT](https://youtu.be/bJl8wumOIFw)
+- Failed responses - [TW](https://youtu.be/IbhlFO92ZMA)
+  - neo-shAnkara algebra confusions, self-contradictions with (nirguNa brahman) NB +mAya = SB (saguNa): [TW](https://youtu.be/0pyIqn9M0zk)
 
 ## Significance
 Many shAnkarans fumble over this simple fact.  
