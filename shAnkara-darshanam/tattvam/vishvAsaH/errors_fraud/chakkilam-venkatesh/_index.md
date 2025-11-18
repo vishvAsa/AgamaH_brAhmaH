@@ -34,7 +34,7 @@ Fraudulent quotes from brahmasUtra-s, viShNu-purANa ([VYT](https://youtu.be/RPMt
   - brahma-sUtra-bhAShya of shrInivAsa-makhI, with subcommentary by sundararAja
     - Their utpatty-asambhavAdhikaraNa defends pAncharAtra.
   - uttama-brahma-vidyA-sAra of sundararAja
-  - tAtparya-chandrikA with दश-विध-हेतु-निरूपणम् of shrInivAsa-makhI.
+  - tAtparya-chintAmaNI with दश-विध-हेतु-निरूपणम् of shrInivAsa-makhI.
   - vaikhAnasa-matra-prashna's pAramAtmikopaniShad-bhAShya by shrInivAsa-yajvA.
   - vaikhAnasa-dharma-sUtram, nRsiMha-vAjapeyi's commentary ("निर्गुण")
   - vaikhAnasa-vijaya by uttamUr-vIrarAghavAchArya, endorsed by several prominent vaikhAnasa-s and even kAnchI jayendra-sarasvatI
