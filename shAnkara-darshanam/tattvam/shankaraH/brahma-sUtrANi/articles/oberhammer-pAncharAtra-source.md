@@ -260,5 +260,9 @@ As regards the anonymous Bhāṣyam on Br. Sū. 2, 2, 44 Śankara had to change 
 
 Don't find this article convincing. 
 
-More likely - shankara was being a lazy person who did not care to properly understand pAncharAtra. The bhAShyakAra hypothesized by the author as being quoted by sudarshana seems more competent. It is unlikely that shankara had this before him.
+More likely - shankara was being a lazy person who did not care to properly understand pAncharAtra. 
+
+The bhAShyakAra hypothesized by the author as being quoted by sudarshana seems more competent. It is unlikely that shankara had his commentary before him.
+
+yAmuna's bhAShyakAra can even be shabara - can't say it's exactly the person to whom sudarshanasUri refers. 
 </details>
