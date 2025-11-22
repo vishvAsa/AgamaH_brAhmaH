@@ -24,6 +24,16 @@ If there are edges, we better say they are edges, and not you have to do tapas t
 ## मिथ्या-वेद-प्रामाण्यम्
 veda being transactionally real (mithyA) only, can only be "guaranteed" to be true as far as other transactional reals (mithyA) are concerned (if there), and not about the ultimately real (brahman).
 
+## Whence teaching?
+Video: [TW](https://youtu.be/FBmo0YvfPgA). 
+
+rAmAnuja mocks shAnkara teachings in commentary to BG 2.12 -
+
+> **न** त्व् एवाहं जातु **नासं**  
+> न त्वं, नेमे जनाधिपाः।  
+> **न** चैव, **न भविष्यामः**   
+> सर्वे वयम् अतः परम्॥2.12॥
+
 
 ## अपशूद्राधिकरणे समस्या 
 यथाह रामानुजः - 
