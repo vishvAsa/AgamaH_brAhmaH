@@ -8,8 +8,7 @@ The sequence is mentioned in Gita Bhashya 5.12 -
 
 karma-yoga/ sannyAsa (for v1) → sattva-shuddhi → jnana-prapti → sarva-karma-sanyasa → jnana-nishtha → Moksha.
 
-> सत्त्वशुद्धि- ज्ञानप्राप्ति- सर्वकर्मसंन्यास- ज्ञाननिष्ठा- क्रमेणेति
-वाक्यशेषः …  
+> सत्त्वशुद्धि- ज्ञानप्राप्ति- सर्वकर्मसंन्यास- ज्ञाननिष्ठा- क्रमेणेति वाक्यशेषः …  
 > The sequence of 5.12 is inviolable. However, it spans across several births.  
 > Source: [TW](https://www.advaita-vedanta.org/archives/advaita-l/2019-April/052051.html)
 

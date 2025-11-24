@@ -140,7 +140,7 @@ On the whole Śankara is preoccupied not with a partial refutation of the Pāñc
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-This is an overstatement - abhigamanAdi are agreeable to shankara.
+This is a mild overstatement - abhigamanAdi are agreeable to shankara.
 </details>
 
 
