@@ -224,7 +224,11 @@ Original video - https://youtu.be/UwavQTKrOTs?t=1327
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-My video contains short clips and screenshots from Chakkilam Venkatesh's original video (https://youtu.be/UwavQTKrOTs?t=1327) pointing out the false quotations from well known Hindu texts, with evidence to the effect. As such, this is covered under "fair use". Chakkilam Venkatesh's misuse of copyright law to silence critics who point out his lies should be punished. My video should be reinstated.
+I emphasize that my video has been misidentified as infringing, and am willing to possibly defend the action brought against me by the copyright holder. So I resubmit my counter notification.
+
+My video contains short clips and screenshots from Chakkilam Venkatesh's original video (https://youtu.be/UwavQTKrOTs?t=1327) pointing out the false quotations from well known Hindu texts, with original comments and further reference to authoritative texts. As such, this is covered under "fair use" or "fair dealing" under Section 52 of the Copyright Act, 1957 (Using excerpts for criticism or review purposes). 
+
+Chakkilam Venkatesh's misuse of copyright law to silence critics who point out his lies should be punished. My video should be reinstated.
 </details>
 
 ## Chakkilam Venkatesh (again) fabricates "veda-vyAsa" brahma-sUtra and a mahAbhArata shloka
