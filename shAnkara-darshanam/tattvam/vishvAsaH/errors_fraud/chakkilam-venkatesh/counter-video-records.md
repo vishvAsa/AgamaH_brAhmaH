@@ -6,7 +6,18 @@ title = "Counter video records"
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-credits to rAmAnuja's vedArtha-sangraha, venkaTanAthArya, shaThakopa tAtAchArya
+00:00 - Intro
+00:55 - tamil film daughter in law vs  mother in law
+01:55 - rAmAnuja in vedArtha-sangraha jokes
+07:30 - Conclusion
+
+Credits to -
+
+- kAnchI shaThakopa tAtAchArya
+- rAmAnuja
+- shankara :-)
+
+Notes & references - https://groups.google.com/g/hindu-vidyA/c/TQ1M9HVxf4g/m/OtTLzxxyBwAJ
 </details>
 
 
