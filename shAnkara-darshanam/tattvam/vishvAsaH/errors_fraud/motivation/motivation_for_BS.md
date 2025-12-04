@@ -76,6 +76,14 @@ Similarly maNimanjarI -
 > सूत्रैः प्रपञ्चयाञ्चक्रे मायावी सौगतं मतम् ।  
 शून्यं ब्रह्मपदेनोक्त्वा तथाविद्येति संवृतिम् ॥ ४६ ॥
 
+> Aniruddh goswami in his vyakhyana on gopala-Tapani he say that lord sent 5 duratamas on earth to delude the humans, that are  
+Vidrayana (incarnation of ravana)  
+Appaya dikshita (kamsa incarnation)  
+Shankaracharya (manimana)  
+Suresa(hiranykashipu)  
+Gaudapada (buddha incarnation)  
+> [To verify.]
+
 ### shiva's deceit?
 Some quote -
 
