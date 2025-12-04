@@ -2,6 +2,7 @@
 title = "Counter video records"
 +++
 
+
 ## General
 ### shAnkarans vs bauddhas on who can say "vedA is mithyA"  (subhagA-bhixu-nyAya)
 
@@ -87,7 +88,31 @@ Link to video contrasting vaiShNava and shaiva polytheism from neo-advaitin mono
 18:45 - An encouragement to direct and complete study of shankarAchArya, and shAstras rather than relying on a twisted tradition.
 </details>
 
-## maTHas
+## AchAra, temples, maTHas
+
+
+### shAnkara is dAsa in viShNu temple. mahA-periyavA & vaiShNava-s. upavIta. sight entails bath.
+
+Source: [TW](https://youtu.be/8aOROOEfX-U)
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+00:00 - Intro, laxmaNa
+00:55 - shrI vidhuShekhara bhAratI's darshana https://www.instagram.com/reel/DRw0rGgDOl-
+01:55 - shAnkaran fanatics seethe
+02:50 - Expected treatment in viShNu temples
+04:44 - archaka as representative of viShNu
+08:00 - shrI chandrashekharendra sarasvatI (mahA-periyava)
+09:17 - uttamUr vIrarAghava teaches from behind a screen.
+11:45 - shatadUShaNI
+14:30 - shrIvaiShNava excellence in shAnkara texts; teaching arrangement
+15:50 - devanAthAchAry(?) visit attempt
+17:00 - vaiShNava rules acknowledged in a sabhA by mahA-periyava
+21:05 - sva-pAka arrangement
+21:50 - vAjapeyI teacher seated higher.
+23:20 - conclusion
+</details>
+
+
 ### shAnkara (maTha) grip on reality. truth vs lies. shRngeri, tirupati & kAnchI viShNu temples.
 
 Source: [TW](https://youtu.be/IK508QgWreM)
