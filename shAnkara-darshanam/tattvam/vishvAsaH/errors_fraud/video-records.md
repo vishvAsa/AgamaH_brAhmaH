@@ -119,7 +119,8 @@ Source: [TW](https://youtu.be/IK508QgWreM)
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-A fair 3d presentation of tirupati temple - https://www.youtube.com/watch?v=ZsQ1Co-EbYU
+A fair 3d presentation of tirupati temple - https://www.youtube.com/watch?v=ZsQ1Co-EbYU  
+There is a person depicted sitting with a shaved head and 2 chinmudras, left hand above and right hand below on a pillar in front of vijaya. Doesn't match shankara iconography.
 
 00:00 - Intro
 01:00 - shAnkara pramANa-s
