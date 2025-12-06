@@ -119,10 +119,12 @@ Source: [TW](https://youtu.be/IK508QgWreM)
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
+A fair 3d presentation of tirupati temple - https://www.youtube.com/watch?v=ZsQ1Co-EbYU
+
 00:00 - Intro
 01:00 - shAnkara pramANa-s
 03:30 - shankara on priority of pratyaxa over shabda
-05:55 - vidhushekhara bhArati of daxiNAmnAya shRngerI shAradA pITha spreads canards about tirupati venkaTeshvara temple having dhanAkarShaNa yantra and shankara statue ( https://www.youtube.com/shorts/D740o7CHoGs )
+05:55 - shrI vidhushekhara bhArati of daxiNAmnAya shRngerI shAradA pITha spreads canards about tirupati venkaTeshvara temple having dhanAkarShaNa yantra and shankara statue ( https://www.youtube.com/shorts/D740o7CHoGs )
 07:35 - shankara image challenge
 12:20 - venkateshvara-prasAda-sharmA
 15:00 - kAnchI shankara-maTha's illusions about Varadaraja Swami Temple at Kanchipuram. ( https://x.com/KanchiMatham/status/1943156991272112254 )
