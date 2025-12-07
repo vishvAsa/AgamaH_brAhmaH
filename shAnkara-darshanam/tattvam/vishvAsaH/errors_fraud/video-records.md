@@ -94,6 +94,7 @@ Link to video contrasting vaiShNava and shaiva polytheism from neo-advaitin mono
 ### shAnkara is dAsa in viShNu temple. mahA-periyavA & vaiShNava-s. upavIta. sight entails bath.
 
 Source: [TW](https://youtu.be/8aOROOEfX-U)
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 00:00 - Intro, laxmaNa
@@ -101,7 +102,7 @@ Source: [TW](https://youtu.be/8aOROOEfX-U)
 01:55 - shAnkaran fanatics seethe
 02:50 - Expected treatment in viShNu temples
 04:44 - archaka as representative of viShNu
-08:00 - shrI chandrashekharendra sarasvatI (mahA-periyava)
+08:00 - shrI chandrashekharendra sarasvatI (mahA-periyava) https://youtu.be/2Y-lu8e3VIQ
 09:17 - uttamUr vIrarAghava teaches from behind a screen.
 11:45 - shatadUShaNI
 14:30 - shrIvaiShNava excellence in shAnkara texts; teaching arrangement

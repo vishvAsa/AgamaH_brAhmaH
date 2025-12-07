@@ -81,26 +81,3 @@ The particular interpretation by Acharya Shankara is incorrect, as can be notice
 ### Flimsy defences
 shAnkarans bring in "2.3.23, hetau" to explain the vibhakti in तेन. That doesn't explain how तेन and तस्य within the same verse refers to different subjects.
 
-### Bellamkonda Ramaraya
-Furtherance of the same comical tradition by a certain initiate (not a convert, as claimed) into shAnkarAdvaita named bellamkoNDa rAmarAya (supposedly a "kavIndra", haygrIvopAsaka etc..) - 
-
-Given this:
-
-नादत्ते कस्यचित्पापं न चैव सुकृतं विभु: ।  
-अज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तव: ॥ 15॥
-
-ज्ञानेन तु तदज्ञानं येषां नाशितमात्मन: ।
-तेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम् ॥ 16॥
-
-he comments -
-
-यत्तु रामानुजः --  
-तेषाम् इति विनष्टाज्ञानानां बहुत्वाभिधानाद् आत्म--स्व-रूप--बहुत्वम्  
-आदित्य-दृष्टान्तेन च प्रभा-प्रभावतोर् इव ज्ञातृ-ज्ञानयोर् अवस्थानम्  
-आत्मनो ज्ञानधर्मवत्त्वं च प्रतिपादितम् इति,  
-तत् तुच्छम् —  
-'तेन मुद्यन्ति जन्तव' इति पूर्वश्लोकोक्तं जन्तूनामिह तत्पदेन परामर्शात् ।  
-
-
-teShAm referring to something other than yeShAm of the same shloka is bizarre (as anyone with any experience with any language - let alone sanskrit - can verify), but that's in keeping with shankara's prior "brilliance" in this regard .
-

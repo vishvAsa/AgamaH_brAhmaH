@@ -47,7 +47,8 @@ The pillar itself clearly shows ([TW](https://x.com/starsurya1992/status/1943499
 kAnchI followers however happily ignore evidence.
 
 ## bellamkonDa-rAma-rAya
-See language errors separately.
+An initiate (not a convert, as claimed) into shAnkarAdvaita named bellamkoNDa rAmarAya (supposedly a "kavIndra", haygrIvopAsaka etc..).
+
 
 Criticism of rāmarāya for going against śaṅkarabhāṣya and brahmasūtra and for misrepresenting bhedābheda as viśiṣṭādvaita (6.30 and 19.50) -  
 [TW](https://youtu.be/Yuk_MzYj6YQ?t=452) इति कस्यचन शाङ्कर-विदुष एव भाषणम्। 
