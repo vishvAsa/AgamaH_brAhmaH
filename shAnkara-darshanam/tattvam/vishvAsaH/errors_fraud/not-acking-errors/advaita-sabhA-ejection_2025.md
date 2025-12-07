@@ -3693,7 +3693,7 @@ P
  enta mAtramuna evvaru talachina anta mAtramE neevu
 antarAntamu lenchi chooDa pinDantE nippaTi yannaTlu ||
 
- Oh Venkatapati,your presence and grace depend upon how well a person thinks about you.When I observe sincerely,it is just like the size and quality of a pan-cake depending on the batter. 
+ Oh Venkatapati,your presence and grace depend upon how well a person thinks about you. When I observe sincerely, it is just like the size and quality of a pan-cake depending on the batter. 
 
 AnnamachArya was an initiated shrIvaiShNava; so naturally, the implication is that shaivas etc.. get lesser grace based on their lesser understanding. ("अन्तवत्तु फलं तेषां तद्भ‍वत्यल्पमेधसाम् ।")
 **07/06/2025, 17:40 - V Subrahmanian:** That he differentiates Vedantins (Para Brahman) from Vaishnavas (Vishnu) is  notable.
