@@ -2,6 +2,9 @@
 title = "आचारः"
 +++
 
+## वादे भावः
+अन्यत्र दृश्यः Source: [TW](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/vishvAsaH/errors_fraud/AchAraH)। 
+
 ## सन्न्यासः
 उपवीत-हानं शास्त्र-विरुद्धम् इति सुष्ठु प्रतिपादितं  
 शतदूषण्यां [यतिलिङ्ग-भेद-भङ्ग-वादे](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/shata-dUShaNI/mUlam/64_yatilingabhedabhangavAdaH) वेङ्कटनाथार्येण । 
