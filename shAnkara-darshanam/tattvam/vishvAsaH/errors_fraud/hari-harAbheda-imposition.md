@@ -16,14 +16,14 @@ vinay: [TW](https://youtu.be/zcr2pQOtRDI?t=3361)
 ## annamAchArya
 vinay: [TW](https://youtu.be/zcr2pQOtRDI?t=646)
 
-- annamAchArya is said to be a devout shrI-vaiShNava, but his words are twisted, and he too is presented as a hari-harAbheda-vAdI.
+annamAchArya is admitted to be a devout shrI-vaiShNava, but his words are twisted, and he too is presented as a hari-harAbheda-vAdI. A look at all his other kIrtana-s would provide unambiguous info.
 
 The pallavi notably (following BG) provides context -
 
 > enta mAtramuna evvaru talachina anta mAtramE neevu  
 antarAntamu lenchi chooDa pinDantE nippaTi yannaTlu ||
 
->  Oh Venkatapati,your presence and grace depend upon how well a person thinks about you. When I observe sincerely, it is just like the size and quality of a pan-cake depending on the batter. 
+>  Oh Venkatapati, your presence and grace depend upon how well a person thinks about you. When I observe sincerely, it is just like the size and quality of a pan-cake depending on the batter. 
 
-AnnamachArya was an initiated shrIvaiShNava; so naturally, the implication is that shaivas etc.. get lesser grace based on their lesser understanding. ("अन्तवत्तु फलं तेषां तद्भ‍वत्यल्पमेधसाम् ।")
+AnnamachArya was an initiated shrIvaiShNava; so naturally, the implication is that shaivas etc.. get lesser grace based on their lesser understanding. ("अन्तवत् तु फलं तेषां तद् भ‍वत्य् अल्प-मेधसाम् ।")
 
