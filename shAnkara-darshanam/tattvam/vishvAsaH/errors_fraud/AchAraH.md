@@ -9,6 +9,8 @@ title = "आचारः"
 उपवीत-हानं शास्त्र-विरुद्धम् इति सुष्ठु प्रतिपादितं  
 शतदूषण्यां [यतिलिङ्ग-भेद-भङ्ग-वादे](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/shata-dUShaNI/mUlam/64_yatilingabhedabhangavAdaH) वेङ्कटनाथार्येण । 
 
+> No right for veda mantras except mahavakyas. Sringeri and kanchi yatis reciting veda mantras these days is new stuff. - RL
+
 ### वैष्णवैर् व्यवहारः
 - चन्द्रशेखरेन्द्र-सरस्वती - कुम्भकोणे वाजपेय-पाठो ऽत्र - [TW](https://youtu.be/2Y-lu8e3VIQ?t=245) । 
 
@@ -52,4 +54,5 @@ title = "आचारः"
 
 विधुशेखरभारती वृन्दावने - [TW](https://www.instagram.com/reel/DRw0rGgDOl-/?igsh=YjYyOWZuMzh4OGhx) ।  
 
-
+##### आगमोल्लङ्घनम्
+shrI vidhushekhara bhAratI of shRngerI maTha supposedly violating pAncharAtra Agama-s by entering garbha-gRha of Kallapiran Koil Srivaikuntham (an SV divya-desha); and even doing chandramoulishwara pooja in the precincts a few years ago. Source: [TW](https://x.com/dyugangaa/status/1997515909225959699)

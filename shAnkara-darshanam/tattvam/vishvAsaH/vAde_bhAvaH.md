@@ -29,9 +29,13 @@ title = "वादे भावः"
 
 
 ## छल-कपटादि
-चक्किल-वेङ्कटेशो ऽत्र - [TW](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/vishvAsaH/errors_fraud/chakkilam-venkatesh/)। 
+चक्किल-वेङ्कटेशो ऽत्र - [TW](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/vishvAsaH/errors_fraud/chakkilam-venkatesh/)। He "invited" people for video debate on Twitter and on videos, then backed away when the challenge was accepted (by blocking challengers on social media, deleting their comments).  See https://youtu.be/hjdiTt9ikaI
+
+Misrepresentation of other schools - vinay v [TW](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/vishvAsaH/errors_fraud/chakkilam-venkatesh/)।
 
 दोषानाङ्गीकारः - सुब्रह्मण्यादौ [TW](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/vishvAsaH/errors_fraud/video-records)
+
+
 
 ## कोपाटोपः
 > Based on your experience , have you ever seen a shAnkara who does not become angry when its key doctrine is challenged??
@@ -39,6 +43,20 @@ title = "वादे भावः"
 > – jiShNu (a nambUtiri, 2025)
 
 अयम् एव ममाप्य् अनुभवः। 
+
+### दुरभिमानः 
+
+kalyankumarmuthurajan5693 at YT - 
+
+> if you dont have respect for an aachaarya like bhagavadpada, bloody stay away from him.... you have no freaking business to be derogatory...   
+> call our aachaaryaa as shankaraacharrya first... we call him that way and if you refer to him, you are suppose to call him that way... you have no right to call him sankaran etc
+
+There is no disrespect intended in plain "shankara" or "rAmAnuja" - you're psychotic if you think otherwise, like muslims who insist on appending PBUH in front of mohammed.
+
+(yajurveda_hari blinded by rage - )
+
+> One of them said, putting "Adi" before Shankara is like PBUH it seems...Thoooo...  
+> Source: [TW](https://x.com/yajurveda_hari/status/1997963121512902848)
 
 ### अपसारणम्
 - हरीशः क्रोधेन यथास्थितं नावगत्यापाचकार [TW](https://x.com/yajurveda_hari/status/1997988954646466812?t=i4-2hmlv632e0ClIzA8yHA&s=08) 
@@ -48,6 +66,37 @@ title = "वादे भावः"
 Chakkilam Venkatesh misused of copyright law to silence critics - made YouTube takedown vishvAsa's video (pointing out his frauds) for over a fortnight. [TW](https://x.com/dyugangaa/status/1984650355498762259)
 
 Chakkilam Venkatesh deleted vishvAsa's objective critical comments under his videos. [TW](https://x.com/dyugangaa/status/1984650355498762259)
+
+Ejection by V subramanian. [TW](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/vishvAsaH/errors_fraud/video-records)
+
+<details><summary>YT comments (द्रष्टुं नोद्यम्)</summary>
+
+kalyankumarmuthurajan5693
+
+> i will get your channel shut down if you continue this personal attack...  
+
+I was not derogatory to your AchArya-s, neither am I making any personal attacks on them. I only encourage them to fully adhere to shankara's standards of truth. As such I am not scared of your baseless accusations and threats (typical of a shAnkara, unfortunately).
+
+</details>
+
+
+### अवहेलनम्
+भारतीतीर्थयतिः - [TW](https://x.com/agniyuta/status/1988500012096254093?t=x2EneNaOC8sYXJ0mHX9eYg&s=19)
+
+### दमोपदेशः
+> let us follow our vedanta and you follow yours peacefully  .. you are just fuelling more divide.
+
+> If you have knowledge go do discussion with scholars.
+
+As to doctrinal issues, I have discussed with your "scholars" and found them to be pathetic frauds -  https://youtu.be/joyvSgQvvb8 https://youtu.be/bJl8wumOIFw https://youtu.be/IbhlFO92ZMA https://youtu.be/0pyIqn9M0zk
+
+
+
+#### सत्येऽनादरः
+> TRUTH should be searched inside if you really want not condemning others just for number of views.
+
+There is such a thing as objective truth. Eg. you can go and see for yourself if there is a "dhanAkarShaNa yantra" or a mAdhva inscription. shankara agreed with this.
+
 
 ## मन्दता
 सुब्रह्मण्यादि - सुब्रह्मण्यादौ [TW](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/vishvAsaH/errors_fraud/video-records)।
