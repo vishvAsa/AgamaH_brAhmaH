@@ -4,6 +4,22 @@ title = "Counter video records"
 
 
 ## General
+
+### shrI bhAratI-tIrtha calls S a big fool? sapta-mAtRkAs. devatA-pAramya; uncivility, hypocracy. kn
+
+Source: [TW](https://youtu.be/veyCrI10fG8)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+00:00 - Intro
+00:30 - shrI bhAratI tIrtha on mahA-mUrkhas, monotheism - https://x.com/agniyuta/status/1988500012096254093
+01:10 - Implication on rAmAnuja, madhva. uncivility, bad depictions
+03:15 - shankara and kRShNa on devatA-pAramya - are they mahA-mUrkha-s?
+07:22 - shankara on rudras and Adityas. sUrya, vAyu, Indra ...
+10:35 - conclusion
+</details>
+
+
 ### shAnkarans vs bauddhas on who can say "vedA is mithyA"  (subhagA-bhixu-nyAya)
 
 Source: [TW](https://youtu.be/R5F0seTksBI)
