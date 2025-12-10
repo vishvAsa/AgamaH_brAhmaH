@@ -112,6 +112,13 @@ Source: [TW](https://youtu.be/TlDCwT5exe0)
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
+Original video - https://youtu.be/zcr2pQOtRDI?t=552
+
+Good references - 
+
+- telugu book, published by TTD, by the primary archaka himself = venkaTeshvarasvAmivAru (archAmUrti visheShAlu), by archaka-rAmakRShNa-dIxita may be referred to.
+- Actual depiction of the mUla-vigraha by an artist guided by the archaka - https://www.instagram.com/p/CSJZa5cgRVF/
+
 00:00 - Intro, importance of truth
 01:06 - Lies about tirupati venkaTeshvara
 01:40 - snake ornaments
