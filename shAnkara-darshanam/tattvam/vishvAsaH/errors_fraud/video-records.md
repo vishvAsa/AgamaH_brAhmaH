@@ -112,19 +112,17 @@ Source: [TW](https://youtu.be/TlDCwT5exe0)
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Original video - https://youtu.be/zcr2pQOtRDI?t=552
-
 Good references - 
 
 - telugu book, published by TTD, by the primary archaka himself = venkaTeshvarasvAmivAru (archAmUrti visheShAlu), by archaka-rAmakRShNa-dIxita may be referred to.
-- Actual depiction of the mUla-vigraha by an artist guided by the archaka - https://www.instagram.com/p/CSJZa5cgRVF/
+- Actual depiction of the mUla-vigraha by an artist guided by the archaka - https://www.youtube.com/watch?v=C_lPMtPgDOs, https://www.instagram.com/p/CSJZa5cgRVF/
 
 00:00 - Intro, importance of truth
 01:06 - Lies about tirupati venkaTeshvara
 01:40 - snake ornaments
 02:25 - mAnas's testimony about the dhruva-bera, vaikhAnasa archanA, jaTA (matted locks), Silappadikaram by sangam tamil poet ilango aDigAL
 06:12 - Genuine sources of information about tirupati.
-09:50 - vinay vArANasI's lies about tirupati venkaTeshvara & pey ALvAr
+09:50 - vinay vArANasI's lies about tirupati venkaTeshvara & pey ALvAr - Original video - https://youtu.be/zcr2pQOtRDI?t=552
 14:15 - pey ALvAr's verse's meaning
 16:20 - misrepresenting annamAchArya
 19:48 - misrepresenting jnAnasambandha
