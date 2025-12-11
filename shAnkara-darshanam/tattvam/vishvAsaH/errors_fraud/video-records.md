@@ -114,7 +114,7 @@ Source: [TW](https://youtu.be/TlDCwT5exe0)
 
 Good references - 
 
-- telugu book, published by TTD, by the primary archaka himself = venkaTeshvarasvAmivAru (archAmUrti visheShAlu), by archaka-rAmakRShNa-dIxita - https://ebooks.tirumala.org/read?id=25040&title=Sri%20Venakteswara%20Swamyvaru .
+- telugu book, published by TTD, by the primary archaka rAmakRShNa-dIxita = venkaTeshvarasvAmivAru (archAmUrti visheShAlu) - https://ebooks.tirumala.org/read?id=25040&title=Sri%20Venakteswara%20Swamyvaru .
 - Actual depiction of the mUla-vigraha by an artist guided by the archaka - https://www.youtube.com/watch?v=C_lPMtPgDOs, https://www.instagram.com/p/CSJZa5cgRVF/
 
 00:00 - Intro, importance of truth
