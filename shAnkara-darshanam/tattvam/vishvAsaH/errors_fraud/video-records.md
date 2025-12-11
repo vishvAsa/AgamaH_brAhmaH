@@ -114,7 +114,7 @@ Source: [TW](https://youtu.be/TlDCwT5exe0)
 
 Good references - 
 
-- telugu book, published by TTD, by the primary archaka himself = venkaTeshvarasvAmivAru (archAmUrti visheShAlu), by archaka-rAmakRShNa-dIxita may be referred to.
+- telugu book, published by TTD, by the primary archaka himself = venkaTeshvarasvAmivAru (archAmUrti visheShAlu), by archaka-rAmakRShNa-dIxita - https://ebooks.tirumala.org/read?id=25040&title=Sri%20Venakteswara%20Swamyvaru .
 - Actual depiction of the mUla-vigraha by an artist guided by the archaka - https://www.youtube.com/watch?v=C_lPMtPgDOs, https://www.instagram.com/p/CSJZa5cgRVF/
 
 00:00 - Intro, importance of truth
@@ -123,9 +123,9 @@ Good references -
 02:25 - mAnas's testimony about the dhruva-bera, vaikhAnasa archanA, jaTA (matted locks), Silappadikaram by sangam tamil poet ilango aDigAL
 06:12 - Genuine sources of information about tirupati.
 09:50 - vinay vArANasI's lies about tirupati venkaTeshvara & pey ALvAr - Original video - https://youtu.be/zcr2pQOtRDI?t=552
-14:15 - pey ALvAr's verse's meaning
+14:15 - pey ALvAr's verse's meaning - इरण्ड् उरुवुम् ऒऩ्ऱाय् इसैन्दु तोऩ्ऱुम् Two _forms_ are _appearing_ united.
 16:20 - misrepresenting annamAchArya
-19:48 - misrepresenting jnAnasambandha
+19:48 - misrepresenting jnAnasambandha (likely actually quoting Nataraja Carana Pattu of Sirumanavur Munuswamy Mudaliyar)
 
 </details>
 
@@ -160,6 +160,15 @@ Source: [TW](https://youtu.be/IK508QgWreM)
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 A fair 3d presentation of tirupati temple - https://www.youtube.com/watch?v=ZsQ1Co-EbYU  
+
+pradhAna archaka shrI rAmakRShNa dIxita himself has quoted and dismissed the canard spread by shrI vidhushekhara bhAratI in a TTD published book -
+
+> आदिशङ्कराचार्युलु रचिञ्चिन तिरुमलेशुनि स्तोत्रं एदी
+लेकपोवडं, शङ्करुलवारु, धनाकर्षण, जनाकर्षण यन्त्रालनु
+तिरुमललो प्रतिष्ठिञ्चिनट्लु प्रचारंलो उन्न विषयं पूर्तिगा अवास्तवं।
+
+https://ebooks.tirumala.org/read?id=25040&title=Sri%20Venakteswara%20Swamyvaru
+
 There is a person depicted sitting with a shaved head and 2 chinmudras, left hand above and right hand below on a pillar in front of vijaya. Doesn't match shankara iconography.
 
 00:00 - Intro

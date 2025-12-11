@@ -7,6 +7,11 @@ One is free to present one's views, but it would be good to do so without misrep
 ## Pey-ALHvAr
 [vinay vAraNAsI](https://youtu.be/zcr2pQOtRDI?t=552) - tirupati image does not have an axe or snake ornaments; rather venkaTeshvara manifested himself in that form for the ALHvAr, and he described it as such -  ([TW](https://www.youtube.com/watch?v=zPaJKAuB8Q0)) . Just as venkaTeshvara manifesting in the form of a fish, or tortoise doesn't mean he is identical with those animals; the same applies to this manifestation. Separation of deities may be verified from the ALvAr's other works. 
 
+> इरण्ड् उरुवुम् ऒऩ्ऱाय् इसैन्दु तोऩ्ऱुम्  
+> Two _forms_ are _appearing_ united.
+
+The word "uruvam" (उरुवुम्) (from rUpam) means form.  
+So, clearly it's a merging of mere "forms", not individuals, that is _appearing_ (not actually) united.
 
 ## jnAnasambandha
 vinay: [TW](https://youtu.be/zcr2pQOtRDI?t=3361)
