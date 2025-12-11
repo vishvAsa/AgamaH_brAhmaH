@@ -5,7 +5,7 @@ title = "Counter video records"
 
 ## General
 
-### shrI bhAratI-tIrtha calls S a big fool? sapta-mAtRkAs. devatA-pAramya; uncivility, hypocracy. kn
+### shrI bhAratI-tIrtha ⇒ S a big fool? sapta-mAtRkAs. devatA-pAramya; uncivility, hypocracy. kn
 
 Source: [TW](https://youtu.be/veyCrI10fG8)
 
@@ -138,14 +138,14 @@ Source: [TW](https://youtu.be/8aOROOEfX-U)
 
 00:00 - Intro, laxmaNa
 00:55 - shrI vidhuShekhara bhAratI's darshana https://www.instagram.com/reel/DRw0rGgDOl-
-01:55 - shAnkaran fanatics seethe
+01:55 - shAnkaran fanatics seethe (vs Post outrage edit https://www.instagram.com/reel/DSGy7aVDr4I/)
 02:50 - Expected treatment in viShNu temples
 04:44 - archaka as representative of viShNu
 08:00 - shrI chandrashekharendra sarasvatI (mahA-periyava) https://youtu.be/2Y-lu8e3VIQ
 09:17 - uttamUr vIrarAghava teaches from behind a screen.
 11:45 - shatadUShaNI
 14:30 - shrIvaiShNava excellence in shAnkara texts; teaching arrangement
-15:50 - devanAthAchAry(?) visit attempt
+15:50 - devanAthAchArya(?) visit attempt
 17:00 - vaiShNava rules acknowledged in a sabhA by mahA-periyava
 21:05 - sva-pAka arrangement
 21:50 - vAjapeyI teacher seated higher.
