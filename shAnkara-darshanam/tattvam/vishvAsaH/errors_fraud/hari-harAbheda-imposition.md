@@ -10,7 +10,7 @@ One is free to present one's views, but it would be good to do so without misrep
 > इरण्ड् उरुवुम् ऒऩ्ऱाय् इसैन्दु तोऩ्ऱुम्  
 > Two _forms_ are _appearing_ united.
 
-The word "uruvam" (उरुवुम्) (from rUpam) means form.  
+The word "uruvum" (उरुवुम्) (from rUpamum) means form.  
 So, clearly it's a merging of mere "forms", not individuals, that is _appearing_ (not actually) united.
 
 ## jnAnasambandha
