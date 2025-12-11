@@ -32,3 +32,7 @@ antarAntamu lenchi chooDa pinDantE nippaTi yannaTlu ||
 
 AnnamachArya was an initiated shrIvaiShNava; so naturally, the implication is that shaivas etc.. get lesser grace based on their lesser understanding. ("अन्तवत् तु फलं तेषां तद् भ‍वत्य् अल्प-मेधसाम् ।")
 
+## purANa-stotra-mangling
+> There is a stotra to venkatesa by the saptarishis , called kali-santaarakam .  Each of them sings one shloka on him. In one place, the sloka explicitly says ramapati, but the smartas have started printing and you will find even audio songs on it as umapati.  
+> Eg. [TW](https://www.youtube.com/watch?v=OJVktoH0Oqo)
+
