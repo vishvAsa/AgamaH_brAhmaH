@@ -12,6 +12,13 @@ karma-yoga/ sannyAsa (for v1) → sattva-shuddhi → jnana-prapti → sarva-karm
 > The sequence of 5.12 is inviolable. However, it spans across several births.  
 > Source: [TW](https://www.advaita-vedanta.org/archives/advaita-l/2019-April/052051.html)
 
+गीताभाष्योपोद्घाते च स्पष्टम् उक्तम् - 
+
+> तस्यास्य गीता-शास्त्रस्य सङ्क्षेपतः प्रयोजनं  
+परं निःश्रेयसं  
+स-हेतुकस्य संसारस्यात्यन्तोपरम-लक्षणम् ।  
+तच् च सर्व-कर्म-संन्यास-पूर्वकाद् आत्म-ज्ञान-निष्ठा-रूपात् धर्मात् भवति ।
+
 ## चित्त-शुद्धिः
 - चित्त-शुद्धिं यावद् दर्शनान्तर-प्रक्रिया उपादेया इति केवलद्वैतिनः।
   - किञ्च "mystification" इति वारणीयं स्यात्। Ref - "Compromises in Advaita" - kuppusvAmi shAstrI.
