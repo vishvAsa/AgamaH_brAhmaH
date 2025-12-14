@@ -1,5 +1,5 @@
 +++
-title = "HariharAbheda imposition"
+title = "Imposition आरोपः"
 +++
 
 One is free to present one's views, but it would be good to do so without misrepresenting the views of other people.
