@@ -5,6 +5,27 @@ title = "Counter video records"
 
 ## General
 
+### hari-harAbheda confusion, monotheism polytheism pramANas evidence mImAMsA, veda smRti itihAsa purANa
+
+Source: [TW](https://youtu.be/OTEPHTx5h_Y)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+00:00 - Intro, shankara's opinion, devotion to nArAyaNa
+01:30 - Later confusion
+02:05 - tamiL sadas
+03:20 - pUrvapaxa translation vs siddhAnta
+04:55 - Antiquity of hariharAbheda
+09:00 - pramANa priority - Proper Epistemology
+10:20 - bheda in veda, fake concoctions
+15:30 - bheda in smRti
+17:45 - itihAsa superiority. bheda
+22:40 - bheda in purANa. superiority of viShNu-purANa
+25:55 - Finally ... abheda in purANas. hell, stomach ache etc..
+30:00 - Conclusion
+</details>
+
+
 ### shrI bhAratI-tIrtha ⇒ S a big fool? sapta-mAtRkAs. devatA-pAramya; uncivility, hypocracy. kn
 
 Source: [TW](https://youtu.be/veyCrI10fG8)
