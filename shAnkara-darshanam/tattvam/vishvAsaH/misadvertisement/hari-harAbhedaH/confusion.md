@@ -86,6 +86,20 @@ title = "Confusion भ्रमः"
 
 इत्थं नारायण-रुद्र-भेदस् स्पष्टः। 
 
+## वेदे ऽभेदः
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/46_indraM_mitraM.md" unfilled newLevelForH1="5" includeTitle="false"> 
+
+इ᳓न्द्रम् मित्रं᳓ व᳓रुणम् अग्नि᳓म् आहुर्  
+अ᳓थो दिव्यः᳓ स᳓ सुपर्णो᳓ गरु᳓त्मान्  
+ए᳓कं स᳓द् वि᳓प्रा बहुधा᳓ वदन्ति  
+अग्निं᳓ यम᳓म् मातरि᳓श्वानम् आहुः
+</div>  
+
+
+The third foot is very popular.  
+It is misinterpreted as saying that one brahman appears in multiple superficial forms.  
+Yes - One reality is spoken of in multiple ways (because it consists of multiple things). The idea that these distinctions are merely distinctions of "form", and not anything deeper does not hold up. There is no such claim in the original.
+
 ## स्मृतिषु भेदः
 मनुस्मृतौ नारायणस्य जगत्-कारणत्वम् प्रसिद्धम्, अन्येषां च जीवत्वम्।  
 यथा -
