@@ -4,6 +4,23 @@ title = "Counter video records"
 
 
 ## General
+### ekAtmatA-JnAna vs upadesha teaching - shAnkara paradox (kannaDa, sanskrit, english, hindI)
+Source: [TW](https://youtu.be/nwichamq47M)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+shrI bhAratI-tIrtha's video - https://x.com/agniyuta/status/2004204930186596655 https://www.youtube.com/watch?v=tEbcMMTNVCM
+
+00:00 - Intro
+01:30 - shrI bhAratI-tIrtha's defence of shAnkara advaita (with subtitles)
+02:15 - shankara's quote from ArambhAdhikaraNa
+04:35 - Unanswered objection (kannaDa version)
+09:45 - Unanswered objection (sanskrit version)
+13:00 - Unanswered objection (English version)
+16:45 - Unanswered objection (hindI version)
+22:15 - Conclusion
+</details>
+
 
 ### sheSha-sheShi-bhAva, sharIra-sharIri-bhAva, sarva-sharIritA of paramAtmA, sharIratA of jIva-AtmA
 Source: [TW](https://youtu.be/KxHmeD075mg)
