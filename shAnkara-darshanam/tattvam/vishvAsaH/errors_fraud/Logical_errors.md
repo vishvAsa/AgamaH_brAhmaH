@@ -25,7 +25,8 @@ If there are edges, we better say they are edges, and not you have to do tapas t
 veda being transactionally real (mithyA) only, can only be "guaranteed" to be true as far as other transactional reals (mithyA) are concerned (if there), and not about the ultimately real (brahman).
 
 ## Whence teaching?
-Video: [TW](https://youtu.be/FBmo0YvfPgA) . 
+Video: [TW](https://youtu.be/FBmo0YvfPgA) .  
+[TW](https://youtu.be/nwichamq47M)
 
 rAmAnuja mocks shAnkara teachings in commentary to BG 2.12.
 
