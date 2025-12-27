@@ -33,7 +33,9 @@ For the ekAtmatA-jnAnaniShTha, it is understandable if inevitable behavior like 
 
 For the non-ekAtmatA-jnAna-niShTha, preaching about ekAtmatA-jnAna does not make sense since, by definition, he himself does not have firm belief (niShThA) in it. So, in this case such behavior is not honest.
 
+Supposed examples of behavior consistent with ekAtmatA-jnAna-niShThA -  
 
+> Fully renounced and immersed in the highest non-dual realization, Sri Sadashiva Brahmendra observed absolute silence (mauna) for decades. His earthly life—said to span over eighty years—wandering blissfully along the banks of the Kaveri River, often naked or semi-naked, in a perpetual state of divine intoxication and samadhi. As a true Avadhuta, he had transcended all identification with the body, social conventions, and worldly interactions. Yet, even in this profound state of seclusion and silence, on extremely rare occasions he did interact with others. For instance: He would sometimes play joyfully with children, appearing as childlike himself despite his total detachment.
 
 ## अपशूद्राधिकरणे समस्या 
 यथाह रामानुजः - 
