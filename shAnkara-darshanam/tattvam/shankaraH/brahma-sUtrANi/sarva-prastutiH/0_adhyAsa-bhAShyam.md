@@ -765,6 +765,7 @@ Hence perception and the other means of right knowledge, and the Vedic texts hav
 सॊल्गिऱोम् तेहम्, इन्दिरियम् मुदलाऩवैगळिल् नाऩ्, ऎऩ्ऩुडैयदु ऎऩ्ऱ अबिमाऩम् इल्लादवऩुक्कु पिरमादा (अऱिगिऱवऩ्) ऎऩुम् तऩ्मै पॊरुन्दा तदिऩाल् प्रमाणत्तिल् प्रव्रुत्ति पॊरुन्दादु। इन्दिरियङ्गळै ऎडुत्तुक्कॊळ्ळामल् (उबयोगप् पडुत्तामल्) प्रत्यक्षम् मुदलिय व्यवहारम् सम्बविक्कादु अल्लवा? इन्दिरियङ्गळुक्कुम् अदिष्टाऩम् आच्रयमाऩ सरीरम् इल्लामल् व्यवहारम् सम्बविक्कादु। आत्मत्तऩ्मै एऱ्ऱप्पडाद तेहत्तैक्कॊण्डु यारुम् व्यवहरिप्पदुम् किडैयादु। इदुवॆल्लाम् इल्लामलिरुन्दालो, ऎव्विदप् पऱ्ऱुदलुमिल्लाद आत्मावुक्कु प्रमादावाग इरुक्कुम् तऩ्मै पॊरुत्तमागादु। प्रमादावाग इरुक्कुम् तऩ्मैयऩ्ऩियिलेयो, प्रमाणङ्गळुक्कु प्रव्रुत्ति किडैयादु। आगैयाल् अवित्यै युळ्ळवर्गळै विषयमागक्कॊण्डवै ताऩ् प्रत्यक्षम् मुदलाऩ प्रमाणङ्गळुम् सास्तिरङ्गळुम्।
 </details>
 
+### लोके पशुवत्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्वादिभिश्चाविशेषात्। 
@@ -780,29 +781,404 @@ Hence perception and the other means of right knowledge, and the Vedic texts hav
 पश्वादिभिश्चाविशेषात्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा हि पश्वादयः शब्दादिभिः श्रोत्रादीनां सम्बन्धे सति शब्दादिविज्ञाने प्रतिकूले जाते ततो निवर्तन्ते, अनुकूले च प्रवर्तन्ते; यथा दण्डोद्यतकरं पुरुषमभिमुखमुपलभ्य ‘मां हन्तुमयमिच्छति’ इति पलायितुमारभन्ते, हरिततृणपूर्णपाणिमुपलभ्य तं प्रति अभिमुखीभवन्ति; एवं पुरुषा अपि व्युत्पन्नचित्ताः क्रूरदृष्टीनाक्रोशतः खड्गोद्यतकरान्बलवत उपलभ्य ततो निवर्तन्ते, तद्विपरीतान्प्रति प्रवर्तन्ते। अतः समानः पश्वादिभिः पुरुषाणां प्रमाणप्रमेयव्यवहारः। पश्वादीनां च प्रसिद्धः अविवेकपुरस्सरः प्रत्यक्षादिव्यवहारः। तत्सामान्यदर्शनाद्व्युत्पत्तिमतामपि पुरुषाणां प्रत्यक्षादिव्यवहारस्तत्कालः समान इति निश्चीयते ।
+यथा हि पश्वादयः शब्दादिभिः श्रोत्रादीनां सम्बन्धे सति  
+शब्दादि-विज्ञाने प्रतिकूले जाते  
+ततो निवर्तन्ते,  
+अनुकूले च प्रवर्तन्ते; 
+</details>
+
+<details><summary>English</summary>
+
+Animals, when sounds or other sensible qualities affect their sense of hearing or other senses, recede or advance according as the idea derived from the sensation is a comforting or disquieting one. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा हि पश्वादयः शब्दादिभिः श्रोत्रादीनां सम्बन्धे सति शब्दादिविज्ञाने प्रतिकूले जाते ततो निवर्तन्ते, अनुकूले च प्रवर्तन्ते; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा दण्डोद्यत-करं पुरुषम् अभिमुखम् उपलभ्य  
+‘मां हन्तुम् अयम् इच्छति’  
+इति पलायितुम् आरभन्ते, 
+</details>
+
+<details><summary>English</summary>
+
+A cow, for instance, when she sees a man approaching with a raised stick in his hand, thinks that he wants to beat her, and therefore moves away; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा दण्डोद्यतकरं पुरुषमभिमुखमुपलभ्य ‘मां हन्तुमयमिच्छति’ इति पलायितुमारभन्ते, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हरित-तृण-पूर्ण-पाणिम् उपलभ्य  
+तं प्रति अभिमुखीभवन्ति; 
+</details>
+
+<details><summary>English</summary>
+
+while she walks up to a man who advances with some fresh grass in his hand. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+हरिततृणपूर्णपाणिमुपलभ्य तं प्रति अभिमुखीभवन्ति; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं पुरुषा अपि व्युत्पन्नचित्ताः  
+क्रूरदृष्टीन् आक्रोशतः खड्गोद्यत-करान् बलवत उपलभ्य  
+ततो निवर्तन्ते,  
+तद्विपरीतान् प्रति प्रवर्तन्ते। 
+</details>
+
+<details><summary>English</summary>
+
+Thus men also--who possess a higher intelligence--run away when [[p. 8]] they see strong fierce-looking fellows drawing near with shouts and brandishing swords; while they confidently approach persons of contrary appearance and behaviour. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं पुरुषा अपि व्युत्पन्नचित्ताः क्रूरदृष्टीनाक्रोशतः खड्गोद्यतकरान्बलवत उपलभ्य ततो निवर्तन्ते, तद्विपरीतान्प्रति प्रवर्तन्ते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः समानः पश्वादिभिः पुरुषाणां प्रमाणप्रमेयव्यवहारः। 
+</details>
+
+<details><summary>English</summary>
+
+We thus see that men and animals follow the same course of procedure with reference to the means and objects of knowledge. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतः समानः पश्वादिभिः पुरुषाणां प्रमाणप्रमेयव्यवहारः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पश्वादीनां च प्रसिद्धः +++(देहात्मयोर्)+++ अविवेकपुरस्सरः प्रत्यक्षादिव्यवहारः। 
+</details>
+
+<details><summary>English</summary>
+
+Now it is well known that the procedure of animals bases on the non-distinction (of Self and Non-Self); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+पश्वादीनां च प्रसिद्धः अविवेकपुरस्सरः प्रत्यक्षादिव्यवहारः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्-सामान्य-दर्शनाद्  
+व्युत्पत्तिमताम् अपि पुरुषाणां   
+प्रत्यक्षादि-व्यवहारस् तत्+++(→अविवेक)+++-कालः समान  
+इति निश्चीयते ।
+</details>
+
+<details><summary>English</summary>
+
+we therefore conclude that, as they present the same appearances, men also--although distinguished by superior intelligence--proceed with regard to perception and so on, in the same way as animals do; as long, that is to say, as the mutual superimposition of Self and Non-Self lasts. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्सामान्यदर्शनाद्व्युत्पत्तिमतामपि पुरुषाणां प्रत्यक्षादिव्यवहारस्तत्कालः समान इति निश्चीयते ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 पसु मुदलाऩवैगळिलिरुन्दु वित्यासमिल्लाद तिऩालुम्, पसु मुदलाऩवै, कादु मुदलाऩदिऱ्कुच् चप्तम् मुदलाऩदुडऩ् सम्बन्दम् एऱ्पडुम् पोदु, सप्तम् मुदलाऩदाल् एऱ्पडुम् अऱिवु प्रदिगूलमायिरुक्कैयिल् अदिलिरुन्दु तिरुम्बुगिऩ्ऱऩ। अनुगूलमायिरुक्कैयिल् प्रव्रुत्तिक्किऩ्ऱऩ अल्लवा? कम्बै ऒङ्गिय कैयै उडैय मऩिदऩै ऎदिरिल्गण्डु, 'इवऩ् ऎऩ्ऩै अडिक्क विरुम्बुगिऩ्ऱाऩ्' ऎऩ्ऱु ओडुवदऱ्कु आरम्बिक्किऩ्ऱऩ; पच्चैप्पुल् निऱैन्द कैयै युडैवऩागक् कण्डु अवऩै नोक्किच् चॆल्लुगिऩ्ऱऩ; ऎऩ्बदु ऎप्पडियो, अप्पडिये अऱिवुळ्ळ सित्तमुडैय मऩिदर्गळुम्गूड क्रूरमाऩ पार्वैयुळ्ळवर्गळाग, अदट्टुगिऱवर्गळाग वाळै ओङ्गिय कैयुळ्ळवर्गळागप् पलवाऩ्गळायिरुप्पवर्गळैक्कण्डु अवर्गळिडमिरुन्दु विलगुगिऱार्गळ्। अदऱ्कु नेर्माऱाय् इरुप्पवर्गळै उत्तेसित्तु नॆरुङ्गिऱार्गळ्। आगैयाल् प्रमाण प्रमेयव्य वहारम् मऩिदर्गळुक्कु पसु मुदलाऩ वैगळुडऩ् समाऩम्दाऩ्। पसु मुदलाऩवैगळुक्कु प्रत्यक्षम् मुदलिय व्यवहारम् पगुत्तऱि विल्लामैयै मुऩ्ऩिट्टे इरुक्किऱदु। अदऱ्कु समाऩमाय् इरुक्कुम् तऩ्मै काणप्पडुवदाल् अऱिवुळ्ळ मऩिदर्गळुक्कुम् कूड प्रत्यक्षम् मुदलिय व्यवहारम् अक्कालत्तिल् (व्यवहारम् सॆय्युम् समयत्तिल्) समाऩम् ऎऩ्ऱु तीर्माऩिक्कप्पडुगिऱदु।
 </details>
 
-शास्त्रीये तु व्यवहारे यद्यपि बुद्धिपूर्वकारी नाविदित्वा आत्मनः परलोकसम्बन्धमधिक्रियते, तथापि न वेदान्तवेद्यमशनायाद्यतीतमपेतब्रह्मक्षत्रादिभेदमसंसार्यात्मतत्त्वमधिकारेऽपेक्ष्यते, अनुपयोगात् अधिकारविरोधाच्च। प्राक् च तथाभूतात्मविज्ञानात् प्रवर्तमानं शास्त्रमविद्यावद्विषयत्वं नातिवर्तते। तथा हि — ‘ब्राह्मणो यजेत’ इत्यादीनि शास्त्राण्यात्मनि वर्णाश्रमवयोऽवस्थादिविशेषाध्यासमाश्रित्य प्रवर्तन्ते ।
+### शास्त्रीये न वेदान्तः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्रीये तु व्यवहारे  
+यद्य् अपि, बुद्धि-पूर्व-+++(शास्त्रोक्त-कर्म-)+++कारी +++(→नाधिक्रियते)+++,  
+नाविदित्वा आत्मनः परलोक-सम्बन्धम् अधिक्रियते, 
+</details>
+
+<details><summary>English</summary>
+
+With reference again to that kind of activity which is founded on the Veda (sacrifices and the like),  
+it is true indeed that the reflecting man who is qualified to enter on it,  
+does so not without knowing that the Self has a relation to another world;  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शास्त्रीये तु व्यवहारे यद्यपि बुद्धिपूर्वकारी नाविदित्वा आत्मनः परलोकसम्बन्धमधिक्रियते, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सास्तिरत्तैयॊट्टिऩ व्यवहारत्तिलो,  
+पुत्ति पूर्वमागच् चॆय्गिऱवऩ् तऩक्कु (आत्माविऱ्कु)  
+परलोगत्तुडऩ् सम्बन्दमुण्डॆऩ्बदै अऱियामल्  
+अदिगारम् पॆऱुवदु इल्लै ऎऩ्ऱु इरुन्दबोदिलुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथापि  
+न वेदान्त-वेद्यम् अशनायाद्य्-अतीतम् अपेत-ब्रह्म-क्षत्रादि-भेदम् असंसार्य्-आत्म-तत्त्वम् अधिकारे ऽपेक्ष्यते,  
+अनुपयोगात्, अधिकार-विरोधाच् च। 
+</details>
+
+<details><summary>English</summary>
+
+yet that qualification does not depend on the knowledge, derivable from the Vedānta-texts, of the true nature of the Self as free from all wants,  
+raised above the distinctions of the Brāhmaṇa and Kshattriya-classes and so on, transcending transmigratory existence. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथापि न वेदान्तवेद्यमशनायाद्यतीतमपेतब्रह्मक्षत्रादिभेदमसंसार्यात्मतत्त्वमधिकारेऽपेक्ष्यते, अनुपयोगात् अधिकारविरोधाच्च। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राक् च तथाभूतात्म-विज्ञानात् प्रवर्तमानं शास्त्रम्  
+अविद्यावद्-विषयत्वं नातिवर्तते। 
+</details>
+
+<details><summary>English</summary>
+
+For such knowledge is useless and even contradictory to the claim (on the part of sacrificers, &c. to perform certain actions and enjoy their fruits). And before such knowledge of the Self has arisen, the Vedic texts continue in their operation, to have for their object that which is dependent on Nescience. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राक् च तथाभूतात्मविज्ञानात् प्रवर्तमानं शास्त्रमविद्यावद्विषयत्वं नातिवर्तते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि — ‘ब्राह्मणो यजेत’ इत्यादीनि शास्त्राण्य्  
+आत्मनि वर्णाश्रम-वयोऽवस्थादि-विशेषाध्यासम् आश्रित्य प्रवर्तन्ते ।
+</details>
+
+<details><summary>English</summary>
+
+For such texts as the following, 'A Brāhmaṇa is to sacrifice,' are operative only on the supposition that on the Self are superimposed particular conditions such as caste, stage of life, age, outward circumstances, and so on. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा हि — ‘ब्राह्मणो यजेत’ इत्यादीनि शास्त्राण्यात्मनि वर्णाश्रमवयोऽवस्थादिविशेषाध्यासमाश्रित्य प्रवर्तन्ते ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
-सास्तिरत्तैयॊट्टिऩ व्यवहारत्तिलो, पुत्ति पूर्वमागच् चॆय्गिऱवऩ् तऩक्कु (आत्माविऱ्कु) परलोगत्तुडऩ् सम्बन्दमुण्डॆऩ्बदै अऱियामल् अदिगारम् पॆऱुवदु इल्लै ऎऩ्ऱु इरुन्दबोदिलुम्, अप्पडियिरुन्दालुम्गूड उबनिषत्तुक्कळिऩालेये अऱियत्तक्कदाय्, पसि मुदलियवैगळ् अऱ्ऱदाय्, प्राह्मणऩ् क्षत्रियऩ् मुदलाऩ वेऱ्ऱुमै विलगिऩदाय्, संसारियल्लाद, आत्मदत्वमाऩदु अव्वदिगार विषयत्तिल् वेण्डप्पडुवदिल्लै। उबयोगमिल्लादददिऩालुम् अदिगारत्तिऱ्कु विरोदमा यिरुप्पदिऩालुम् अव्विदमायुळ्ळ आत्मावै अऱिवदऱ्कु मुऩ्ऩाल् प्रवर्त्तिक्कुम् सास्तिरम् अवित्यैयुळ्ळवर्गळै विषयमागक् कॊण्ड तऩ्मैयुळ्ळदु ऎऩ्बदै मीऱविल्लै। अप्पडियेदाऩ् ‘प्राह्मणऩ् यागम् सॆय्यट्टुम्' ऎऩ्बदु मुदलाऩ सास्तिरङ्गळ् आत्माविऩिडत्तिल् वर्णम्, आसिरमम्, वयदु, निलै मुदलिय विसे षमायुळ्ळ अत्यासत्तै आसिरयित्तु प्रवर्त्तिक्किऩ्ऱऩ।
+अप्पडियिरुन्दालुम्गूड उबनिषत्तुक्कळिऩालेये अऱियत्तक्कदाय्, पसि मुदलियवैगळ् अऱ्ऱदाय्, प्राह्मणऩ् क्षत्रियऩ् मुदलाऩ वेऱ्ऱुमै विलगिऩदाय्, संसारियल्लाद, आत्मदत्वमाऩदु अव्वदिगार विषयत्तिल् वेण्डप्पडुवदिल्लै। उबयोगमिल्लादददिऩालुम् अदिगारत्तिऱ्कु विरोदमा यिरुप्पदिऩालुम् अव्विदमायुळ्ळ आत्मावै अऱिवदऱ्कु मुऩ्ऩाल् प्रवर्त्तिक्कुम् सास्तिरम् अवित्यैयुळ्ळवर्गळै विषयमागक् कॊण्ड तऩ्मैयुळ्ळदु ऎऩ्बदै मीऱविल्लै। अप्पडियेदाऩ् ‘प्राह्मणऩ् यागम् सॆय्यट्टुम्' ऎऩ्बदु मुदलाऩ सास्तिरङ्गळ् आत्माविऩिडत्तिल् वर्णम्, आसिरमम्, वयदु, निलै मुदलिय विसे षमायुळ्ळ अत्यासत्तै आसिरयित्तु प्रवर्त्तिक्किऩ्ऱऩ।
 </details>
 
-अध्यासो नाम स्तद्बुद्धिरित्यवोचाम। तद्यथा — पुत्रभार्यादिषु विकलेषु सकलेषु वा अहमेव विकलः सकलो वेति बाह्यधर्मानात्मन्यध्यस्यति। तथा देहधर्मान् ‘स्थूलोऽहं कृशोऽहं गौरोऽहं तिष्ठामि गच्छामि लङ्घयामि च’ इति। तथेन्द्रियधर्मान् ‘मूकः काणः क्लीबो बधिरोऽन्धोऽहम्’ इति; तथान्तःकरणधर्मान् कामसङ्कल्पविचिकित्साध्यवसायादीन्। एवमहंप्रत्ययिनमशेषस्वप्रचारसाक्षिणि प्रत्यगात्मन्यध्यस्य तं च प्रत्यगात्मानं सर्वसाक्षिणं तद्विपर्ययेणान्तःकरणादिष्वध्यस्यति। एवमयमनादिरनन्तो नैसर्गिकोऽध्यासो मिथ्याप्रत्ययरूपः कर्तृत्वभोक्तृत्वप्रवर्तकः सर्वलोकप्रत्यक्षः ।
+
+## अध्यासोदाहरणानि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अध्यासो नाम अतस्मिंस् तद्-बुद्धिर् इत्य् अवोचाम। 
+</details>
+
+<details><summary>English</summary>
+
+That by superimposition we have to understand the notion of something in some other thing we have already explained.  
+(The superimposition of the Non-Self will be understood more definitely from the following examples.) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अध्यासो नाम अतस्मिंस्तद्बुद्धिरित्यवोचाम। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् यथा —  
+पुत्र-भार्यादिषु विकलेषु सकलेषु वा  
+अहम् एव विकलः सकलो वेति  
+बाह्य-धर्मान् आत्मन्य् अध्यस्यति। 
+</details>
+
+<details><summary>English</summary>
+
+Extra-personal attributes are superimposed on the Self, if a man considers himself sound and entire, or the contrary, as long as his wife, children, and so on are sound and entire or not. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद्यथा — पुत्रभार्यादिषु विकलेषु सकलेषु वा अहमेव विकलः सकलो वेति बाह्यधर्मानात्मन्यध्यस्यति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा देह-धर्मान् +++(आत्मन्य् अध्यस्यति)+++ ‘स्थूलोऽहं कृशोऽहं गौरोऽहं तिष्ठामि गच्छामि लङ्घयामि च’ इति। 
+</details>
+
+<details><summary>English</summary>
+
+Attributes of the body are superimposed on the Self, if a man [[p. 9]] thinks of himself (his Self) as stout, lean, fair, as standing, walking, or jumping.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा देहधर्मान् ‘स्थूलोऽहं कृशोऽहं गौरोऽहं तिष्ठामि गच्छामि लङ्घयामि च’ इति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथेन्द्रियधर्मान् +++(आत्मन्य् अध्यस्यति)+++ ‘मूकः काणः क्लीबो बधिरोऽन्धोऽहम्’ इति; 
+</details>
+
+<details><summary>English</summary>
+
+Attributes of the sense-organs, if he thinks 'I am mute, or deaf, or one-eyed, or blind.'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथेन्द्रियधर्मान् ‘मूकः काणः क्लीबो बधिरोऽन्धोऽहम्’ इति; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथान्तःकरणधर्मान् +++(आत्मन्य् अध्यस्यति)+++ काम-सङ्कल्प-विचिकित्साऽध्यवसायादीन्। 
+</details>
+
+<details><summary>English</summary>
+
+Attributes of the internal organ when he considers himself subject to desire, intention, doubt, determination, and so on. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथान्तःकरणधर्मान् कामसङ्कल्पविचिकित्साध्यवसायादीन्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् अहं-प्रत्ययिनम्  
+अशेष-स्व-प्रचार-साक्षिणि प्रत्यग्-आत्मन्य् अध्यस्य  
+
+तं च प्रत्यग्-आत्मानं सर्व-साक्षिणं  
+तद्-विपर्ययेणान्तः-करणादिष्व् अध्यस्यति। 
+</details>
+
+<details><summary>English</summary>
+
+Thus the producer of the notion of the Ego (i.e. the internal organ) is superimposed on the interior Self, which, in reality, is the witness of all the modifications of the internal organ, and vice versā the interior Self, which is the witness of everything, is superimposed on the internal organ, the senses, and so on. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवमहंप्रत्ययिनमशेषस्वप्रचारसाक्षिणि प्रत्यगात्मन्यध्यस्य तं च प्रत्यगात्मानं सर्वसाक्षिणं तद्विपर्ययेणान्तःकरणादिष्वध्यस्यति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् अयम् अनादिर् अनन्तो नैसर्गिको ऽध्यासो  
+मिथ्या-प्रत्यय-रूपः  
+कर्तृत्व-भोक्तृत्व-प्रवर्तकः सर्व-लोक-प्रत्यक्षः ।
+</details>
+
+<details><summary>English</summary>
+
+In this way there goes on this natural beginning--and endless superimposition, which appears in the form of wrong conception, is the cause of individual souls appearing as agents and enjoyers (of the results of their actions), and is observed by every one.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवमयमनादिरनन्तो नैसर्गिकोऽध्यासो मिथ्याप्रत्ययरूपः कर्तृत्वभोक्तृत्वप्रवर्तकः सर्वलोकप्रत्यक्षः ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
-अत्यासम् ऎऩ्बदु 'अदुवल्लाददिल् अदुवॆऩ्ऱ ऎण्णम्' ऎऩ्ऱु सॊऩ्ऩोम्। अदु ऎप्पडि ऎऩ्ऱाल् पुत्तिरऩ्, मऩैवि मुदलियवर्गळ् कुऱैप् पट्टबोदो, निऱैन्दुळ्ळबोदो, नाऩे कुऱैप्पट्टवऩ् ऎऩ्ऱो, निऱैन्दुळ्ळवऩ् ऎऩ्ऱो, वॆळियिलुळ्ळवर्गळिऩ् तर्मङ्गळै तऩ्ऩिडत्तिल् एऱ्ऱुक्कॊळ्गिऱाऩ्। अप्पडिये 'नाऩ् पॆरुत्तवऩ्, नाऩ् मॆलिन्दवऩ्, नाऩ् वॆळुप्पु, निऱ्किऱेऩ्, पोगिऱेऩ्, ताण्डुगिऱेऩ्' ऎऩ्ऱु तेहत्तिऩ् तर्मङ्गळैयुम्, - अप्पडिये 'नाऩ् ऊमै, ऒऱ्ऱैक् कण्णऩ्, नबुंसगऩ्, सॆविडु, कुरुडु, ऎऩ्ऱु इन्दिरिय तर्मङ्गळैयुम्, अप्पडिये आसै, सङ्गल्बम्, सन्देहम्,तीर्माऩम् मुदलिय अन्द:करण तर्मङ्गळैयुम् (एऱ्ऱिक्कॊळ्गिऱाऩ्)।' इव्विदमाग 'नाऩ्' ऎऩ्ऱ ऎण्णत्तै उडैयदै (अन्द: करणत्तै)युम् अदऩुडैय ऎल्ला व्याबारङ्गळुक्कुम् साक्षियायिरुन्दु वरुगिऱ उळ्ळे उळ्ळ आत्माविऩि टत्तिल् एऱ्ऱिक्कॊळ्वदुडऩ् इदऱ्कु माऱाग ऎल्लावऱ्ऱिऱ्कुम् साक्षियायुळ्ळ अन्द उळ्ळे इरुक्कुम् आत्मावैयुम् अन्द:करणम् मुदलियवैगळिल् एऱ्ऱुगिऱाऩ्। इव्विदम् आदियऱ्ऱदाय् मुडिवऱ्ऱदाय् वास्तवमिल्लाद ऎण्णत्तैत् तऩ्मैयायुडैयदाय् स्वबावमागवे इरुन्दुवरुम् इव्वत्यासम् कर्त्रुत्वम् (सॆय्गिऱवऩ् ऎऩ्ऱ निलै) पोक्त्रुत्वम् (अऩुबविक्किऱवऩ् ऎऩ्ऱ निलै) इवैगळै उण्डु पण्णुवदाय् ऎल्ला उलगत्तारुक्कुम् प्रत्यक्ष मायुळ्ळदु (नऩ्गु तॆरिन्द विषयम्)।
+अत्यासम् ऎऩ्बदु 'अदुवल्लाददिल् अदुवॆऩ्ऱ ऎण्णम्' ऎऩ्ऱु सॊऩ्ऩोम्। अदु ऎप्पडि ऎऩ्ऱाल् पुत्तिरऩ्, मऩैवि मुदलियवर्गळ् कुऱैप् पट्टबोदो, निऱैन्दुळ्ळबोदो, नाऩे कुऱैप्पट्टवऩ् ऎऩ्ऱो, निऱैन्दुळ्ळवऩ् ऎऩ्ऱो, वॆळियिलुळ्ळवर्गळिऩ् तर्मङ्गळै तऩ्ऩिडत्तिल् एऱ्ऱुक्कॊळ्गिऱाऩ्। अप्पडिये 'नाऩ् पॆरुत्तवऩ्, नाऩ् मॆलिन्दवऩ्, नाऩ् वॆळुप्पु, निऱ्किऱेऩ्, पोगिऱेऩ्, ताण्डुगिऱेऩ्' ऎऩ्ऱु तेहत्तिऩ् तर्मङ्गळैयुम्, - अप्पडिये 'नाऩ् ऊमै, ऒऱ्ऱैक् कण्णऩ्, नबुंसगऩ्, सॆविडु, कुरुडु, ऎऩ्ऱु इन्दिरिय तर्मङ्गळैयुम्, अप्पडिये आसै, सङ्गल्बम्, सन्देहम्,तीर्माऩम् मुदलिय अन्द:करण तर्मङ्गळैयुम् (एऱ्ऱिक्कॊळ्गिऱाऩ्)।'  
+इव्विदमाग 'नाऩ्' ऎऩ्ऱ ऎण्णत्तै उडैयदै (अन्द: करणत्तै)युम्  
+अदऩुडैय ऎल्ला व्याबारङ्गळुक्कुम्  
+साक्षियायिरुन्दु वरुगिऱ उळ्ळे उळ्ळ आत्माविऩिटत्तिल् एऱ्ऱिक्कॊळ्वदुडऩ् 
+इदऱ्कु माऱाग ऎल्लावऱ्ऱिऱ्कुम् साक्षियायुळ्ळ अन्द उळ्ळे इरुक्कुम् आत्मावैयुम् अन्द:करणम् मुदलियवैगळिल् एऱ्ऱुगिऱाऩ्।  
+इव्विदम् आदियऱ्ऱदाय् मुडिवऱ्ऱदाय् वास्तवमिल्लाद ऎण्णत्तैत् तऩ्मैयायुडैयदाय् स्वबावमागवे इरुन्दुवरुम् इव्वत्यासम् कर्त्रुत्वम् (सॆय्गिऱवऩ् ऎऩ्ऱ निलै) पोक्त्रुत्वम् (अऩुबविक्किऱवऩ् ऎऩ्ऱ निलै) इवैगळै उण्डु पण्णुवदाय् ऎल्ला उलगत्तारुक्कुम् प्रत्यक्ष मायुळ्ळदु (नऩ्गु तॆरिन्द विषयम्)।
 </details>
 
-अस्यानर्थहेतोः प्रहाणाय आत्मैकत्वविद्याप्रतिपत्तये सर्वे वेदान्ता आरभ्यन्ते। यथा चायमर्थः सर्वेषां वेदान्तानाम् , तथा वयमस्यां शारीरकमीमांसायां प्रदर्शयिष्यामः ।
+## वेदान्ताः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्यानर्थहेतोः प्रहाणाय  
+आत्मैकत्व-विद्या-प्रतिपत्तये  
+सर्वे वेदान्ता आरभ्यन्ते। 
+</details>
+
+<details><summary>English</summary>
+
+With a view to freeing one's self from that wrong notion which is the cause of all evil and attaining thereby the knowledge of the absolute unity of the Self the study of the Vedānta-texts is begun. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अस्यानर्थहेतोः प्रहाणाय आत्मैकत्वविद्याप्रतिपत्तये सर्वे वेदान्ता आरभ्यन्ते। 
+</details>
+
+## प्रतिज्ञा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा चायमर्थः सर्वेषां वेदान्तानाम् ,  
+तथा वयम् अस्यां शारीरक-मीमांसायां प्रदर्शयिष्यामः ।
+</details>
+
+<details><summary>English</summary>
+
+That all the Vedānta-texts have the mentioned purport we shall show in this so-called Śārīraka-mīmāṁsā [^fn_54].
+
+[^fn_54]: 9:1 The Mīmāṁsā, i.e. the enquiry whose aim it is to show that the embodied Self, i.e. the individual or personal soul is one with Brahman. This Mīmāṁsā being an enquiry into the meaning of the Vedānta-portions of the Veda, it is also called Vedānta mīmāṁsā.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा चायमर्थः सर्वेषां वेदान्तानाम् , तथा वयमस्यां शारीरकमीमांसायां प्रदर्शयिष्यामः ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
