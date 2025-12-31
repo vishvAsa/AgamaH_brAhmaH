@@ -76,6 +76,9 @@ Original video - https://www.youtube.com/watch?v=CRVweo9_0zY
 12:20 - multiplicity of devatAs - polytheism is superior to monotheism under advaitin garb.
 </details>
 
+Notable comments - 
+
+- Let us take viShNu is meghavarNa - still, being shuklAmbaradhara (covered in white), he would be shashivarNa (moon being mostly white, with some dark spots exposed). Traditionally, the shloka is used for viShNu, not gaNapati.
 
 ## chakkilam venkaTesh's errors on nRsiMha-pUrva-tApinI/ tapanIya upaniShat नृसिंहपूर्वतापिन्युपनिषत्
 
