@@ -93,4 +93,4 @@ Some quote -
 
 and say that he was an avatAra of shiva born to delude people.
 
-Example: [ISKCON](https://x.com/Sanatanatravelr/status/1940831004354376025?t=Cjdw6XkGdFpalohLQNgmmQ&s=19)
+Example: [ISKCON](https://x.com/Sanatanatravelr/status/1940831004354376025)
