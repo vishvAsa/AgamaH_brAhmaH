@@ -7,6 +7,21 @@ Common misunderstandings held by lay public, like shankara authoring 100s of (of
 
 Besides this, there is risible confusion about shankara's date, with some dating him to the BCE era. 
 
+## siddha endorsement
+Seeing a philosophy embodied in a person tells us how good it is like nothing else.   
+
+Personally interacting with erudite shAnkara-s (even supposed brahmajnAni-s) and vaiShNava AchArya-s struck me how inferior the former are relative to the latter in terms of human qualities and happiness. (Examples: [TW](/AgamaH/shAnkara-darshanam/tattvam/vishvAsaH/vAde_bhAvaH)) Intellectual understanding of the hollowness of shAnkara-s came later. 
+
+> Ramana Maharishi, samartha Ramadas, yogiram suratkumar, seshadri swamigal, Maha Periyava, Sri Ramakrishna Paramahamsa, Nisargadatta Maharaj etc all confirmed to advaita sampradaya.  These are big names and I'm sure that no one questions their knowledge and experience.
+
+Well, we do. ramaNa and such have experienced the joy of AtmA-jnAna or kaivalya (which is a magnificent thing), not actual mukti. rAmakRShNa practiced complete surrender to kAlI while mouthing some unclear advaita once in a while; and he was into _saguNa-brahman_ which we don't deny. Note - vishiShTAdvaita is not opposed to a sort of unity between jIva and brahman either.
+
+On the other hand, one can quote other siddha-s like nammALvAr, rAghavendra etc.. who refuted advaita. So, this is not evidence.
+
+> we do not see mahatmas like Vedanta Desikan and Manavala Mamugal from the Sri sampradaya and someone like Raghavendra Theertha from dvaita sampradaya anymore
+
+We do see joyous bhAgavata-s, like mukkur lakshminarasimhachariar, abhinava deshika, ayyA devanAthAchArya and so on.
+
 ## shRngeri-maTha
 ### vidhu-shekhara-bhAratI
 shrI vidhushekhara bhAratI of shRngeri pITha spread canards about some "dhanAkarShaNa-yantra" and shankarachArya statue at a certain specific location in tirupati temple - [TW](https://youtube.com/shorts/D740o7CHoGs?si=PCBJQhYoOYwc1UrH)  

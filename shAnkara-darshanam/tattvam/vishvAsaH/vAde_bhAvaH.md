@@ -42,7 +42,7 @@ Misrepresentation of other schools - vinay v [TW](/AgamaH_brAhmaH/shAnkara-darsh
 > 
 > – jiShNu (a nambUtiri, 2025)
 
-अयम् एव ममाप्य् अनुभवः। 
+अयम् एव ममाप्य् अनुभवः। I mentioned some of this at https://youtu.be/hjdiTt9ikaI (See [video records CV](../chakkilam-venkaTesh/video-records)). 
 
 ### दुरभिमानः 
 

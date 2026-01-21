@@ -148,6 +148,32 @@ Censorship - Comment highlighting the fabrication (seen in the video) was rapidl
 05:30 - Invitation for correction.
 </details>
 
+## Do you want to be advaita-vedAntAchArya like chakkilam venkaTesh?
+
+Source: [TW](https://youtu.be/hjdiTt9ikaI)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Fraudulent quotations - https://youtu.be/RPMtkEPuV2E
+Chakkilam venkaTesh's YT posts - https://www.youtube.com/@advtvdnt/posts
+Making excuses for fake _verbatim_ quotations by claiming "paraphrasing" - https://x.com/chakkilamvenky1/status/1985908638691836234 
+
+One of many invitations for video debate - https://x.com/chakkilamvenky1/status/1978348618047193176 
+Blocking people who accepted his debate challenge - https://x.com/anaghastrah/status/1983956954922754544/photo/1 
+Blocking people who question eslewhere - https://x.com/dyugangaa/status/1985522999702012232
+
+Astounding arrogance given the incompetence -  https://x.com/rockhearted_/status/1985998299380474023
+
+Miscelleneous credentials including in vyAkaraNa (violated in the fake VP quote) - https://x.com/anaghastrah/status/1986107163430039981
+
+shringeri pITha's Aham brahmAsmi foundation page - https://ahambrahmaasmi.org/about-us/
+
+00:00 intro
+03:40 unmerited arrogance
+08:41 Dominant shAnkaran attitude
+16:08 Blocks on accepted challenges.
+</details>
+
 
 ## Errors by Chakkilam Venkatesh on Gītā 2.24, multiplicity of jIva-s, Vaikuntha
 
