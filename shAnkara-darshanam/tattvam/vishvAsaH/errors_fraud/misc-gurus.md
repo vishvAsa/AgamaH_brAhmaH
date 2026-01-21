@@ -14,7 +14,11 @@ Personally interacting with erudite shAnkara-s (even supposed brahmajnAni-s) and
 
 > Ramana Maharishi, samartha Ramadas, yogiram suratkumar, seshadri swamigal, Maha Periyava, Sri Ramakrishna Paramahamsa, Nisargadatta Maharaj etc all confirmed to advaita sampradaya.  These are big names and I'm sure that no one questions their knowledge and experience.
 
-Well, we do. ramaNa and such have experienced the joy of AtmA-jnAna or kaivalya (which is a magnificent thing), not actual mukti. rAmakRShNa practiced complete surrender to kAlI while mouthing some unclear advaita once in a while; and he was into _saguNa-brahman_ which we don't deny. Note - vishiShTAdvaita is not opposed to a sort of unity between jIva and brahman either.
+Well, we do. ramaNa and such have experienced the joy of AtmA-jnAna or even attained kaivalya (which is a magnificent thing), not actual mukti. 
+
+rAmakRShNa practiced complete surrender to kAlI while mouthing some unclear advaita once in a while; and he was into _saguNa-brahman_ which we don't deny. Note - vishiShTAdvaita is not opposed to a sort of unity between jIva and brahman either.
+
+Further it should be noted that neuro-atypical self-absorbed behavior is not an ideal to strive towards. Rather, we find laxmaNa and bharata to be superior ideals.
 
 On the other hand, one can quote other siddha-s like nammALvAr, rAghavendra etc.. who refuted advaita. So, this is not evidence.
 
