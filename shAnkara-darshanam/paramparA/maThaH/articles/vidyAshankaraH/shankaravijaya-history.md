@@ -110,7 +110,7 @@ The most influential scholarly theory, proposed by scholars like **Paul Hacker**
 While the Vijayanagara thesis is dominant, many scholars now favor a more nuanced model of gradual evolution rather than a single founding event.
 
 *   **Inspiration, Not Foundation:** Śaṅkara likely inspired numerous hermitages and teaching centers. His disciples and grand-disciples would have carried on his legacy in different regions.
-*   **Organic Growth:** Over several centuries, some of these centers (like Śṛṅgeri) gained prominence due to royal patronage or influential teachers. The provided text supports this by mentioning a **1235 CE seal of Vidyāśaṅkara**, indicating a significant monastic center at Śṛṅgeri over a century *before* the founding of Vijayanagara.
+*   **Organic Growth:** Over several centuries, some of these centers (like Śṛṅgeri) gained prominence due to royal patronage or influential teachers. The provided text supports this by mentioning a **1235 CE seal of Vidyāśaṅkara**, indicating a significant monastic center at Śṛṅgeri over a century *before* the founding of Vijayanagara. +++(Or it could indicate movement of a disciple there.)+++
 *   **Later Consolidation:** Influential leaders like **Vidyāraṇya** (14th century) and **Madhusūdana Sarasvatī** (16th century) were likely key figures who organized these existing, prominent institutions into a codified, national network of "four cardinal maṭhas." They retroactively attributed the founding to Śaṅkara to give the system supreme authority and a timeless, sacred origin.
 
 Summary of Findings for Each Maṭha
@@ -217,9 +217,12 @@ This position may also be criticized for not being based on a comprehensive and 
 ### Daśanāmi association
 That, however, is not the goal of the present discussion. As far as historical issues brought up by the Śaṅkaravijaya texts are concerned, it is sufficient to acknowledge that the widespread Daśanāmi orders have traditionally preserved a memory of an intimate association of Śaṅkara and his disciples with the four āmnāya maṭhas at Śr̥ṅgeri, Dvārakā, Badrināth, and Puri. 
 
-##### kAnchI
-A simple explanation for this is that these four are the oldest maṭhas and that all other institutions, including the one at Kāñcī, originate from relatively later times. One could suppose that different Daśanāmi institutions came into being over a period of time and that important post-Śaṅkara leaders, like Vidyāraṇya or Madhusūdana Sarasvatī, consolidated the existing ones into a national network, with regional centers at the prominent maṭhas of their times. If so, there is no reason a maṭha in such an important pilgrimage center as Kāncīpuram would have been left out of all old Daśanāmi records. 
+##### Consolidation
+A simple explanation for this is that these four are the oldest maṭhas and that all other institutions, including the one at Kāñcī, originate from relatively later times. 
 
+One could suppose that different Daśanāmi institutions came into being over a period of time and that important post-Śaṅkara leaders, like Vidyāraṇya or Madhusūdana Sarasvatī, consolidated the existing ones into a national network, with regional centers at the prominent maṭhas of their times. If so, there is no reason a maṭha in such an important pilgrimage center as Kāncīpuram would have been left out of all old Daśanāmi records. 
+
+#####  kAnchI
 One could accept the contention of A. N. Aiyer and S. L. Śāstri (1962) that there has been an ancient and successful conspiracy to deny due recognition to the Kāñcī maṭha. This assumes a degree of concerted effort and internal cohesion on the part of all other Daśanāmi institutions that does not seem even remotely possible. It would be more reasonable to conclude, with Tapasyānanda (1980: xxiv), that whatever the actual origins of the four āmnāya maṭha tradition may be, the Kāñcī maṭha is a much younger institution.[^24] 
 
 ### Antarkar
