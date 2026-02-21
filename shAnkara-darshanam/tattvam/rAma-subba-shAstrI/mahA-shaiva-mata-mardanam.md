@@ -3565,31 +3565,27 @@ Although "harantam" (destroying) has a desire for an object (karma) as well as a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परं ब्रह्म हरि-भावापन्नम् एव शिव-भावम् आपद्यते, परात् परतरं ब्रह्म तत् परात् परतो हरिः ।
+परं ब्रह्म हरि-भावापन्नम् एव शिव-भावम् आपद्यते,  
+
+> परात् परतरं ब्रह्म  
+> तत्, परात् परतो हरिः ।  
+> तत्, परात् परतरो ऽधीशस्  
+> तन् मे मनः शिव-संकल्पम् अस्तु
+
+इति श्रुतेः ।
 </details>
 
 <details><summary>En - Gemini 2.5</summary>
 
 The Supreme Brahman, having attained the state of Hari, then attains the state of Shiva, as stated in the Shruti: "Brahman is superior to the superior, and Hari is superior to that superior."
+"And Ishvara is superior to that superior; may my mind be of auspicious resolve." 
+
+This is from the Shruti.
 </details>
 
 <details><summary>मूलम्</summary>
 
 परं ब्रह्म हरि-भावापन्नम् एव शिव-भावम् आपद्यते, परात् परतरं ब्रह्म तत् परात् परतो हरिः ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तत् परात् परतरोऽधीशस् तन् मे मनः शिव-संकल्पम् अस्तु इति श्रुतेः ।
-</details>
-
-<details><summary>En - Gemini 2.5</summary>
-
-"And Ishvara is superior to that superior; may my mind be of auspicious resolve." This is from the Shruti.
-</details>
-
-<details><summary>मूलम्</summary>
-
 तत् परात् परतरोऽधीशस् तन् मे मनः शिव-संकल्पम् अस्तु इति श्रुतेः ।
 </details>
 
@@ -3625,7 +3621,9 @@ Instead, it refers to the Supreme Brahman.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्-पराद् इत्यत्र तद् इति भिन्न-पदं न समस्तं, समस्तत्वे पर-ब्रह्मापेक्षया हरि-हरयोर् उत्कर्षापत्तेः ।
+"तत् पराद्" इत्य्-अत्र  
+तद् इति भिन्न-पदं, न समस्तं,  
+समस्तत्वे पर-ब्रह्मापेक्षया हरि-हरयोर् उत्कर्षापत्तेः । +++(4)+++
 </details>
 
 <details><summary>En - Gemini 2.5</summary>
@@ -3655,7 +3653,7 @@ In "tat parat," "tat" is a separate word, not a compound, because if it were a c
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्-ब्रह्म परात् परतरम् इत्य् एकं वाक्यम् ।
+"तद् ब्रह्म परात् परतरम्" इत्य् एकं वाक्यम् ।
 </details>
 
 <details><summary>En - Gemini 2.5</summary>
@@ -3685,7 +3683,7 @@ That Brahman has attained the state of Hari.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परात् परतरोऽधीश इति तृतीयं वाक्यम् ।
+"परात् परतरो ऽधीश" इति तृतीयं वाक्यम् ।
 </details>
 
 <details><summary>En - Gemini 2.5</summary>
@@ -3700,7 +3698,7 @@ That Brahman has attained the state of Hari.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस् तस्मात् मे मनः शिव-संकल्पं मङ्गल-संकल्पम् अस्त्व् इति साकाङ्क्षं चतुर्थं वाक्यम् ।
+**तस्** तस्मात् **मे मनः शिव-संकल्पं** मङ्गल-संकल्पम् **अस्त्व्** इति साकाङ्क्षं चतुर्थं वाक्यम् ।
 </details>
 
 <details><summary>En - Gemini 2.5</summary>
