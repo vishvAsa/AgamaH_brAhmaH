@@ -9,6 +9,13 @@ title = "आचारः"
 उपवीत-हानं शास्त्र-विरुद्धम् इति सुष्ठु प्रतिपादितं  
 शतदूषण्यां [यतिलिङ्ग-भेद-भङ्ग-वादे](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/shata-dUShaNI/mUlam/64_yatilingabhedabhangavAdaH) वेङ्कटनाथार्येण । 
 
+> ‘यज्ञोपवीतं वेदांश्च सर्वं तद्वर्जयेद्यतिः’
+
+इति शङ्करो बृहदारण्योपनिषद्-भाष्ये काम् अपि तथा-कथित-श्रुतिम् उदाहरति।  
+
+Recently shAnkaran yati-s have started reversing the latter (by reciting veda-s) -
+they might as well pick up shikhopavIta while at it.
+
 > No right for veda mantras except mahavakyas. Sringeri and kanchi yatis reciting veda mantras these days is new stuff. - RL
 
 ### वैष्णवैर् व्यवहारः
