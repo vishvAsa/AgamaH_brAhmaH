@@ -2,6 +2,28 @@
 title = "Video records"
 +++
 
+## chakkilam venkatesh lies about yAmuna, yavanAchArya. shankara accepts vaikuNTha,  a physical place
+
+Source: [TW](https://youtu.be/QWUD2Hy-jfI)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+00:00 - Intro
+00:45 - Chakkilam Venkatesh's frauds - https://youtu.be/UwavQTKrOTs?t=1327 https://youtu.be/svZ0M70VufM
+01:45 - yavanAchArya taught rAmAnuja? Or yAmunAchArya
+03:15 - Chakkilam Venkatesh's censorship attempt
+04:45 - Islam before Islam and shankara?
+05:20 - shankara's reference to viShNu's place (aka vaikuNTha) 
+06:30 - Multiple loka-s in vyAvahArika-sattA 
+08:15 - BG 15.06 - वैष्णवं धाम , विष्णोः पदम्
+10:20 - Not metaphorical. viShNu's place is yet another loka - whence one doesn't return.
+13:30 - 15.7 - Examples of returning to another place
+16:00 - Part of avidyA/ vyAvahArika-sattA - jIva is a part (not whole) of saguNa-brahma (viShNu). No reference to nirguNa-brahma.
+20:15 - Summary of shankara's opinion
+21:00 - Conclusion, chakkilam venkatesh's lies.
+</details>
+
+
 ## chakkilam venkaTesh's many lies about vaikhAnasa-s (also pAncharAtra, vishiShTAdvaita, rAmAnuja)
 
 Source: [TW](https://youtu.be/svZ0M70VufM)
