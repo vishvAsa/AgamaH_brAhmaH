@@ -21,6 +21,26 @@ If there are edges, we better say they are edges, and not you have to do tapas t
 - If brahman is the only real, what is avidyA, which apparently is a co-eternal? 
   - jivas having no beginning, as admitted by shankara, implies that avidyA too is beginningless. The only way out would be to say that avidyA (and jIva-s) can have an end; but we don't know if it will. 
 
+It's called advaita, because nirguNa brahman is supposedly the only real. Now if that's the case, where does avidyA and guNas come from?
+If nirguNa brahman already has avidyA - well it's not nirguNa. So check mate.
+
+<details><summary>Holograph (द्रष्टुं नोद्यम्)</summary>
+
+> A holograph contains within itself the thing it will project while at the same time being different from it. This is exactly what Brahman and Avidya are.
+
+This thing is not attributeless, of course. Here "perfect analogy" breaks down.
+</details>
+
+
+## avidyA primacy
+nirguNa does not "produce" saguNa - it does nothing. It's all an illusion of unknown / undescribable origin as per shAnkaras.
+
+> something eternally real can produce something eternally unreal...
+
+Not without this other thing, called "avidyA". Also, the NB being nir-guNa (attributeless), it can't "produce" anything with attributes; or have jIva-saving intention.
+
+Anything in the world we see (other than the pre-cog subjective I) is "production" of avidyA. So, by overwhelming margin, the "production" solely avidyA's
+
 ## मिथ्या-वेद-प्रामाण्यम्
 veda being transactionally real (mithyA) only, can only be "guaranteed" to be true as far as other transactional reals (mithyA) are concerned (if there), and not about the ultimately real (brahman).
 
