@@ -224,7 +224,7 @@ There is a person depicted sitting with a shaved head and 2 chinmudras, left han
 00:00 - Intro
 01:00 - shAnkara pramANa-s
 03:30 - shankara on priority of pratyaxa over shabda
-05:55 - shrI vidhushekhara bhArati of daxiNAmnAya shRngerI shAradA pITha spreads canards about tirupati venkaTeshvara temple having dhanAkarShaNa yantra and shankara statue ( https://www.youtube.com/shorts/D740o7CHoGs )
+05:55 - shrI vidhushekhara bhArati of daxiNAmnAya shRngerI shAradA pITha spreads canards about tirupati venkaTeshvara temple having dhanAkarShaNa yantra and shankara statue ( https://www.youtube.com/shorts/D740o7CHoGs ), supposedly misled by someone during a visit [TW](https://www.instagram.com/reel/DV-_6bmE4v4/).
 07:35 - shankara image challenge
 12:20 - venkateshvara-prasAda-sharmA
 15:00 - kAnchI shankara-maTha's illusions about Varadaraja Swami Temple at Kanchipuram. ( https://x.com/KanchiMatham/status/1943156991272112254 )
