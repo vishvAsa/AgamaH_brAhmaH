@@ -65,6 +65,9 @@ The pillar itself clearly shows ([TW](https://x.com/starsurya1992/status/1943499
 
 kAnchI followers however happily ignore evidence.
 
+### sureshvara vRndAvana
+A vijayanagaran copper plate establishes the location of the kAnchI shankara maTha in viShNu kAnchI. Then later moved to shiva-kAnchI. They have constructed a vRndAvana and ascribed it to shankara's disciple sureshvara there. (source - RL)
+
 ## bellamkonDa-rAma-rAya
 An initiate (not a convert, as claimed) into shAnkarAdvaita named bellamkoNDa rAmarAya (supposedly a "kavIndra", haygrIvopAsaka etc..).
 
