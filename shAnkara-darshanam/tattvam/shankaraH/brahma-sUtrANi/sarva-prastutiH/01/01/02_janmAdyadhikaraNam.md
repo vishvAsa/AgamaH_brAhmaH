@@ -3,24 +3,73 @@ title = "०२ जन्माद्यधिकरणम्"
 
 +++
 
-ब्रह्म जिज्ञासितव्यमित्युक्तम्। किंलक्षणकं पुनस्तद्ब्रह्मेत्यत आह भगवान्सूत्रकारः —
+## प्रवेशः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्म जिज्ञासितव्यमित्युक्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+So far it has been said that Brahman is to be enquired into. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्म जिज्ञासितव्यमित्युक्तम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किंलक्षणकं पुनस्तद्ब्रह्मेत्यत आह भगवान्सूत्रकारः —
+</details>
+
+<details><summary>English</summary>
+
+The question now arises what the characteristics of that Brahman are, and the reverend author of the Sūtras therefore propounds the following aphorism.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किंलक्षणकं पुनस्तद्ब्रह्मेत्यत आह भगवान्सूत्रकारः —
+
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 ऽ पिरह्मम् अऱिय विरुम्बप्पड वेण्डियदु ऎऩ्ऱु सॊल्लप्पट्टदु। अन्द पिरह्मम् ऎऩ्ऩ लक्षणमुडैयदु ऎऩ्बदऱ्काग पगवाऩ् सुत्रगारर् सॊल्गिऱार्।
 </details>
 
-जन्माद्यस्य यतः ॥ २ ॥  
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जऩ्मात्यदिगरणम् ॥ २ ॥
+जन्माद्यस्य यतः ॥ २ ॥
 </details>
 
-लक्षणं ब्रह्मणो नास्ति किंवाऽस्ति, नहि विद्यते ॥  
-जन्मादेरन्यनिष्ठत्वात्सत्यादेश्चाप्रसिद्धितः ॥ ३ ॥  
-ब्रह्मनिष्ठं कारणत्वं स्याल्लक्ष्म स्रग्भुजङ्गवत् ॥  
-लौकिकान्येव सत्यादीन्यखण्डं लक्षयन्ति हि ॥ ४ ॥  
+<details><summary>English</summary>
+
+2. (Brahman is that) from which the origin, &c. (i.e. the origin, subsistence, and dissolution) of this (world proceed).
+</details>
+
+<details><summary>मूलम्</summary>
+
+जन्माद्यस्य यतः ॥ २ ॥
+</details>
+  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+लक्षणं ब्रह्मणो नास्ति  
+किंवाऽस्ति, नहि विद्यते ॥  
+जन्मादेर् अन्यनिष्ठत्वात्  
+सत्यादेश् चाप्रसिद्धितः ॥ ३ ॥  
+ब्रह्मनिष्ठं कारणत्वं  
+स्याल्लक्ष्म स्रग्भुजङ्गवत् ॥  
+लौकिकान्येव सत्यादीन्य्  
+अखण्डं लक्षयन्ति हि ॥ ४ ॥  
 --वैयासिकन्यायमाला
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -32,7 +81,135 @@ title = "०२ जन्माद्यधिकरणम्"
 मालैक्कु पाम्बु पोल, पिरह्मत्तिलिरुक्कुम् कारणत् तऩ्मै लक्षणमागुम्। उलग पिरसित्तमाऩ सत्यम् मुदलाऩ सप्तङ्गळे अगण्डमायुळ्ळदै (पिरह्मत्तै) कुऱिक्कलामल्लवा?
 </details>
 
-जन्म उत्पत्तिः आदिः अस्य — इति तद्गुणसंविज्ञानो बहुव्रीहिः। जन्मस्थितिभङ्गं समासार्थः। जन्मनश्चादित्वं श्रुतिनिर्देशापेक्षं वस्तुवृत्तापेक्षं च। श्रुतिनिर्देशस्तावत् — ‘यतो वा इमानि भूतानि जायन्ते’ (तै. उ. ३। १। १) इति, अस्मिन्वाक्ये जन्मस्थितिप्रलयानां क्रमदर्शनात्। वस्तुवृत्तमपि — जन्मना लब्धसत्ताकस्य धर्मिणः स्थितिप्रलयसम्भवात्। अस्येति प्रत्यक्षादिसन्निधापितस्य धर्मिण इदमा निर्देशः। षष्ठी जन्मादिधर्मसम्बन्धार्था। यत इति कारणनिर्देशः ।
+## जन्मादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जन्म उत्पत्तिः आदिः अस्य — इति तद्गुणसंविज्ञानो बहुव्रीहिः। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+जन्म उत्पत्तिः आदिः अस्य — इति तद्गुणसंविज्ञानो बहुव्रीहिः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जन्मस्थितिभङ्गं समासार्थः। 
+</details>
+
+<details><summary>English</summary>
+
+The term, &c. implies subsistence and re-absorption.
+</details>
+
+<details><summary>मूलम्</summary>
+
+जन्मस्थितिभङ्गं समासार्थः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जन्मनश् चादित्वं श्रुतिनिर्देशापेक्षं वस्तुवृत्तापेक्षं च। 
+</details>
+
+<details><summary>English</summary>
+
+That the origin is mentioned first (of the three) depends on the declaration of Scripture as well as on the natural development of a substance. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जन्मनश्चादित्वं श्रुतिनिर्देशापेक्षं वस्तुवृत्तापेक्षं च। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रुतिनिर्देशस्तावत् — ‘यतो वा इमानि भूतानि जायन्ते’ (तै. उ. ३। १। १) इति, अस्मिन्वाक्ये जन्मस्थितिप्रलयानां क्रमदर्शनात्। 
+</details>
+
+<details><summary>English</summary>
+
+Scripture declares the order of succession of origin, subsistence, and dissolution in the passage, Taitt. Up. III, I, 
+
+> 'From whence these beings are born,' &c. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रुतिनिर्देशस्तावत् — ‘यतो वा इमानि भूतानि जायन्ते’ (तै. उ. ३। १। १) इति, अस्मिन्वाक्ये जन्मस्थितिप्रलयानां क्रमदर्शनात्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वस्तुवृत्तमपि — जन्मना लब्धसत्ताकस्य धर्मिणः स्थितिप्रलयसम्भवात्।
+</details>
+
+<details><summary>English</summary>
+
+And with regard to the second reason stated, it is known that a substrate of qualities can subsist and be dissolved only after it has entered, through origination, on the state of existence. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वस्तुवृत्तमपि — जन्मना लब्धसत्ताकस्य धर्मिणः स्थितिप्रलयसम्भवात्।
+</details>
+
+## अस्य
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्येति प्रत्यक्षादिसन्निधापितस्य धर्मिण इदमा निर्देशः। 
+</details>
+
+<details><summary>English</summary>
+
+The words 'of this' denote that substrate of qualities which is presented to us by perception and the other means of right knowledge; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अस्येति प्रत्यक्षादिसन्निधापितस्य धर्मिण इदमा निर्देशः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+षष्ठी जन्मादिधर्मसम्बन्धार्था। 
+</details>
+
+<details><summary>English</summary>
+
+the genitive case indicates it to be connected with origin, &c. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+षष्ठी जन्मादिधर्मसम्बन्धार्था। 
+</details>
+
+## यतः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत इति कारणनिर्देशः ।
+</details>
+
+<details><summary>English</summary>
+
+The words 'from which' denote the cause. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत इति कारणनिर्देशः ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -44,7 +221,87 @@ title = "०२ जन्माद्यधिकरणम्"
 जऩ्मम्, स्तिदि, नासम् (इम्मूऩ्ऱुम् सेर्न्दु) समासत्तिऩ् अर्त्तम्। जऩ्मत्तिऱ्कु आदियायिरुक्कुम् तऩ्मै सुरुदियिल् कुऱिप्पिट्टिरुप्पदै अबेक्षित्तुम्, वस्तुविऩुडैय निलैयै अबेक्षक्षित्तुम् सुरुदि कुऱिप्पिडुवदु ऎऩ्बदु "ऎदिलिरुन्दे इन्द पूदङ्गळ् जऩिक्किऩ्ऱऩवो” (तैत्तीरिय ३-१) ऎऩ्ऱ इन्द वाक्कियत्तिल् जऩ्म स्तिदि लयङ्गळुक्कु वरिसै किरमम् काणुवदाल्, वस्तुविऩ् निलै ऎऩ्बदु जऩऩत्तिऩाल् इरुप्पैयडैयुम् वस्तुवुक्कु स्तिदियुम् लयमुम् सम्बविक्किऱ पडियाल् ‘इदऩुडैय’ ऎऩ्बदिल्, पिरत्यक्षम् मुदलाऩवैगळाल् अऱियप्पट्टुळ्ळ वस्तु ‘इदु' ऎऩ्बदिऩाल् कुऱिप्पिडप्पडुगिऱदु; ('उडैय’ ऎऩ्ऱ) आऱाम् वेऱ्ऱुमै जऩ्मम् मुदलाऩ तर्मङ् गळुडऩ् सम्बन्दत्तै अर्त्तमागवुडैयदु। 'ऎदिलिरुन्दु' ऎऩ्बदु कारणमॆऩ्ऱु काट्टुवदु।
 </details>
 
-अस्य जगतो नामरूपाभ्यां व्याकृतस्य अनेककर्तृभोक्तृसंयुक्तस्य प्रतिनियतदेशकालनिमित्तक्रियाफलाश्रयस्य मनसाप्यचिन्त्यरचनारूपस्य जन्मस्थितिभङ्गं यतः सर्वज्ञात्सर्वशक्तेः कारणाद्भवति, तद्ब्रह्मेति वाक्यशेषः। अन्येषामपि भावविकाराणां त्रिष्वेवान्तर्भाव इति जन्मस्थितिनाशानामिह ग्रहणम्। यास्कपरिपठितानां तु ‘जायतेऽस्ति’ इत्यादीनां ग्रहणे तेषां जगतः स्थितिकाले सम्भाव्यमानत्वान्मूलकारणादुत्पत्तिस्थितिनाशा जगतो न गृहीताः स्युरित्याशङ्क्येत। तन्मा शङ्कि; इति या उत्पत्तिर्ब्रह्मणः, तत्रैव स्थितिः प्रलयश्च, त एव गृह्यन्ते ।
+## अध्याहारः, वाक्यार्थः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्य जगतो नामरूपाभ्यां व्याकृतस्य  
+अनेककर्तृभोक्तृसंयुक्तस्य  
+प्रतिनियत-देश-काल-निमित्त-क्रिया-फलाश्रयस्य  
+मनसाप्य् अचिन्त्य-रचना-रूपस्य  
+**जन्म**-स्थिति-भङ्गं **यतः** सर्वज्ञात् सर्वशक्तेः कारणाद् भवति,  
+तद् ब्रह्मेति वाक्यशेषः। 
+</details>
+
+<details><summary>English</summary>
+
+The full sense of the Sūtra therefore is: That omniscient omnipotent cause from which proceed the origin, subsistence, and dissolution of this world--which world is differentiated by names and forms, contains many agents and enjoyers, is the abode of the fruits of actions, these fruits having their definite places, times, and causes [^fn_65], and the nature of whose arrangement cannot even be conceived by the mind,--that cause, we say, is Brahman. 
+
+[^fn_65]: 16:1 So the compound is to be divided according to Ān. Gi. and Go.; the Bhā. proposes another less plausible division.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अस्य जगतो नामरूपाभ्यां व्याकृतस्य अनेककर्तृभोक्तृसंयुक्तस्य प्रतिनियतदेशकालनिमित्तक्रियाफलाश्रयस्य मनसाप्यचिन्त्यरचनारूपस्य जन्मस्थितिभङ्गं यतः सर्वज्ञात्सर्वशक्तेः कारणाद्भवति, तद्ब्रह्मेति वाक्यशेषः। 
+</details>
+
+## अन्यावस्थान्तर्भावः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्येषामपि भाव-विकाराणां त्रिष्व् एवान्तर्भाव इति  
+जन्मस्थितिनाशानाम् इह ग्रहणम्। 
+</details>
+
+<details><summary>English</summary>
+
+Since the other forms of existence (such as increase, decline, &c.) are included in origination, subsistence, and dissolution, only the three latter are referred to in the Sūtra. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्येषामपि भावविकाराणां त्रिष्वेवान्तर्भाव इति जन्मस्थितिनाशानामिह ग्रहणम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यास्कपरिपठितानां तु ‘जायतेऽस्ति’ इत्यादीनां ग्रहणे  
+तेषां जगतः स्थितिकाले सम्भाव्यमानत्वात्  
+मूलकारणाद् उत्पत्तिस्थितिनाशा जगतो न गृहीताः स्युर् 
+
+इत्याशङ्क्येत। 
+</details>
+
+<details><summary>English</summary>
+
+As the six stages of existence enumerated by Yāska [^fn_66] are possible only during the period of the world's subsistence, it might--were they referred to in the Sūtra--be suspected that what is meant are not the origin, subsistence, and dissolution (of the world) as dependent on the first cause. 
+
+[^fn_66]: 16:2 According to Nirukta I, 2 the six bhāvavikārāḥ are: origination, existence, modification, increase, decrease, destruction.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यास्कपरिपठितानां तु ‘जायतेऽस्ति’ इत्यादीनां ग्रहणे तेषां जगतः स्थितिकाले सम्भाव्यमानत्वान्मूलकारणादुत्पत्तिस्थितिनाशा जगतो न गृहीताः स्युरित्याशङ्क्येत। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन्मा शङ्कि; इति या उत्पत्तिर्ब्रह्मणः, तत्रैव स्थितिः प्रलयश्च, त एव गृह्यन्ते ।
+</details>
+
+<details><summary>English</summary>
+
+To preclude this suspicion the Sūtra is to be taken as referring, in addition to the world's origination from Brahman, only to its subsistence in Brahman, and final dissolution into Brahman.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तन्मा शङ्कि; इति या उत्पत्तिर्ब्रह्मणः, तत्रैव स्थितिः प्रलयश्च, त एव गृह्यन्ते ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
