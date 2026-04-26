@@ -3,13 +3,8 @@ title = "कस् सगुणम् ब्रह्म"
 unicode_script = "devanagari"
 +++
 
-<details><summary>English</summary>
 
-Direct quotes from shankara (and not mischievous "out of context" ones).  
-The maTha shAnkara-s are, actually, heretics misled by attribution of hundreds of later works to shankara.
-</details>
-
-
+## परिचयः
 यद्य् अपि शङ्करमतय् एकम् एवात्मा मायया बहुधा प्रतिभाति,  
 तादृशम् प्रतीयमानेष्व् एकतमम् एव  
 अकर्मवश्यं सगुणम् ब्रह्म।  
@@ -26,6 +21,12 @@ The maTha shAnkara-s are, actually, heretics misled by attribution of hundreds o
 प्रस्थानत्रयभाष्यकर्तृत्वं शङ्करकृतम् इति निर्विवादम्।  
 तथा सति, सगुणब्रह्मण एव ब्रह्मरुरादयो देवा रूपाणीति यति शङ्कराभिप्रायः, स तत्र विस्तीर्णे प्रस्थानत्रयभाष्ये स्फुटं स्याद्
 इति समञ्जसैवापेक्षा।
+
+<details><summary>English</summary>
+
+Direct quotes from shankara (and not mischievous "out of context" ones).  
+The maTha shAnkara-s are, actually, heretics misled by attribution of hundreds of later works to shankara.
+</details>
 
 ### विवादास्पदानाम् अप्रामाण्यम्
 शङ्करकर्तृत्वे प्रामाण्यम् [अन्यत्र](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/shankaraH/meta/shankara-kRtayaH) चर्चितम्। 
