@@ -12,7 +12,7 @@ title = "वादे भावः"
 
 तस्यानुवचनं यथा - [TW](https://x.com/agniyuta/status/1988500012096254093?t=x2EneNaOC8sYXJ0mHX9eYg&s=19) ।
 
-अन्तिमपादे तु वरदाचार्यः
+अन्तिम-पादे तु वरदाचार्यः
 
 > परं तु,
 >
@@ -23,10 +23,47 @@ title = "वादे भावः"
 > इति न्यायेन भेदाभेदयोः परस्पराभाव-रूपत्वेन  
 > +अन्यतरेणान्यतर+अनिषेधासंभवात् (नैवम्)।
 
+## पर-निराकरणापेक्षा
+> > ननु मुमुक्षूणां मोक्ष-साधनत्वेन सम्यग्-दर्शन-निरूपणाय  
+स्वपक्ष-स्थापनम् एव केवलं कर्तुं युक्तम्,  
+किं परपक्ष-निराकरणेन पर-विद्वेष-कारणेन।
+>
+> बाढम् एवम्।  
+तथापि महाजन-परिगृहीतानि महान्ति साङ्ख्यादि-तन्त्राणि  
+सम्यग्-दर्शनापदेशेन प्रवृत्तान्य् उपलभ्य  
+भवेत् केषाञ्चित् मन्द-मतीनाम्  
+एतान्य् अपि सम्यग्-दर्शनायोपादेयानीत्य् अपेक्षा।  
+तथा युक्ति-गाढत्व-सम्भवेन  
+सर्वज्ञ-भाषितत्वाच् च श्रद्धा च तेष्व् इत्य् अतस्  
+तद्-असारतोपपादनाय प्रयतते।
+
+इति शङ्करो ब्रह्मसूत्र-भाष्ये
+
 ## परमतांशाङ्गीकारः
 'परमतम् अप्रतिषिद्धं अनुमतम् भवति' इत्यप्य् अङ्गीकृतम्  सूत्रभाष्ये।
 प्रस्थानत्रयभाष्ये वाक्यानि सन्ति यत्र तन्मतनामकथनपूर्वकम् तत्प्रमेयाङ्गीकारः ।
 
+## सम्प्रदाय-ज्ञानाग्रहः
+> एवं मन्वानः यः सः पण्डितापसदः;  
+संसार-मोक्षयोः शास्त्रस्य चार्थवत्त्वं करोमीत्य् आत्महा  
+स्वयं मूढः  
+अन्यांश्च **व्यामोहयति**  
+शास्त्रार्थ-संप्रदाय-रहितत्वात्;  
+श्रुत-हानिम् अश्रुत-कल्पनां च कुर्वन्।  
+तस्मात् असंप्रदायवित् सर्वशास्त्रविदपि मूर्खवद् एवोपेक्षणीयः॥
+
+इति गीताभाष्ये "क्षेत्रज्ञ ईश्वर एव" इत्यादि-मन्तॄन् खण्डयति शङ्करः।  
+सन्दर्भं त्यक्त्वा, अन्तिमवाक्यमात्रम् आदाय  
+नव्य-शाङ्करा अन्यान् वादिनो निन्दन्ति।  
+तेभ्य एवं वाच्यम् - 
+
+> Is shankara calling himself a mUrkha?  
+Because he apparently did not belong to or understand the sampradAya-s of pAshupata-s and pAncharAtrika-s he dismissed.
+
+## पर-निन्दनम्
+इदं शङ्करेण क्वचित् कृतम्-  
+यथा - "पण्डितापसद" इत्यादाव् उपर्य्-उक्तरीत्या।   
+सौगतान् अपि निन्दति। 
 
 ## छल-कपटादि
 चक्किल-वेङ्कटेशो ऽत्र - [TW](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/vishvAsaH/errors_fraud/chakkilam-venkatesh/)। He "invited" people for video debate on Twitter and on videos, then backed away when the challenge was accepted (by blocking challengers on social media, deleting their comments).  See https://youtu.be/hjdiTt9ikaI
@@ -95,7 +132,7 @@ As to doctrinal issues, I have discussed with your "scholars" and found them to 
 #### सत्येऽनादरः
 > TRUTH should be searched inside if you really want not condemning others just for number of views.
 
-There is such a thing as objective truth. Eg. you can go and see for yourself if there is a "dhanAkarShaNa yantra" or a mAdhva inscription. shankara agreed with this.
+There is such a thing as objective truth. Eg. you can go and see for yourself if there is a "dhanAkarShaNa yantra" at tirupati or a mAdhva inscription in the kAnchi pillar. shankara agreed with this.
 
 
 ## मन्दता
