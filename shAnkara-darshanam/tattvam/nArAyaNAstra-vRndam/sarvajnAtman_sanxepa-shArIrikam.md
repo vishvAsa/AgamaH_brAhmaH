@@ -1,16 +1,7 @@
 +++
-title = "SarvajnAtman sanxepa-shArIrikam"
+title = "On SarvajnAtman sanxepa-shArIrikam"
 +++
-
-Choose your transliteration scheme for the Sanskrit portions:
-
-Romanized (Latin/English script - Default) script  
-Devanagari Lipi
-
-  
-  
-
-Introduction
+## Introduction
 
 This write-up is based on an important advaitic philosophical work of the 9th/10th Century, by an author called "Sarvajnatman". The name of the work is "saN^kShepa shAriiraka". The purpose of these write-ups is to show that in addition to Shankara, ancient advaitins who were his close followers held Vishnu alone as supreme.
 
