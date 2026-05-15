@@ -68,6 +68,14 @@ Anyway, what's your proof for any of what you say - veda is avidyA for you. So s
 
 veda being transactionally real (mithyA) only, can only be "guaranteed" to be true as far as other transactional reals (mithyA) are concerned (if there), and not about the ultimately real (brahman).
 
+Your faith in the ability of vedic avidyA to say anything about something totally outside it's purview and nature is amusing. If so, might as well replace it with buddha's avidyA.
+
+> dream-characters can make true factual statements about your real life.
+
+Which "factual statement" about nirguNa brahman (the only thing outside this "dream") have you verified? If not, how do you know it's "factual"?
+
+
+
 ## Whence teaching?
 Video: [TW](https://youtu.be/FBmo0YvfPgA) .  
 [TW](https://youtu.be/nwichamq47M)
