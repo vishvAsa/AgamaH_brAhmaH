@@ -17,11 +17,13 @@ It cannot be used as "proof", like - I can't explain or prove with words, you ha
 
 If there are edges, we better say they are edges, and not you have to do tapas to understand this.
 
-## avdiyA anirvachanIyA
-- If brahman is the only real, what is avidyA, which apparently is a co-eternal? 
-  - jivas having no beginning, as admitted by shankara, implies that avidyA too is beginningless. The only way out would be to say that avidyA (and jIva-s) can have an end; but we don't know if it will. 
+## avdiyA reality
+If brahman is the only real, what is avidyA, which apparently is a co-eternal? 
+  
+jivas having no beginning, as admitted by shankara, implies that avidyA too is beginningless. The only way out would be to say that avidyA (and jIva-s) can have an end; but we don't know if it will. 
 
 It's called advaita, because nirguNa brahman is supposedly the only real. Now if that's the case, where does avidyA and guNas come from?
+
 If nirguNa brahman already has avidyA - well it's not nirguNa. So check mate.
 
 <details><summary>Holograph (द्रष्टुं नोद्यम्)</summary>
@@ -31,17 +33,39 @@ If nirguNa brahman already has avidyA - well it's not nirguNa. So check mate.
 This thing is not attributeless, of course. Here "perfect analogy" breaks down.
 </details>
 
+### Distinction from others
+> No school of Hinduism AFAIK says that the presence of avidya in-and-of itself is a philosophical problem in a schools doctrine, virtually all schools accept beginningless avidya tied to karma.
 
-## avidyA primacy
+The distinction is that other schools accept that this beginningless avidyA is real, while you make all kinds of silly excuses and tie yourself into knots.
+
+## avidyA explains experience
 nirguNa does not "produce" saguNa - it does nothing. It's all an illusion of unknown / undescribable origin as per shAnkaras.
 
 > something eternally real can produce something eternally unreal...
 
 Not without this other thing, called "avidyA". Also, the NB being nir-guNa (attributeless), it can't "produce" anything with attributes; or have jIva-saving intention.
 
-Anything in the world we see (other than the pre-cog subjective I) is "production" of avidyA. So, by overwhelming margin, the "production" solely avidyA's
+Anything in the world we see (other than the pre-cog subjective I) is "production" of avidyA. So, by overwhelming margin, the "production" is solely avidyA's
+
+### First person experience
+Who experiences this avidyA? Who is confused by it?  
+shAnkara-s say that brahman doesn't.  
+So avidyA (or some part thereof) experiences avidyA, and that experience itself is part of avidyA.
+So, nirguNa brahman has no explanatory role in any real experience,  
+including the first-person experience.  
+
+### shUnyAdvaita better
+Better stick to only substrateless avidyA like the buddhists (shUnyAdvaita), rather than hypothesize a substrate called nirguNa-brahman.
+
+## Who has avidyA?
+Who experiences this avidyA? Who is confused by it?  
+shAnkara-s say that brahman doesn't.  
+So, avidyA is "free floating flawed knowledge".  
+So, it must be a primary ontological entity like brahman.
 
 ## मिथ्या-वेद-प्रामाण्यम्
+Anyway, what's your proof for any of what you say - veda is avidyA for you. So shAnkaran advaita is baseless blabbering by your own admission.
+
 veda being transactionally real (mithyA) only, can only be "guaranteed" to be true as far as other transactional reals (mithyA) are concerned (if there), and not about the ultimately real (brahman).
 
 ## Whence teaching?
@@ -50,13 +74,31 @@ Video: [TW](https://youtu.be/FBmo0YvfPgA) .
 
 rAmAnuja mocks shAnkara teachings in commentary to BG 2.12.
 
+
+### niShThA case
 For the ekAtmatA-jnAnaniShTha, it is understandable if inevitable behavior like breathing, eating and drinking persists, since the illusion persists after him realizing that it's an illusion; and desisting from such would cause the jnAnI discomfort. However, effortful behavior like lecturing for hours and hours and writing tomes addressing illusory beings does not make sense. So, in this case such behavior is not sane.
 
+You actually don't really believe this nonsense; otherwise, only a mad person would argue at length with person he knows to be an illusion.
+
+### No niShThA case
 For the non-ekAtmatA-jnAna-niShTha, preaching about ekAtmatA-jnAna does not make sense since, by definition, he himself does not have firm belief (niShThA) in it. So, in this case such behavior is not honest.
 
+### Non-teachers
 Supposed examples of behavior consistent with ekAtmatA-jnAna-niShThA -  
 
 > Fully renounced and immersed in the highest non-dual realization, Sri Sadashiva Brahmendra observed absolute silence (mauna) for decades. His earthly life—said to span over eighty years—wandering blissfully along the banks of the Kaveri River, often naked or semi-naked, in a perpetual state of divine intoxication and samadhi. As a true Avadhuta, he had transcended all identification with the body, social conventions, and worldly interactions. Yet, even in this profound state of seclusion and silence, on extremely rare occasions he did interact with others. For instance: He would sometimes play joyfully with children, appearing as childlike himself despite his total detachment.
+
+
+## Word-play
+> Real but not "absoultely real".  
+"I" am confused; but "real I" is not.  
+avidya is a flaw but not it's not a flaw in brahman, but "free floating".  
+World is an illusion but not "as in optical illusion".
+
+You're just playing with words.  
+Indeed a philosophy for the muddled.
+
+
 
 ## अपशूद्राधिकरणे समस्या 
 यथाह रामानुजः - 
