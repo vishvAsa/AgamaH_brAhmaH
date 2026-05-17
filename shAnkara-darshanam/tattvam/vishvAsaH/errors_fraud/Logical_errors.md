@@ -63,6 +63,16 @@ shAnkara-s say that brahman doesn't.
 So, avidyA is "free floating flawed knowledge".  
 So, it must be a primary ontological entity like brahman.
 
+Bottomline is - where does imperfection (avidyA) come from if perfect brahman is the only real thing there is?  
+No coherent answer.
+
+
+> Why would the mere fact of appearance be a flaw in the logic of the doctrine or in the metaphysics? Is the sun flawed for being reflected in puddles? 
+
+In the sun example, atleast the sun _and_ the observer are real.  
+In the shAnkaran comedy, there is no real other than brahman. So, the example is junk.
+
+
 ## मिथ्या-वेद-प्रामाण्यम्
 Anyway, what's your proof for any of what you say - veda is avidyA for you. So shAnkaran advaita is baseless blabbering by your own admission.
 
@@ -73,8 +83,6 @@ Your faith in the ability of vedic avidyA to say anything about something totall
 > dream-characters can make true factual statements about your real life.
 
 Which "factual statement" about nirguNa brahman (the only thing outside this "dream") have you verified? If not, how do you know it's "factual"?
-
-
 
 ## Whence teaching?
 Video: [TW](https://youtu.be/FBmo0YvfPgA) .  
