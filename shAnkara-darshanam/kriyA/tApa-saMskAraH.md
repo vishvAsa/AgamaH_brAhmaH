@@ -1,5 +1,5 @@
 +++
-title = "T Apa sa Msk Ara H"
+title = "tApa saMskAraH"
 +++
 - Amalananda supports
 - ramArchana-chandrika (a Marathi advaita rama aradhana paddathi quoted by ramadasis) says Tapa Mudra can be taken,
