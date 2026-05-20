@@ -35,5 +35,7 @@ Swami Harshananda of RK Math discusses these doctrinal divides that appeared wit
 ## Theological
 Then there are/ were rAmasubba shAstrI vs appayya vs hariharAbheda vs ShaNmata divisions on who saguNa brahman is. 
 
+This then leads to some practice differences - eg. the validity of tApa-saMskAra (which some approve of -  Source: [TW](/AgamaH_brAhmaH/shAnkara-darshanam/kriyA/tApa-saMskAraH)). 
+
 ## maTha rivalry
 - shRngeri vs kuDli, kAnchI
