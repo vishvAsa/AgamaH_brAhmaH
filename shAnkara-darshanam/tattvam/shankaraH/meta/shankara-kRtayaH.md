@@ -71,5 +71,15 @@ or he later became aware of this meaning at a later point in time. If the latter
 This line of reasoning leads us to strongly suspect that the sahasranAma author was someone else.
 </details>
 
+## Yogasūtrabhāṣyavivaraṇa
+traditionally it's accepted to be work of Śaṅkara. Potter even posits an assumption that Śaṅkara was an adherent of Yoga, who converted to Advaita.
+
+> Looking at Bryant he says it's controversial and has been questioned since the 1920s.  
+> Looking at Rukmani's intro to his translation there seem to be a comparable number of scholars that support and argue against authorship even before it was edited & published, with Rukmani himself being against it. He has some interesting points like the role of sphota. Harimoto still says it is an open question. He repeats this in his recent papers as well: Source: [TW](https://academia.edu/74444531/The_Epistemology_of_the_Author_of_the_P%C4%81ta%C3%B1jalayoga%C5%9B%C4%81stravivara%E1%B9%87a). So the most we can say is that academia disputes its authorship, there's definitely not a consensus. - Andra
+
+> Wezler strongly stated that it's pre Vācaspati miśra, it can't be older than Vācaspati work. Vācaspati was atmost 2-3 generation after. The idea that there was another pre Vācaspati Śaṅkara who wrote it is less likely. \- Simha
+
+On the other hand, if he's so proximal to shankara and shankara wrote vivaraNa, why does vAchaspati not refer to vivaraNa?
+
 ## Statistical attempts
 Cosine similarity with trigrams in the Ivan Andrijanić and Jacek Bąkowski paper surprisingly shows high similarity to नृसिंहपूर्वतपनीयोपनिषत्, but does not include Prapañcasāra . 
