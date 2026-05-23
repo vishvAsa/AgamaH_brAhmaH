@@ -7,6 +7,14 @@ title: प्रस्थानभेदः
 ॥ ॐ तत्सद्ब्रह्मणे नमः ॥  
   
 ॥ अथ मधुसूदन-सरस्वती-कृतौ प्रस्थान-भेदः ॥  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+en : [TW](https://sanskritdocuments.org/sites/snsastri/PrasthAnabheda-Engl.pdf)
+
+hi : [TW](https://sanskritdocuments.org/sites/snsastri/PrasthAnabheda-Engl.pdf)
+</details>
+
   
 ## प्रतिज्ञा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
