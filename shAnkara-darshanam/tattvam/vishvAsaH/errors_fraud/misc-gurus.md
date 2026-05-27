@@ -68,6 +68,15 @@ kAnchI followers however happily ignore evidence.
 ### sureshvara vRndAvana
 A vijayanagaran copper plate establishes the location of the kAnchI shankara maTha in viShNu kAnchI. Then later moved to shiva-kAnchI. They have constructed a vRndAvana and ascribed it to shankara's disciple sureshvara there. (source - RL)
 
+### Kanchi periyava
+Kanchi MahasvamI claimed crazy stuff such as "all religions are the same", "ramses and rama are related", "aztec is probably a corrpution of Astika" etc.. ([1](http://www.kamakoti.org/kamakoti/articles/Jagadguru%20Divya%20Chareitram%20Hindu%20Culture%20from%20Egypt%20to%20Java%20English.html)).
+
+But, a mitigating factor: "the AchArya was not a svayaM-devatA-vAdin & upheld the deva-dharma sincerely despite certain serious idiosyncratic misapprehensions".
+
+## करपात्री
+> १९८० में भी करपात्री स्वामी जी का मत था पृथ्वी घूमती नहीं है। भौतिकी और विज्ञान से अपरिचित होते हुए भी वे आर्यभट, केप्लर, न्यूटन और आधुनिक वैज्ञानिकों सहित सभी भूभ्रमणवादियों को ‘भ्रान्त’ कहते थे, यद्यपि इस विषय में वे स्वयं भ्रान्त थे।
+> - Nityanand Mishra [YT](https://www.youtube.com/watch?v=Y273JCDZ9HY)
+
 ## bellamkonDa-rAma-rAya
 An initiate (not a convert, as claimed) into shAnkarAdvaita named bellamkoNDa rAmarAya (supposedly a "kavIndra", haygrIvopAsaka etc..).
 
