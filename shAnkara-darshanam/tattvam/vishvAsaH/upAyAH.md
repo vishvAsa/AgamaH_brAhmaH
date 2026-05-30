@@ -6,7 +6,7 @@ title = "उपायाः"
 ## क्रमः पूर्ण-मोक्षाय
 The sequence is mentioned in Gita Bhashya 5.12 -
 
-karma-yoga/ sannyAsa (for v1) → sattva-shuddhi → jnana-prapti → sarva-karma-sanyasa → jnana-nishtha → Moksha.
+karma-yoga/ sannyAsa (for v1) → sattva-shuddhi → jnana-prApti → sarva-karma-sanyasa (for v1) → jnana-niShThA → Moksha.
 
 > सत्त्वशुद्धि- ज्ञानप्राप्ति- सर्वकर्मसंन्यास- ज्ञाननिष्ठा- क्रमेणेति वाक्यशेषः …  
 > The sequence of 5.12 is inviolable. However, it spans across several births.  
