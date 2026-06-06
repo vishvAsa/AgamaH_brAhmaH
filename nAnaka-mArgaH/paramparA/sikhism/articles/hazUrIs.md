@@ -70,7 +70,7 @@ To this day, the Hazoor Sahib Takht Jathedar takes the iron bowl of ‘Shaheedi 
 f) Like the Akali Nihangs, the Hazoori Sikhs are very fond of traditional Sikh weapons. They on whole have a very good appreciation of traditional Sikh weapons and many of their homes are full of old weapons handed down to them in their heritage. Nihang Niddar Singh met Diwan Singh, the 6th generation Jathedar of Ramgharia Bunga in 2001, who commented:
 ‘Reason why the Sikhs of Delhi died in 1984 is because they did not have weapons or know how to wield them.’ Akali Nihang Baba Diwan Singh, transcript of interview on 17-03-2001
 
-​
+
 g) Hazoor Sahib Sikhs even excel the Budha Dal Nihangs in Punjab in one aspect of codes of conduct. Hazoori Sikhs freely perform inter-caste and interfaith marriages (apart from with ‘Majhabi’ (low caste) Sikhs and Muslims). They also take Hindu women for marriage after initiating them into Sikhism, but do not give Hindus their daughters unless the family become Khalsa.
 
 h) The Khalsa initiation for women, as in Budha Dal, is separate from the men in Hazoor Sahib. The Amrit is prepared by just reading ‘Japji’ and six verses from Anand Sahib, and wielding a ‘Kard’ (single-edged sword or knife) only. J. D. Cunningham mid 19th century also noticed such a practice:

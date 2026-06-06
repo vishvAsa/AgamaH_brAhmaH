@@ -120,7 +120,7 @@ Indian Ancient wisdom so as to resolve some of the epistemological and ontologic
 related to the modern science. The scientists and philosophers wonder about the birth and
 evolution of the universe, modality of emergence of matter in all its diversity, of variety of
 radiation, of unusual mind-boggling phenomena like explosion of stars near and far, all this
-from the point of view of knowing what the ultimate reality, the fundamental substratum,
+from the point of viewof knowing what the ultimate reality, the fundamental substratum,
 behind this creation? : When was it created? and how and who created it? of course
 scientists have not dared to ask Why?
 In our efforts to unravel this mystery, we have adopted two different approaches. One is
@@ -319,9 +319,9 @@ Very lucid discourse in Tamil.
 
 We are very pleased to announce that Spoken Sanskrit is continuing to be spread throughout the globe via a new program of classes being taught online. Since October 2019, over five thousand people around the world have registered, and classes are going on with a team of 50 teachers. If you are interested to study or teach with us, or if you know of people who may be interested, please let us know by contacting Aurobind Mahodaya <padiyath.a@gmail.com>.
 
-We have a new batch -- our 13th batch -- of Spoken Sanskrit classes beginning in March 2025. If you and/or your friends/family would like to begin study of Spoken Sanskrit, please contact us to register.
+We have anew batch -- our 13th batch -- of Spoken Sanskrit classes beginning in March 2025.If you and/or your friends/family would like to begin study of Spoken Sanskrit, please contact us to register.
 
-This next batch of classes is for those knowing a modern Indian language.
+This next batch of classesisfor those knowing a modern Indian language.
 
 Please place this announcement in your social media/facebook/Whatsapp group/twitter etc. Forward it all around!
 
@@ -329,19 +329,19 @@ To Register: Send an email to Aurobind Mahodaya <padiyath.a@gmail.com>.
 
 If you and/or your friends/family would like to begin study of Spoken Sanskrit, please contact them and have them email us to register.
 
-First class: March 2025 (date TBA)
+First class:March 2025(date TBA)
 
-Timing: Once per week for 90 minutes.
+Timing:Once per week for 90 minutes.
 
 Medium: Live Online Classes
 
-Various timings available weekdays and weekends.
+Varioustimings available weekdays and weekends.
 
 Classes are free.
 
-To register, contact: Aurobind Mahodaya <padiyath.a@gmail.com>
+To register, contact:Aurobind Mahodaya <padiyath.a@gmail.com>
 
-(Once registered you will receive the list of available days and timings for classes.) 
+(Once registered you will receive the list of available days and timings for classes.)
 
 Here is a list of some of the countries in which people are enthusiastically joining to learn Spoken Sanskrit through these classes:
 
@@ -387,8 +387,8 @@ Aurobind
 
 --
 You received this message because you are subscribed to the Google Groups "भारतीयविद्वत्परिषत्" group.
-To unsubscribe from this group and stop receiving emails from it, send an email to bvparishat+unsubscribe@googlegroups.com.
-To view this discussion visit https://groups.google.com/d/msgid/bvparishat/4565d1cb-2273-4bbe-a371-0fadf2e9e044n%40googlegroups.com.
+To unsubscribe from this group and stop receiving emails from it, send an email tobvparishat+unsubscribe@googlegroups.com.
+To view this discussion visithttps://groups.google.com/d/msgid/bvparishat/4565d1cb-2273-4bbe-a371-0fadf2e9e044n%40googlegroups.com.
 **17/02/2025, 10:09 - V Subrahmanian:** My answer to How many of you believe in the verse “Brahma Satyam Jagat Mithya”? https://www.quora.com/How-many-of-you-believe-in-the-verse-%E2%80%9CBrahma-Satyam-Jagat-Mithya%E2%80%9D/answer/Seeker-394?ch=15&oid=1477743844786367&share=9d3b4e98&srid=hZ8vi&target_type=answer
 **17/02/2025, 22:37 - V Subrahmanian:** <Media omitted>
 **17/02/2025, 22:37 - V Subrahmanian:** https://www.prekshaa.in/bh%C4%81%E1%B9%A3yam-deva%E1%B8%8Di-part-2
@@ -934,8 +934,8 @@ Passcode: 123456
 **01/03/2025, 20:15 - V Subrahmanian:** <Media omitted>
 **03/03/2025, 07:12 - V Subrahmanian:** या दुस्त्यजा दुर्मतिभिर्जीर्यतो या न जीर्यते |
 तां तृष्णां दुःखनिवहां शर्मकामो द्रुतं त्यजेत्‌ |
- 
-The wise man seeking peace should give up, at the earliest, those desires which a dissolute person would find it hard to abandon, and those which do not abate even in the face of infirmity and thus become insatiable by their very nature.
+
+The wise man seeking peace should give up, at the earliest,those desires which a dissolute person would find it hard toabandon, and those which do not abate even in the face of infirmity and thus become insatiable by their very nature.
 
 It is the essence of prudence to understand the traps inthe form of desires before one succumbs to them.
 **03/03/2025, 14:33 - V Subrahmanian:** https://docs.google.com/forms/d/e/1FAIpQLSe1_w7_xARfFr8STIFfQNIfRh76iO6lgJ6qnS5F_QqoV6Xwgg/viewform
@@ -1261,7 +1261,7 @@ Children will be taken for a one day *Devalaya Darshana*.
 
 Limited seats !!! Hurry !!!
 
-Contact 9620455533, 9980511512 for more details.
+Contact 9620455533, 9980511512 formoredetails.
 **20/03/2025, 11:46 - V Subrahmanian:** RamaRamaRamaRamaRama,
 
 Geeta Govinda Samskrita Sangha is conducting
@@ -1281,7 +1281,7 @@ This year at
 
 Visit https://tinyurl.com/ggsscampdetails or www.ggss.org.in for more details.
 
-Limited seats !!! Hurry !!!
+Limited seats!!!Hurry!!!
 **20/03/2025, 11:46 - V Subrahmanian:** <Media omitted>
 **20/03/2025, 11:46 - V Subrahmanian:** <Media omitted>
 **20/03/2025, 11:46 - V Subrahmanian:** <Media omitted>
@@ -1623,7 +1623,7 @@ Professor Karnataka Samskrit University Bengaluru
 
 Here is a Shanti Mantra that Advaitins chant as part of their daily study of Vedanta:
 
-This one is from the Shvetashvatara Upanishad:
+This one is from theShvetashvataraUpanishad:
 
 
 यो ब्रह्माणं विदधाति पूर्वं
@@ -1639,7 +1639,7 @@ Meaning of the mantra:
 I, the aspirant after liberation, take refuge under the Paramatma who created the Chaturmukha Brahma and blessed him with the Vedic knowledge, who impels the inner organs of all beings.
 
 
-This mantra is part of the Shanti mantras Advaitins chant before and after their daily Vedantic study. In this mantra, the one who blesses the four-faced Brahma, is Rudra.  This would be clear to anyone who studies the Shvetashvatara Upanishat. 
+This mantra is part of the Shanti mantras Advaitins chant before and after their daily Vedantic study. In this mantra, the one who blesses the four-faced Brahma, is Rudra. This would be clear to anyone who studies theShvetashvataraUpanishat.
 
 
 The following mantras, from this Upanishad, say the same as the above mantra:
@@ -1654,7 +1654,7 @@ The following mantras, from this Upanishad, say the same as the above mantra:
 हिरण्यगर्भं पश्यत जायमानं
 स नो बुद्ध्या शुभया संयुनक्तु ॥ १२ ॥ 4.12
 
-Brahma being created is the purport of the above mantras. 
+Brahma being created is the purport of the above mantras.
 
 
 In this link is the full reading of the text of this Upanishad:
@@ -1663,22 +1663,22 @@ In this link is the full reading of the text of this Upanishad:
 https://advaitasharada.sringeri.net/display/moola/svt
 
 
-Shankara has cited this Upanishad and the above first stated mantra several times in his Brahma Sutra Bhashya. 
+Shankara has cited this Upanishad and the above first stated mantra several times in his Brahma Sutra Bhashya.
 
 
-Veda Vyasa has summarized/rephrased the entire Shvetashvatara Upanishad in this Chapter of the 7th Section of the Shiva Maha Purana:
+Veda Vyasa has summarized/rephrased the entireShvetashvataraUpanishad in this Chapter of the 7th Section of theShivaMahaPurana:
 
 
 https://sa.wikisource.org/s/hyj
 
 
-One who studies both the above provided texts in the two links above would realize that the Shiva Purana eminently reflects the Shvetashvataropanishad. 
+One who studies both the above provided texts in the two links above would realize that theShivaPuranaeminently reflects the Shvetashvataropanishad.
 
 
 रुद्दुःखं दुःखहेतुर्वा तद्रावयति नः प्रभुः ॥ 36ab
 रुद्र इत्युच्यते सद्भिः शिवः परमकारणम् ॥ 36cd
 
-Shankara, in his commentary to the Vishnu Sahasra Nama, for the name 'Rudra', has cited the above verse from the Shiva Purana.  The verse says Rudra is the Supreme Cause of the creation. 
+Shankara, in his commentary to the Vishnu Sahasra Nama, for the name 'Rudra', has cited the above verse from theShivaPurana. The verse says Rudra is the Supreme Cause of the creation.
 
 
 
@@ -1688,10 +1688,10 @@ Shankara, in his commentary to the Vishnu Sahasra Nama, for the name 'Rudra', ha
 न चास्य कश्चिज्जनिता न चाधिपः ॥ ९ ॥ 6.9
 
 
-The above verse from the Upanishad says: There is no Lord in the world (for Rudra), No Ruler for Rudra, there is no indicatory mark, linga, for Shiva. He is the Cause, the Lord of the jivas (who are lords of the sense/motor organs). There is no progenitor or boss for Rudra. 
+The above verse from the Upanishad says: There is no Lord in the world (for Rudra), No Ruler for Rudra, there is no indicatory mark, linga, forShiva. He is the Cause, the Lord of the jivas (who are lords of the sense/motor organs). There is no progenitor or boss for Rudra.
 
 
-One who is familiar with the Sri Rudram of the Yajur Veda would quickly notice the several mantras almost all of them verbatim cited in the Shvetashvatara Upanishad. 
+One who is familiar with the Sri Rudram of the Yajur Veda would quickly notice the several mantras almost all of them verbatim cited in theShvetashvataraUpanishad.
 
 
 एको हि रुद्रो न द्वितीयाय तस्थु -
@@ -1700,12 +1700,12 @@ One who is familiar with the Sri Rudram of the Yajur Veda would quickly notice t
 संसृज्य विश्वा भुवनानि गोपाः ॥ २ ॥ 3.2.
 
 
-The above mantra says Rudra is the Cause of creation. Rudra is One without a second. 
+The above mantra says Rudra is the Cause of creation. Rudra is One without a second.
 
-It may also be noted that no Vaidika has labeled the Shvetashvatara Upanishad a 'taamasic' Upanishad. 
+It may also be noted that no Vaidika has labeled theShvetashvataraUpanishad a 'taamasic' Upanishad.
 
 
-One can read the English  translation of the Shve. Upanishad here: 
+One can read the English translation of the Shve. Upanishad here:
 
 
 https://www.shankaracharya.org/svetasvatara_upanishad.php
@@ -2096,11 +2096,11 @@ Elsewhere too Shankara has specified this SB in clear terms: for example in the 
 **20/04/2025, 23:23 - V Subrahmanian:** https://youtu.be/dI4HvgLDcQc?si=MxVBw6pKDAQcyiL_
 **21/04/2025, 16:41 - V Subrahmanian:** <Media omitted>
 **21/04/2025, 22:41 - V Subrahmanian:** <Media omitted>
-**22/04/2025, 11:40 - V Subrahmanian:** ​Namaste,
+**22/04/2025, 11:40 - V Subrahmanian:** Namaste,
 
 With Ishvaranugraha, we completed the 5th taranga of Sanskrit Vicharasagara in Hindi. The playlist of the recordings of this online study with onscreen text is available on Arsha Seva Kendra's YT channel at https://www.youtube.com/playlist?list=PL1Dm4Sd8e3JGXc5Ttw8RSsxfHRDg6yRtb
 
-​gurupAdukAbhyAm,
+gurupAdukAbhyAm,
 Ananta Chaitanya
 **22/04/2025, 16:10 - V Subrahmanian:** <Media omitted>
 **22/04/2025, 16:22 - V Subrahmanian:** https://youtu.be/nqpQiDGWll0?si=4cPrwriF-g-8f-Xx
@@ -3159,7 +3159,7 @@ The special aspects of the stotra literature of Bhagavatpada are discussed here 
 **21/05/2025, 22:17 - +91 ???? 40969:** अल्पज्ञेन मया महाकविकृतं पद्यं सुभाषायुतम्
 सम्यग्बुद्धिविहीनमन्दमतिना नाऽत्राऽऽवगम्यं शुभम्।
 कुर्यादीषदहो दयां च लघुना हे सौम्यनारायण
-जिज्ञासाऽऽस्त्यतुलस्य पद्यविपुलस्यार्थस्य हे पण्डित​॥
+जिज्ञासाऽऽस्त्यतुलस्य पद्यविपुलस्यार्थस्य हे पण्डित॥
 **21/05/2025, 22:36 - saumyanArAyaNaH सौम्यनारायणः चेन्नैवासी वैष्णव-शास्त्रवित् कूतपाक्काभिजनः:** <Media omitted>
 **21/05/2025, 23:22 - V Subrahmanian:** # The Pure Jnani and the Premajnani: Two Expressions of Nondual Realization
 
@@ -3991,7 +3991,7 @@ https://adbhutam.files.wordpress.com/2023/11/tadvishnoh-paramam-padam-as-per-sha
 **09/06/2025, 17:12 - Phani:** Shankaras position is clear
 **09/06/2025, 17:33 - V Subrahmanian:** Here is what Shankara
 has said in the BSB:
- 
+
  BSB
 (1.1.vii.20) [Ishwara can take any form (which is only mAyika) out of His
 Will, for blessing an aspirant.] ....... To demonstrate that such a form is maayika Shankara cites a verse from the Mahabharata in Krishna's own words to Narada:

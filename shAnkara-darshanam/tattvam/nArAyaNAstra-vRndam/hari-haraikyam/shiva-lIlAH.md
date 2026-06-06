@@ -64,7 +64,7 @@ He is the presiding deity of the mind as well as a foremost bhakti yOgi. That is
 
 Color: According to shAstras, he is nilalohita or blackish/bluish-red. This represents a mix of tAmas and rAjas with tAmas predominating. Similarly, the mind is also a mix of these guNas.The representation of rajas and tamas as his body color indicates he is not pure. In addition, there is no pramANa to suggest his form is suddha sattva, as opposed to nArAyaNa, whose body is black in color but is yet described as suddha sattva in many places.This meaning thus implies his body is not pure (suddha sattva) and unworthy of meditation.
 
-Trishula: The trishUla has three prongs, each representing the tri-guNas, viz., sattva, rajas and tamas. “shUla” means death, which refers to samsAra as it is the place of death.  “shUla” also means grief. Shiva, the deity of the mind, is thus “shUla-brt” or “ShUlApAni”, meaning, themind bears or sustains the experiences of samsAra caused by the triguNas, which are responsible for grief. Just as Shiva pierces the asurAs with the trident, similary the mind afflicts the ignorant with the experiences arising from the triguNas.This meaning merely implies that the ignorant are subject to the distress of the triguNas and imparts no higher knowledge of Brahman, thus, this is not something worthy of meditation.
+Trishula: The trishUla has three prongs, each representing the tri-guNas, viz., sattva, rajas and tamas. “shUla” means death, which refers to samsAra as it is the place of death. “shUla” also means grief. Shiva, the deity of the mind, is thus “shUla-brt” or “ShUlApAni”, meaning, themind bears or sustains the experiences of samsAra caused by the triguNas, which are responsible for grief. Just as Shiva pierces the asurAs with the trident, similary the mind afflicts the ignorant with the experiences arising from the triguNas.This meaning merely implies that the ignorant are subject to the distress of the triguNas and imparts no higher knowledge of Brahman, thus, this is not something worthy of meditation.
 
 Damaru: The brihadAraNyaka Upanishad states that the drum is the objects of enjoyment and the act of beating the drum is the action of senses and sense organs. The sounds emanating from the drum are the experience of sense objects. Shiva is thus the mind, who instigates the act of beating the drum which are the indrIyAs. This enforces Shiva’s position as the presiding deity of the mind and he causes the jIvAs to experience objects of enjoyment in samsAra.Again, this meaning shows that the jIva is experiencing the objects of enjoyment, which is a samsAric trait and does not provide higher knowledge of the self, thus, not worthy of meditation.
 
@@ -86,7 +86,7 @@ This has the following meanings. Shiva is “kapAla” as he protects desire, ie
 
 The Snakes: vAsuki and nAgAbharaNas represent actions prescribed by the shAstras for karma yOgA. They are representedas snakes because if a person desires the fruits of the action, he attains svarga and is subject to transmigration. Thus, the fruits of these actions are like the poison or bite of the snake which keep one in samsAra. However, Shiva wears these snakes as an ornament indicating that he performs these actions as part of karma yOga, without desire for the fruits. Desireless action, is thus, beneficial and thus, an ornament. But again, this particular trait is that of a jIvAtma who is a karma yOgI and is not fit to be meditated upon by those undertaking paramAtma upAsaNa.
 
-The bluish/black neck: The significance of the hAla-hAla viSha will be explained later in the article.  For now, it can be explained that the bluish/black color again denotes the tamas of the mind which experiences sense objects. Again, this is a meaning not worthy of meditation.
+The bluish/black neck: The significance of the hAla-hAla viSha will be explained later in the article. For now, it can be explained that the bluish/black color again denotes the tamas of the mind which experiences sense objects. Again, this is a meaning not worthy of meditation.
 
 Parvati/Uma as his half: “Uma” signifies “yaShas”, which is possessed by a yOgi. This is again, an attribute of an enlightened jIvAtma and hence is not worthy of meditation.
 
@@ -147,7 +147,7 @@ One meaning of “Bhaga” is“affection” which can be taken as attachments. 
 
   
 
-The bull stopped Bhaga while Veerabhadra tore out his two eyes. “Taking away the two eyes of bhaga" thus implies removing the pleasure and pain experiences (denoted by two eyes) arising due to attachment(bhaga) which is the result of actions by the indrIyAs, ie, the results of the actions.  
+The bull stopped Bhaga while Veerabhadra tore out his two eyes. “Taking away the two eyes of bhaga" thus implies removing the pleasure and pain experiences (denoted by two eyes) arising due to attachment(bhaga) which is the result of actions by the indrIyAs, ie, the results of the actions. 
 
   
 
@@ -289,7 +289,7 @@ Note that in this version referenced by the AchArya, the bow is replaced again b
 
 Why did vishNu flee? Because Bhakti Yoga, is a path that uses self-effort due to the ego of the jIvAtma. ParamAtma is thus not fond of this path, but since it is prescribed by the shAstra, he reluctantly allows it. But this bhakti yOga, being a flawed path, is not enough to conquer paramAtma despite the arrow (mind) striking (meditating on) the target (yajna/paramAtma). This is signified by vishNu fleeing the scene.
 
-Thus, Rudra’s upAsaNa has failed. Since sacrifice pierced by Rudra has the two-fold meaning of signifying the actions of the indrIyAs as well as vishNu himself, it can be said that bhakti yOga had the two-fold effect of moderate success in  the extent that it quelled some of the wayward actions, but ultimately was unsuccessful in attaining paramAtma.
+Thus, Rudra’s upAsaNa has failed. Since sacrifice pierced by Rudra has the two-fold meaning of signifying the actions of the indrIyAs as well as vishNu himself, it can be said that bhakti yOga had the two-fold effect of moderate success in the extent that it quelled some of the wayward actions, but ultimately was unsuccessful in attaining paramAtma.
 
 Text:  “Then the three-eyed Mahadeva, with his bow, broke in rage the arms of Savitri, and plucked out the eyes of Bhaga and the teeth of Pushana. The gods then fled away, as also all the several parts of Sacrifice. Some amongst them, reeling as they sought to fly away, fell down senseless. The blue-throated Rudra, having agitated them thus, laughed aloud, and whirling the horn of his bow, paralysed them.”
 
@@ -331,7 +331,7 @@ The teeth of Pushan are restored. In other words, the quality of desire (pushan)
 
 Text: And he also restored the Sacrifices themselves, O Pandava! The world once more became safe and sound. The gods assigned unto Mahadeva all the libations of clarified butter as the share of that great deity.
 
-Explanation:The sacrifices represent the actions undertaken by those in samsAra. The yogi now performs all these as services to please paramAtma as opposed  to using them as self-effort to attain paramAtma. “Mahadeva” again refers to the great intellect of the prapanna (Rudra).
+Explanation:The sacrifices represent the actions undertaken by those in samsAra. The yogi now performs all these as services to please paramAtma as opposed to using them as self-effort to attain paramAtma. “Mahadeva” again refers to the great intellect of the prapanna (Rudra).
 
 Clarified butter represents the auspicious attributes of paramAtma perceived by the indrIyAs (devas), and relayed to the jIvAtma (Rudra).
 

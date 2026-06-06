@@ -52,7 +52,7 @@ The atharvasikha quote will be explained later.
 
 pUrvapaksha: The atharvasikha talks about the creation of vishNu. Various purAnic statements attribute ignorance and other doShas to avatArAs. Therefore, the birth of Rudra and the declaration of “anapahatapApmatva” must be taken in the manner of leela and arthavAda in the same way that statements regarding vishNu are taken. This is also not possible as it is a weak statement (of play) throwing out the stronger statement of creation.
 
-siddhAnta: The opponent is oversimplifying our position, as if to gain an unfair advantage in debate.  There are two particular aspects of our position that the opponent has failed to look at:
+siddhAnta: The opponent is oversimplifying our position, as if to gain an unfair advantage in debate. There are two particular aspects of our position that the opponent has failed to look at:
 
 (1) Vaishnava AcAryas have [given several arguments](http://narayanastra.blogspot.com/p/blog-page_9.html) that Linga, Skanda and other purANas, in which Shiva is extolled at the expense of Vishnu, [are of tAmasic nature](http://narayanastra.blogspot.com/p/blog-page_9.html). In fact, there are [statements in the Puranas themselves](http://narayanastra.blogspot.com/p/blog-page_9.html) to that effect. Nowhere are Vishnu Purana, Bhagavata Purana, Padma Purana etc. are condemned as tAmasic even in the Shaiva purANas. On the other hand, purANas which deal with Vishnu's greatness as their main subject are praised as [sAttvika purANas](http://narayanastra.blogspot.com/p/blog-page_9.html). The opponent has conveniently bypassed this argument of ours, either deliberately or because they are not familiar with our reasoning.
 
@@ -72,7 +72,7 @@ And no such statement is to be found in the works declaring the supremacy of Vis
 
 In addition to being silent to these massive evidences, the opponent claims that we are also "unfairly biased as we accept word-for-word purANic statements that relegate Shiva as subordinate to Vishnu, while ignoring at the same time various purANic statements that attribute ignorance and other doShas to Vishnu and avatArAs, showing Vishnu as created, having partial/imperfect knowledge, powerless, sorrowful, lustful, angry, conquerable, punishable, worshiping Shiva/others etc.”  
   
-Regarding these alleged statements in purANas where Vishnu is declared as inferior, one needs to look no further than Shankara to easily conclude that Vedantins of yore were of the conviction that these portions from tAmasa purANas, in which Vishnu’s alleged imperfections are alluded to, are to be totally rejected and do not deserve even passing mention. Note Shankara’s commentary for the following nAmas  in Vishnu Sahasranama:
+Regarding these alleged statements in purANas where Vishnu is declared as inferior, one needs to look no further than Shankara to easily conclude that Vedantins of yore were of the conviction that these portions from tAmasa purANas, in which Vishnu’s alleged imperfections are alluded to, are to be totally rejected and do not deserve even passing mention. Note Shankara’s commentary for the following nAmas in Vishnu Sahasranama:
 
 _“**ajitaH**” – na kenApyavatAreShu jita iti ajitaH_  
   
@@ -90,7 +90,7 @@ _“**stavyaH**” – sarvaiH stUyate na stotA kasyacit (api) asau iti stavyaH_
   
 \[One who is praised and **worshiped by all, but is the worshiper of none.**\]
 
-_**“amUrtimAn”, “anekamUrtiH”**_ – _karmanibandhanA mUrtirasya na vidyata iti amUrtimAn| avatAreShu svecChayA lokAnAmupakAriNIH bahvIH mUrtIH bhajata iti anekamUrtiH | _  
+_**“amUrtimAn”, “anekamUrtiH”**_ – _karmanibandhanA mUrtirasya na vidyata iti amUrtimAn| avatAreShu svecChayA lokAnAmupakAriNIH bahvIH mUrtIH bhajata iti anekamUrtiH |_  
   
 \[He is called amUrtimAn which means formless, because **He does not have any form that is dictated by _karma_****s** (since he is free of karmas). He is called anekamUrtiH since **He takes up many forms (_aneka mUrtiH_****) out of His own will in order to grace the universe.**\]  
   
@@ -113,7 +113,7 @@ siddhAnta: The atharvasikha does not talk of the creation of vishNu. Neither is 
 
 The opponent can argue that this could be applied for Rudra. That is not possible because:
 
-- The atharvasikha does not talk about “anapahatapApmatvam “ of vishNu. The purusha suktam says that  Brahman is born out of his own will. The subalOpanishad talks about the “apahatapApmatvam” of nArAyaNa. The vishNu gAyatri equates nArAyaNa to vishNu. Thus, it establishes that vishNu is alone born of his own will.
+- The atharvasikha does not talk about “anapahatapApmatvam “ of vishNu. The purusha suktam says that Brahman is born out of his own will. The subalOpanishad talks about the “apahatapApmatvam” of nArAyaNa. The vishNu gAyatri equates nArAyaNa to vishNu. Thus, it establishes that vishNu is alone born of his own will.
     
 - In the case of Rudra, the usage of “anapahatapApmatva” is present. The mahOpanishad distinguishes Rudra from nArAyaNa (who is apahatapApma) by the “eko ha vai…” vAkya. There are no upabrahmaNas like the Gita where Rudra says he is born of his own will. Therefore, it is established that the birth of Rudra is a product of karma.
     
@@ -188,9 +188,9 @@ The Vaishnavas also point out the following incidents as a further proof that Sh
   
 _**siddhAnta:**_ The act of shiva asking for half the strength of devas and the name of paShupati cannot be compared to acts of krishNa stealing butter and gaining the name of “govinda” from Indra
 
-Firstly, all the reasons given in the previous section apply. Secondly, if we study the inner meaning of the acts, they come out different. The incident of tripurAsura vadham is that of upAsaNa in its inner meaning. During upAsaNa, the upAsaka cannot  stay doing nothing and expect the upAsaNa to succeed. This is because upAsaNa, which is adopted by him as the means, is not sentient to guide him. He needs to use his own intellect and strength, adopt the upAsaNa vidhi prescribed by the shAstras and perform the ancillories to upAsaNa. In the case of prapatti, the means adopted his bhagavAn himself, who is sentient and hence can do the work himself. So the prapanna can sit back doing nothing. Of course, Brahman is still the indirect means in the upAsaNa; his grace is needed to succeed there as well.
+Firstly, all the reasons given in the previous section apply. Secondly, if we study the inner meaning of the acts, they come out different. The incident of tripurAsura vadham is that of upAsaNa in its inner meaning. During upAsaNa, the upAsaka cannot stay doing nothing and expect the upAsaNa to succeed. This is because upAsaNa, which is adopted by him as the means, is not sentient to guide him. He needs to use his own intellect and strength, adopt the upAsaNa vidhi prescribed by the shAstras and perform the ancillories to upAsaNa. In the case of prapatti, the means adopted his bhagavAn himself, who is sentient and hence can do the work himself. So the prapanna can sit back doing nothing. Of course, Brahman is still the indirect means in the upAsaNa; his grace is needed to succeed there as well.
 
-Thus, the devas were unable to bear the power of shiva. Similarly, upAsaNa is insentient and cannot carry the burden of the jivA. The devas gave half their power to Shiva; similarly does observance of the upAsaNa vidhi increase  splendour, youth, vigor, intellect etc in the jivA giving the latter the tools to succeed. The devas gave Shiva the name of paShupati; similarly does the upAsaka need wealth, cattle, etc as ancillaries to upAsaNa.
+Thus, the devas were unable to bear the power of shiva. Similarly, upAsaNa is insentient and cannot carry the burden of the jivA. The devas gave half their power to Shiva; similarly does observance of the upAsaNa vidhi increase splendour, youth, vigor, intellect etc in the jivA giving the latter the tools to succeed. The devas gave Shiva the name of paShupati; similarly does the upAsaka need wealth, cattle, etc as ancillaries to upAsaNa.
 
 In the butter stealing incident, KrishNa is paramAtma who breaks the body (pot) and steals the jivAtma (butter). He steals because the jivA is unwilling to accept his grace. And so on.
 

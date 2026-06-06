@@ -55,7 +55,7 @@ Dispelling these above incorrect notions, we shall strengthen the position alrea
 
   
 
-- “Vishnu” and “nArAyaNa” in “viShNoH paramaM padaM” and “nArAyaNaH paro avyaktAt” refers to the popular Lord Vishnu alone and none else. Not only is this evident from the works of Sarvajnatman, Chitsukha, and others, but also from Shankara’s commentary themselves. 
+- “Vishnu” and “nArAyaNa” in “viShNoH paramaM padaM” and “nArAyaNaH paro avyaktAt” refers to the popular Lord Vishnu alone and none else. Not only is this evident from the works of Sarvajnatman, Chitsukha, and others, but also from Shankara’s commentary themselves.
     
       
     
@@ -74,11 +74,11 @@ The issue of the prashnopaniShad bhAShya (Rudra and Vishnu)
 
 Persons proclaiming to be vedAntins are [now claiming](https://groups.google.com/forum/#!msg/science-religion-philosophy/lDU-UTQV57I/_CCfNtjclx0J) as follows, regarding Shankara’s Bhashya for Prashnopanishad 2.9, where Rudra and Vishnu are mentioned as the samhAra-kartA and jagat-pAlaka respecitvely:
 
-...Vishnu (the benign form, as opposed to the valorous form of Rudra) is the Protector of the world.  Since the Creator, Protector and Destroyer are all said to be the forms of Prana we see that Rudra, named in the mantra itself, Vishnu not named in the mantra as well as the bhashya but named by Anandagiri, on the implication of the word 'vishnu' are all 'created' ones.
+...Vishnu (the benign form, as opposed to the valorous form of Rudra) is the Protector of the world. Since the Creator, Protector and Destroyer are all said to be the forms of Prana we see that Rudra, named in the mantra itself, Vishnu not named in the mantra as well as the bhashya but named by Anandagiri, on the implication of the word 'vishnu' are all 'created' ones.
 
 …
 
-The Prana, Hiranyagarbha is the one manifested before them and the Puruṣa is the Supreme.   This Puruṣa is neither the Rdura or Vishnu or Hiranyagarbha (prajapati/prana).  In other words, Rudra and Vishnu are not the Supreme Brahman in this scheme of this upanishad.  Both these entities are within the creation.
+The Prana, Hiranyagarbha is the one manifested before them and the Puruṣa is the Supreme. This Puruṣa is neither the Rdura or Vishnu or Hiranyagarbha (prajapati/prana). In other words, Rudra and Vishnu are not the Supreme Brahman in this scheme of this upanishad. Both these entities are within the creation.
 
 …
 
@@ -86,7 +86,7 @@ Just as the Br.up. 1.4.11 talks about the creation of an aspect/mode of Rudra, s
 
 …
 
-I would like to say here that the editor Sri S.Subrahmanya sastri has taken objection to Anandagiri's remark and said in turn: the protector is rudra alone going by many vedic passages such as ghora and aghora, etc.  Quite amusingly, the narayanastra site which is promoting the idea that Shankara is a vaishnava, is vehemently against this editor for his criticizing Anandagiri and taking away Vishnu's status.  It is quite amusing to me because the retention of the vishnu status will be actually placing vishnu along side the other entities indra, rudra and surya.  Therefore as per that author, Shankara's intention is to say that the protector in that mantra is vishnu and Anandagiri is correctly expressing Shankara's mind.
+I would like to say here that the editor Sri S.Subrahmanya sastri has taken objection to Anandagiri's remark and said in turn: the protector is rudra alone going by many vedic passages such as ghora and aghora, etc. Quite amusingly, the narayanastra site which is promoting the idea that Shankara is a vaishnava, is vehemently against this editor for his criticizing Anandagiri and taking away Vishnu's status. It is quite amusing to me because the retention of the vishnu status will be actually placing vishnu along side the other entities indra, rudra and surya. Therefore as per that author, Shankara's intention is to say that the protector in that mantra is vishnu and Anandagiri is correctly expressing Shankara's mind.
 
   
 
@@ -137,7 +137,7 @@ Here, Anandagiri explains “vishuddhopAdhi” as “sAttvikopAdhivishiShTa”. 
 
   
 
-The aforementioned persono ignorantly quotes the vishvarUpa adhyAya without knowing it supports this position. The vishvarUpa shows the worlds as his body and everything in it. While Arjuna refers to the specific form of vishNu as “saumya” to indicate that this is uniquely sattva, and only possessed by bhagavAn, who has descended in this unique body with excellent qualities. All 3 bhAShyakAras – shankara, rAmAnuja and  mAdhva – agree to this.
+The aforementioned persono ignorantly quotes the vishvarUpa adhyAya without knowing it supports this position. The vishvarUpa shows the worlds as his body and everything in it. While Arjuna refers to the specific form of vishNu as “saumya” to indicate that this is uniquely sattva, and only possessed by bhagavAn, who has descended in this unique body with excellent qualities. All 3 bhAShyakAras – shankara, rAmAnuja and mAdhva – agree to this.
 
 And we must thank him for pointing out the connection between Sri Rudram and the vishvarUpa adhyAya. This we have ourselves pointed out elsewhere in this blog, that Sri Rudram extols sriman nArAyaNa only.
 
@@ -216,7 +216,7 @@ tasmāt kāryaviṣayameva idaṃ nayanam // 8 //
 
   
 
-That the soul's going has for its object the effected Brahma (karyabrahmaviShaya), we conclude from another scriptural passage also which qualifies Brahman in a certain way, 'He leads them to the worlds of Brahman; in these worlds of Brahman they live for ever and ever' (Bri. Up. VI, 2, 15). For it would be impossible to qualify nirguNa brahman (parasmin brahmaNi) by means of the plural number ('worlds'); while the plural number may be applied to the effects of nirguNa brahman under mAya (kAryE) which may abide in different conditions like Brahma, etc (avasthAbhEda).--The term 'world' also can directly denote only some place of enjoyment falling within the sphere of effects and possessing the quality of being entered into, while it must be understood in a metaphorical sense in passages such as 'Brahman is that world '(Bri. Up. IV, 4, 23).--And also what the text says concerning an abode and some one abiding within it ('in these worlds of Brahman,' &c.), cannot be directly understood of the highest Brahman.--For all these reasons the leading of the souls has the effected Brahma (kAryaviSaya api brahmasabdo)  for its goal.
+That the soul's going has for its object the effected Brahma (karyabrahmaviShaya), we conclude from another scriptural passage also which qualifies Brahman in a certain way, 'He leads them to the worlds of Brahman; in these worlds of Brahman they live for ever and ever' (Bri. Up. VI, 2, 15). For it would be impossible to qualify nirguNa brahman (parasmin brahmaNi) by means of the plural number ('worlds'); while the plural number may be applied to the effects of nirguNa brahman under mAya (kAryE) which may abide in different conditions like Brahma, etc (avasthAbhEda).--The term 'world' also can directly denote only some place of enjoyment falling within the sphere of effects and possessing the quality of being entered into, while it must be understood in a metaphorical sense in passages such as 'Brahman is that world '(Bri. Up. IV, 4, 23).--And also what the text says concerning an abode and some one abiding within it ('in these worlds of Brahman,' &c.), cannot be directly understood of the highest Brahman.--For all these reasons the leading of the souls has the effected Brahma (kAryaviSaya api brahmasabdo) for its goal.
 
   
 
@@ -246,7 +246,7 @@ param eva hi brahma viśuddha upādhisaṃbandhaṃ kvacit kaiścit vikāradharm
 
   
 
-The word 'but' indicates the setting aside of the doubt.--As Brahma, who is not para or saguNa brahman (aparasya brahmaNa) is in proximity (sAmIpyAt)  to the highest brahman (parabrahman), there is nothing unreasonable in the word 'Brahman' being applied to the former (Brahma) also.
+The word 'but' indicates the setting aside of the doubt.--As Brahma, who is not para or saguNa brahman (aparasya brahmaNa) is in proximity (sAmIpyAt) to the highest brahman (parabrahman), there is nothing unreasonable in the word 'Brahman' being applied to the former (Brahma) also.
 
   
 
@@ -274,7 +274,7 @@ To the above, our reply is as follows:
 
   
 
-Siddhantha \- this view does not stand. Firstly, Brahma is ruled out as saguNa brahman by Shankara in the viShNu-sahasranAma-bhAShya for "bhUta kR^it" where he explains brahma to be under rajo-guNa upAdhIs. Whereas, Anandagiri's explanation for the BSB "param eva hi vishuddha-upAdhi saMbandhaM" shows that Ishvara, as saguNa-brahman, has shuddha-sattva upAdhis. Thus interpreting brahma as saguNa brahman by claiming "sAmIpya" means nearness of Nirguna brahman would contradict. Secondly, if brahmA is saguNa brahman "rooted" in higher nature of nirguNa,  it would make Shankara’s bhAShya for the next sUtra nonsensical, where the AcArya says "after pralaya,  they along with hiraNyagarbha proceed to the param parishuddham viShNoH paramaM padam". Because, here another "paramaM padam" is used which would make the previous "parabrahmasAmIpya" redundant. It is also not feasible to interpret viShNu as nirguna brahman here if you accept sarvaj~nAtnan's "ati-nikaTa" statement. Because sarvaj~nAtman explains "paramaM padam" as ati-nikaTa nirguna tattva and murAreH (which he used instead of vishNu) to refer to saguNa brahman. Hence, that would contradict your own stand.
+Siddhantha \- this view does not stand. Firstly, Brahma is ruled out as saguNa brahman by Shankara in the viShNu-sahasranAma-bhAShya for "bhUta kR^it" where he explains brahma to be under rajo-guNa upAdhIs. Whereas, Anandagiri's explanation for the BSB "param eva hi vishuddha-upAdhi saMbandhaM" shows that Ishvara, as saguNa-brahman, has shuddha-sattva upAdhis. Thus interpreting brahma as saguNa brahman by claiming "sAmIpya" means nearness of Nirguna brahman would contradict. Secondly, if brahmA is saguNa brahman "rooted" in higher nature of nirguNa, it would make Shankara’s bhAShya for the next sUtra nonsensical, where the AcArya says "after pralaya, they along with hiraNyagarbha proceed to the param parishuddham viShNoH paramaM padam". Because, here another "paramaM padam" is used which would make the previous "parabrahmasAmIpya" redundant. It is also not feasible to interpret viShNu as nirguna brahman here if you accept sarvaj~nAtnan's "ati-nikaTa" statement. Because sarvaj~nAtman explains "paramaM padam" as ati-nikaTa nirguna tattva and murAreH (which he used instead of vishNu) to refer to saguNa brahman. Hence, that would contradict your own stand.
 
   
 
@@ -302,7 +302,7 @@ atra brūmaḥ -
 
   
 
-But with the assumption of (attainment of) effected Brahma (kAryaprAptau) there does not agree what scripture says about the souls not returning; for there is no permanence anywhere apart from the highest Brahman, ie,  nirguNa vastu (parasmAt brahmaNah). And scripture declares that those who have set out on the road of the gods do not return, 'They who proceed on that path do not return to the life of man' (Kh. Up. IV, 15, 6); 'For them there is no return here' (Bri. Up. VI, 2, 15); 'Moving upwards by that a man reaches immortality' (Kh. Up. VIII, 6, 5).
+But with the assumption of (attainment of) effected Brahma (kAryaprAptau) there does not agree what scripture says about the souls not returning; for there is no permanence anywhere apart from the highest Brahman, ie, nirguNa vastu (parasmAt brahmaNah). And scripture declares that those who have set out on the road of the gods do not return, 'They who proceed on that path do not return to the life of man' (Kh. Up. IV, 15, 6); 'For them there is no return here' (Bri. Up. VI, 2, 15); 'Moving upwards by that a man reaches immortality' (Kh. Up. VIII, 6, 5).
 
   
 
@@ -326,11 +326,11 @@ na hi āñjasa eva gatipūrvikā paraprāptiḥ saṃbhavati iti upapaditam // 1
 
   
 
-When the reabsorption of the effected Brahma’s world (kAryabrahmaloka) draws near, the souls in which meanwhile perfect knowledge has sprung up proceed, together with Hiranyagarbha (the aforesaid Brahma) the ruler of that world, to 'what is higher than that i.e. to the pure (as it is beyond prakrtri) highest place (as it is the abode of saguNa brahman) of Vishnu (saguNa Ishvara). This is the release by successive steps which we have to accept on the basis of the scriptural declarations about the non-return of the souls. For we have shown that the highest state of pAramArthika sath (para)  cannot be directly reached (paraprAptiH sambhavati iti upapaditam) by the act of going (na hi āñjasa eva gatipūrvikā).
+When the reabsorption of the effected Brahma’s world (kAryabrahmaloka) draws near, the souls in which meanwhile perfect knowledge has sprung up proceed, together with Hiranyagarbha (the aforesaid Brahma) the ruler of that world, to 'what is higher than that i.e. to the pure (as it is beyond prakrtri) highest place (as it is the abode of saguNa brahman) of Vishnu (saguNa Ishvara). This is the release by successive steps which we have to accept on the basis of the scriptural declarations about the non-return of the souls. For we have shown that the highest state of pAramArthika sath (para) cannot be directly reached (paraprAptiH sambhavati iti upapaditam) by the act of going (na hi āñjasa eva gatipūrvikā).
 
   
 
-Special note: Everything is self explanatory. Even shrI rAmAnuja says upAsakas first reach Brahma’s abode and then travel to srI vaikunta after pralaya, which is moksha sthAna. In the last line, “paraprAptiH” most definitely  refers to the paramArthika sath or nirguNa brahman since Shankara already  established that nirguNa vastu as it is, cannot be in proximity to Brahma, rather it is saguNa brahman, which is nirguNa brahman under sattva upAdhi. So, there can be no “going” to nirguNa brahman.
+Special note: Everything is self explanatory. Even shrI rAmAnuja says upAsakas first reach Brahma’s abode and then travel to srI vaikunta after pralaya, which is moksha sthAna. In the last line, “paraprAptiH” most definitely refers to the paramArthika sath or nirguNa brahman since Shankara already established that nirguNa vastu as it is, cannot be in proximity to Brahma, rather it is saguNa brahman, which is nirguNa brahman under sattva upAdhi. So, there can be no “going” to nirguNa brahman.
 
   
 
@@ -338,7 +338,7 @@ Some object here that in advaita-bhAShyas, “viShNoH paramaM padam” refers on
 
   
 
-- Shankara’s qualification of “Vishnu” as “vAsudevAkhya” in Kathopanishad 1.3.9 itself is enough to stop such nonsensical claims. There is only one entity, the caturbhuja Vishnu that has “vAsudeva” as samAkhya in all shruti, smR^iti, purANa, nighaNTus, etc. Amarakosha says “(1\\.1\\.42)  padmanAbho madhuripurvAsudevastrivikramaH (1\\.1\\.43)  devakInandanaH shauriH shrIpatiH puruShottamaH”. Shruti says “brahmaNyo devakIputraH brahmaNyo madhusUdanaH” (Narayanopanishad).
+- Shankara’s qualification of “Vishnu” as “vAsudevAkhya” in Kathopanishad 1.3.9 itself is enough to stop such nonsensical claims. There is only one entity, the caturbhuja Vishnu that has “vAsudeva” as samAkhya in all shruti, smR^iti, purANa, nighaNTus, etc. Amarakosha says “(1\\.1\\.42) padmanAbho madhuripurvAsudevastrivikramaH (1\\.1\\.43) devakInandanaH shauriH shrIpatiH puruShottamaH”. Shruti says “brahmaNyo devakIputraH brahmaNyo madhusUdanaH” (Narayanopanishad).
     
 
   
@@ -374,7 +374,7 @@ Some object here that in advaita-bhAShyas, “viShNoH paramaM padam” refers on
 
   
 
-- “paramaM padaM” is explained by Shankara (Katha Upanishad Bhashya, 1.3.9) as “prakR^iShTam padaM sthAnaM satattvamityetat”, which indicates both an abode as well as the state attained therein due to the grace of Ishvara, Vishnu. We shall show this in detail in the next section. The reader who is in a hurry can read up the following sections in Shankara’s prasthAna-trayI bhAShyas and other advaitic works to get a  quick and accurate impression:
+- “paramaM padaM” is explained by Shankara (Katha Upanishad Bhashya, 1.3.9) as “prakR^iShTam padaM sthAnaM satattvamityetat”, which indicates both an abode as well as the state attained therein due to the grace of Ishvara, Vishnu. We shall show this in detail in the next section. The reader who is in a hurry can read up the following sections in Shankara’s prasthAna-trayI bhAShyas and other advaitic works to get a quick and accurate impression:
     
 
   
@@ -710,7 +710,7 @@ na tatra sūryo bhāti na candratārakaṃ nemā vidyuto bhānti kuto 'yamagni�
 
   
 
-\[The sun does not shine there, nor the moon and the stars, nor these lightnings, and much less this fire' (Mundaka Upanishad, 2.2.10, occurs also in Katha Upanishad, 5.15  and Svetasvatara Upanishad, 6.14).\]
+\[The sun does not shine there, nor the moon and the stars, nor these lightnings, and much less this fire' (Mundaka Upanishad, 2.2.10, occurs also in Katha Upanishad, 5.15 and Svetasvatara Upanishad, 6.14).\]
 
   
 
@@ -738,7 +738,7 @@ Question: Well, what answer do you have to the objection that terms like “nirv
 
   
 
-Answer:  Again, our position fits the context whereas the position that you state does not. Here is the reason:
+Answer: Again, our position fits the context whereas the position that you state does not. Here is the reason:
 
   
 
@@ -770,7 +770,7 @@ Question: Okay. It is clear that Saguna Brahman does have an eternal form and an
 
   
 
-Answer:  There are some who mistake advaita in a manner that they think statements like “AhaM AtmA guDAkesha” refer only to nirguNa tattva as the Self and not Saguna Brahman. This is an erroneous understanding. As has been stated already, Nirguna Brahman under shuddhasattva upAdhi-s is Saguna Brahman. Thus,  in the vyAvahArika sath, it is Saguna Brahman that is the antaryAmin of all. Shankara has also explicitly made clear in his bhAShyas that Saguna Brahman is the indweller of the sun, etc besides having an eternal abode.
+Answer: There are some who mistake advaita in a manner that they think statements like “AhaM AtmA guDAkesha” refer only to nirguNa tattva as the Self and not Saguna Brahman. This is an erroneous understanding. As has been stated already, Nirguna Brahman under shuddhasattva upAdhi-s is Saguna Brahman. Thus, in the vyAvahArika sath, it is Saguna Brahman that is the antaryAmin of all. Shankara has also explicitly made clear in his bhAShyas that Saguna Brahman is the indweller of the sun, etc besides having an eternal abode.
 
 So, statements like “ahaM AtmA guDAkesha” mean, “the self of all entities is that Saguna Brahman (krishNa) who is Nirguna Brahman under shuddhasattva upAdhi-s”. Hence, “vAsudevaH sarvam” for instance means that a mahAtmA must recognize that all beings have that one Self, which is Nirguna Brahman under sattva upAdhi-s and hence called “vAsudeva”.
 
@@ -1541,11 +1541,11 @@ This work too supports the fact that Vishnu’s eternal form exists in Vaikuntha
 
   
 
-māyā yatra kadāpi no vikurute bhāte jagadbhyo bahiḥ     
+māyā yatra kadāpi no vikurute bhāte jagadbhyo bahiḥ  
 
-śokakrodhavimohasādhvasamukhā bhāvāstu dūraṃ gatāḥ ।     
+śokakrodhavimohasādhvasamukhā bhāvāstu dūraṃ gatāḥ । 
 
-sāndrānandajharī ca yatra paramajyotiḥprakāśātmake     
+sāndrānandajharī ca yatra paramajyotiḥprakāśātmake 
 
 tatte dhāma vibhāvitaṃ vijayate vaikuṇṭharūpaṃ vibho ॥ 7.4 ॥
 
@@ -1569,7 +1569,7 @@ The next three verses show the liberated souls attaining sArUpya with Vishnu and
 
 yasminnāma caturbhujā harimaṇiśyāmāvadātatviṣo
 
-nānābhūṣaṇaratnadīpitadiśo rājadvimānālayāḥ ।     
+nānābhūṣaṇaratnadīpitadiśo rājadvimānālayāḥ । 
 
 bhaktiprāptatathāvidhonnatapadā dīvyanti divyā janā-
 
@@ -1583,11 +1583,11 @@ Translation: Herein the divine souls who are four-armed and who shine with the r
 
 nānādivyavadhūjanairabhivṛtā vidyullatātulyayā
 
-viśvonmādanahṛdyagātralatayā     vidyotitāśāntarā ।    
+viśvonmādanahṛdyagātralatayā vidyotitāśāntarā । 
 
-tvatpādāmbujasaurabhaikakutukāllakśmīḥ      svayaṃ lakśyate     
+tvatpādāmbujasaurabhaikakutukāllakśmīḥ svayaṃ lakśyate 
 
-yasmin vismayanīyadivyavibhavā tatte padaṃ      dehi me ॥7.6 ॥
+yasmin vismayanīyadivyavibhavā tatte padaṃ dehi me ॥7.6 ॥
 
   
 
@@ -1599,7 +1599,7 @@ tatraivaṃ pratidarśite nijapade ratnāsanādhyāsitaṃ
 
 bhāsvatkoṭi lasatkirīṭa kaṭakādyākalpadīprākṛti ।
 
-śrīvatsānkitamātta kaustubhamaṇicchāyāruṇaṃ kāraṇaṃ     
+śrīvatsānkitamātta kaustubhamaṇicchāyāruṇaṃ kāraṇaṃ 
 
 viśveṣāṃ tava rūpamaikśata vidhistatte vibho bhātu me ॥ 7.7 ॥
 
@@ -1700,7 +1700,7 @@ There is no conflict whatsoever with Shankara’s explanation in Katha Upanishad
 
   
 
-- There is no problem because this Highest State is described as that of i.e., associated with/belonging to vAsudevAkhya viShNu, and NOT as “Higher than vAsudevAkhya viShNu” (which by the way, was the interpretation resorted to only by Appayya Dikshita etc  and even by this mistaken interpretation, Appayya himself has accepted that “vAsudeva” refers to the Lord of Lakshmi only and not a nirguNa tattva, as he was trying to prove something higher than that vAsudeva existed. Thus modern day shaivAdvaitin-s are contradicting their paramaguru as well by claiming the opposite!).
+- There is no problem because this Highest State is described as that of i.e., associated with/belonging to vAsudevAkhya viShNu, and NOT as “Higher than vAsudevAkhya viShNu” (which by the way, was the interpretation resorted to only by Appayya Dikshita etc and even by this mistaken interpretation, Appayya himself has accepted that “vAsudeva” refers to the Lord of Lakshmi only and not a nirguNa tattva, as he was trying to prove something higher than that vAsudeva existed. Thus modern day shaivAdvaitin-s are contradicting their paramaguru as well by claiming the opposite!).
     
 
   
@@ -1738,7 +1738,7 @@ Addendum 2: Purushottama in Bhagavad Gita Bhashya, the issue of loka-prasiddhi
 
   
 
-Using the same line of argument, we can settle yet another silly objection raised by small-minded people: That the being described as “Purushottama” in Bhagavad Gita (15.18)  is not any saguNa deity Vishnu, but nirguNa brahman. The reason given by them is that the verse in question describes this Purushottama as Higher than ‘kShara’ and ‘akShara’, and that Shankara says the verse describes Parabrahman as nirupAdhika. The following is conveniently ignored, without any explanation:
+Using the same line of argument, we can settle yet another silly objection raised by small-minded people: That the being described as “Purushottama” in Bhagavad Gita (15.18) is not any saguNa deity Vishnu, but nirguNa brahman. The reason given by them is that the verse in question describes this Purushottama as Higher than ‘kShara’ and ‘akShara’, and that Shankara says the verse describes Parabrahman as nirupAdhika. The following is conveniently ignored, without any explanation:
 
   
 
@@ -1787,7 +1787,7 @@ Equally deserving of ridicule is the statement that Shankara does not intend Lak
 
   
 
-- He is Srivatsavaksha,  in whose chest the mark called ‘Srivatsa’ is located. He is Srivasa, since in that mark Sri (Lakshmi), who never separates from Him, resides.
+- He is Srivatsavaksha, in whose chest the mark called ‘Srivatsa’ is located. He is Srivasa, since in that mark Sri (Lakshmi), who never separates from Him, resides.
     
 
   

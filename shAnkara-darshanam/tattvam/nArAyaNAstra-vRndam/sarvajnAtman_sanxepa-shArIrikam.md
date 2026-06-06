@@ -38,7 +38,7 @@ Today’s advaitins try to discredit Lord Vishnu’s supremacy in the Vedas by s
 
   
 “For 'tad viShNoH paramam padam' of the Kathopanishad 1.3.9 Shankara has commented that it is the 'the superior-most abode of VishNu, the vyApanashIla, all-pervading Brahman, the paramAtman, called vAsudeva, in  
-its TRUE sense, satattvam.'  This qualifying word is crucial: the saguNa aspect is denied and the purified nirguNa Brahman alone is realized to be one's true nature.  So, Shankara has desisted from giving any saguNa-meaning for the term VishNu here.”
+its TRUE sense, satattvam.'  This qualifying word is crucial: the saguNa aspect is denied and the purified nirguNa Brahman alone is realized to be one's true nature. So, Shankara has desisted from giving any saguNa-meaning for the term VishNu here.”
 
   
 
@@ -126,7 +126,7 @@ Sarvajnatman's predecessor, Sureshvara brings out the supremacy of Vishnu very c
 
 कारुण्यात् तामवोचं जनिमृतिनिवहध्वस्तये दुःखितेभ्यः ॥**_kāruṇyāt tām avocaṃ jani mṛti nivaha dhvastaye duḥkhitebhyaḥ ॥_**  
   
-(Naishkarmyasiddhi, 4.76)   
+(Naishkarmyasiddhi, 4.76)  
   
 
 Translation: The River Ganga, which flows from the (toe nail on the left) foot of Vishnu was obtained by Shankara (Lord Rudra) through yogic effort. Later Bhagiratha worshiped the all-knowing Rudra, who is surrounded by groups of sages, who is ever fixated on Brahman, with devotion to obtain the river for the salvation of the people of the earth. Similarly, I worshiped the one endowed with great qualities who is called Shankara, who is also all-knowing, surrounded by sannyasis, who is ever meditating on Brahman, who obtained the brahmavidyA that flows from Vishnu's feet, so that out of compassion I can disseminate that brahma-vidyA so that those who are in sorrow due to cycles of births and deaths, may rid themselves of the same.  
@@ -159,7 +159,7 @@ Sarvajnatman similarly states in the following verses from the controller:
 2.190 – "जीवेशानजगद्विभागजननी शक्तिर्जडा वैष्णवी"**_"jīveśāna-jagad vibhāga jananī śaktir jaḍā vaiṣṇavī"_** \[The Jada-shakti of Vishnu, which generates the difference between the individual soul, the ruler, and the universe.\]  
   
 
-3.108  – "माया सर्वेश्वरेण हरिणा दृढमभ्यधायि" **_"māyā sarveśvareṇa hariṇā dṛḍhamabhyadhāyi"_** \[Mayashakti, strengthened by Hari, the Lord of all.\]  
+3.108 – "माया सर्वेश्वरेण हरिणा दृढमभ्यधायि" **_"māyā sarveśvareṇa hariṇā dṛḍhamabhyadhāyi"_** \[Mayashakti, strengthened by Hari, the Lord of all.\]  
   
 
 4.46 – Consider this verse:  
@@ -209,7 +209,7 @@ Translation: Even when He takes up a form out of His own will/at the request of 
 
 ब्रह्मोपदेशमुपलभ्य निमित्तमात्रं**_brahmopadeśam upalabhya nimittamātraṃ_**
 
-तच्चोत्ससर्ज स कृते सति देवकार्ये॥" (२.१८२)  **_taccotsasarja sa kṛte sati devakārye॥" (2.182)_**  
+तच्चोत्ससर्ज स कृते सति देवकार्ये॥" (२.१८२) **_taccotsasarja sa kṛte sati devakārye॥" (2.182)_**  
   
 
 Translation: Once, Raghunandana (descendant of the raghu dynasty i.e., Rama), did display the condition of “ignorance”, out of His own volition, resolve, and free will (unlike a jIva). Brahma’s advice to Him (that He was indeed Parabrahman Vishnu/Narayana) was just a mere instrument. Taking up and giving up that resolution were executed by none but Him, for the benefit of the devas (i.e., to take a human form to kill Ravana).  
@@ -253,7 +253,7 @@ Note that if ancient advaitins such as Sarvajnatman were hari-hara-abheda vAdins
 दमतिपूर्वमिदं सकलं जगत् ॥२६४॥"**_amatipūrvam idaṃ sakalaṃ jagat ॥264॥"_**  
   
 
-(*)‘ननु’**_‘nanu’_** as per the recension of Ramatirtha and Madhusudana, implying an objection from the pUrvapakSha. In Nrsimhashrama’s recension,  it is ‘न तु’**_‘na tu’_**, implying an emphatic statement from the uttarapakSha.  
+(*)‘ननु’**_‘nanu’_** as per the recension of Ramatirtha and Madhusudana, implying an objection from the pUrvapakSha. In Nrsimhashrama’s recension, it is ‘न तु’**_‘na tu’_**, implying an emphatic statement from the uttarapakSha.  
   
 
 Nrsimhashrama expands the first of the above two verses as follows in his commentary ‘tattvabodhini’ :  
@@ -268,21 +268,21 @@ Nrsimhashrama expands the first of the above two verses as follows in his commen
 The commentary for the next verse runs thus:  
   
 
-“‘That which is unreachable by words or the mind, by virtue of the statement ‘yato vAco nivartante’, that which is devoid of origin and end, which is Pure Consciousness in essence, the Lord, who was doted upon as his own son by Anakadundubhi (vasudeva), Lord  Krishna Himself. From this Lord Krishna, this universe proceeds effortlessly, as if it were his breath. In your religion, the conclusion that the connection between words and their sense is established by the Lord is conditional upon the premise that the Lord can be inferred. However, we hold that the word-sense connection is apauruSheya.’ \- This is the meaning. In this verse, the author (Sarvajnatman) also displays the greatness of his Vishnu-bhakti.”  
+“‘That which is unreachable by words or the mind, by virtue of the statement ‘yato vAco nivartante’, that which is devoid of origin and end, which is Pure Consciousness in essence, the Lord, who was doted upon as his own son by Anakadundubhi (vasudeva), Lord Krishna Himself. From this Lord Krishna, this universe proceeds effortlessly, as if it were his breath. In your religion, the conclusion that the connection between words and their sense is established by the Lord is conditional upon the premise that the Lord can be inferred. However, we hold that the word-sense connection is apauruSheya.’ \- This is the meaning. In this verse, the author (Sarvajnatman) also displays the greatness of his Vishnu-bhakti.”  
   
 
-\[सत्यज्ञानमनन्तमित्यादिना वेदेन लक्षणवृत्त्या गम्यो वैदिकः तत्र हेतुः – वाङ्मनसातिग इति । वाङ्मनसे अतिक्रान्तः यतो वाच इतिश्रुतेः अनुदितलुप्तचिदेकरसः उत्पत्तिविनाशरहितचैतन्यैकस्वरूपः सत्यादि वाक्यलक्ष्यवाङ्मनसागोचरानुदितानस्तमित बोधस्वरूपादित्यर्थः । आनकदुन्दुभिनन्दनाद्वसुदेवेन पुत्रतेत्वेनाभिमन्यमानात् श्रीकृष्णादित्यर्थः । अनेन स्वस्य विष्णुभक्त्याधिक्यं द्योतितम् ।  अमतिपूर्वमबुद्धिपूर्वं निश्वासवदनायासेनेत्यर्थः । इदं परिदृश्यमानं सकलं नामरूपकर्मात्मकमित्यर्थः । तथा च भवदभिमतेश्वरस्य अनुमानादसिद्धेः तत्सिद्धिं विना च सङ्केतस्य तत्कृतत्वासिद्धेर्न शब्दार्थसम्बन्धः पौरुषेय इति भावः ॥\]**_\[satyajñānam anantam ityādinā vedena lakṣaṇa-vṛttyā gamyo vaidikaḥ tatra hetuḥ – vāṅmanasātiga iti । vāṅmanase atikrāntaḥ yato vāca iti śruteḥ anudita lupta cideka rasaḥ utpatti vināśa rahita caitanyaika svarūpaḥ satyādi vākya lakṣya vāṅmanasāgocarānuditānastamita bodha svarūpād ityarthaḥ । ānakadundubhinandanād vasudevena putratetvena abhimanyamānāt śrī kṛṣṇād ityarthaḥ । anena svasya viṣṇubhakty ādhikyaṃ dyotitam ।  amatipūrvam abuddhipūrvaṃ niśvāsavad anāyāsenety arthaḥ । idaṃ paridṛśyamānaṃ sakalaṃ nāma-rūpa-karmātmakam ityarthaḥ । tathā ca bhavadabhimateśvarasya anumānād asiddheḥ tatsiddhiṃ vinā ca saṅketasya tat kṛtatvāsiddher na śabdārtha sambandhaḥ pauruṣeya iti bhāvaḥ ॥\]_**  
+\[सत्यज्ञानमनन्तमित्यादिना वेदेन लक्षणवृत्त्या गम्यो वैदिकः तत्र हेतुः – वाङ्मनसातिग इति । वाङ्मनसे अतिक्रान्तः यतो वाच इतिश्रुतेः अनुदितलुप्तचिदेकरसः उत्पत्तिविनाशरहितचैतन्यैकस्वरूपः सत्यादि वाक्यलक्ष्यवाङ्मनसागोचरानुदितानस्तमित बोधस्वरूपादित्यर्थः । आनकदुन्दुभिनन्दनाद्वसुदेवेन पुत्रतेत्वेनाभिमन्यमानात् श्रीकृष्णादित्यर्थः । अनेन स्वस्य विष्णुभक्त्याधिक्यं द्योतितम् । अमतिपूर्वमबुद्धिपूर्वं निश्वासवदनायासेनेत्यर्थः । इदं परिदृश्यमानं सकलं नामरूपकर्मात्मकमित्यर्थः । तथा च भवदभिमतेश्वरस्य अनुमानादसिद्धेः तत्सिद्धिं विना च सङ्केतस्य तत्कृतत्वासिद्धेर्न शब्दार्थसम्बन्धः पौरुषेय इति भावः ॥\]**_\[satyajñānam anantam ityādinā vedena lakṣaṇa-vṛttyā gamyo vaidikaḥ tatra hetuḥ – vāṅmanasātiga iti । vāṅmanase atikrāntaḥ yato vāca iti śruteḥ anudita lupta cideka rasaḥ utpatti vināśa rahita caitanyaika svarūpaḥ satyādi vākya lakṣya vāṅmanasāgocarānuditānastamita bodha svarūpād ityarthaḥ । ānakadundubhinandanād vasudevena putratetvena abhimanyamānāt śrī kṛṣṇād ityarthaḥ । anena svasya viṣṇubhakty ādhikyaṃ dyotitam । amatipūrvam abuddhipūrvaṃ niśvāsavad anāyāsenety arthaḥ । idaṃ paridṛśyamānaṃ sakalaṃ nāma-rūpa-karmātmakam ityarthaḥ । tathā ca bhavadabhimateśvarasya anumānād asiddheḥ tatsiddhiṃ vinā ca saṅketasya tat kṛtatvāsiddher na śabdārtha sambandhaḥ pauruṣeya iti bhāvaḥ ॥\]_**  
   
 
 Note especially the following words of Nrsimhasrama: "**Shankara (i.e., Shiva/Rudra), is excellent in his knowledge compared to us and in our opinion. However, he does not possess unbounded prowess, rulership, or knowledge.**" There can not be a more direct statement from an Advaitin supporting the position of Vaishnavas regarding Rudra.  
   
 
-Note also  that even though the author Sarvajnatman calls Shiva as “जगद्गुरुः”  **_“jagadguruḥ”_**in 3.263. However, this does not imply any supremacy, but only says that Shiva imparts knowledge as agreed by all Vaishnavas. In fact, looking at the whole text from another angle, this description may even show that Vishnu is superior to Shiva: While the author says that Lord Vishnu too is a Guru elsewhere, he always employs the superlative degree unlike in the case of Shiva. For example -- “जगदेकगुरुः”**_“jagadekaguruḥ”_**(2.166), “जगदेकहितः”**_“jagadekahitaḥ”_** (3.353), “अशेषगुरुः”**_“aśeṣaguruḥ”_**(3.351) etc.
+Note also that even though the author Sarvajnatman calls Shiva as “जगद्गुरुः” **_“jagadguruḥ”_**in 3.263. However, this does not imply any supremacy, but only says that Shiva imparts knowledge as agreed by all Vaishnavas. In fact, looking at the whole text from another angle, this description may even show that Vishnu is superior to Shiva: While the author says that Lord Vishnu too is a Guru elsewhere, he always employs the superlative degree unlike in the case of Shiva. For example -- “जगदेकगुरुः”**_“jagadekaguruḥ”_**(2.166), “जगदेकहितः”**_“jagadekahitaḥ”_** (3.353), “अशेषगुरुः”**_“aśeṣaguruḥ”_**(3.351) etc.
 
 The following verse in the same section asserts the same message again:  
   
 
-3.272 – "विश्वं विष्णोरुत्थितं नामरूपं निःश्वासादिप्रख्यमित्याह वेदः॥"**_"viśvaṃ viṣṇor utthitaṃ nāma-rūpaṃ niḥśvāsādi-prakhyam-ity-āha vedaḥ॥"_**  \[The Veda says that the universe emanates like breath from Vishnu.\]  
+3.272 – "विश्वं विष्णोरुत्थितं नामरूपं निःश्वासादिप्रख्यमित्याह वेदः॥"**_"viśvaṃ viṣṇor utthitaṃ nāma-rūpaṃ niḥśvāsādi-prakhyam-ity-āha vedaḥ॥"_** \[The Veda says that the universe emanates like breath from Vishnu.\]  
   
 
 3.290 – Consider this verse:  
@@ -334,7 +334,7 @@ Here, the commentator Ramatirtha shows two shlokas from Smriti:
 येषाम् इन्दीवरश्यामो हृदयस्थो जनार्दनः ॥”**_yeṣām indīvara-śyāmo hṛdayastho janārdanaḥ ॥”_**  
   
 
-**\[Meaning:** Always, in every undertaking, there is no bad luck to those in whose heart Lord Hari, the bringer of luck, is ever present. To such persons profit and victory is always ensured. To them, in whose hearts are residences of dark-blue-hued Lord Janardana,  how can there ever be defeat at anyone's hands?**\]**
+**\[Meaning:** Always, in every undertaking, there is no bad luck to those in whose heart Lord Hari, the bringer of luck, is ever present. To such persons profit and victory is always ensured. To them, in whose hearts are residences of dark-blue-hued Lord Janardana, how can there ever be defeat at anyone's hands?**\]**
 
   
 \[Aside: These two shlokas are found in the appendix to shAntiparva (supplementary passages) in the BORI critical edition of Mahabharata.\]  
@@ -375,7 +375,7 @@ Hence, it is quite clear that the shloka
 which is recited by both Smarthas and Vaishnavas should be properly interpreted as a prayer to Vishnu because of the above reason, in addition to the two below:  
   
 
-- There are no visheShaNas  (adjectives such as gajamukhatvaM, ekadantatvaM, bhUtagaNAdhipatitvaM, etc.) or shabdas with rUDhitvaM on any devatAntara mentioned.  
+- There are no visheShaNas (adjectives such as gajamukhatvaM, ekadantatvaM, bhUtagaNAdhipatitvaM, etc.) or shabdas with rUDhitvaM on any devatAntara mentioned.  
       
     
 
