@@ -4582,7 +4582,7 @@ Otherwise, there would be a deficiency in the number of Vidyās.
 </details>
 
 ## दर्शनान्तराणि
-### साङ्क्यम्
+### साङख्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा साङ्ख्य-शास्त्रं भगवता कपिलेन प्रणीतम् ।

@@ -8,7 +8,9 @@ title = "Data errors"
 ## pAncharAtra
 (Logical errors considered separately.)
 
-Mainly, did not understand what was supposed to have been dismissed; _guessed_ (wrongly at that) 3+ positions pAncharAtrins might have; and assumed that bAdarAyaNa did the same - see [YT](https://www.youtube.com/watch?v=gS-xk9qiPo4&t=515s)
+Mainly, did not understand what was supposed to have been dismissed; _guessed_ (wrongly at that) 3+ positions pAncharAtrins might have; and assumed that bAdarAyaNa did the same - see [YT](https://www.youtube.com/watch?v=gS-xk9qiPo4&t=515s).
+
+विश्तारश् चात्र - Source: [TW](/mahAbhAratam/vyAsaH/goraxapura-pAThaH/hindy-anuvAdaH/12_shAntiparva/03_moxadharmaparva/335-351_nArAyaNIyam/vishvAsaH/339_jIvotpatti-layau)
 
 ### करणोत्पत्ति-श्रुतिः
 
