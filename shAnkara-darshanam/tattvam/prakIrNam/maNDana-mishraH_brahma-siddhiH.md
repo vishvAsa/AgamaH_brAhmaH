@@ -2,6 +2,19 @@
 title = "मण्डन-मिश्रः - ब्रह्म-सिद्धिः"
 +++
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Brahmasiddhi likely written around the same period as (or not long after) Śaṅkara’s early works, but as an independent text that reflects pre- or parallel-Śaṅkaran Advaita currents. There is no strong evidence that Maṇḍana directly responded to Śaṅkara’s bhashyas as a later author would.
+
+Until around the 10th century, Śaṅkara was often “overshadowed” by Maṇḍana Miśra, who was seen as the major representative of Advaita.
+
+There are few or no contemporary references to Śaṅkara (8th century) in Buddhist, Jain, or other Hindu philosophical sources from the 8th–9th centuries. He appears to have been relatively unknown or less cited outside his immediate circle until the 10th–11th centuries, when his commentaries gained wider institutional and commentarial support.
+
+Manuscript survival and regional influence favored Maṇḍana initially, especially given his stature in Mīmāṃsā circles (as a student of Kumārila Bhaṭṭa).
+
+
+</details>
+
 
 आनन्दमेकममृतमजं विज्ञानमक्षरम् ।  
 असर्वं सर्वमभयं नमस्यामः प्रजापतिम्  ॥ १.१ ॥  
