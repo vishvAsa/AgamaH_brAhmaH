@@ -72,6 +72,15 @@ No coherent answer.
 In the sun example, atleast the sun _and_ the observer are real.  
 In the shAnkaran comedy, there is no real other than brahman. So, the example is junk.
 
+Certain shAnkarans admit the fact that typically admitted beginningless avidyA is illogical -
+
+> इत्येवम् अधस्तात् समासतो दर्शितम् अनुपपत्तिसप्तकं द्वैतिभिर् उद्भाव्यमानं मूलाविद्याप्रक्रियायाम् ।  
+न चैतस्माद् दूषणसप्तकात् परिमोक्षं पश्यामो  
+भावाविद्याम् अवस्थात्रये ऽप्यनुगताम् आश्रियमाणस्य ।  
+तस्माद् अपि न युक्तियुक्तेयं प्रकृता प्रक्रियेति सिद्धम् ।।
+
+इति सच्चिदानन्देन्द्र-सरस्वती मूलाविद्यानिरासे।  
+
 
 ## मिथ्या-वेद-प्रामाण्यम्
 Anyway, what's your proof for any of what you say - veda is avidyA for you. So shAnkaran advaita is baseless blabbering by your own admission.
