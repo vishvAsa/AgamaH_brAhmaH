@@ -77,3 +77,28 @@ The mAdhva text सुमध्व-विजय guesses that he was on the baudd
 
 yAmuna and rAmAnuja termed shAnkaras "prachChanna-bauddha-s" (crypto-buddhists).
 
+## प्रच्छन्न-वेदान्तिता?
+Crypto and open buddhus share their scorn for veda-s in calling it mithyA. https://youtu.be/R5F0seTksBI
+
+Only the cryptos weirdly (without any sensible justification) privilege some "mithya vedic" statements over others.
+
+
+### भवविवेकः
+भवविवेको माध्यमकहृदये पूर्वपक्षिणम् उदाहरति-
+
+> महायानेऽप्ययं मार्गः सर्ववित्त्वाप्तये मुनेः।  
+यानान्तरत्वात् प्रत्येकबुद्धयाने यथेष्यते॥६॥  
+न बुद्धोक्तिर्महायानं सूत्रान्तादावसंग्रहात्।  
+मार्गान्तरोपदेशाद् वा यथा वेदान्तदर्शनम्॥७॥
+
+Meh - pUrvapaxa only says it teaches a separate path, as vedAnta-darshana does. It doesn't say it teaches vedAnta or something similar to it (in which case, one would the qualification would be like वेदान्तोपदेशाद् वा).
+
+
+> वेदान्ते च हि यत् सूक्तं  
+तत् सर्वं बुद्धभाषितम्॥  
+दृष्टान्तन्यूनता तस्मात्  
+सन्दिग्धं वा परीक्ष्यताम्॥५६॥
+
+That's obviously the uttarapaxa, where the author is calling vedAntins prachChanna-bauddha-s and not vice versa.
+
+
