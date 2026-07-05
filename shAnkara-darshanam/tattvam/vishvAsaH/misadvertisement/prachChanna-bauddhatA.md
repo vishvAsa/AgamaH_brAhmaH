@@ -78,9 +78,8 @@ The mAdhva text सुमध्व-विजय guesses that he was on the baudd
 yAmuna and rAmAnuja termed shAnkaras "prachChanna-bauddha-s" (crypto-buddhists).
 
 ## प्रच्छन्न-वेदान्तिता?
-Crypto and open buddhus share their scorn for veda-s in calling it mithyA. https://youtu.be/R5F0seTksBI
-
-Only the cryptos weirdly (without any sensible justification) privilege some "mithya vedic" statements over others.
+### वेद-मिथ्यात्वम्
+Crypto and open buddhus share their scorn for veda-s in calling it mithyA. https://youtu.be/R5F0seTksBI . Only the cryptos weirdly (without any sensible justification) privilege some "mithya vedic" statements over others.
 
 
 ### भवविवेकः
@@ -93,7 +92,6 @@ Only the cryptos weirdly (without any sensible justification) privilege some "mi
 
 Meh - pUrvapaxa only says it teaches a separate path, as vedAnta-darshana does. It doesn't say it teaches vedAnta or something similar to it (in which case, one would the qualification would be like वेदान्तोपदेशाद् वा).
 
-
 > वेदान्ते च हि यत् सूक्तं  
 तत् सर्वं बुद्धभाषितम्॥  
 दृष्टान्तन्यूनता तस्मात्  
@@ -101,4 +99,24 @@ Meh - pUrvapaxa only says it teaches a separate path, as vedAnta-darshana does. 
 
 That's obviously the uttarapaxa, where the author is calling vedAntins prachChanna-bauddha-s and not vice versa.
 
+### Late Tibetan deama
+> For example, Tu-gen (thu'u bkvan blo bzang chos kyi nyi ma) in his grub mtha' zhal gyi me long (as discussed by Ruegg, "The Jo nang pas"), Ngak-wang-bel-den, and Gon-chok-den-bay-dron-may (dkon mchog bstan pa'i sgron me, 1762-1823) in his yid dang kun gzhi'i dka' grad mam par bshad pa mkhas pa'i jug ngogs, 137.5. 
+> 
+> The Jo-nang-bas were named at various times as proponents of Mind-Only (cittamatra), proponents of views indistinguishable from Mimamsa, and crypto-Vedantins; they were also attacked for attributing a material nature (shape and color) to the tathagatagarbha. 
+> 
+> While Shay-rap-gyel-tsen was not charged with deriving his position from non-Buddhist sources, he was frequently charged with holding views which are indistinguishable from those of atma-vada systems. 
+> 
+> -- The Two Turths - Guy Newland
+
+
+
+> attributing a material nature (shape and color) to the tathagatagarbha.
+
+is obviously contrary to nirvisheSha-brahma-vAda. Rather they're worried about a substantial violation of shUnyata (which the crypto-buddhu-s wouldn't anyway manage).
+
+
+> The accusations of being crypto-Vedantin-s towards Mahayanists and later Indian Vajrayanists seem to have little overlap with accusations against KA of being crypto-Buddhist; the latter are specifically centered on the borrowing of the two truths doctrine, and you would be hard pressed to find anyone, even a Theravadin, accusing another Buddhist of being a crypto-Vedantin because of that position.
+>
+> The accusations against shentong are closer but they still don't have anything to do with the two truths.
+> \- Andra
 

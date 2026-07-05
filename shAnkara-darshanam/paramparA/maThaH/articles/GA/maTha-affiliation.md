@@ -4,6 +4,8 @@ title = "maTha-affiliation"
 
 Source: [TW](https://threadreaderapp.com/thread/1624550279076282368.html)
 
+Source: [TW](https://twitter.com/GhorAngirasa/status/1624550279076282368)
+
 > In other words, are Smartas and Advaitins necessarily one and the same?
 
 No, that is not the case. The Advaita-Maṭha-affiliation of Smārta Gṛhasthas is of recent provenance (500 years ago or less).
