@@ -9,16 +9,34 @@ Source: [here](https://vansatakopadaya.wordpress.com/2026/07/04/upani%e1%b9%a3ad
 Vaṇśaṭhakōpadayā
 
 ## मङ्गलम्
-पद्मानायक पादपद्मयुगले पर्यायभृंगात्मना  
+पद्मानायक पाद-पद्म-युगले पर्याय-भृंगात्मना  
 चेतो मे चिर-पक्षपात-विभवाद् आस्वादम् आसीदतु ।  
 अध्यात्म-श्रुति-दुग्ध-सिन्धु-लहरी संचार-सम्भावितैः  
 हंस-श्रीर् अधिगम्यते सुकृतिभिर् यत्रोल्लसद्-बुद्धिभिः ॥
 
-उद्गृह्णतीमुपनिषत्सु निगूढमर्थं चित्ते निवेशयितुमल्पधियां स्वयं नः ।  
-पश्येम लक्ष्मणमुनेः प्रतिपन्नहस्तां उन्निद्रपद्मसुभगामुपदेशमुद्राम् ॥
+उद्गृह्णतीम् उपनिषत्सु निगूढमर्थं  
+चित्ते निवेशयितुम् अल्पधियां स्वयं नः ।  
+**पश्येम** लक्ष्मणमुनेः प्रतिपन्न-हस्तां  
+उन्निद्र-पद्म-सुभगाम् उपदेश-मुद्राम् ॥
 
 ## Intro
 Of late there has been a tendency among certain neo cults and modern Advaitic thinkers like [here](https://adbhutam.wordpress.com/2018/10/02/niralambopanishat-a-few-select-passages/) to quote from certain dubious Upaniṣads which they claim is a part of the “108” listed in the Muktikā canon. We attempt to analyse the legitimacy of such claims and draw a line between true Śrutis and bogus ones.
+
+<details><summary>SV - Fraud history</summary>
+
+Puttur swamy has written some work "upanishattukal 108 ah" in tamil refuting their bogus claims. 
+</details>
+
+
+<details><summary>SV - purpose</summary>
+
+There is 1 such upanisat of theirs called vajrasUchika which claims caste isnt based on body coz no brahmahatya comes for a son cremating his brahmin father(if V1 ness was in body then destruction of same must incur brahmahatya)
+
+In fact ug advaitins to defend their interpretation of tattvamasi against logics of VAs and dvaitins have made up 1 upanishad called shukarahasya "upanishad". This claims that meaning for tattvamasi is thru laXaNa and like "soyam devadatta".  
+
+> Also see "vedANtik" rope-snake analogy. -VV 
+</details>
+
 
 ## 108 upaniShat paxa
 As per the Śrutis themselves, the Vedas are infinite – – “अनन्ता वै वेदाः”, “anantā vai vedāḥ” and every śākhā has at least 1 Upaniṣad associated with it. Therefore the proponents of those claiming 108 Upaniṣads claim that some of these from 108 are a part of these lost śākhās. The main source for these – the Muktikā is said to be a part of the Śukla Yajurveda.  
@@ -33,7 +51,7 @@ Such claims can be objected by the following:-
 The very first one
     possibly to mention that the Upaniṣads are 108 in number is Upaniṣad
     Brahmayogin who belongs to the 18th century – who lived just after
-    the Mughal invasion in South India.  
+    the Mughal invasion in South India. +++(5)+++ 
 
 ### Spurious upaniShats
 2\.  There are very well known spurious texts which got called as
@@ -55,6 +73,11 @@ For example
     have been put. It has to be noted that many of these Upaniṣads cited
     now were not even mentioned by Dara Shikoh.  
 
+<details><summary>kadiri-kRShNa (द्रष्टुं नोद्यम्)</summary>
+
+Source: [TW](/AgamaH_brAHmaH/shAnkara-darshanam/tattvam/vishvAsaH/errors_fraud/forgery/articles/dAra-shikoH-list)
+</details>
+
 ### Medieval Indian non-notice
 5\.  Not only Persian or foreign translators – even Indian logicians and
     debators such as Madhusūdana Sarasvatī or Appayya Dīkṣita have never
@@ -65,6 +88,16 @@ Either we should say that they
     brilliant minds of the 18th and 19th century found out – or that
     these texts did not exist in the first place – possibly made by them
     to defend their doctrines as a last ditch effort.  
+
+<details><summary>kadiri-kRShNa (द्रष्टुं नोद्यम्)</summary>
+
+Shri Vijayindra tirtha's list of 32 Upanishats doesn't have it - Source: [TW](/mAdhvam/tattvam/kadiri-kRShNaH/pramANAni/upaniShad-lists) 
+
+उपनिषदां काचिद् आवलिर् लभ्यते वैकुण्ठदीक्षितीये - [TW](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vaikuNTha-dIxita-prapanna-dharma-sAra-samuchchayaH/01_paribhAShA/03_shAstra-nAma-nirUpaNam) ।
+
+</details>
+
+
 
 ### Omission of legitimate upaniShats
 6\.  There are Upaniṣads such as the Pāramātmika Upaniṣad among the
@@ -81,7 +114,7 @@ What is the logic behind not quoting scriptures with explicit quotations in deba
 In the present edition of 108 Upaniṣads there are some statements not found in spite of being quoted by people such as Appayya Dīkṣita. 
 
 ### purANa-like material
-There are also spurious texts written along the lines of Itihāsa Purāṇas – especially in Mahopaniṣad \[which many like Vedānta Deśika tells was partly lost by his time\]. What again is the logic for this?
+There are also spurious texts written along the lines of Itihāsa Purāṇas – especially in Mahopaniṣad \[which many like Vedānta Deśika tells was partly lost by his time\]. What again is the logic for this?+++(5)+++
 
 ### Number
 If there were 1000+ śākhās as many claim, shouldn’t the Upaniṣad count also be 1000+ instead of 108? Why show partiality and come to this number 108?
@@ -102,15 +135,6 @@ The following is quoted by Vidyāraṇya which some claim is directly from the M
 > अधीत्य चतुरो वेदान्सर्वशास्त्राण्यनेकशः । ब्रह्मतत्त्वं न जानाति दर्वी पाकरसं यथा ॥
 >
 > वासनाहीनमप्येतच्चक्षुरादीन्द्रियं स्वतः । प्रवर्तते बहिः स्वाऽर्थे वासनामात्रकारणम् ॥”
->
-> “bahuśāstrakathākanthāromanthena vṛthaiva kim \| anveṣṭavyaṃ
-> prayatnena tattvajñairjyotirāntaram \|\|
->
-> adhītya caturo vedānsarvaśāstrāṇyanekaśaḥ \| brahmatattvaṃ na jānāti
-> darvī pākarasaṃ yathā \|\|
->
-> vāsanāhīnamapyetaccakṣurādīndriyaṃ svataḥ \| pravartate bahiḥ svā’rthe
-> vāsanāmātrakāraṇam \|\|”
 
 Analysing this:
 
@@ -186,7 +210,7 @@ Incidentally this hints to its nature as being plagiarized from the Yoga, Laghu 
 
 One can verify this for oneself by searching for verses in the Muktikā and comparing them with ones in Yoga Vāsiṣṭha – chances are highly to find a match.
 
-## Kaṭha Rudra
+## Kaṭha Rudra?
 Next we look at the apparent proof for other dubious Upaniṣads such as the “Kaṭha Rudra” quoted in Adbhutam’s blog [here](https://adbhutam.wordpress.com/2017/01/25/shankara-cites-the-ka%E1%B9%ADharudropani%E1%B9%A3ad/)
 
 > yajñopavītaṃ vedāṃśca sarvaṃ tadvarjayedyatiḥ
@@ -200,14 +224,15 @@ One should note that there is also a Kaṭhaśruti Upaniṣad which is much shor
 ## Non acceptance as upaniShat list
 While referring to the Mahopaniṣad – Vedānta Deśika discusses on its authenticity and refers to Ācāryas before Rāmānuja from his own sect as well as rival sects quoting the work :
 
-> एतेन महोपनिषत् कैश्चिदनुदाहृतत्व चोद्यमपास्तम् । न केवलं भगवद्रामानुजमुनिभिरेव
-> महोपनिषदुपात्ता अपि तु तत् परमाचार्यैः भगवद्यामुनमुनिभिरपि पुरुषनिर्णये समुपात्ता । न
-> चैवमेक सिद्धान्तनिष्ठैरेव अभियुक्तैः तदुपादानम् । अपि तु
-> तद्विरुद्धसन्मात्रब्रह्मभेदाभेदनिष्णातैः यादवप्रकाशैरपि भगवद्गीताभाष्येऽष्टमेऽध्याये । तथा
-> तन्मतानुसारिभिः नारायणाचार्यैरपि तत्त्वनिर्णये श्रुतितात्पर्यनिर्णयाधिकारे
-> सोपबृंहणनानाविधश्रुतिशिखरनिकरोदाहरणावसरे महोपनिषदादयान् “एक एव नारायण”
-> इत्यादिकश्चतुरो मन्त्रानुदाहृत्य एषा चोपनिषदः “एतौ द्वौ विबुधश्रेष्ठौ प्रसादक्रोधजौ
-> स्मृतौ । तदादर्शितपन्थानौ सृष्टिसंहारकारकौ ॥” इत्यादिभिरितिहासैः…उपबृंहितेत्युक्तम् ।
+> एतेन महोपनिषत् कैश्चिद् अनुदाहृतत्वचोद्यमपास्तम् ।  
+> न केवलं भगवद्रामानुजमुनिभिरेव महोपनिषदुपात्ता  
+> अपि तु तत् परमाचार्यैः भगवद्यामुनमुनिभिरपि पुरुषनिर्णये समुपात्ता ।  
+> न चैवमेक सिद्धान्तनिष्ठैरेव अभियुक्तैः तदुपादानम् ।  
+> अपि तु तद्विरुद्धसन्मात्रब्रह्मभेदाभेदनिष्णातैः यादवप्रकाशैरपि भगवद्गीताभाष्येऽष्टमेऽध्याये ।  
+> तथा तन्मतानुसारिभिः नारायणाचार्यैरपि तत्त्वनिर्णये श्रुतितात्पर्यनिर्णयाधिकारे  
+> सोपबृंहणनानाविधश्रुतिशिखरनिकरोदाहरणावसरे महोपनिषदादयान्  
+> “एक एव नारायण” इत्यादिकश्चतुरो मन्त्रानुदाहृत्य  
+> एषा चोपनिषदः “एतौ द्वौ विबुधश्रेष्ठौ प्रसादक्रोधजौ स्मृतौ । तदादर्शितपन्थानौ सृष्टिसंहारकारकौ ॥” इत्यादिभिरितिहासैः…उपबृंहितेत्युक्तम् ।
 
 This shows that in the case of Upaniṣads which are no more in the adhyayana paramparā – the only way back then was to verify whether it had been accepted in the works of rival sects as well as one’s own older teachers –  
 texts such as Muktikā if present would have made the verification easier or not allowed for any chance of accusation of inventing texts back during Deśika’s time.+++(5)+++
@@ -236,14 +261,31 @@ The current version from the 2nd chapter containing ślokas in the form of Purā
 Parallelly there has not been any objections to the quotations by Vedānta Deśika even from Śaivādvaita scholars such as Appayya Dīkṣita. This leads to the conclusion that the work was most likely lost in the middle possibly due to invasions and has been corrupted in its present form.
 
 ## Tejobindu Upaniṣad
-Similarly – the Tejobindu Upaniṣad has been published with several chapters – however some manuscripts of the same show only 14 verses as being part of the work which was published as part of the 60 Upaniṣads by Paul Deussen. This again casts doubts on the authenticity of the version present now.
+Similarly – the Tejobindu Upaniṣad has been published with several chapters – however some manuscripts of the same show only 14 verses as being part of the work which was published as part of the 60 Upaniṣads by Paul Deussen. (Source: [TW](https://archive.org/details/sixty-upanishads-of-the-veda-vol-2-paul-deussen)) This again casts doubts on the authenticity of the version present now.
+
+<details><summary>Deussen (द्रष्टुं नोद्यम्)</summary>
+
+Although the train of thoughts here is on the whole clear, the individual passages are often equally difficult and have already demanded from the Indian commentator the most jaw-breaking exegetical acrobatics. But when he e.g. in verse 9 puts up with brahmanam instead of the required brahma with the remark that here is only a confusion of gender and case (linga- vibhakti-vyatyayah), or when in verses 12 ff. he supplies śrità na vidur (subject, copula, negation and predicate) to the accusatives lobham etc., which are completely hanging in air, to make them intelligible, then we shall not follow him here as in much else but we will find ourselves facing the alternative as to whether the language feeling was already so completely blunted in the original author of these verses, or whether we are dealing with an enormously corrupt text-transmission. 
+
+The latter alternative would seem to be supported by the numerous but not better readings of the Telugu ed. in which our 14 stanzas form only the beginning of the Tejobindapanisad, which is followed by discussions in verses and prose which exceed more than thirty times the extent of our recension.]
+</details>
+
 
 ## Doctoring
 Śrī Vedānta Deśika mentions about the doctoring of various lesser known Upaniṣad texts which were lost during his time in Śatadūṣaṇī –
 
-> “यानि चान्यानि वाक्यानि सम्प्रतिपन्नश्रुतिस्मृतिष्वदृश्यमानानि
-> स्वाचारानुरूपमतपरिचर्यया केषुचिदप्रसिद्धेषु वा नष्टकोशेषु वा अनिरूपितमूलाग्रेषु वा पुराणेषु प्रक्षिप्य पठन्ति पापिष्ठाः; तानि प्रत्यक्षश्रुत्यादिपरिशीलनशालिनीषु
-> गरिष्ठगोष्ठीसु नावकाशं लभन्ते । ”+++(5)+++
+> “यानि चान्यानि वाक्यानि सम्प्रतिपन्न-श्रुतिस्मृतिष्व् अदृश्यमानानि
+> स्वाचारानुरूप-मत-परिचर्यया  
+> केषुचिद् अप्रसिद्धेषु वा नष्टकोशेषु वा ऽनिरूपित-मूलाग्रेषु वा पुराणेषु प्रक्षिप्य पठन्ति पापिष्ठाः;  
+> तानि प्रत्यक्ष-श्रुत्य्-आदि-परिशीलन-शालिनीषु गरिष्ठ-गोष्ठीषु  
+> नावकाशं लभन्ते । ”+++(5)+++
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> अतो युष्मत्-कूटस्थ-पक्ष-पातिनां प्रक्षेपस् तथा स्याद् वा न वेति  
+समीचीन-दृष्ट्या भावय । -- वेदान्तदेशिकः
+</details>
+
 
 ## Śaṅkara etc. write upaniShats?
 We also note that even works authored by some people – like Śaṅkara were passed on as Upaniṣads such as this
@@ -274,6 +316,12 @@ Is directly found in this Advaitic work Svātmaprakāśikā here again indicatin
 However, needless is to say that if any Upaniṣadic work has not been quoted by Pūrvācāryas even if it supports Vaiṣṇava Siddhānta it will not be considered as Śruti. Such texts have as much validity as the purported Allopaniṣad among Śiṣṭas. Therefore works such as Tripādvibhūti Nārāyaṇopaniṣad, Nārāyaṇa Tāpinī, Gopāla Tāpinī, Veṅkaṭa Tāpanīya among others may not be necessarily taken as Śruti – nor are they being quoted in any honest debates on Vedānta by Viśiṣṭādvaitins. 
 
 This applies equally to other Sampradāyas also. Those accusing madhvas of inventing hiterto unheard shrutis must retrospectively look at their own modern day quotations too.
+
+<details><summary>SV on puttUr svAmI</summary>
+
+Only upanishads with consensus can be used by each other in debates. In fact he tells dvayopanishad and all used by us isnt fit for being used in debates - tbf to the other side.
+</details>
+
 
 ## Conclusion
 Hence it stands that the current number of Upaniṣads as 108 is concocted and is not to be accepted as genuine Śruti.

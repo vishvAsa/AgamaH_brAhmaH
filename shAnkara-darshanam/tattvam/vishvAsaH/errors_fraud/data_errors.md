@@ -2,13 +2,19 @@
 title = "Data errors"
 +++
 
+## Text fabrication & misattribution
+See [here](../forgery)
 
+### Rope snake analogy
+> Everything you've ever experienced - including yourself and this interaction is an illusion, like in the case of a rope mistaken for a snake.
 
+The example doesn't even apply since in all these cases, the substrate behind the illusions is not attributeless (unlike in case of pseudo-buddhus)- which is why you don't mistake water for a snake or a rope for water.
 
+Quotes from questionable, late so-called upaniShads exist - [TW](https://adbhutam.wordpress.com/2017/02/15/rope-snake-analogy-in-upanishads/)
 
+There is a difference between "upaniShats" having it, and actual upaniShads having it. No actual vedAnta has used this analogy in this way. No major upaniShad has this allegory - a buddhist concoction coped by the hidden-buddhist. 
 
-## Misattribution of texts to shankara
-शङ्करकर्तृत्वे प्रामाण्यम् [अन्यत्र](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/shankaraH/meta/shankara-kRtayaH) चर्चितम्।
+bhAgavata purANa is vedAntic, the crypto bhAShyas are "vedAntic". It borrows the buddhu analogy and uses it for a totally opposite purpose, and more sensibly too
 
 ## pAncharAtra
 (Logical errors considered separately.)
