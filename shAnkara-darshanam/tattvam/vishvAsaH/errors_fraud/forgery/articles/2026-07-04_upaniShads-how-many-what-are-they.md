@@ -30,9 +30,13 @@ Puttur swamy has written some work "upanishattukal 108 ah" in tamil refuting the
 
 <details><summary>SV - purpose</summary>
 
-There is 1 such upanisat of theirs called vajrasUchika which claims caste isnt based on body coz no brahmahatya comes for a son cremating his brahmin father(if V1 ness was in body then destruction of same must incur brahmahatya)
+In fact ug advaitins to defend their interpretation of tattvamasi against logics of VAs and dvaitins have made up 1 upanishad called shukarahasya "upanishad". 
 
-In fact ug advaitins to defend their interpretation of tattvamasi against logics of VAs and dvaitins have made up 1 upanishad called shukarahasya "upanishad". This claims that meaning for tattvamasi is thru laXaNa and like "soyam devadatta".  
+Here nishchalAnanda sarasvatI telling "brahma satyam jaganmithya" is shruti vakya as it is present in nirAlambopanishad. Source: [TW](https://youtu.be/OaC_v2g6Sls?si=A59wACsc5Ho4LxJd)
+
+There is also some skandopanishad which tells brahma vishnu shiva all are same or something. They r quoting it. Source: [TW](https://youtu.be/qzU4LoqJQk0?si=IUcI2ItLuKub7tKl)
+
+There is 1 such upanisat of theirs called vajrasUchika which claims caste isnt based on body coz no brahmahatya comes for a son cremating his brahmin father(if V1 ness was in body then destruction of same must incur brahmahatya)
 
 > Also see "vedANtik" rope-snake analogy. -VV 
 </details>
