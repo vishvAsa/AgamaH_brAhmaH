@@ -62,8 +62,11 @@ Kamalaśīla: c. 740–795 CE; disciple of Śāntarakṣita and also referenced 
 > Nakamura was actually wrong as Bhavaviveka, Santaraksita and Kamalasila cite & treat Gaudapada as representative of Vedanta
 
 From the discussion above, some noteworthy conclusions can be drawn out.
+
 (1) Buddhists were aware of the fact that the teachings of the Vedantins were quite close to those of the Buddhists. This fact was also admitted by Akalanka, the Jain philosopher, in his commentary on Samantabhadra's Aptamimämsä, v. 24. Advayavajra followed his predecessors with the same kind of evaluation."
+
 (2) Advayavajra compared the sākāra-vijñānavāda to the Vedantic teachings of Hindu theism, whereas he compared the nirākāravijñānavāda to the Vedantic teachings of Bhaskara. This judgment is justifiable to a considerable extent.  
+
 (3) Advayavajra mentioned Bhaskara as the representative Nirākāra Vedāntin, and not Sankara. Śankara, the Vedantin, is not mentioned even a single time in any Buddhist or Jain philosophical work, whereas Bhaskara is mentioned in this passage and in a commentary on Dharmakirti's work. 10 
 
 The teachings of Advaita Vedanta are criticized in Buddhist works by Bhavya, Santarakṣita and Kamalaśila and in Jain works by Samantabhadra and Akalanka.
