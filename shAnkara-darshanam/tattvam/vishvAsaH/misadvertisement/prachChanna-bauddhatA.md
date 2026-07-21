@@ -10,8 +10,10 @@ Both open and crypto bauddhas think that the in the first instance, a nirvisheSh
 Both open and crypto bauddhas think that veda is illusory and born out of the blemish of avidyA, like as everything else in this transactional world. Yet, the latter illogically privilege the abheda bits of veda over other bits and the shUnyavAdi texts.
 
 ## Tacit admission
+### गौडपादः
 gauDapAda explicitly, comically, needed to clarify - "तथा ज्ञानं नैतद्बुद्धेन भाषितम्  ॥ ४.९९ ॥" in his kArika extension. Desperate fellow.
 
+### शङ्करः
 shankara himself as carefully distinguished his brahma-vivartavAda from the pre-existing shUnya-vivartavAda. (necessity of there being an adhiShThAna for the vivarta).
 
 शङ्करो ब्रह्मसूत्रभाष्यय् अभावाधिकरणे विज्ञान-वादं योगाचारानुगोक्तं तिरस्करोति, "क्षणिकत्वाच्च" इत्यत्र च नित्यम् आधारम् आकाङ्क्षते।  
@@ -25,9 +27,14 @@ shankara himself as carefully distinguished his brahma-vivartavAda from the pre-
 
 इति शङ्करस्य माण्डुक्यकारिकाभाष्यम्।
 
+### आनन्दगिरिः
+शङ्कर-विजये - 
 
+> +++(कुमारीलभट्ट आह-)+++ जागृत्-कालानागतो नूतनो बौद्धतरः  
+> कस्मात् इहागत्य उत्तापयसि।  
+> गुरुर् आह, "नाहं बौद्धः,  किन्तु शंकराचार्यः, शुद्धाद्वैतमार्गदाता, प्रसङ्गार्थम् इहागतोस्मि ।"  
 
-
+Source: [TW](https://archive.org/details/sankara-vijaya-of-anandagiri-jayanarayana-tarkapanchanana-1868)
 
 ## उल्लेखाः
 ### कुमारीलोल्लेखः
