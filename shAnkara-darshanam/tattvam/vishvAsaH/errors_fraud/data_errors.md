@@ -16,6 +16,20 @@ There is a difference between "upaniShats" having it, and actual upaniShads havi
 
 bhAgavata purANa is vedAntic, the crypto bhAShyas are "vedAntic". It borrows the buddhu analogy and uses it for a totally opposite purpose, and more sensibly too
 
+## द्वैत-निराकरण-वचनानि 
+विष्णुपुराणं यद् उदाहरति शङ्करः शाङ्करो वा (Source: [TW](https://www.facebook.com/reel/1562237425404760)) - 
+
+> तस्यात्म-पर-देहेषु  
+सतोऽप्य् एकम् अयं हि यत् ।  
+विज्ञानं परमार्थोऽसौ  
+द्वैतिनो ऽतथ्य-दर्शिनः ॥ ३१ ॥  
+वेणु-रन्ध्र-प्रभेदेन  
+भेदः षड्-जादि-संज्ञितः ।  
+अभेद-व्यापिनो वायोस्  
+तथा ऽस्य परमात्मनः ॥ ३२ ॥
+
+तत्र विशिष्टाद्वैतम् एवोक्तम् इत्य् [अन्यत्र](/purANam_vaiShNavam/viShNu-purANam/goraxapura-pAThaH/hindy-anuvAdaH/02/14) । 
+
 ## pAncharAtra
 (Logical errors considered separately.)
 
