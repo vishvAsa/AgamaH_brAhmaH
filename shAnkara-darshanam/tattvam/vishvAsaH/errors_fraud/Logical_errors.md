@@ -93,19 +93,29 @@ Your faith in the ability of vedic avidyA to say anything about something totall
 
 Which "factual statement" about nirguNa brahman (the only thing outside this "dream") have you verified? If not, how do you know it's "factual"?
 
-## Whence teaching?
-Video: [TW](https://youtu.be/FBmo0YvfPgA) .  
-[TW](https://youtu.be/nwichamq47M)
+## Behavior
+### मुमुक्षा
+> निरस्ताखिल-दुःखो ऽहम्  
+अनन्तानन्द-भाक् स्वराट्।  
+भवेयम् इति मोक्षार्थी  
+श्रवणादौ प्रवर्तते॥  
+अहम्-अर्थ-विनाशश् चेन्  
+मोक्ष इत्य् अध्यवस्यति।  
+अपसर्पेद् असौ मोक्ष-  
+कथा-प्रस्ताव-गन्धतः॥
 
-rAmAnuja mocks shAnkara teachings in commentary to BG 2.12.
+इति रामानुजः।
+
+### Whence teaching?
+Videos: [TW](/conversations/YT/shAnkaras/illogical-behavior) .  
 
 
-### niShThA case
+#### niShThA case
 For the ekAtmatA-jnAnaniShTha, it is understandable if inevitable behavior like breathing, eating and drinking persists, since the illusion persists after him realizing that it's an illusion; and desisting from such would cause the jnAnI discomfort. However, effortful behavior like lecturing for hours and hours and writing tomes addressing illusory beings does not make sense. So, in this case such behavior is not sane.
 
 You actually don't really believe this nonsense; otherwise, only a mad person would argue at length with person he knows to be an illusion.
 
-### No niShThA case
+#### No niShThA case
 For the non-ekAtmatA-jnAna-niShTha, preaching about ekAtmatA-jnAna does not make sense since, by definition, he himself does not have firm belief (niShThA) in it. So, in this case such behavior is not honest.
 
 ### Non-teachers
