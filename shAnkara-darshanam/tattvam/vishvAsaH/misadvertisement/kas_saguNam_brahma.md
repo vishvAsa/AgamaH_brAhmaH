@@ -279,6 +279,8 @@ kRShNapremi, a shAnkara descendent of periya-vAchchAn-piLLai, describes shankara
 
 
 ### अन्य-देवताभ्यः
+(देवताविशेषेभ्यो व्यावर्तनम् अग्रे वक्ष्यते।)
+
 > "नाम-भेद एव देवेषु, न व्यक्ति-भेद
 
 इति वादो निरस्तश् शङ्कर-वचनैः।  
@@ -294,6 +296,9 @@ kRShNapremi, a shAnkara descendent of periya-vAchchAn-piLLai, describes shankara
 
 इति गीता। 
 
+As per shankara in 9.23 etc., there are multiple devatAs distinct from vAsudeva viShNu. For he says - 
+
+> **येऽपि अन्यदेवताभक्ताः** अन्यासु देवतासु भक्ताः अन्यदेवताभक्ताः…
 
 
 अन्यत्र -
