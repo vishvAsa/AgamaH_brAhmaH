@@ -510,7 +510,7 @@ Whence such a childish objection, data-consideration error?
 
 Moreover, manifold contradictions are met with in the Bhāgavata system, with reference to the assumption of qualities and their bearers. Eminence of knowledge and ruling capacity, strength, valour, and glory are enumerated as qualities, and then they are in some other place spoken of as Selfs, holy Vāsudevas, and so on.
 
-Moreover, we meet with passages contradictory of the Veda. The following passage, for instance, blames the Veda, 'Not having found the highest bliss in the Vedas Śāṇḍilya. studied this śāstra.'
+Moreover, we meet with passages contradictory of the Veda. The following passage, for instance, blames the Veda, 'Not having found the highest bliss in the Vedas Śāṇḍilya studied this śāstra.'
 
 For this reason also the Bhāgavata doctrine cannot be accepted.
 </details>
