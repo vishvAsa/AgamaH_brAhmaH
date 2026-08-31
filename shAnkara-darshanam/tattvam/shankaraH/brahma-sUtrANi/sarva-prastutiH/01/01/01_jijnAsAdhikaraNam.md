@@ -204,6 +204,16 @@ The reading of the Veda indeed is the common antecedent (for those who wish to e
 अधीत-वेदान्तस्य ब्रह्म-जिज्ञासोपपत्तेः।  
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अत्र रामानुजो विवदते।  
+शङ्करेणातश्-शब्द-वर्णने य उच्यते फल-स्थिरत्व-भेदावबोधः,  
+सोऽपि कर्म-विचारम् अपेक्षते हि।  
+विहिताश् च ब्रह्म-ज्ञानय् उपासना नाना।  
+ते विधयोऽपि कर्म-मीमांसाम् अपेक्षन्ते। 
+</details>
+
+
 <details><summary>English</summary>
 
 The special question with regard to the enquiry into Brahman is whether it presupposes as its antecedent the understanding of the acts of religious duty (which is acquired by means of the Pūrvā Mīmāṁsā). To this question we reply in the negative, because for a man who has read the Vedānta-parts of the Veda it is possible to enter on the enquiry into Brahman even before engaging in the enquiry into religious duty. 
@@ -217,10 +227,11 @@ The special question with regard to the enquiry into Brahman is whether it presu
 </details>
 
 
+#### शेष-शेषित्व-भावो न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा च हृदयाद्य्-अवदानानाम् आनन्तर्यनियमः, क्रमस्य विवक्षितत्वात् ,  
-न तथेह क्रमो विवक्षितः। 
+न तथेह क्रमो विवक्षितः – 
 </details>
 
 <details><summary>English</summary>
@@ -235,7 +246,6 @@ Nor is it the purport of the word 'then' to indicate order of succession; a purp
 
 यथा च हृदयाद्यवदानानामानन्तर्यनियमः, क्रमस्य विवक्षितत्वात् , न तथेह क्रमो विवक्षितः। 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -261,9 +271,10 @@ Nor is it the purport of the word 'then' to indicate order of succession; a purp
 ‘पिऱगु' ऎऩ्ऱ अर्त्तमुळ्ळ तऩ्मैयिरुक्किऱ पडियाल्, तर्म जिज्ञासै (तर्मत्तै अऱिय विरुप्पम्) ऎऩ्बदु मुऩ् इरुक्कुम् वेदात्ययऩत्तै नियममाग अबेक्षिक्किऱदु ऎप्पडियो, अप्पडिये पिरह्म जिज्ञासै (पिरह्मत्तै अऱिय विरुप्पम्) ऎऩ्बदुम् मुऩ् इरुप्पदाग ऎदै नियममाग अबेक्षिक्कुमो, अदु इङ्गु सॊल्लप्पड वेण्डुम्। 'वेदत्तिऩ् अत्ययऩत् तिऱ्कुप् पिऱगु' ऎऩ्ऱु सॊऩ्ऩालो, अदु (इरण्डिऱ्कुम्) पॊदुवायुळ्ळदु। इङ्गु 'कर्माविऩ् अऱिविऱ्कुप् पिऱगु' ऎऩ्ऱ विसेषम् इरुक्कलामेयॆऩ्ऱाल्, सरियल्ल; उबनिषत्तै अत्ययऩम् सॆय्दवऩुक्कु तर्मत्तै अऱिय विरुप्पम् एऱ्पडुवदऱ्कु मुऩ्ऩालेये, पिरह्मत्तै अऱिय विरुप्पम् एऱ्पडक्कूडियदाऩदिऩाल्, (यागत्तिल्) ह्रुदयम् मुदलाऩवैगळै ऎडुप्पदुगळिल् ऎप्पडि ‘पिऱगु' ऎऩ्ऱ नियमम् इरुक्किऱदो वरिसैयैच् चॊल्ल उत्तेसित्तिरुप्पदाल्, अप्पडि इङ्गे (तर्म अऱिवु, पिरह्म अऱिवु, ऎऩ्बदऱ्कुळ्) वरिसै सॊल्ल उत्तेसिक्कप्पट्टदिल्लै; तर्म जिज्ञासै पिरह् मजिज्ञासै इव्विरण्डिऱ्कुळ् अङ्गम् अङ्गी ऎऩ्ऱ तऩ्मै उण्डॆऩ्बदिलो, (अदिल्) अदिगारम् पॆऱ्ऱिरुन्दवऩुक्कुत्ताऩ् (इदिल् अदिगारमुण्डॆऩ् पदिलो, पिरमाणम् इल्लाददिऩाल्।
 </details>
 
+#### फल-जिज्ञास्य-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धर्मब्रह्मजिज्ञासयोः फलजिज्ञास्यभेदाच्च।  
+धर्म-ब्रह्म-जिज्ञासयोः फल-जिज्ञास्य-भेदाच् च +++(न कर्मावबोधानन्तर्यम्)+++।  
 </details>
 
 <details><summary>English</summary>
@@ -280,7 +291,7 @@ and because the result as well as the object of the enquiry differs in the two c
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभ्युदयफलं धर्मज्ञानम् ,  
-तच्चानुष्ठानापेक्षम्;  
+तच् चानुष्ठानापेक्षम्;  
 </details>
 
 <details><summary>English</summary>
@@ -297,7 +308,8 @@ The knowledge of active religious duty has for its fruit transitory felicity, an
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निःश्रेयसफलं तु ब्रह्मविज्ञानम् , न चानुष्ठानान्तरापेक्षम्। 
+निःश्रेयसफलं तु ब्रह्मविज्ञानम् ,  
+न चानुष्ठानान्तरापेक्षम्। 
 </details>
 
 <details><summary>English</summary>
@@ -359,9 +371,10 @@ In the Brahma-mīmāṁsā, on the other hand, the object of enquiry, i.e. Brahm
 अऱिय विरुम्बप्पडुगिऱ तर्मम् इऩि एऱ्पड वेण्डियदायुम् इरुक्किऱदु। अऱियुम् कालत्तिल् इल्लै, पुरुषऩुडैय व्याबारत्तिऱ्कु अदीऩमायिरुप्पदाल्; इङ्गेयो अऱियविरुम्बप्पडुम् पिरह्मम् एऱ्पट्टे यिरुप्पदु, ऎऩ्ऱैक्कुम् उळ्ळदाऩदिऩाल् पुरुषऩुडैय वियाबारत्तिऱ्कु अदीऩमुम् अल्ल।
 </details>
 
+#### पुरुष-नियोगाभावात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चोदनाप्रवृत्तिभेदाच्च।  
+चोदनाप्रवृत्तिभेदाच् च +++(न कर्मावबोधानन्तर्यम्)+++।  
 </details>
 
 <details><summary>English</summary>
@@ -379,7 +392,7 @@ The two enquiries differ moreover in so far as the operation of their respective
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या हि चोदना धर्मस्य लक्षणं  
-सा स्वविषये नियुञ्जानैव  
+सा स्वविषये +++(पुरुषं)+++ नियुञ्जानैव  
 पुरुषम् अवबोधयति।
 </details>
 
@@ -397,7 +410,7 @@ For the fundamental texts on which active religious duty depends convey informat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मचोदना तु पुरुषमवबोधयत्येव केवलम्। 
+ब्रह्म-चोदना तु पुरुषम् अवबोधयत्य् एव केवलम्। 
 </details>
 
 <details><summary>English</summary>
@@ -413,7 +426,8 @@ while the fundamental texts about Brahman merely instruct man, without laying on
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अवबोधस्य चोदनाजन्यत्वात् , न पुरुषोऽवबोधे नियुज्यते। 
+अवबोधस्य चोदनाजन्यत्वात् ,  
+न पुरुषोऽवबोधे नियुज्यते। 
 </details>
 
 <details><summary>English</summary>
@@ -454,7 +468,8 @@ The case is analogous to that of the information regarding objects of sense whic
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मात्किमपि वक्तव्यम् , यदनन्तरं ब्रह्मजिज्ञासोपदिश्यत इति। 
+तस्मात् किमपि वक्तव्यम् ,  
+यदनन्तरं ब्रह्मजिज्ञासोपदिश्यत इति। 
 </details>
 
 <details><summary>English</summary>
@@ -560,7 +575,7 @@ The word 'therefore' intimates a reason.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस्माद्वेद एव अग्निहोत्रादीनां श्रेयःसाधनानाम्  
+यस्माद् वेद एव अग्निहोत्रादीनां श्रेयःसाधनानाम्  
 अनित्यफलतां दर्शयति — 
 </details>
 
@@ -666,7 +681,7 @@ therefore the enquiry into Brahman is to be undertaken subsequently to the acqui
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म च वक्ष्यमाणलक्षणम् ‘जन्माद्यस्य यतः’ इति। 
+ब्रह्म च वक्ष्यमाण-लक्षणम् ‘जन्माद्यस्य यतः’ इति। 
 </details>
 
 <details><summary>English</summary>
@@ -681,7 +696,8 @@ By Brahman is to be understood that the definition of which will be given in the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव न ब्रह्मशब्दस्य जात्याद्यर्थान्तरमाशङ्कितव्यम्। 
+अत एव  
+न ब्रह्म-शब्दस्य जात्याद्यर्थान्तरम् आशङ्कितव्यम्। 
 </details>
 
 <details><summary>English</summary>
@@ -697,7 +713,8 @@ it is therefore not to be supposed that the word Brahman may here denote somethi
 ### कर्मणि षष्ठी
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मण इति कर्मणि षष्ठी, न शेषे; जिज्ञास्यापेक्षत्वाज्जिज्ञासायाः। जिज्ञास्यान्तरानिर्देशाच्च ।
+ब्रह्मण इति कर्मणि षष्ठी, न शेषे;  
+जिज्ञास्यापेक्षत्वाज् जिज्ञासायाः। जिज्ञास्यान्तरानिर्देशाच् च ।
 </details>
 
 <details><summary>English</summary>
@@ -733,7 +750,8 @@ In the Sūtra the genitive case ('of Brahman;' the literal translation of the S�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ननु शेषषष्ठीपरिग्रहेऽपि ब्रह्मणो जिज्ञासाकर्मत्वं न विरुध्यते, सम्बन्धसामान्यस्य विशेषनिष्ठत्वात्। 
+> ननु शेष-षष्ठी-परिग्रहेऽपि ब्रह्मणो जिज्ञासा-कर्मत्वं न विरुध्यते,  
+सम्बन्धसामान्यस्य विशेषनिष्ठत्वात्। 
 </details>
 
 <details><summary>English</summary>
@@ -749,7 +767,7 @@ In the Sūtra the genitive case ('of Brahman;' the literal translation of the S�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवमपि प्रत्यक्षं ब्रह्मणः कर्मत्वम् उत्सृज्य  
+एवम् अपि प्रत्यक्षं ब्रह्मणः कर्मत्वम् उत्सृज्य  
 सामान्य-द्वारेण परोक्षं कर्मत्वं कल्पयतो  
 व्यर्थः प्रयासः स्यात् ।
 </details>
@@ -984,7 +1002,7 @@ For the complete comprehension of Brahman is the highest end of man, since it de
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माद्ब्रह्म जिज्ञासितव्यम् ॥
+तस्माद् ब्रह्म जिज्ञासितव्यम् ॥
 </details>
 
 <details><summary>English</summary>
@@ -1007,9 +1025,9 @@ Hence the desire of knowing Brahman is to be entertained.
 ## ब्रह्माप्रसिद्ध-विशेषे जिज्ञासा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> तत्पुनर्ब्रह्म प्रसिद्धमप्रसिद्धं वा स्यात्।
+> तत् पुनर्ब्रह्म प्रसिद्धम् अप्रसिद्धं वा स्यात्।
 > यदि प्रसिद्धं न जिज्ञासितव्यम्।  
-अथाप्रसिद्धं नैव शक्यं जिज्ञासितुम्
+अथाप्रसिद्धं – +++(तदा तन्)+++ नैव शक्यं जिज्ञासितुम्
 
 इति। 
 </details>
@@ -1031,9 +1049,11 @@ Hence the desire of knowing Brahman is to be entertained.
 </details>
 
 
+### अस्ति ब्रह्म
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उच्यते — अस्ति तावद्ब्रह्म नित्यशुद्धबुद्धमुक्तस्वभावं सर्वज्ञं सर्वशक्तिसमन्वितम्। 
+उच्यते — अस्ति तावद् ब्रह्म  
+नित्य-शुद्ध-बुद्ध-मुक्त-स्वभावं सर्वज्ञं सर्व-शक्ति-समन्वितम्। 
 </details>
 
 <details><summary>English</summary>
@@ -1048,11 +1068,11 @@ Brahman, which is all-knowing and endowed with all powers, whose essential natur
 उच्यते — अस्ति तावद्ब्रह्म नित्यशुद्धबुद्धमुक्तस्वभावं सर्वज्ञं सर्वशक्तिसमन्वितम्। 
 </details>
 
-
+### व्युत्पत्त्या प्रसिद्धिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मशब्दस्य हि व्युत्पाद्यमानस्य  
-नित्यशुद्धत्वादयोऽर्थाः प्रतीयन्ते,  
+ब्रह्म-शब्दस्य हि व्युत्पाद्यमानस्य  
+नित्य-शुद्धत्वादयोऽर्थाः प्रतीयन्ते,  
 बृंहतेर् धातोर् अर्थानुगमात्। 
 </details>
 
@@ -1069,10 +1089,10 @@ For if we consider the derivation of the word 'Brahman,' from the root br̥h, 't
 ब्रह्मशब्दस्य हि व्युत्पाद्यमानस्य नित्यशुद्धत्वादयोऽर्थाः प्रतीयन्ते, बृंहतेर्धातोरर्थानुगमात्। 
 </details>
 
-
+### अस्तित्व-प्रसिद्धिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वस्यात्मत्वाच्च ब्रह्मास्तित्वप्रसिद्धिः। 
+सर्वस्यात्मत्वाच् च ब्रह्मास्तित्व-प्रसिद्धिः। 
 </details>
 
 <details><summary>English</summary>
@@ -1104,7 +1124,8 @@ For every one is conscious of the existence of (his) Self, and never thinks 'I a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि हि नात्मास्तित्वप्रसिद्धिः स्यात् , सर्वो लोकः ‘नाहमस्मि’ इति प्रतीयात्। 
+यदि हि नात्मास्तित्वप्रसिद्धिः स्यात् ,  
+सर्वो लोकः ‘नाहमस्मि’ इति प्रतीयात्। 
 </details>
 
 <details><summary>English</summary>
@@ -1153,11 +1174,12 @@ And this Self (of whose existence all are conscious) is Brahman.
 सुत्तमाय् अऱिवुरूबमाय् विडुबट्टदाय् उळ्ळ स्वबावत्तैयुडैयदाय्, ऎल्लावऱ्ऱैयुम् अऱिन्ददाय् ऎल्ला सक्तिगळुडऩ् कूडिऩदाय् इरुक्किऱदु। 'पिरह्मम्’ ऎऩ्गिऱ वार्त्तै ऎप्पडि एऱ्पट्टदॆऩ्ऱु पार्क्कैयिल् 'पिरह’ (वळर्च्चि) ऎऩ्ऱ तादूविऩ् पॊरुळ् ऒत्तुवरुव ताल् नित्यत्तऩ्मै, सुत्तत्तऩ्मै मुदलाऩ अर्त्तङ्गळ् तॆरिगिऩ्ऱऩ। ऎल्लावऱ्ऱिऱ्कुम्, आत्मावायिरुक्कुम् तऩ्मैयिऩालुम् पिरह्मत्तिऩ् इरुप्पुक्कु पिरसित्तियि रुक्किऱदु। ऎल्लोरुमे तऩ्ऩुडैय इरुप्पै उणर्गिऱार्गळल्लवा? 'नाऩ् इल्लै' ऎऩ्ऱु उणर्वदु किडैयादु। आत्माविऩ् इरुक्कुम् तऩ्मैक्कु पिरसित्तियिल्लैयाऩालो, ऎल्ला उलगमुम् 'नाऩ् इल्लै' ऎऩ्ऱु उणरवेण्डि वरुम् आत्मादाऩ् पिरह्मम्।
 </details>
 
+### विशेषे जिज्ञासा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> यदि तर्हि लोके ब्रह्म आत्मत्वेन प्रसिद्धमस्ति, ततो ज्ञातमेवेत्यजिज्ञास्यत्वं पुनरापन्नम्; 
+> यदि तर्हि लोके ब्रह्म आत्मत्वेन प्रसिद्धमस्ति, ततो ज्ञातम् एवेत्यजिज्ञास्यत्वं पुनरापन्नम्; 
 
-न। तद्विशेषं प्रति विप्रतिपत्तेः। 
+न। तद्-विशेषं प्रति विप्रतिपत्तेः। 
 </details>
 
 <details><summary>English</summary>
@@ -1175,9 +1197,11 @@ Not so, we reply; for there is a conflict of opinions as to its special nature.
 न। तद्विशेषं प्रति विप्रतिपत्तेः। 
 </details>
 
+### विवादः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देहमात्रं चैतन्यविशिष्टमात्मेति प्राकृता जना लोकायतिकाश्च प्रतिपन्नाः। 
+देहमात्रं चैतन्यविशिष्टम् आत्मेति  
+प्राकृता जना लोकायतिकाश् च प्रतिपन्नाः। 
 </details>
 
 <details><summary>English</summary>
@@ -1224,7 +1248,7 @@ others maintain that the internal organ is the Self;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विज्ञानमात्रं क्षणिकमित्येके। 
+विज्ञानमात्रं क्षणिकम् इत्येके। 
 </details>
 
 <details><summary>English</summary>
@@ -1239,7 +1263,7 @@ others, again, that the Self is a mere momentary idea;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शून्यमित्यपरे। 
+शून्यम् इत्य् अपरे। 
 </details>
 
 <details><summary>English</summary>
@@ -1254,7 +1278,7 @@ others, again, that it is the Void.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्ति देहादिव्यतिरिक्तः संसारी कर्ता भोक्तेत्यपरे। 
+अस्ति देहादि-व्यतिरिक्तः संसारी कर्ता भोक्तेत्यपरे। 
 </details>
 
 <details><summary>English</summary>
@@ -1306,8 +1330,14 @@ others believe that in addition to the individual souls, there is an all-knowing
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आत्मा स भोक्तुरित्यपरे। 
+आत्मा स भोक्तुरित्यपरे। +++(5)+++
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+इदं सम्यग् अधिगतं रामानुजीयमतम् प्राप्नोति।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1351,6 +1381,7 @@ Thus there are many various opinions, basing part of them on sound arguments and
 सादारण जऩङ्गळुम् लोगायदिगर्गळुम् अऱिवुडऩ् कूडियिरुक्कुम् तेहमे आत्मावॆऩ्ऱु ऎण्णुगिऱवर्गळायिरुक्किऱार्गळ्; इन्दिरियङ्गळ् ताऩ् अऱिवुळ्ळवै अवैगळे आत्मावॆऩ्ऱु मऱ्ऱ सिलर्, मऩस् (आत्मा) ऎऩ्ऱु वेऱुसिलर्; क्षणिगमायुळ्ळ अऱिवुमात्तिरम् (आत्मा) ऎऩ्ऱु सिलर्; सूऩ्यम् (आत्मा) ऎऩ्ऱु सिलर्; तेहम् मुदलियवऱ्ऱिऱ्कु वेऱाग संसारि यागवुम्, कर्त्तावागवुम् पोक्तावागवुम् इरुप्पदु (आत्मा) ऎऩ्ऱु सिलर्; (आत्मा) वॆऱुम् पोक्तादाऩ् कर्त्तावल्ल, ऎऩ्ऱु सिलर्; अदऱ्कु (आत्माविऱ्कु) वेऱाग सर्वक्ञराय् सर्वसक्तियुळ्ळवराय् ईसुवरर् ऒरुवर् इरुक्किऱार् ऎऩ्ऱु सिलर्; अवर् (ईसुवरर्) पोक्ताविऩ् आत्मावे ऎऩ्ऱु सिलर्। इव्विदमाग पलर् युक्ति, सुरुदिवाक्कियम् अवैगळिऩ् आबासम् (तोऱ्ऱम्) इवैगळै आसिरयिरुप्पवर्गळाग इरुन्दु कॊण्डु पलविद अबिप्पिरायमुळ्ळवर्गळाग इरुक्किऱार्गळ्।
 </details>
 
+#### अनवगतौ दोषः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्राविचार्य यत्किञ्चित्प्रतिपद्यमानो निःश्रेयसात्प्रतिहन्येत, अनर्थं चेयात्। 
@@ -1369,8 +1400,8 @@ If therefore a man would embrace some one of these opinions without previous con
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माद्ब्रह्मजिज्ञासोपन्यासमुखेन  
-वेदान्तवाक्यमीमांसा  
+तस्माद् ब्रह्म-जिज्ञासोपन्यास-मुखेन  
+वेदान्त-वाक्यमीमांसा  
 तद्-अविरोधि-तर्कोपकरणा निःश्रेयस-प्रयोजना प्रस्तूयते ॥ १ ॥
 </details>
 

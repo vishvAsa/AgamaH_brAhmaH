@@ -12,9 +12,16 @@ bAdarAyaNa's originals (Thibaut's translation of S's bhAShyam) :
 1. Then therefore the enquiry into Brahman.
 2. (Brahman is that) from which the origin, &c. (i.e. the origin, subsistence, and dissolution) of this (world proceed).
 
-to which S provides absurd commentary :  
-sUtra 1 refers to nirguNa brahman.  
-But sUtra 2 refers to an illusory saguNa-brahman (=nirguNa + mAyA) who's into illusory activities with illusory objects.
+shankara admits that these sUtra-s define brahman as having certain attributes (not "nirvesheSha").
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ब्रह्म च वक्ष्यमाण-लक्षणम् ‘जन्माद्यस्य यतः’ इति।  
+
+इति हि प्रथमसूत्रे व्याख्याति। 
+</details>
+
+But he takes it to mean an illusory saguNa-brahman (=nirguNa + mAyA) who's into illusory activities with illusory objects; while insisting that the brahma-sUtra-s exist to propound an attributeless brahman.
 
 Suppose I say -
 
@@ -22,8 +29,7 @@ Suppose I say -
 
 and someone, claiming to interpret me correctly, says -
 
-> "Mr X in the first sentence refers to our friend, who is the main X;  
-> but X of the second sentence is not about him -  
+> "Mr X in this intro does not introduce our friend, who is the main X;   
 rather about an illusory Mr X who appears to write illusory reports."
 
 Would that sound right? What would you call him?
@@ -49,15 +55,15 @@ Would that sound right? What would you call him?
 
 > आद्य-सूत्रे ऽहम्-अर्थे हि  
 प्रसिद्धिः प्रतिपादिता ।  
-जिज्ञासार्थं द्वितीये हि  
+जिज्ञासार्थं, द्वितीये हि  
 जगज्-जन्मादि-हेतुता ॥ १॥  
 अविद्यमानाहम्-अर्थे  
 लक्षणत्वेन कीर्तिता ।  
 ईश्वरस्य तृतीये तु  
 निर्विशेष-प्रमाणता ॥२॥  
-शास्त्रस्योक्ता चतुर्थे च  
+शास्त्रस्योक्ता, चतुर्थे च  
 तस्मिन्न् एव समन्वयः ।  
-प्रतिज्ञातोऽन्तरित्यादौ  
+प्रतिज्ञातो, ऽन्तर्-इत्य्-आदौ  
 सविशेषं तु कथ्यते ॥३॥  
 ब्रह्मेति मायिनां पक्षस्  
 तत्र किं केन सङ्गतम् ।  
