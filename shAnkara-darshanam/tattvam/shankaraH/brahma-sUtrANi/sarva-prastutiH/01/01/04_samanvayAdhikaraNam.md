@@ -17,6 +17,11 @@ title = "०४ समन्वयाधिकरणम्"
 इति क्रिया-परत्वं शास्त्रस्य प्रदर्शितम्। 
 </details>
 
+<details><summary>English</summary>
+
+But, again, how can it be said that Scripture is the means of knowing Brahman? Since it has been declared that Scripture aims at action (according to the Pūrva Mīmāṁsā Sūtra I, 2, 1, 'As the purport of Scripture is action, those scriptural passages whose purport is not action are purportless'),
+</details>
+
 <details><summary>मूलम्</summary>
 
 कथं पुनर्ब्रह्मणः शास्त्रप्रमाणकत्वमुच्यते, यावता ‘आम्नायस्य क्रियार्थत्वादानर्थक्यमतदर्थानाम्’ (जै. सू. १। २। १) इति क्रियापरत्वं शास्त्रस्य प्रदर्शितम्। 
@@ -24,7 +29,12 @@ title = "०४ समन्वयाधिकरणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो वेदान्तानाम् आनर्थक्यम् , अक्रियार्थत्वात्। 
+अतो वेदान्तानाम् आनर्थक्यम्, अ-क्रियार्थत्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+[[the|The]] Vedānta-passages whose purport is not action are purportless.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -35,8 +45,13 @@ title = "०४ समन्वयाधिकरणम्"
 ### कर्तृ-देवतादि-प्रकाशनम्, स्तुतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कर्तृ-देवतादि-प्रकाशनार्थत्वेन वा क्रिया-विधि-शेषत्वम् ,  
+कर्तृ-देवतादि-प्रकाशनार्थत्वेन वा क्रिया-विधि-शेषत्वम्,  
 उपासनादि-क्रियान्तर-विधानार्थत्वं वा। 
+</details>
+
+<details><summary>English</summary>
+
+Or else if they are to have some sense, they must either, by manifesting the agent, the divinity or the fruit of the action, form supplements to the passages enjoining actions, or serve the purpose of themselves enjoining a new class of actions, such as devout meditation and the like.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -47,7 +62,12 @@ title = "०४ समन्वयाधिकरणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि परिनिष्ठित-वस्तु-प्रतिपादनं सम्भवति;  
-प्रत्यक्षादि-विषयत्वात् परिनिष्ठित-वस्तुनः, 
+प्रत्यक्षादि-विषयत्वात् परिनिष्ठित-वस्तुनः। 
+</details>
+
+<details><summary>English</summary>
+
+For the Veda cannot possibly aim at conveying information regarding the nature of accomplished substances, since the latter are the objects of perception and the other means of proof (which give sufficient information about them; while it is the recognised object of the Veda to give information about what is not known from other sources).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -55,17 +75,20 @@ title = "०४ समन्वयाधिकरणम्"
 न हि परिनिष्ठितवस्तुप्रतिपादनं सम्भवति; प्रत्यक्षादिविषयत्वात्परिनिष्ठितवस्तुनः। 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्-प्रतिपादने च हेयोपादेय-रहिते पुरुषार्थाभावात् ।
+</details>
+
+<details><summary>English</summary>
+
+And if it did give such information, it would not be connected with things to be desired or shunned, and thus be of no use to man.
 </details>
 
 <details><summary>मूलम्</summary>
 
 तत्प्रतिपादने च हेयोपादेयरहिते पुरुषार्थाभावात् ।
 </details>
-
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -74,11 +97,7 @@ title = "०४ समन्वयाधिकरणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव 
-
-> ‘सोऽरोदीत्’ 
-
-इत्य्-एवम्-आदीनाम् आनर्थक्यं मा भूद् इति  
+अत एव ‘सोऽरोदीत्’ इत्य्-एवम्-आदीनाम् आनर्थक्यं मा भूद् इति  
 
 > ‘विधिना त्व् एक-वाक्यत्वात्  
 स्तुत्यर्थेन विधीनां स्युः’ (जै. सू. १। २। ७)  
@@ -86,17 +105,26 @@ title = "०४ समन्वयाधिकरणम्"
 इति स्तावकत्वेनार्थवत्त्वम् उक्तम्। 
 </details>
 
+<details><summary>English</summary>
+
+For this very reason Vedic passages, such as 'he howled, &c.,' which at first sight appear purposeless, are shown to have a purpose in so far as they glorify certain actions (cp. Pū. Mī. Sū. I, 2, 7, 'Because they stand in syntactical connection with the injunctions, therefore their purport is to glorify the injunctions').
+</details>
+
 <details><summary>मूलम्</summary>
 
 अत एव ‘सोऽरोदीत्’ इत्येवमादीनामानर्थक्यं मा भूदिति ‘विधिना त्वेकवाक्यत्वात्स्तुत्यर्थेन विधीनां स्युः’ (जै. सू. १। २। ७) इति स्तावकत्वेनार्थवत्त्वमुक्तम्। 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मन्त्राणां च ‘इषे त्वा’ इत्यादीनां  
+मन्त्राणां च ‘इषे त्वा’ इत्य्-आदीनां  
 क्रिया-तत्-साधनाभिधायित्वेन  
 कर्म-समवायित्वम् उक्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+In the same way mantras are shown to stand in a certain relation to actions, in so far as they notify the actions themselves and the means by which they are accomplished. So, for instance, the mantra, 'For strength thee (I cut;' which accompanies the cutting of a branch employed in the darśapūrṇamāsa-sacrifice).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -104,10 +132,14 @@ title = "०४ समन्वयाधिकरणम्"
 मन्त्राणां च ‘इषे त्वा’ इत्यादीनां क्रियातत्साधनाभिधायित्वेन कर्मसमवायित्वमुक्तम्। 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो न क्वचिद् अपि वेद-वाक्यानां विधि-संस्पर्शम् अन्तरेणार्थवत्ता दृष्टा, उपपन्ना वा। 
+</details>
+
+<details><summary>English</summary>
+
+In short, no Vedic passage is seen or can be proved to have a meaning but in so far as it is related to an action.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -115,11 +147,15 @@ title = "०४ समन्वयाधिकरणम्"
 अतो न क्वचिदपि वेदवाक्यानां विधिसंस्पर्शमन्तरेणार्थवत्ता दृष्टा उपपन्ना वा। 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च परिनिष्ठिते वस्तु-स्वरूपे विधिः सम्भवति,  
 क्रिया-विषयत्वाद् विधेः। 
+</details>
+
+<details><summary>English</summary>
+
+And injunctions which are defined as having actions for their objects cannot refer to accomplished existent things.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -127,18 +163,21 @@ title = "०४ समन्वयाधिकरणम्"
 न च परिनिष्ठिते वस्तुस्वरूपे विधिः सम्भवति, क्रियाविषयत्वाद्विधेः। 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् कर्मापेक्षित-कर्तृ-देवतादि-स्वरूप-प्रकाशनेन  
 क्रिया-विधि-शेषत्वं वेदान्तानाम् ।
 </details>
 
+<details><summary>English</summary>
+
+Hence we maintain that the Vedānta-texts are mere supplements to those passages which enjoin actions; notifying the agents, divinities, and results connected with those actions.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मात्कर्मापेक्षितकर्तृदेवतादिस्वरूपप्रकाशनेन क्रियाविधिशेषत्वं वेदान्तानाम् ।
 </details>
-
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -152,6 +191,11 @@ title = "०४ समन्वयाधिकरणम्"
 तथापि स्व+++(→प्रकरण)+++-वाक्य-गतोपासनादि-कर्म-परत्वम्। 
 </details>
 
+<details><summary>English</summary>
+
+Or else, if this be not admitted, on the ground of its involving the introduction of a subject-matter foreign to the Vedānta-texts (viz. the subject-matter of the Karmakāṇḍa of the Veda), we must admit (the second of the two alternatives proposed above viz.) that the Vedānta-texts refer to devout meditation (upāsanā) and similar actions which are mentioned in those very (Vedānta) texts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ प्रकरणान्तरभयान्नैतदभ्युपगम्यते, तथापि स्ववाक्यगतोपासनादिकर्मपरत्वम्। 
@@ -159,7 +203,12 @@ title = "०४ समन्वयाधिकरणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मान् न ब्रह्मणः शास्त्रयोनित्वम्। 
+तस्मान् न ब्रह्मणः शास्त्र-योनित्वम्। 
+</details>
+
+<details><summary>English</summary>
+
+The result of all of which is that Scripture is not the source of Brahman.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -174,11 +223,15 @@ title = "०४ समन्वयाधिकरणम्"
 इति प्राप्ते, उच्यते —
 </details>
 
+<details><summary>English</summary>
+
+To this argumentation the Sūtrakāra replies as follows:
+</details>
+
 <details><summary>मूलम्</summary>
 
 इति प्राप्ते, उच्यते —
 </details>
-
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -191,17 +244,20 @@ title = "०४ समन्वयाधिकरणम्"
 आगैयाल्, 'पिरह्मत्तिऱ्कु सास्तिरत्तै कारणमाग - पिरमाणमागवुळ्ळ तऩ्मै किडैयादु' ऎऩ्ऱु आषेषबम् वरुम् पोदु पदिल् सॊल्लप्पडुगिऱदु-
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् +++(→शास्त्रयोनित्वं)+++ तु समन्वयात् ॥ ४ ॥  
+तत् तु समन्वयात् ॥ ४ ॥  
+</details>
+
+<details><summary>English</summary>
+
+4. But that (Brahman is to be known from Scripture), because it is connected (with the Vedānta-texts) as their purport.
 </details>
 
 <details><summary>मूलम्</summary>
 
 तत्तु समन्वयात् ॥ ४ ॥  
 </details>
-
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -220,7 +276,6 @@ title = "०४ समन्वयाधिकरणम्"
 हानेऽनुष्ठानतोऽत्र किम् ॥ २० ॥  
 --वैयासिकन्यायमाला
 </details>
-
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -245,7 +300,6 @@ title = "०४ समन्वयाधिकरणम्"
 --वैयासिकन्यायमाला
 </details>
 
-
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 (वेदान्द वाक्कियङ्गळ्) उबासऩैयै विदिक्किऩ् ऱऩवा, अल्लदु पिरह्मत्तिलेये मुडिवाऩ तात्पर्यमुळ्ळ वैगळा? सास्तिरमाय् इरुप्पदालुम् मऩऩम् मुदलियदैच् चॊल्लियिरुप्पदालुम्, अवै विदिक्किऱवैगळेयागुम्।
@@ -261,6 +315,11 @@ title = "०४ समन्वयाधिकरणम्"
 **तु**-शब्दः पूर्व-पक्ष-व्यावृत्त्य्-अर्थः।  
 </details>
 
+<details><summary>English</summary>
+
+The word 'but' is meant to rebut the pūrva-paksha (the primā facie view as urged above).
+</details>
+
 <details><summary>मूलम्</summary>
 
 तुशब्दः पूर्वपक्षव्यावृत्त्यर्थः।  
@@ -268,8 +327,13 @@ title = "०४ समन्वयाधिकरणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**तद्** ब्रह्म सर्वज्ञं सर्वशक्ति जगद्-उत्पत्ति-स्थिति-लय-कारणं  
+**तद्** ब्रह्म सर्वज्ञं सर्व-शक्ति जगद्-उत्पत्ति-स्थिति-लय-कारणम्  
 वेदान्त-शास्त्राद् एवावगम्यते। 
+</details>
+
+<details><summary>English</summary>
+
+That all-knowing, all-powerful Brahman, which is the cause of the origin, subsistence, and dissolution of the world, is known from the Vedānta-part of Scripture.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -284,16 +348,25 @@ title = "०४ समन्वयाधिकरणम्"
 कथम् ? **समन्वयात्।** 
 </details>
 
+<details><summary>English</summary>
+
+How? [Because of connection (samandvaya).]
+</details>
+
 <details><summary>मूलम्</summary>
 
 कथम् ? समन्वयात्। 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वेषु हि वेदान्तेषु  
 वाक्यानि तात्पर्येणैतस्यार्थस्य प्रतिपादकत्वेन समनुगतानि — 
+</details>
+
+<details><summary>English</summary>
+
+Because in all the Vedānta-texts the sentences construe in so far as they have for their purport, as they intimate that matter (viz. Brahman) —
 </details>
 
 <details><summary>मूलम्</summary>
@@ -307,6 +380,11 @@ title = "०४ समन्वयाधिकरणम्"
 एकम् एवाद्वितीयम्’ (छा. उ. ६। २। १) 
 </details>
 
+<details><summary>English</summary>
+
+'Being only this was in the beginning, one, without a second' (Cḥ. Up. VI, 2, 1);
+</details>
+
 <details><summary>मूलम्</summary>
 
 ‘सदेव सोम्येदमग्र आसीत् एकमेवाद्वितीयम्’ (छा. उ. ६। २। १) 
@@ -317,6 +395,11 @@ title = "०४ समन्वयाधिकरणम्"
 ‘आत्मा वा इदम् एक एवाग्र आसीत्’ (ऐ. उ. १। १। १) 
 </details>
 
+<details><summary>English</summary>
+
+'In the beginning all this was Self, one only' (Ait. Ār. II, 4, 1, 1);
+</details>
+
 <details><summary>मूलम्</summary>
 
 ‘आत्मा वा इदमेक एवाग्र आसीत्’ (ऐ. उ. १। १। १) 
@@ -325,19 +408,27 @@ title = "०४ समन्वयाधिकरणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘तद् एतद् ब्रह्मापूर्वम् अनपरम् अनन्तरम् अबाह्यम्'  
-‘अयमात्मा ब्रह्म सर्वानुभूः’ (बृ. उ. २। ५। १९) 
+‘अयम् आत्मा ब्रह्म सर्वानुभूः’ (बृ. उ. २। ५। १९) 
+</details>
+
+<details><summary>English</summary>
+
+'This is the Brahman without cause and without effect, without anything inside or outside; this Self is Brahman perceiving everything' (Br̥. Up. II, 5, 19);
 </details>
 
 <details><summary>मूलम्</summary>
 
-‘तदेतद्ब्रह्मापूर्व मनपरमनन्तरमबाह्यम् ‘अयमात्मा ब्रह्म सर्वानुभूः’ (बृ. उ. २। ५। १९) 
+‘तदेतद्ब्रह्मापूर्वमनपरमनन्तरमबाह्यम् ‘अयमात्मा ब्रह्म सर्वानुभूः’ (बृ. उ. २। ५। १९) 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘ब्रह्मैवेदम् अमृतं पुरस्तात्’ (मु. उ. २। २। १२) 
+‘ब्रह्मैवेदम् अमृतं पुरस्तात्’ (मु. उ. २। २। १२) इत्य्-आदीनि।
+</details>
 
-इत्य्-आदीनि ।
+<details><summary>English</summary>
+
+'That immortal Brahman is before' (Mu. Up. II, 2, 11); and similar passages.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -354,7 +445,12 @@ title = "०४ समन्वयाधिकरणम्"
 
 न च तद्-गतानां पदानां ब्रह्म-स्वरूप-विषये निश्चिते  
 समन्वये ऽवगम्यमाने  
-अर्थान्तर-कल्पना युक्ता, श्रुत-हान्य् अ-श्रुत-कल्पना-प्रसङ्गात्। 
+अर्थान्तर-कल्पना युक्ता, श्रुत-हान्य्--अ-श्रुत-कल्पना-प्रसङ्गात्। 
+</details>
+
+<details><summary>English</summary>
+
+If the words contained in these passages have once been determined to refer to Brahman, and their purport is understood thereby, it would be improper to assume them to have a different sense; for that would involve the fault of abandoning the direct statements of the text in favour of mere assumptions.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -362,20 +458,66 @@ title = "०४ समन्वयाधिकरणम्"
 न च तद्गतानां पदानां ब्रह्मस्वरूपविषये निश्चिते समन्वयेऽवगम्यमाने अर्थान्तरकल्पना युक्ता, श्रुतहान्यश्रुतकल्पनाप्रसङ्गात्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च तेषां कर्तृ-देवतादि-स्वरूप-प्रतिपादन-परता अवसीयते,  
+‘तत् केन कं पश्येत्’ (बृ. उ. २। ४। १४)  
+इत्य्-आदि-क्रिया-कारक-फल-निराकरण-श्रुतेः ।
+</details>
+
+<details><summary>English</summary>
+
+Nor can we conclude the purport of these passages to be the intimation of the nature of agents, divinities, &c. (connected with acts of religious duty); for there are certain scriptural passages which preclude all actions, actors, and fruits, as, for instance, Br̥. Up. II, 4, 13, 'Then by what should he see whom?' (which passage intimates that there is neither an agent, nor an object of action, nor an instrument.)
+</details>
+
+<details><summary>मूलम्</summary>
 
 न च तेषां कर्तृदेवतादिस्वरूपप्रतिपादनपरता अवसीयते, ‘तत्केन कं पश्येत्’ (बृ. उ. २। ४। १४) इत्यादिक्रियाकारकफलनिराकरणश्रुतेः ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 अवैगळिलुळ्ळ पदङ्गळुक्कु पिरह्म स्वरूबत्तै सॊल्गिऱ विषयत्तिल् तीर्माऩमाग ऒत्तुप्पोवदु तॆरियुम् पोदु, वेऱु अर्त्तत्तैक् कल्बिप्पदु युक्तमागादु, पदङ्गळिलिरुन्दु स्वरसमागक् किडैक्कुम् पॊरुळै विडुवदु, किडैक्काद पॊरुळैक् कल्बिप्पदु ऎऩ्ऱ तोषम् एऱ्पडुमाऩदिऩाल्। अवैगळुक्कु कर्त्ता, तेवदै मुदलियदिऩ् स्वरूबत्तै पिरदिबादिप्पदिल् तात्पर्यमॆऩ्ऱुम् तीर्माऩिक्क मुडियादु ‘अप्पॊऴुदु ऎदऩाल् ऎदैप् पार्प्पाऩ्?' (पिरुहत् २-४-१३) ऎऩ्बदु मुदलाऩ किरियै, कारगम् पलऩ् इवैगळै मऱुक्कुम् सुरुदि इरुप्पदिऩाल्।
 </details>
 
-न च परिनिष्ठितवस्तुस्वरूपत्वेऽपि प्रत्यक्षादिविषयत्वं ब्रह्मणः, ‘तत्त्वमसि’ (छा. उ. ६। ८। ७) इति ब्रह्मात्मभावस्य शास्त्रमन्तरेणानवगम्यमानत्वात्। यत्तु हेयोपादेयरहितत्वादुपदेशानर्थक्यमिति, नैष दोषः; हेयोपादेयशून्यब्रह्मात्मतावगमादेव सर्वक्लेशप्रहाणात्पुरुषार्थसिद्धेः ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च परिनिष्ठित-वस्तु-स्वरूपत्वे ऽपि प्रत्यक्षादि-विषयत्वं ब्रह्मणः,  
+‘तत्त्वमसि’ (छा. उ. ६। ८। ७)  
+इति ब्रह्मात्म-भावस्य शास्त्रम् अन्तरेणानवगम्यमानत्वात्।
+</details>
+
+<details><summary>English</summary>
+
+Nor again can Brahman, though it is of the nature of an accomplished thing, be the object of perception and the other means of knowledge; for the fact of everything having its Self in Brahman cannot be grasped without the aid of the scriptural passage 'That art thou' (Cḥ. Up. VI, 8, 7).
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च परिनिष्ठितवस्तुस्वरूपत्वेऽपि प्रत्यक्षादिविषयत्वं ब्रह्मणः, ‘तत्त्वमसि’ (छा. उ. ६। ८। ७) इति ब्रह्मात्मभावस्य शास्त्रमन्तरेणानवगम्यमानत्वात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् तु हेयोपादेय-रहितत्वाद् उपदेशानर्थक्यम् इति, नैष दोषः;  
+हेयोपादेय-शून्य-ब्रह्मात्मतावगमाद् एव सर्व-क्लेश-प्रहाणात् पुरुषार्थ-सिद्धेः ।
+</details>
+
+<details><summary>English</summary>
+
+Nor can it rightly be objected that instruction is purportless if not connected with something either to be striven after or shunned; for from the mere comprehension of Brahman's Self, which is not something either to be avoided or endeavoured after, there results cessation of all pain, and thereby the attainment of man's highest aim.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्तु हेयोपादेयरहितत्वादुपदेशानर्थक्यमिति, नैष दोषः; हेयोपादेयशून्यब्रह्मात्मतावगमादेव सर्वक्लेशप्रहाणात्पुरुषार्थसिद्धेः ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 नऩ्गु निलैत्तुळ्ळ वस्तुविऩ् स्वरूबत् तऩ्मैयिरुन्द पोदिलुम् कूड पिरह्मत्तिऱ्कु पिरत्यक्षम् मुदलाऩदिऱ्कु विषयमागुम् तऩ्मै किडैयादु। "नी अदुवाय् इरुक्किऱाय्" (सान्। ६-८-७) ऎऩ्ऱ पिरह्म स्वरूबमायिरुप्पदु सास्तिर मऩ्ऩियिल् अऱिय मुडियाददिऩाल् पिरह्मत्तै तळ्ळवो, ऎडुक्कवो मुडियाददिऩाल् उबदेसम् पिरयोजऩ मऱ्ऱदु ऎऩ्बदु ऎदुवो, अदु तोषमिल्लै, तळ्ळवुम् ऎडुक्कवुम् मुडियाद पिरह्मत्तै आत्मावाग अऱिवदिऩालेये ऎल्ला तुऩ्बङ्गळुम् पोय् पुरुषार्त्तम् सित्तित्तु विडुगिऱबडियाल्।
 </details>
+
 
 ### उपासन-विधाव् अविरोधः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -385,10 +527,16 @@ title = "०४ समन्वयाधिकरणम्"
 न कश्चिद् विरोधः। 
 </details>
 
+<details><summary>English</summary>
+
+That passages notifying certain divinities, and so on, stand in subordinate relation to acts of devout meditation mentioned in the same chapters may readily be admitted.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवतादिप्रतिपादनस्य तु स्ववाक्यगतोपासनार्थत्वेऽपि न कश्चिद्विरोधः। 
 </details>
+
 
 #### न शेषत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -397,11 +545,15 @@ title = "०४ समन्वयाधिकरणम्"
 एकत्वे हेयोपादेय-शून्यतया क्रिया-कारकादि-द्वैत-विज्ञानोपमर्दोपपत्तेः। +++(4)+++
 </details>
 
+<details><summary>English</summary>
+
+But it is impossible that Brahman should stand in an analogous relation to injunctions of devout meditation, for if the knowledge of absolute unity has once arisen there exists no longer anything to be desired or avoided, and thereby the conception of duality, according to which we distinguish actions, agents, and the like, is destroyed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न तु तथा ब्रह्मण उपासनाविधिशेषत्वं सम्भवति, एकत्वे हेयोपादेयशून्यतया क्रियाकारकादिद्वैतविज्ञानोपमर्दोपपत्तेः। 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -409,23 +561,75 @@ title = "०४ समन्वयाधिकरणम्"
 येनोपासना-विधि-शेषत्वं ब्रह्मणः प्रतिपाद्येत ।
 </details>
 
+<details><summary>English</summary>
+
+If the conception of duality is once uprooted by the conception of absolute unity, it cannot arise again, and so no longer be the cause of Brahman being looked upon as the complementary object of injunctions of devotion.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न हि एकत्वविज्ञानेनोन्मथितस्य द्वैतविज्ञानस्य पुनः सम्भवोऽस्ति येनोपासनाविधिशेषत्वं ब्रह्मणः प्रतिपाद्येत ।
 </details>
-
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 तेवदै मुदलाऩदै पिरदिबादऩम् सॆय्वदो, अन्द अन्द वाक्कियत्तिलुळ्ळ उबासऩैक्काग ऎऩ्बदिलुम् ऎव्विद विरोदमुमिल्लै; आऩाल् पिरह्मत् तिऱ्को अव्विदम् उबासऩाविदिक्कु अङ्गमायिरुक्कुम् तऩ्मै एऱ्पडादु।, तळ्ळ ऎडुक्कविल्लामल् ऒऩ्ऱाग विरुक्कुम् तऩ्मैयिरुक्कैयिल् किरियै कारगम् मुदलाऩ इरण्डॆऩ्ऱ ऎण्णमे नसुङ्गि विडुमादलाल् पिरह्मम् ऒऩ्ऱेयॆऩ्ऱ अऱिविऩाल् नसुक्कप्पट्ट इरण्डॆऩ्ऱ ऎण्णत्तिऱ्कु मऱुबडियुम् एऱ्पडुदल् किडैयादल्लवा? अदिरुन्दाल् ताऩे उबासऩाविदिक्कु अङ्गमायिरुक्कुम् तऩ्मै पिरह्मत्तिऱ्कु ऎडुत्तुक्काट्ट मुडियुम्।
 </details>
 
-यद्यप्यन्यत्र वेदवाक्यानां विधिसंस्पर्शमन्तरेण प्रमाणत्वं न दृष्टम् , तथाप्यात्मविज्ञानस्य फलपर्यन्तत्वान्न तद्विषयस्य शास्त्रस्य प्रामाण्यं शक्यं प्रत्याख्यातुम्। न चानुमानगम्यं शास्त्रप्रामाण्यम् , येनान्यत्र दृष्टं निदर्शनमपेक्ष्येत। तस्मात्सिद्धं ब्रह्मणः शास्त्रप्रमाणकत्वम् ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्य् अप्य् अन्यत्र वेद-वाक्यानां विधि-संस्पर्शम् अन्तरेण प्रमाणत्वं न दृष्टम्,  
+तथाप्य् आत्म-विज्ञानस्य फल-पर्यन्तत्वान्  
+न तद्-विषयस्य शास्त्रस्य प्रामाण्यं शक्यं प्रत्याख्यातुम्।
+</details>
+
+<details><summary>English</summary>
+
+Other parts of the Veda may have no authority except in so far as they are connected with injunctions; still it is impossible to impugn on that ground the authoritativeness of passages conveying the knowledge of the Self; for such passages have their own result.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्यप्यन्यत्र वेदवाक्यानां विधिसंस्पर्शमन्तरेण प्रमाणत्वं न दृष्टम् , तथाप्यात्मविज्ञानस्य फलपर्यन्तत्वान्न तद्विषयस्य शास्त्रस्य प्रामाण्यं शक्यं प्रत्याख्यातुम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चानुमान-गम्यं शास्त्र-प्रामाण्यम्,  
+येनान्यत्र दृष्टं निदर्शनम् अपेक्ष्येत।
+</details>
+
+<details><summary>English</summary>
+
+Nor, finally, can the authoritativeness of the Veda be proved by inferential reasoning so that it would be dependent on instances observed elsewhere.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चानुमानगम्यं शास्त्रप्रामाण्यम् , येनान्यत्र दृष्टं निदर्शनमपेक्ष्येत।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात् सिद्धं  
+ब्रह्मणः शास्त्र-प्रमाणकत्वम् ॥
+</details>
+
+<details><summary>English</summary>
+
+From all which it follows that the Veda possesses authority as a means of right knowledge of Brahman.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मात्सिद्धं ब्रह्मणः शास्त्रप्रमाणकत्वम् ॥
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 वेऱु इडङ्गळिल् वेदवाक्यङ्गळुक्कु विदियिऩ् सम्बन्द मऩ्ऩियिल् पिरमाणत् तऩ्मै काणप्पड विल्लैयॆऩ्ऱु इरुन्दबोदिलुम्, अप्पडियुम् कूड आत्मा विषयमाऩ अऱिविऱ्कु पलऩै मुडिविलुळ्ळ तऩ्मैयिरुप्पदाल्, अदै विषयमायुळ्ळ सास्तिरत् तिऩुडैय पिरामाण्यम् मऱुक्क मुडियादु। तविरवुम् सास्तिरत्तिऩ् पिरामाण्यम् अऩुमाऩत्तिऩाल् अऱियक् कूडियदु इल्लै; अप्पडि यिरुन्दाल् अल्लवा वेऱु इडत्तिल् काणप्पट्ट उदाहरणत्तै अबेक्षिक्कुम् आगैयाल् पिरह् मत्तिऱ्कु सास्तिरत्तै पिरमाणमा युडैय तऩ्मै सित्तम्।
 </details>
+
 
 ## प्रतिपत्ति-विधिः?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -433,6 +637,11 @@ title = "०४ समन्वयाधिकरणम्"
 अत्रापरे प्रत्यवतिष्ठन्ते —  
 यद्य् अपि शास्त्र-प्रमाणकं ब्रह्म,  
 तथा ऽपि प्रतिपत्ति-विधि-विषयतयैव शास्त्रेण ब्रह्म समर्प्यते। 
+</details>
+
+<details><summary>English</summary>
+
+Here others raise the following objection: Although the Veda is the means of gaining a right knowledge of Brahman, yet it intimates Brahman only as the object of certain injunctions,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -446,21 +655,32 @@ title = "०४ समन्वयाधिकरणम्"
 विधि-शेषतया शास्त्रेण समर्प्यन्ते, तद्वत्। 
 </details>
 
+<details><summary>English</summary>
+
+just as the information which the Veda gives about the sacrificial post, the āhavanīya-fire and other objects not known from the practice of common life is merely supplementary to certain injunctions [^fn_73].
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा यूपाहवनीयादीन्यलौकिकान्यपि विधिशेषतया शास्त्रेण समर्प्यन्ते, तद्वत्। 
 </details>
+
+[^fn_73]: So, for instance, the passage 'he carves the sacrificial post and makes it eight-cornered,' has a purpose only as being supplementary to the injunction 'he ties the victim to the sacrificial post.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुत एतत् ? प्रवृत्ति-निवृत्ति-प्रयोजनत्वाच् छास्त्रस्य ।
 </details>
 
+<details><summary>English</summary>
+
+Why so? Because the Veda has the purport of either instigating to action or restraining from it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कुत एतत् ? प्रवृत्तिनिवृत्तिप्रयोजनत्वाच्छास्त्रस्य ।
 </details>
-
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -472,15 +692,24 @@ title = "०४ समन्वयाधिकरणम्"
 तथा हि 'दृष्टो हि तस्यार्थः कर्मावबोधनं नाम’ इति; 
 </details>
 
+<details><summary>English</summary>
+
+For men fully acquainted with the object of the Veda have made the following declaration, 'The purpose of the Veda is seen to be the injunction of actions' (Bhāshya on Jaimini Sūtra I, 1, 1);
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथा हि 'दृष्टो हि तस्यार्थः कर्मावबोधनं नाम’ इति; 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘चोदनेति क्रियायाः प्रवर्तकं वचनम्’ 
+</details>
+
+<details><summary>English</summary>
+
+'Injunction means passages impelling to action' (Bh. on Jaim. Sū. I, 1, 2);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -488,10 +717,14 @@ title = "०४ समन्वयाधिकरणम्"
 ‘चोदनेति क्रियायाः प्रवर्तकं वचनम्’ 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘तस्य ज्ञानम् उपदेशः’ (जै. सू. १। १। ५), 
+</details>
+
+<details><summary>English</summary>
+
+'Of this (viz. active religious duty) the knowledge comes from injunction' (part of Jaim. Sū. I, 1, 5);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -499,10 +732,14 @@ title = "०४ समन्वयाधिकरणम्"
 ‘तस्य ज्ञानमुपदेशः’ (जै. सू. १। १। ५), 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘तद्-भूतानां क्रियार्थेन समाम्नायः’ (जै. सू. १। १। २५) 
+</details>
+
+<details><summary>English</summary>
+
+'The (words) denoting those (things) are to be connected with (the injunctive verb of the vidhi-passage) whose purport is action' (Jaim. Sū. I, 1, 25);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -510,12 +747,14 @@ title = "०४ समन्वयाधिकरणम्"
 ‘तद्भूतानां क्रियार्थेन समाम्नायः’ (जै. सू. १। १। २५) 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘आम्नायस्य क्रियार्थत्वाद् आनर्थक्यम् अ-तद्-अर्थानाम्’ (जै. सू. १। २। १) 
+‘आम्नायस्य क्रियार्थत्वाद् आनर्थक्यम् अ-तद्-अर्थानाम्’ (जै. सू. १। २। १) इति च। 
+</details>
 
-इति च। 
+<details><summary>English</summary>
+
+'As action is the purport of the Veda, whatever does not refer to action is purportless' (Jaim. Sū. I, 2, 1).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -523,12 +762,16 @@ title = "०४ समन्वयाधिकरणम्"
 ‘आम्नायस्य क्रियार्थत्वादानर्थक्यमतदर्थानाम्’ (जै. सू. १। २। १) इति च। 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतः पुरुषं क्वचिद् विषय-विशेषे प्रवर्तयत्  
 कुतश्चिद् विषय-विशेषान् निवर्तयच् च  
-अर्थवच् छास्त्रम्। 
+अर्थवच् छास्त्रम्।  
+</details>
+
+<details><summary>English</summary>
+
+Therefore the Veda has a purport in so far only as it rouses the activity of man with regard to some actions and restrains it with regard to others;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -536,8 +779,53 @@ title = "०४ समन्वयाधिकरणम्"
 अतः पुरुषं क्वचिद्विषयविशेषे प्रवर्तयत्कुतश्चिद्विषयविशेषान्निवर्तयच्चार्थवच्छास्त्रम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच्छेषतया चान्यदुपयुक्तम्। तत्सामान्याद्वेदान्तानामपि तथैवार्थवत्त्वं स्यात्। सति च विधिपरत्वे यथा स्वर्गादिकामस्याग्निहोत्रादिसाधनं विधीयते, एवममृतत्वकामस्य ब्रह्मज्ञानं विधीयत इति युक्तम् ।
+तच्-छेषतया चान्यद् उपयुक्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+other passages (i.e. all those passages which are not directly injunctive) have a purport only in so far as they supplement injunctions and prohibitions.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तच्छेषतया चान्यदुपयुक्तम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्-सामान्याद् वेदान्तानाम् अपि तथैवार्थवत्त्वं स्यात्। 
+</details>
+
+<details><summary>English</summary>
+
+Hence the Vedānta-texts also as likewise belonging to the Veda can have a meaning in the same way only.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्सामान्याद्वेदान्तानामपि तथैवार्थवत्त्वं स्यात्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सति च विधि-परत्वे  
+यथा स्वर्गादि-कामस्याग्निहोत्रादि-साधनं विधीयते,  
+एवम् अ-मृतत्व-कामस्य ब्रह्म-ज्ञानं विधीयत इति युक्तम् ।
+</details>
+
+<details><summary>English</summary>
+
+And if their aim is injunction, then just as the agnihotra-oblation and other rites are enjoined as means for him who is desirous of the heavenly world, so the knowledge of Brahman is enjoined as a means for him who is desirous of immortality.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सति च विधिपरत्वे यथा स्वर्गादिकामस्याग्निहोत्रादिसाधनं विधीयते, एवममृतत्वकामस्य ब्रह्मज्ञानं विधीयत इति युक्तम् ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
