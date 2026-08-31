@@ -576,6 +576,7 @@ If the conception of duality is once uprooted by the conception of absolute unit
 तेवदै मुदलाऩदै पिरदिबादऩम् सॆय्वदो, अन्द अन्द वाक्कियत्तिलुळ्ळ उबासऩैक्काग ऎऩ्बदिलुम् ऎव्विद विरोदमुमिल्लै; आऩाल् पिरह्मत् तिऱ्को अव्विदम् उबासऩाविदिक्कु अङ्गमायिरुक्कुम् तऩ्मै एऱ्पडादु।, तळ्ळ ऎडुक्कविल्लामल् ऒऩ्ऱाग विरुक्कुम् तऩ्मैयिरुक्कैयिल् किरियै कारगम् मुदलाऩ इरण्डॆऩ्ऱ ऎण्णमे नसुङ्गि विडुमादलाल् पिरह्मम् ऒऩ्ऱेयॆऩ्ऱ अऱिविऩाल् नसुक्कप्पट्ट इरण्डॆऩ्ऱ ऎण्णत्तिऱ्कु मऱुबडियुम् एऱ्पडुदल् किडैयादल्लवा? अदिरुन्दाल् ताऩे उबासऩाविदिक्कु अङ्गमायिरुक्कुम् तऩ्मै पिरह्मत्तिऱ्कु ऎडुत्तुक्काट्ट मुडियुम्।
 </details>
 
+### आत्म-विज्ञानं फल-पर्त्यन्तम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्य् अप्य् अन्यत्र वेद-वाक्यानां विधि-संस्पर्शम् अन्तरेण प्रमाणत्वं न दृष्टम्,  
@@ -632,6 +633,7 @@ From all which it follows that the Veda possesses authority as a means of right 
 
 
 ## प्रतिपत्ति-विधिः?
+### प्रतिज्ञा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्रापरे प्रत्यवतिष्ठन्ते —  
@@ -651,22 +653,28 @@ Here others raise the following objection: Although the Veda is the means of gai
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा यूपाहवनीयादीन्य् अलौकिकान्य् अपि  
-विधि-शेषतया शास्त्रेण समर्प्यन्ते, तद्वत्। 
+यथा यूपाहवनीयादीन्य् +++(लोकेऽप्रयुक्तत्वाद्)+++ अ-लौकिकान्य् अपि  
++++(बशु-बन्धादि-)+++विधि-शेषतया शास्त्रेण समर्प्यन्ते, तद्वत्। 
 </details>
 
 <details><summary>English</summary>
 
-just as the information which the Veda gives about the sacrificial post, the āhavanīya-fire and other objects not known from the practice of common life is merely supplementary to certain injunctions [^fn_73].
+just as the information which the Veda gives about the sacrificial post, the āhavanīya-fire and other objects not known from the practice of common life is merely supplementary to certain injunctions [fn_73].
 </details>
+
+<details><summary>English - Notes</summary>
+
+[fn_73]: So, for instance, the passage 'he carves the sacrificial post and makes it eight-cornered,' has a purpose only as being supplementary to the injunction 'he ties the victim to the sacrificial post.'
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 यथा यूपाहवनीयादीन्यलौकिकान्यपि विधिशेषतया शास्त्रेण समर्प्यन्ते, तद्वत्। 
 </details>
 
-[^fn_73]: So, for instance, the passage 'he carves the sacrificial post and makes it eight-cornered,' has a purpose only as being supplementary to the injunction 'he ties the victim to the sacrificial post.'
 
+### प्रवृत्ति-निवृत्ति-प्रयोजनत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुत एतत् ? प्रवृत्ति-निवृत्ति-प्रयोजनत्वाच् छास्त्रस्य ।
@@ -749,7 +757,10 @@ For men fully acquainted with the object of the Veda have made the following dec
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘आम्नायस्य क्रियार्थत्वाद् आनर्थक्यम् अ-तद्-अर्थानाम्’ (जै. सू. १। २। १) इति च। 
+‘आम्नायस्य क्रियार्थत्वाद्  
+आनर्थक्यम् अ-तद्-अर्थानाम्’ (जै. सू. १। २। १) 
+
+इति च। 
 </details>
 
 <details><summary>English</summary>
@@ -794,6 +805,7 @@ other passages (i.e. all those passages which are not directly injunctive) have 
 तच्छेषतया चान्यदुपयुक्तम्। 
 </details>
 
+### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्-सामान्याद् वेदान्तानाम् अपि तथैवार्थवत्त्वं स्यात्। 
