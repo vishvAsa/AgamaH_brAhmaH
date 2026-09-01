@@ -27,7 +27,15 @@ But he takes it to mean an illusory saguNa-brahman (=nirguNa + mAyA) who's into 
 
 Where exactly does he perform the magic trick by which he transmutes the universe-maker in the first two sUtras to an illusory saguNa-brahman (=nirguNa + mAyA) who's into illusory activities with illusory objects; while insisting that the brahma-sUtra-s exist to propound an attributeless brahman?
 
-Initially, he mostly speaks like a bhedAbhedavAdin, saying mostly the right things apart from vague hints like "तद् एतद् अशरीरत्वं मोक्षाख्यम् … तद् ब्रह्म, यस्येयं जिज्ञासा प्रस्तुता ।", "तस्मान् न स्वाश्रया क्रिया ऽऽत्मनः सम्भवति।".
+Initially, he mostly speaks like a bhedAbhedavAdin, saying mostly the right things apart from increasingly clear hints like the below in samanvayAdhikaraNa  
+
+> "तद् एतद् अशरीरत्वं मोक्षाख्यम् … तद् ब्रह्म, यस्येयं जिज्ञासा प्रस्तुता ।",  
+> "मिथ्या-ज्ञानापायश् च ब्रह्मात्मैकत्व-विज्ञानाद् भवति। … न स्वाश्रया क्रिया ऽऽत्मनः सम्भवति।  
+… तेनैव ह्य् अहं-कर्त्रा  
+अहं-प्रत्यय-विषयेण प्रत्ययिना सर्वाः क्रिया निर्वर्त्यन्ते।".
+
+(Already started directly contradicting sUtra 2.)
+
 
 The Bait and Switch: Anandamayadhikarana (1.1.12 – 1.1.19).... shankara says that "maya" in Anandamaya implies vikAra, making Anandamaya brahman the "lower" saguNa-brahman.
 

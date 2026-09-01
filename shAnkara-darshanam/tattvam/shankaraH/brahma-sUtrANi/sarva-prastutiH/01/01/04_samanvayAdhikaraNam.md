@@ -2385,7 +2385,7 @@ For an action cannot exist without modifying that in which it abides.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् यात्मा क्रियया विक्रियेत,  
+यद्य् आत्मा क्रियया +++(कर्तृत्वेनापि)+++ विक्रियेत,  
 अनित्यत्वम् आत्मनः प्रसज्येत ।
 </details>
 
@@ -2433,7 +2433,7 @@ an altogether unacceptable result.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मान् न स्वाश्रया क्रिया ऽऽत्मनः सम्भवति।
+तस्मान् न स्वाश्रया क्रिया ऽऽत्मनः सम्भवति।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -2449,7 +2449,7 @@ Hence it is impossible to assume that any action should abide in the Self.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्याश्रयायास् तु क्रियाया अविषयत्वान्  
-न तयात्मा संस्क्रियते ।
+न तया ऽऽत्मा संस्क्रियते ।
 </details>
 
 <details><summary>English</summary>
@@ -2504,7 +2504,9 @@ For it is a matter of perception that bathing and similar actions stand in the r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तया देहाश्रयया तत्-संहत एव कश्चिद् अविद्याया आत्मत्वेन परिगृहीतः संस्क्रियत इति युक्तम्।
+तया देहाश्रयया तत्-संहत एव कश्चिद्  
+अविद्याया आत्मत्वेन परिगृहीतः संस्क्रियत  
+इति युक्तम्।
 </details>
 
 <details><summary>English</summary>
@@ -2519,7 +2521,12 @@ and it is therefore only proper to conclude that by such actions only that somet
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा देहाश्रय-चिकित्सा-निमित्तेन धातु-साम्येन तत्-संहतस्य तद्-अभिमानिन आरोग्य-फलम् , ‘अहम् अरोगः’ इति यत्र बुद्धिर् उत्पद्यते — एवं स्नानाचमन-यज्ञोपवीत-धारणादिकया ‘अहं शुद्धः संस्कृतः’ इति यत्र बुद्धिर् उत्पद्यते, स संस्क्रियते।
+यथा देहाश्रय-चिकित्सा-निमित्तेन धातु-साम्येन  
+तत्-संहतस्य तद्-अभिमानिना ऽऽरोग्य-फलम् ,  
+‘अहम् अरोगः’ इति यत्र बुद्धिर् उत्पद्यते  
+— एवं स्नानाचमन-यज्ञोपवीत-धारणादिकया  
+‘अहं शुद्धः संस्कृतः’ इति यत्र बुद्धिर् उत्पद्यते,  
+स संस्क्रियते।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -2549,7 +2556,9 @@ For it is only this latter principle of egoity (ahaṁkartr̥), the object of th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेनैव ह्य् अहंकर्त्रा अहंप्रत्यय-विषयेण प्रत्ययिना सर्वाः क्रिया निर्वर्त्यन्ते।
+तेनैव ह्य् अहं-कर्त्रा  
+अहं-प्रत्यय-विषयेण प्रत्ययिना  
+सर्वाः क्रिया निर्वर्त्यन्ते।
 </details>
 
 <details><summary>English</summary>
@@ -2564,7 +2573,16 @@ For it is only this latter principle of egoity (ahaṁkartr̥), the object of th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्-फलं च स एवाश्नाति, ‘तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्योऽभिचाकशीति’ (मु. उ. ३। १। १) इति मन्त्र-वर्णात् — ‘आत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः’ (क. उ. १। ३। ४) इति च ।
+तत्-फलं च स एवाश्नाति,  
+
+> ‘तयोर् अन्यः पिप्पलं स्वाद्व् अत्त्य्  
+अनश्नन्न् अन्यो ऽभिचाकशीति’ (मु. उ. ३। १। १) 
+
+इति मन्त्र-वर्णात् — 
+
+> ‘आत्मेन्द्रिय-मनो-युक्तं भोक्तेत्य् आहुर् मनीषिणः’ (क. उ. १। ३। ४) 
+
+इति च ।
 </details>
 
 <details><summary>English</summary>
@@ -2581,21 +2599,329 @@ Thus the mantras also declare, 'One of them eats the sweet fruit, the other look
 तेहत्तै आसिरयित्तुळ्ळ स्नाऩम्, आसमऩम्, यक्ञोबवीदम् तरित्तल् मुदलाऩ किरियैगळिऩाल् तेही (तेहत्तैयुडैय आत्मा) संस्करिक्कप्पडुवदागप् पार्क्कप्पडुगिऱाऩ् अल्लवा?” ऎऩ्ऱाल्, अप्पडियल्ल, तेहम् मुदलाऩवैगळुडऩ् सेर्न्दवऩाग अवित्यैयिऩाल् किरहिक्कप्पट्टिरुक्किऱ आत्मा तेहत्तुडऩ् ऒट्टियिरुक्कुम् तऩ्मै स्नाऩम्, आसमऩम् मुदलियदिऱ्कु पिरत्यक्षमे। तेहत्तै आसिरयमाय् उळ्ळ अदऩाल्, अदऩुडऩ् (तेहत्तुडऩ्) सेर्न्दवऩाग इरुन्दु कॊण्डु अवित्यैयिऩाल् आत्मावॆऩ्ऱु किरहिक्कप्पट्टिरुक्किऱ ऒरुवऩ्दाऩ् संस्करिक्कप्पडुगिऱाऩ् ऎऩ्बदु युक्तम्। ऎप्पडि तेहत्तै आसिरयित्त वैत्तियत्तैक् कारणमायुळ्ळ तादुक्कळिऩ् साम्यत्तिऩाल् ऎवऩिडत्तिल् ‘नाऩ् रोगमऱ्ऱवऩ्' ऎऩ्ऱ ऎण्णम् एऱ्पडुगिऱदो, अन्द तेहत्तुडऩ् सेर्न्दु अदै अबिमाऩिक्किऱवऩुक्कु आरोक्कियमागिऱ पलऩ्। अप्पडिये स्नाऩम्, आसमऩम्, यक्ञोबविदम् तरिप्पदु मुदलियदाल् "नाऩ् सुत्तऩ्, संस्कारम् अडैन्दवऩ्” ऎऩ्ऱ ऎण्णम् ऎङ्गे उण्डागिऱदो अवऩ् संस्करिक्कप्पडुगिऱाऩ्। अवऩो तेहत्तुडऩ् सेर्न्दवऩ्दाऩ्। “नाऩ्” ऎऩ्ऱ ऎण्णत्तिऱ्कु विषयमायुम्, “नाऩ्” ऎऩ्ऱु निऩैप्पवऩायुम्, अऱिवुळ्ळवऩायुमुळ्ळ अवऩाल् ताऩे अल्लवा ऎल्ला किरियैगळुम् नडत्तप् पडुगिऩ्ऱऩ? अवैगळिऩ् पलऩैयुम् अवऩ्दाऩ् अऩुबविक्किऱाऩ्, “अव्विरुवरुळ् ऒरुवऩ् रुसियाग कर्मबलऩै अऩुबविक्किऱाऩ्; मऱ्ऱवर् अऩुबविक्कामल् नऩ्गु पिरगासित्तुक् कॊण्डिरुक्किऱार्” (मुण्डग ३-१-१) ऎऩ्ऱ मन्दिरवर्णत्तिऩाल्। “तेहम् इन्दिरियम् मऩस् इवैगळुडऩ् सेर्न्द आत्मावै अऩुबविक्किऱवऩ् ऎऩ्ऱु अऱिवाळिगळ् सॊल्गिऱार्गळ्" (काडग ३-४) ऎऩ्ऱुम्।
 </details>
 
-तथा ‘एको देवः सर्वभूतेषु गूढः सर्वव्यापी सर्वभूतान्तरात्मा। कर्माध्यक्षः सर्वभूताधिवासः साक्षी चेता केवलो निर्गुणश्च’ (श्वे. उ. ६। ११) इति, ‘स पर्यगाच्छुक्रमकायमव्रणमस्नाविरं शुद्धमपापविद्धम्’ (ई. उ. ८) इति, च — एतौ मन्त्रावनाधेयातिशयतां नित्यशुद्धतां च ब्रह्मणो दर्शयतः। ब्रह्मभावश्च मोक्षः। तस्मान्न संस्कार्योऽपि मोक्षः। अतोऽन्यन्मोक्षं प्रति क्रियानुप्रवेशद्वारं न शक्यं केनचिद्दर्शयितुम्। तस्माज्ज्ञानमेकं मुक्त्वा क्रियाया गन्धमात्रस्याप्यनुप्रवेश इह नोपपद्यते ।
+#### ब्रह्म-निर्विकारता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा 
+
+> ‘एको देवः सर्व-भूतेषु गूढः  
+सर्व-व्यापी सर्व-भूतान्तरात्मा।  
+कर्माध्यक्षः सर्व-भूताधिवासः  
+साक्षी चेता केवलो निर्गुणश् च’  
+(श्वे. उ. ६। ११) 
+
+इति, 
+
+> ‘स पर्यगाच् छुक्रम्  
+अकायम् अव्रणम् अस्नाविरं शुद्धम् अपाप-विद्धम्’ (ई. उ. ८) 
+
+इति च —  
+एतौ मन्त्राव् अनाधेयातिशयतां नित्य-शुद्धतां च ब्रह्मणो दर्शयतः।
+</details>
+
+<details><summary>English</summary>
+
+Of Brahman, on the other hand, the two following passages declare that it is incapable of receiving any accretion and eternally pure, 'He is the one God, hidden in all beings, all-pervading, the Self within all beings, watching over all works, dwelling in all beings, the witness, the perceiver, the only one; free from qualities' (Śv. Up. VI, 11); and 'He pervaded all, bright, incorporeal, scatheless, without muscles, pure, untouched by evil' (Īś. Up. 8).
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा ‘एको देवः सर्वभूतेषु गूढः सर्वव्यापी सर्वभूतान्तरात्मा। कर्माध्यक्षः सर्वभूताधिवासः साक्षी चेता केवलो निर्गुणश्च’ (श्वे. उ. ६। ११) इति, ‘स पर्यगाच्छुक्रमकायमव्रणमस्नाविरं शुद्धमपापविद्धम्’ (ई. उ. ८) इति, च — एतौ मन्त्रावनाधेयातिशयतां नित्यशुद्धतां च ब्रह्मणो दर्शयतः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्म-भावश् च मोक्षः।
+</details>
+
+<details><summary>English</summary>
+
+But Release is nothing but being Brahman.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मभावश्च मोक्षः।
+</details>
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मान् न संस्कार्यो ऽपि मोक्षः।
+</details>
+
+<details><summary>English</summary>
+
+Therefore Release is not something to be purified.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मान्न संस्कार्योऽपि मोक्षः।
+</details>
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ऽन्यन् मोक्षं प्रति क्रियानुप्रवेश-द्वारं  
+न शक्यं केनचिद् दर्शयितुम्।
+</details>
+
+<details><summary>English</summary>
+
+And as nobody is able to show any other way in which Release could be connected with action,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतोऽन्यन्मोक्षं प्रति क्रियानुप्रवेशद्वारं न शक्यं केनचिद्दर्शयितुम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माज् ज्ञानम् एकं मुक्त्वा  
+क्रियाया गन्ध-मात्रस्याप्य् अनुप्रवेश इह नोपपद्यते ।
+</details>
+
+<details><summary>English</summary>
+
+it is impossible that it should stand in any, even the slightest, relation to any action, excepting knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्माज्ज्ञानमेकं मुक्त्वा क्रियाया गन्धमात्रस्याप्यनुप्रवेश इह नोपपद्यते ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 अप्पडिये “ऒरुवराय्, स्वयम् पिरगासराय्, ऎल्ला पिराणिगळिलुम् मऱैन्दिरुप्पवराय्, ऎल्ला वऱ्ऱैयुम् वियाबिक्किऱवराय्, ऎल्ला पिराणिगळुक्कुम् उळ्ळेयुळ्ळ आत्मावाय्, कर्माक्कळै मेलिरुन्दु पार्प्पवराय्, ऎल्ला पिराणिगळिलुम् वसिप्पवराय्, साक्षियाय्, अऱिगिऱवराय्, तऩित्तवराय्, कुणमऱ्ऱ वरायुम् (इरुक्किऱार्)' (सुवेदा ६-११) ऎऩ्ऱुम्, "पिरगासिप्पवराय्, सरीरमऱ्ऱवराय्, विरणमऱ्ऱवराय्, नरम्बु इल्लादवराय्, सुत्तराय्, पाबत्तिऩाल् तीण्डप् पडादवराय् उळ्ळ अवर् ऎङ्गुम् सुऱ्ऱियिरुक्किऱार्" (ईसा। ८) ऎऩ्ऱुमुळ्ळ इन्द इरण्डु मन्दिरङ्गळुम् पिरह्मत्तिल् विसेषत्तै एऱ्ऱिवैक्क मुडियाद तऩ्मैयैयुम् ऎप्पॊऴुदुम् सुत्तमाय् इरुक्कुम् तऩ्मैयैयुम् काट्टुगिऩ्ऱऩ। पिरह्म मायिरुप्पदे मोक्षम्। आगैयाल् मोक्षम् संस्कारत्तिऱ्कुम् विषयम् अल्ल। मोक्षत्तै किरियैक्कु उळ्ळडक्कुवदऱ्कु वऴियाग इवैगळैविड (उत्पत्ति, अडैदल्, विगारम्, संस्कारम् ऎऩ्ऱ नाऩ्गैविड) वेऱु ऎदैयुम् ऎवरालुम् काट्टमुडियादु। आगैयाल् ञाऩम् ऎऩ्ऱ ऒऩ्ऱैत्तविर्त्तु इङ्गु किरियैयिऩुडैय कन्दमात्तिरत् तिऱ्कुक्कूड उळ्नुऴैवदु पॊरुन्दादु।
 </details>
 
-ननु ज्ञानं नाम मानसी क्रिया, न; वैलक्षण्यात्। क्रिया हि नाम सा, यत्र वस्तुस्वरूपनिरपेक्षैव चोद्यते, पुरुषचित्तव्यापाराधीना च, यथा — ‘यस्यै देवतायै हविर्गृहीतं स्यात्तां मनसा ध्यायेद्वषट्करिष्यन्’(ऐ॰ब्रा॰ ३-१-८) इति, ‘सन्ध्यां मनसा ध्यायेत्’ (ऐ. ब्रा. ३। ८। १) इति चैवमादिषु। ध्यानं चिन्तनं यद्यपि मानसम् , तथापि पुरुषेण कर्तुमकर्तुमन्यथा वा कर्तुं शक्यम् , पुरुषतन्त्रत्वात्। ज्ञानं तु प्रमाणजन्यम्। प्रमाणं च यथाभूतवस्तुविषयम्। अतो ज्ञानं कर्तुमकर्तुमन्यथा वा कर्तुमशक्यम्। केवलं वस्तुतन्त्रमेव तत्; न चोदनातन्त्रम् , नापि पुरुषतन्त्रम्। तस्मान्मानसत्वेऽपि ज्ञानस्य महद्वैलक्षण्यम् ।
+## ज्ञानं न क्रिया
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु ज्ञानं नाम मानसी क्रिया? 
+
+न; वैलक्षण्यात्।
+</details>
+
+<details><summary>English</summary>
+
+But, it will be said here, knowledge itself is an activity of the mind. By no means, we reply; since the two are of different nature.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ननु ज्ञानं नाम मानसी क्रिया, न; वैलक्षण्यात्।
+</details>
+
+### न पुरुष-तन्त्रम्, न चोदना-तन्त्रम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(मानस-)+++क्रिया हि नाम सा,  
+यत्र वस्तु-स्वरूप-निरपेक्षैव चोद्यते,  
+पुरुष-चित्त-व्यापाराधीना च, यथा — 
+
+> ‘यस्यै देवतायै हविर् गृहीतं स्यात्  
+तां मनसा ध्यायेद् वषट् करिष्यन्’ (ऐ॰ब्रा॰ ३-१-८) 
+
+इति, 
+
+> ‘सन्ध्यां मनसा ध्यायेत्’ (ऐ. ब्रा. ३। ८। १) 
+
+इति चैवम्-आदिषु।
+</details>
+
+<details><summary>English</summary>
+
+An action is that which is enjoined as being independent of the nature of existing things and dependent on the energy of some person's mind; compare, for instance, the following passages, 'To whichever divinity the offering is made on that one let him meditate when about to say vashaṭ' (Ait. Brāhm. III, 8, 1); and 'Let him meditate in his mind on the sandhyā.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्रिया हि नाम सा, यत्र वस्तुस्वरूपनिरपेक्षैव चोद्यते, पुरुषचित्तव्यापाराधीना च, यथा — ‘यस्यै देवतायै हविर्गृहीतं स्यात्तां मनसा ध्यायेद्वषट्करिष्यन्’(ऐ॰ब्रा॰ ३-१-८) इति, ‘सन्ध्यां मनसा ध्यायेत्’ (ऐ. ब्रा. ३। ८। १) इति चैवमादिषु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ध्यानं चिन्तनं यद्य् अपि मानसम् ,  
+तथापि पुरुषेण कर्तुम्, अकर्तुम्, अन्यथा वा कर्तुं शक्यम्, पुरुष-तन्त्रत्वात्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Meditation and reflection are indeed mental, but as they depend on the (meditating, &c.) person they may either be performed or not be performed or modified.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ध्यानं चिन्तनं यद्यपि मानसम् , तथापि पुरुषेण कर्तुमकर्तुमन्यथा वा कर्तुं शक्यम् , पुरुषतन्त्रत्वात्।
+</details>
+
+### वस्तु-तन्त्रम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञानं तु प्रमाण-जन्यम्।
+</details>
+
+<details><summary>English</summary>
+
+Knowledge, on the other hand, is the result of the different means of (right) knowledge,
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञानं तु प्रमाणजन्यम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रमाणं च यथा-भूत-वस्तु-विषयम्।
+</details>
+
+<details><summary>English</summary>
+
+and those have for their objects existing things;
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रमाणं च यथाभूतवस्तुविषयम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ज्ञानं कर्तुम् अकर्तुम् अन्यथा वा कर्तुम् अशक्यम्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+knowledge can therefore not be either made or not made or modified,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतो ज्ञानं कर्तुमकर्तुमन्यथा वा कर्तुमशक्यम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+केवलं वस्तु-तन्त्रम् एव तत्;  
+न चोदना-तन्त्रम्, नापि पुरुष-तन्त्रम्।
+</details>
+
+<details><summary>English</summary>
+
+but depends entirely on existing things, and not either on Vedic statements or on the mind of man.
+</details>
+
+<details><summary>मूलम्</summary>
+
+केवलं वस्तुतन्त्रमेव तत्; न चोदनातन्त्रम् , नापि पुरुषतन्त्रम्।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 “ञाऩम् ऎऩ्बदे मऩसिऩाल् सॆय्यप्पडुम् किरियै ताऩे?” ऎऩ्ऱाल्, अप्पडियल्ल, वित्यासमि रुप्पदाल्। वस्तुविऩ् स्वरूबत्तै अबेक्षिक्कामले ऎदु कट्टळै विडप्पडुगिऱदो, ऎदु पुरुषऩुडैय सित्तत्तिऩ् वियाबारत्तिऱ्कु उळ्बट्टदागवुम् इरुक्किऱदो, अदुदाऩ् अल्लवा किरियै? "ऎन्द तेवदैयै उत्तेसित्तु हविस् ऎडुक्कप्पडुगिऱदो, अन्द तेवदैयै मऩसिऩाल् तियाऩम् सॆय्दु कॊण्डु वषट् ऎऩ्ऱु सॊल्लिक्कॊण्डु” ऎऩ्ऱुम्। “सन्द्या तेवदैयै मऩसिऩाल् तियाऩम् सॆय्यवुम्” ऎऩ्ऱुम्, इदु मुदलाऩविडङ्गळिलुम् ऎप्पडियो अप्पडि तियाऩम् - सिन्दिप्पदु, मऩस् सम्बन्दप्पट्ट तायिरुन्दालुम् कूड, पुरुषऩुक्कु उळ्बट्टिरुप्पदाल्, पुरुषऩाल् सॆय्यामलिरुक्कवुम् वेऱुविदमागच् चॆय्यवुम् मुडियुम्। ञाऩम् ऎऩ्बदो पिरमाणत्तिऩाल् एऱ्पडुवदु; पिरमाणमो उळ्ळबडि वस्तुवै विषयमायुळ्ळदु; अदऩाल् ञाऩम् सॆय्यवो सॆय्यामलिरुक्कवो वेऱुविदमागच् चॆय्यवो मुडियाददु; अदु वॆऱुम् वस्तुविऱ्कु अदीऩमे; कट्टळैक्कु अदीऩमिल्लै, पुरुषऩुक्कु अदीऩमुमिल्लै। आगैयाल्, मऩसैच् चेर्न्ददॆऩ्ऱ तऩ्मैयिरुन्दालुम् (तियाऩत्तिलिरुन्दु) ञाऩत्तिऱ्कु वॆगु वेऱुबाडु इरुक्किऱदु।
 </details>
 
-यथा च ‘पुरुषो वाव गौतमाग्निः’ (छा. उ. ५। ७। १) ‘योषा वाव गौतमाग्निः’ (छा. उ. ५। ८। १) इत्यत्र योषित्पुरुषयोरग्निबुद्धिर्मानसी भवति। केवलचोदनाजन्यत्वात् क्रियैव सा पुरुषतन्त्रा च। या तु प्रसिद्धेऽग्नावग्निबुद्धिः, न सा चोदनातन्त्रा; नापि पुरुषतन्त्रा। किं तर्हि ? प्रत्यक्षविषयवस्तुतन्त्रैवेति ज्ञानमेवैतत्; न क्रिया — एवं सर्वप्रमाणविषयवस्तुषु वेदितव्यम्। तत्रैवं सति यथाभूतब्रह्मात्मविषयमपि ज्ञानं न चोदनातन्त्रम्। तद्विषये लिङादयः श्रूयमाणा अपि अनियोज्यविषयत्वात्कुण्ठीभवन्ति उपलादिषु प्रयुक्तक्षुरतैक्ष्ण्यादिवत् , अहेयानुपादेयवस्तुविषयत्वात् ।
+
+
+### न चोदना-तन्त्रम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा च 
+
+> ‘पुरुषो वाव गौतमाग्निः’ (छा. उ. ५। ७। १)  
+> ‘योषा वाव गौतमाग्निः’ (छा. उ. ५। ८। १) 
+
+इत्य्-अत्र योषित्-पुरुषयोर् अग्नि-बुद्धिर् मानसी भवति।
+</details>
+
+<details><summary>English</summary>
+
+The meditation, for instance, on man and woman as fire, which is founded on _Kh._ Up. V, 7, 1; 8, 1, 'The fire is man, O Gautama; the fire is woman, O Gautama,' is
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथा च ‘पुरुषो वाव गौतमाग्निः’ (छा. उ. ५। ७। १) ‘योषा वाव गौतमाग्निः’ (छा. उ. ५। ८। १) इत्यत्र योषित्पुरुषयोरग्निबुद्धिर्मानसी भवति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+केवल-चोदना-जन्यत्वात् - क्रियैव सा पुरुष-तन्त्रा च।
+</details>
+
+<details><summary>English</summary>
+
+on account of its being the result of a Vedic statement, merely an action and dependent on man;
+</details>
+
+<details><summary>मूलम्</summary>
+
+केवलचोदनाजन्यत्वात् क्रियैव सा पुरुषतन्त्रा च।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+या तु प्रसिद्धे ऽग्नाव् अग्नि-बुद्धिः,  
+न सा चोदना-तन्त्रा;  
+नापि पुरुष-तन्त्रा।  
+किं तर्हि ?  
+प्रत्यक्ष-विषय-वस्तु-तन्त्रैवेति ज्ञानम् एव एतत्;  
+न क्रिया —  
+एवं सर्व-प्रमाण-विषय-वस्तुषु वेदितव्यम्।
+</details>
+
+<details><summary>English</summary>
+
+that conception of fire, on the other hand, which refers to the well-known (real) fire, is neither dependent on Vedic statements nor on man, but only on a real thing which is an object of perception; it is therefore knowledge and not an action. The same remark applies to all things which are the objects of the different means of right knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+या तु प्रसिद्धेऽग्नावग्निबुद्धिः, न सा चोदनातन्त्रा; नापि पुरुषतन्त्रा। किं तर्हि ? प्रत्यक्षविषयवस्तुतन्त्रैवेति ज्ञानमेवैतत्; न क्रिया — एवं सर्वप्रमाणविषयवस्तुषु वेदितव्यम्।
+</details>
+
+
+### विधेर् अविषयम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्रैवं सति यथा-भूत-ब्रह्मात्म-विषयम् अपि ज्ञानं न चोदना-तन्त्रम्।
+</details>
+
+<details><summary>English</summary>
+
+This being thus that knowledge also which has the existent Brahman for its object is not dependent on Vedic injunction.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्रैवं सति यथाभूतब्रह्मात्मविषयमपि ज्ञानं न चोदनातन्त्रम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-विषये लिङ्-आदयः श्रूयमाणा अपि  
+अनियोज्य-विषयत्वात् कुण्ठीभवन्ति  
+उपलादिषु प्रयुक्त-क्षुर-तैक्ष्ण्यादिवत् ,  
+अहेयानुपादेय-वस्तु-विषयत्वात् ।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Hence, although imperative and similar forms referring to the knowledge of Brahman are found in the Vedic texts, yet they are ineffective because they refer to something which cannot be enjoined, just as the edge of a razor becomes blunt when it is applied to a stone. For they have for their object something which can neither be endeavoured after nor avoided.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्विषये लिङादयः श्रूयमाणा अपि अनियोज्यविषयत्वात्कुण्ठीभवन्ति उपलादिषु प्रयुक्तक्षुरतैक्ष्ण्यादिवत् , अहेयानुपादेयवस्तुविषयत्वात् ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -2607,14 +2933,180 @@ Thus the mantras also declare, 'One of them eats the sweet fruit, the other look
 इव्विदमे ऎल्लाप् पिरमाणङ्गळुक्कुम् विषयमायुळ्ळ वस्तुक्कळिलुम् अऱिय वेण्डुम्। अदु इव्विदमिरुप्पदाल्, उळ्ळबडियुळ्ळ पिरह्ममागिऱ आत्मावै विषयमायुडैय ञाऩमुम् कट्टळैक्कु उट्पट्टदिल्लै। अदऩ् विषयमाग (कट्टळैयैक् कुऱिक्कुम्) ‘लिङ्' मुदलाऩ पिरत्ययङ्गळ् काणप्पट्ट पोदिलुम्गूड, कट्टळैयिड मुडियाददै विषयमा युळ्ळदाल्, कल् मुदलियवैगळिल् पिरयोगम् सॆय्यप् पडुम् कत्तियिऩ् कूर्मै मुदलियदैप्पोल, वीणाय्प् पोगिऩ्ऱऩ, तळ्ळवो ऎडुक्कवो मुडियाद वस्तुवै विषयमायुळ्ळदाल्।
 </details>
 
-किमर्थानि तर्हि ‘आत्मा वा अरे द्रष्टव्यः श्रोतव्यः’ (बृ. उ. २। ४। ५) इत्यादीनि विधिच्छायानि वचनानि ? स्वाभाविकप्रवृत्तिविषयविमुखीकरणार्थानीति ब्रूमः। यो हि बहिर्मुखः प्रवर्तते पुरुषः ‘इष्टं मे भूयादनिष्टं मा भूत्’ इति, न च तत्रात्यन्तिकं पुरुषार्थं लभते, तमात्यन्तिकपुरुषार्थवाञ्छिनं स्वाभाविकात्कार्यकरणसङ्घातप्रवृत्तिगोचराद्विमुखीकृत्य प्रत्यगात्मस्रोतस्तया प्रवर्तयन्ति ‘आत्मा वा अरे द्रष्टव्यः’ इत्यादीनि; तस्यात्मान्वेषणाय प्रवृत्तस्याहेयमनुपादेयं चात्मतत्त्वमुपदिश्यते — ‘इदं सर्वं यदयमात्मा’ (बृ. उ. २। ४। ६) ‘यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत् ... केन कं विजानीयात्’ (बृ. उ. ४। ५। १५) ‘विज्ञातारमरे केन विजानीयात्’ (बृ. उ. २। ४। १४) ‘अयमात्मा ब्रह्म’ (बृ. उ. २। ५। १९) इत्यादिभिः ।
+
+### विधिर् बहिर्-मुखता-वारणाय
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> किम्-अर्थानि तर्हि 
+> 
+> > ‘आत्मा वा अरे द्रष्टव्यः श्रोतव्यः’ (बृ. उ. २। ४। ५) 
+> 
+> इत्य्-आदीनि विधि-च्छायानि वचनानि ?
+</details>
+
+<details><summary>English</summary>
+
+But what then, it will be asked, is the purport of those sentences which, at any rate, have the appearance of injunctions; such as, 'The Self is to be seen, to be heard about?'
+</details>
+
+<details><summary>मूलम्</summary>
+
+किमर्थानि तर्हि ‘आत्मा वा अरे द्रष्टव्यः श्रोतव्यः’ (बृ. उ. २। ४। ५) इत्यादीनि विधिच्छायानि वचनानि ?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वाभाविक-प्रवृत्ति-विषय- -विमुखी-करणार्थानीति ब्रूमः।
+</details>
+
+<details><summary>English</summary>
+
+They have the purport, we reply, of diverting (men) from the objects of natural activity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वाभाविकप्रवृत्तिविषयविमुखीकरणार्थानीति ब्रूमः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यो हि बहिर्-मुखः प्रवर्तते पुरुषः  
+
+> ‘इष्टं मे भूयाद्  
+अनिष्टं मा भूत्’ 
+
+इति,  
+न च तत्रात्यन्तिकं-पुरुषार्थं लभते,  
+तम् आत्यन्तिक-पुरुषार्थ-वाञ्छिनं  
+स्वाभाविकात् कार्य-करण-सङ्घात- -प्रवृत्ति-गोचराद् विमुखी कृत्य  
+प्रत्यग्-आत्म-स्रोतस्तया प्रवर्तयन्ति  
+‘आत्मा वा अरे द्रष्टव्यः’ इत्य्-आदीनि;
+</details>
+
+<details><summary>English</summary>
+
+For when a man acts intent on external things, and only anxious to attain the objects of his desire and to eschew the objects of his aversion, and does not thereby reach the highest aim of man although desirous of attaining it; such texts as the one quoted divert him from the objects of natural activity and turn the stream of his thoughts on the inward (the highest) Self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यो हि बहिर्मुखः प्रवर्तते पुरुषः ‘इष्टं मे भूयादनिष्टं मा भूत्’ इति, न च तत्रात्यन्तिकं पुरुषार्थं लभते, तमात्यन्तिकपुरुषार्थवाञ्छिनं स्वाभाविकात्कार्यकरणसङ्घातप्रवृत्तिगोचराद्विमुखीकृत्य प्रत्यगात्मस्रोतस्तया प्रवर्तयन्ति ‘आत्मा वा अरे द्रष्टव्यः’ इत्यादीनि;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्य आत्मान्वेषणाय प्रवृत्तस्य  
+अहेयम् अनुपादेयं च आत्म-तत्त्वम् उपदिश्यते —  
+
+> ‘इदं सर्वं यद् अयम् आत्मा’ (बृ. उ. २। ४। ६) 
+
+> ‘यत्र त्व् अस्य सर्वम् आत्मैवाभूत्  
+तत् केन कं पश्येत् ...  
+केन कं विजानीयात्’ (बृ. उ. ४। ५। १५) 
+
+> ‘विज्ञातारम् अरे केन विजानीयात्’ (बृ. उ. २। ४। १४) 
+
+> ‘अयम् आत्मा ब्रह्म’ (बृ. उ. २। ५। १९) 
+
+इत्य्-आदिभिः ।
+</details>
+
+<details><summary>English</summary>
+
+That for him who is engaged in the enquiry into the Self, the true nature of the Self is nothing either to be endeavoured after or to be avoided, we learn from texts such as the following: 'This everything, all is that Self' (Br̥, Up. II, 4, 6); 'But when the Self only is all this, how should he see another, how should he know another, how should he know the knower?' (Br̥. Up. IV, 5, 15); 'This Self is Brahman' (Br̥. Up. II, 5, 19).
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्यात्मान्वेषणाय प्रवृत्तस्याहेयमनुपादेयं चात्मतत्त्वमुपदिश्यते — ‘इदं सर्वं यदयमात्मा’ (बृ. उ. २। ४। ६) ‘यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत् ... केन कं विजानीयात्’ (बृ. उ. ४। ५। १५) ‘विज्ञातारमरे केन विजानीयात्’ (बृ. उ. २। ४। १४) ‘अयमात्मा ब्रह्म’ (बृ. उ. २। ५। १९) इत्यादिभिः ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 अप्पडियाऩाल्, आत्मावे अऱियप्पड वेण्डियदु, केट्कप्पड वेण्डियदु" ऎऩ्बदु मुदलाऩ कट्टळैबोलुळ्ळ वसऩङ्गळ् ऎऩ्ऩ तात्पर्यत् तैयुडैयवैगळ्? ऎऩ्ऱाल् स्वबावमाग वुळ्ळ पिरविरुत्तिक्कु विषयमायिरुप्पदिलिरुन्दु तिरुप्पुवदैप् पिरयोजऩमागवुडैयवैगळ् ऎऩ्ऱु सॊल्गिऱोम्। ऎन्दप् पुरुषऩ्, "ऎऩक्कु इष्टमाऩदु एऱ्पडट्टुम्, अऩिष्टम् एऱ्पडवेण्डाम्” ऎऩ्ऱु वॆळि नोक्कत् तुडऩ् पिरविरुत्तिक्किऱाऩो, आऩाल् अङ्गे मुडिवऱ्ऱ (ऎऩ्ऱुमुळ्ळदाऩ) पुरुषार्त्तदै अडैवदु मिल्लैयो, मुडिवऱ्ऱ पुरुषार्त्तत्तै विरुम्बुम् अवऩै, स्वबावत्तिऩाल् सरीर इन्दिरियङ्गळुडऩ् सेर्न्द समूहत्तिऩ् पिरविरुत्तिक्कु विषयमायुळ्ळ तिलिरुन्दु तिरुप्पिविट्टु, उळ्ळेयुळ्ळ आत्माविल् पिरवाहमाग (तॊडर्न्दु) इरुक्कुम्बडि, "आत्मावे अऱियप्पड वेण्डियदु" ऎऩ्बदु मुदलियवै पिरविरुत्तिक्कच् चॆय्गिऩ्ऱऩ। आत्मावैत् तेडुवदऱ्कुप् पिरविरुत्तिक्किऱ अवऩुक्कु तळ्ळमुडियाददुम् ऎडुक्क मुडियाददुमाऩ आत्म तत्वम् उबदेसिक्कप्पडुगिऱदु; “ऎदु इन्द ऎल्लामो, अदु इन्द आत्मा" (पिरुह। २-४-६), “ऎन्द निलैयिल् इवऩुक्कु ऎल्लाम् आत्मावागवे इरुक्कुमो, अप्पॊऴुदु ऎदऩाल् ऎदैप् पार्प्पाऩ्, ऎदऩाल् ऎदै अऱिवाऩ्; अऱिगिऱवऩै ऎदऩाल् अऱिवाऩ् (पिरुह। ४-५-१५), "इन्द आत्मा पिरह्मम्" (पिरुह। २-५-१९) ऎऩ्बदु मुदलियवैगळाल्।
 </details>
 
-यदप्यकर्तव्यप्रधानमात्मज्ञानं हानायोपादानाय वा न भवतीति, तत्तथैवेत्यभ्युपगम्यते। अलङ्कारो ह्ययमस्माकम् — यद्ब्रह्मात्मावगतौ सत्यां सर्वकर्तव्यताहानिः कृतकृत्यता चेति। तथा च श्रुतिः — ‘आत्मानं चेद्विजानीयादयमस्मीति पूरुषः। किमिच्छन्कस्य कामाय शरीरमनुसंज्वरेत्’ (बृ. उ. ४। ४। १२) इति, ‘एतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत’ (भ. गी. १५। २०) इति च स्मृतिः। तस्मान्न प्रतिपत्तिविधिविषयतया ब्रह्मणः समर्पणम् ॥
+
+### कृत-कृत्यता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अप्य् अकर्तव्य-प्रधानम् आत्म-ज्ञानं  
+हानायोपादानाय वा न भवतीति,  
+तत् तथैवेत्य् अभ्युपगम्यते।
+</details>
+
+<details><summary>English</summary>
+
+That the knowledge of Brahman refers to something which is not a thing to be done, and therefore is not concerned either with the pursuit or the avoidance of any object, is the very thing we admit;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदप्यकर्तव्यप्रधानमात्मज्ञानं हानायोपादानाय वा न भवतीति, तत्तथैवेत्यभ्युपगम्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अलङ्कारो ह्य् अयम् अस्माकम् —  
+यद् ब्रह्मात्मावगतौ सत्यां  
+सर्व-कर्तव्यता-हानिः कृत-कृत्यता चेति। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+for just that constitutes our glory, that as soon as we comprehend Brahman, all our duties come to an end and all our work is over.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अलङ्कारो ह्ययमस्माकम् — यद्ब्रह्मात्मावगतौ सत्यां सर्वकर्तव्यताहानिः कृतकृत्यता चेति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च श्रुतिः — 
+
+> ‘आत्मानं चेद् विजानीयाद्  
+अयम् अस्मीति पूरुषः।  
+किम् इच्छन् कस्य कामाय  
+शरीरम् अनुसंज्वरेत्’ (बृ. उ. ४। ४। १२) 
+
+इति, 
+
+> ‘एतद् बुद्ध्वा बुद्धिमान् स्यात्  
+कृत-कृत्यश् च भारत’ (भ. गी. १५। २०) 
+
+इति च स्मृतिः।
+</details>
+
+<details><summary>English</summary>
+
+Thus Śruti says, 'If a man understands the Self, saying, "I am he," what could he wish or desire that he should pine after the body?' (Br̥. Up. IV, 4, 12.) And similarly Smr̥ti declares, 'Having understood this the understanding man has done with all work, O Bhārata' (Bha. Gītā XV, 20).
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा च श्रुतिः — ‘आत्मानं चेद्विजानीयादयमस्मीति पूरुषः। किमिच्छन्कस्य कामाय शरीरमनुसंज्वरेत्’ (बृ. उ. ४। ४। १२) इति, ‘एतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत’ (भ. गी. १५। २०) इति च स्मृतिः।
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मान् न प्रतिपत्ति-विधि-विषयतया ब्रह्मणः समर्पणम् ॥
+</details>
+
+<details><summary>English</summary>
+
+Therefore Brahman is not represented as the object of injunctions.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मान्न प्रतिपत्तिविधिविषयतया ब्रह्मणः समर्पणम् ॥
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -2626,14 +3118,156 @@ Thus the mantras also declare, 'One of them eats the sweet fruit, the other look
 आगैयिऩाल् अऱिगिऱदॆऩ्ऱ विदिक्कु विषयमागुम् तऩ्मैयुडैयदाग पिरह्मत्तै ऎडुत्तुक् कॊळ्ळ मुडियादु।
 </details>
 
-यदपि केचिदाहुः — प्रवृत्तिनिवृत्तिविधितच्छेषव्यतिरेकेण केवलवस्तुवादी वेदभागो नास्तीति, तन्न। औपनिषदस्य पुरुषस्यानन्यशेषत्वात्। योऽसावुपनिषत्स्वेवाधिगतः पुरुषोऽसंसारी ब्रह्मस्वरूपः उत्पाद्यादिचतुर्विधद्रव्यविलक्षणः स्वप्रकरणस्थोऽ नन्यशेषः, नासौ नास्ति नाधिगम्यत इति वा शक्यं वदितुम् । ‘स एष नेति नेत्यात्मा’ (बृ. उ. ३। ९। २६) इत्यात्मशब्दात् आत्मनश्च प्रत्याख्यातुमशक्यत्वात्, य एव निराकर्ता तस्यैवात्मत्वात् ।
+
+## वेदे विधि--तच्-छेष-भिन्नानि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अपि केचिद् आहुः —  
+
+> प्रवृत्ति-निवृत्ति-विधि- -तत्-शेष-व्यतिरेकेण  
+केवल-वस्तु-वादी वेद-भागो नास्ति
+
+इति, तन् न –
+</details>
+
+<details><summary>English</summary>
+
+We now proceed to consider the doctrine of those who maintain that there is no part of the Veda which has the purport of making statements about mere existent things, and is not either an injunction or a prohibition, or supplementary to either. This opinion is erroneous,
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदपि केचिदाहुः — प्रवृत्तिनिवृत्तिविधितच्छेषव्यतिरेकेण केवलवस्तुवादी वेदभागो नास्तीति, तन्न।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+औपनिषदस्य पुरुषस्यानन्य-शेषत्वात्।
+</details>
+
+<details><summary>English</summary>
+
+because the soul (purusha), which is the subject of the Upanishads, does not constitute a complement to anything else.
+</details>
+
+<details><summary>मूलम्</summary>
+
+औपनिषदस्य पुरुषस्यानन्यशेषत्वात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यो ऽसाव् उपनिषत्स्व् एवाधिगतः पुरुषो ऽसंसारी ब्रह्म-स्वरूपः  
+उत्पाद्यादि-चतुर्विध-द्रव्य-विलक्षणः  
+स्व-प्रकरणस्थो ऽनन्य-शेषः,  
+न "असौ नास्ति, नाधिगम्यत" इति वा शक्यं वदितुम् —
+</details>
+
+<details><summary>English</summary>
+
+Of that soul which is to be comprehended from the Upanishads only, which is non-transmigratory, Brahman, different in nature from the four classes of substances [^fn_83], which forms a topic of its own and is not a complement to anything else; of that soul it is impossible to say that it is not or is not apprehended;
+</details>
+
+<details><summary>मूलम्</summary>
+
+योऽसावुपनिषत्स्वेवाधिगतः पुरुषोऽसंसारी ब्रह्मस्वरूपः उत्पाद्यादिचतुर्विधद्रव्यविलक्षणः स्वप्रकरणस्थो ऽनन्यशेषः, नासौ नास्ति नाधिगम्यत इति वा शक्यं वदितुम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘स एष नेति नेत्य् आत्मा’ (बृ. उ. ३। ९। २६) 
+
+इत्य्-आत्म-शब्दात्  
+आत्मनश् च प्रत्याख्यातुम् अशक्यत्वात्,  
+य एव निराकर्ता तस्यैवात्मत्वात् ।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+for the passage, 'That Self is to be described by No, no!' (Br̥. Up. III, 9, 26) designates it as the Self, and that the Self is cannot be denied.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘स एष नेति नेत्यात्मा’ (बृ. उ. ३। ९। २६) इत्यात्मशब्दात् आत्मनश्च प्रत्याख्यातुमशक्यत्वात्, य एव निराकर्ता तस्यैवात्मत्वात् ।
+</details>
+
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 “पिरविरुत्ति निविरुत्ति इवैगळै विदिक्कु विदिगळ्, अवैगळैयॊट्टिऩवै, इवैगळैत्तविर वॆऱुम् वस्तुवै मात्तिरम् सॊल्लुम् वेदबागम् किडैयादु” ऎऩ्ऱु ऎदै सिलर् सॊल्गिऱार्गळो, अदुवुम् पिसगु; उबनिषत्तिल् सॊल्लुम् पुरुषऩुक्कु वेऱु ऎदऱ्कुम् अङ्गमायुळ्ळ तऩ्मै किडैया तदिऩाल्। ऎन्दप् पुरुषऩ् उबनिषत्तुक्कळिलेये अऱियप्पडुगिऱवऩाय् संसारियिल्लादवऩाय् पिरह्म स्वरूबऩाय् उण्डु पण्णप्पडुवदु मुदलिय नाऩ्गुविद तिरवियङ्गळुक्कु वेऱुबट्टदाय् तऩ्ऩुडैय पिरगरणत्तिल् (ञाऩगाण् डत्तिल्) इरुक्किऱारो। अवर् वेऱु ऎदऱ्कुम् अङ्गमा यिल्लादवर्। अदु इल्लैयॆऩ्ऱावदु अऱियप्पडविल् लैयॆऩ्ऱावदु सॊल्वदऱ्कु मुडियादु, "इदुवल्ल इदुवल्ल ऎऩ्ऱ अन्द इदु आत्मा" (पिरहत्। ३-९-२६) ऎऩ्ऱु ‘आत्मा' ऎऩ्ऱ वार्त्तैयिरुप्पदाल्, आत्मा वैयो मऱुक्कमुडियाददिऩाल् ऎवऩ् मऱुक्किऱाऩो अवऩे आत्मावायिरुप्पदाल्।
 </details>
 
-नन्वात्मा अहंप्रत्ययविषयत्वादुपनिषत्स्वेव विज्ञायत इत्यनुपपन्नम्। न, तत्साक्षित्वेन प्रत्युक्तत्वात्। न ह्यहंप्रत्ययविषयकर्तृव्यतिरेकेण तत्साक्षी सर्वभूतस्थः सम एकः कूटस्थनित्यः पुरुषो विधिकाण्डे तर्कसमये वा केनचिदधिगतः सर्वस्यात्मा। अतः स न केनचित्प्रत्याख्यातुं शक्यः, विधिशेषत्वं वा नेतुम्; आत्मत्वादेव च सर्वेषाम् — न हेयो नाप्युपादेयः ।
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नन्व् आत्मा अहंप्रत्यय-विषयत्वाद्,  
+"उपनिषत्स्व् एव विज्ञायत" इत्य्-अनुपपन्नम्।
+</details>
+
+<details><summary>English</summary>
+
+The possible objection that there is no reason to maintain that the soul is known from the Upanishads only, since it is the object of self-consciousness, is refuted by the fact that
+</details>
+
+<details><summary>मूलम्</summary>
+
+नन्वात्मा अहंप्रत्ययविषयत्वादुपनिषत्स्वेव विज्ञायत इत्यनुपपन्नम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न, तत्+++(→अहम्-अर्थ)+++-साक्षित्वेन प्रत्युक्तत्वात्।
+</details>
+
+<details><summary>English</summary>
+
+the soul of which the Upanishads treat is merely the witness of that (i.e. of the object of self-consciousness, viz. the jīvātman).
+</details>
+
+<details><summary>मूलम्</summary>
+
+न, तत्साक्षित्वेन प्रत्युक्तत्वात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् अहं-प्रत्यय-विषय-कर्तृ-व्यतिरेकेण  
+तत्-साक्षी सर्व-भूत-स्थः सम एकः  
+कूटस्थ-नित्यः पुरुषो  
+विधि-काण्डे तर्क-समये वा केनचिद् अधिगतः सर्वस्यात्मा।
+</details>
+
+<details><summary>English</summary>
+
+For neither from that part of the Veda which enjoins works nor from reasoning, anybody apprehends that soul which, different from the agent that is the object of self-consciousness, merely witnesses it; which is permanent in all (transitory) beings; uniform; one; eternally unchanging; the Self of everything.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न ह्यहंप्रत्ययविषयकर्तृव्यतिरेकेण तत्साक्षी सर्वभूतस्थः सम एकः कूटस्थनित्यः पुरुषो विधिकाण्डे तर्कसमये वा केनचिदधिगतः सर्वस्यात्मा।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः स न केनचित् प्रत्याख्यातुं शक्यः,  
+विधि-शेषत्वं वा नेतुम् +++(न शक्यः)+++;  
+आत्मत्वाद् एव च सर्वेषाम्  
+— न हेयो नाप्य् उपादेयः ।
+</details>
+
+<details><summary>English</summary>
+
+Hence it can neither be denied nor be represented as the mere complement of injunctions; for of that very person who might deny it it is the Self. And as it is the Self of all, it can neither be striven after nor avoided.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतः स न केनचित्प्रत्याख्यातुं शक्यः, विधिशेषत्वं वा नेतुम्; आत्मत्वादेव च सर्वेषाम् — न हेयो नाप्युपादेयः ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -2645,14 +3279,188 @@ Thus the mantras also declare, 'One of them eats the sweet fruit, the other look
 ऎल्लोरुक्कुम् आत्मावाग इरुक्कुम् तऩ्मैयि ऩालेये अदु तळ्ळमुडियाददु, अप्पडिये ऎडुत्तुक् कॊळ्ळवुम् मुडियाददु।
 </details>
 
-सर्वं हि विनश्यद्विकारजातं पुरुषान्तं विनश्यति। पुरुषो हि विनाशहेत्वभावादविनाशी। विक्रियाहेत्वभावाच्च कूटस्थनित्यः। अत एव नित्यशुद्धबुद्धमुक्तस्वभावः; तस्मात् ‘पुरुषान्न परं किञ्चित्सा काष्ठा सा परा गतिः’ (क. उ. १। ३। ११) ‘तं त्वौपनिषदं पुरुषं पृच्छामि’ (बृ. उ. ३। ९। २६) इति चौपनिषदत्वविशेषणं पुरुषस्योपनिषत्सु प्राधान्येन प्रकाश्यमानत्वे उपपद्यते। अतो भूतवस्तुपरो वेदभागो नास्तीति वचनं साहसमात्रम् ॥
+
+### नित्य-पुरुषोक्तिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वं हि विनश्यद्-विकार-जातं पुरुषान्तं  
+विनश्यति।
+</details>
+
+<details><summary>English</summary>
+
+All perishable things indeed perish, because they are mere modifications, up to (i.e. exclusive of) the soul.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वं हि विनश्यद्विकारजातं पुरुषान्तं विनश्यति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरुषो हि विनाश-हेत्व्-अभावाद् अविनाशी।
+</details>
+
+<details><summary>English</summary>
+
+But the soul is imperishable [^fn_84],
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुरुषो हि विनाशहेत्वभावादविनाशी।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विक्रिया-हेत्व्-अभावाच् च कूटस्थ-नित्यः।
+</details>
+
+<details><summary>English</summary>
+
+as there is no cause why it should perish; and eternally unchanging, as there is no cause for its undergoing any modification;
+</details>
+
+<details><summary>मूलम्</summary>
+
+विक्रियाहेत्वभावाच्च कूटस्थनित्यः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव नित्य-शुद्ध-बुद्ध-मुक्त-स्वभावः;
+</details>
+
+<details><summary>English</summary>
+
+hence it is in its essence eternally pure and free.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत एव नित्यशुद्धबुद्धमुक्तस्वभावः;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात् 
+
+> ‘पुरुषान् न परं किञ्चित्  
+सा काष्ठा सा परा गतिः’ (क. उ. १। ३। ११) 
+
+> ‘तं त्व् औपनिषदं पुरुषं पृच्छामि’ (बृ. उ. ३। ९। २६) 
+
+इति चौपनिषदत्व-विशेषणं पुरुषस्योपनिषत्सु प्राधान्येन प्रकाश्यमानत्वय् उपपद्यते।
+</details>
+
+<details><summary>English</summary>
+
+And from passages, such as 'Beyond the soul there is nothing; this is the goal, the highest road' (Ka. Up. I, 3, 11), and 'That soul, taught in the Upanishads, I ask thee' (Br̥. Up. III, 9, 26), it appears that the attribute of resting on the Upanishads is properly given to the soul, as it constitutes their chief topic.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मात् ‘पुरुषान् न परं किञ्चित् सा काष्ठा सा परा गतिः’ (क. उ. १। ३। ११) ‘तं त्व् औपनिषदं पुरुषं पृच्छामि’ (बृ. उ. ३। ९। २६) इति चौपनिषदत्व-विशेषणं पुरुषस्योपनिषत्सु प्राधान्येन प्रकाश्यमानत्वे उपपद्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो भूत-वस्तु-परो वेद-भागो नास्तीति वचनं साहस-मात्रम् ॥
+</details>
+
+<details><summary>English</summary>
+
+To say, therefore, that there is no portion of the Veda referring to existing things, is a mere bold assertion.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतो भूतवस्तुपरो वेदभागो नास्तीति वचनं साहसमात्रम् ॥
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 नासत्तैयडैयुम् ऎल्ला विगारक्कूट्टमुम् पुरुषऩै मीदमाग वैत्ते नासमडैगिऱदु। नासत्तिऱ्कुक् कारणमिल्लाददिऩाल् पुरुषऩो नासमडैयादवऩ्; विगारत्तिऱ्कुक् कारणमिल्लाददिऩाल् माऱुदलऩ्ऩियिल् नित्यमायुळ्ळवऩ्। अदऩालेये नित्यमाय् सुत्तमाय् अऱिवुळ्ळदाय् विडुबट्टदायिरुक्कुम् स्वबावमुळ्ळवऩ्। आगैयाल् “पुरुषऩुक्कु मेल् ऎदुवुम् किडैयादु। अदुवे ऎल्लै; अदुवे मेलाऩ पोक्कु" (काडग। १-३-११), “उबनिषत्तिल् कण्ड अन्दप् पुरुषऩैये केट्किऱेऩ्” (पिरुह। ३-९-२६) इङ्गु "उबनिषत्तिल् कण्ड” ऎऩ्ऱ विसेषणम्, उबनिषत्तुक्कळिल् पुरुष ऩुक्कुप् पिरदाऩत् तऩ्मैयुडऩ् विळक्कप्पडुम् तऩ्मै यिऩाल् पॊरुन्दुगिऱदु। आगैयाल् (ऎप्पॊऴुदुम्) इरुक्कुम् वस्तुविल् तात्पर्यमुळ्ळ वेदबागम् किडैयादॆऩ्ऱु सॊल्लुदल् वॆऱुम् साहसम्दाऩ्।
 </details>
 
-यदपि शास्त्रतात्पर्यविदामनुक्रमणम् — ‘दृष्टो हि तस्यार्थः कर्मावबोधनम्’ इत्येवमादि, तत् धर्मजिज्ञासाविषयत्वाद्विधिप्रतिषेधशास्त्राभिप्रायं द्रष्टव्यम्। अपि च ‘आम्नायस्य क्रियार्थत्वादानर्थक्यमतदर्थानाम्’ इत्येतदेकान्तेनाभ्युपगच्छतां भूतोपदेशानर्थक्यप्रसङ्गः। प्रवृत्तिनिवृत्तिविधिव्यतिरेकेण भूतं चेद्वस्तूपदिशति भव्यार्थत्वेन, कूटस्थनित्यं भूतं नोपदिशतीति को हेतुः। न हि भूतमुपदिश्यमानं क्रिया भवति ।
+
+### धर्म-मीमांसक-तात्पर्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अपि शास्त्र-तात्पर्य-विदाम् अनुक्रमणम् — 
+
+> ‘दृष्टो हि तस्यार्थः कर्मावबोधनम्’ 
+
+इत्य्-एवम् आदि,  
+तद् धर्म-जिज्ञासा-विषयत्वाद्  
+विधि-प्रतिषेध-शास्त्राभिप्रायं द्रष्टव्यम्।
+</details>
+
+<details><summary>English</summary>
+
+With regard to the quotations made of the views of men acquainted with the purport of the Śāstra (who alone were stated to have declared that the Veda treats of actions) it is to be understood that they, having to do with the enquiry into duty, refer to that part of the Śāstra which consists of injunctions and prohibitions.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदपि शास्त्रतात्पर्यविदामनुक्रमणम् — ‘दृष्टो हि तस्यार्थः कर्मावबोधनम्’ इत्येवमादि, तत् धर्मजिज्ञासाविषयत्वाद्विधिप्रतिषेधशास्त्राभिप्रायं द्रष्टव्यम्।
+</details>
+
+
+### भूतार्थोपदेशः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च 
+
+> ‘आम्नायस्य क्रियार्थत्वाद्  
+आनर्थक्यम् अतद्-अर्थानाम्’ 
+
+इत्य्-एतद् एकान्तेनाभ्युपगच्छतां भूतोपदेशानर्थक्य-प्रसङ्गः।
+</details>
+
+<details><summary>English</summary>
+
+With regard to the other passage quoted ('as action is the purport of the Veda, whatever does not refer to action is purportless') we remark that if that passage were taken in an absolutely strict sense (when it would mean that only those words which denote action have a meaning), it would follow that all information about existent things is meaningless [^fn_85].
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि च ‘आम्नायस्य क्रियार्थत्वादानर्थक्यमतदर्थानाम्’ इत्येतदेकान्तेनाभ्युपगच्छतां भूतोपदेशानर्थक्यप्रसङ्गः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रवृत्ति-निवृत्ति-विधि-व्यतिरेकेण भूतं चेद् वस्तूपदिशति भव्यार्थत्वेन +++(→फलार्थत्वेन)+++,  
+कूटस्थ-नित्यं भूतं नोपदिशतीति को हेतुः।
+</details>
+
+<details><summary>English</summary>
+
+If, on the other hand, the Veda--in addition to the injunctions of activity and cessation of activity--does give information about existent things as being subservient to some action to be accomplished, why then should it not give information also about the existent eternally unchangeable Self?
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रवृत्तिनिवृत्तिविधिव्यतिरेकेण भूतं चेद्वस्तूपदिशति भव्यार्थत्वेन, कूटस्थनित्यं भूतं नोपदिशतीति को हेतुः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि भूतम् उपदिश्यमानं क्रिया भवति ।
+</details>
+
+<details><summary>English</summary>
+
+For an existent thing, about which information is given, does not become an act (through being stated to be subservient to an act).
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि भूतमुपदिश्यमानं क्रिया भवति ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -2664,14 +3472,272 @@ Thus the mantras also declare, 'One of them eats the sweet fruit, the other look
 मेलुम् "वेदत्तिऱ्कु किरियैयै पिरयोजऩ मायुळ्ळ तऩ्मैयिरुप्पदिऩाल् अदै पिरयोजऩमाग विल्लादवैगळुक्कु पिरयोजऩमऱ्ऱ तऩ्मै” ऎऩ्ऱ इदै अप्पडिये पूरावुम् ऒप्पुक्कॊळ्गिऱवर्गळुक्कु (मुऩ्ऩमेये) इरुक्कुम्। वस्तुवैक् कुऱिक्कुम् उबदेसङ्गळुक्कुप् पिरयोजऩ मऱ्ऱ तऩ्मै एऱ्पट्टुविडुम्। पिरविरुत्ति निविरुत्ति इवैगळैत् तविर (मुऩ्ऩालेये) इरुक्किऱ वस्तुवै पिऩ्ऩाल् एऱ्पडुम् कारियत्तिऩ् सेषमाग उबदेसिक्कुमाऩाल्, माऱामल् नित्तियमाय् (मुऩ्ऩालेये इरुक्किऱ) वस्तुवै उबदेसिक्कादु ऎऩ्बदऱ्कु ऎऩ्ऩ कारणम्? उबदेसिक्कप्पडुगिऱ इरुक्किऱ इरुक्किऱ वस्तु किरियैयाग आगादे?
 </details>
 
-अक्रियात्वेऽपि भूतस्य क्रियासाधनत्वात्क्रियार्थ एव भूतोपदेश इति चेत् , नैष दोषः। क्रियार्थत्वेऽपि क्रियानिर्वर्तनशक्तिमद्वस्तूपदिष्टमेव। क्रियार्थत्वं तु प्रयोजनं तस्य। न चैतावता वस्त्वनुपदिष्टं भवति। यदि नामोपदिष्टं किं तव तेन स्यादिति, उच्यते — अनवगतात्मवस्तूपदेशश्च तथैव भवितुमर्हति। तदवगत्या मिथ्याज्ञानस्य संसारहेतोर्निवृत्तिः प्रयोजनं क्रियत इत्यविशिष्टमर्थवत्त्वं क्रियासाधनवस्तूपदेशेन ।
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अक्रियात्वे ऽपि,  
+भूतस्य क्रिया-साधनत्वात्  
+क्रियार्थ एव भूतोपदेश 
+
+इति चेत् , नैष दोषः।
+</details>
+
+<details><summary>English</summary>
+
+But, it will be said, although existent things are not acts, yet, as they are instrumental to action, the information given about such things is merely subservient to action. This, we reply, does not matter;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अक्रियात्वेऽपि भूतस्य क्रियासाधनत्वात्क्रियार्थ एव भूतोपदेश इति चेत् , नैष दोषः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्रियार्थत्वे ऽपि  
+क्रिया-निर्वर्तन-शक्तिमद् वस्तूपदिष्टम् एव।
+</details>
+
+<details><summary>English</summary>
+
+for although the information may be subservient to action, the things themselves about which information is given are already intimated thereby as things which have the power of bringing about certain actions.
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्रियार्थत्वेऽपि क्रियानिर्वर्तनशक्तिमद्वस्तूपदिष्टमेव।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्रियार्थत्वं तु प्रयोजनं तस्य।
+</details>
+
+<details><summary>English</summary>
+
+Their final end (prayojana) indeed may be subserviency to some action,
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्रियार्थत्वं तु प्रयोजनं तस्य।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चैतावता वस्त्व् अनुपदिष्टं भवति।
+</details>
+
+<details><summary>English</summary>
+
+but thereby they do not cease to be, in the information given about them, intimated in themselves.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चैतावता वस्त्वनुपदिष्टं भवति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यदि नामोपदिष्टं  
+किं तव तेन स्याद् 
+
+इति, उच्यते —  
+अनवगतात्मवस्तूपदेशश् च  
+तथैव भवितुम् अर्हति।
+</details>
+
+<details><summary>English</summary>
+
+Well, and if they are thus intimated, what is gained thereby for your purpose [^fn_86]? We reply that the information about the Self, which is an existing thing not comprehended from other sources, is of the same nature (as the information about other existent things);
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि नामोपदिष्टं किं तव तेन स्यादिति, उच्यते — अनवगतात्मवस्तूपदेशश्च तथैव भवितुमर्हति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-अवगत्या मिथ्या-ज्ञानस्य संसार-हेतोः निवृत्तिः प्रयोजनं क्रियत  
+इत्य्-अविशिष्टम् अर्थवत्त्वं क्रिया-साधन-वस्तूपदेशेन।
+</details>
+
+<details><summary>English</summary>
+
+for by the comprehension of the Self a stop is put to all false knowledge, which is the cause of transmigration, and thus a purpose is established which renders the passages relative to Brahman equal to those passages which give information about things instrumental to actions.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदवगत्या मिथ्याज्ञानस्य संसारहेतोर्निवृत्तिः प्रयोजनं क्रियत इत्यविशिष्टमर्थवत्त्वं क्रियासाधनवस्तूपदेशेन ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 “इरुक्किऱ वस्तु किरियै इल्लामल् पोऩालुम्, किरियैक्कु सादऩम् ऎऩ्ऱ मुऱैयिल् किरियैयै पिरयोजऩमायुडैयदुदाऩ् इरुक्किऱ वस्तुविऩ् उबदेसम्" ऎऩ्ऱाल्, इदु तोषमिल्लै। किरियैयै पिरयोजऩमायुडैय तऩ्मै इरुन्दबोदिलुम्, किरियैयै नडत्तिवैक्कुम् सक्तियुळ्ळ वस्तु उबदेसिक्कप्पट्टदागवे आगिऱदु। किरियैक्काग ऎऩ्बदु अदऩ् पिरयोजऩम्; इदऩाल् वस्तु उबदेसिक्कप्पड विल्लै ऎऩ्ऱु आगादु। “उबदेसिक्कप्पट्टदुदाऩ् ऎऩ्ऱाल् अदऩाल् उमक्कु ऎऩ्ऩ एऱ्पडुगिऱदु?” ऎऩ्ऱाल्, सॊल्गिऱोम्। मुऩ् अऱियप्पडाद वस्तुविऩ् उबदेसमुम् अप्पडिये ताऩ् उळ्ळदु। अदै अऱिवदिऩाल् संसारत्तिऱ्कुक् कारणमाऩ वास्तव मिल्लाद अक्ञाऩत्तिऩुडैय निविरुत्तियागिऱ पिरयोजऩम् एऱ्पडुगिऱदु ऎऩ्ऱु किरियैक्कु सादऩमा युळ्ळ वस्तुविऩ् उबदेसत्तुडऩ् वेऱुबडामल् (अदैप्पोलवे) पिरयोजऩमुळ्ळ तऩ्मै उण्डु।
 </details>
 
-अपि च ‘ब्राह्मणो न हन्तव्यः’ इति चैवमाद्या निवृत्तिरुपदिश्यते। न च सा क्रिया। नापि क्रियासाधनम्। अक्रियार्थानामुपदेशोऽनर्थकश्चेत् , ‘ब्राह्मणो न हन्तव्यः’ इत्यादिनिवृत्त्युपदेशानामानर्थक्यं प्राप्तम्। तच्चानिष्टम्। न च स्वभावप्राप्तहन्त्यर्थानुरागेण नञः शक्यमप्राप्तक्रियार्थत्वं कल्पयितुं हननक्रियानिवृत्त्यौदासीन्यव्यतिरेकेण। नञश्चैष स्वभावः, यत्स्वसम्बन्धिनोऽभावं बोधयतीति। अभावबुद्धिश्चौदासीन्यकारणम्। सा च दग्धेन्धनाग्निवत्स्वयमेवोपशाम्यति। तस्मात्प्रसक्तक्रियानिवृत्त्यौदासीन्यमेव ‘ब्राह्मणो न हन्तव्यः’ इत्यादिषु प्रतिषेधार्थं मन्यामहे, अन्यत्र प्रजापतिव्रतादिभ्यः। तस्मात्पुरुषार्थानुपयोग्युपाख्यानादिभूतार्थवादविषयमानर्थक्याभिधानं द्रष्टव्यम् ॥
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च ‘ब्राह्मणो न हन्तव्यः’ इति चैवम्-आद्या निवृत्तिर् उपदिश्यते।
+</details>
+
+<details><summary>English</summary>
+
+Moreover, there are found (even in that part of the Veda which treats of actions) such passages as 'a Brāhmaṇa is not to be killed,' which teach abstinence from certain actions.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि च ‘ब्राह्मणो न हन्तव्यः’ इति चैवमाद्या निवृत्तिरुपदिश्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च सा क्रिया।
+</details>
+
+<details><summary>English</summary>
+
+Now abstinence from action is neither action
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च सा क्रिया।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि क्रिया-साधनम्।
+</details>
+
+<details><summary>English</summary>
+
+nor instrumental to action.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नापि क्रियासाधनम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अक्रियार्थानाम् उपदेशो ऽनर्थकश् चेत् , ‘ब्राह्मणो न हन्तव्यः’ इत्य्-आदि-निवृत्त्य्-उपदेशानाम् आनर्थक्यं प्राप्तम्।
+</details>
+
+<details><summary>English</summary>
+
+If, therefore, the tenet that all those passages which do not express action are devoid of purport were insisted on, it would follow that all such passages as the one quoted, which teach abstinence from action, are devoid of purport--
+</details>
+
+<details><summary>मूलम्</summary>
+
+अक्रियार्थानामुपदेशोऽनर्थकश्चेत् , ‘ब्राह्मणो न हन्तव्यः’ इत्यादिनिवृत्त्युपदेशानामानर्थक्यं प्राप्तम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तच् चानिष्टम्।
+</details>
+
+<details><summary>English</summary>
+
+a consequence which is of course unacceptable.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तच्चानिष्टम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च स्वभाव-प्राप्त-हन्त्य्-अर्थानुरागेण नञः शक्यम् अप्राप्त-क्रियार्थत्वं कल्पयितुं हनन-क्रिया-निवृत्त्य्-औदासीन्य-व्यतिरेकेण।
+</details>
+
+<details><summary>English</summary>
+
+Nor, again, can the connexion in which the word 'not' stands with the action expressed by the verb 'is to be killed'--which action is naturally established [^fn_87]--be used as a reason for assuming that 'not' denotes an action non-established elsewhere [^fn_88], different from the state of mere passivity implied in the abstinence from the act of killing.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च स्वभावप्राप्तहन्त्यर्थानुरागेण नञः शक्यमप्राप्तक्रियार्थत्वं कल्पयितुं हननक्रियानिवृत्त्यौदासीन्यव्यतिरेकेण।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नञश् चैष स्वभावः, यत् स्व-सम्बन्धिनो ऽभावं बोधयतीति।
+</details>
+
+<details><summary>English</summary>
+
+For the peculiar function of the particle 'not' is to intimate the idea of the non-existence of that with which it is connected,
+</details>
+
+<details><summary>मूलम्</summary>
+
+नञश्चैष स्वभावः, यत्स्वसम्बन्धिनोऽभावं बोधयतीति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अभाव-बुद्धिश्चौदासीन्य-कारणम्।
+</details>
+
+<details><summary>English</summary>
+
+and the conception of the non-existence (of something to be done) is the cause of the state of passivity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अभावबुद्धिश्चौदासीन्यकारणम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा च दग्धेन्धनाग्निवत् स्वयम् एवोपशाम्यति।
+</details>
+
+<details><summary>English</summary>
+
+(Nor can it be objected that, as soon as that momentary idea has passed away, the state of passivity will again make room for activity; for) that idea itself passes away (only after having completely destroyed the natural impulse prompting to the murder of a Brāhmaṇa, &c., just as a fire is extinguished only after having completely consumed its fuel.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा च दग्धेन्धनाग्निवत्स्वयमेवोपशाम्यति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात् प्रसक्त-क्रिया-निवृत्त्य्-औदासीन्यम् एव ‘ब्राह्मणो न हन्तव्यः’ इत्य्-आदिषु प्रतिषेध-अर्थं मन्यामहे, अन्यत्र प्रजापति-व्रतादिभ्यः।
+</details>
+
+<details><summary>English</summary>
+
+Hence we are of opinion that the aim of prohibitory passages, such as 'a Brāhmaṇa is not to be killed, 'is a merely passive state, consisting in the abstinence from some possible action; excepting some special cases, such as the so-called Prajāpati-vow, &c. [^fn_89]
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मात्प्रसक्तक्रियानिवृत्त्यौदासीन्यमेव ‘ब्राह्मणो न हन्तव्यः’ इत्यादिषु प्रतिषेधार्थं मन्यामहे, अन्यत्र प्रजापतिव्रतादिभ्यः।
+</details>
+
+
+तस्मात्पुरुषार्थानुपयोग्युपाख्यानादिभूतार्थवादविषयमानर्थक्याभिधानं द्रष्टव्यम् ॥
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
