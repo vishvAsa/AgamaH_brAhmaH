@@ -23,6 +23,22 @@ shankara admits that these sUtra-s define brahman as having certain attributes (
 
 But he takes it to mean an illusory saguNa-brahman (=nirguNa + mAyA) who's into illusory activities with illusory objects; while insisting that the brahma-sUtra-s exist to propound an attributeless brahman.
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Where exactly does he perform the magic trick by which he transmutes the universe-maker in the first two sUtras to an illusory saguNa-brahman (=nirguNa + mAyA) who's into illusory activities with illusory objects; while insisting that the brahma-sUtra-s exist to propound an attributeless brahman?
+
+Initially, he mostly speaks like a bhedAbhedavAdin, saying mostly the right things apart from vague hints like "तद् एतद् अशरीरत्वं मोक्षाख्यम् … तद् ब्रह्म, यस्येयं जिज्ञासा प्रस्तुता ।", "तस्मान् न स्वाश्रया क्रिया ऽऽत्मनः सम्भवति।".
+
+The Bait and Switch: Anandamayadhikarana (1.1.12 – 1.1.19).... shankara says that "maya" in Anandamaya implies vikAra, making Anandamaya brahman the "lower" saguNa-brahman.
+
+Shankara takes the universe-maker of 1.1.2 (Janmadyasya yatah) and officially strips Him of His ultimate reality under Sutra 2.1.14 
+
+"तदेवमविद्यात्मकोपाधिपरिच्छेदापेक्षमेवेश्वरस्येश्वरत्वं सर्वज्ञत्वं सर्वशक्तित्वं च न परमार्थतो..."  
+(Thus, the Lord's rulership, omniscience, and omnipotence are dependent solely on the limiting adjuncts conjured by ignorance... From the absolute standpoint [paramarthatah], there is no Lord, no ruled, no omniscience...)
+</details>
+
+
+
 Suppose I say -
 
 > "Now I will talk about Mr X. He's the one who writes good reports.",
