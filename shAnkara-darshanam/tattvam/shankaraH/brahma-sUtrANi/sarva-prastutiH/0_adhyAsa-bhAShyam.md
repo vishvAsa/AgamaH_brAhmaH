@@ -636,7 +636,7 @@ But how can the means of right knowledge such as perception, inference, &c., and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उच्यते — देहेन्द्रियादिषु अहं-ममाभिमान-रहितस्य प्रमातृत्वानुपपत्तौ  
+उच्यते — देहेन्द्रियादिष्व् अहं-ममाभिमान-रहितस्य प्रमातृत्वानुपपत्तौ  
 प्रमाण-प्रवृत्त्य्-अनुपपत्तेः। +++(4)+++
 </details>
 
@@ -768,7 +768,7 @@ Hence perception and the other means of right knowledge, and the Vedic texts hav
 ### लोके पशुवत्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पश्वादिभिश्चाविशेषात्। 
+पश्वादिभिश् चाविशेषात् +++(अ-विवेक-पुरस्सरः प्रत्यक्षादि-व्यवहारः, वक्ष्यमाण-रीत्या)+++। 
 </details>
 
 <details><summary>English</summary>
