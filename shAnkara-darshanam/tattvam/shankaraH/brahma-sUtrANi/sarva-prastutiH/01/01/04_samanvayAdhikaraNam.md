@@ -3583,7 +3583,7 @@ for by the comprehension of the Self a stop is put to all false knowledge, which
 </details>
 
 
-
+### निवृत्तिर् न क्रिया
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3633,7 +3633,8 @@ nor instrumental to action.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अक्रियार्थानाम् उपदेशो ऽनर्थकश् चेत् , ‘ब्राह्मणो न हन्तव्यः’ इत्य्-आदि-निवृत्त्य्-उपदेशानाम् आनर्थक्यं प्राप्तम्।
+अ-क्रियार्थानाम् उपदेशो ऽनर्थकश् चेत् ,  
+‘ब्राह्मणो न हन्तव्यः’ इत्य्-आदि-निवृत्त्य्-उपदेशानाम् आनर्थक्यं प्राप्तम्।
 </details>
 
 <details><summary>English</summary>
@@ -3663,13 +3664,23 @@ a consequence which is of course unacceptable.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च स्वभाव-प्राप्त-हन्त्य्-अर्थानुरागेण नञः शक्यम् अप्राप्त-क्रियार्थत्वं कल्पयितुं हनन-क्रिया-निवृत्त्य्-औदासीन्य-व्यतिरेकेण।
+न च – स्वभाव-प्राप्त-हन्त्य्-अर्थानुरागेण,  
+नञः शक्यम् अप्राप्त-क्रियार्थत्वं कल्पयितुं –  
+हनन-क्रिया-निवृत्त्य्- -औदासीन्य-व्यतिरेकेण।
 </details>
 
 <details><summary>English</summary>
 
-Nor, again, can the connexion in which the word 'not' stands with the action expressed by the verb 'is to be killed'--which action is naturally established [^fn_87]--be used as a reason for assuming that 'not' denotes an action non-established elsewhere [^fn_88], different from the state of mere passivity implied in the abstinence from the act of killing.
+Nor, again, can the connexion in which the word 'not' stands with the action expressed by the verb 'is to be killed'--which action is naturally established [fn_87] -- be used as a reason for assuming that 'not' denotes an action non-established elsewhere [fn_88], different from the state of mere passivity implied in the abstinence from the act of killing.
 </details>
+
+<details><summary>English - </summary>
+
+[15]: It is 'naturally established' because it has natural motives--not dependent on the injunctions of the Veda, viz. passion and the like.
+
+[16]: Elsewhere, i.e. outside the Veda.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -3678,7 +3689,8 @@ Nor, again, can the connexion in which the word 'not' stands with the action exp
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नञश् चैष स्वभावः, यत् स्व-सम्बन्धिनो ऽभावं बोधयतीति।
+नञश् चैष स्वभावः,  
+यत् स्व-सम्बन्धिनो ऽभावं बोधयतीति।
 </details>
 
 <details><summary>English</summary>
@@ -3693,7 +3705,7 @@ For the peculiar function of the particle 'not' is to intimate the idea of the n
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभाव-बुद्धिश्चौदासीन्य-कारणम्।
+अभाव-बुद्धिश् चौदासीन्य-कारणम्।
 </details>
 
 <details><summary>English</summary>
@@ -3723,12 +3735,25 @@ and the conception of the non-existence (of something to be done) is the cause o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मात् प्रसक्त-क्रिया-निवृत्त्य्-औदासीन्यम् एव ‘ब्राह्मणो न हन्तव्यः’ इत्य्-आदिषु प्रतिषेध-अर्थं मन्यामहे, अन्यत्र प्रजापति-व्रतादिभ्यः।
+तस्मात् प्रसक्त-क्रिया-निवृत्त्य्-औदासीन्यम् एव  
+‘ब्राह्मणो न हन्तव्यः’ इत्य्-आदिषु प्रतिषेध-अर्थं मन्यामहे,  
+अन्यत्र +++(निषेध-युक्त-)+++प्रजापति-व्रतादिभ्यः।
 </details>
 
 <details><summary>English</summary>
 
 Hence we are of opinion that the aim of prohibitory passages, such as 'a Brāhmaṇa is not to be killed, 'is a merely passive state, consisting in the abstinence from some possible action; excepting some special cases, such as the so-called Prajāpati-vow, &c. [^fn_89]
+</details>
+
+<details><summary>English - Note</summary>
+
+The above discussion of the prohibitory passages of the Veda p. 40 is of a very scholastic nature, and various clauses in it are differently interpreted by the different commentators. Śaṅkara endeavours to fortify his doctrine, that not all parts of the Veda refer to action by an appeal to prohibitory passages which do not enjoin action but abstinence from action.  
+
+The legitimacy of this appeal might be contested on the ground that a prohibitory passage also, (as, for instance, 'a Brāhmaṇa is not to be killed,') can be explained as enjoining a positive action, viz. some action opposed in nature to the one forbidden, so that the quoted passage might be interpreted to mean 'a determination, &c. of not killing a Brāhmaṇa is to be formed;' just as we understand something positive by the expression 'a non-Brāhmaṇa,' viz. some man who is a kṣattriya or something else. 
+
+To this the answer is that, wherever we can, we must attribute to the word 'not' its primary sense which is the absolute negation of the word to which it is joined; so that passages where it is joined to words denoting action must be considered to have for their purport the entire absence of action. 
+
+Special cases only are excepted, as the one alluded to in the text where certain prohibited actions are enumerated under the heading of vows; for as a vow is considered as something positive, the non-doing of some particular action must there be understood as intimating the performance of some action of an opposite nature. The question as to the various meanings of the particle 'not' is discussed in all treatises on the Pūrvā Mīmāṃsā; see, for instance, Arthasamgraha, translation, p. 39 ff.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3737,7 +3762,23 @@ Hence we are of opinion that the aim of prohibitory passages, such as 'a Brāhma
 </details>
 
 
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात् पुरुषार्थानुपयोग्य्-उपाख्यानादि- -भूतार्थवाद-विषयम् आनर्थक्याभिधानं +++(पूर्वदर्शितं मीमांसोक्तं)+++ द्रष्टव्यम् ॥
+</details>
+
+<details><summary>English</summary>
+
+Hence the charge of want of purpose is to be considered as referring (not to the Vedānta-passages, but only) to such statements about existent things as are of the nature of legends and the like, and do not serve any purpose of man.
+</details>
+
+<details><summary>मूलम्</summary>
+
 तस्मात्पुरुषार्थानुपयोग्युपाख्यानादिभूतार्थवादविषयमानर्थक्याभिधानं द्रष्टव्यम् ॥
+</details>
+
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -3749,11 +3790,87 @@ Hence we are of opinion that the aim of prohibitory passages, such as 'a Brāhma
 आगैयाल् पिरयोजऩमऱ्ऱदॆऩ्ऱु सॊऩ्ऩदु, पुरुषार्त्तत्तिऱ्कु उबयोगमिल्लाद कदै मुदलिय इरुन्ददैच् चॊल्लुम् अर्त्तवादङ्गळै विषयमा युळ्ळदॆऩ्ऱु अऱिय वेण्डुम्।
 </details>
 
-यदप्युक्तम् — कर्तव्यविध्यनुप्रवेशमन्तरेण वस्तुमात्रमुच्यमानमनर्थकं स्यात् ‘सप्तद्वीपा वसुमती’ इत्यादिवदिति, तत्परिहृतम्। ‘रज्जुरियम् , नायं सर्पः’ इति वस्तुमात्रकथनेऽपि प्रयोजनस्य दृष्टत्वात्। ननु श्रुतब्रह्मणोऽपि यथापूर्वं संसारित्वदर्शनान्न रज्जुस्वरूपकथनवदर्थवत्त्वमित्युक्तम्। अत्रोच्यते — नावगतब्रह्मात्मभावस्य यथापूर्वं संसारित्वं शक्यं दर्शयितुम् , वेदप्रमाणजनितब्रह्मात्मभावविरोधात् ।
+## वस्तु-मात्रोक्तौ प्रयोजनम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अप्य् उक्तम् —  
+कर्तव्य-विध्य्-अनुप्रवेशम् अन्तरेण  
+वस्तु-मात्रम् उच्यमानम् अनर्थकं स्यात्  
+‘सप्त-द्वीपा वसुमती’ इत्य्-आदिवद् इति,  
+तत् परिहृतम् –
+</details>
+
+<details><summary>English</summary>
+
+The allegation that a mere statement about an actually existent thing not connected with an injunction of something to be done, is purposeless (as, for instance, the statement that the earth contains seven dvīpas) has already been refuted
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदप्युक्तम् — कर्तव्यविध्यनुप्रवेशमन्तरेण वस्तुमात्रमुच्यमानमनर्थकं स्यात् ‘सप्तद्वीपा वसुमती’ इत्यादिवदिति, तत्परिहृतम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘रज्जुर् इयम्, नायं सर्पः’  
+इति वस्तु-मात्र-कथने ऽपि प्रयोजनस्य दृष्टत्वात्।
+</details>
+
+<details><summary>English</summary>
+
+on the ground that a purpose is seen to exist in some such statements, as, for instance, 'this is not a snake, but a rope.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘रज्जुरियम् , नायं सर्पः’ इति वस्तुमात्रकथनेऽपि प्रयोजनस्य दृष्टत्वात्।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु श्रुत-ब्रह्मणो ऽपि  
+यथा-पूर्वम् संसारित्व-दर्शनात्  
+न रज्जु-स्वरूप-कथनवद् अर्थवत्त्वम् 
+
+इत्य् उक्तम्।
+</details>
+
+<details><summary>English</summary>
+
+But how about the objection raised above that the information about Brahman cannot be held to have a purpose in the same way as the statement about a rope has one, because a man even after having heard about Brahman continues to belong to this transmigratory world?
+</details>
+
+<details><summary>मूलम्</summary>
+
+ननु श्रुतब्रह्मणोऽपि यथापूर्वं संसारित्वदर्शनान्न रज्जुस्वरूपकथनवदर्थवत्त्वमित्युक्तम्।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 सॆय्यवेण्डियदैच् चॊल्लुम् विदियिल् नुऴैन्दु कॊळ्ळवदिल्लामल् “एऴु त्विबङ्गळुडैयदु पूमि" ऎऩ्बदु मुदलियदैप्पोल, वस्तुवै मात्तिरम् सॊल्वदु पिरयोजऩमऱ्ऱदु ऎऩ्ऱु ऎदु सॊल्लप् पट्टदो, अदुवुम् पदिल् सॊल्लप्पट्टुविट्टदु। “इदु कयिऱु, इदु पाम्बु इल्लै" ऎऩ्ऱु वस्तुवै मात्तिरम् सॊऩ्ऩाल् पिरयोजऩम् काणप्पडुवदाल्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्रोच्यते —  
+नावगत-ब्रह्मात्म-भावस्य  
+यथा-पूर्वं संसारित्वं शक्यं दर्शयितुम् ,  
+वेद-प्रमाण-जनित-ब्रह्मात्म-भाव-विरोधात् ।
+</details>
+
+<details><summary>English</summary>
+
+We reply as follows: It is impossible to show that a man who has once understood Brahman to be the Self, belongs to the transmigratory world in the same sense as he did before, because that would be contrary to the fact of his being Brahman.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत्रोच्यते — नावगतब्रह्मात्मभावस्य यथापूर्वं संसारित्वं शक्यं दर्शयितुम् , वेदप्रमाणजनितब्रह्मात्मभावविरोधात् ।
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -3761,7 +3878,69 @@ Hence we are of opinion that the aim of prohibitory passages, such as 'a Brāhma
 पिरह्मत्तैक् केट्टवऩुक्कुम् कूड मुऩ्बोल संसारित्तऩम् काणप्पडुवदाल्, कयिऱ्ऱिऩ् स्वरू पत्तै सॊल्वदु पोल पिरयोजऩमुळ्ळ तऩ्मै किडैयादु ऎऩ्ऱु सॊल्लप्पट्टदेयॆऩ्ऱाल्, अव्विष यत्तिल् सॊल्गिऱोम्; पिरह्ममे आत्मा ऎऩ्ऱु अऱिन्द वऩुक्कु मुऩ्बोल् संसारित्तऩम् इरुप्पदागक् काट्ट मुडियादु। वेदमागिऱ पिरमाणत्तिऩाल् एऱ्पट्टिरुक्किऱ पिरह्म आत्मत् तऩ्मैक्कु विरोदमाऩदाल्।
 </details>
 
-न हि शरीराद्यात्माभिमानिनो दुःखभयादिमत्त्वं दृष्टमिति, तस्यैव वेदप्रमाणजनितब्रह्मात्मावगमे तदभिमाननिवृत्तौ तदेव मिथ्याज्ञाननिमित्तं दुःखभयादिमत्त्वं भवतीति शक्यं कल्पयितुम्। न हि धनिनो गृहस्थस्य धनाभिमानिनो धनापहारनिमित्तं दुःखं दृष्टमिति, तस्यैव प्रव्रजितस्य धनाभिमानरहितस्य तदेव धनापहारनिमित्तं दुःखं भवति। न च कुण्डलिनः कुण्डलित्वाभिमाननिमित्तं सुखं दृष्टमिति तस्यैव कुण्डलवियुक्तस्य कुण्डलित्वाभिमानरहितस्य तदेव कुण्डलित्वाभिमाननिमित्तं सुखं भवति। तदुक्तं श्रुत्या — ‘अशरीरं वाव सन्तं न प्रियाप्रिये स्पृशतः’ (छा. उ. ८। १२। १) इति ।
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि शरीराद्य्-आत्माभिमानिनो दुःख-भयादिमत्त्वं दृष्टम् इति, तस्यैव वेद-प्रमाण-जनित-ब्रह्मात्मावगमे तद्-अभिमान-निवृत्तौ तद् एव मिथ्या-ज्ञान-निमित्तं दुःख-भयादि-मत्त्वं भवतीति शक्यं कल्पयितुम्।
+</details>
+
+<details><summary>English</summary>
+
+For we indeed observe that a person who imagines the body, and so on, to constitute the Self, is subject to fear and pain, but we have no right to assume that the same person after having, by means of the Veda, comprehended Brahman to be the Self, and thus having got over his former imaginings, will still in the same manner be subject to pain and fear whose cause is wrong knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि शरीराद्यात्माभिमानिनो दुःखभयादिमत्त्वं दृष्टमिति, तस्यैव वेदप्रमाणजनितब्रह्मात्मावगमे तदभिमाननिवृत्तौ तदेव मिथ्याज्ञाननिमित्तं दुःखभयादिमत्त्वं भवतीति शक्यं कल्पयितुम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[[न ही|न हि]] धनिनो गृहस्थस्य धनाभिमानिनो धनापहार-निमित्तं दुःखं दृष्टम् इति, तस्यैव प्रव्रजितस्य धनाभिमान-रहितस्य तद् एव धनापहार-निमित्तं दुःखं भवति।
+</details>
+
+<details><summary>English</summary>
+
+In the same way we see that a rich householder, puffed up by the conceit of his wealth, is grieved when his possessions are taken from him; but we do not see that the loss of his wealth equally grieves him after he has once retired from the world and put off the conceit of his riches.
+</details>
+
+<details><summary>मूलम्</summary>
+
+[[न ही|न हि]] धनिनो गृहस्थस्य धनाभिमानिनो धनापहारनिमित्तं दुःखं दृष्टमिति, तस्यैव प्रव्रजितस्य धनाभिमानरहितस्य तदेव धनापहारनिमित्तं दुःखं भवति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च कुण्डलिनः कुण्डलित्वाभिमान-निमित्तं सुखं दृष्टम् इति तस्यैव कुण्डल-वियुक्तस्य कुण्डलित्वाभिमान-रहितस्य तद् एव कुण्डलित्वाभिमान-निमित्तं सुखं भवति।
+</details>
+
+<details><summary>English</summary>
+
+And, again, we see that a person possessing a pair of beautiful earrings derives pleasure from the proud conceit of ownership; but after he has lost the earrings and the conceit established thereon, the pleasure derived from them vanishes.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च कुण्डलिनः कुण्डलित्वाभिमाननिमित्तं सुखं दृष्टमिति तस्यैव कुण्डलवियुक्तस्य कुण्डलित्वाभिमानरहितस्य तदेव कुण्डलित्वाभिमाननिमित्तं सुखं भवति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-उक्तं श्रुत्या — ‘अशरीरं वाव सन्तं न प्रियाप्रिये स्पृशतः’ (छा. उ. ८। १२। १) इति ।
+</details>
+
+<details><summary>English</summary>
+
+Thus Sruti also declares, 'When he is free from the body, then neither pleasure nor pain touches him' (Cḥ. Up. VIII, 12, 1).
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदुक्तं श्रुत्या — ‘अशरीरं वाव सन्तं न प्रियाप्रिये स्पृशतः’ (छा. उ. ८। १२। १) इति ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
