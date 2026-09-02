@@ -15,7 +15,7 @@ Yogic experience / Mystical experience cannot be a requirement for understanding
 
 It cannot be used as "proof", like - I can't explain or prove with words, you have to experience something to understand. Then one should ask - why did you even compose bhAShya-s - stick to yogic experience only then.
 
-If there are edges, we better say they are edges, and not you have to do tapas to understand this.
+If there are edges, we better say they are edges, and "not you have to do tapas to understand this".
 
 ## avdiyA reality
 If brahman is the only real, what is avidyA, which apparently is a co-eternal? 
@@ -158,6 +158,19 @@ Indeed a philosophy for the muddled.
 
 अहं-शब्दोत्पादक-शरीर– तद्-अभिमानि-जीव-- तद्-अन्तर्यामि-परमात्म-पर्यन्त--संघातो ह्य् अहम्-अर्थ इति तु रामानुजीयाः।  
 विस्तारोऽन्यत्र - [TW](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/vishvAsaH/prameyAH/jIvAnAM_sheShatvam) ।
+
+
+## साक्षिता
+> अहं-प्रत्यय-विषय-कर्तृ-व्यतिरेकेण  
+तत्-साक्षी सर्व-भूत-स्थः सम एकः  
+कूटस्थ-नित्यः पुरुषः
+
+इत्य् आह शङ्करः समन्वयाधिकरणे।  
+
+> अविद्या-कल्पितं वेद्य-वेदितृ-वेदनादि-भेदम्
+
+अपि स एवावदत् तत्र।  
+तर्हि वेदितृविरहं किम् इदं साक्षित्वम्?!!
 
 ## अपशूद्राधिकरणे समस्या 
 यथाह रामानुजः - 

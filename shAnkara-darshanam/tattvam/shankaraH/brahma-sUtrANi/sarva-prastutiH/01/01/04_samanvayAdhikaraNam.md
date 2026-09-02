@@ -3879,12 +3879,19 @@ We reply as follows: It is impossible to show that a man who has once understood
 </details>
 
 
-
+### जीवन्-मुक्तिः
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि शरीराद्य्-आत्माभिमानिनो दुःख-भयादिमत्त्वं दृष्टम् इति, तस्यैव वेद-प्रमाण-जनित-ब्रह्मात्मावगमे तद्-अभिमान-निवृत्तौ तद् एव मिथ्या-ज्ञान-निमित्तं दुःख-भयादि-मत्त्वं भवतीति शक्यं कल्पयितुम्।
+न हि 
+
+> "शरीराद्य्-आत्माभिमानिनो दुःख-भयादिमत्त्वं दृष्टम्" इति,  
+तस्यैव वेद-प्रमाण-जनित-ब्रह्मात्मावगमे  
+तद्-अभिमान-निवृत्तौ  
+तद् एव मिथ्या-ज्ञान-निमित्तं दुःख-भयादिमत्त्वं भवति
+
+इति शक्यं कल्पयितुम्।
 </details>
 
 <details><summary>English</summary>
@@ -3899,7 +3906,11 @@ For we indeed observe that a person who imagines the body, and so on, to constit
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[न ही|न हि]] धनिनो गृहस्थस्य धनाभिमानिनो धनापहार-निमित्तं दुःखं दृष्टम् इति, तस्यैव प्रव्रजितस्य धनाभिमान-रहितस्य तद् एव धनापहार-निमित्तं दुःखं भवति।
+न हि  
+"धनिनो गृहस्थस्य धनाभिमानिनो  
+धनापहार-निमित्तं दुःखं दृष्टम्" इति,  
+तस्यैव प्रव्रजितस्य धनाभिमान-रहितस्य  
+तद् एव धनापहार-निमित्तं दुःखं भवति।
 </details>
 
 <details><summary>English</summary>
@@ -3909,12 +3920,15 @@ In the same way we see that a rich householder, puffed up by the conceit of his 
 
 <details><summary>मूलम्</summary>
 
-[[न ही|न हि]] धनिनो गृहस्थस्य धनाभिमानिनो धनापहारनिमित्तं दुःखं दृष्टमिति, तस्यैव प्रव्रजितस्य धनाभिमानरहितस्य तदेव धनापहारनिमित्तं दुःखं भवति।
+न हि धनिनो गृहस्थस्य धनाभिमानिनो धनापहारनिमित्तं दुःखं दृष्टमिति, तस्यैव प्रव्रजितस्य धनाभिमानरहितस्य तदेव धनापहारनिमित्तं दुःखं भवति।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च कुण्डलिनः कुण्डलित्वाभिमान-निमित्तं सुखं दृष्टम् इति तस्यैव कुण्डल-वियुक्तस्य कुण्डलित्वाभिमान-रहितस्य तद् एव कुण्डलित्वाभिमान-निमित्तं सुखं भवति।
+न च  
+"कुण्डलिनः कुण्डलित्वाभिमान-निमित्तं सुखं दृष्टम्" इति  
+तस्यैव कुण्डल-वियुक्तस्य कुण्डलित्वाभिमान-रहितस्य  
+तद् एव कुण्डलित्वाभिमान-निमित्तं सुखं भवति। +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -3927,9 +3941,15 @@ And, again, we see that a person possessing a pair of beautiful earrings derives
 न च कुण्डलिनः कुण्डलित्वाभिमाननिमित्तं सुखं दृष्टमिति तस्यैव कुण्डलवियुक्तस्य कुण्डलित्वाभिमानरहितस्य तदेव कुण्डलित्वाभिमाननिमित्तं सुखं भवति।
 </details>
 
+#### अशरीरता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्-उक्तं श्रुत्या — ‘अशरीरं वाव सन्तं न प्रियाप्रिये स्पृशतः’ (छा. उ. ८। १२। १) इति ।
+तद्-उक्तं श्रुत्या — 
+
+> ‘अशरीरं वाव सन्तं  
+न प्रियाप्रिये स्पृशतः’ (छा. उ. ८। १२। १) 
+
+इति ।
 </details>
 
 <details><summary>English</summary>
@@ -3947,7 +3967,98 @@ Thus Sruti also declares, 'When he is free from the body, then neither pleasure 
 सरीरम् मुदलियदिल् आत्मावॆऩ्ऱ अबिमाऩ मुळ्ळवऩुक्कु तुक्कम् पयम् मुदलियदुडऩिरुक्कुम् तऩ्मै काण्गिऱदु ऎऩ्बदिऩाल् अवऩुक्के वेदबिरमा णत्तिऩाल् एऱ्पट्ट पिरह्ममे आत्मा ऎऩ्ऱ अऱिवु एऱ्पट्टु अन्द अबिमाऩम् निविरुत्तियागियिरुक्कैयिल्, पॊय्याऩ अक्ञाऩत्तै निमित्तमायुळ्ळ अदे तुक्कम् पयम् मुदलियदुडऩिरुत्तल् इरुक्कुमॆऩ्ऱु कल्बिक्क मुडियादु। पणत्तिल् अबिमाऩमुळळ पणक्कारऩाऩ किरुहस्तऩुक्कुप् पणम् पोय्विडुवदु कारणमाय् तुक्कम् काण्गिऱदु ऎऩ्बदऱ्काग, सन्यासियाय् पणत्तिल् अबिमाऩम् अऱ्ऱवऩाय् इरुक्कुम् अवऩुक्के पणम् पोवदैक् कारणमायुळ्ळ अदे तुक्कम् इरुक्कादु अल्लवा? कुण्डलम् पोट्टुक् कॊण्डिरुक्किऱवऩुक्कु कुण्डलत्तै उडैयवऩ् ऎऩ्ऱ अबिमाऩत्तै निमित्तमायुळ्ळ सुगम् काण्गिऱदु ऎऩ्बदऱ्काग, कुण्डलत्तै ऎडुत्तुविट्टु कुण्डलमुडैयवऩ् ऎऩ्ऱ अबिमाऩमिल्लाद अवऩुक्के कुण्डलमुडैयवऩ् ऎऩ्ऱ अबिमाऩत्तै निमित्तमायुळ्ळ सुगमुम् किडैयादु। इदु वेदत्तिऩालुम् सॊल्लप्पट्टिरुक्किऱदु, "सरीरम् इल्लादवऩैयो पिरियमुम् अप्पिरियमुम् तॊडरादु” (सान्। ८-१२-१) ऎऩ्ऱु।
 </details>
 
-शरीरे पतितेऽशरीरत्वं स्यात् , न जीवत इति चेत् , न; सशरीरत्वस्य मिथ्याज्ञाननिमित्तत्वात्। न ह्यात्मनः शरीरात्माभिमानलक्षणं मिथ्याज्ञानं मुक्त्वा अन्यतः सशरीरत्वं शक्यं कल्पयितुम्। नित्यमशरीरत्वमकर्मनिमित्तत्वादित्यवोचाम। तत्कृतधर्माधर्मनिमित्तं सशरीरत्वमिति चेत् , न। शरीरसम्बन्धस्यासिद्धत्वात् धर्माधर्मयोरात्मकृतत्वासिद्धेः, शरीरसम्बन्धस्य धर्माधर्मयोस्तत्कृतत्वस्य चेतरेतराश्रयत्वप्रसङ्गात्। अन्धपरम्परैषा अनादित्वकल्पना ।
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> शरीरे पतिते ऽशरीरत्वं स्यात् ,  
+न जीवत 
+
+इति चेत् , न;  
+सशरीरत्वस्य मिथ्या-ज्ञान-निमित्तत्वात्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+If it should be objected that the condition of being free from the body follows on death only, we demur, since the cause of man being joined to the body is wrong knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+शरीरे पतितेऽशरीरत्वं स्यात् , न जीवत इति चेत् , न; सशरीरत्वस्य मिथ्याज्ञाननिमित्तत्वात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् आत्मनः शरीरात्माभिमान-लक्षणं मिथ्या-ज्ञानं मुक्त्वा  
+अन्यतः स-शरीरत्वं शक्यं कल्पयितुम्।
+</details>
+
+<details><summary>English</summary>
+
+For it is not possible to establish the state of embodiedness upon anything else but wrong knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न ह्यात्मनः शरीरात्माभिमानलक्षणं मिथ्याज्ञानं मुक्त्वा अन्यतः सशरीरत्वं शक्यं कल्पयितुम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्यम् अशरीरत्वम् अकर्म-निमित्तत्वाद्  
+इत्य् अवोचाम।
+</details>
+
+<details><summary>English</summary>
+
+And that the state of disembodiedness is eternal on account of its not having actions for its cause, we have already explained.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नित्यमशरीरत्वमकर्मनिमित्तत्वादित्यवोचाम।
+</details>
+
+
+
+#### धर्माधर्मासम्बन्धः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तत्-कृत-धर्माधर्म-निमित्तं स-शरीरत्वम्  
+
+इति चेत् , न —
+</details>
+
+<details><summary>English</summary>
+
+The objection again, that embodiedness is caused by the merit and demerit effected by the Self (and therefore real), we refute by remarking that
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्कृतधर्माधर्मनिमित्तं सशरीरत्वमिति चेत् , न।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरीर-सम्बन्धस्यासिद्धत्वात्  
+धर्माधर्मयोर् आत्म-कृतत्वासिद्धेः,  
+शरीर-सम्बन्धस्य, धर्माधर्मयोः तत्-कृतत्वस्य च  
+इतरेतराश्रयत्व-प्रसङ्गात्।  
+अन्ध-परम्परैषा अनादित्व-कल्पना ।
+</details>
+
+<details><summary>English</summary>
+
+as the (reality of the) conjunction of the Self with the body is itself not established, the circumstance of merit and demerit being due to the action of the Self is likewise not established; for (if we should try to get over this difficulty by representing the Self's embodiedness as caused by merit and demerit) we should commit the logical fault of making embodiedness dependent on merit and demerit, and again merit and demerit on embodiedness. And the assumption of an endless retrogressive chain (of embodied states and merit and demerit) would be no better than a chain of blind men (who are unable to lead one another).
+</details>
+
+<details><summary>मूलम्</summary>
+
+शरीरसम्बन्धस्यासिद्धत्वात् धर्माधर्मयोरात्मकृतत्वासिद्धेः, शरीरसम्बन्धस्य धर्माधर्मयोस्तत्कृतत्वस्य चेतरेतराश्रयत्वप्रसङ्गात्। अन्धपरम्परैषा अनादित्वकल्पना ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -3959,35 +4070,491 @@ Thus Sruti also declares, 'When he is free from the body, then neither pleasure 
 अदऩाल् (आत्माविऩाल्) सॆय्यप्पट्ट तर्मम् अदर्मम् इवैगळै कारणमायुळ्ळदु सरीरमुडैय तऩ्मै' ऎऩ्ऱाल् सरियल्ल, सरीरत्तुडऩ् सम्बन्दम् सित्तिक्काददिऩाल् तर्ममुम् अदर्ममुम् आत्माविऩाल् सॆय्यप्पट्टदॆऩ्बदु सित्तिक्काददिऩाल्। सरीर सम्बन्दत् तिऱ्कुम् तर्मादर्मङ्गळ् आत्माविऩाल् सॆय्यप्पडुगिऱ तॆऩ्बदऱ्कुम् ऒऩ्ऱुक्कॊऩ्ऱु आसिरयित्तुक्कॊण्डि रुक्कुम् तऩ्मै एऱ्पडुमाऩदिऩाल्, इदु आदियऱ्ऱ तॆऩ्ऱु कल्बिप्पदु कुरुट्टु परम्बरैये।
 </details>
 
-क्रियासमवायाभावाच्चात्मनः कर्तृत्वानुपपत्तेः। सन्निधानमात्रेण राजप्रभृतीनां दृष्टं कर्तृत्वमिति चेत् , न। धनदानाद्युपार्जितभृत्यसम्बन्धित्वात्तेषां कर्तृत्वोपपत्तेः। न त्वात्मनो धनदानादिवच्छरीरादिभिः स्वस्वामिभावसम्बन्धनिमित्तं किञ्चिच्छक्यं कल्पयितुम्। मिथ्याभिमानस्तु प्रत्यक्षः सम्बन्धहेतुः। एतेन यजमानत्वमात्मनो व्याख्यातम् ।
+
+
+#### निष्क्रियता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्रिया-समवायाभावाच् च  
+आत्मनः कर्तृत्वानुपपत्तेः +++(नात्म-कृत-धर्माधर्म-निमित्तं स-शरीरत्वम्)+++।
+</details>
+
+<details><summary>English</summary>
+
+Moreover, the Self can impossibly become an agent, as it cannot enter into intimate relation to actions.
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्रियासमवायाभावाच्चात्मनः कर्तृत्वानुपपत्तेः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सन्निधान-मात्रेण राज-प्रभृतीनां दृष्टं कर्तृत्वम् 
+
+इति चेत् , न।
+</details>
+
+<details><summary>English</summary>
+
+If it should be said that the Self may be considered as an agent in the same way as kings and other great people are (who without acting themselves make others act) by their mere presence, we deny the appositeness of this instance;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सन्निधानमात्रेण राजप्रभृतीनां दृष्टं कर्तृत्वमिति चेत् , न।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धन-दानाद्य्-उपार्जित- -भृत्य-सम्बन्धित्वात्  
+तेषां कर्तृत्वोपपत्तेः।
+</details>
+
+<details><summary>English</summary>
+
+for kings may become agents through their relation to servants whom they procure by giving them wages, &c.,
+</details>
+
+<details><summary>मूलम्</summary>
+
+धनदानाद्युपार्जितभृत्यसम्बन्धित्वात्तेषां कर्तृत्वोपपत्तेः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न त्व् आत्मनो धन-दानादिवच्  
+शरीरादिभिः स्व-स्वामि-भाव-सम्बन्ध-निमित्तं किञ्चिच् छक्यं कल्पयितुम्।
+</details>
+
+<details><summary>English</summary>
+
+while it is impossible to imagine anything, analogous to money, which could be the cause of a connexion between the Self as lord and the body, and so on (as servants).
+</details>
+
+<details><summary>मूलम्</summary>
+
+न त्वात्मनो धनदानादिवच्छरीरादिभिः स्वस्वामिभावसम्बन्धनिमित्तं किञ्चिच्छक्यं कल्पयितुम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मिथ्याभिमानस् तु प्रत्यक्षः सम्बन्ध-हेतुः।
+</details>
+
+<details><summary>English</summary>
+
+Wrong imagination, on the other hand, (of the individual Self, considering itself to be joined to the body,) is a manifest reason of the connexion of the two (which is not based on any assumption).
+</details>
+
+<details><summary>मूलम्</summary>
+
+मिथ्याभिमानस्तु प्रत्यक्षः सम्बन्धहेतुः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतेन यजमानत्वम् आत्मनो व्याख्यातम् ।
+</details>
+
+<details><summary>English</summary>
+
+This explains also in how far the Self can be considered as the agent in sacrifices and similar acts [^fn_90].
+</details>
+
+<details><summary>English - Note</summary>
+
+The Self is the agent in a sacrifice, &c. only in so far as it imagines itself to be joined to a body; which imagination is finally removed by the cognition of Brahman.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतेन यजमानत्वमात्मनो व्याख्यातम् ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 किरियैयुडऩ् ऒट्टिऩ सम्बन्दमिल्लाददिऩालुम् आत्माविऱ्कु सॆय्गिऱवऩ् ऎऩ्ऱ तऩ्मै पॊरुत्तमागाद तिऩालुम्। ‘अरसऩ् मुदलाऩवर्गळुक्कु मुऩ् इरुप्पदिऩा लेये कर्त्तावॆऩ्ऱ तऩ्मै काण्गिऱदे’ ऎऩ्ऱाल् सरियल्ल, पणम् कॊडुप्पदु मुदलियदिऩाल् सम्बादिक् कप्पट्ट वेलैक्कारऩुडऩ् सम्बन्दित्तिरुक्कुम् तऩ्मै युळ्ळदाल् अवर्गळुक्कु कर्त्तावॆऩ्ऱ तऩ्मै पॊरुन् दक्कूडियदुदाऩ् आत्मा विऱ्को, पणम् कॊडुप्पदु मुदलियदैप् पोल्, सरीरम् मुदलाऩदुडऩ् तऩ्ऩुडैयदु अदैयुडैयवऩ् ऎऩ्ऱ सम्बन्दत्तिऱ्कु निमित्तमाग ऎदैयुम् कल्बिक्क मुडियादु। सम्बन्दत्तिऱ्कु कारणमो वास्तवमिल्लाद अबिमाऩम्दाऩ् ऎऩ्बदु पिरत्यक्षमाय् तॆरिगिऱदु। इदऩाल् आत्माविऩ् यागम् सॆय्गिऱवऩा यिरुक्कुम् तऩ्मैयुम् विळक्कप्पट्टुविट्टदु।
 </details>
 
-अत्राहुः — देहादिव्यतिरिक्तस्यात्मनः आत्मीये देहादावभिमानो गौणः, न मिथ्येति चेत् , न। प्रसिद्धवस्तुभेदस्य गौणत्वमुख्यत्वप्रसिद्धेः। यस्य हि प्रसिद्धो वस्तुभेदः — यथा केसरादिमानाकृतिविशेषोऽन्वयव्यतिरेकाभ्यां सिंहशब्दप्रत्ययभाङ्मुख्योऽन्यः प्रसिद्धः, ततश्चान्यः पुरुषः प्रायिकैः क्रौर्यशौर्यादिभिः सिंहगुणैः सम्पन्नः सिद्धः, तस्य पुरुषे सिंहशब्दप्रत्ययौ गौणौ भवतः। नाप्रसिद्धवस्तुभेदस्य। तस्य त्वन्यत्रान्यशब्दप्रत्ययौ भ्रान्तिनिमित्तावेव भवतः, न गौणौ ।
+#### देहाभिमानो न गौणः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्राहुः —  
+
+> देहादि-व्यतिरिक्तस्यात्मनः  
+आत्मीये देहादाव् अभिमानो गौणः,  
+न मिथ्या
+
+इति चेत् , न –
+</details>
+
+<details><summary>English</summary>
+
+Here it is objected that the Self's imagination as to the body, and so on, belonging to itself is not false, but is to be understood in a derived (figurative) sense. This objection we invalidate by the remark that
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत्राहुः — देहादिव्यतिरिक्तस्यात्मनः आत्मीये देहादावभिमानो गौणः, न मिथ्येति चेत् , न।
+</details>
+
+***
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रसिद्ध-+++(देहाभिमानादि-)+++वस्तु-भेदस्य गौणत्व-मुख्यत्व-प्रसिद्धेः।
+</details>
+
+<details><summary>English</summary>
+
+the distinction of derived and primary senses of words is known to be applicable only where an actual difference of things is known to exist.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रसिद्धवस्तुभेदस्य गौणत्वमुख्यत्वप्रसिद्धेः।
+</details>
+
+***
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यस्य हि प्रसिद्धो-वस्तु-भेदः —  
+यथा केसरादिमान् आकृति-विशेषो ऽन्वय-व्यतिरेकाभ्यां सिंह-शब्द-प्रत्यय-भाङ् मुख्यो ऽन्यः प्रसिद्धः,  
+ततश् चान्यः पुरुषः प्रायिकैः क्रौर्य-शौर्यादिभिः सिंह-गुणैः सम्पन्नः सिद्धः,  
+तस्य पुरुषे सिंह-शब्द-प्रत्ययौ गौणौ भवतः।
+</details>
+
+<details><summary>English</summary>
+
+We are, for instance, acquainted with a certain species of animals having a mane, and so on, which is the exclusive primary object of the idea and word 'lion,' and we are likewise acquainted with persons possessing in an eminent degree certain leonine qualities, such as fierceness, courage, &c.; here, a well settled difference of objects existing, the idea and the name 'lion' are applied to those persons in a derived or figurative sense.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यस्य हि प्रसिद्धोवस्तुभेदः — यथा केसरादिमानाकृतिविशेषोऽन्वयव्यतिरेकाभ्यां सिंहशब्दप्रत्ययभाङ्मुख्योऽन्यः प्रसिद्धः, ततश्चान्यः पुरुषः प्रायिकैः क्रौर्यशौर्यादिभिः सिंहगुणैः सम्पन्नः सिद्धः, तस्य पुरुषे सिंहशब्दप्रत्ययौ गौणौ भवतः।
+</details>
+
+***
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाप्रसिद्ध-वस्तु-भेदस्य।
+</details>
+
+<details><summary>English</summary>
+
+In those cases, however, where the difference of the objects is not well established, the transfer of the conception and name of the one to the other is not figurative,
+</details>
+
+<details><summary>मूलम्</summary>
+
+नाप्रसिद्धवस्तुभेदस्य।
+</details>
+
+***
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्य त्व् अन्यत्रान्य-शब्द-प्रत्ययौ भ्रान्ति-निमित्तावेव भवतः, न गौणौ ।
+</details>
+
+<details><summary>English</summary>
+
+but simply founded on error.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्य त्वन्यत्रान्यशब्दप्रत्ययौ भ्रान्तिनिमित्तावेव भवतः, न गौणौ ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 इङ्गु, तेहम् मुदलियवऱ्ऱिऱ्कु वेऱायुळ्ळ आत्माविऱ्कु आत्मावैच् चेर्न्द तेहम् मुदलियदिल् उळ्ळ अबिमाऩम् “कौणम्,” ताऩ्, “मित्यै” इल्लै ऎऩ्गिऱार्गळेयॆऩ्ऱाल्, वस्तुक्कळिऩ् पेदम् ऎवऩुक्कु पिरसित्तमायिरुक्किऱदो अवऩुक्कुत्ताऩ् कौणम् मुक्कियम् ऎऩ्ऱ ञाऩम् ऎऩ्ऱ पिरसित्तियिरुप्पदाल्। पिडऱिमुदलियदुडऩ् कूडियदायुळ्ळ ऒरु कुऱिप्पिट्ट उरुवमुळ्ळदाय् अऩ्वयवियदिरेगङ्गळाल् सिम्हम् ऎऩ्ऱ वार्त्तैक्कुम् पावऩैक्कुम् विषयमाऩदाय्, पिरसित्तमायिरुप्पदु ऒऩ्ऱु (सिम्हम् ऎऩ्ऱ मिरुगम्) मुक्कियमाऩदु। अदिलिरुन्दु वेऱाग, सिम्हत्तिऩ् कुणङ्गळागिऱ वॆगुवायुळ्ळ क्रूरत्तऩम् सूरत्तऩम् मुदलियवैगळुडऩ् सेर्न्दवऩाग ऒरु पुरुषऩ् इरुक्किऱाऩ्। सिम्मत्तैयुम्, पुरुषऩैयुम् वेऱाग अऱिन्दवऩुक्कु अन्द पुरुषऩिडत्तिल् सिम्हम् ऎऩ्ऱ वार्त्तैयुम् पावऩैयुम् कौणमाग आगुम्; वस्तुक् कळुक्कुळ् इरुक्कुम् पेदम् पिरसित्त मिल्लैयाऩाल् आगादु। अवऩुक्को (पेदम् पिरसित्तमिल्लाद वऩुक्को) ऒऩ्ऱिल् मऱ्ऱॊऩ्ऱिऩ् वार्त्तैयुम् पावऩैयुम् पिरान्दियैक् कारणमागवुळ्ळवैगळे, कौणम् आगादु।
 </details>
 
-यथा मन्दान्धकारे स्थाणुरयमित्यगृह्यमाणविशेषे पुरुषशब्दप्रत्ययौ स्थाणुविषयौ, यथा वा शुक्तिकायामकस्माद्रजतमिदमिति निश्चितौ शब्दप्रत्ययौ, तद्वद्देहादिसङ्घाते अहम् इति निरुपचारेण शब्दप्रत्ययावात्मानात्माविवेकेनोत्पद्यमानौ कथं गौणौ शक्यौ वदितुम्। आत्मानात्मविवेकिनामपि पण्डितानामजाविपालानामिवाविविक्तौ शब्दप्रत्ययौ भवतः। तस्माद्देहादिव्यतिरिक्तात्मास्तित्ववादिनां देहादावहंप्रत्ययो मिथ्यैव, न गौणः ।
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा मन्दान्धकारे "स्थाणुर् अयम्" इत्य् अगृह्यमाण-विशेषे पुरुष-शब्द-प्रत्ययौ स्थाणु-विषयौ,  
+यथा वा शुक्तिकायाम् अकस्माद् "रजतम् इदम्" इति निश्चितौ शब्द-प्रत्ययौ,  
+तद्वद् देहादि-सङ्घातय् "अहम्" इति निरुपचारेण शब्द-प्रत्ययाव्  
+आत्मानात्माविवेकेनोत्पद्यमानौ  
+कथं गौणौ शक्यौ वदितुम्।
+</details>
+
+<details><summary>English</summary>
+
+Such is, for instance, the case of a man who at the time of twilight does not discern that the object before him is a post, and applies to it the conception and designation of a man; such is likewise the case of the conception and designation of silver being applied to a shell of mother-of-pearl somehow mistaken for silver. How then can it be maintained that the application of the word and the conception of the Ego to the body, &c., which application is due to the non-discrimination of the Self and the Not-Self, is figurative (rather than simply false)?
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथा मन्दान्धकारे स्थाणुरयमित्यगृह्यमाणविशेषे पुरुषशब्दप्रत्ययौ स्थाणुविषयौ, यथा वा शुक्तिकायामकस्माद्रजतमिदमिति निश्चितौ शब्दप्रत्ययौ, तद्वद्देहादिसङ्घाते अहम् इति निरुपचारेण शब्दप्रत्ययावात्मानात्माविवेकेनोत्पद्यमानौ कथं गौणौ शक्यौ वदितुम्।
+</details>
+
+***
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्मानात्मा-विवेकिनाम् अपि पण्डितानाम्  
+अजावि-पालानाम् इव  
+अविविक्तौ शब्द-प्रत्ययौ भवतः।
+</details>
+
+<details><summary>English</summary>
+
+considering that even learned men who know the difference of the Self and the Not-Self confound the words and ideas just as common shepherds and goatherds do.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मानात्मविवेकिनामपि पण्डितानामजाविपालानामिवाविविक्तौ शब्दप्रत्ययौ भवतः।
+</details>
+
+***
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माद् देहादि-व्यतिरिक्तात्मास्तित्व-वादिनां  
+देहादाव् अहं-प्रत्ययो मिथ्यैव, न गौणः ।
+</details>
+
+<details><summary>English</summary>
+
+As therefore the application of the conception of the Ego to the body on the part of those who affirm the existence of a Self different from the body is simply false, not figurative,
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्माद्देहादिव्यतिरिक्तात्मास्तित्ववादिनां देहादावहंप्रत्ययो मिथ्यैव, न गौणः ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 मन्दमाऩ इरुट्टिल्, “इदु कट्टै” ऎऩ्ऱु कुऱिप्पिट्टुत् तॆरियामल् इरुप्पदिल् “मऩिदऩ्” ऎऩ्ऱ वार्त्तैयुम् पावऩैयुम् कट्टैयै विषयमायुळ् ळवैयो, अल्लदु किळिञ्जलिल् कारणमऩ्ऩियिल् वॆळ्ळियॆऩ्ऱु तीर्माऩिक्कप्पट्टुळ्ळ वार्त्तैयुम् पावऩैयुम् ऎप्पडियो, अदैप्पोल तेहम् मुदलियदु सेर्न्दुळ्ळ कूट्टत्तिल् 'नाऩ्' ऎऩ्ऱु उबसारमऩ्ऩियिल् एऱ्पडुम् वार्त्तैयुम् पावऩैयुम्, आत्मावैयुम् आत्मावल्लाददैयुम् पिरित्तऱिया तदिऩाल् एऱ्पडुबवैगळ्। कौणम् ऎऩ्ऱु ऎप्पडि सॊल्ल मुडियुम्? आत्मावैयुम्, आत्मावल्ला तदैयुम् पिरित्तऱिन्दिरुक्किऱ अऱिवाळिगळुक्कुक्कूड, वॆळ्ळाडु, सॆम्मऱियाडु मेय्क्किऱवर्गळ् पोलवे, पिरिक्कप्पडा मले वार्त्तैयुम् पावऩैयुम् इरुन्दुवरुगिऩ्ऱऩ। आगैयाल्, तेहम् मुदलियदऱ्कु वेऱाग आत्मा उण्डॆऩ्ऱु सॊल्गिऱवर्गळुक्कु, तेहम् मुदलियदिलुळ्ळ 'नाऩ्' ऎऩ्ऱ ऎण्णम् मित्यैदाऩ्; कौणमल्ल।
 </details>
 
-तस्मान्मिथ्याप्रत्ययनिमित्तत्वात्सशरीरत्वस्य, सिद्धं जीवतोऽपि विदुषोऽशरीरत्वम्। तथा च ब्रह्मविद्विषया श्रुतिः — ‘तद्यथाहिनिर्ल्वयनी वल्मीके मृता प्रत्यस्ता शयीतैवमेवेदं शरीरं शेते अथायमशरीरोऽमृतः प्राणो ब्रह्मैव तेज एव’ (बृ. उ. ४। ४। ७) इति; ‘सचक्षुरचक्षुरिव सकर्णोऽकर्ण इव सवागवागिव समना अमना इव सप्राणोऽप्राण इव’ इति च। स्मृतिरपि — ‘स्थितप्रज्ञस्य का भाषा’ (भ. गी. २। ५४) इत्याद्या स्थितप्रज्ञस्य लक्षणान्याचक्षाणा विदुषः सर्वप्रवृत्त्यसम्बन्धं दर्शयति। तस्मान्नावगतब्रह्मात्मभावस्य यथापूर्वं संसारित्वम्। यस्य तु यथापूर्वं संसारित्वं नासाववगतब्रह्मात्मभाव इत्यनवद्यम् ॥
+
+##### निगमनम्
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मान् मिथ्या-प्रत्यय-निमित्तत्वात् सशरीरत्वस्य,  
+सिद्धं जीवतो ऽपि विदुषो ऽशरीरत्वम्।
+</details>
+
+<details><summary>English</summary>
+
+it follows that the embodiedness of the Self is (not real but) caused by wrong conception, and hence that the person who has reached true knowledge is free from his body even while still alive.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मान्मिथ्याप्रत्ययनिमित्तत्वात्सशरीरत्वस्य, सिद्धं जीवतोऽपि विदुषोऽशरीरत्वम्।
+</details>
+
+***
+
+#### श्रुति-स्मृती
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च ब्रह्म-विद्-विषया श्रुतिः — 
+
+> ‘तद् यथा अहि-निर्ल्वयनी+++(=क्षिप्त-चर्म)+++ वल्मीके मृता प्रत्यस्ता शयीत  
+एवम् एवेदं शरीरं शेते  
+अथायम् अशरीरो ऽमृतः प्राणो ब्रह्मैव, तेज एव’ (बृ. उ. ४। ४। ७) 
+
+इति; 
+
+> ‘सचक्षुर् अचक्षुर् इव  
+सकर्णो ऽकर्ण इव  
+सवाग् अवाग् इव  
+समना अमना इव  
+सप्राणो ऽप्राण इव’ 
+
+इति च।
+</details>
+
+<details><summary>English</summary>
+
+The same is declared in the Śruti passages concerning him who knows Brahman: 'And as the slough of a snake lies on an ant-hill, dead and cast away, thus lies this body; but that disembodied immortal spirit is Brahman only, is only light' (Br̥. Up. IV, 4, 7); and 'With eyes he is without eyes as it were, with ears without ears as it were, with speech without speech as it were, with a mind without mind as it were, with vital airs without vital airs as it were.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा च ब्रह्मविद्विषया श्रुतिः — ‘तद्यथाहिनिर्ल्वयनी वल्मीके मृता प्रत्यस्ता शयीतैवमेवेदं शरीरं शेते अथायमशरीरोऽमृतः प्राणो ब्रह्मैव तेज एव’ (बृ. उ. ४। ४। ७) इति; ‘सचक्षुरचक्षुरिव सकर्णोऽकर्ण इव सवागवागिव समना अमना इव सप्राणोऽप्राण इव’ इति च।
+</details>
+
+***
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्मृतिर् अपि — 
+
+> ‘स्थित-प्रज्ञस्य का भाषा’ (भ. गी. २। ५४) 
+
+इत्य्-आद्या स्थित-प्रज्ञस्य लक्षणान्य् आचक्षाणा  
+विदुषः सर्व-प्रवृत्त्य्-असम्बन्धं दर्शयति।
+</details>
+
+<details><summary>English</summary>
+
+Smr̥ti also, in the passage where the characteristic marks are enumerated of one whose mind is steady (Bha. Gītā II, 54), declares that he who knows is no longer connected with action of any kind.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्मृतिरपि — ‘स्थितप्रज्ञस्य का भाषा’ (भ. गी. २। ५४) इत्याद्या स्थितप्रज्ञस्य लक्षणान्याचक्षाणा विदुषः सर्वप्रवृत्त्यसम्बन्धं दर्शयति।
+</details>
+
+***
+
+### निगमनम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मान् नावगत-ब्रह्मात्म-भावस्य  
+यथा-पूर्वम् संसारित्वम्।
+</details>
+
+<details><summary>English</summary>
+
+Therefore the man who has once comprehended Brahman to be the Self, does not belong to this transmigratory world as he did before.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मान्नावगतब्रह्मात्मभावस्य यथापूर्वं संसारित्वम्।
+</details>
+
+***
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यस्य तु यथा-पूर्वं संसारित्वं  
+नासाव् अवगत-ब्रह्मात्म-भाव इत्य् अनवद्यम् ॥
+</details>
+
+<details><summary>English</summary>
+
+He, on the other hand, who still belongs to this transmigratory world as before, has not comprehended Brahman to be the Self. Thus there remain no unsolved contradictions.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यस्य तु यथापूर्वं संसारित्वं नासाववगतब्रह्मात्मभाव इत्यनवद्यम् ॥
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 आगैयाल् सरीरत्तुडऩ् कूडियिरुक्कुम् तऩ्मै वास्तवमिल्लाद ऎण्णत्तै निमित्तमायुळ्ळदाल्, जीवित्तुक्कॊण्डिरुक्किऱ वित्तुवाऩुक्कुम् सरीरमऱ्ऱ तऩ्मै उण्डु ऎऩ्ऱु सित्तम् अप्पडिये पिरह्मत्तै अऱिन्दवऩ् विषयमाऩ सुरुदि: “ऎप्पडि पाम्बिऩ् सट्टै कऴऩ्ऱुबोय् तळ्ळप्पट्टदाय् पुऱ्ऱिल् किडक्कुमो, अप्पडियेदाऩ् इन्द सरीरम् किडक्कुम्। पिऱगु इवर् सरीरमऱ् ऱवराग, मरणमऱ्ऱवराग, पिराणऩाग, पिरह्ममागवे, तेजस्सागवे” (पिरुहत्। IV-४-७) ऎऩ्ऱुम्। “कण्णु टैयवऩायिरुन्दुम् कण्णिल्लादवऩैप्पोल कादुळ्ळ वऩायिरुन्दुम् कादिल्लाद वऩैप्पोल वाक्कु उळ्ळ वऩायिरुन्दुम् वाक्कु इल्लादवऩ् पोल, मऩस्उळ्ळ वऩायिरुन्दुम् मऩस् इल्लादवऩ् पोल पिराणऩ् उळ्ळवऩायिरुन्दुम् पिराणऩ् इल्लादवऩ् पोल।" ऎऩ्ऱुम् “स्मिरुदियुम् कूड” स्तिदबिरक्ञऩै (आत्म ञाऩम् उऱुदियाय् निलैत्तुळ्ळवऩै) पऱ्ऱि ऎऩ्ऩ पेच्चु?" ऎऩ्बदु मुदलिय स्तिदबिरक्ञऩुडैय लक्षणङ्गळैच् चॊल्वदु वित्वाऩुक्कु ऎल्ला पिरविरुत्तिगळिलुम् सम्बन्दमिल्लाददैक् काट्टुगिऱदु। आगैयाल् पिरह्म-आत्मत्तऩ्मैयै अऱिन्दवऩुक्कु मुऩ्बोल संसारित्तऩम् किडैयादु। ऎवऩुक्कु मुऩ्बोल संसारित्तऩम् इरुक्किऱदो, अवऩ् पिरह्म-आत्मत् तऩ्मैयै अऱिन्दवऩल्ल ऎऩ्बदे तोषमऱ्ऱदु।
 </details>
 
-यत्पुनरुक्तं श्रवणात्पराचीनयोर्मनननिदिध्यासनयोर्दर्शनाद्विधिशेषत्वं ब्रह्मणः, न स्वरूपपर्यवसायित्वमिति, तन्न। श्रवणवदवगत्यर्थत्वान्मनननिदिध्यासनयोः। यदि ह्यवगतं ब्रह्मान्यत्र विनियुज्येत, भवेत्तदा विधिशेषत्वम्। न तु तदस्ति, मनननिदिध्यासनयोरपि श्रवणवदवगत्यर्थत्वात्। तस्मान्न प्रतिपत्तिविधिविषयतया शास्त्रप्रमाणकत्वं ब्रह्मणः सम्भवतीत्यतः स्वतन्त्रमेव ब्रह्म शास्त्रप्रमाणकं वेदान्तवाक्यसमन्वयादिति सिद्धम् ।
+## श्रवण-मनन-निदिध्यासनान्य् अवगत्यै
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् पुनर् उक्तं  
+
+> श्रवणात् पराचीनयोर् मनन-निदिध्यासनयोर् दर्शनाद् विधि-शेषत्वं ब्रह्मणः,  
+न स्वरूप-पर्यवसायित्वम् 
+
+इति, तन् न –
+</details>
+
+<details><summary>English</summary>
+
+With reference again to the assertion that Brahman is not fully determined in its own nature, but stands in a complementary relation to injunctions, because the hearing about Brahman is to be followed by consideration and reflection, we remark that
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्पुनरुक्तं श्रवणात्पराचीनयोर्मनननिदिध्यासनयोर्दर्शनाद्विधिशेषत्वं ब्रह्मणः, न स्वरूपपर्यवसायित्वमिति, तन्न।
+</details>
+
+***
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रवणवद् अवगत्य्-अर्थत्वान् मनन-निदिध्यासनयोः।
+</details>
+
+<details><summary>English</summary>
+
+consideration and reflection are themselves merely subservient to the comprehension of Brahman.
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रवणवदवगत्यर्थत्वान्मनननिदिध्यासनयोः।
+</details>
+
+***
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि ह्य् अवगतं ब्रह्मान्यत्र विनियुज्येत,  
+भवेत् तदा विधि-शेषत्वम्।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+If Brahman, after having been comprehended, stood in a subordinate relation to some injunctions, it might be said to be merely supplementary.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि ह्यवगतं ब्रह्मान्यत्र विनियुज्येत, भवेत्तदा विधिशेषत्वम्।
+</details>
+
+***
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न तु तद् अस्ति,  
+मनन-निदिध्यासनयोर् अपि  
+श्रवणवद् अवगत्य्-अर्थत्वात्।
+</details>
+
+<details><summary>English</summary>
+
+But this is not the case, since consideration and reflection no less than hearing are subservient to comprehension.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न तु तदस्ति, मनननिदिध्यासनयोरपि श्रवणवदवगत्यर्थत्वात्।
+</details>
+
+***
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मान् न प्रतिपत्ति-विधि-विषयतया शास्त्र-प्रमाणकत्वं ब्रह्मणः सम्भवतीत्य् अतः  
+स्वतन्त्रम् एव ब्रह्म शास्त्र-प्रमाणकं  
+वेदान्त-वाक्य-समन्वयाद् इति सिद्धम् ।
+</details>
+
+<details><summary>English</summary>
+
+It follows that the Śāstra cannot be the means of knowing Brahman only in so far as it is connected with injunctions, and the doctrine that on account of the uniform meaning of the Vedānta-texts, an independent Brahman is to be admitted, is thereby fully established.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मान्न प्रतिपत्तिविधिविषयतया शास्त्रप्रमाणकत्वं ब्रह्मणः सम्भवतीत्यतः स्वतन्त्रमेव ब्रह्म शास्त्रप्रमाणकं वेदान्तवाक्यसमन्वयादिति सिद्धम् ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -3999,7 +4566,108 @@ Thus Sruti also declares, 'When he is free from the body, then neither pleasure 
 आगैयाल् उबासऩा विदिक्कु 'विषयमायिरुप् पदिऩाल् पिरह्मत्तिऱ्कु सास्तिरत्तैप् पिरमाण मायुळ्ळ तऩ्मै ऎऩ्बदु सम्बविक्कादु ऎऩ्ऱ इदऩाल्, उबनिषत् वाक्कियङ्गळुक्कुळ् ऒऱ्ऱुमैयिरुप्पदाल्, पिरह्मम् स्वदन्दिरमागवे (ऎदैयुम् ऎदिर्बारामले) सास्तिरत्तैप् पिरमाणमाग उडैयदु ऎऩ्बदु सित्तम्।
 </details>
 
-एवं च सति ‘अथातो ब्रह्मजिज्ञासा’ इति तद्विषयः पृथक्शास्त्रारम्भ उपपद्यते। प्रतिपत्तिविधिपरत्वे हि ‘अथातो धर्मजिज्ञासा’ इत्येवारब्धत्वान्न पृथक्शास्त्रमारभ्येत। आरभ्यमाणं चैवमारभ्येत — अथातः परिशिष्टधर्मजिज्ञासेति, ‘अथातः क्रत्वर्थपुरुषार्थयोर्जिज्ञासा’ (जै. सू. ४। १। १) इतिवत्। ब्रह्मात्मैक्यावगतिस्त्वप्रतिज्ञातेति तदर्थो युक्तः शास्त्रारम्भः — ‘अथातो ब्रह्मजिज्ञासा’ इति। तस्मात् अहं ब्रह्मास्मीत्येतदवसाना एव सर्वे विधयः सर्वाणि चेतराणि प्रमाणानि ।
+
+## पृथक्-शास्त्रारम्भः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं च सति  
+‘अथातो ब्रह्मजिज्ञासा’  
+इति तद्-विषयः पृथक्-शास्त्रारम्भ उपपद्यते।
+</details>
+
+<details><summary>English</summary>
+
+Hence there is room for beginning the new Śāstra indicated in the first Sūtra, 'Then therefore the enquiry into Brahman.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं च सति ‘अथातो ब्रह्मजिज्ञासा’ इति तद्विषयः पृथक्शास्त्रारम्भ उपपद्यते।
+</details>
+
+***
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रतिपत्ति-विधि-परत्वे हि  
+‘अथातो धर्मजिज्ञासा’ इत्य्-एवारब्धत्वान्  
+न पृथक्-शास्त्रम् आरभ्येत। +++(4)+++
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+ऐकशास्त्र्यं वदता रामानुजेनेदं तिरस्कृतम्।  
+</details>
+
+
+<details><summary>English</summary>
+
+If, on the other hand, the Vedānta-texts were connected with injunctions, a new Śāstra would either not be begun at all, since the Śāstra concerned with injunctions has already been introduced by means of the first Sūtra of the Pūrva Mīmāṁsā, 'Then therefore the enquiry into duty;'
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रतिपत्तिविधिपरत्वे हि ‘अथातो धर्मजिज्ञासा’ इत्येवारब्धत्वान्न पृथक्शास्त्रमारभ्येत।
+</details>
+
+***
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आरभ्यमाणं चैवम् आरभ्येत —  
+"अथातः परिशिष्ट-धर्म-जिज्ञासे"ति,  
+‘अथातः क्रत्वर्थ-पुरुषार्थयोर् जिज्ञासा’ (जै. सू. ४। १। १) इति-वत्।
+</details>
+
+<details><summary>English</summary>
+
+or if it were begun it would be introduced as follows: 'Then therefore the enquiry into the remaining duties;' just as a new portion of the Pūrva Mīmāṁsā Sūtras is introduced with the words, 'Then therefore the enquiry into what subserves the purpose of the sacrifice, and what subserves the purpose of man' (Pū. Mī. Sū. IV, 1, 1).
+</details>
+
+<details><summary>मूलम्</summary>
+
+आरभ्यमाणं चैवमारभ्येत — अथातः परिशिष्टधर्मजिज्ञासेति, ‘अथातः क्रत्वर्थपुरुषार्थयोर्जिज्ञासा’ (जै. सू. ४। १। १) इतिवत्।
+</details>
+
+***
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मात्मैक्यावगतिस् त्व् अ-प्रतिज्ञातेति  
+तद्-अर्थो युक्तः शास्त्रारम्भः —  
+‘अथातो ब्रह्म-जिज्ञासा’ इति।
+</details>
+
+<details><summary>English</summary>
+
+But as the comprehension of the unity of Brahman and the Self has not been propounded (in the previous Śāstra), it is quite appropriate that a new Śāstra, whose subject is Brahman, should be entered upon.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मात्मैक्यावगतिस्त्वप्रतिज्ञातेति तदर्थो युक्तः शास्त्रारम्भः — ‘अथातो ब्रह्मजिज्ञासा’ इति।
+</details>
+
+***
+
+## सर्व-शास्त्र-समाप्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात् "अहम् ब्रह्मास्मी"त्य्-एतद्-अवसाना एव  
+सर्वे विधयः, सर्वाणि चेतराणि प्रमाणानि –
+</details>
+
+<details><summary>English</summary>
+
+Hence all injunctions and all other means of knowledge end with the cognition expressed in the words, 'I am Brahman;'
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मात् अहं ब्रह्मास्मीत्येतदवसाना एव सर्वे विधयः सर्वाणि चेतराणि प्रमाणानि ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -4011,7 +4679,70 @@ Thus Sruti also declares, 'When he is free from the body, then neither pleasure 
 आगैयाल् “नाऩ् पिरह्ममाय् इरुक्किऱेऩ्” ऎऩ्बदै मुडिवायुळ्ळदागवे ऎल्ला विदिगळुम् मऱ्ऱुम् ऎल्ला पिरमाणङ्गळुम् इरुक्किऩ्ऱऩ।
 </details>
 
-न ह्यहेयानुपादेयाद्वैतात्मावगतौ निर्विषयाण्यप्रमातृकाणि च प्रमाणानि भवितुमर्हन्तीति। अपि चाहुः — ‘गौणमिथ्यात्मनोऽसत्त्वे पुत्रदेहादिबाधनात्। सद्ब्रह्मात्माहमित्येवं बोधे कार्यं कथं भवेत् ॥ अन्वेष्टव्यात्मविज्ञानात्प्राक्प्रमातृत्वमात्मनः। अन्विष्टः स्यात्प्रमातैव पाप्मदोषादिवर्जितः ॥ देहात्मप्रत्ययो यद्वत्प्रमाणत्वेन कल्पितः। लौकिकं तद्वदेवेदं प्रमाणं त्वाऽऽत्मनिश्चयात्’ इति ॥ ४ ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् अहेयानुपादेयाद्वैतात्मावगतौ  
+निर्विषयाण्य् अ-प्रमातृकाणि च प्रमाणानि भवितुम् अर्हन्तीति। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+for as soon as there supervenes the comprehension of the non-dual Self, which is not either something to be eschewed or something to be appropriated, all objects and knowing agents vanish, and hence there can no longer be means of proof.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न ह्यहेयानुपादेयाद्वैतात्मावगतौ निर्विषयाण्यप्रमातृकाणि च प्रमाणानि भवितुमर्हन्तीति।
+</details>
+
+***
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि चाहुः — 
+
+> ‘गौण-मिथ्यात्मनो ऽसत्त्वे  
+पुत्र-देहादि-बाधनात्।  
+सद्-ब्रह्मात्माहम् इत्य्-एवं  
+बोधे कार्यं कथं भवेत् ॥  
+अन्वेष्टव्यात्म-विज्ञानात्  
+प्राक् प्रमातृत्वम् आत्मनः।  
+अन्विष्टः स्यात् +++(साक्षी→)+++प्रमातैव  
+पाप्म-दोषादि-वर्जितः ॥  
+देहात्म-प्रत्ययो यद्वत्  
+प्रमाणत्वेन कल्पितः।  
+लौकिकं तद्वद् एवेदं  
+प्रमाणं त्व् आऽऽत्म-निश्चयात्’ 
+
+इति ॥ ४ ॥
+</details>
+
+<details><summary>English</summary>
+
+In accordance with this, they (i.e. men knowing Brahman) have made the following declaration:--
+
+'When there has arisen (in a man's mind) the knowledge, "I am that which is, Brahman is my Self,"  
+and when, owing to the sublation of the conceptions of body, relatives, and the like, the (imagination of) the figurative and the false Self has come to an end [^fn_91];  
+how should then the effect [^fn_92] (of that wrong imagination) exist any longer?  
+As long as the knowledge of the Self,  
+which Scripture tells us to search after, has not arisen,  
+so long the Self is knowing subject;  
+but that same subject is that which is searched after, viz. (the highest Self) free from all evil and blemish.  
+Just as the idea of the Self being the body is assumed as valid (in ordinary life),  
+so all the ordinary sources of knowledge (perception and the like) are valid only until the one Self is ascertained.'
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^fn_91]: The figurative Self, i.e. the imagination that wife, children, possessions, and the like are a man's Self; the false Self, i.e. the imagination that the Self acts, suffers, enjoys, &c.
+
+[^fn_92]: I.e. the apparent world with all its distinctions.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि चाहुः — ‘गौणमिथ्यात्मनोऽसत्त्वे पुत्रदेहादिबाधनात्। सद्ब्रह्मात्माहमित्येवं बोधे कार्यं कथं भवेत् ॥ अन्वेष्टव्यात्मविज्ञानात्प्राक्प्रमातृत्वमात्मनः। अन्विष्टः स्यात्प्रमातैव पाप्मदोषादिवर्जितः ॥ देहात्मप्रत्ययो यद्वत्प्रमाणत्वेन कल्पितः। लौकिकं तद्वदेवेदं प्रमाणं त्वाऽऽत्मनिश्चयात्’ इति ॥ ४ ॥
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 

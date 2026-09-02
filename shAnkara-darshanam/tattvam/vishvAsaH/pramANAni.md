@@ -10,6 +10,16 @@ title = "प्रमाणानि"
 shAnkaras, since they butcher BS, have to pretend that veda > BS (when in fact, BS is not even a proper pramANa for them at all).  
 Actually, vedas too are not really pramANa for them since they only selectively accept it (ascribing gauNatA to bheda-shruti).
 
+> तस्मात् "अहम् ब्रह्मास्मी"त्य्-एतद्-अवसाना एव  
+  सर्वे विधयः, सर्वाणि चेतराणि प्रमाणानि –  
+  न ह्य् अहेयानुपादेयाद्वैतात्मावगतौ  
+  निर्विषयाण्य् अ-प्रमातृकाणि च प्रमाणानि भवितुम् अर्हन्तीति। …   
+देहात्म-प्रत्ययो यद्वत्  
+प्रमाणत्वेन कल्पितः।  
+लौकिकं तद्वद् एवेदं  
+प्रमाणं त्व् आऽऽत्म-निश्चयात्।
+
+इति शङ्करः समन्वयाधिकरणे। 
 
 ऐकशास्त्र्यम् [अङ्गीकृतम्](/mImAMsA/rAmAnuja-sampradAyaH/uttamUru-vIrarAghavaH/upayukta-mImAMsA/) एव । 
 
