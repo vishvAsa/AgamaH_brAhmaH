@@ -2,8 +2,120 @@
 title = "०५ ईक्षत्यधिकरणम्"
 
 +++
+## सङ्गतिः
 
-एवं तावद्वेदान्तवाक्यानां ब्रह्मात्मावगतिप्रयोजनानां ब्रह्मात्मनि तात्पर्येण समन्वितानामन्तरेणापि कार्यानुप्रवेशं ब्रह्मणि पर्यवसानमुक्तम्। ब्रह्म च सर्वज्ञं सर्वशक्ति जगदुत्पत्तिस्थितिनाशकारणमित्युक्तम्। साङ्ख्यादयस्तु परिनिष्ठितं वस्तु प्रमाणान्तरगम्यमेवेति मन्यमानाः प्रधानादीनि कारणान्तराण्यनुमिमानास्तत्परतयैव वेदान्तवाक्यानि योजयन्ति। सर्वेष्वेव वेदान्तवाक्येषु सृष्टिविषयेष्वनुमानेनैव कार्येण कारणं लिलक्षयिषितम्। प्रधानपुरुषसंयोगा नित्यानुमेया इति साङ्ख्या मन्यन्ते ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं तावद् वेदान्त-वाक्यानां ब्रह्मात्मावगति-प्रयोजनानां  
+ब्रह्मात्मनि तात्पर्येण समन्वितानाम्  
+अन्तरेणापि कार्यानुप्रवेशं  
+ब्रह्मणि पर्यवसानम् उक्तम्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+इव्विदम् पिरह्ममायुळ्ळ आत्मावै अऱिवदै पिरयोजऩमायुळ्ळदायुम्, पिरह्ममायुळ्ळ आत्मा विडत्तिल् तात्पर्यत्तुडऩ् ऒऱ्ऱुप्पोव तायुमुळ्ळ वेदान्द वाक्कियङ्गळुक्कु, कर्माविल् पिरवेसमिल् लामले, पिरह्मत्तिल् मुडिवु ऎऩ्ऱु सॊल्लप्पट्टदु।
+</details>
+
+<details><summary>English</summary>
+
+So far it has been declared that the Vedānta-passages, whose purport is the comprehension of Brahman being the Self, and which have their object therein, refer exclusively to Brahman without any reference to actions.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं तावद्वेदान्तवाक्यानां ब्रह्मात्मावगतिप्रयोजनानां ब्रह्मात्मनि तात्पर्येण समन्वितानामन्तरेणापि कार्यानुप्रवेशं ब्रह्मणि पर्यवसानमुक्तम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्म च सर्वज्ञं सर्व-शक्ति जगद्-उत्पत्ति-स्थिति-नाश-कारणम्  
+इति इत्य् उक्तम्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+पिरह्ममुम्, सर्वक्ञमाय् सर्वु सक्तियुळ्ळदाय्, जगत्तिऩ् उत्पत्ति स्तिदि नासङ्गळुक्कुक् कारणम् ऎऩ्ऱुम् सॊल्लप् पट्टुविट्टदु।
+</details>
+
+<details><summary>English</summary>
+
+And it has further been shown that Brahman is the omniscient omnipotent cause of the origin, subsistence, and dissolution of the world.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्म च सर्वज्ञं सर्वशक्ति जगदुत्पत्तिस्थितिनाशकारणमित्युक्तम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साङ्ख्यादयस् तु  
+परिनिष्ठितं वस्तु प्रमाणान्तर-गम्यम् एवेति मन्यमानाः  
+प्रधानादीनि कारणान्तराण्य् अनुमिमानास्  
+तत्-परतयैव वेदान्त-वाक्यानि योजयन्ति।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+साङ्गियर् मुदलाऩवर्गळो, मुऩ्ऩमे निलैत्तिरुक्कुम् वस्तु वेऱु पिरमाणङ्गळाल् अऱियक् कूडियदे ऎऩ्ऱु ऎण्णिक्कॊण्डु, पिरदाऩम् मुदलिय वेऱु कारणङ्गळै अऩुमाऩम् सॆय्दुगॊण्डु, अवैगळिलेये तात्पर्यमुळ्ळदाग वेदान्द वाक्कियङ्गळै सेर्त्तुविडुगिऱार्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+But now the Sānkhyas and others being of opinion that an existent substance is to be known through other means of proof (not through the Veda) infer different causes, such as the pradhāna and the like, and thereupon interpret the Vedānta-passages as referring to the latter.
+</details>
+
+<details><summary>मूलम्</summary>
+
+साङ्ख्यादयस्तु परिनिष्ठितं वस्तु प्रमाणान्तरगम्यमेवेति मन्यमानाः प्रधानादीनि कारणान्तराण्यनुमिमानास्तत्परतयैव वेदान्तवाक्यानि योजयन्ति।
+</details>
+
+
+### साङ्ख्य-मतम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वेष्व् एव वेदान्त-वाक्येषु सृष्टि-विषयेष्व्  
+अनुमानेनैव कार्येण कारणं लिलक्षयिषितम्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+स्रुष्टियै विषयमायुळ्ळ ऎल्ला वेदान्द वाक्कियङ्गळिलुमे अऩुमाऩत्तिऩालेये, कार्यत्तिलिरुन्दु कारणत्तै ऎडुत्तुक्काट्टुवदिल् उत्तेसम्;
+</details>
+
+<details><summary>English</summary>
+
+All the Vedānta-passages, they maintain, which treat of the creation of the world distinctly point out that the cause (of the world) has to be concluded from the effect by inference;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वेष्वेव वेदान्तवाक्येषु सृष्टिविषयेष्वनुमानेनैव कार्येण कारणं लिलक्षयिषितम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रधान-पुरुष-संयोगा नित्यानुमेया  
+इति साङ्ख्या मन्यन्ते ।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+पिरदाऩत्तिऱ्कुम् पुरुषऩुक्कुमुळ्ळ सेर्क्कैगळ् ऎप्पॊऴुदुम् अऩुमाऩत्तिऩाल् अऱियक्कूडियवै ऎऩ्ऱु साङ्गियर् ऎण्णुगिऱार्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+and the cause which is to be inferred is the connexion of the pradhāna with the souls (purusha).
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रधानपुरुषसंयोगा नित्यानुमेया इति साङ्ख्या मन्यन्ते ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -15,7 +127,73 @@ title = "०५ ईक्षत्यधिकरणम्"
 साङ्गियर् मुदलाऩवर्गळो, मुऩ्ऩमे निलैत्तिरुक्कुम् वस्तु वेऱु पिरमाणङ्गळाल् अऱियक् कूडियदे ऎऩ्ऱु ऎण्णिक्कॊण्डु, पिरदाऩम् मुदलिय वेऱु कारणङ्गळै अऩुमाऩम् सॆय्दुगॊण्डु, अवैगळिलेये तात्पर्यमुळ्ळदाग वेदान्द वाक्कियङ्गळै सेर्त्तुविडुगिऱार्गळ्। स्रुष्टियै विषयमायुळ्ळ ऎल्ला वेदान्द वाक्कियङ्गळिलुमे अऩुमाऩत्तिऩालेये, कार्यत्तिलिरुन्दु कारणत्तै ऎडुत्तुक्काट्टुवदिल् उत्तेसम्; पिरदाऩत्तिऱ्कुम् पुरुषऩुक्कुमुळ्ळ सेर्क्कैगळ् ऎप्पॊऴुदुम् अऩुमाऩत्तिऩाल् अऱियक्कूडियवै ऎऩ्ऱु साङ्गियर् ऎण्णुगिऱार्गळ्।
 </details>
 
-काणादास्त्वेतेभ्य एव वाक्येभ्य ईश्वरं निमित्तकारणमनुमिमते, अणूंश्च समवायिकारणम्। एवमन्येऽपि तार्किका वाक्याभासयुक्त्याभासावष्टम्भाः पूर्वपक्षवादिन इहोत्तिष्ठन्ते। तत्र पदवाक्यप्रमाणज्ञेनाचार्येण वेदान्तवाक्यानां ब्रह्मात्मावगतिपरत्वप्रदर्शनाय वाक्याभासयुक्त्याभासप्रतिपत्तयः पूर्वपक्षीकृत्य निराक्रियन्ते ॥
+
+### काणाद-मतम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+काणादास् त्व् एतेभ्य एव वाक्येभ्य  
+ईश्वरं निमित्त-कारणम् अनुमिमते,  
+अणूंश् च समवायि-कारणम्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+काणादर्गळो - इन्द वाक्कियङ्गळिलिरुन्दे ईसुवरऩै निमित्त कारणमागवुम्, अणुक्कळै ऒट्टिऩ (उबादाऩ) कारणमागवुम्, ऊहिक्किऱार्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+The followers of Kaṇāda again infer from the very same passages that the Lord is the efficient cause of the world while the atoms are its material cause.
+</details>
+
+<details><summary>मूलम्</summary>
+
+काणादास्त्वेतेभ्य एव वाक्येभ्य ईश्वरं निमित्तकारणमनुमिमते, अणूंश्च समवायिकारणम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् अन्ये ऽपि तार्किका  
+वाक्याभास--युक्त्य्-आभासावष्टम्भाः पूर्वपक्ष-वादिन इहोत्तिष्ठन्ते।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+इव्विदम् वेऱु तार्क्किगर्गळुम् वाक्याबासम् युक्त्याबासम् इवैगळैप् पिडित्तुक्कॊण्डु पूर्वबक्षम् सॊल्लु किऱवर्गळाग इव्विषयत्तिल् किळम्बुगिऱार्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+And thus other argumentators also taking their stand on passages apparently favouring their views and on fallacious arguments raise various objections.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवमन्येऽपि तार्किका वाक्याभासयुक्त्याभासावष्टम्भाः पूर्वपक्षवादिन इहोत्तिष्ठन्ते।
+</details>
+
+### सिद्धान्तः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र पद-वाक्य-प्रमाण-ज्ञेनाचार्येण  
+वेदान्त-वाक्यानां ब्रह्मात्मावगति-परत्व-प्रदर्शनाय वाक्याभास--युक्त्य्-आभास-प्रतिपत्तयः पूर्वपक्षी-कृत्य निराक्रियन्ते ॥
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अप्पडियिरुक्कैयिल्, पदम् वाक्कियम् पिरमाणम् इवैगळै अऱिन्दुळ्ळ आसार्यराल्, वेदान्द वाक्कियङ्गळुक्कु पिरह्मञाऩत्तिल् ताऩ् तात्पर्य मॆऩ्ऱु काट्टुवदऱ्काग वाक्कियाबासङ् गळिऩालुम् युक्तयाबासङ्गळिऩालुम् एऱ्पडुम् अबिप्पिरायङ्गळ् पूर्वबक्षमागच् चॊल्लप्पट्टु निरागरिक्कप्पडुगिऩ्ऱऩ।
+</details>
+
+<details><summary>English</summary>
+
+For this reason the teacher (Vyāsa)--thoroughly acquainted as he is with words, passages, and means of proof--proceeds to state as primā facie views, and afterwards to refute, all those opinions founded on deceptive passages and fallacious arguments. Thereby he at the same time proves indirectly that what the Vedānta-texts aim at is the comprehension of Brahman.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र पदवाक्यप्रमाणज्ञेनाचार्येण वेदान्तवाक्यानां ब्रह्मात्मावगतिपरत्वप्रदर्शनाय वाक्याभासयुक्त्याभासप्रतिपत्तयः पूर्वपक्षीकृत्य निराक्रियन्ते ॥
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -27,7 +205,201 @@ title = "०५ ईक्षत्यधिकरणम्"
 अप्पडियिरुक्कैयिल्, पदम् वाक्कियम् पिरमाणम् इवैगळै अऱिन्दुळ्ळ आसार्यराल्, वेदान्द वाक्कियङ्गळुक्कु पिरह्मञाऩत्तिल् ताऩ् तात्पर्य मॆऩ्ऱु काट्टुवदऱ्काग वाक्कियाबासङ् गळिऩालुम् युक्तयाबासङ्गळिऩालुम् एऱ्पडुम् अबिप्पिरायङ्गळ् पूर्वबक्षमागच् चॊल्लप्पट्टु निरागरिक्कप्पडुगिऩ्ऱऩ।
 </details>
 
-तत्र साङ्ख्याः प्रधानं त्रिगुणमचेतनं स्वतन्त्रं जगतः कारणमिति मन्यमाना आहुः — यानि वेदान्तवाक्यानि सर्वज्ञस्य सर्वशक्तेर्ब्रह्मणो जगत्कारणत्वं प्रदर्शयन्तीत्यवोचः, तानि प्रधानकारणपक्षेऽपि योजयितुं शक्यन्ते। सर्वशक्तिमत्वं तावत्प्रधानस्यापि स्वविकारविषयमुपपद्यते। एवं सर्वज्ञत्वमप्युपपद्यते। कथम् ? यत्त्वं ज्ञानं मन्यसे, स सत्त्वधर्मः, ‘सत्त्वात्संजायते ज्ञानम्’ (भ. गी. १४। १७) इति स्मृतेः। तेन च सत्त्वधर्मेण ज्ञानेन कार्यकरणवन्तः पुरुषाः सर्वज्ञा योगिनः प्रसिद्धाः। सत्त्वस्य हि निरतिशयोत्कर्षे सर्वज्ञत्वं प्रसिद्धम्। न केवलस्य अकार्यकरणस्य पुरुषस्योपलब्धिमात्रस्य सर्वज्ञत्वं किञ्चिज्ज्ञत्वं वा कल्पयितुं शक्यम् ।
+### प्रधान-कारणता?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र साङ्ख्याः  
+प्रधानं त्रिगुणम् अचेतनं स्वतन्त्रं जगतः कारणम्  
+इति मन्यमाना आहुः —
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+पूर्वबक्षम्: अङ्गु साङ्गियर् मूऩ्ऱु कुणङ्गळु टऩ् कूडियदाय् असेदऩमायुळ्ळ पिरदाऩम् कारण मॆऩ्ऱु ऎण्णिक्कॊण्डु सॊल्गिऱार्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+The Sānkhyas who opine that the non-intelligent pradhāna consisting of three constituent elements (guṇa) is the cause of the world argue as follows.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र साङ्ख्याः प्रधानं त्रिगुणमचेतनं स्वतन्त्रं जगतः कारणमिति मन्यमाना आहुः —
+</details>
+
+#### सर्व-शक्ति
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यानि वेदान्त-वाक्यानि सर्वज्ञस्य सर्वशक्तेर् ब्रह्मणो जगत्-कारणत्वं प्रदर्शयन्तीत्य् अवोचः,  
+तानि प्रधान-कारण-पक्षे ऽपि योजयितुं शक्यन्ते।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+ऎन्द वेदान्द वाक्कियङ्गळ् सर्वक्ञमाय् सर्वसक्तियुळ्ळ तायिरुक्कुम् पिरह्मत्तिऱ्कु जगत्तिऩ् कारणमायिरुक्कुम् तऩ्मैयै काट्टुगिऩ्ऱऩवॆऩ्ऱु सॊऩ्ऩीरो, अवैगळै पिरदाऩम् कारणम् ऎऩ्ऱ पक्षत्तिल् कूड पॊरुत्त मुडियुम्।
+</details>
+
+<details><summary>English</summary>
+
+The Vedānta-passages which you have declared to intimate that the all-knowing all-powerful Brahman is the cause of the world can be consistently interpreted also on the doctrine of the pradhāna being the general cause.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यानि वेदान्तवाक्यानि सर्वज्ञस्य सर्वशक्तेर्ब्रह्मणो जगत्कारणत्वं प्रदर्शयन्तीत्यवोचः, तानि प्रधानकारणपक्षेऽपि योजयितुं शक्यन्ते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-शक्तिमत्त्वं तावत् प्रधानस्यापि स्व-विकार-विषयम् उपपद्यते।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+ऎल्ला सक्तियुमुळ्ळ तऩ्मै पिरदाऩत्तिऱ्कुम् कूड अदऩ् विगारङ्गळिऩ् विषयमागप् पॊरुन्दुम्।
+</details>
+
+<details><summary>English</summary>
+
+Omnipotence (more literally: the possession of all powers) can be ascribed to the pradhāna in so far as it has all its effects for its objects.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वशक्तिमत्वं तावत्प्रधानस्यापि स्वविकारविषयमुपपद्यते।
+</details>
+
+#### सर्व-ज्ञम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं सर्वज्ञत्वम् अप्य् उपपद्यते।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+इव्विदम् सर्वक्ञत्तऩ्मैयुम् पॊरुन्दुम्।
+</details>
+
+<details><summary>English</summary>
+
+All-knowingness also can be ascribed to it,
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं सर्वज्ञत्वमप्युपपद्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कथम् ?
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+ऎप्पडि?
+</details>
+
+<details><summary>English</summary>
+
+viz. in the following manner.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कथम् ?
+</details>
+
+##### सत्त्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् त्वं ज्ञानं मन्यसे, स सत्त्व-धर्मः,  
+‘सत्त्वात् संजायते ज्ञानम्’ (भ. गी. १४। १७)  
+इति स्मृतेः।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+ऎदै ञाऩम् ऎऩ्ऱु निऩैक्किऱीरो अदु सत्वगुणत्तिऩ् तर्मम्। 'सत्वत्तिलिरुन्दु ञाऩम् एऱ्पडुगिऱदु' (कीदै १४ -१७) ऎऩ्ऱ स्मिरुदियिऩाल्
+</details>
+
+<details><summary>English</summary>
+
+What you think to be knowledge is in reality an attribute of the guṇa of Goodness [^fn_94], according to the Smr̥ti passage 'from Goodness springs knowledge' (Bha. Gītā XIV, 17).
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्त्वं ज्ञानं मन्यसे, स सत्त्वधर्मः, ‘सत्त्वात्संजायते ज्ञानम्’ (भ. गी. १४। १७) इति स्मृतेः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेन च सत्त्व-धर्मेण ज्ञानेन  
+कार्य-करणवन्तः पुरुषाः सर्वज्ञा योगिनः प्रसिद्धाः।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अन्द सत्वगुणदर्ममाऩ ञाऩत्तिऩाल् सरीरम् इन्दिरियमुळ्ळ पुरुषर्गळ् सर्वक्ञर्गळाऩ योगिगळ् ऎऩ्ऱु पिरसित्तर् कळायिरुक्किऱार्गळ्
+</details>
+
+<details><summary>English</summary>
+
+By means of this attribute of Goodness, viz. knowledge, certain men endowed with organs which are effects (of the pradhāna) are known as all-knowing Yogins;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेन च सत्त्वधर्मेण ज्ञानेन कार्यकरणवन्तः पुरुषाः सर्वज्ञा योगिनः प्रसिद्धाः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्त्वस्य हि निरतिशयोत्कर्षे सर्वज्ञत्वं प्रसिद्धम्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+सत्व कुणत्तिऱ्कु ऎल्लै अऱ्ऱ एऱ्ऱमिरुन्दाल् सर्वक्ञत् तऩ्मै पिरसित्तमल्लवा?
+</details>
+
+<details><summary>English</summary>
+
+for omniscience is acknowledged to be connected with the very highest degree of 'Goodness.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+सत्त्वस्य हि निरतिशयोत्कर्षे सर्वज्ञत्वं प्रसिद्धम्।
+</details>
+
+##### न पुरुषः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न केवलस्य अ-कार्य-करणस्य पुरुषस्योपलब्धि-मात्रस्य  
+सर्वज्ञत्वं किञ्चिज्ज्ञत्वं वा कल्पयितुं शक्यम्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+सरीरम् इन्दिरियम् इल्लामल्  
+अऱिवागमात्तिरम् इरुक्कुम् वॆऱुम् पुरुषऩुक्कु  
+सर्वक्ञत्तऩो अल्बक्ञत् तऩो कल्बिप्पदु मुडियादु।
+</details>
+
+<details><summary>English</summary>
+
+Now to the soul (purusha) which is isolated, destitute of effected organs, consisting of pure (undifferenced) intelligence it is quite impossible to ascribe either all-knowingness or limited knowledge;
+</details>
+
+<details><summary>मूलम्</summary>
+
+न केवलस्य अकार्यकरणस्य पुरुषस्योपलब्धिमात्रस्य सर्वज्ञत्वं किञ्चिज्ज्ञत्वं वा कल्पयितुं शक्यम् ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -39,7 +411,116 @@ title = "०५ ईक्षत्यधिकरणम्"
 ऎल्ला सक्तियुमुळ्ळ तऩ्मै पिरदाऩत्तिऱ्कुम् कूड अदऩ् विगारङ्गळिऩ् विषयमागप् पॊरुन्दुम्। इव्विदम् सर्वक्ञत्तऩ्मैयुम् पॊरुन्दुम्। ऎप्पडि? ऎदै ञाऩम् ऎऩ्ऱु निऩैक्किऱीरो अदु सत्वगुणत्तिऩ् तर्मम्। 'सत्वत्तिलिरुन्दु ञाऩम् एऱ्पडुगिऱदु' (कीदै १४ -१७) ऎऩ्ऱ स्मिरुदियिऩाल् अन्द सत्वगुणदर्ममाऩ ञाऩत्तिऩाल् सरीरम् इन्दिरियमुळ्ळ पुरुषर्गळ् सर्वक्ञर्गळाऩ योगिगळ् ऎऩ्ऱु पिरसित्तर् कळायिरुक्किऱार्गळ् सत्व कुणत्तिऱ्कु ऎल्लै अऱ्ऱ एऱ्ऱमिरुन्दाल् सर्वक्ञत् तऩ्मै पिरसित्तमल्लवा? सरीरम् इन्दिरिय मिल्लामल् अऱिवागमात्तिरमिरुक्कुम् वॆऱुम् पुरुषऩुक्कु सर्वक्ञत्तऩमो अल्बक्ञत् तऩमो कल्बिप्पदु मुडियादु।
 </details>
 
-त्रिगुणत्वात्तु प्रधानस्य सर्वज्ञानकारणभूतं सत्त्वं प्रधानावस्थायामपि विद्यत इति प्रधानस्याचेतनस्यैव सतः सर्वज्ञत्वमुपचर्यते वेदान्तवाक्येषु। अवश्यं च त्वयापि सर्वज्ञं ब्रह्माभ्युपगच्छता सर्वज्ञानशक्तिमत्त्वेनैव सर्वज्ञत्वमभ्युपगन्तव्यम्। न हि सर्वदा सर्वविषयं ज्ञानं कुर्वदेव ब्रह्म वर्तते। तथाहि — ज्ञानस्य नित्यत्वे ज्ञानक्रियां प्रति स्वातन्त्र्यं ब्रह्मणो हीयेत; अथानित्यं तदिति ज्ञानक्रियाया उपरमे उपरमेतापि ब्रह्म, तदा सर्वज्ञानशक्तिमत्त्वेनैव सर्वज्ञत्वमापतति ।
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रिगुणत्वात् तु प्रधानस्य सर्व-ज्ञान-कारण-भूतं सत्त्वं  
+प्रधानावस्थायाम् अपि विद्यत इति  
+प्रधानस्याचेतनस्यैव सतः सर्वज्ञत्वम् उपचर्यते वेदान्त-वाक्येषु।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+पिरदाऩत्तिऱ्कु मूऩ्ऱु कुणङ्गळुळ्ळ तऩ्मै यिरुप्पदिऩालो, पिरदाऩमायिरुक्कुम् निलैयिल् कूड, ऎल्ला ञाऩत्तिऱ्कुम् कारणमायुळ्ळ सत्वम् इरुक्किऱदु ऎऩ्बदिऩाल्, असेदऩमायिरुक्कुम् पिरदाऩत्तिऱ्कुम्गूड सर्वक्ञत्तऩम् उबसारमाग सॊल्लप्पडुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+the pradhāna, on the other hand, because consisting of the three guṇas, comprises also in its pradhāna state the element of Goodness which is the cause of all-knowingness. The Vedānta-passages therefore in a derived (figurative) sense ascribe all-knowingness to the pradhāna, although it is in itself non-intelligent.
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्रिगुणत्वात्तु प्रधानस्य सर्वज्ञानकारणभूतं सत्त्वं प्रधानावस्थायामपि विद्यत इति प्रधानस्याचेतनस्यैव सतः सर्वज्ञत्वमुपचर्यते वेदान्तवाक्येषु।
+</details>
+
+##### सर्व-ज्ञान-शक्तिमत्ता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवश्यं च त्वयापि सर्वज्ञं ब्रह्माभ्युपगच्छता  
+सर्व-ज्ञान-शक्तिमत्त्वेनैव  
+सर्वज्ञत्वम् अभ्युपगन्तव्यम्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+वेदान्द वाक्कियङ्गळिल् सर्वक्ञमायुळ्ळ पिरह्मत्तै ऒप्पुक्कॊळ्गिऱ उम्मालुम् ऎल्ला ञाऩ विषयमाऩ सक्तियुळ्ळदॆऩ्ऱ मुऱैयिलेये सर्वक्ञत् तऩ्मै ऎऩ्ऱु अवसियम् ऒप्पुक्कॊळ्ळप्पड वेण्डुम्।
+</details>
+
+<details><summary>English</summary>
+
+Moreover you (the Vedāntin) also who assume an all-knowing Brahman can ascribe to it all-knowingness in so far only as that term means capacity for all knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवश्यं च त्वयापि सर्वज्ञं ब्रह्माभ्युपगच्छता सर्वज्ञानशक्तिमत्त्वेनैव सर्वज्ञत्वमभ्युपगन्तव्यम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि सर्वदा सर्व-विषयं ज्ञानं कुर्वद् एव ब्रह्म वर्तते।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+ऎल्ला विषयमाऩ ञाऩत्तै सॆय्दुगॊण्डे (ऎल्लावऱ्ऱैयुम् अऱिन्दु कॊण्डे) पिरह्मम् इरुप्पदिल्लैयल्लवा?
+</details>
+
+<details><summary>English</summary>
+
+For Brahman cannot always be actually engaged in the cognition of everything;
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि सर्वदा सर्वविषयं ज्ञानं कुर्वदेव ब्रह्म वर्तते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथाहि — ज्ञानस्य नित्यत्वे  
+ज्ञान-क्रियां प्रति स्वातन्त्र्यं ब्रह्मणो हीयेत;
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अप्पडिये ञाऩम् ऎप्पॊऴुदुम् उळ्ळदॆऩ्ऱाल्, अऱिवदु ऎऩ्ऱ किरियै विषयत्तिल् पिरह्मत्तिऱ्कु स्वादन्दिरियम् इल्लै यॆऩ्ऱु आगिविडुम्।
+</details>
+
+<details><summary>English</summary>
+
+for from this there would follow the absolute permanency of his cognition, and this would involve a want of independence on Brahman's part with regard to the activity of knowing.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथाहि — ज्ञानस्य नित्यत्वे ज्ञानक्रियां प्रति स्वातन्त्र्यं ब्रह्मणो हीयेत;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथानित्यं तद् इति –  
+ज्ञान-क्रियाया उपरमे उपरमेतापि ब्रह्म,  
+तदा सर्व-ज्ञान-शक्तिमत्त्वेनैव सर्वज्ञत्वम् आपतति।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अदु अनित्यमॆऩ्ऱालो, ञाऩमागिऱ किरियैयिलिरुन्दु पिरह्मम् विलगिक् कॊळ्ळलाम्। अप्पॊऴुदु ऎल्ला ञाऩ विषयमाऩ सक्तियुळ्ळदिऩालेये सर्वक्ञत्तऩ्मै ऎऩ्ऱु एऱ्पडुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+And if you should propose to consider Brahman's cognition as non-permanent it would follow that with the cessation of the cognition Brahman itself would cease. Therefore all-knowingness is possible only in the sense of capacity for all knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथानित्यं तदिति ज्ञानक्रियाया उपरमे उपरमेतापि ब्रह्म, तदा सर्वज्ञानशक्तिमत्त्वेनैव सर्वज्ञत्वमापतति ।
+</details>
+
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -51,29 +532,118 @@ title = "०५ ईक्षत्यधिकरणम्"
 वेदान्द वाक्कियङ्गळिल् सर्वक्ञमायुळ्ळ पिरह्मत्तै ऒप्पुक्कॊळ्गिऱ उम्मालुम् ऎल्ला ञाऩ विषयमाऩ सक्तियुळ्ळदॆऩ्ऱ मुऱैयिलेये सर्वक्ञत् तऩ्मै ऎऩ्ऱु अवसियम् ऒप्पुक्कॊळ्ळप्पड वेण्डुम्। ऎल्ला विषयमाऩ ञाऩत्तै सॆय्दुगॊण्डे (ऎल्लावऱ्ऱैयुम् अऱिन्दु कॊण्डे) पिरह्मम् इरुप्पदिल्लैयल्लवा? अप्पडिये ञाऩम् ऎप्पॊऴुदुम् उळ्ळदॆऩ्ऱाल्, अऱिवदु ऎऩ्ऱ किरियै विषयत्तिल् पिरह्मत्तिऱ्कु स्वादन्दिरियम् इल्लै यॆऩ्ऱु आगिविडुम्। अदु अनित्यमॆऩ्ऱालो, ञाऩमागिऱ किरियैयिलिरुन्दु पिरह्मम् विलगिक् कॊळ्ळलाम्। अप्पॊऴुदु ऎल्ला ञाऩ विषयमाऩ सक्तियुळ्ळदिऩालेये सर्वक्ञत्तऩ्मै ऎऩ्ऱु एऱ्पडुगिऱदु।
 </details>
 
-अपि च प्रागुत्पत्तेः सर्वकारकशून्यं ब्रह्मेष्यते त्वया। न च ज्ञानसाधनानां शरीरेन्द्रियादीनामभावे ज्ञानोत्पत्तिः कस्यचिदुपपन्ना। अपि च प्रधानस्यानेकात्मकस्य परिणामसम्भवात्कारणत्वोपपत्तिर्मृदादिवत् , नासंहतस्यैकात्मकस्य ब्रह्मणः — इत्येवं प्राप्ते, इदं सूत्रमारभ्यते —
+
+#### एकमेवाद्वितीयम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च, प्राग् उत्पत्तेः  
+सर्व-कारक-शून्यं ब्रह्मेष्यते त्वया।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
-तविरवुम्, (जगत्तु) उण्डावदऱ्कु मुऩ्ऩाल्, ऎव्विद कारगमऱ्ऱ पिरह्मम् उम्माल् ऒप्पुक् कॊळ्ळप्पडुगिऱदु। ञाऩत्तिऱ्कु सादऩमायुळ्ळ सरीरम् इन्दिरियम् मुदलियवैयिल्लामल् यारुक्कुम् ञाऩम् एऱ्पडुवदु युक्तमागादु।
+तविरवुम्, (जगत्तु) उण्डावदऱ्कु मुऩ्ऩाल्, ऎव्विद कारगमऱ्ऱ पिरह्मम् उम्माल् ऒप्पुक् कॊळ्ळप्पडुगिऱदु।
 </details>
+
+<details><summary>English</summary>
+
+Moreover you assume that previously to the origination of the world Brahman is without any instruments of action.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि च प्रागुत्पत्तेः सर्वकारकशून्यं ब्रह्मेष्यते त्वया।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च ज्ञान-साधनानां शरीरेन्द्रियादीनाम् अभावे  
+ज्ञानोत्पत्तिः कस्यचिद् उपपन्ना।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+ञाऩत्तिऱ्कु सादऩमायुळ्ळ सरीरम् इन्दिरियम् मुदलियवैगळिल्लामल् यारुक्कुम् ञाऩम् एऱ्पडुवदु युक्तमागादु।
+</details>
+
+<details><summary>English</summary>
+
+But without the body, the senses, &c. which are the instruments of knowledge, cognition cannot take place in any being.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च ज्ञानसाधनानां शरीरेन्द्रियादीनामभावे ज्ञानोत्पत्तिः कस्यचिदुपपन्ना।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च प्रधानस्यानेकात्मकस्य परिणाम-सम्भवात् कारणत्वोपपत्तिर् मृदादिवत्,  
+नासंहतस्यैकात्मकस्य ब्रह्मणः —  
+इत्य् एवम् प्राप्ते,  
+इदं सूत्रम् आरभ्यते —
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 मेलुम् पिरदाऩत्तिऱ्कु पलविद तऩ्मैयुळ्ळदाल् माऱुदल् एऱ्पडक्कूडियदाल्, मण् मुदलियदैप्पोल, कारणत्तऩ्मै पॊरुन्दुम्; ऒऩ्ऱुडऩुम् सेराददाय् ऒरे स्वरूबत्तुडऩिरुक्कुम् पिरह्मत्तिऱ्कु पॊरुन्दादु; ऎऩ्ऱु इव्विदम् एऱ्पडुम् पोदु इन्द सूत्रम् आरम्बिक्कप् पट्टिरुक्किऱदु।
 </details>
 
-ईक्षतेर्नाशब्दम् ॥ ५ ॥  
+<details><summary>English</summary>
+
+And further it must be noted that the pradhāna, as consisting of various elements, is capable of undergoing modifications, and may therefore act as a (material) cause like clay and other substances; while the uncompounded homogeneous Brahman is unable to do so.
+
+To these conclusions he (Vyāsa) replies in the following Sūtra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि च प्रधानस्यानेकात्मकस्य परिणामसम्भवात्कारणत्वोपपत्तिर्मृदादिवत् , नासंहतस्यैकात्मकस्य ब्रह्मणः — इत्येवं प्राप्ते, इदं सूत्रमारभ्यते —
+</details>
+
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+मेलुम् पिरदाऩत्तिऱ्कु पलविद तऩ्मैयुळ्ळदाल् माऱुदल् एऱ्पडक्कूडियदाल्, मण् मुदलियदैप्पोल, कारणत्तऩ्मै पॊरुन्दुम्; ऒऩ्ऱुडऩुम् सेराददाय् ऒरे स्वरूबत्तुडऩिरुक्कुम् पिरह्मत्तिऱ्कु पॊरुन्दादु; ऎऩ्ऱु इव्विदम् एऱ्पडुम् पोदु इन्द सूत्रम् आरम्बिक्कप् पट्टिरुक्किऱदु।
+</details>
+
+
+## ईक्षतेः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईक्षतेर् नाशब्दम् ॥ ५ ॥
+</details>
+
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 ईक्षदेर्नासप्तम्: ॥ ५ ॥
 </details>
 
-तदैक्षतेतिवाक्येन प्रधानं ब्रह्म वोच्यते ॥  
-ज्ञानक्रियाशक्तिमत्त्वात्प्रधानं सर्वकारणम् ॥ १३ ॥  
-ईक्षणाच्चेतनं ब्रह्म क्रियाज्ञाने तु मायया ॥  
-आत्मशब्दात्मतादात्म्ये प्रधानस्य विरोधिनी ॥ १४ ॥  
+<details><summary>English</summary>
+
+5. On account of seeing (i. e. thinking being attributed in the Upanishads to the cause of the world; the pradhāna) is not (to be identified with the cause indicated by the Upanishads; for) it is not founded on Scripture.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ईक्षतेर्नाशब्दम् ॥ ५ ॥
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तदैक्षतेतिवाक्येन  
+प्रधानं ब्रह्म वोच्यते ॥  
+ज्ञानक्रियाशक्तिमत्त्वात्  
+प्रधानं सर्वकारणम् ॥ १३ ॥  
+ईक्षणाच्चेतनं ब्रह्म  
+क्रियाज्ञाने तु मायया ॥  
+आत्मशब्दात्मतादात्म्ये  
+प्रधानस्य विरोधिनी ॥ १४ ॥  
 --वैयासिकन्यायमाला
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
