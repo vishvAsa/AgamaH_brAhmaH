@@ -2591,7 +2591,7 @@ goes on--denoting the thinking principle of which the whole chapter treats, and 
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
-अव्विडत्तिल् असेदऩmaयुळ्ळ पिरदाऩमे कौणmag पार्प्पदु ऎऩ्ऱु कल्बित्ताल्, अदुवे पिरगिरुदmaऩदिऩाल् ‘अन्द इन्द तेवदै’ ऎऩ्ऱु सॊल्लप्पट्टदाग आगुम्;
+अव्विडत्तिल् असेदऩमायुळ्ळ पिरदाऩमे कौणmag पार्प्पदु ऎऩ्ऱु कल्बित्ताल्, अदुवे पिरगिरुदmaऩदिऩाल् ‘अन्द इन्द तेवदै’ ऎऩ्ऱु सॊल्लप्पट्टदाग आगुम्;
 </details>
 
 <details><summary>English</summary>
