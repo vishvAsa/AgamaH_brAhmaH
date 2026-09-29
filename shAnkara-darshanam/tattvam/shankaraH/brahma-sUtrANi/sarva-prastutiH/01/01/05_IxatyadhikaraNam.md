@@ -2442,7 +2442,7 @@ To this argumentation of the Sānkhya the next Sutra replies:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् उक्तं प्रधानम् अचेतनं सच्-शब्द-वाच्यं  
+यद् उक्तं प्रधानम् अचेतनं सच्-छब्द-वाच्यं  
 तस्मिन्न् औपचारिकम् ईक्षितृत्वम् अप्-तेजसोर् इवेति,  
 तद् असत् । 
 </details>
@@ -2504,7 +2504,10 @@ On account of the term 'Self.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘सद् एव सोम्येदम् अग्र आसीत्’ इत्य् उपक्रम्य, ‘तद् ऐक्षत’ ‘तत् तेजो ऽसृजत’ (छा. उ. ६। २। ३) इति च तेजोऽबन्नानां सृष्टिम् उक्त्वा,
+‘सद् एव सोम्येदम् अग्र आसीत्’ इत्य् उपक्रम्य,  
+‘तद् ऐक्षत’  
+‘तत् तेजो ऽसृजत’ (छा. उ. ६। २। ३)  
+इति च तेजोऽबन्नानां सृष्टिम् उक्त्वा,
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -2591,7 +2594,7 @@ goes on--denoting the thinking principle of which the whole chapter treats, and 
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
-अव्विडत्तिल् असेदऩमायुळ्ळ पिरदाऩमे गौणमाग पार्प्पदु ऎऩ्ऱु कल्बित्ताल्, अदुवे पिरगिरुदmaऩदिऩाल् ‘अन्द इन्द तेवदै’ ऎऩ्ऱु सॊल्लप्पट्टदाग आगुम्;
+अव्विडत्तिल् असेदऩमायुळ्ळ पिरदाऩमे गौणमाग पार्प्पदु ऎऩ्ऱु कल्बित्ताल्, अदुवे पिरगिरुदमाऩदिऩाल् ‘अन्द इन्द तेवदै’ ऎऩ्ऱु सॊल्लप्पट्टदाग आगुम्;
 </details>
 
 <details><summary>English</summary>
@@ -2606,8 +2609,8 @@ If we assumed that in this passage the non-intelligent pradhāna is figuratively
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तदा देवता  
-जीवम् आत्म-शब्देनाभिदध्यात्।
+न तदा +++(अचेतनं)+++ देवता  
++++(चेतनं)+++ जीवम् आत्म-शब्देनाभिदध्यात्।
 </details>
 
 
@@ -2684,7 +2687,8 @@ By 'Self' we understand (a being's) own nature,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाचेतनस्य प्रधानस्य चेतनो जीवः स्वरूपं भवितुमर्हति।
+नाचेतनस्य प्रधानस्य चेतनो जीवः  
+स्वरूपं भवितुम् अर्हति।
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -2704,7 +2708,9 @@ and it is clear that the intelligent Jiva cannot constitute the nature of the no
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ तु चेतनं ब्रह्म मुख्यम् ईक्षितृ परिगृह्येत, तस्य जीव-विषय आत्म-शब्द-प्रयोग उपपद्यते।
+अथ तु चेतनं ब्रह्म  
+मुख्यम् ईक्षितृ परिगृह्येत,  
+तस्य जीव-विषय आत्म-शब्द-प्रयोग उपपद्यते।
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -2732,7 +2738,144 @@ If, on the other hand, we refer the whole chapter to the intelligent Brahman, to
 सेदऩमाऩ पिरह्ममो मुक्कियमायुळ्ळ पार्प्पदाग ऎडुत्तुक्कॊळ्ळप्पट्टाल्, अदऱ्कु जीवऩ् विषयमाग आत्मा ऎऩ्ऱ सप्तत्तै पिरयोगित्तदु उसिदमागुम्।
 </details>
 
-तथा ‘स य एषोऽणिमैतदात्म्यमिदं सर्वं तत्सत्यं स आत्मा तत्त्वमसि श्वेतकेतो’ (छा. उ. ६। १४। ३) इत्यत्र ‘स आत्मा’ इति प्रकृतं सदणिमानमात्मानमात्मशब्देनोपदिश्य, ‘तत्त्वमसि श्वेतकेतो’ इति चेतनस्य श्वेतकेतोरात्मत्वेनोपदिशति। अप्तेजसोस्तु विषयत्वादचेतनत्वम् , नामरूपव्याकरणादौ च प्रयोज्यत्वेनैव निर्देशात् , न चात्मशब्दवत्किञ्चिन्मुख्यत्वे कारणमस्तीति युक्तं कूलवद्गौणत्वमीक्षितृत्वस्य। तयोसदधिष्ठितत्वापेक्षमेवेक्षितृत्वम्। सतस्त्वात्मशब्दान्न गौणमीक्षितृत्वमित्युक्तम् ॥ ६ ॥
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा 
+
+> ‘स य एषो ऽणिमैतद्-आत्म्यम् इदं सर्वं  
+तत्-सत्यं  
+स आत्मा  
+तत् त्वम् असि श्वेतकेतो’ 
+
+इत्य्-अत्र ‘स आत्मा’ इति प्रकृतं सद्  
+अणिमानम् आत्मानम् आत्म-शब्देनोपदिश्य,  
+
+> ‘तत् त्वम् असि श्वेतकेतो’ 
+
+इति चेतनस्य श्वेतकेतोर् आत्मत्वेनोपदिशति।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अप्पडिये ‘ऎन्द इदु सूक्ष्ममायुळ्ळदो अदु अदु। इदैये आत्मागवुडैयदु इदु ऎल्लाम्। अदु सत्यम्। अदु आत्मा, अदुवाग नी इरुक्किऱाय्, हे सुवेदगेदो (सा। VI-१४-३) ऎऩ्ऱविडत्तिल् 'सत्' ‘सूक्ष्मम्’ आगवुळ्ळ पिरगिरुदmaऩ आत्मावै ‘अदु आत्मा' ऎऩ्ऱु आत्माव\u0bc5ऩ्ऱ सप्तत्तिऩाल् उबदेसितुविट्टु 'अदुवाय् नी इरुक्किऱाय्, हेसुवेदगेदो' ऎऩ्ऱु सेदऩऩायुळ्ळ सुवेद केदुविऱ्कु आत्मत्तऩ्मैयाग उबदेसिक्किऱदु।
+</details>
+
+<details><summary>English</summary>
+
+Then again there is the other passage, 'That which is that subtle essence, in it all that exists has its self. It is the true. It is the Self. That art thou, O Śvetaketu' (Cḥ. Up. VI, 8, 7, &c.). Here the clause 'It is the Self' designates the Being of which the entire chapter treats, viz. the subtle Self, by the word 'Self,' and the concluding clause, 'that art thou, O Śvetaketu,' declares the intelligent Śvetaketu to be of the nature of the Self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा ‘स य एषोऽणिमैतदात्म्यमिदं सर्वं तत्सत्यं स आत्मा तत्त्वमसि श्वेतकेतो’ इत्यत्र ‘स आत्मा’ इति प्रकृतं सदणिमानमात्मानमात्मशब्देनोपदिश्य, ‘तत्त्वमसि श्वेतकेतो’ इति चेतनस्य श्वेतकेतोरात्मत्वेनोपदिशति।
+</details>
+
+### अप्-तेजसोर् भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-तेजसोस् तु विषयत्वाद् अचेतनत्वम्,
+</details>
+
+
+<details><summary>English</summary>
+
+Fire and water, on the other hand, are non-intelligent, since they are objects (of the mind),
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्तेजसोस्तु विषयत्वादचेतनत्वम् ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाम-रूप-व्याकरणादौ च प्रयोज्यत्वेनैव निर्देशात्,
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+नामरूबङ्गळिऩ् स्रुष्टि मुदलियदिल् उबयोगप्पडुम् तऩ्मैयिलेये कुऱिप्पिट्टिरुप्पदाल्
+</details>
+
+<details><summary>English</summary>
+
+and since they are declared to be implicated in the evolution of names and forms.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नामरूपव्याकरणादौ च प्रयोज्यत्वेनैव निर्देशात् ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चात्म-शब्दवत् किञ्चिन् मुख्यत्वे कारणम् अस्ति  
+इति युक्तं कूलवद् गौणत्वम् ईक्षितृत्वस्य।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+(अवैगळिऩ् पार्वैक्कु) मुक्कियत्तऩ्मै ऎऩ्ऱ विषयत्तिल्, आत्मा ऎऩ्ऱ सप्तत्तैप् पोल, ऎव्विद कारणमुम् इल्लाददिऩाल्, नदिक्करैक्कुबबोल, पार्प्पदु ऎऩ्बदऱ्कु कौणत् तऩ्मै युक्तमे।
+</details>
+
+<details><summary>English</summary>
+
+And as at the same time there is no reason for ascribing to them thought in its primary sense--while the employment of the word 'Self' furnishes such a reason with reference to the Sat--the thought attributed to them must be explained in a figurative sense, like the inclination of the river-bank.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चात्मशब्दवत्किञ्चिन्मुख्यत्वे कारणमस्तीति युक्तं कूलवद्गौणत्वमीक्षितृत्वस्य।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तयोस् सद्-अधिष्ठितत्वापेक्षम् एवेक्षितृत्वम्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अवैगळुक्कुक्कूड पार्प्पदु ऎऩ्बदु सत् वस्तुविऩाल् अदिष्टिदmaयिरुक्कुम् तऩ्मै यिऩाल्दाऩ्।
+</details>
+
+<details><summary>English</summary>
+
+Moreover, the thinking on the part of fire and water is to be understood as dependent on their being ruled over by the Sat.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तयोसदधिष्ठितत्वापेक्षमेवेक्षितृत्वम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सतस् त्व् आत्म-शब्दान्  
+न गौणम् ईक्षितृत्वम्  
+इत्य् उक्तम् ॥ ६ ॥
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+सत् वस्तुविऱ्को आत्मा ऎऩ्ऱ सप्तमिरुप्पदिऩाल् पार्वै कौणमिल्लैय\u0bc5ऩ्ऱु सॊल्लप्पट्टदु।
+</details>
+
+<details><summary>English</summary>
+
+On the other hand, the thought of the Sat is, on account of the word 'Self,' not to be understood in a figurative sense. [^fn_99]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^fn_99]: 54:1 So that, on this latter explanation, it is unnecessary to assume a figurative sense of the word 'thinking' in any of the three passages.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सतस्त्वात्मशब्दान्न गौणमीक्षितृत्वमित्युक्तम् ॥ ६ ॥
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -2744,7 +2887,140 @@ If, on the other hand, we refer the whole chapter to the intelligent Brahman, to
 जलम् तेजस् इवैगळुक्को विषयमायिरुप् पदिऩाल् असेदऩत्तऩ्मैदाऩ्, नामरूबङ्गळिऩ् स्रुष्टि मुदलियदिल् उबयोगप्पडुम् तऩ्मैयिलेये कुऱिप्पिट्टिरुप्पदाल् (अवैगळिऩ् पार्वैक्कु) मुक्कियत्तऩ्मै ऎऩ्ऱ विषयत्तिल्, आत्मा ऎऩ्ऱ सप्तत्तैप् पोल, ऎव्विद कारणमुम् इल्लाददिऩाल्, नदिक्करैक्कुप्पोल, पार्प्पदु ऎऩ्बदऱ्कु कौणत् तऩ्मै युक्तमे। अवैगळुक्कुक्कूड पार्प्पदु ऎऩ्बदु सत् वस्तुविऩाल् अदिष्टिदमायिरुक्कुम् तऩ्मै यिऩाल्दाऩ्। सत् वस्तुविऱ्को आत्मा ऎऩ्ऱ सप्तमिरुप्पदिऩाल् पार्वै कौणमिल्लैयॆऩ्ऱु सॊल्लप्पट्टदु।
 </details>
 
-अथोच्येत — अचेतनेऽपि प्रधाने भवत्यात्मशब्दः, आत्मनः सर्वार्थकारित्वात्; यथा राज्ञः सर्वार्थकारिणि भृत्ये भवत्यात्मशब्दः ‘ममात्मा भद्रसेनः’ इति। प्रधानं हि पुरुषस्यात्मनो भोगापवर्गौ कुर्वदुपकरोति, राज्ञ इव भृत्यः सन्धिविग्रहादिषु वर्तमानः। अथवैक एवात्मशब्दश्चेतनाचेतनविषयो भविष्यति, ‘भूतात्मा’ ‘इन्द्रियात्मा’ इति च प्रयोगदर्शनात्; यथैक एव ज्योतिःशब्दः क्रतुज्वलनविषयः। तत्र कुत एतदात्मशब्दादीक्षतेरगौणत्वमित्यत उत्तरं पठति —
+## कर्तृत्वात् प्रधानम् आत्मा?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथोच्येत — 
+
+अचेतने ऽपि प्रधाने भवत्य् आत्म-शब्दः,  
+आत्मनः सर्वार्थ-कारित्वात्;
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+पूर्वबक्षम्:- अरसऩुडैय ऎल्ला कारियङ् gळैयुम् स\u0bc5य्दुवरुगिऱ सेवगऩिडम् ‘पत्रसेऩऩ् ऎऩ् आत्मा' ऎऩ्ऱु आत्म सप्तम् इरुबbदु ऎप्पडियो, अप्पडिये
+</details>
+
+<details><summary>English</summary>
+
+Here the Sānkhya comes forward with a new objection. The word 'Self,' he says, may be applied to the pradhāna, although unintelligent, because it is sometimes figuratively used in the sense of 'that which effects all purposes of another;'
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथोच्येत — अचेतनेऽपि प्रधाने भवत्यात्मशब्दः, आत्मनः सर्वार्थकारित्वात्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा राज्ञः सर्वार्थ-कारिणि भृत्ये  
+भवत्य् आत्म-शब्दः  
+‘ममात्मा भद्रसेनः’ इति।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+आत्माविऩुडैय ऎल्ला कारियङ्गळैयुम् स\u0bc5य्वदाल् असेदऩmaऩ पिरदाऩत्तिऩिडत्तिलुम् आत्मा ऎऩ्ऱ सप्तम् इरुक्कलामे ऎऩ्ऱु सॊल्ललाम्।
+</details>
+
+<details><summary>English</summary>
+
+as, for instance, a king applies the word 'Self' to some servant who carries out all the king's intentions, 'Bhadrasena is my (other) Self.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथा राज्ञः सर्वार्थकारिणि भृत्ये भवत्यात्मशब्दः ‘ममात्मा भद्रसेनः’ इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रधानं हि पुरुषस्यात्मनो भोगापवर्गौ कुर्वद् उपकरोति,  
+राज्ञ इव भृत्यः सन्धि-विग्रहादिषु वर्तमानः।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+सेर्त्तुवैबbदु विरोदmaक्कुवदु मुदलियवैगळिल् ईडुबडुम् सेवगऩ् अरसऩुक्कु इरुबbदु पोल, आत्मावाऩ पुरुषऩुक्कु पोगम् मोक्षम् इरण्डैयुम् स\u0bc5य्दुवैत्तु पिरदाऩम् उबgारम् स\u0bc5य्गिऱदल्लवा?
+</details>
+
+<details><summary>English</summary>
+
+For the pradhāna, which effects the enjoyment and the emancipation of the soul, serves the latter in the same way as a minister serves his king in the affairs of peace and war.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रधानं हि पुरुषस्यात्मनो भोगापवर्गौ कुर्वदुपकरोति, राज्ञ इव भृत्यः सन्धिविग्रहादिषु वर्तमानः।
+</details>
+
+## अचेतनय् आत्म-शब्दः?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथवैक एवात्म-शब्दश्  
+चेतन-अचेतन-विषयो भविष्यति,  
+‘भूतात्मा’ ‘इन्द्रियात्मा’ इति च प्रयोग-दर्शनात्;
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अल्लदु, आत्मा ऎऩ्गिऱ ऒरेसप्तम् सेदऩ ऩैयुम् असेदऩत्तैयुम् विषयमुळ्ळदायिरुक्कलाम्, ‘पूदात्मा, इन्दिरियात्मा' ऎऩ्ऱु पिरयोगम् काणुवदाल्,
+</details>
+
+<details><summary>English</summary>
+
+Or else, it may be said, the one word 'Self' may refer to non-intelligent things as well as to intelligent beings, as we see that such expressions as 'the Self of the elements,' 'the Self of the senses,' are made use of,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथवैक एवात्मशब्दश्चेतनाचेतनविषयो भविष्यति, ‘भूतात्मा’ ‘इन्द्रियात्मा’ इति च प्रयोगदर्शनात्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथैक एव ज्योतिः-शब्दः क्रतु-ज्वलन-विषयः।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+'ज्यादिस्' ऎऩ्ऱ सप्तम् ऒऩ्ऱागवेयिरुन्दुम् यागत्तै (ज्यादिष्टोमत्तै)युम् अक्ऩियैयुम् विषयma युळ्ळदायिरुक्किऱदु ऎप्पडियो अप्पडि
+</details>
+
+<details><summary>English</summary>
+
+and as the one word 'light' (jyotis) denotes a certain sacrifice (the jyotishṭoma) as well as a flame.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथैक एव ज्योतिःशब्दः क्रतुज्वलनविषयः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र कुत एतद्-आत्म-शब्दाद्  
+ईक्षतेर् अगौणत्वम् 
+
+इत्य् अतः उत्तरं पठति —
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अव्विद मिरुबbदाल् आत्मा ऎऩ्ऱ सप्तमिरुबbदाल् पार्वै सॊल्लियिरुबbदऱ्कु कौणत्तऩ्मै इल्लैय\u0bc5ऩ्ऱु ऎप्पडि ऎप्पडि ऎऩ्बदऱ्कु पदिल् सu0bc5ल्गिऱार्-
+</details>
+
+<details><summary>English</summary>
+
+How then does it follow from the word 'Self' that the thinking (ascribed to the cause of the world) is not to be taken in a figurative sense? To this last argumentation the Sūtrakāra replies:
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र कुत एतदात्मशब्दादीक्षतेरगौणत्वमित्यत उत्तरं पठति —
+</details>
+
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -2756,13 +3032,156 @@ If, on the other hand, we refer the whole chapter to the intelligent Brahman, to
 अल्लदु, आत्मा ऎऩ्गिऱ ऒरेसप्तम् सेदऩ ऩैयुम् असेदऩत्तैयुम् विषयमुळ्ळदायिरुक्कलाम्, ‘पूदात्मा, इन्दिरियात्मा' ऎऩ्ऱु पिरयोगम् काणुवदाल्, 'ज्योदिस्' ऎऩ्ऱ सप्तम् ऒऩ्ऱागवेयिरुन्दुम् यागत्तै (ज्योदिष्टोमत्तै)युम् अक्ऩियैयुम् विषयमा युळ्ळदायिरुक्किऱदु ऎप्पडियो अप्पडि अव्विद मिरुप्पदाल् आत्मा ऎऩ्ऱ सप्तमिरुप्पदाल् पार्वै सॊल्लियिरुप्पदऱ्कु कौणत्तऩ्मै इल्लैयॆऩ्बदु ऎप्पडि ऎऩ्बदऱ्कु पदिल् सॊल्गिऱार्-
 </details>
 
-तन्निष्ठस्य मोक्षोपदेशात् ॥ ७ ॥  
+## मोक्षोपदेशः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन्-निष्ठस्य मोक्षोपदेशात् ॥ ७ ॥
+</details>
+
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 तन्निष्टस्य मोक्षोबदेसात्: ॥ ७ ॥
 </details>
 
-न प्रधानमचेतनमात्मशब्दालम्बनं भवितुमर्हति। ‘स आत्मा’ इति प्रकृतं सदणिमानमादाय, ‘तत्त्वमसि श्वेतकेतो’ इति चेतनस्य श्वेतकेतोर्मोक्षयितव्यस्य तन्निष्ठामुपदिश्य, ‘आचार्यवान्पुरुषो वेद तस्य तावदेव चिरं यावन्न विमोक्ष्येऽथ सम्पत्स्ये’ (छा. उ. ६। १४। २) इति मोक्षोपदेशात्। यदि ह्यचेतनं प्रधानं सच्छब्दवाच्यम् ‘तत् असि’ इति ग्राहयेत् मुमुक्षुं चेतनं सन्तमचेतनोऽसीति, तदा विपरीतवादि शास्त्रं पुरुषस्यानर्थायेत्यप्रमाणं स्यात्। न तु निर्दोषं शास्त्रमप्रमाणं कल्पयितुं युक्तम् ।
+<details><summary>English</summary>
+
+7. (The pradhāna cannot be designated by the term 'Self') because release is taught of him who takes his stand on that (the Sat).
+</details>
+
+<details><summary>मूलम्</summary>
+
+तन्निष्ठस्य मोक्षोपदेशात् ॥ ७ ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न प्रधानम् अचेतनम्  
+आत्म-शब्दालम्बनं भवितुम् अर्हति।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+असेदऩmaयुळ्ळ पिरदाऩम् आत्मा ऎऩ्ऱ सप्तत्तैत् तऴुविऩदाग इरुक्कमुडियादु;
+</details>
+
+<details><summary>English</summary>
+
+The non-intelligent pradhāna cannot be the object of the term 'Self'
+</details>
+
+<details><summary>मूलम्</summary>
+
+न प्रधानमचेतनमात्मशब्दालम्बनं भवितुमर्हति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘स आत्मा’ इति प्रकृतं सद्-अणिमानम् आदाय,  
+‘तत् त्वम् असि श्वेतकेतो’ इति चेतनस्य श्वेतकेतोर् मोक्षयितव्यस्य  
+तन्-निष्ठाम् उपदिश्य
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+'अदु आत्मा' ऎऩ्ऱु पिरगिरुदmaयुळ्ळ सूक्ष्मmaऩ सत् वस्तुवै ऎडुत्तुक्कॊण्डु ‘अदुवाय् नी इरुक्किऱाय् हे सुवेदगेदो' ऎऩ्ऱु विडुविक्क वेण्डियवऩाऩ सेदऩऩायुळ्ळ सुवेदगेदुविऱ्कु अदिल् निलैत् तिरुबbदै उबदेसितुविट्टु,
+</details>
+
+<details><summary>English</summary>
+
+because in the passage Cḥ. Up. VI, 2 ff., where the subtle Sat which is under discussion is at first referred to in the sentence, 'That is the Self,' and where the subsequent clause, 'That art thou, O Śvetaketu,' declares the intelligent Śvetaketu to have his abode in the Self,
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘स आत्मा’ इति प्रकृतं सदणिमानमात्मानमात्मशब्देनोपदिश्य, ‘तत्त्वमसि श्वेतकेतो’ इति चेतनस्य श्वेतकेतोर्मोक्षयितव्यस्य तन्निष्ठामुपदिश्य
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘आचार्यवान् पुरुषो वेद  
+तस्य तावद् एव चिरं  
+यावन् न विमोक्ष्ये ऽथ सम्पत्स्ये’  
+(छा. उ. ६। १४। २) 
+
+इति मोक्षोपदेशात्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+'आसार्यारै युडैय पुरुषऩ् अऱिवाऩ्। ऎदुवरै तेहत्तिलिरुन्दु विडुबडामलिरुक्किऱाऩो अदुवरैदाऩ् अवऩुक्कुत् तामदम् पिरारप्त कर्माविऩाल् एऱ्पट्ट सरीरत्तिलिरुन्दु विडुबट्टवुडऩेये सत्स्वरूबमाग आय्विडुगिऱाऩ्। (सा। ६-१४-२) ऎऩ्ऱु मोक्षत्तै उबदेसित्तिरुप्पदाल्।
+</details>
+
+<details><summary>English</summary>
+
+a passage subsequent to the two quoted (viz. 'a man who has a teacher obtains true knowledge; for him there is only delay as long as he is not delivered, then he will be perfect') declares final release.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘आचार्यवान्पुरुषो वेद तस्य तावदेव चिरं यावन्न विमोक्ष्येऽथ सम्पत्स्ये’ (छा. उ. ६। १४। २) इति मोक्षोपदेशात्।
+</details>
+
+### अप्रामाण्य-प्रसङ्गः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि ह्य् अचेतनं प्रधानं सच्-शब्द-वाच्यम्  
+‘तद् असि’ इति ग्राहयेत्  
+मुमुक्षुं चेतनं सन्तम् "अचेतनो ऽसी"ति,
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+'सत्' ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुम् असेदऩmaयुळ्ळ पिरदाऩत्तै ‘अदुवाय् नी इरुक्किऱाय्' ऎऩ्ऱु उबदेसिक्कुमाऩाल्, मोक्षत्तिल् विरुप्प मुळ्ळवऩाय् सेदऩऩाय् इरुप्पवऩै ‘असेदऩmaय् नी इरुक्किऱाय्' ऎऩ;ऱु उबदेसित्तदाग आगुम्।
+</details>
+
+<details><summary>English</summary>
+
+For if the non-intelligent pradhāna were denoted by the term 'Sat' and did comprehend--by means of the phrase 'That art thou'--persons desirous of final release who as such are intelligent, the meaning could only be 'Thou art non-intelligent;'
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि ह्यचेतनं प्रधानं सच्छब्दवाच्यम् ‘तत् असि’ इति ग्राहयेत् मुमुक्षुं चेतनं सन्तमचेतनोऽसीति,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदा विपरीत-वादि शास्त्रं  
+पुरुषस्यानर्थायेत्य् अप्रमाणं स्यात्।
+</details>
+
+
+<details><summary>English</summary>
+
+so that Scripture would virtually make contradictory statements to the disadvantage of man, and would thus cease to be a means of right knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदा विपरीतवादि शास्त्रं पुरुषस्यानर्थायेत्यप्रमाणं स्यात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न तु निर्दोषं शास्त्रम्  
+अप्रमाणं कल्पयितुं युक्तम्। +++(4)+++
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+ऎव्विद तोषमुमऱ्ऱ सास्तिरत्तै पिरमाणमऱ्ऱद\u0bc5ऩ्ऱु कल्बिप्पदु युक्तmagादु।
+</details>
+
+<details><summary>English</summary>
+
+But to assume that the faultless śāstra is not a means of right knowledge, would be contrary to reason.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न तु निर्दोषं शास्त्रमप्रमाणं कल्पयितुं युक्तम् ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -2774,28 +3193,554 @@ If, on the other hand, we refer the whole chapter to the intelligent Brahman, to
 'सत्' ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुम् असेदऩमायुळ्ळ पिरदाऩत्तै ‘अदुवाय् नी इरुक्किऱाय्' ऎऩ्ऱु उबदेसिक्कुमाऩाल्, मोक्षत्तिल् विरुप्प मुळ्ळवऩाय् सेदऩऩाय् इरुप्पवऩै ‘असेदऩमाय् नी इरुक्किऱाय्' ऎऩ;ऱु उबदेसित्तदाग आगुम्। अप्पॊऴुदु विबरीदमाग सॊल्लुम् सास्तिरम् पुरुषऩुडैय कॆडुदलुक्कागवे आऩदाल् अदु पिरमाणमऱ्ऱदाग आगिविडुम्। ऎव्विद तोषमुमऱ्ऱ सास्तिरत्तै पिरमाणमऱ्ऱदॆऩ्ऱु कल्बिप्पदु युक्तमागादु।
 </details>
 
-यदि चाज्ञस्य सतो मुमुक्षोरचेतनमनात्मानमात्मेत्युपदिशेत्प्रमाणभूतं शास्त्रम् , स श्रद्दधानतया अन्धगोलाङ्गूलन्यायेन तदात्मदृष्टिं न परित्यजेत् , तद्व्यतिरिक्तं चात्मानं न प्रतिपद्येत। तथा सति पुरुषार्थाद्विहन्येत, अनर्थं च ऋच्छेत्। तस्माद्यथा स्वर्गाद्यर्थिनोऽग्निहोत्रादिसाधनं यथाभूतमुपदिशति, तथा मुमुक्षोरपि ‘स आत्मा तत्त्वमसि श्वेतकेतो’ इति यथाभूतमेवात्मानमुपदिशतीति युक्तम्। एवं च सति तप्तपरशुग्रहणमोक्षदृष्टान्तेन सत्याभिसन्धस्य मोक्षोपदेश उपपद्यते ।
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि चाज्ञस्य सतो मुमुक्षोर्  
+अचेतनम् अनात्मानम् आत्मेत्य् उपदिशेत्  
+प्रमाण-भूतं शास्त्रम्,
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अऱिवऱ्ऱवऩायिरुक्कुम् मुमुक्षुविऱ्कु असेदऩ माऩ अनात्मावै आत्माव\u0bc5ऩ्ऱु पिरमाण मायिरुक्किऱ सास्तिरम् उबदेसिक्कुमाऩाल्,
+</details>
+
+<details><summary>English</summary>
+
+And if the śāstra, considered as a means of right knowledge, should point out to a man desirous of release, but ignorant of the way to it, a non-intelligent Self as the real Self,
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि चाज्ञस्य सतो मुमुक्षोरचेतनमनात्मानमात्मेत्युपदिशेत्प्रमाणभूतं शास्त्रम् ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स श्रद् दधानतया  
++++(ग्राम-प्राप्ति-काङ्क्ष्य्-)+++ अन्ध-गो-लाङ्गूल-+++(ग्रहण-भ्रामण-)+++न्यायेन  
+तद्-आत्म-दृष्टिं न परित्यजेत्,
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अवऩ् नम्बिक्कैयुळ्ळ वऩाऩदिऩाल्, कुरुडऩ् माट्टुवालैप् पिडितुक्कॊण् डाऩ\u0bc5ऩ्ऱ नियायप्पडि अदुवे आत्मा ऎऩ्ऱ ऎण्णत्तै विडमाट्टाऩ्।
+</details>
+
+<details><summary>English</summary>
+
+he would--comparable to the blind man who had caught hold of the ox's tail [^fn_100]--cling to the view of that being the Self,
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^fn_100]: 55:1 A wicked man meets in a forest a blind person who has lost his way, and implores him to lead him to his village; instead of doing so the wicked man persuades the blind one to catch hold of the tail of an ox, which he promises would lead him to his place. The consequence is that the blind man is, owing to his trustfulness, led even farther astray, and injured by the bushes, &c., through which the ox drags him.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स श्रद्दधानतया अन्धगोलाङ्गूलन्यायेन तदात्मदृष्टिं न परित्यजेत् ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-व्यतिरिक्तं चात्मानं न प्रतिपद्येत।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अदऱ्कु वेऱायुळ्ळ आत्मा वैयुम् अऱियmaट्टाऩ्;
+</details>
+
+<details><summary>English</summary>
+
+and thus never be able to reach the real Self different from the false Self pointed out to him;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्व्यतिरिक्तं चात्मानं न प्रतिपद्येत।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा सति पुरुषार्थाद् विहन्येत,  
+अनर्थं च ऋच्छेत्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अप्पडियिरबbदाल्, पुरुषार्त् तत्तिलिरुन्दु तडुक्कप्पट्टवऩावाऩ्, क\u0bc5डुदलैयुम् अडैवाऩ्।
+</details>
+
+<details><summary>English</summary>
+
+hence he would be debarred from what constitutes man's good, and would incur evil.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा सति पुरुषार्थाद्विहन्येत, अनर्थं च ऋच्छेत्।
+</details>
+
+#### स्वर्गादाव् इव प्रामाण्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माद्, यथा स्वर्गाद्य्-अर्थिनो ऽग्निहोत्रादि-साधनं यथाभूतम् उपदिशति,
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+आगैयाल् स्वर्क्कम् मुदलियदै विरुम्बुगिऱवऩुक्कु अक्ऩिहोत्रम् मुदलिय सादऩत्तै उळ्ळबडिये ऎप्पडि उबदेसिक्किऱदो,
+</details>
+
+<details><summary>English</summary>
+
+We must therefore conclude that, just as the śāstra teaches the agnihotra and similar performances in their true nature as means for those who are desirous of the heavenly world,
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्माद्यथा स्वर्गाद्यर्थिनोऽग्निहोत्रादिसाधनं यथाभूतमुपदिशति,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा मुमुक्षोर् अपि  
+
+> ‘स आत्मा - तत् त्वम् असि श्वेतकेतो’  
+
+इति यथा-भूतम् एवात्मानम् उपदिशतीति युक्तम्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अप्पडिये मुऴुक्षुविऱ्कुम् ‘अदु आत्मा; अदुवाय् नी इरुक्किऱाय्, हे सुवेदगेदो' ऎऩ्ऱु उळ्ळबडिये आत्मावै उबदेसिक्किऱदु ऎऩ्बदुदाऩ् न्यायम्।
+</details>
+
+<details><summary>English</summary>
+
+so the passage 'that is the Self, that art thou, O Śvetaketu,' teaches the Self in its true nature also.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा मुमुक्षोरपि ‘स आत्मा तत्त्वमसि श्वेतकेतो’ इति यथाभूतमेवात्मानमुपदिशतीति युक्तम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं च सति  
+तप्त-परशु-ग्रहण-मोक्ष-दृष्टान्तेन  
+सत्याभिसन्धस्य मोक्षोपदेश उपपद्यते।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+इप्पडियिरुन्दाल् ताऩ् पऴुक्कक् काय्च्चिऩ कोडालियैप् पिडितु विडुदलैल\u0bc5ऩ्ऱु तिरुष्टान्दत्तिऩाल् सत्यत्तिल् पिडिमाऩ मुळ्ळवऩुक्कु मोक्षत्तै उबदेसिप्पदु प\u0bcaरुत्तमागुम्।
+</details>
+
+<details><summary>English</summary>
+
+Only on that condition release for him whose thoughts are true can be taught by means of the simile in which the person to be released is compared to the man grasping the heated axe (Cḥ. Up. VI, 16).
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं च सति तप्तपरशुग्रहणमोक्षदृष्टान्तेन सत्याभिसन्धस्य मोक्षोपदेश उपपद्यते ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 अऱिवऱ्ऱवऩायिरुक्कुम् मुमुक्षुविऱ्कु असेदऩ माऩ अनात्मावै आत्मावॆऩ्ऱु पिरमाण मायिरुक्किऱ सास्तिरम् उबदेसिक्कुमाऩाल्, अवऩ् नम्बिक्कैयुळ्ळ वऩाऩदिऩाल्, कुरुडऩ् माट्टुवालैप् पिडित्तुक्कॊण् डाऩॆऩ्ऱ नियायप्पडि अदुवे आत्मा ऎऩ्ऱ ऎण्णत्तै विडमाट्टाऩ्। अदऱ्कु वेऱायुळ्ळ आत्मा वैयुम् अऱियमाट्टाऩ्; अप्पडियिरुप्पदाल्, पुरुषार्त् तत्तिलिरुन्दु तडुक्कप्पट्टवऩावाऩ्, कॆडुदलैयुम् अडैवाऩ्। आगैयाल् स्वर्क्कम् मुदलियदै विरुम्बुगिऱवऩुक्कु अक्ऩिहोत्रम् मुदलिय सादऩत्तै उळ्ळबडिये ऎप्पडि उबदेसिक्किऱदो, अप्पडिये मुऴुक्षुविऱ्कुम् ‘अदु आत्मा; अदुवाय् नी इरुक्किऱाय्, हे सुवेदगेदो' ऎऩ्ऱु उळ्ळबडिये आत्मावै उबदेसिक्किऱदु ऎऩ्बदुदाऩ् न्यायम्। इप्पडियिरुन्दाल् ताऩ् पऴुक्कक् काय्च्चिऩ कोडालियैप् पिडित्तु विडुदलैयॆऩ्ऱ तिरुष्टान्दत्तिऩाल् सत्यत्तिल् पिडिमाऩ मुळ्ळवऩुक्कु मोक्षत्तै उबदेसिप्पदु पॊरुत्तमागुम्।
 </details>
 
-अन्यथा ह्यमुख्ये सदात्मतत्त्वोपदेशे, ‘अहमुक्थमस्मीति विद्यात्’ (ऐ. आ. २। १। २। ६) इतिवत्सम्पन्मात्रमिदमनित्यफलं स्यात्। तत्र मोक्षोपदेशो नोपपद्येत। तस्मान्न सदणिमन्यात्मशब्दस्य गौणत्वम्। भृत्ये तु स्वामिभृत्यभेदस्य प्रत्यक्षत्वादुपपन्नो गौण आत्मशब्दः ‘ममात्मा भद्रसेनः’ इति। अपि च क्वचिद्गौणः शब्दो दृष्ट इति नैतावता शब्दप्रमाणकेऽर्थे गौणीकल्पना न्याय्या, सर्वत्रानाश्वासप्रसङ्गात् ।
+
+
+### अनित्यता-प्रसङ्गः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यथा ह्य् अमुख्ये सद्-आत्म-तत्त्वोपदेशे,  
+‘अहम् उक्थम् अस्मीति विद्यात्’ (ऐ. आ. २। १। २। ६) इतिवत्  
+सम्पन्-मात्रम् इदम् अनित्य-फलं स्यात्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+वेऱुविदmag सत्वस्तुवे आत्मा ऎऩ्ऱ तत्वत्तिऩ् उबदेसम् मुक्कियmaऩदिल्लैय\u0bc5ऩ्ऱाल्, 'नाऩ् उक्तmaय् इरुक्किऱेऩ् ऎऩ्ऱु अऱियवुम्' ऎऩ्बदैप्पोल इदु व\u0bc5ऱुम् 'सम्बत्’ताग इरुन्दु अनित् यmaऩ पलऩैयुडैयदाग आगिविडुम्।
+</details>
+
+<details><summary>English</summary>
+
+For in the other case, if the doctrine of the Sat constituting the Self had a secondary meaning only, the cognition founded on the passage 'that art thou' would be of the nature of a fanciful combination only [^fn_101], like the knowledge derived from the passage, 'I am the hymn' (Ait. Ār. II, 1, 2, 6), and would lead to a mere transitory reward;
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^fn_101]: 56:1 Cp. above, p. 30.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्यथा ह्यमुख्ये सदात्मतत्त्वोपदेशे, ‘अहमुक्थमस्मीति विद्यात्’ (ऐ. आ. २। १। २। ६) इतिवत्सम्पन्मात्रमिदमनित्यफलं स्यात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र मोक्षोपदेशो नोपपद्येत।
+</details>
+
+
+<details><summary>English</summary>
+
+so that the simile quoted could not convey the doctrine of release.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र मोक्षोपदेशो नोपपद्येत।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मान् न सद्-अणिमन्य् आत्म-शब्दस्य गौणत्वम्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+आगैयाल् सत्ताग सूक्ष्मmaयिरुबbदिल् ‘आत्मा’ ऎऩ्ऱ सप्तत्तिऱ्कु कौणत्तऩ्मै किडैयादु।
+</details>
+
+<details><summary>English</summary>
+
+Therefore the word 'Self' is applied to the subtle Sat not in a merely figurative sense.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मान्न सदणिमन्यात्मशब्दस्य गौणत्वम्।
+</details>
+
+### भृत्ये गौणप्रयोगः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भृत्ये तु स्वामि-भृत्य-भेदस्य प्रत्यक्षत्वाद्  
+उपपन्नो गौण आत्म-शब्दः ‘ममात्मा भद्रसेनः’ इति।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+सेवगऩ् विषयत्तिलो, यजmaऩऩ् सेवगऩ् ऎऩ्ऱ पेदम् पिरत्यक्षmaयिरुबbदाल् ‘पत्रसेऩऩ् ऎऩ् आत्मा' ऎऩ्ऱु आत्मा ऎऩ्गिऱ सप्तम् कौणम् ऎऩ्बदु प\u0bcaरुन्दुम्।
+</details>
+
+<details><summary>English</summary>
+
+In the case of the faithful servant, on the other hand, the word 'Self' can--in such phrases as 'Bhadrasena is my Self'--be taken in a figurative sense, because the difference between master and servant is well established by perception.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भृत्ये तु स्वामिभृत्यभेदस्य प्रत्यक्षत्वादुपपन्नो गौण आत्मशब्दः ‘ममात्मा भद्रसेनः’ इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च क्वचिद् गौणः शब्दो दृष्ट इति  
+नैतावता शब्द-प्रमाणके ऽर्थे  
+गौणी-कल्पना न्याय्या,  
+सर्वत्रानाश्वास-प्रसङ्गात्।+++(4)+++
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+मेलुम् एदो सिलविडङ्गळिल् कौणmag सप्तम् काणप्पडुगिऱदु ऎऩ्बदिऩाल् सप्तत्तै पिरमाणma युळ्ळ विषयत्तिल् कौणम् ऎऩ्ऱ कल्बऩै नियाय magादु, ऎल्लाविडत्तिलुम् तीर्माऩमऱ्ऱदागप् पोय्विडु maऩदिऩाल्।
+</details>
+
+<details><summary>English</summary>
+
+Moreover, to assume that, because words are sometimes seen to be used in figurative senses, a figurative sense may be resorted to in the case of those things also for which words (i.e. Vedic words) are the only means of knowledge, is altogether indefensible; for an assumption of that nature would lead to a general want of confidence.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि च क्वचिद्गौणः शब्दो दृष्ट इति नैतावता शब्दप्रमाणकेऽर्थे गौणीकल्पना न्याय्या, सर्वत्रानाश्वासप्रसङ्गात् ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 वेऱुविदमाग सत्वस्तुवे आत्मा ऎऩ्ऱ तत्वत्तिऩ् उबदेसम् मुक्कियमाऩदिल्लैयॆऩ्ऱाल्, 'नाऩ् उक्तमाय् इरुक्किऱेऩ् ऎऩ्ऱु अऱियवुम्' ऎऩ्बदैप्पोल इदु वॆऱुम् 'सम्बत्’ताग इरुन्दु अनित् यमाऩ पलऩैयुडैयदाग आगिविडुम्। अप्पॊऴुदु मोक्षत्तै उबदेसिप्पदु पॊरुन्दादु। आगैयाल् सत्ताग सूक्ष्ममायिरुप्पदिल् ‘आत्मा’ ऎऩ्ऱ सप्तत्तिऱ्कु कौणत्तऩ्मै किडैयादु। सेवगऩ् विषयत्तिलो, यजमाऩऩ् सेवगऩ् ऎऩ्ऱ पेदम् पिरत्यक्षमायिरुप्पदाल् ‘पत्रसेऩऩ् ऎऩ् आत्मा' ऎऩ्ऱु आत्मा ऎऩ्गिऱ सप्तम् कौणम् ऎऩ्बदु पॊरुन्दुम्। मेलुम् एदो सिलविडङ्गळिल् कौणमाग सप्तम् काणप्पडुगिऱदु ऎऩ्बदिऩाल् सप्तत्तै पिरमाणमा युळ्ळ विषयत्तिल् कौणम् ऎऩ्ऱ कल्बऩै नियाय मागादु, ऎल्लाविडत्तिलुम् तीर्माऩमऱ्ऱदागप् पोय्विडु माऩदिऩाल्।
 </details>
 
-यत्तूक्तं चेतनाचेतनयोः साधारण आत्मशब्दः, क्रतुज्वलनयोरिव ज्योतिःशब्द इति, तन्न। अनेकार्थत्वस्यान्याय्यत्वात्। तस्माच्चेतनविषय एव मुख्य आत्मशब्दश्चेतनत्वोपचाराद्भूतादिषु प्रयुज्यते — ‘भूतात्मा’ ‘इन्द्रियात्मा’ इति च। साधारणत्वेऽप्यात्मशब्दस्य न प्रकरणमुपपदं वा किञ्चिन्निश्चायकमन्तरेणान्यतरवृत्तिता निर्धारयितुं शक्यते। न चात्राचेतनस्य निश्चायकं किञ्चित्कारणमस्ति। प्रकृतं तु सदीक्षितृ, सन्निहितश्च चेतनः श्वेतकेतुः। न हि चेतनस्य श्वेतकेतोरचेतन आत्मा सम्भवतीत्यवोचाम ।
+
+
+### अचेतनय् आत्म-शब्दः 
+#### गौणः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् तूक्तं  
+चेतनाचेतनयोः साधारण आत्म-शब्दः,  
+क्रतु-ज्वलनयोर् इव ज्योतिः-शब्द इति,  
+तन् न -
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+ज्यादिस् ऎऩ्ऱ सप्तम् यागत्तिलुम् अक्ऩियिलुम् इरुबbदुबोल, आत्मा ऎऩ्ऱ सप्तमुम् सेदऩत्तिलुम् असेदऩत्तिलुम् प\u0bcaदुवायुळ्ळदु, ऎऩ्ऱु ऎदु सॊल्लप्पट्टदो, अदु सरियल्ल,
+</details>
+
+<details><summary>English</summary>
+
+The assertion that the word 'Self' may (primarily) signify what is non-intelligent as well as what is intelligent, just as the word 'jyotis' signifies a certain sacrifice as well as light, is inadmissible,
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्तूक्तं चेतनाचेतनयोः साधारण आत्मशब्दः, क्रतुज्वलनयोरिव ज्योतिःशब्द इति, तन्न।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनेकार्थत्वस्यान्याय्यत्वात्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+पल अर्त्तङ्गळै युडैयदु ऎऩ्बदु न्यायमिल्लाददिऩाल्।
+</details>
+
+<details><summary>English</summary>
+
+because we have no right to attribute to words a plurality of meanings.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनेकार्थत्वस्यान्याय्यत्वात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माच् चेतन-विषय एव मुख्य आत्म-शब्दश्  
+चेतनत्वोपचाराद् भूतादिषु प्रयुज्यते —  
+‘भूतात्मा’ ‘इन्द्रियात्मा’ इति च।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+आगैयाल्, सेदऩऩै विषयmaयुळ्ळ मुक्कियmaऩ आत्मा ऎऩ्गिऱ सप्तमे पूदङ्गळ् मुदलियवैगळिल् सेदऩत्तऩ् मैयुळ्ळदाग उबसारमाग पूदात्मा इन्दिरियात्मा ऎऩ्ऱु पिरयोगिक्कप्पडुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+Hence (we rather assume that) the word 'Self' in its primary meaning refers to what is intelligent only and is then, by a figurative attribution of intelligence, applied to the elements and the like also; whence such phrases as 'the Self of the elements,' 'the Self of the senses.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्माच्चेतनविषय एव मुख्य आत्मशब्दश्चेतनत्वोपचाराद्भूतादिषु प्रयुज्यते — ‘भूतात्मा’ ‘इन्द्रियात्मा’ इति च।
+</details>
+
+#### वृत्ति-व्यावर्तनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साधारणत्वे ऽप्य्  
+आत्म-शब्दस्य न प्रकरणम् उपपदं वा किञ्चिन् निश्चायकम् अन्तरेण  
+अन्यतर-वृत्तिता निर्धारयितुं शक्यते।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+आत्मा ऎऩ्ऱसप्तम् प\u0bcaदुवा यिरुन्दालुम् कूड, पिरगरणमो अडैमॊऴियो तीर्माऩित्तुक् कॊडुक्क वेऱु ऎदुवो इल्लादबओदु (पल अर्त्तङ्गळुक्कुळ्) एदेऩुम् ऒऩ्ऱैक् कुऱिक्कुम् तऩ्मैयुळ्ळद\u0bc5ऩ्ऱु तीर्माऩिक्क मुडियादु।
+</details>
+
+<details><summary>English</summary>
+
+And even if we assume that the word 'Self' primarily signifies both classes of beings, we are unable to settle in any special case which of the two meanings the word has, unless we are aided either by the general heading under which it stands, or some determinative attributive word.
+</details>
+
+<details><summary>मूलम्</summary>
+
+साधारणत्वेऽप्यात्मशब्दस्य न प्रकरणमुपपदं वा किञ्चिन्निश्चायकमन्तरेणान्यतरवृत्तिता निर्धारयितुं शक्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चात्राचेतनस्य निश्चायकं किञ्चित् कारणम् अस्ति।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+इङ्गेयो असेदऩम\u0bc5ऩ्ऱु तीर्माऩित्तुक् कॊडुक्कक्कूडिय कारणम् ऎदुवुम् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+But in the passage under discussion there is nothing to determine that the word refers to something non-intelligent,
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चात्राचेतनस्य निश्चायकं किञ्चित्कारणमस्ति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रकृतं तु सद् ईक्षितृ,  
+सन्निहितश् च चेतनः श्वेतकेतुः।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+पिरगिरुदmo पार्प्पदायुळ्ळ सत्वस्तु; ऎदिरिल् निऱ्पदो सेदऩऩाऩ सुवेदगेदु,
+</details>
+
+<details><summary>English</summary>
+
+while, on the other hand, the Sat distinguished by thought forms the general heading, and Śvetaketu, i.e. a being endowed with intelligence, is mentioned in close proximity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रकृतं तु सदीक्षितृ, सन्निहितश्च चेतनः श्वेतकेतुः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि चेतनस्य श्वेतकेतोर् अचेतन आत्मा सम्भवतीत्य् अवोचाम।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+सेदऩऩाऩ सुवेदगेदुविऱ्कु आत्मा असेदऩmaयिरादु ऎऩ्ऱु सॊऩ्ऩोम् अल्लवा?
+</details>
+
+<details><summary>English</summary>
+
+That a non-intelligent Self does not agree with Śvetaketu, who possesses intelligence, we have already shown.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि चेतनस्य श्वेतकेतोरचेतन आत्मा सम्भवतीत्यवोचाम ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 ज्योदिस् ऎऩ्ऱ सप्तम् यागत्तिलुम् अक्ऩियिलुम् इरुप्पदुबोल्, आत्मा ऎऩ्ऱ सप्तमुम् सेदऩत्तिलुम् असेदऩत्तिलुम् पॊदुवायुळ्ळदु, ऎऩ्ऱु ऎदु सॊल्लप्पट्टदो, अदु सरियल्ल, पल अर्त्तङ्गळै युडैयदु ऎऩ्बदु न्यायमिल्लाददिऩाल्। आगैयाल्, सेदऩऩै विषयमायुळ्ळ मुक्कियमाऩ आत्मा ऎऩ्गिऱ सप्तमे पूदङ्गळ् मुदलियवैगळिल् सेदऩत्तऩ् मैयुळ्ळदाग उबसारमाग पूदात्मा इन्दिरियात्मा ऎऩ्ऱु पिरयोगिक्कप्पडुगिऱदु। आत्मा ऎऩ्ऱसप्तम् पॊदुवा यिरुन्दालुम् कूड, पिरगरणमो अडैमॊऴियो तीर्माऩित्तुक् कॊडुक्क वेऱु ऎदुवो इल्लादबोदु (पल अर्त्तङ्गळुक्कुळ्) एदेऩुम् ऒऩ्ऱैक् कुऱिक्कुम् तऩ्मैयुळ्ळदॆऩ्ऱु तीर्माऩिक्क मुडियादु। इङ्गेयो असेदऩमॆऩ्ऱु तीर्माऩित्तुक् कॊडुक्कक्कूडिय कारणम् ऎदुवुम् इल्लै। पिरगिरुदमो पार्प्पदायुळ्ळ सत्वस्तु; ऎदिरिल् निऱ्पदो सेदऩऩाऩ सुवेदगेदु, सेदऩऩाऩ सुवेदगेदुविऱ्कु आत्मा असेदऩमायिरादु ऎऩ्ऱु सॊऩ्ऩोम् अल्लवा?
 </details>
 
-तस्माच्चेतनविषय इहात्मशब्द इति निश्चीयते। ज्योतिःशब्दोऽपि लौकिकेन प्रयोगेण ज्वलन एव रूढः, अर्थवादकल्पितेन तु ज्वलनसादृश्येन क्रतौ प्रवृत्त इत्यदृष्टान्तः। अथवा पूर्वसूत्र एवात्मशब्दं निरस्तसमस्तगौणत्वसाधारणत्वशङ्कतया व्याख्याय, ततः स्वतन्त्र एव प्रधानकारणनिराकरणहेतुर्व्याख्येयः — ‘तन्निष्ठस्य मोक्षोपदेशात्’ इति। तस्मान्नाचेतनं प्रधानं सच्छब्दवाच्यम् ॥ ७ ॥
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माच् चेतन-विषय इहात्म-शब्द इति निश्चीयते।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+आगैयाल् इङ्गेयुळ्ळ 'आत्मा' ऎऩ्ऱ सप्तम् सेदऩऩैye विषयmaयुळ्ळदु ऎऩ्ऱु निच्चयिक् कप्पडुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+All these circumstances determine the object of the word 'Self' here to be something intelligent.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्माच्चेतनविषय इहात्मशब्द इति निश्चीयते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्योतिः-शब्दो ऽपि लौकिकेन प्रयोगेण ज्वलन एव रूढः,  
+अर्थवाद-कल्पितेन तु ज्वलन-सादृश्येन क्रतौ प्रवृत्त इत्य् अदृष्टान्तः।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+ज्यादिस् ऎऩ्ऱ सप्तमुम् उलगत्तिलुळ्ळ पिरयोगत्तिऩाल् अक्ऩिय\u0bc5ऩ्ऱ अर्त्तत्तिलेये रूडmaयिरुबbदु अर्त्तवादत्तिऱ्काग कल्बिक्कप्पडुगिऱ अक्ऩियैबபோல்उळ्ळ तऩ्मैयाल् यागत्तिल् पिरविरुत् तिक्किऱदु ऎऩ्बदिऩाल् तिरुष्टान्दmagादु।
+</details>
+
+<details><summary>English</summary>
+
+The word 'jyotis' does moreover not furnish an appropriate example; for according to common use it has the settled meaning of 'light' only, and is used in the sense of sacrifice only on account of the arthavāda assuming a similarity (of the sacrifice) to light.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्योतिःशब्दोऽपि लौकिकेन प्रयोगेण ज्वलन एव रूढः, अर्थवादकल्पितेन तु ज्वलनसादृश्येन क्रतौ प्रवृत्त इत्यदृष्टान्तः।
+</details>
+
+
+### व्याख्यान्तरम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथवा पूर्व-सूत्रे एव  
+आत्म-शब्दं निरस्त-समस्त-गौणत्व-साधारणत्व-शङ्कतया व्याख्याय,
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अल्लदु मुन्दिऩ सूत्रत्तिलेये ऎल्ला कौणत्तऩ्मै प\u0bcaदुत्तऩ्मै ऎऩ्ऱ सन्देह मऩ्ऩियिल् आत्मा ऎऩ्ऱ सप्तत्तै वियाक्याऩम् स\u0bc5य्दुविट्टु,
+</details>
+
+<details><summary>English</summary>
+
+A different explanation of the Sūtra is also possible. The preceding Sūtra may be taken completely to refute all doubts as to the word 'Self' having a figurative or double sense,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथवा पूर्वसूत्र एवात्मशब्दं निरस्तसमस्तगौणत्वसाधारणत्वशङ्कतया व्याख्याय,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततः स्वतन्त्र एव प्रधान-कारण-निराकरण-हेतुर् व्याख्येयः — ‘तन्-निष्ठस्य मोक्षोपदेशात्’ इति।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+पिऱगु स्वदन्दिरमागवे ‘अदिल् निलैत्तिरुबbवऩुक्कु मोक्षम् उबदेसित्तिरुबbदाल्' ऎऩ्ऱु पिरदाऩम् कारणमिल्लैय\u0bc5ऩ्बदऱ्कु हेदुवाग वियाक्याऩम् स\u0bc5य्यवेण्डुम्।
+</details>
+
+<details><summary>English</summary>
+
+and then the present Sūtra is to be explained as containing an independent reason, proving that the doctrine of the pradhāna being the general cause is untenable.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततः स्वतन्त्र एव प्रधानकारणनिराकरणहेतुर्व्याख्येयः — ‘तन्निष्ठस्य मोक्षोपदेशात्’ इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मान् नाचेतनं प्रधानं सच्-शब्द-वाच्यम् ॥ ७ ॥
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+आगैयाल् 'सत्' ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप् पडुवदु असेदऩmaऩ पिरदाऩमिल्लै।
+</details>
+
+<details><summary>English</summary>
+
+Hence the non-intelligent pradhāna is not denoted by the word 'Self.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मान्नाचेतनं प्रधानं सच्छब्दवाच्यम् ॥ ७ ॥
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -2812,45 +3757,433 @@ If, on the other hand, we refer the whole chapter to the intelligent Brahman, to
 आगैयाल् 'सत्' ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप् पडुवदु असेदऩमाऩ पिरदाऩमिल्लै।
 </details>
 
-कुतश्च न प्रधानं सच्छब्दवाच्यम् ? —
+## हेयत्वावचनाच्च
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतश् च न प्रधानं सच्-शब्द-वाच्यम् ? —
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 इऩ्ऩुम् ऎदिऩाल् पिरदाऩम् सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुवदु इल्लै?-
 </details>
 
-हेयत्वावचनाच्च ॥ ८ ॥  
+<details><summary>English</summary>
+
+This the teacher now proceeds to prove by an additional reason.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कुतश्च न प्रधानं सच्छब्दवाच्यम् ? —
+</details>
+
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+इऩ्ऩुम् ऎदिऩाल् पिरदाऩम् सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुवदु इल्लै?-
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हेयत्वावचनाच् च ॥ ८ ॥
+</details>
+
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 हेयत्वावसनाच्च: ॥ ८ ॥
 </details>
 
-यद्यनात्मैव प्रधानं सच्छब्दवाच्यम् ‘स आत्मा तत्त्वमसि’ इतीहोपदिष्टं स्यात्; स तदुपदेशश्रवणादनात्मज्ञतया तन्निष्ठो मा भूदिति, मुख्यमात्मानमुपदिदिक्षु शास्त्रं तस्य हेयत्वं ब्रूयात्। यथारुन्धतीं दिदर्शयिषुस्तत्समीपस्थां स्थूलां ताराममुख्यां प्रथममरुन्धतीति ग्राहयित्वा, तां प्रत्याख्याय, पश्चादरुन्धतीमेव ग्राहयति; तद्वन्नायमात्मेति ब्रूयात्। न चैवमवोचत्। सन्मात्रात्मावगतिनिष्ठैव हि षष्ठप्रपाठकपरिसमाप्तिर्दृश्यते ।
+<details><summary>English</summary>
+
+8. And (the pradhāna cannot be denoted by the word 'Self') because there is no statement of its having to be set aside.
+</details>
+
+<details><summary>मूलम्</summary>
+
+हेयत्वावचनाच्च ॥ ८ ॥
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्य् अनात्मैव प्रधानं सच्-शब्द-वाच्यम्  
+‘स आत्मा तत् त्वम् असि’ इतीहोपदिष्टं स्यात्;
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+आत्मावल्लाद पिरदाऩमे सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पट्टदाय् ‘अदु आत्मा, अदुवाय् नी इरुक्किऱाय्' ऎऩ्ऱु इङ्गु उबदेसिक्कप् पट्टिरुक्कुमेयाऩाल्,
+</details>
+
+<details><summary>English</summary>
+
+If the pradhāna which is the Not-Self were denoted by the term 'Being' (Sat), and if the passage 'That is the Self, that art thou, O Śvetaketu,' referred to the pradhāna;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्यनात्मैव प्रधानं सच्छब्दवाच्यम् ‘स आत्मा तत्त्वमसि’ इतीहोपदिष्टं स्यात्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स तद्-उपदेश-श्रवणाद् अनात्मज्ञतया तन्-निष्ठो मा भूद् इति,  
+मुख्यम् आत्मानम् उपदिदिक्षु शास्त्रं  
+तस्य हेयत्वं ब्रूयात्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अन्द उबदेसत्तैक् केट्टवऩ् अनात्मक्ञऩाऩदाल् अदिलेये निलैत्तुविडक्कूडादु ऎऩ्ऱु, मुक्कियmaऩ आत्मावै उबदेसिक्क विरुम्बि, अदऩ् (पिरदाऩत्तिऩ्) तळ्ळिविड वेण्डिय तऩ्मैयै सॊल्लियिरुक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+the teacher whose wish it is to impart instruction about the true Brahman would subsequently declare that the pradhāna is to be set aside (and the true Brahman to be considered); for otherwise his pupil, having received the instruction about the pradhāna, might take his stand on the latter, looking upon it as the Non-Self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स तदुपदेशश्रवणादनात्मज्ञतया तन्निष्ठो मा भूदिति, मुख्यमात्मानमुपदिदिक्षु शास्त्रं तस्य हेयत्वं ब्रूयात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथारुन्धतीं दिदर्शयिषुस् तत्-समीप-स्थां स्थूलां ताराम् अमुख्यां  
+प्रथमम् अरुन्धतीति ग्राहयित्वा,
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अरुन्ददी नक्षत्तिरत्तैक् काट्ट निऩैबbवऩ् मुदलिल् अदऩ् समीबत्तिल् स्तूलmaयुळ्ळ मुक्कियमिल्लाद नक्षत्तिरत्तै अरुन्ददीय\u0bc5ऩ्ऱु अऱियुम्बडि स\u0bc5य्दुविट्टु,
+</details>
+
+<details><summary>English</summary>
+
+In ordinary life a man who wishes to point out to a friend the (small) star Arundhatī at first directs his attention to a big neighbouring star, saying 'that is Arundhatī,' although it is really not so;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथारुन्धतीं दिदर्शयिषुस्तत्समीपस्थां स्थूलां ताराममुख्यां प्रथममरुन्धतीति ग्राहयित्वा,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तां प्रत्याख्याय,  
+पश्चाद् अरुन्धतीम् एव ग्राहयति;
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+पिऩ्ऩाल् अदै ऎप्पडि मऱुत्तु अरुन्ददियैये अऱियच् च\u0bc5य्गिऱाऩो
+</details>
+
+<details><summary>English</summary>
+
+and thereupon he withdraws his first statement and points out the real Arundhatī.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तां प्रत्याख्याय, पश्चादरुन्धतीमेव ग्राहयति;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्वन् नायम् आत्मा इति ब्रूयात्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अदैबबोल इदु आत्मावल्ल ऎऩ्ऱु सॊल्लियिरुक् कवेण्डुम्।
+</details>
+
+<details><summary>English</summary>
+
+Analogously the teacher (if he intended to make his pupil understand the Self through the Non-Self) would in the end definitely state that the Self is not of the nature of the pradhāna.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्वन्नायमात्मेति ब्रूयात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चैवम् अवोचत्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अव्विदमो सॊल्लविल्लै।
+</details>
+
+<details><summary>English</summary>
+
+But no such statement is made;
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चैवमवोचत्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सन्-मात्र-आत्मावगति-निष्ठैव हि  
+षष्ठ-प्रपाठक-परिसमाप्तिर् दृश्यते।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+'सत्' मात्तिरमागिय आत्माविऩ् ञाऩत्तिल् निलैत्त तागवेयल्लवा आऱावदु पिरबाडगत्तिऩ् मुडिवु काणप्पडुगिऱदु?
+</details>
+
+<details><summary>English</summary>
+
+for the sixth Prapāṭḥaka arrives at a conclusion based on the view that the Self is nothing but that which is (the Sat).
+</details>
+
+<details><summary>मूलम्</summary>
+
+सन्मात्रात्मावगतिनिष्ठैव हि षष्ठप्रपाठकपरिसमाप्तिर्दृश्यते ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 आत्मावल्लाद पिरदाऩमे सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पट्टदाय् ‘अदु आत्मा, अदुवाय् नी इरुक्किऱाय्' ऎऩ्ऱु इङ्गु उबदेसिक्कप् पट्टिरुक्कुमेयाऩाल्, अन्द उबदेसत्तैक् केट्टवऩ् अनात्मक्ञऩाऩदाल् अदिलेये निलैत्तुविडक्कूडादु ऎऩ्ऱु, मुक्कियमाऩ आत्मावै उबदेसिक्क विरुम्बि, अदऩ् (पिरदाऩत्तिऩ्) तळ्ळिविड वेण्डिय तऩ्मैयै सॊल्लियिरुक्कुम्। अरुन्ददी नक्षत्तिरत्तैक् काट्ट निऩैप्पवऩ् मुदलिल् अदऩ् समीबत्तिल् स्तूलमायुळ्ळ मुक्कियमिल्लाद नक्षत्तिरत्तै अरुन्ददीयॆऩ्ऱु अऱियुम्बडि सॆय्दुविट्टु, पिऩ्ऩाल् अदै ऎप्पडि मऱुत्तु अरुन्ददियैये अऱियच् चॆय्गिऱाऩो अदैप् पोल इदु आत्मावल्ल ऎऩ्ऱु सॊल्लियिरुक् कवेण्डुम्। अव्विदमो सॊल्लविल्लै। 'सत्' मात्तिरमागिय आत्माविऩ् ञाऩत्तिल् निलैत्त तागवेयल्लवा आऱावदु पिरबाडगत्तिऩ् मुडिवु काणप्पडुगिऱदु?
 </details>
 
-चशब्दः प्रतिज्ञाविरोधाभ्युच्चयप्रदर्शनार्थः। सत्यपि हेयत्ववचने प्रतिज्ञाविरोधः प्रसज्येत। कारणविज्ञानाद्धि सर्वं विज्ञातमिति प्रतिज्ञातम् — ‘उत तमादेशमप्राक्ष्यो येनाश्रुतँ श्रुतं भवत्यमतं मतमविज्ञातं विज्ञातमिति; कथं नु भगवः स आदेशो भवतीति’ (छा. उ. ६। १। ३) ; ‘यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्याद्वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्’ (छा. उ. ६। १। ४) ‘एवं सोम्य स आदेशो भवति’ (छा. उ. ६। १। ६) इति वाक्योपक्रमे श्रवणात्। न च सच्छब्दवाच्ये प्रधाने भोग्यवर्गकारणे हेयत्वेनाहेयत्वेन वा विज्ञाते भोक्तृवर्गो विज्ञातो भवति, अप्रधानविकारत्वाद्भोक्तृवर्गस्य। तस्मान्न प्रधानं सच्छब्दवाच्यम् ॥ ८ ॥
+
+
+## प्रतिज्ञा-विरोधः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+च-शब्दः प्रतिज्ञा-विरोधाभ्युच्चय-प्रदर्शनार्थः।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+(सूत्तिरत्तिलुळ्ळ) ‘उम्’ ऎऩ्गिऱ सप्तम् पिरदिक्ञैक्कु विरोदम् ऎऩ्बदैयुम् सेर्त्तुक्क\u0bc5ळ्ळ वेण्डुम\u0bc5ऩ्बदिल् तात्पर्यमुळ्ळदु।
+</details>
+
+<details><summary>English</summary>
+
+The word 'and' (in the Sūtra) is meant to notify that the contradiction of a previous statement (which would be implied in the rejected interpretation) is an additional reason for the rejection.
+</details>
+
+<details><summary>मूलम्</summary>
+
+चशब्दः प्रतिज्ञाविरोधाभ्युच्चयप्रदर्शनार्थः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्य् अपि हेयत्व-वचने प्रतिज्ञा-विरोधः प्रसज्येत।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+तळ्ळवेण्डिय ताग वार्त्तैयिरुन्दालुम् पिरदिक्ञैक्कु विरोदम् एऱ्पडुम्।
+</details>
+
+<details><summary>English</summary>
+
+Such a contradiction would result even if it were stated that the pradhāna is to be set aside.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सत्यपि हेयत्ववचने प्रतिज्ञाविरोधः प्रसज्येत।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"कारण-विज्ञानाद् हि सर्वं विज्ञातम्" इति प्रतिज्ञातम् —
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+कारणत्तै अऱिवदिऩालल्लवा ऎल्लाम् अऱियप्पट्टदागिऱदु ऎऩ्ऱु पिरदिक्ञै स\u0bc5य्यप्पट्टदु?
+</details>
+
+<details><summary>English</summary>
+
+For in the beginning of the Prapāṭḥaka it is intimated that through the knowledge of the cause everything becomes known.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कारणविज्ञानाद्धि सर्वं विज्ञातमिति प्रतिज्ञातम् —
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘उत तम् आदेशम् अप्राक्ष्यो  
+येनाश्रुतँ श्रुतं भवत्य्  
+अमतं मतम्  
+अविज्ञातं विज्ञातम्  
+इति;  
+कथं नु भगवः स आदेशो भवतीति’ (छा. उ. ६। १। ३);
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+‘अप्पडियाऩाल् अन्द आदेसत्तैक्केट्टाया? ऎदिऩाल् केट्कप्पडाददु केट्कप्पट्टदाग आगुमो, निऩैक्कप् पडाददु निऩैक्कप्पट्टदागवुम्, अऱियप्पडाददु अऱियप्पट्टदागवुम् (आगुमो) ऎऩ्ऱु। हे bgवऩ् अन्द आदेसम् ऎप्पडियिरुक्कुम्?
+</details>
+
+<details><summary>English</summary>
+
+Compare the following consecutive sentences, 'Have you ever asked for that instruction by which we hear what cannot be heard, by which we perceive what cannot be perceived, by which we know what cannot be known? What is that instruction?
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘उत तमादेशमप्राक्ष्यो येनाश्रुतँ श्रुतं भवत्यमतं मतमविज्ञातं विज्ञातमिति; कथं नु भगवः स आदेशो भवतीति’ (छा. उ. ६। १। ३) ;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘यथा सोम्यैकेन मृत्-पिण्डेन सर्वं मृन्-मयं विज्ञातं स्याद्  
+वाचारम्भणं विकारो नामधेयं  
+मृत्तिकेत्य् एव सत्यम्’ (छा. उ. ६। १। ४)
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+हे सोम्य, ऎप्पडि ऒरु मण्गट्टियिऩाल् मण्णाल् स\u0bc5य्यप्पट्टदु ऎल्लाम् अऱियप्पट्टदाग आगिऱदो (अप्पडि) विगारम् ऎऩ्बदु व\u0bc5ऱुम् वाक्किऩाल् आरम्बिक्कप्पडुगिऱदु प\u0bc5यर्दाऩ्; मण् ऎऩ्बदुदाऩ् सत्यम्।
+</details>
+
+<details><summary>English</summary>
+
+As, my dear, by one clod of clay all that is made of clay is known, the modification (i.e. the effect) being a name merely which has its origin in speech, while the truth is that it is clay merely,'
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘यथा सोम्यैकेन मृत्पिण्डेन सर्वं मृन्मयं विज्ञातं स्याद्वाचारम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम्’ (छा. उ. ६। १। ४)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘एवं सोम्य स आदेशो भवति’ (छा. उ. ६। १। ६)  
+इति वाक्योपक्रमे श्रवणात्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+हे सोम्य, इव्विदम् अन्द आदेसम् इरुक्कुम् (सान्।६-१-१,३) ऎऩ्ऱु वाक्कियत्तिऩ् आरम्बत्तिल् सॊल्लप्पट्टिरुबbदाल्,
+</details>
+
+<details><summary>English</summary>
+
+'such, my dear, is that instruction,' is stated in the introductory part of the chapter.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘एवं सोम्य स आदेशो भवति’ (छा. उ. ६। १। ६) इति वाक्योपक्रमे श्रवणात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च सच्-छब्द-वाच्ये प्रधाने  
+भोग्य-वर्ग-कारणे हेयत्वेनाहेयत्वेन वा विज्ञाते  भोक्तृ-वर्गो विज्ञातो भवति,  
+अप्रधान-विकारत्वाद् भोक्तृ-वर्गस्य।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+पोक्यक्कूट्टत्तिऱ्कु कारणmaऩ पिरदाऩम् सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पट्टु तळ्ळवेण्डियd\u0bc5ऩ्ऱो तळ्ळवेण्डियdिल्लैय\u0bc5ऩ्ऱो अऱियप्पट्टालुम्गूड, पोक्ताक्कळिऩ् कूट्टम् अऱियप्पट्टदाग आगादु, पोक्ताक्कळिऩ् कूट्टम् पिरदाऩत्तिऩ् विगारमिल्लाद तिऩाल्।
+</details>
+
+<details><summary>English</summary>
+
+Now if the term 'Sat' denoted the pradhāna, which is merely the cause of the aggregate of the objects of enjoyment, its knowledge, whether to be set aside or not to be set aside, could never lead to the knowledge of the aggregate of enjoyers (souls), because the latter is not an effect of the pradhāna.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च सच्छब्दवाच्ये प्रधाने भोग्यवर्गकारणे हेयत्वेनाहेयत्वेन वा विज्ञाते भोक्तृवर्गो विज्ञातो भवति, अप्रधानविकारत्वाद्भोक्तृवर्गस्य।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मान् न प्रधानं सच्-शब्द-वाच्यम् ॥ ८ ॥
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अदिऩाल् पिरदाऩम् सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुवदु इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+Therefore the pradhāna is not denoted by the term 'Sat.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मान्न प्रधानं सच्छब्दवाच्यम् ॥ ८ ॥
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 (सूत्तिरत्तिलुळ्ळ) ‘उम्’ ऎऩ्गिऱ सप्तम् पिरदिक्ञैक्कु विरोदम् ऎऩ्बदैयुम् सेर्त्तुक्कॊळ्ळ वेण्डुमॆऩ्बदिल् तात्पर्यमुळ्ळदु। तळ्ळवेण्डिय ताग वार्त्तैयिरुन्दालुम् पिरदिक्ञैक्कु विरोदम् एऱ्पडुम्। कारणत्तै अऱिवदिऩालल्लवा ऎल्लाम् अऱियप्पट्टदागिऱदु ऎऩ्ऱु पिरदिक्ञै सॆय्यप्पट्टदु? ‘अप्पडियाऩाल् अन्द आदेसत्तैक्केट्टाया? ऎदिऩाल् केट्कप्पडाददु केट्कप्पट्टदाग आगुमो, निऩैक्कप् पडाददु निऩैक्कप्पट्टदागवुम्, अऱियप्पडाददु अऱियप्पट्टदागवुम् (आगुमो) ऎऩ्ऱु। हे पगवऩ् अन्द आदेसम् ऎप्पडियिरुक्कुम्? हे सोम्य, ऎप्पडि ऒरु मण्गट्टियिऩाल् मण्णाल् सॆय्यप्पट्टदु ऎल्लाम् अऱियप्पट्टदाग आगिऱदो (अप्पडि) विगारम् ऎऩ्बदु वॆऱुम् वाक्किऩाल् आरम्बिक्कप्पडुगिऱदु पॆयर्दाऩ्; मण् ऎऩ्बदुदाऩ् सत्यम्। हे सोम्य, इव्विदम् अन्द आदेसम् इरुक्कुम् (सान्।६-१-१,३) ऎऩ्ऱु वाक्कियत्तिऩ् आरम्बत्तिल् सॊल्लप्पट्टिरुप्पदाल्, पोक्यक्कूट्टत्तिऱ्कु कारणमाऩ पिरदाऩम् सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पट्टु तळ्ळवेण्डियदॆऩ्ऱो तळ्ळवेण्डियदिल्लैयॆऩ्ऱो अऱियप्पट्टालुम्गूड, पोक्ताक्कळिऩ् कूट्टम् अऱियप्पट्टदाग आगादु, पोक्ताक्कळिऩ् कूट्टम् पिरदाऩत्तिऩ् विगारमिल्लाद तिऩाल्। अदिऩाल् पिरदाऩम् सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुवदु इल्लै।
 </details>
 
-कुतश्च न प्रधानं सच्छब्दवाच्यम् ? —
+## स्वाप्यायात्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतश् च न प्रधानं सच्-शब्द-वाच्यम् ? —
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 इऩ्ऩुम् ऎदिऩाल् पिरदाऩम् सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुवदु इल्लै?
 </details>
 
-स्वाप्ययात् ॥ ९ ॥  
+<details><summary>English</summary>
+
+For this the Sūtrakāra gives a further reason.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कुतश्च न प्रधानं सच्छब्दवाच्यम् ? —
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वाप्ययात् ॥ ९ ॥
+</details>
+
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 स्वाप्ययात्: ॥ ९ ॥
 </details>
+
+<details><summary>English</summary>
+
+9. On account of (the individual Soul) going to the Self (the Self cannot be the pradhāna).
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वाप्ययात् ॥ ९ ॥
+</details>
+
+
+
 
 तदेव सच्छब्दवाच्यं कारणं प्रकृत्य श्रूयते — ‘यत्रैतत्पुरुषः स्वपिति नाम, सता सोम्य तदा सम्पन्नो भवति; स्वमपीतो भवति; तस्मादेनं स्वपितीत्याचक्षते; स्वं ह्यपीतो भवति’ (छा. उ. ६। ८। १) इति। एषा श्रुतिः स्वपितीत्येतत्पुरुषस्य लोकप्रसिद्धं नाम निर्वक्ति। स्वशब्देनेहात्मोच्यते। यः प्रकृतः सच्छब्दवाच्यस्तमपीतो भवत्यपिगतो भवतीत्यर्थः। अपिपूर्वस्यैतेर्लयार्थत्वं प्रसिद्धम् , प्रभवाप्ययावित्युत्पत्तिप्रलययोः प्रयोगदर्शनात् ।
 

@@ -108,6 +108,16 @@ Source: [TW](https://www.advaita-vedanta.org/archives/advaita-l/2019-April/05205
 किञ्चेदं पूर्वजन्मन्य् अपि स्यात्! This means that a non-sannyAsi can attain mukti - if he had done sannyAsa in a previous v1 male birth.
 
 
+भामत्यां च - 
+
+> एतदुक्तं भवति -  
+ब्रह्मपरतया सर्वेषणा-परित्याग-लक्षणो न्यासो ब्रह्मेति ।  
+तथा चेदृशं न्यासलक्षणं ब्रह्मसंस्थत्वं भिक्षोरेवासाधारणं नेतरेषामाश्रमिणाम् ।  
+ब्रह्मज्ञानस्य शब्दजनितस्य यः परिपाकः साक्षात्कारोऽपवर्गसाधनं तदङ्गतया पारिव्राज्यं विहितम् ।  
+न त्वनधिकृतं प्रतीत्यर्थः ॥२०
+
+per Bhāmatī, brahmaniṣṭhā is the sannyāsī's exclusive preserve. Therefore: jīvanmukti itself is restricted to sannyāsis alone, according to Bhāmatī's reading here.
+
 ## द्विज-जन्मापेक्षा
 सन्न्यासे द्विजानाम् एवाधिकारः।  
 अतः शूद्रस्यापि द्विज-जन्मापेक्षा ऽस्ति। 
