@@ -4185,14 +4185,276 @@ For this the Sūtrakāra gives a further reason.
 
 
 
-तदेव सच्छब्दवाच्यं कारणं प्रकृत्य श्रूयते — ‘यत्रैतत्पुरुषः स्वपिति नाम, सता सोम्य तदा सम्पन्नो भवति; स्वमपीतो भवति; तस्मादेनं स्वपितीत्याचक्षते; स्वं ह्यपीतो भवति’ (छा. उ. ६। ८। १) इति। एषा श्रुतिः स्वपितीत्येतत्पुरुषस्य लोकप्रसिद्धं नाम निर्वक्ति। स्वशब्देनेहात्मोच्यते। यः प्रकृतः सच्छब्दवाच्यस्तमपीतो भवत्यपिगतो भवतीत्यर्थः। अपिपूर्वस्यैतेर्लयार्थत्वं प्रसिद्धम् , प्रभवाप्ययावित्युत्पत्तिप्रलययोः प्रयोगदर्शनात् ।
+
+### स्वपिति
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् एव सच्-छब्द-वाच्यं कारणं प्रकृत्य श्रूयते —
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुम् अन्द कारण वस्तुवैप्पऱ्ऱिये सॊल्लप्पडुगिऱदु:
+</details>
+
+<details><summary>English</summary>
+
+With reference to the cause denoted by the word 'Sat,' Scripture says,
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदेव सच्छब्दवाच्यं कारणं प्रकृत्य श्रूयते —
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘यत्रैतत्-पुरुषः स्वपिति नाम,  
+सता सोम्य तदा सम्पन्नो भवति;  
+स्वम् अपीतो भवति;  
+तस्माद् एनं स्वपितीत्य् आचक्षते;  
+स्वं ह्य् अपीतो भवति’ (छा. उ. ६। ८। १) 
+
+इति।
+</details>
+
+<details><summary>English</summary>
+
+'When a man sleeps here, then, my dear, he becomes united with the Sat, he is gone to his own (Self). Therefore they say of him, "he sleeps" (svapiti), because he is gone to his own (svam apīta).' (Cḥ. Up. VI, 8, 1.)
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘यत्रैतत्पुरुषः स्वपिति नाम, सता सोम्य तदा सम्पन्नो भवति; स्वमपीतो भवति; तस्मादेनं स्वपितीत्याचक्षते; स्वं ह्यपीतो भवति’ (छा. उ. ६। ८। १) इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एषा श्रुतिः "स्वपिती"त्य् एतत्  
+पुरुषस्य लोक-प्रसिद्धं नाम निर्वक्ति।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+इन्द सुरुदि पुरुषऩुक्कु उलगत्तिल् पिरसित्तmaयुळ्ळ ‘स्वबिदि’ ऎऩ्ऱ इन्दप् प\u0bc5यरै निर्वसऩम् स\u0bc5य्गिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+This passage explains the well-known verb 'to sleep,' with reference to the soul.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एषा श्रुतिः स्वपितीत्येतत्पुरुषस्य लोकप्रसिद्धं नाम निर्वक्ति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-शब्देनेहात्मोच्यते।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+'स्वम्' (ताऩ्) ऎऩ्ऱ सप्तत्तिऩाल् इङ्गु आत्मा सॊल्लप्पडुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+The word, 'his own,' denotes the Self
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वशब्देनेहात्मोच्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यः प्रकृतः सच्-छब्द-वाच्यस्  
+तम् अपीतो भवत्य्  
+अपिगतो भवतीत्य् अर्थः।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+ऎवर् पिरगिरुदmaय् सत् सप्तत्तिऩाल् सॊल्लप्पडुगिऱारो, अवरै अडैन्दवऩाग आगिऱाऩ्, पुगुन्दवऩाग आगिऱाऩ् ऎऩ्ऱु अर्त्तम्।
+</details>
+
+<details><summary>English</summary>
+
+which had before been denoted by the word Sat; to the Self he (the individual soul) goes, i.e. into it it is resolved,
+</details>
+
+<details><summary>मूलम्</summary>
+
+यः प्रकृतः सच्छब्दवाच्यस्तमपीतो भवत्यपिगतो भवतीत्यर्थः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि-पूर्वस्येतेर् लयार्थत्वं प्रसिद्धम्,  
+प्रभवाप्ययाव् इत्य् उत्पत्ति-प्रलययोः प्रयोग-दर्शनात्।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+'अबि' ऎऩ्बदै मुऩ्ऩुळ्ळदाऩ 'ई' ऎऩ्गिऱ तादुविऱ्कु लयम् ऎऩ्गिऱ अर्त्तमुळ्ळदु पिरसित्तम्, 'पिरबवम् अप्ययम्' ऎऩ्ऱु उत्पत्ति पिरळयम् ऎऩ्ऱ अर्त्तत्तिल् पिरयोगम् काणुवदाल्।
+</details>
+
+<details><summary>English</summary>
+
+according to the acknowledged sense of api-i, which means 'to be resolved into.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपिपूर्वस्यैतेर्लयार्थत्वं प्रसिद्धम् , प्रभवाप्ययावित्युत्पत्तिप्रलययोः प्रयोगदर्शनात् ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुम् अन्द कारण वस्तुवैप्पऱ्ऱिये सॊल्लप्पडुगिऱदु: “ऎप्पॊऴुदु इव्विदम् पुरुषऩ् तूङ्गुगिऱाऩो अप्पॊऴुदु, हे सोम्य! सत्तुडऩ् सेर्न्दवऩा किऱाऩ्। तऩ्ऩै अडैन्दवऩाग आगिऱाऩ्। आगैयाल् इवऩै स्वबिदि (तूङ्गुगिऱाऩ्) ऎऩ्ऱु सॊल्गिऱार्गळ्, तऩ्ऩैयल्लवा अडैन्दवगै इरुक्किऱाऩ्” (सान् ६-८-१) ऎऩ्ऱु। इन्द सुरुदि पुरुषऩुक्कु उलगत्तिल् पिरसित्तमायुळ्ळ ‘स्वबिदि’ ऎऩ्ऱ इन्दप् पॆयरै निर्वसऩम् सॆय्गिऱदु। 'स्वम्' (ताऩ्) ऎऩ्ऱ सप्तत्तिऩाल् इङ्गु आत्मा सॊल्लप्पडुगिऱदु। ऎवर् पिरगिरुदमाय् सत् सप्तत्तिऩाल् सॊल्लप्पडुगिऱारो, अवरै अडैन्दवऩाग आगिऱाऩ्, पुगुन्दवऩाग आगिऱाऩ् ऎऩ्ऱु अर्त्तम्। 'अबि' ऎऩ्बदै मुऩ्ऩुळ्ळदाऩ 'ई' ऎऩ्गिऱ तादुविऱ्कु लयम् ऎऩ्गिऱ अर्त्तमुळ्ळदु पिरसित्तम्, 'पिरबवम् अप्ययम्' ऎऩ्ऱु उत्पत्ति पिरळयम् ऎऩ्ऱ अर्त्तत्तिल् पिरयोगम् काणुवदाल्।
 </details>
 
-मनःप्रचारोपाधिविशेषसम्बन्धादिन्द्रियार्थान्गृह्णंस्तद्विशेषापन्नो जीवो जागर्ति। तद्वासनाविशिष्टः स्वप्नान्पश्यन्मनःशब्दवाच्यो भवति। स उपाधिद्वयोपरमे सुषुप्तावस्थायामुपाधिकृतविशेषाभावात्स्वात्मनि प्रलीन इवेति ‘स्वं ह्यपीतो भवति’ (छा. उ. ६। ८। १) इत्युच्यते। यथा हृदयशब्दनिर्वचनं श्रुत्या दर्शितम् — ‘स वा एष आत्मा हृदि, तस्यैतदेव निरुक्तम् — हृद्ययमिति; तस्माद्धृदयमिति’ (छा. उ. ८। ३। ३) ; यथा वाशनायोदन्याशब्दप्रवृत्तिमूलं दर्शयति श्रुतिः — ‘आप एव तदशितं नयन्ते’ (छा. उ. ६। ८। ३) ‘तेज एव तत्पीतं नयते’ (छा. उ. ६। ८। ५) इति च। एवं स्वमात्मानं सच्छब्दवाच्यमपीतो भवति इतीममर्थं स्वपितिनामनिर्वचनेन दर्शयति ।
+
+
+### जागृतिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मनः-प्रचारोपाधि-विशेष-सम्बन्धाद्  
+इन्द्रियार्थान् गृह्णंस्  
+तद्-विशेषापन्नो जीवो जागर्ति।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+मऩदिऩुडैय पिरसारmagिय उबादि विसे षत्तिऩ् सेर्क्कैयिऩाल् इन्दिरियङ्गळुक्कु विषयmaयुळ्ळ वैगळै किरहिक्किऱवऩाय् अन्द विसेषत्तै यडैन्दवऩाय् जीवऩ् विऴित्तुक्कॊण्डिरुक्किऱाऩ्।
+</details>
+
+<details><summary>English</summary>
+
+The individual soul (jīva) is called awake as long as being connected with the various external objects by means of the modifications of the mind--which thus constitute limiting adjuncts of the soul--it apprehends those external objects, and identifies itself with the gross body, which is one of those external objects [^fn_102].
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^fn_102]: 59:1 So according to the commentators, not to accept whose guidance in the translation of scholastic definitions is rather hazardous. A simpler translation of the clause might however be given.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मनःप्रचारोपाधिविशेषसम्बन्धादिन्द्रियार्थान्गृह्णंस्तद्विशेषापन्नो जीवो जागर्ति।
+</details>
+
+### स्वप्नः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-वासना-विशिष्टः स्वप्नान् पश्यन्  
+मनः-शब्द-वाच्यो भवति।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अन्द वासऩैयुडऩ्गूडि स्वप्ऩत्तैप् पार्प्पदु मऩस् ऎऩ्ऱु सप्तत्तिऩाल् सॊल्लप्पडुवदाग आगिऩ्ऱदु।
+</details>
+
+<details><summary>English</summary>
+
+When, modified by the impressions which the external objects have left, it sees dreams, it is denoted by the term 'mind [^fn_103].'
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^fn_103]: 59:2 With reference to Cḥ. Up. VI, 8, 2.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्वासनाविशिष्टः स्वप्नान्पश्यन्मनःशब्दवाच्यो भवति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स उपाधि-द्वयोपरमे सुषुप्तावस्थायाम् उपाधिकृत-विशेषाभावात् स्वात्मनि प्रलीन इवेति ‘स्वं ह्य् अपीतो भवति’ इत्य् उच्यते।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+इरण्डु उबादिगळुम् ऒडुङ्गिय नल्ल तूक्कनिलैयिल् उबादिगळाल् स\u0bc5य्यप्पडुम् विसेष मिल्लाददिऩाल्, तऩ् आत्माविडत्तिल् लयमडैन्दु विट्टदुबोल 'तऩ्ऩै यल्लवा अडैन्दवऩाग आगिऱाऩ्' ऎऩ्ऱु सॊल्लप् पडुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+When, on the cessation of the two limiting adjuncts (i.e. the subtle and the gross bodies), and the consequent absence of the modifications due to the adjuncts, it is, in the state of deep sleep, merged in the Self as it were, then it is said to be asleep (resolved into the Self).
+</details>
+
+<details><summary>मूलम्</summary>
+
+स उपाधिद्वयोपरमे सुषुप्तावस्थायामुपाधिकृतविशेषाभावात्स्वात्मनि प्रलीन इवेति ‘स्वं ह्यपीतो भवति’ इत्युच्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा हृदय-शब्द-निर्वचनं श्रुत्या दर्शितम् — ‘स वा एष आत्मा हृदि, तस्यैतद् एव निरुक्तम् — हृद्य् अयम् इति; तस्माद् हृदयम् इति’ (छा. उ. ८। ३। ३);
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+“अन्द इन्द आत्मावे ह्रुदयत्तिल् अदऱ्कु इदुवे निर्वसऩम् ह्रुदि अयम् (ह्रुदयत्तिल् इवर्) ऎऩ्ऱु अदऩाल् ह्रुदयम् ऎऩ्ऱु" (सान्।८-३-३) ऎऩ्ऱु ऎप्पडि ह्रुदयम् ऎऩ्ऱ सप्तत्तिऱ्कु निर्वसऩम् वेदत्तिऩाल् काट्टप्पट्टु इरुक्किऱदो;
+</details>
+
+<details><summary>English</summary>
+
+A similar etymology of the word 'hr̥daya' is given by śruti, 'That Self abides in the heart. And this is the etymological explanation: he is in the heart (hr̥di ayam).' (Cḥ. Up. VIII, 3, 3.)
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथा हृदयशब्दनिर्वचनं श्रुत्या दर्शितम् — ‘स वा एष आत्मा हृदि, तस्यैतदेव निरुक्तम् — हृद्ययमिति; तस्माद्धृदयमिति’ (छा. उ. ८। ३। ३) ;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा वा अशनायोदन्या-शब्द-प्रवृत्ति-मूलं दर्शयति श्रुतिः — ‘आप एव तत् अशितं नयन्ते’ (छा. उ. ६। ८। ३) ‘तेज एव तत् पीतं नयते’ (छा. उ. ६। ८। ५) इति च।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अल्लदु “जलम्दाऩ् असिदमाऩ (साप्पिट्टदाऩ) अदैक् कॊण्डु पोगिऱदु। तेजस्ताऩ् पाऩम् स\u0bc5य्द अदैक्कॊण्डु पोगिऱदु" (सान्।६-८-३,५) ऎऩ्ऱु ऎप्पडि असनाया उदऩ्या ऎऩ्ऱ सप्तङ्गळिऩ् पिरविरुत्तिक्कुक् कारणत्तै सुरुदि काट्टुगिऱदो;
+</details>
+
+<details><summary>English</summary>
+
+The words aśanāya and udanyā are similarly etymologised: 'water is carrying away what has been eaten by him;' 'fire carries away what has been drunk by him' (Cḥ. Up. VI, 8, 3; 5).
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथा वाशनायोदन्याशब्दप्रवृत्तिमूलं दर्शयति श्रुतिः — ‘आप एव तदशितं नयन्ते’ (छा. उ. ६। ८। ३) ‘तेज एव तत्पीतं नयते’ (छा. उ. ६। ८। ५) इति च।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं स्वम् आत्मानं सच्-शब्द-वाच्यम् अपीतो भवति इतीमम् अर्थं स्वपिति-नाम-निर्वचनेन दर्शयति।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+इव्विदमे सत् सप्तत्तिऩाल् सॊल्लप्पडुगिऱ स्वम् (तऩ्) आत्मावै अबीदऩ् (अडैन्दवऩ्) आगिऱाऩ् ऎऩ्ऱु इन्द अर्त्तत्तै स्वबिदि ऎऩ्ऱ प\u0bc5यरै निर्वसऩम् पण्णुवदाल् काट्टुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+Thus the passage quoted above explains the resolution (of the soul) into the Self, denoted by the term 'Sat,' by means of the etymology of the word 'sleep.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं स्वमात्मानं सच्छब्दवाच्यमपीतो भवति इतीममर्थं स्वपितिनामनिर्वचनेन दर्शयति ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
