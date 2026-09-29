@@ -4378,7 +4378,9 @@ When, modified by the impressions which the external objects have left, it sees 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स उपाधि-द्वयोपरमे सुषुप्तावस्थायाम् उपाधिकृत-विशेषाभावात् स्वात्मनि प्रलीन इवेति ‘स्वं ह्य् अपीतो भवति’ इत्य् उच्यते।
+स उपाधि-द्वयोपरमे सुषुप्तावस्थायाम्  
+उपाधि-कृत-विशेषाभावात् स्वात्मनि प्रलीन इवेति  
+‘स्वं ह्य् अपीतो भवति’ इत्य् उच्यते।
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -4398,7 +4400,13 @@ When, on the cessation of the two limiting adjuncts (i.e. the subtle and the gro
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा हृदय-शब्द-निर्वचनं श्रुत्या दर्शितम् — ‘स वा एष आत्मा हृदि, तस्यैतद् एव निरुक्तम् — हृद्य् अयम् इति; तस्माद् हृदयम् इति’ (छा. उ. ८। ३। ३);
+यथा हृदय-शब्द-निर्वचनं श्रुत्या दर्शितम् —  
+
+> ‘स वा एष आत्मा हृदि,  
+तस्यैतद् एव निरुक्तम् —  
+हृद्य् अयम् इति;  
+तस्माद् हृदयम् इति’  
+(छा. उ. ८। ३। ३);
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -4418,7 +4426,12 @@ A similar etymology of the word 'hr̥daya' is given by śruti, 'That Self abides
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा वा अशनायोदन्या-शब्द-प्रवृत्ति-मूलं दर्शयति श्रुतिः — ‘आप एव तत् अशितं नयन्ते’ (छा. उ. ६। ८। ३) ‘तेज एव तत् पीतं नयते’ (छा. उ. ६। ८। ५) इति च।
+यथा वा अशनायोदन्या-शब्द-प्रवृत्ति-मूलं दर्शयति श्रुतिः — 
+
+> ‘आप एव तद् अशितं नयन्ते’ (छा. उ. ६। ८। ३)  
+> ‘तेज एव तत् पीतं नयते’ (छा. उ. ६। ८। ५) 
+
+इति च,
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -4438,7 +4451,11 @@ The words aśanāya and udanyā are similarly etymologised: 'water is carrying a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं स्वम् आत्मानं सच्-शब्द-वाच्यम् अपीतो भवति इतीमम् अर्थं स्वपिति-नाम-निर्वचनेन दर्शयति।
+एवं 
+
+> स्वम् आत्मानं सच्-शब्द-वाच्यम् अपीतो भवति  
+
+इतीमम् अर्थं स्वपिति-नाम-निर्वचनेन दर्शयति।
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -4466,7 +4483,118 @@ Thus the passage quoted above explains the resolution (of the soul) into the Sel
 “अन्द इन्द आत्मावे ह्रुदयत्तिल् अदऱ्कु इदुवे निर्वसऩम् ह्रुदि अयम् (ह्रुदयत्तिल् इवर्) ऎऩ्ऱु अदऩाल् ह्रुदयम् ऎऩ्ऱु" (सान्।८-३-३) ऎऩ्ऱु ऎप्पडि ह्रुदयम् ऎऩ्ऱ सप्तत्तिऱ्कु निर्वसऩम् वेदत्तिऩाल् काट्टप्पट्टु इरुक्किऱदो; अल्लदु “जलम्दाऩ् असिदमाऩ (साप्पिट्टदाऩ) अदैक् कॊण्डु पोगिऱदु। तेजस्ताऩ् पाऩम् सॆय्द अदैक्कॊण्डु पोगिऱदु" (सान्।६-८-३,५) ऎऩ्ऱु ऎप्पडि असनाया उदऩ्या ऎऩ्ऱ सप्तङ्गळिऩ् पिरविरुत्तिक्कुक् कारणत्तै सुरुदि काट्टुगिऱदो; इव्विदमे सत् सप्तत्तिऩाल् सॊल्लप्पडुगिऱ स्वम् (तऩ्) आत्मावै अबीदऩ् (अडैन्दवऩ्) आगिऱाऩ् ऎऩ्ऱु इन्द अर्त्तत्तै स्वबिदि ऎऩ्ऱ पॆयरै निर्वसऩम् पण्णुवदाल् काट्टुगिऱदु।
 </details>
 
-न च चेतन आत्मा अचेतनं प्रधानं स्वरूपत्वेन प्रतिपद्येत। यदि पुनः प्रधानमेवात्मीयत्वात्स्वशब्देनैवोच्येत, एवमपि चेतनोऽचेतनमप्येतीति विरुद्धमापद्येत। श्रुत्यन्तरं च — ‘प्राज्ञेनात्मना सम्परिष्वक्तो न बाह्यं किञ्चन वेद नान्तरम्’ (बृ. उ. ४। ३। २१) इति सुषुप्तावस्थायां चेतने अप्ययं दर्शयति। अतो यस्मिन्नप्ययः सर्वेषां चेतनानां तच्चेतनं सच्छब्दवाच्यं जगतः कारणम्, न प्रधानम् ॥ ९ ॥
+
+
+### अचेतनं न स्वरूपम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च चेतन आत्मा  
+अचेतनं प्रधानं स्वरूपत्वेन प्रतिपद्येत।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+मेलुम्, सेदऩमायुळ्ळ आत्मा असेदऩमायुळ्ळ पिरदाऩत्तै स्वरूबमाग अडैयादु।
+</details>
+
+<details><summary>English</summary>
+
+But the intelligent Self can clearly not resolve itself into the non-intelligent pradhāna.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च चेतन आत्मा अचेतनं प्रधानं स्वरूपत्वेन प्रतिपद्येत।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि पुनः प्रधानम् एवात्मीयत्वात् स्व-शब्देनैवोच्येत,
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+पिरदाऩमे आत्मावैच् चेर्न्ददायिरुप्पदाल् 'स्व' ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुगिऱदु ऎऩ्ऱाल्,
+</details>
+
+<details><summary>English</summary>
+
+If, again, it were said that the pradhāna is denoted by the word 'own,' because belonging to the Self (as being the Self's own),
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि पुनः प्रधानमेवात्मीयत्वात्स्वशब्देनैवोच्येत,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् अपि चेतनो ऽचेतनम् अप्य् एतीति विरुद्धम् आपद्येत।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+अप्पडियुम् सेदऩम् असेदऩत्तैयडैगिऱदु ऎऩ्ऱु विरुत्तमाग एऱ्पट्टुविडुम्।
+</details>
+
+<details><summary>English</summary>
+
+there would remain the same absurd statement as to an intelligent entity being resolved into a non-intelligent one.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवमपि चेतनोऽचेतनमप्येतीति विरुद्धमापद्येत।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रुत्यन्तरं च — 
+
+> ‘प्राज्ञेनात्मना सम्परिष्वक्तो  
+न बाह्यं किञ्चन वेद नान्तरम्’ (बृ. उ. ४। ३। २१)  
+
+इति सुषुप्तावस्थायां चेतनय् अप्ययं दर्शयति।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+वेऱु सुरुदियुम् 'पिराक्ञऩाऩ आत्माविऩाल् नऩ्गु आलिङ्गऩम् सॆय्दुगॊळ्ळप् पट्टवऩाग वॆळियिलुळ्ळदैयो उळ्ळेयुळ्ळ तैयो अऱिवदु इल्लै' (पिरुहत् ४-३-२१) ऎऩ्ऱु नल्ल तूक्क निलैयिल् सेदऩऩिल् ऒडुङ्गुवदै काट्टुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+Moreover another scriptural passage (viz. 'embraced by the intelligent--prājña Self he knows nothing that is without, nothing that is within,' Br̥. Up. IV, 3, 21) declares that the soul in the condition of dreamless sleep is resolved into an intelligent entity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रुत्यन्तरं च — ‘प्राज्ञेनात्मना सम्परिष्वक्तो न बाह्यं किञ्चन वेद नान्तरम्’ (बृ. उ. ४। ३। २१) इति सुषुप्तावस्थायां चेतने अप्ययं दर्शयति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो यस्मिन्न् अप्ययः सर्वेषां चेतनानां  
+तच् चेतनं सच्-शब्द-वाच्यं  
+जगतः कारणम्,  
+न प्रधानम् ॥ ९ ॥
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+आगैयाल् ऎदिऩिडत्तिल् ऎल्लाद सेदऩङ्गळुक्कुम् ऒडुङ्गुदलो, अदु सेदऩम्, सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुवदु, jagत्तिऱ्कुक् कारणम्; पिरदाऩम् अल्ल।
+</details>
+
+<details><summary>English</summary>
+
+Hence that into which all intelligent souls are resolved is an intelligent cause of the world, denoted by the word 'Sat,' and not the pradhāna.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतो यस्मिन्नप्ययः सर्वेषां चेतनानां तच्चेतनं सच्छब्दवाच्यं जगतः कारणम्, न प्रधानम् ॥ ९ ॥
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -4478,47 +4606,430 @@ Thus the passage quoted above explains the resolution (of the soul) into the Sel
 आगैयाल् ऎदिऩिडत्तिल् ऎल्लाद सेदऩङ् गळुक्कुम् ऒडुङ्गुदलो, अदु सेदऩम्, सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुवदु, जगत्तिऱ्कुक् कारणम्; पिरदाऩम् अल्ल।
 </details>
 
+## सर्वत्र चेतन-कारणोक्तिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतश् च न प्रधानं जगतः कारणम् ? —
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+वेऱु ऎदिऩाल् पिरदाऩम् जगतिऱ्कुक् कारणमिल्लै?-
+</details>
+
+<details><summary>English</summary>
+
+A further reason for the pradhāna not being the cause is subjoined.
+</details>
+
+<details><summary>मूलम्</summary>
+
 कुतश्च न प्रधानं जगतः कारणम् ? —
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गति-सामान्यात् ॥ १० ॥
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
-वेऱु ऎदिऩाल् पिरदाऩम् जगत्तिऱ्कुक् कारणमिल्लै?-
+गतिसामान्यात्: ॥ १० ॥
 </details>
 
-गतिसामान्यात् ॥ १० ॥  
+<details><summary>English</summary>
+
+10. On account of the uniformity of view (of the Vedānta-texts, Brahman is to be considered the cause).
+</details>
+
+<details><summary>मूलम्</summary>
+
+गतिसामान्यात् ॥ १० ॥
+</details>
+
+
+
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि तार्किक-समय इव  
+वेदान्तेष्व् अपि भिन्ना कारणावगतिर् अभविष्यत्,
+</details>
+
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
-कदिसामान्यात्: ॥ १० ॥
+तार्क्किगर्गळिऩ् मदत्तिल्बोल, उबनिषत्तुक् कळिलुम् सिल इडङ्गळिल् सेदऩmaऩ पिरह्मम् jagत्तिऱ्कुक् कारणम्, सिल इडङ्गळिल् असेदऩmaऩ पिरदाऩम्, सिल इडङ्गळिल् (अणु मुदलिय) मऱ्ऱवै, ऎऩ्ऱु कारण विषयmaऩ ञाऩम् व\u0bc5व्वेऱाग इरुक्कुमेयाऩाल्,
 </details>
 
-यदि तार्किकसमय इव वेदान्तेष्वपि भिन्ना कारणावगतिरभविष्यत् , क्वचिच्चेतनं ब्रह्म जगतः कारणम् , क्वचिदचेतनं प्रधानम् , क्वचिदन्यदेवेति। ततः कदाचित्प्रधानकारणवादानुरोधेनापीक्षत्यादिश्रवणमकल्पयिष्यत। न त्वेतदस्ति। समानैव हि सर्वेषु वेदान्तेषु चेतनकारणावगतिः ।
+<details><summary>English</summary>
 
+If, as in the argumentations of the logicians, so in the Vedānta-texts also, there were set forth different views concerning the nature of the cause,
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि तार्किकसमय इव वेदान्तेष्वपि भिन्ना कारणावगतिरभविष्यत् ,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्वचिच् चेतनं ब्रह्म जगतः कारणम्,  
+क्वचिद् अचेतनं प्रधानम्,  
+क्वचिद् अन्यद् एवेति।
+</details>
+
+
+<details><summary>English</summary>
+
+some of them favouring the theory of an intelligent Brahman being the cause of the world, others inclining towards the pradhāna doctrine, and others again tending in a different direction;
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्वचिच्चेतनं ब्रह्म जगतः कारणम् , क्वचिदचेतनं प्रधानम् , क्वचिदन्यदेवेति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततः कदाचित् प्रधान-कारण-वादानुरोधेनापि  
+ईक्षत्यादि-श्रवणम् अकल्पयिष्यत।
+</details>
+
+
+<details><summary>English</summary>
+
+then it might perhaps be possible to interpret such passages as those, which speak of the cause of the world as thinking, in such a manner as to make them fall in with the pradhāna theory.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततः कदाचित्प्रधानकारणवादानुरोधेनापीक्षत्यादिश्रवणमकल्पयिष्यत।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न न्व् एतद् अस्ति।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+आऩाल् अदुवो इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+But the stated condition is absent
+</details>
+
+<details><summary>मूलम्</summary>
+
+न त्वेतदस्ति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+समानैव हि सर्वेषु वेदान्तेषु चेतन-कारणावगतिः।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+ऎल्ला उबनिषत्तुक्कळिलुमे सेदऩत्तैक् कारणमाग अऱिवदुदाऩ् समाऩमाग इरुन्दुवरुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+since all the Vedānta-texts uniformly teach that the cause of the world is the intelligent Brahman.
+</details>
+
+<details><summary>मूलम्</summary>
+
+समानैव हि सर्वेषु वेदान्तेषु चेतनकारणावगतिः ।
+</details>
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 तार्क्किगर्गळिऩ् मदत्तिल्बोल, उबनिषत्तुक् कळिलुम् सिल इडङ्गळिल् सेदऩमाऩ पिरह्मम् जगत्तिऱ्कुक् कारणम्, सिल इडङ्गळिल् असेदऩमाऩ पिरदाऩम्, सिल इडङ्गळिल् (अणु मुदलिय) मऱ्ऱवै, ऎऩ्ऱु कारण विषयमाऩ ञाऩम् वॆव्वेऱाग इरुक्कुमेयाऩाल्, अप्पॊऴुदु ऒरुसमयम् पिरदाऩ तदै कारणमागच् चॊल्लियिरुप्पदै अऩुसरित्तुक् कूड 'पार्प्पदु, मुदलियदु सॊल्लप्पट्टिरुप्पदागक् कल्बिक्कलाम्; आऩाल् अदुवो इल्लै। ऎल्ला उबनिषत्तुक्कळिलुमे सेदऩत्तैक् कारणमाग अऱिवदुदाऩ् समाऩमाग इरुन्दुवरुगिऱदु।
 </details>
 
-‘यथाग्नेर्ज्वलतः सर्वा दिशो विस्फुलिङ्गा विप्रतिष्ठेरन्नेवमेवैतस्मादात्मनः सर्वे प्राणा यथायतनं विप्रतिष्ठन्ते प्राणेभ्यो देवा देवेभ्यो लोकाः’ (कौ. उ. ३। ३) इति, ‘तस्माद्वा एतस्मादात्मन आकाशः सम्भूतः’ (तै. उ. २। १। १) इति, ‘आत्मत एवेदं सर्वम्’ (छा. उ. ७। २६। १) इति, ‘आत्मन एष प्राणो जायते’ (प्र. उ. ३। ३) इति च आत्मनः कारणत्वं दर्शयन्ति सर्वे वेदान्ताः। आत्मशब्दश्च चेतनवचन इत्यवोचाम। महच्च प्रामाण्यकारणमेतत् , यद्वेदान्तवाक्यानां चेतनकारणत्वे समानगतित्वम् , चक्षुरादीनामिव रूपादिषु। अतो गतिसामान्यात्सर्वज्ञं ब्रह्म जगतः कारणम् ॥ १० ॥
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘यथा ऽग्नेर् ज्वलतः  
+सर्वा दिशो विस्फुलिङ्गा विप्रतिष्ठेरन्न्  
+एवम् एवैतस्माद् आत्मनः  
+सर्वे प्राणा यथाऽयतनं विप्रतिष्ठन्ते  
+प्राणेभ्यो देवा,  
+देवेभ्यो लोकाः’ (कौ. उ. ३। ३) 
+
+इति,
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+“ज्वलिक्किऱ अक्ऩियिलिरुन्दु पॊऱिगळ् ऎल्ला तिक्कुगळिलुम् किळम्बुवदु ऎप्पडियो, अप्पडिये इन्द आत्माविलिरुन्दु ऎल्ला इन्दिरियङ्गळुम् अददिऩ् इडत्तिल् किळम्बुगिऩ्ऱऩ इन्दिरियङ्गळुक्कुप् पिऱगु (अवैगळै अऩुग्रहिक्कुम्) तेवर्गळ्, तेवर्गळुक्कुप् पिऱगु (अवैगळिऩ् विषयmaयुळ्ळ) उलगङ्गळ्” (कौषीदगी ३-३) ऎऩ्ऱुम्,
+</details>
+
+<details><summary>English</summary>
+
+Compare, for instance, 'As from a burning fire sparks proceed in all directions, thus from that Self the prāṇas proceed each towards its place; from the prāṇas the gods, from the gods the worlds' (Kau. Up. III, 3).
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘यथाग्नेर्ज्वलतः सर्वा दिशो विस्फुलिङ्गा विप्रतिष्ठेरन्नेवमेवैतस्मादात्मनः सर्वे प्राणा यथायतनं विप्रतिष्ठन्ते प्राणेभ्यो देवा देवेभ्यो लोकाः’ (कौ. उ. ३। ३) इति,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘तस्माद् वा एतस्माद् आत्मन आकाशः सम्भूतः’ (तै. उ. २। १। १) 
+
+इति,
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+"अन्द इन्द आत्मावलिरुन्दे आगासम् उण्डायिऱ्ऱु" (तैत्तिरीय (२-१) ऎऩ्ऱुम्,
+</details>
+
+<details><summary>English</summary>
+
+And 'from that Self sprang ether' (Taitt. Up. II, 1).
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘तस्माद्वा एतस्मादात्मन आकाशः सम्भूतः’ (तै. उ. २। १। १) इति,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘आत्मत एवेदं सर्वम्’ (छा. उ. ७। २६। १) 
+
+इति,
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+"आत्माविलिरुन्दुदाऩ् इदु ऎल्लाम्” (सान्।७-२६-१) ऎऩ्ऱुम्,
+</details>
+
+<details><summary>English</summary>
+
+And 'all this springs from the Self' (Cḥ. Up. VII, 26, 1).
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘आत्मत एवेदं सर्वम्’ (छा. उ. ७। २६। १) इति,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘आत्मन एष प्राणो जायते’ (प्र. उ. ३। ३) 
+
+इति च  
+आत्मनः कारणत्वं दर्शयन्ति सर्वे वेदान्ताः।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+“आत्माविलिरुन्दुदाऩ् पिराणऩ् उण्डागिदु" (पिरच्ऩ।३-३) ऎऩ्ऱुम्, ऎल्ला उबनिषत्तुक्कळुम् आत्माविऱ्कुक् कारणत्तऩ्मैयैक् काट्टुगिऩ्ऱऩ।
+</details>
+
+<details><summary>English</summary>
+
+And 'this prāṇa is born from the Self' (Pr. Up. III, 3); all which passages declare the Self to be the cause.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘आत्मन एष प्राणो जायते’ (प्र. उ. ३। ३) इति च आत्मनः कारणत्वं दर्शयन्ति सर्वे वेदान्ताः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्म-शब्दश् च चेतन-वचन इत्य् अवोचाम।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+'आत्मा' ऎऩ्ऱ सप्तमो सेदऩत्तैच् चॊल्वदु ऎऩ्ऱु सॊल्लियिरुक्किऱोम्।
+</details>
+
+<details><summary>English</summary>
+
+That the word 'Self' denotes an intelligent being, we have already shown.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मशब्दश्च चेतनवचन इत्यवोचाम।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महच् च प्रामाण्य-कारणम् एतत् +++(वेदान्तस्य)+++,  
+यद् वेदान्त-वाक्यानां चेतन-कारणत्वे समान-गतित्वम्,  
+चक्षुर्-आदीनाम् इव रूपादिषु।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+वेदान्द वाक्कियङ्गळुक्कु सेदऩत्तैक् कारणमाय्च् चॊल्लुम् विषयत्तिल् समाऩмаऩ पोक्कु उळ्ळदु ऎदुवो, अदु पिरामाण्यत्तिऱ्कुप् प\u0bc5रिदाऩ कारणम्, कण् मुदलियवैगळुक्कु रूबम् मुदलियवैगळिल्बोल्।
+</details>
+
+<details><summary>English</summary>
+
+And that all the Vedānta-texts advocate the same view as to an intelligent cause of the world, greatly strengthens their claim to be considered a means of right knowledge, just as the corresponding claims of the senses are strengthened by their giving us information of a uniform character regarding colour and the like.
+</details>
+
+<details><summary>मूलम्</summary>
+
+महच्च प्रामाण्यकारणमेतत् , यद्वेदान्तवाक्यानां चेतनकारणत्वे समानगतित्वम् , चक्षुरादीनामिव रूपादिषु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो गति-सामान्यात्  
+सर्वज्ञं ब्रह्म जगतः कारणम् ॥ १० ॥
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+आगैयाल् पोक्कु समाऩmaयिरुबbदाल् सर्वक्ञmaऩ पिरह्ममे jagत्तिऱ्कुक्कारणम्।
+</details>
+
+<details><summary>English</summary>
+
+The all-knowing Brahman is therefore to be considered the cause of the world, 'on account of the uniformity of view (of the Vedānta-texts).'
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतो गतिसामान्यात्सर्वज्ञं ब्रह्म जगतः कारणम् ॥ १० ॥
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 “ज्वलिक्किऱ अक्ऩियिलिरुन्दु पॊऱिगळ् ऎल्ला तिक्कुगळिलुम् किळम्बुवदु ऎप्पडियो, अप्पडिये इन्द आत्माविलिरुन्दु ऎल्ला इन्दिरियङ्गळुम् अददिऩ् इडत्तिल् किळम्बुगिऩ्ऱऩ इन्दिरियङ्गळुक्कुप् पिऱगु (अवैगळै अऩुक्रहिक्कुम्) तेवर्गळ्, तेवर्गळुक्कुप् पिऱगु (अवैगळिऩ् विषयमायुळ्ळ) उलगङ्गळ्” (कौषीदगी ३-३) ऎऩ्ऱुम्, "अन्द इन्द आत्मावलिरुन्दे आगासम् उण्डायिऱ्ऱु" (तैत्तिरीय (२-१) ऎऩ्ऱुम्, "आत्माविलिरुन्दुदाऩ् इदु ऎल्लाम्” (सान्।७-२६-१) ऎऩ्ऱुम्, “आत्माविलिरुन्दुदाऩ् पिराणऩ् उण्डागिदु" (पिरच्ऩ।३-३) ऎऩ्ऱुम्, ऎल्ला उबनिषत्तुक्कळुम् आत्माविऱ्कुक् कारणत्तऩ्मैयैक् काट्टुगिऩ्ऱऩ। 'आत्मा' ऎऩ्ऱ सप्तमो सेदऩत्तैच् चॊल्वदु ऎऩ्ऱु सॊल्लियिरुक्किऱोम्। वेदान्द वाक्कियङ्गळुक्कु सेदऩत्तैक् कारणमाय्च् चॊल्लुम् विषयत्तिल् समाऩमाऩ पोक्कु उळ्ळदु ऎदुवो, अदु पिरामाण्यत्तिऱ्कुप् पॆरिदाऩ कारणम्, कण् मुदलियवैगळुक्कु रूबम् मुदलियवैगळिल्बोल्। आगैयाल् पोक्कु समाऩमायिरुप्पदाल् सर्वक्ञमाऩ पिरह्ममे जगत्तिऱ्कुक्कारणम्।
 </details>
 
-कुतश्च सर्वज्ञं ब्रह्म जगतः कारणम् ? —
+
+## श्रुतत्वात्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतश् च सर्वज्ञं ब्रह्म जगतः कारणम् ? —
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
-इऩ्ऩमुम् ऎदिऩाल् सर्वक्ञमाऩ पिरह्मम् जगत्तिऱ्कुक् कारणम्?-
+इऩ्ऩमुम् ऎदिऩाल् सर्वक्ञmaऩ पिरह्मम् jagत्तिऱ्कुक् कारणम्?-
 </details>
 
-श्रुतत्वाच्च ॥ ११ ॥  
+<details><summary>English</summary>
+
+A further reason for this conclusion is advanced.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कुतश्च सर्वज्ञं ब्रह्म जगतः कारणम् ? —
+</details>
+
+Sūtra 11:
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रुतत्वाच् च ॥ ११ ॥
+</details>
+
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 च्रुदत्वाच्च: ॥ ११ ॥
 </details>
 
-स्वशब्देनैव च सर्वज्ञ ईश्वरो जगतः कारणमिति श्रूयते,श्वेताश्वतराणां मन्त्रोपनिषदि सर्वज्ञमीश्वरं प्रकृत्य — ‘स कारणं करणाधिपाधिपो न चास्य कश्चिज्जनिता न चाधिपः’ (श्वे. उ. ६। ९) इति। तस्मात्सर्वज्ञं ब्रह्म जगतः कारणम् , नाचेतनं प्रधानमन्यद्वेति सिद्धम् ॥ ११ ॥
+<details><summary>English</summary>
+
+And because it is directly stated in Scripture (therefore the all-knowing Brahman is the cause of the world).
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रुतत्वाच्च ॥ ११ ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-शब्देनैव च  
+"सर्वज्ञ ईश्वरो जगतः कारणम्" इति श्रूयते,  
+श्वेताश्वतराणां मन्त्रोपनिषदि  
+सर्वज्ञम् ईश्वरं प्रकृत्य —
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+सुवेदासुवदरर्गळुडैय मन्दिरोबनिषत्तिल् सर्वक्ञऩाऩ ईसुवरऩैक्कुऱित्तु
+</details>
+
+<details><summary>English</summary>
+
+That the all-knowing Lord is the cause of the world, is also declared in a text directly referring to him (viz. the all-knowing one), viz. in the following passage of the mantropanishad of the Śvetāśvataras (VI, 9) where the word 'he' refers to the previously mentioned all-knowing Lord,
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वशब्देनैव च सर्वज्ञ ईश्वरो जगतः कारणमिति श्रूयते,श्वेताश्वतराणां मन्त्रोपनिषदि सर्वज्ञमीश्वरं प्रकृत्य —
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘स कारणं करणाधिपाधिपो  
+न चास्य कश्चिज् जनिता न चाधिपः’  
+(श्वे. उ. ६। ९) 
+
+इति।
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+‘अवर् कारणम्, इन्दिरियङ्गळुक्कु अदिबदिगळाऩ जीवर्गळुक्कु अदिबदि, इवरै उण्डubण्णुगिऱवऩुम् किडैयादु, इवरुक्कु अदिबदियुम् किडैयादु' (सुवेदा। ६-९) ऎऩ्ऱु तऩ् सप्तत्तिऩालेये सर्वक्ञऩाऩ ईसुवरऩ् jagत्तिऱ्कुक् कारणम्, ऎऩ्ऱु केट्कप्पडुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+'He is the cause, the lord of the lords of the organs, and there is of him neither parent nor lord.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘स कारणं करणाधिपाधिपो न चास्य कश्चिज्जनिता न चाधिपः’ (श्वे. उ. ६। ९) इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात्, सर्वज्ञं ब्रह्म जगतः कारणम्,  
+नाचेतनं प्रधानम् अन्यद् वेति सिद्धम् ॥ ११ ॥
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+
+आगैयाल् सर्वक्ञmaऩ पिरह्मम्दाऩ् jagत्तिऱ्कुक्कारणम् असेदऩmaऩ पिरदाऩमो वेऱुऎदुवो इल्लै, ऎऩ्बदु सित्तम्।
+</details>
+
+<details><summary>English</summary>
+
+It is therefore finally settled that the all-knowing Brahman is the general cause, not the non-intelligent pradhāna or anything else.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मात्सर्वज्ञं ब्रह्म जगतः कारणम् , नाचेतनं प्रधानमन्यद्वेति सिद्धम् ॥ ११ ॥
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
