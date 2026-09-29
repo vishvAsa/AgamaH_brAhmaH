@@ -12,7 +12,7 @@ bAdarAyaNa's originals (Thibaut's translation of S's bhAShyam) :
 1. Then therefore the enquiry into Brahman.
 2. (Brahman is that) from which the origin, &c. (i.e. the origin, subsistence, and dissolution) of this (world proceed).
 
-shankara admits that these sUtra-s define brahman as having certain attributes (not "nirvesheSha").
+shankara admits that these sUtra-s define brahman as having certain attributes and activities (not "nirvesheSha").
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
