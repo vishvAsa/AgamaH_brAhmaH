@@ -1,0 +1,48 @@
++++
+title = "God's Own Locksmith"
++++
+
+# God's Own Locksmith Lou Hawthorne
+
+Source: [TW](https://www.advaita.org.uk/discourses/teachers/locksmith_hawthorne.htm)
+
+Author: Lou Hawthorne
+
+Visit Lou Hawthorne's site to read the complete set of dispatches from the pilgrimage through India on motorcycle - [Hells Buddhas](http://www.hellsbuddhas.com/) as well as lots of other related information.
+
+(This beautiful story is a brilliant example of karma yoga. It was posted on a discussion list in 1996 and I recently posted it again on the Advaitin list. I was subsequently told about the site above from which is originated. I attempted to contact the author to obtain permission to include the story here but the email address given is no longer valid. If anyone knows Lou's current email address, would they please contact me so that I can formally ask permission - this is only the second time that I have included material without explicit permission. Since it has been circulating on lists since 1996, however, I assume it is ok!)
+
+It had been raining for the entire week we'd been in Auroville - located on the southeastern coast of India. This wouldn't have been so bad - despite the gray patina of mold covering my canvas shaving kit - if my rain gear were not locked in the rear center box on my bike, the key to which was lost with my fanny pack a week earlier. I very much wanted to explore the area, but each morning I faced the same dilemma: I could take my bike in search of a locksmith, but then I'd be riding in the rain - which I hate - without rain gear - which is worse. So I spent each day huddling under blankets in my cottage room at New Creation settlement, reading philosophy books I borrowed from Ravi.  
+  
+One morning I woke up with a great idea. I went out to the bike - which was parked under an overhang out of the rain - and unbolted the box from the frame. I carried the box and an umbrella around the settlement, asking if anyone knew a good locksmith. No one knew of one anywhere in Auroville, but several people said there was one in the open market in Pondicherry, a few kilometers south.  
+  
+I went by taxi from New Creation into Pondicherry, and just to confirm, I asked the driver, "Locksmith? Pondi?" After repeating these words several times with different emphasis - communication in India sometimes feels like trying to open a safe with only part of the combination - the driver replied, "Pondilocksmith?"  
+  
+"Yes yes!" I answered.  
+  
+"Main market you will find." That settled it. We drove in silence and parked near the market. The barefoot driver escorted me in the drizzle through winding alleys past small stalls selling fruit, flower garlands, pots & pans, raw meat, cosmetics, neat conical piles of colorful ground spices - everything you could possible want - for who would be so foolish as to want what is not available in the main market?  
+  
+I kept my eye out for a sign saying "Locksmith" - which I assumed would be hanging above one of the larger stalls, given the number of people who knew of the establishment. When the driver stopped and stood before a wet, bedraggled beggar sitting in the mud beneath a leaky three-foot square of thatch, I assumed he was pausing to offer a few paisa and accumulate a little merit. He just stood there however. I looked at him, and he nodded his head towards the beggar. Does he want me to give a few paisa? I looked down at the beggar - and did a doubletake as I realized that the filthy debris surrounding him was actually a set of rusty, mud-covered tools - and locks of every description: padlocks, bicycle locks, door locks - all as wet and rusty as he was. The can I thought was his begging bowl was filled with rusty keys, not coins, and a tiny rivulet of water was falling from the thatch directly into the can, and out through a hole in the side.  
+  
+Though the locksmith's face was like stone, his hands were a blur, hammering on a bicycle lock, flipping it this way and that - then oiling, screwing, testing - and abruptly handing it to a man standing over him, who quickly handed him a coin and slipped back into the crowd with his lock, good as new (unfortunately for India - probably better than new). I realized that several of the people I thought were just milling around were actually queued up for service, locks in hand; some were quite wet and had apparently been standing there awhile.  
+  
+My driver leaned over and mumbled something in the locksmith's ear. The locksmith looked at me with cool, rheumy eyes, water dripping off his short-cropped gray-black hair onto his dark sunken cheeks. I knew he didn't speak any English, so I just handed him my bike box, which he set on the ground in front of him with the lock pointed up. He stared at it carefully, as though he had never seen one before. "Swell," I thought, and glanced at the crowd - the queue I had just bypassed completely. Everyone was staring at the locksmith as if he was a chess master about to begin a game.  
+  
+The locksmith leaned over his can of keys - redirecting the rivulet of water down his naked neck - and began rooting through it. I briefly considered trying to convey to him that this box of mine was an expensive motorcycle accessory, and that there was no chance any of his rusty old keys would fit, but I decided it was less trouble just to let him fail. With a hint of a smile, he removed a key from his box, and sure enough it didn't fit my lock. I thought he might root around for another, but instead he began hammering on the key - both sides in order to flatten it. "The man's an idiot," I quickly decided - though I noticed that what I had thought was a muddy rock in front of him actually was a cast-iron anvil. He tried the key again - and this time it went in a little, but the whole approach was so half-assed that I felt a strong urge to just grab my box and leave right then, lest he damage the lock. Before I could, however, the locksmith pulled out a chisel and began hammering a groove - perfectly straight - the length of the key. It took just a few seconds, and this time - to my great surprise - when he tried the key it went all the way into the lock smoothly, though it refused to turn. He removed the key again and leaned close to the lock, staring deeply into the keyhole for several seconds with one eye.  
+  
+He looked up suddenly and barked a command in Tamil at a boy standing quite close. The boy jumped back and I realized he'd been blocking the man's light. The locksmith leaned over and peered into the keyhole again for several seconds, then took the key and placed it in a rusty vise off to his right - which I hadn't even noticed before. He ran his left thumb slowly along the edge of the key until he came to some invisible point, where he then made a notch with a wet, rusty file. He slid his thumb to another point and made a second notch. Then he pulled the key from the vise, slipped it into my lock, turned it...and opened my box.  
+  
+The locksmith looked at me coolly, with no hint of smugness - though he must have sensed my earlier doubts. I was dumbfounded. I shook my head and said, "I don't believe it" - which I kept repeating. I had just witnessed greater mastery of a craft than I had previously thought possible - performed by a man squatting in mud. I'd seen things before that I couldn't explain - for instance, the way Crazy George heated that boulder using just his hands - that's another story - but this was far more impressive. Crazy George was _trying_ to impress me. But the locksmith...  
+  
+As I looked into his eyes, "I don't believe it" became "thank-you" - over and over. My gratitude wasn't about the box or the rain gear - both of which I could have replaced without impact financially - but for a gift much more subtle and profound. Staring at the man I first thought a beggar, sitting half-naked in the mud, I now saw a light burning in his eyes - a light I'll never forget. I couldn't help smiling as I realized who - what - he was: an arahat - specifically an arahat of locks, polishing his soul by perfecting his craft; sitting in the rain, day after day, gazing within the lock itself for the secret of how to make the key. Like the people who cared for me at Anandashram, this locksmith was practicing a kind of Karma Yoga - the yoga of service to others. As I gushed like a fool, a slight smile appeared on his face. It was definitely not pride - the man was beyond the need for praise - but pleasure that he had solved my problem - and opened my mind just a bit.  
+  
+The driver leaned over and said, "Now you pay him 10 rupees." I certainly wanted to pay more, but I didn't want to insult him - as if this were just a job to him! - so I set a 10-rupee note and a 2-rupee coin on his anvil, took my box and backed away from him - the traditional, respectful way of withdrawing from a master's presence. The locksmith scooped the money into a hidden fold of his dhoti, nodded once in my direction, then turned immediately to the next customer in line, who handed him a fat, black padlock.  
+  
+As I worked my way back through the narrow, winding aisles of the market, clutching my box to my chest, I had only to glance at the key in the lock, glistening with raindrops, to remember that anything is possible with practice and faith.  
+  
+  
+_© Lou Hawthorne, 1996_ _, All Rights Reserved_
+
+Return to list of topics in [Discourses by Teachers and Writers ](https://www.advaita.org.uk/discourses/teachers/key_issues.htm).  
+See the list [sorted by Topic](https://www.advaita.org.uk/discourses/teachers/discourses_by_topic.htm).  
+See the list [sorted by Author](https://www.advaita.org.uk/discourses/teachers/discourses_by_author.htm).

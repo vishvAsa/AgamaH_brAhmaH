@@ -1,0 +1,3 @@
++++
+title = "'Sailor' Bob Adamson"
++++

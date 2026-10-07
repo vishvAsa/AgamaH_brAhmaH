@@ -1,0 +1,59 @@
++++
+title = "04 - Self Revealed, Part 4"
++++
+
+# Self Revealed, Part 4 Nome
+
+Source: [TW](https://www.advaita.org.uk/discourses/teachers/self4_nome.htm)
+
+Author: Nome
+
+[![](https://www.advaita.org.uk/images/self_knowledge_nome.jpg)](http://www.amazon.com/exec/obidos/ASIN/0974226610/fromtheunreat-20)
+
+Visit the [Society of Abidance in Truth](http://www.satramana.org/)
+
+Purchase Nome's book from [Amazon.com](http://www.amazon.com/exec/obidos/ASIN/0974226610/fromtheunreat-20).
+
+The following extract constitutes Part 4 of a chapter from the above book.
+
+Those who would know the Self by Knowledge cease to regard the senses as the measure of Reality and of the Self. This non-sensory Knowledge reveals the Self's freedom from the senses and sets one free of the limitations of the senses. Those who know that there is neither permanence of the senses nor happiness via them, who do not equate pleasure with happiness or pain with sorrow, but recognize that happiness and sorrow are determined by Knowledge of the Self and ignorance respectively, and who desire to experience the spiritual Truth beyond the senses, take recourse to the inquiry to know the Self. By such inquiry, the Knowledge that the Self is innately transcendent of the senses and not bound by the senses in any manner shines. The Knowledge of the Self is itself free from the limitations of the senses, as is the Self itself, and those who abide in this Knowledge remain unmoved by whatever happens to the senses. By the Knowledge of the Self, which is the Knowledge of Reality, one brings about the destruction of the foundations of the delusion of believing in the existence of an external world.
+
+The wise yogi knows that the senses do not and cannot provide happiness, that attachment to the senses or their objects is bondage, that the senses are neither bliss nor immortal, and that the purpose of life is not fulfilled by any kind of sensory experience. Such a one knows that Liberation is not any kind of sensory experience and that Realization is not a particular kind of sensation, not an increase of sensation, and not a decrease of sensation. One's freedom from the senses must be firm and natural for there to be Realization. This necessitates the Knowledge of the Self's transcendence of the senses.
+
+The Self is Infinite Consciousness, unchanging Being, perfectly full Bliss. Vast and space-like, formless and unconditioned, it is. Of immense, silent peace, ever-shining and motionless, it is. Within it, without actually occurring, there is imagined the realm of objective experience, manifesting as the world perceived by the five senses. There appear five kinds of senses with their corresponding kinds of sense objects. Within the realms of the senses, a great variety of sensations and an apparently uncountable number of sense objects arise. These are the sense experiences of living beings, which are differentiated from one another by means of misidentification with the body. Like the surface ripples and foam on the waves in the ocean of Consciousness, like clouds in the sky of pure Being, are the senses. The Self is Being-Consciousness. To confound the Self with any or all of the senses, in any way, is ignorance. Freedom from misidentification with the senses is Knowledge. Since Knowledge is Liberation, and since one seeks to know Reality and not create it, for it always is, therefore, one should discern clearly the Self, its innate freedom from the senses, and its free- dom from all the limitations of the senses.
+
+The Self is singular and indivisible Existence. The senses are multiple and divided. The senses themselves are objective, the known, just as the sense objects are. The Self is nonobjective, ever the knower, of the nature of Existence-Consciousness. So, how can the senses be considered to be the Self?
+
+The Self is changeless, continuous, permanent Existence. The senses are changeful, discontinuous, and impermanent. The senses are lost, dulled, or altered in death, old age, and illness. The senses change during the lifetime, from infancy until the end of the body. The senses are changing all the time, transforming into dull and acute states, subject as they are to the three guna-s.the qualities of tamas (inertia), rajas (agitation), sattva (tending toward the light of Knowledge). Each sense takes a turn being predominant and fades due to a change of the sense organ, the mental attention, and similar factors. The senses appear only in the waking state. With each state of mind, they change. Upon the death of the body, which is not the Self, the senses are lost entirely. Rarely are all the five senses active, or experienced, simultaneously, but Existence is always wholly present. The senses are just a momentary function. The Self is steady, self-existent Reality, permanent, and not a function of some other thing. It is Being and not a doing or activity. The Self is not determined by any conditions and is itself without any conditions whatsoever. The senses, though, are determined by conditions such as the condition of the sense organ, the environment, the experience of which is the result of the interaction of what appears to have become split in Consciousness---that is, the object and the instrument used to know it---and the mental attention given to or removed from the senses. From a higher view, in the one mind, all three mutable factors appear, determining the five sense experiences. Partless Existence, which is the Self, is beyond the changeful appearances in the mind. So, how can the senses be considered to be the Self?
+
+The senses are part of the body. The body is perceived only by the senses and has no reality apart from them. Each illusion depends on the other. Such illusion is like the painting of a wall that is painted on the wall depicted when the wall itself has not yet been built. The Self is bodiless and is not a part of the body or associated with a location in relation to a body, unlike the senses. So, how can the senses be considered to be the Self?
+
+The senses depend on the Self. The Self exists as it is, innately nondependent on the senses. This is the highest state of detachment. As pure Being, one is always detached from the senses and, thus, to the whole world.
+
+The Self is not the senses and is not experienced by the senses. The senses are capable of perceiving sense objects only, and the Self is not a material object. The sensory experience is only that of sensation, and not of a separate sense and object. The Self is not a sensation or a product of sensations. So, how can the senses be considered to be the Self?
+
+The Self is the eye of the eye, unseen by the eye. This Self, which is formless Being-Consciousness, cannot be sensed and does not have senses. It is not a sensing entity, conceived as a nexus of all the sensations, but ever unalloyed Consciousness. The Self is all-seeing but eyeless. In truth, the senses do not exist. They are only a figment of the mind, which is in the infinite Consciousness. Upon the substrate of the Self, which is Being- Consciousness, the senses, which are but the thought of them, appear. The sense objects do not separately exist, but appear only to and in the senses. The senses vanish, leaving the substrate un- affected and all alone. The substrate is Reality, which is immutable. There is no actual creation of the senses in that Consciousness. By this Knowledge, one remains identified as the Self and not misidentified with the senses, which are unreal. Let there be this steady Knowledge. May the unsensed Knowledge of the Self, free of all the limitations of the senses, abide.
+
+Those who yearn to go beyond the illusory boundary of life and death, who desire to be beyond the limitations of life, and who do not wish to suffer death clearly discriminate between Existence, or Consciousness, and prana, or life energy. "Prana" signifies the life-energy, that which seems to animate the body and the senses, without which they are inert. Prana in various combinations with the body, senses, and the mind is that which is responsible for the experiences called "physical" and "subtle." Without such animating energy, there is no bodily or sensory experience, for a corpse has no experience and its sense organs, though intact, are not animated and do not produce any experience. The result of inquiry to know the Self is abidance as pure Being-Consciousness, which transcends the animate and the inanimate, and which never dies, and this is abidance in the invariable state of the Self.
+
+As long as one is identified with the prana, there will be the differentiation of living and dead, and the one Being which ever is will appear veiled. When this misidentification is destroyed through Knowledge, this duality vanishes. Prana undergoes fluctuations from birth to death, in health and sickness, and varies according to lifestyle and activities. Being does not fluctuate. So, how could prana be equated with the Self?
+
+The animating prana is objective. It is something experienced and not the Consciousness that knows it. It is not being alive that enables one to be conscious, but Consciousness that knows the state of being alive. So, how could prana be equated with the Self?
+
+The life-energy seems to locate itself throughout the body. The Self is not located in a body or spatially in any manner. So, how could prana be equated with the Self?
+
+The prana functions, animating the body and the senses in various ways. The Self, which is Consciousness, remains as its witness. The Self is the immovable Reality of Existence and not a function. So, how could prana be equated with the Self?
+
+The prana does not remain eternally as it manifests, but, at some time, it is absorbed. It may be said to be absorbed into the great, universal prana, which in turn is absorbed in the Absolute. It may be said to be absorbed in the mind, which in turn is absorbed in the Absolute. The Self is itself the Absolute and is never absorbed into anything. That which actually exists always is. That which can be absorbed, or which has a beginning and an end, is an unreal appearance, and ultimately does not exist. The Self exists, and there is nothing else into which it can be absorbed. So, how could prana be equated with the Self?
+
+The prana depends upon the Self. The Self does not depend upon the prana. There are ways, such as those known by some yogis, to alter the prana or its functions. The Self is unalterable Being and immutable. One cannot modify Being, and one cannot stand apart from Being to attempt to modify it. So, how could prana be equated with the Self?
+
+The life energy is ultimately transient, whether viewed as one's individual bodily life-energy or as all the manifest life energy. The Self is that which is eternal. There is no time when one begins or ceases to exist. This Self, which is Absolute Being, ever is as it is. So, how could prana be equated with the Self?
+
+Therefore, the Self is not to be identified with the prana, the life-energy, and does not bear the prana as an attribute. The Self is free of prana and all that manifests due to prana. May there be this unwavering Knowledge. May there be this immortal Knowledge of the timeless Self and Liberation from the illusions of life and death. May this eternal Realization be.
+
+Go to [Part 1](https://www.advaita.org.uk/discourses/teachers/self1_nome.htm) of this chapter. Go to [Part 5](https://www.advaita.org.uk/discourses/teachers/self5_nome.htm).
+
+Return to list of topics in [Discourses by Teachers and Writers ](https://www.advaita.org.uk/discourses/teachers/key_issues.htm).  
+See the list [sorted by Topic](https://www.advaita.org.uk/discourses/teachers/discourses_by_topic.htm).  
+See the list [sorted by Author](https://www.advaita.org.uk/discourses/teachers/discourses_by_author.htm).

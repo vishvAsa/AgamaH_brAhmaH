@@ -1,0 +1,52 @@
++++
+title = "13 - The Fundamentals of the Bhakti Tradition in Hinduism Part XII"
++++
+
+# The Fundamentals of the Bhakti Tradition in Hinduism
+
+## Part XII: Ajamila Story from the Bhagavatam
+
+Source: [TW](https://www.advaita.org.uk/discourses/profvk/bhakti12_profvk.htm)
+
+Author: Professor V. Krishnamurthy
+
+by Professor V. Krishnamurthy
+
+Visit [ProfVK's website](http://www.krishnamurthys.com/profvk/index.html).
+
+[Part I](https://www.advaita.org.uk/discourses/profvk/bhakti1_profvk.htm) [Part II](https://www.advaita.org.uk/discourses/profvk/bhakti2_profvk.htm) [Part III](https://www.advaita.org.uk/discourses/profvk/bhakti3_profvk.htm) [Part IV](https://www.advaita.org.uk/discourses/profvk/bhakti4_profvk.htm) [Part V](https://www.advaita.org.uk/discourses/profvk/bhakti5_profvk.htm) [Part VI](https://www.advaita.org.uk/discourses/profvk/bhakti6_profvk.htm) [Part VII](https://www.advaita.org.uk/discourses/profvk/bhakti7_profvk.htm) [Part VIII](https://www.advaita.org.uk/discourses/profvk/bhakti8_profvk.htm) [Part IX](https://www.advaita.org.uk/discourses/profvk/bhakti9_profvk.htm) [Part X](https://www.advaita.org.uk/discourses/profvk/bhakti10_profvk.htm) [Part XI (i)](https://www.advaita.org.uk/discourses/profvk/bhakti11a_profvk.htm) [Part XI (ii)](https://www.advaita.org.uk/discourses/profvk/bhakti11b_profvk.htm)
+
+The completion of the topic of nAma-sankIrtana has to be done with the story of Ajamila (pronounced ajAmiLa) that occurs in the sixth skanda of _Srimad Bhagavatam_. Ajamila was once a very noble brahmin, performing his duties and prescribed rituals most sincerely and was also a good husband, good son and good father. Once, when he was in the forest gathering fuel wood for his rituals, he fell for a woman, heart and soul. Actually, the woman was one of very low morals. From that time onwards, he lived with her, abandoned his family and his own parents. He had ten children by her, made a living and supported this large family by blackmailing rich people, by cheating, fraud and gambling. He was particularly fond of the youngest child, Narayana, by name. The attachment to the child was so pronounced that whether he was eating, drinking, relaxing or working, he would always want Narayana to be by his side and partake of his food or participate in his enjoyment.
+
+When finally the call from Yama, the God of Death came, it came suddenly and in his agony he called his child to his side and cried, 'O Narayana, come to me and be with me.' The messengers of Yama who almost got him in their noose suddenly found from within his heart four well-clad beautiful angel-like figures preventing the messengers of Yama from discharging their duty. An intense conversation ensued between the messengers of Yama on the one side and the messengers of Narayana - because that is what they were - on the other side. The latter declared, 'This Ajamila, though he has forgotten his real divine nature, has pronounced the four-syllabled name of God, Narayana, at the time of death and by that very action has done the prAyascitta (repentance act) for all his sins. A thief of gold, a drinker of wine, a betrayer of a friend, a killer of a brahmin, one who commits adultery with the wife of his Guru, a killer of a woman or of a king, or of a cow or of his father - all these worst sinners have been declared to be absolved by the recitation of God's name because by that very act he becomes God's protégé and deserves to be under His care.'
+
+Not all the penitence-rituals of the scriptures can wash a man's sins off as much as the name Narayana can. Repentance acts only to purify past sins; it does not guarantee the non-commission of future sins or the non-repetition of the same acts for which the atonement-ritual was done. But taking God's name on the tongue will eradicate the vAsanA-s that are the causes of sinful acts and so the future actions and his entire character will change. There are rituals and rituals (for atonement and purification) of different degrees - easy ones for elementary sins and difficult ones for deeper sins. But as far as taking the Lord's name is concerned it is only one. The one name of God absolves and purifies sins of all kinds, small or large. Even when he has uttered the name without really intending to call the Supreme Lord, it purifies him just as wood is burnt by fire, irrespective of the intent.
+
+After all this explanation by the messengers of Vishnu, the messengers of Yama felt overpowered and they went back to their overlord. In the meantime Ajamila came back to his senses and remembered all the conversation that went on in the presence of his subtle body between the messengers. He was about to say something, when the messengers of Vishnu also disappeared. It was quite a while before he could take stock of the situation. Here he was, alive and kicking, by the mercy of God Narayana, whose name he had just taken on the point of death, not in remembrance of the Lord but in passionate affection of his child. If this single act of the utterance of a four-syllable word Narayana can make such a difference to life after death, what larger worlds of fullness and majesty may he not conquer by really leading a noble life of Dharma in the memory of the Lord? So thought Ajamila. And that very moment he renounced everything to which he was attached, went to Benares and engaged himself in austerities and meditation and in due time reached the abode of the Lord.
+
+In the meantime, the messengers of Yama went back to him and asked him whether there were other overlords in the universe who could contest him and prevent his own orders being carried out. They thought that nothing in the universe could come between the orders of Yama and their execution. Lord Yama replied, 'There is a Master of this Universe, who is the one that runs as an unseen thread through all this visible universe, who operates the Creation, Protection and Dissolution functions in the entire universe, whose orders not only I but the entire host of demi-gods like Indra, Varuna and others obey, who lives in the hearts of all living beings, without whose prompting nothing in this universe, moving or unmoving, can exist, and who is the Director of everything that happens. That is the Lord Narayana, the Transcendental Absolute. It is His emissaries that take care of Dharma throughout the Universe. The greatest Dharma in the whole world is the recitation of His name. Even a one-time uttering of the name of God removes the person from my noose. It does not matter whether he takes the name intentionally or not. People are more interested in elaborate prAyaScitta rituals and not in this simple cure for all ills, namely the recitation of names of God:
+
+_prAyaScittAny-aSeshAni tapaH karma AtmakAni vai /  
+yAni teshAm-aSeshANAM shrI kRshNAnusmaraNaM paraM //_
+
+'Therefore, my messengers, be warned that hereafter you should not go near any one who has taken the name of the Lord, particularly at the time of your calling on them!'
+
+The Lord Himself emphatically says in the _bhagavadgItA_ (VIII, 5-7):
+
+_He that has thought of Me alone, leaving his body comes forth to Me and enters into my Being. Doubt this not. But at the hour of Death, while laying off the body if one thinks of something else, he goes to what he looked for, because he has been in that mood all along. Therefore, Oh Arjuna, at all times, think of Me and fight (�mAm anusmara yudhya ca�)! Thou too, when your heart and mind are fixed on Me, shall surely come to Me._
+
+This then, is Krishna�s own verdict. Ajamila�s case is a rare case brought in to show the efficacy of the Lord�s name uttered even without intent. But the Lord Himself has said it in clear terms. The words �sadA tad-bhAva-bhAvitaH� (= he has been in that mood all along) have two things to say. One is that though theoretically it may be enough to utter the word at the last moment, in practice it will not be possible for you to think of the name at that moment if you have not been always in that mood. The second is that, the Lord Himself advises you to think of Him always � �at all times� is the word.
+
+This constant awareness of the Lord is the essence of the teaching of all of the religion of Hinduism. And note that the Lord adds �yudhya ca�, meaning, �also go and fight�. This was said to Arjuna. So he said, go and fight. To us, general laymen, the orders are: Constantly think of Me, but keep on doing your duties. Some schools of thought may emphasize only the �think� (anusmara) part � like the Bhakti schools �and some others may emphasize only the �yudhya� (go and fight, do your duty) part � like Bal Gangadhar Tilak and his school; however, it is important to do both, as is evident from the �ca� (=and) that the Lord has put in.
+
+The word �anusmara� has an important connotation. It means �think (of Me) incessantly, without interruption�. A Tamil poet, Paramjothi Munivar of the 17th century, in his work called _TiruvilaiyADar-purANam_ uses a characteristic expression for the equivalent of this: �ninaiyAmal ninaindu�, says he, meaning, �remembering without remembering�! How is this possible? How does one remember without remembering? The explanation comes from a modern writer of the 20th century, Ki VA Jagannathan. He says, 'If one forgets, he has to remember. If one does not forget the name of God ever, then there is no necessity to recall. Therefore he says it is really "remembering without recalling". This is the meaning of the word "anusmara" of the Lord. One does not forget and so one remembers it continuously!'
+
+It will be quite fitting to close these two sections on nAma-sankIrtana with the following verse in the _Tevaram_ of the Tamil Saint Appar:
+
+_That day on which one does not speak or think of Him who is the One that is rare to get, who is in the minds of the noble sould, who is the heart of the Vedas, who is atomic, the Unknown Core of Beings, the nectar and milk of salvation, the enlightening spirit, the Ruler of the Gods, the Lord Vishnu, the four-faced Brahma, the Fire, the Wind, th Water, the Earth � of the One who is the source of all these, the One who represents the subtle Space Element � of that Lord Nataraja of Chidambaram, that day shall be a day lost in one�s life._
+
+[Part XIII](https://www.advaita.org.uk/discourses/profvk/bhakti13_profvk.htm)
+
+[Return to Professor V Krishnamurthy main menu.](https://www.advaita.org.uk/discourses/profvk/profvk.htm)
+
+See [ProfVK's website](http://www.krishnamurthys.com/profvk/index.html) for many more articles.
