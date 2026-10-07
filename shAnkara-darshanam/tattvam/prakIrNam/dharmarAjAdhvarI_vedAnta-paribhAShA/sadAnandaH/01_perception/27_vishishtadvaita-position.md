@@ -46,6 +46,20 @@ The above criticism has a lot more bearing on the analysis of the Vedic statemen
 ### vAchArambhanam vikArO nAmadhEyam
 Before the statement was made, the Upanishad itself provides the justification for the rejection of the superimposed names and forms in order to see the identity by saying that an object is its cause itself in a different form – vAchArambhanam vikArO nAmadhEyam. The differences are only at the level of words or speech involving the attributes and not with regard to the substantives.+++(5)+++ 
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+There is no "rejection of the superimposed names and forms in order to see the identity by saying that an object is its cause itself in a different form". Rather, the identity is asserted despite transformations and associated names, without any scent of "rejecting" them. When one says "pot is mud", one is not "rejecting" potness. "Potness" of the pot is true, as is it's "mudness".
+
+> यथा सोम्यैकेन मृत्-पिण्डेन  
+सर्वं मृन्मयं विज्ञातँ स्यात् —  
+वाचा +++(→वागादिना हेतुना)+++ ऽऽरम्भणं,  
+विकारो +++(तन्-)+++नाम-धेयं +++(च)+++,  
++++(विकारोऽपि)+++ मृत्तिकेत्य् एव सत्यम् +++(न तु पूर्णतया पृथक्-पदार्थ इति)+++ ॥
+
+इति हि वर्तते। 
+</details>
+
+
 It is similar to the statement 'All ornaments in essence are the same and therefore the ring is the necklace', when referring to a gold ring and gold necklace. The attributes of the ring and the necklace are different and therefore the implied identity is not at that level. Deterministically, the ring is different from the necklace. Therefore, the identity is only at the substantive level??, since both are nothing but gold. 
 
 As Chitsukha stated, in verbal statements involving identity relations, the identity is implied only at the substantial level and not at the attributive level. The indeterminacy is inherent due to differences in the attributive knowledge. Therefore this criticism of the Advaitic position by Vedanta Deshika is also baseless.
