@@ -1,0 +1,30 @@
++++
+title = "52 - vyAvahArika vs. prAtibhAsika Pt. 1"
++++
+
+# Critical analysis of vedAnta paribhAShA Part LII Dr. K. Sadananda
+
+Source: [TW](https://www.advaita.org.uk/discourses/knowledge/vyavaharika_pt1.htm)
+
+## Part LII - vyAvahArika vs. prAtibhAsika Pt. 1
+
+Author: Dr. K. Sadananda — Critical analysis of vedAnta paribhAShA (Perception section).
+
+
+We would like to make a distinction between these two before we discuss other forms of pramANa, since VP talks about the perception of objects in dream.
+
+We can differentiate between Ishvara’s sRRiShTi (creation by the Lord) and the jIva’s sRRiShTi (creation by an individual). Creation by the Lord constitutes the macro cosmic world or ‘total mind’ and creation by an individual constitutes the ‘individual mind’ or micro cosmic world, respectively. The two can also be differentiated from an individual’s perspective as ‘it is there; therefore, I see it’ and ‘I see it; therefore, it is there’. In both cases there is a common theme: ‘I see it’, i.e. ‘it’ is established or its existence is established by my perception.
+
+This corresponds to the two ‘explanations’ for creation: sRRiShTi dRRiShTi and dRRiShTi sRRiShTi. vidyAraNya says in the Panchadasi that what is ‘out there’ is Ishvara’s sRRiShTi and what I experience (of what is there as well as what I project) is jIva’s sRRiShTi. Experience is at the subject level and what is ‘out there’ is the objective world of plurality, which is nothing but Ishvara’s sRRiShTi. We need to understand the interrelation between the two that plays a role in the perceptual process. Confusion often arises, which results in incorrect philosophical positions, if we do not separate the two entities involved in the perceptions.
+
+Let us examine the macroscopic universe. Ishvara is defined by all religions as ‘jagat kartA IshvaraH’, the creator of this entire universe or ‘The Cause’ for the whole universe, himself being a causeless cause or unborn (ajo nityaH shAsvatoyam purAno ..). Most religions stop with that description of the creator as pertaining to the intelligent cause for the universe. vedAnta goes one step further to define Ishvara as not only the intelligent cause or nimitta kAraNa, but also the material cause or upAdAna kAraNa as well. We thus have an improved definition for Ishvara as ‘jagat kAraNam IshvaraH’, where kAraNam or cause involves undifferentiable intelligent and material cause (abhinna nimitta upAdAna kAraNa). By defining the material cause of the universe as also Ishvara, and since a material cause has to pervade the effects (just as gold pervades the ornaments), vedAnta puts Ishvara not up in the sky but right here as the whole universe of objects.
+
+Thus, Ishvara pervades the universe as the very substantive for it. Ontologically, the cause and effects have different degrees of reality. Ishvara is sentient and world is insentient. With this, vedAnta provides a third definition for Ishvara, for the contemplative students: ‘sarva adhiShTAnam IshvaraH’, i.e. Ishvara forms the substantive for all the sentient and insentient entities in the universe.
+
+The implication of this in the perceptual process is very profound and is captured by advaita vedAnta. This forms the basis for objective knowledge as attributive knowledge, since the substantive for all objects is Ishvara, who is imperceptible. Because Ishvara (Brahman) is the substantive and since the senses cannot gather substantives, all objective knowledge can only be attributive knowledge. Because we only have non-substantive or attributive knowledge of objects, errors in perception can also occur at an individual level due to the incomplete attributive knowledge gathered by the senses due to adventitious defects, such as poor illumination, etc. Because of the lack of substantive knowledge by the senses, the fundamental error that ‘what I see (the world of objects) is real’ also occurs. Even at a relative level, errors in perception occur for the same reason. I take for granted that the silver that I see is real, based upon the attributive silveriness gathered and due to lack of the substantive knowledge of nacre. Thus, the errors at both the relative and absolute levels are due to lack of substantive knowledge of the object.
+
+In addition, Ishvara being the substantive for all objects, objects do not have any substance of their own. They also lack inherent qualities that would defines them uniquely and precisely as their svarUpa lakshaNam (necessary and sufficient qualifications that define an object uniquely to differentiate it from the rest of the objects in the universe). They are only names for forms or attributive content. For the objects constituting the universe, the attributes that differentiate one object from another also come as part of their creation, starting from the primordial cause – mAyA. The blueprints for the creation of the universe of objects are provided by the karmas of jIva-s in the previous cycle; and, for the previous cycle, the cycle before that. Thus the creation becomes beginningless. mAyA is defined as the force which causes one to appear as many, with each apparent object differentiable from others by its attributive content.
+
+Any force is always defined or recognized only by its effect, as illustrated by Newton’s Laws of Motion. For example, Newton defines a force as that which causes an object to move from its state of rest or that which changes the magnitude or direction of a moving object. Conversely, the force is recognized or defined by the changes in the movement of an object. Similarly, mAyA is defined that which causes one to appear as many, the metaphor being gold appearing as many ornaments. The locus for this force is Ishvara, himself. Thus, vedAnta provides the definition for mAyA as prakRRiti projecting the world of plurality of movables and immovables, starting from one, under the direction of Ishvara. Thus, Ishvara’s sRRiShTi at the absolute level is nothing but Ishvara himself appearing as many objects, with varieties of attributive content.
+
+Proceed to the [next essay](https://www.advaita.org.uk/discourses/knowledge/vyavaharika_pt2.htm).

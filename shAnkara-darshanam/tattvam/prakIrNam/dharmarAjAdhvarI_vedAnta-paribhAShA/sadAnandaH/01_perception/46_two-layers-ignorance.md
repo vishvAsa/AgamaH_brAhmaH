@@ -1,0 +1,50 @@
++++
+title = "46 - Two Layers of Ignorance"
++++
+
+# Critical analysis of vedAnta paribhAShA Part XXXXVI Dr. K. Sadananda
+
+Source: [TW](https://www.advaita.org.uk/discourses/knowledge/two_layers.htm)
+
+## Part XXXXVI - Two layers of ignorance
+
+Author: Dr. K. Sadananda — Critical analysis of vedAnta paribhAShA (Perception section).
+
+
+We have been addressing the situation in which silver is perceived where there is actually nacre, because of the ‘silveriness’ observed by the senses.
+
+VP says there are two types of transformations that occur in the perception of any object by a subject knower. One transformation is at the level of the object or prameya, and the other is at the level of the subject or pramAta. That there is an object ‘out there’ is mithyA, since the substantive of any object according to vedAnta is Brahman (sarvaM khalvidam brahma). Brahman is formless and attribute-less, while the object has a form with other attributes. What is perceived, then, is only a form with a name, and is mithyA.
+
+The vRRitti that is formed is known as a result of being illumined by the witnessing consciousness when the perceptuality conditions are met; i.e. when the subject-consciousness is united with the object-existence in the form of the vRRitti. By this process, not just existence but consciousness-existence forms the substantive of the vRRitti. Since consciousness is the basis for knowledge, the ‘this’ that is related to the object-vRRitti now (as though) abides in the consciousness-existence of sAkshI. A further identification of the object as ‘this is silver’ occurs due to the attributive content of silveriness in the vRRitti that is formed. The cognition of that knowledge, in the form ‘I know this is silver’, also follows.
+
+Effectively, a mithyA object out there is transformed by the perceptual process into a mithyA object in the limiting consciousness. Hence ontologically, the object ‘silver’ out there is now in tandem with the object ‘silver-awareness’ in the mind, since in both cases the substantives are not known. The transformation that preserves the ontological status of cause and the effect is called pariNAma. The substantive for the outside silver is Brahman as per vedAnta, and the substantive for the object ‘this’ inside the mind is the limiting consciousness due to the perceptuality requirement. In essence, ‘this’ must be in my consciousness in order for me to be conscious of ‘this’. Since ‘this’ can be any object, and ‘all-this’ constitutes the world, I become conscious of the world when the world in my consciousness.
+
+Instruments, mind and the senses, form the basis for this transformation process of the world of objects outside into the consciousness of the objects inside, while preserving their ontological status. Thus, mind and the senses become the ‘pramANa’ or the means of knowledge in this transformation process. Thus it is clear that, in the perceptual process, we are bringing together the Ishvara sRRiShTi in the form of the world of objects and the jIva sRRiShTi in the form of vRRitti-s, in order to establish the perception of the world ‘out there’. We are using the phrase ‘our consciousness’ in the sense of limiting consciousness of the witness.
+
+We will now address some more objections raised by naiyAyika-s.   
+  
+**Objection:** In meeting the perceptuality condition, if ‘this’ were an object that is superimposed on the limiting consciousness (which is called the witness or upahita chaitanya), the cognition would have been ‘I am silver’ or ‘I have silver’, similar to the cognition ‘I am happy’. But the cognition is not like that. It is ‘I know that is silver’ or ‘I know that object over there is silver’.   
+  
+**Reply:** In response to this objection, VP illustrates a universal rule relating to an experience and the knowledge of that experience. In every experience, there is an experiencer, an experienced thing and the action of experiencing. This is analogous to knower, known and knowing, pramAta, prameya and pramANa. Thus in every experience, there is an object of experience, which is localized in a particular form. Here, we are using the word ‘form’ in the generic sense and not necessarily related to physical dimensions. The experience takes the form of a latent impression that is left by that experience. This is what is also sometimes called ‘saMskAra’. Actions, for example, leave subtle impressions called vAsanA-s. Hence, all experiences leave a latent impression.
+
+When I see an object ‘jar’ out there, this seeing constitutes an experience. It leaves a latent impression in the form of ‘this’. VP says that the impression ‘this’ is the result of nescience, which covers the true or  
+substantive knowledge of the object associated with ‘this’, which is Brahman. Because of the nescience, the impression left is ‘this, existent-jar’ rather than ‘Existence, as this-jar’, since existence as such is formless.
+
+As a universal rule, the experience of all objects is always ‘this’ or ‘that’, with latent impressions separating themselves from each other as well as from other impressions that are left behind, such as the experience of body, mind or intellect. In the case of the experience of the mind, intellect or body, the impression is of a two-fold nature. One is ‘this is mind’ and the other is ‘I am the mind’ due to nescience occurring at two levels. When I say ‘this is mind’, it is similar to ‘this is a jar’ Here, the nescience is ignorance of Brahman, since any ‘this’ according to vedAnta is nothing but Brahman (sarvaM khalvidam brahma). Hence, the mind is illumined by the witnessing consciousness, as a result of which the knowledge of the mind, as ‘this is mind’ can occur. (At this level, ‘mind’ is part of Ishvara sRRiShTi. This is one of the reasons why, when I become a j~nAnI, only my notional mind which is jIva sRRiShTi gets destroyed, but not the objective mind which is Ishvara sRRiShTi.)
+
+The second level of nescience also expresses as ‘I am the mind’, in contrast to ‘this is mind’. This is due to the ignorance of myself as ‘I am the consciousness-existence entity’. Hence, in the cognition of the mind, ‘this is mind’ as well as ‘I am the mind’ both happen due to this two-fold ignorance. VP refers to this as two types of experiences. Taking the body as an example, we have ‘this is the body’ and also ‘I am the body’. This two level experience is due to the nescience of ‘Brahman’ as well as nescience of ‘myself as brahman’.
+
+VP gives several examples to illustrate what vedAnta calls the ‘adhyAsa’ arising from nescience. Some  
+examples are: This is an eye and I am blind; this is an ear, I am deaf. Similarly, ‘I am happy’ is due to the identification with the latent impression in the mind due to attributive knowledge of happiness. Similarly, I am angry, I am depressed, etc. We have already discussed the internal perceptions of these emotions where the contents of the vRRitti-s are the emotions directly. These emotions are perceived immediately as they rise in the mind.   
+  
+Let us return briefly to the misperceived-silver example. Consciousness is the all-pervading substantive of everything but nescience prevents this realization. In the case of any external object, there is a subject-object distinction or differentiation, in spite of this oneness of the substantive. In the perceptual experience of silver, knowledge of that perception manifests as 'this is silver' and not 'I am silver', even though the substantive of the subject ‘I am’ and object 'this is' is the same consciousness.
+
+However if the object is the BMI, even though there is still the cognition 'this is...', because we have an organic relation to the object, there is also the identification 'I am this'. For example, in the case of a pain in the leg, we easily convert the perception of 'the leg has a pain' into ‘I have a pain', since we feel that the leg and I am identical.
+
+Thus, whether there is an organic relationship with the object or not makes a difference in the perception that we have of an object outside the body vs. the perception we have of any _part_ of the body, even though consciousness is the substantive of the subject and all objects.
+
+If the object has no organic relationship with the body, the latent impression will be always be ‘this is an object’ and not ‘I am the object’. Taking the hand, for example, this is integral part of my body so that the latent impression extends to the hand as ‘ I am the hand’ as well as ‘I am the rest of the body’. Hence, when you touch my hand or hurt my hand, I feel that you are touching me or hurting me. If for some reason my hand is amputated and left on the table, then the same hand becomes ‘this is a hand’ and there is no longer any identification as ‘I am the hand’. If you then further cut that amputated hand on the table, I have no sense that you are hurting me.
+
+Hence, based on the latent impression, ‘this’ is the object or ‘I am the object’ occurs due to a two-layer, or twin aspects of, nescience. Firstly, I am ignorant of the fact that the world of objects is nothing but Brahman and secondly that I am none other than Brahman. Hence, advaita vedAnta declares: brahma satyam, jagat mithyA, and jIvo brahmaiva nAparaH. The first statement establishes the nature of Brahman, the second eliminates the ignorance of the world of objects and third eliminates ignorance of myself. The second and third are stated clearly to eliminate this two-layer nescience. It is also important to recognize that, regardless of any claims to the contrary, the ‘who am I?’ inquiry itself does not eliminate completely this two-fold nescience, unless it is also supported by the enquiry ‘what is this world that appears to be separate from me?’. Hence, the purpose of inquiry into the perceptual process according to VP, as stated in the introduction to this series, is to understand that the world is recognized, when the existence of the world is united with the consciousness-existence of the witnessing consciousness.
+
+Proceed to the [next essay](https://www.advaita.org.uk/discourses/knowledge/silver_conclusion.htm).

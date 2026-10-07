@@ -1,0 +1,30 @@
++++
+title = "Potential Problems with Schools"
++++
+
+# Potential Problems with Schools Dennis Waite
+
+Source: [TW](https://www.advaita.org.uk/discourses/trad_neo/schools.htm)
+
+Author: Dennis Waite
+
+
+The following are some thoughts relating to schools, triggered by reading the book 'Being: the teaching of advaita a basic introduction' by Philip Jacobs. See the [review](https://www.advaita.org.uk/reading/read_general.htm#being) and an [extract from the book](https://www.advaita.org.uk/discourses/teachers/being_jacobs.htm).
+
+Having attended the School of Economic Science myself for many years, this book clarifies for me why it is that those schools supposedly ‘guided’ by Shri Shantananda Saraswati failed in their endeavours.
+
+The problem has effectively been explained in my book ‘[Enlightenment: the path through the jungle](https://www.advaita.org.uk/discourses/enlightenment/enlightenment.htm)’ (O-Books, Aug 2008). This book criticizes modern western satsang teaching and, in particular, the recent extreme variant of ‘neo-Advaita’. But the book under review has made me realise that many of the points that I made apply equally to schools such as The School of Economic Science, The Study Society and the School of Practical Philosophy.
+
+The traditional teaching of Advaita has its basis in the technique of adhyAropa-apavAda. In this procedure, explanations (about the world, the self etc) are given to the seeker at his current level of understanding. But such explanations are necessarily false (since reality has no attributes and therefore can never be described) and must be retracted later, as the understanding of the seeker grows. Under the constant guidance of an enlightened and skilled teacher (i.e. one knowledgeable in the proven methods of the prasthAna traya), self-knowledge grows as a result of application of those methods over a prolonged period.
+
+Satsang teaching falls down in its inability to provide the continuity of teaching, irrespective of the ability of the teacher or readiness of the students. A school does have this continuity and the commitment but it can never succeed unless it also has the teaching skills and knowledge. It is simply not possible to take random quotations from an enlightened sage and expect them to be efficacious, taken out of context from the discussion in which they occurred and without the backing of the methodology. It is well-known that a teacher may say one thing to a student at one time and something apparently quite different and even contradictory to another at a different time. This is because the teaching must be matched to the level of understanding and needs of the particular seeker. But this matching cannot happen in these schools because the one with the knowledge and skills to do this is not present.
+
+There are at least two additional problems with this approach. Firstly, students who happen to join at the same time are assumed to have the same level of (or should one say lack of) understanding so it is also assumed that all will benefit equally. Secondly, it is implied that there is a clear progression in self-knowledge as one proceeds from term to term. Neither of these is the case. Moreover, tutors are themselves students and are frequently unable to teach well, if at all. When the teachers themselves do not understand the material or the techniques and are not themselves enlightened, how can they be expected to help others? It is essential to be able to ask questions following the presentation of the material and receive an appropriate, enlightened and elucidating response.
+
+The specific quotations from Shri Shantananda Saraswati that are presented in this book are addressed as if to the lowest level of adhikArI who understands very little and must be given very simplistic explanations. They relate very much to aspects of karma and bhakti yoga and not at all to j~nAna yoga - and it is this self-knowledge, presented by a qualified teacher, that is required to bring about self-realisation. The more subtle points of the radical metaphysical truths of Advaita are not addressed at all. For example, the key differentiation between vyavahAra and paramArtha is never explicitly addressed and the concept of mithyA (one of the most important in Advaita) is never introduced. Some quotations confuse, rather than clarify by appearing to mix up the levels (the principal failing of neo-Advaitins). For example, he says: “If once during our lifetime an unshakeable faith in Param Atman is established, that is that we belong to the Param Atman and Param Atman belongs to us – then we are out of reach of all harm.” And: “Certain knowledge about the properties of Atman, such as how Atman behaves, is necessary for the development of love.” And: “The Absolute, or the Atman, wants the human heart in its simplicity and directness.” None of this is Advaita.
+
+In fact, it is made to seem as if Shri Shantananda is as guilty as the neo-Advaitins but in the opposite sense. I.e. whereas the neo-Advaitins refuse to acknowledge vyavahAra and try to make all of their statements at a pAramArthika level, the quotations of Shantananda Saraswati in this book invariably seem to be speaking of vyavahAra even when talking about paramAtman. Furthermore (a point that I have made before), he mixes teaching from other traditions such as yoga and sAMkhya – this is very apparent from the many quotations in this book. Whilst such ploys are perfectly legitimate for a qualified sampradAya teacher and a realised sage talking to a long-term student, they are most unhelpful when taken out of context and presented as Advaita in a class thousands of miles away from the source of knowledge.
+
+Return to list of essays on [Traditional vs Neo-Advaita](https://www.advaita.org.uk/discourses/trad_neo/trad_neo.htm).  
+See the list [sorted by Topic](https://www.advaita.org.uk/discourses/teachers/discourses_by_topic.htm).  
+See the list [sorted by Author](https://www.advaita.org.uk/discourses/teachers/discourses_by_author.htm).

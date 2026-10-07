@@ -1,0 +1,30 @@
++++
+title = "33 - Re-examination of the Perceptual Process Pt.2"
++++
+
+# Critical analysis of vedAnta paribhAShA Part XXXIII Dr. K. Sadananda
+
+Source: [TW](https://www.advaita.org.uk/discourses/knowledge/reexamination2.htm)
+
+## Part XXXIII - Re-examination of the Perceptual Process (based upon some questions raised on the previous material) – Part 2
+
+Author: Dr. K. Sadananda — Critical analysis of vedAnta paribhAShA (Perception section).
+
+
+Objection: Perceptual knowledge pertains to vyavahAra. The above discussion transgresses to pAramArthika. In vyavahAra the objects are real. Hence, a ring is real, as an object. VP says that, when we perceive an object ring, we perceive both the object ring and its attributes. That it is made up of gold is not important here in respect of the perception of the ring as an object. For the pAramArthika view, shabda is pramANa and this is discussed separately in VP.   
+  
+Response: Initially, these comments appear to be valid but we need to go a little deeper in order to unravel the truth. Even at the empirical level (vyavahAra), there is no object ring other than form, color and the other attributes that can be perceived. This is precisely the reason why the Upanishads utilize laukika or vyAvahArika examples and not alaukika ones to illustrate the fact that it is the material cause itself which is the products in a variety of forms. Here, scripture is not a pramANa for the illustration that the product is the cause itself in a different form. Scripture is using a vyAvahArika example to prove the point, which it later extends to pAramArthika. It proves the point using examples to show that there are no separate objects apart from rUpa, form and nAma, name. rUpa provides the attributive set and nAma constitutes the knowledge of its existence, since a name can only be given when there is knowledge. (As we said before, existence of an object is established by the knowledge of its existence.)
+
+Hence, objects are nothing but the material cause itself in different forms. By knowing the material cause, one knows all the objects formed out of that material. Hence ring, bangle, necklace, bracelet are ‘as well known’ since we have AdhAra j~nAnam [knowledge of the substratum]. We will have Adheya j~nAnam, when we perceive through the senses the attributes of the object, ring, which are different from the attributes of the bangle, etc. Only after establishing the facts at the experiential level, does the Upanishad enter into a discussion of the cosmic level to apply the same logic – knowing the material cause for the whole universe, one knows essentially all the objects in the world. Hence, from the point of view of perception also, there is no object or objects other than the material cause and the attributive aspects of the products which differentiate one object from another, e.g. ring from bangle.
+
+Question: In the gold ring example, do we perceive the substance at any time? How do we know that it is a gold ring and not an iron ring if we do not perceive the substantive?   
+  
+Answer: In these vyAvahArika examples, the substantives of the two rings are different in the sense that they have their own attributes that distinguish them as separate. Hence the senses, when gathering the attributes of the ring, also gather the attributes of the substantive too, since the substantives have their own attributes. Thus, ‘gold attributes’ are different from ‘iron attributes’. The locus of these attributes is the ‘matter gold’ or the ‘matter iron’. The ‘matter’ is an assemblage of electron-proton-neutrons and with atoms arranged in a crystal lattice (gold is ‘face-centered cubic’ and iron is ‘body-centered cubic’ for those who are interested). Again, the senses gather those attributes that they can measure. By using more sophisticated instruments such as the electron microscope, one can increase the sensitivity of the senses.
+
+If the iron happens to be gold plated, then the iron ring would be indistinguishable from a pure gold ring. The senses, when they measure external attributes such as luster etc, may not be able to distinguish the gold from gold-plated iron and will conclude that both rings are golden-rings. This further illustrates the point that senses can only bring in the attributes and not the substantive.   
+  
+After discussing such worldly examples, the scripture then goes to the pAramArthika or absolute level to point out that the substantive for the whole world is only sat or brahman, which has no attributes that the senses can gather. Hence, our knowledge of worldly objects is made up of only the attributes of transactional reality and not absolute reality. Hence, the scriptures tell us that we must learn about the substantive of the world (AchAryavan purusho veda) from a teacher who teaches the scriptures.   
+  
+To complete the process, the sense input forms a vRRitti in the mind. A vRRitti can be thought of as an image on the mental screen consisting of attributes of the object. These begin with ‘form’, which includes the entire 3-D form since, as we discussed before, we have two eyes that are seven degrees apart to provide a stereographic projection. The ‘image’ is the electrical or neural signal which gets transformed into the subtler image or vRRitti. That it occurs is definite but how it occurs is anybody’s guess. The contents of the vRRitti are the attributive knowledge about the object. Recognition follows after cognition, by comparing the object perception with the stored information from the memory bank to see if the attributive knowledge matches any other object in the memory. If the memory is damaged, the recognition process can be affected after the cognitive process is complete. The witnessing consciousness illumines the vRRitti as it forms in the mind and the reflected consciousness constitutes the attributive knowledge of the object ‘out there’. For perception to complete, VP has discussed the perceptuality requirements that need to be met.
+
+Proceed to the [next essay](https://www.advaita.org.uk/discourses/knowledge/reexamination3.htm).
