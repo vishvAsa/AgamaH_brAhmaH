@@ -1,0 +1,43 @@
++++
+title = "Moksha"
++++
+
+# Moksha
+
+Source: [TW](https://www.advaita.org.uk/discourses/teachers/dayanandaMoksha_bonnici.htm)
+
+Author: Swami Dayananda Saraswati
+
+What is the difference between self-knowledge and self-realization? According to modern Vedanta, self-knowledge is intellectual whilst self-realisation is experiential, and because of this difference the study of the shastra is meant for self-knowledge whilst something else will become the means for self-realisation. When the shruti is the means of knowledge to recognize the self which is always present (nitya-aparoksha) how can there be an indirect knowledge of atma which has to be converted into direct realization by some unique method? Shravanam, mananam and nididhyasanam are prescribed in the shruti only for self-knowledge.
+
+The confusion of making a distinction between knowledge and realization is caused by not recognising the invariable presence (aparokshatvam) of atma in all situations and by not understanding the shruti as the means of knowledge to recognize the svarupa of atma. That is the reason why we often hear that what we gather from the shruti is only intellectual knowledge. The adjective �intellectual� describing knowledge will be a necessity only when there is a nasal or dental knowledge. All forms of knowledge happen in the intellect. There is no such thing as intellectual knowledge. There can be two types of knowledge: one is direct and the other indirect. When the atma is invariably present, the knowledge of atma can only be direct.
+
+_Teaching Tradition of Advaita Vedanta_ p9, Swami Dayananda � Copyright Arsha Vidya
+
+Elimination of thoughts is not knowledge; it is not self-discovery. Thoughts do not cover atma. Thoughts come, I am. Thoughts go, I am. Compare this with: snake is, rope is; snake is not, rope is. So there is the mistake of equating thoughts with �I�. If I do not know who I am, this original mistake is never corrected by removing the thoughts. Vedanta does not accept thoughts as the cause for sorrow. The mistake of taking thoughts to be atma is the cause of sorrow. This is entirely different from what modern Vedanta and Yoga say.
+
+Sorrow is the result of a mix-up between the real and the apparent. A wave is not separate from or independent of water, while water does not depend upon the wave. So too a thought is not independent of atma, I, awareness, while atma is independent. The mistake of taking the thought to be atma is obviously the cause of sorrow. Even if thought is a problem, the solution, �Get rid of the thoughts� is wrong. The thought, �I am small� is a problem. So, enquire if you are really small. Mistaking the thought for "I" is the problem and the solution is the knowledge, �I am real, thoughts are apparent.�
+
+The reality given to the mind is to be destroyed by knowing the invariable atma manifest in all thoughts. Atma is not covered by thoughts. Wave does not cover water; in wave itself, we see water. The wave need not subside for us to see the water; in wave itself, we see water. There is no covering at all. Atma cannot be covered by anything except ignorance. It is always manifest. I am awareness, always free from thoughts, in spite of thinking. This is the darshana of the one self. What is real is always one, one alone is real. This knowledge destroys the old silly mind that stood against me. Thinking continues but it is known as mithya, apparent, and so it is as good as non-existent. One's shadow is not a problem. Mithya is not a problem � it is useful; mind is useful and that is all there is to it.
+
+_Talks on Upadesha Saram_ pp78-80, Swami Dayananda � Copyright Arsha Vidya
+
+The word �bodha� means knowledge or recognition, so it has to take place in the mind, not elsewhere. Atma is always present and it is always the same, one and non-dual whether you know it or not � like even the sugar crystal is sweet whether it knows it or not. Atma is everything and at the same time it is free from everything. Ignorance of this fact has to go. Ignorance is removed only by knowledge. The ignorance of pot is removed by the knowledge of pot alone. For the knowledge you have to employ the appropriate pramana, means of knowledge.
+
+The pramana here is in the form of words, and its operation is not in your hands. When you are operating the pramanas perception and inference, you are the knower. But the words come from the teacher. Even though you see the words, hear them, it is not perception. When the word �mango� is said, you see the mango in your mind because it is an already seen object. When I say �eternal�, it is not a seen object and therefore it does not make any sense. �Atma is eternal� is a thing to be understood.
+
+It is not that you know the eternal atma and afterwards have to realise it. If what is eternal is not unfolded, then you do not understand the eternity. That is why when someone says, �Swamiji, I understand very clearly that atma is eternal, but how to realise it?� I have to say this: �First realise your mistake; that is the only realisation you require. You have heard the word �eternal� but not understood it. You only think you have understood it, but that is not true.� Similarly, words like consciousness, infinite, divine, supreme, spiritual, when not properly unfolded do not make any sense. It is a problem, really! In the operation of shabda-pramana, the words are handled by the teacher and those handled words are meant to make me see that I am free.
+
+The atma is self-evident, but that it is Brahman is not known. To know this, perception and inference are of no use. We have to bring in shabda, words, from outside. When you are listening to the words, then you are a knower for name's sake. The very knower is told, �You are Brahman.� That means the knower has to give up the status, �I am a knower.� That knower, who has identified with the body-mind-sense complex, himself is dissolved in the wake of knowledge.
+
+In all other pramana operations the knower continues to be the subject related to the object known. This is the difference between the shabda-pramana revealing the fact "I am Brahman" and all other pramanas. In the operation of all the other means of knowledge like perception, inference, presumption, etc., the knower retains himself and enjoys the pramana-phala, the result of operating the pramana. Here the knower sits relaxed, exposed to the teaching which resolves the knower as Brahman. Therefore, this pramana is a different thing altogether. It has to be handled. That is why shraddha becomes important here. You must have the buddhi "I am letting the pramana operate upon me." Just as you allow a surgeon to operate upon you because you have shraddha in him, so too you require shraddha to allow this pramana to operate upon you.
+
+Atma is already self-evident and it is alupta-drik, a seer that never ceases. It never even winks. It is always a witness. But it is a witness only with reference to whatever is seen. By itself it is in the form of consciousness. This self-evident atma is Brahman. That is the teaching. Because of this teaching a vritti takes place in the mind which destroys the ignorance and itself goes away. That vritti, "All that is here is myself", is called atmaikya-bodha or aparoksha-jnana. Sometimes the word anubhuti or anubhava also is used for the knowledge, but these words also indicate the immediate recognition of the self as the result of the teaching. That aparoksha-anubhuti or aparoksha-jnana is said here as atmaikya-bodha. Without this knowledge you do not gain the freedom.
+
+But why do you insist that atmaikya-bodha alone will give moksha? People are many and their tastes are different; therefore many paths must be available for gaining moksha. For someone worship is good enough; for others asana, pranayama; for some people, something else. There are so many methods, why should we not just follow any one of them? True, you have choices. Among these methods, many choices are available. These various means are things to be done; so you have a choice there. But for moksha there is no choice because the problem is that of ignorance, and nothing else resolves ignorance except knowledge.
+
+_Vivekacudamani � Talks on 108 selected verses_ pp23-25, Swami Dayananda � Copyright Arsha Vidya
+
+Return to list of topics in [Discourses by Teachers and Writers ](https://www.advaita.org.uk/discourses/teachers/key_issues.htm).  
+See the list [sorted by Topic](https://www.advaita.org.uk/discourses/teachers/discourses_by_topic.htm).  
+See the list [sorted by Author](https://www.advaita.org.uk/discourses/teachers/discourses_by_author.htm).
