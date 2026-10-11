@@ -36,13 +36,20 @@ Initially, he mostly speaks like a bhedAbhedavAdin, saying mostly the right thin
 
 (Already started directly contradicting sUtra 2.)
 
+In AnandamayAdhikaraNa (1.1.12 – 1.1.19), he says clearly -
 
-The Bait and Switch: Anandamayadhikarana (1.1.12 – 1.1.19).... shankara says that "maya" in Anandamaya implies vikAra, making Anandamaya brahman the "lower" saguNa-brahman.
+> द्वि-रूपं हि ब्रह्मावगम्यते —  
+नाम-रूप-विकार-भेदोपाधि-विशिष्टम् ,  
+तद्-विपरीतं च सर्वोपाधि-विवर्जितम् ।
+
+The Bait and Switch:  shankara says that "mayaT" in Anandamaya implies vikAra, making Anandamaya brahman the "lower" saguNa-brahman.
 
 Shankara takes the universe-maker of 1.1.2 (Janmadyasya yatah) and officially strips Him of His ultimate reality under Sutra 2.1.14 
 
-"तदेवमविद्यात्मकोपाधिपरिच्छेदापेक्षमेवेश्वरस्येश्वरत्वं सर्वज्ञत्वं सर्वशक्तित्वं च न परमार्थतो..."  
-(Thus, the Lord's rulership, omniscience, and omnipotence are dependent solely on the limiting adjuncts conjured by ignorance... From the absolute standpoint [paramarthatah], there is no Lord, no ruled, no omniscience...)
+> "तद् एवम् अविद्यात्मकोपाधि-परिच्छेदापेक्षम् एवेश्वरस्येश्वरत्वं सर्वज्ञत्वं सर्वशक्तित्वं च।  
+न परमार्थतो विद्यया अपास्तसर्वोपाधिस्वरूपे आत्मनि  
+ईशित्रीशितव्यसर्वज्ञत्वादिव्यवहार उपपद्यते"  
+> (Thus, the Lord's rulership, omniscience, and omnipotence are dependent solely on the limiting adjuncts conjured by ignorance... From the absolute standpoint [paramarthatah], there is no Lord, no ruled, no omniscience...)
 </details>
 
 

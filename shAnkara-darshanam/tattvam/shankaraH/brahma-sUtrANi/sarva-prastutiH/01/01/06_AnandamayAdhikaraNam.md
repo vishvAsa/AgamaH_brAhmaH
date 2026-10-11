@@ -3,11 +3,27 @@ title = "०६ आनन्दमयाधिकरणम्"
 
 +++
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 आनन्दमयोऽभ्यासात् ॥ १२ ॥  
+</details>
+
+<details><summary>Translation</summary>
+
+12. (The Self) consisting of bliss (is the highest Self) on account of the repetition (of the word 'bliss,' as denoting the highest Self).
+</details>
+
+<details><summary>मूलम्</summary>
+
+आनन्दमयोऽभ्यासात् ॥ १२ ॥  
+</details>
+
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 आऩन्दमयोअप्यासात् ॥ १२ ॥
 </details>
+
+## सङ्गतिः
 
 संसारी ब्रह्म वाऽऽनन्दमयः, संसार्ययं भवेत् ॥  
 विकारार्थमयट्शब्दात्प्रियाद्यवयवोक्तितः ॥ १५ ॥  
@@ -41,9 +57,14 @@ title = "०६ आनन्दमयाधिकरणम्"
 इङ्गे “वाल्” ऎऩ्ऱ अर्त्तम् सम्बविक्काददिऩाल् “पुच्चम्” ऎऩ्ऱ सप्तत्तिऩाल् आदारम् ऎऩ्बदैये कुऱिप्पिट्ट तागुम्। आऩन्दमयऩाऩ जीवऩ् इदऩिडत्तिल् आसिरयित्ति रुक्किऱदु। आगैयाल् पिरदाऩमाग इरुक्कुम् तऩ्मै।
 </details>
 
+### सगुणम् ब्रह्म
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘जन्माद्यस्य यतः’ इत्यारभ्य ‘श्रुतत्वाच्च’ इत्येवमन्तैः सूत्रैर्यान्युदाहृतानि वेदान्तवाक्यानि, तेषां सर्वज्ञः सर्वशक्तिरीश्वरो जगतो जन्मस्थितिलयकारणमित्येतस्यार्थस्य प्रतिपादकत्वं न्यायपूर्वकं प्रतिपादितम्।
+‘जन्माद्य् अस्य यतः’ इत्य् आरभ्य  
+‘श्रुतत्वाच् च’ इत्य्-एवम्-अन्तैः सूत्रैर्  
+यान्य् उदाहृतानि वेदान्त-वाक्यानि,  
+तेषां सर्वज्ञः सर्व-शक्तिर् ईश्वरो  
+जगतो जन्म-स्थिति-लय-कारणम् इत्य् एतस्यार्थस्य प्रतिपादकत्वं न्याय-पूर्वकं प्रतिपादितम्।
 </details>
 
 <details><summary>Translation</summary>
@@ -58,7 +79,10 @@ In what precedes we have shown, availing ourselves of appropriate arguments, tha
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गतिसामान्योपन्यासेन च सर्वे वेदान्ताश्चेतनकारणवादिन इति व्याख्यातम् ।
+> गति-सामान्योपन्यासेन च  
+सर्वे वेदान्ताश् चेतन-कारण-वादिन 
+
+इति व्याख्यातम् ।
 </details>
 
 <details><summary>Translation</summary>
@@ -76,9 +100,15 @@ And we have explained, by pointing to the prevailing uniformity of view (I, 10),
 “इदऩुडैय जऩ्मम् मुदलियदु ऎदिलिरुन्दो” ऎऩ्ऱु आरम्बित्तु 'केट्कप्पडुवदिऩालुम् ऎऩ्ऱिव्विदम् मुडिगिऱ सूत्तिरङ्गळिऩाल् ऎन्द उबनिषत्वाक्कियङ्गळ् ऎडुत्तुक्काट्टप्पट्टऩवो, अवैगळुक्कु सर्वक्ञराय् सर्व सक्तियुळ्ळवराय् उळ्ळ ईसुवरऩ् जगत्तिऩ् उऱ्पत्ति स्तिदि लयङ्गळुक्कु कारणमॆऩ्ऱ इन्द विषयत्तै पिरदिबादिक्कुम् तऩ्मैयुळ्ळदॆऩ्ऱु नियायङ्गळै मुऩ्ऩिट्टु, ऎडुत्तुच्चॊल्लप्पट्टदु। पोक्कुसमाऩमायि रुप्पदैक् काट्टिऩदिऩालुम् ऎल्ला उबनिषत्तुक्कळुम् सेदऩत्तैये कारणमाग सॊल्लुबवैयॆऩ्ऱु वियाक् याऩमुम् सॆय्यप्पट्टदु।
 </details>
 
+### द्विरूपम् ब्रह्म
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतः परस्य ग्रन्थस्य किमुत्थानमिति, उच्यते — द्विरूपं हि ब्रह्मावगम्यते — नामरूपविकारभेदोपाधिविशिष्टम् , तद्विपरीतं च सर्वोपाधिविवर्जितम् ।
+> अतः परस्य ग्रन्थस्य किम् उत्थानम्? 
+
+इति, उच्यते —  
+द्वि-रूपं हि ब्रह्मावगम्यते —  
+नाम-रूप-विकार-भेदोपाधि-विशिष्टम् ,  
+तद्-विपरीतं च सर्वोपाधि-विवर्जितम् ।+++(5)+++
 </details>
 
 <details><summary>Translation</summary>
@@ -91,14 +121,35 @@ The question might therefore be asked, 'What reason is there for the subsequent 
 अतः परस्य ग्रन्थस्य किमुत्थानमिति, उच्यते — द्विरूपं हि ब्रह्मावगम्यते — नामरूपविकारभेदोपाधिविशिष्टम् , तद्विपरीतं च सर्वोपाधिविवर्जितम् ।
 </details>
 
+#### श्रुतयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘यत्र हि द्वैतमिव भवति तदितर इतरं पश्यति’ (बृ. उ. २। ४। १४) ‘यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत्’ (बृ. उ. ४। ५। १५) ‘यत्र नान्यत्पश्यति नान्यच्छृणोति नान्यद्विजानाति स भूमाथ यत्रान्यत्पश्यत्यन्यच्छृणोत्यन्यद्विजानाति तदल्पम्; यो वै भूमा तदमृतमथ यदल्पं तन्मर्त्यम्’ (छा. उ. ७। २४। १) ‘सर्वाणि रूपाणि विचित्य धीरो नामानि कृत्वाभिवदन्यदास्ते’ (तै. आ. ३। १२। ७) ‘निष्कलं निष्क्रियं शान्तं निरवद्यं निरञ्जनम्।
+> ‘यत्र हि द्वैतम् इव भवति  
+तद् इतर इतरं पश्यति’  
+(बृ. उ. २। ४। १४) 
+
+> ‘यत्र त्व् अस्य सर्वम् आत्मैवाभूत्  
+तत् केन कं पश्येत्’ (बृ. उ. ४। ५। १५) 
+
+> ‘यत्र नान्यत् पश्यति  
+नान्यच् छृणोति  
+नान्यद् विजानाति  
+स भूमा  
+>  
+> अथ यत्रान्यत् पश्यत्य् अन्यच् छृणोत्य् अन्यद् विजानाति  
+तद् अल्पम्;  
+>
+> यो वै भूमा  
+तद् अमृतम्  
+अथ यद् अल्पं तन् मर्त्यम्’ (छा. उ. ७। २४। १) 
+
+> ‘सर्वाणि रूपाणि विचित्य धीरो  
+नामानि कृत्वाभिवदन् यद् आस्ते’ (तै. आ. ३। १२। ७) 
 </details>
 
 <details><summary>Translation</summary>
 
-the following passages: Br̥. Up. IV, 5, 15, 'For where there is duality as it were, then one sees the other; but when the Self only is all this, how should he see another?' Cḥ. Up. VII, 24, 1, 'Where one sees nothing else, hears nothing else, understands nothing else, that is the greatest. Where one sees something else, hears something else, understands something else, that is the little. The greatest is immortal; the little is mortal;' Taitt. Ār. III, 12, 7, 'The wise one, who having produced all forms and made all names, sits calling (the things by their names [^fn_104]);' Śv. Up. VI, 19, 'Who is without parts, without actions, tranquil, without faults, without taint,
+the following passages: Br̥. Up. IV, 5, 15, 'For where there is duality as it were, then one sees the other; but when the Self only is all this, how should he see another?' Cḥ. Up. VII, 24, 1, 'Where one sees nothing else, hears nothing else, understands nothing else, that is the greatest. Where one sees something else, hears something else, understands something else, that is the little. The greatest is immortal; the little is mortal;' Taitt. Ār. III, 12, 7, 'The wise one, who having produced all forms and made all names, sits calling (the things by their names [^fn_104]);' 
 </details>
 
 <details><summary>Translation - Notes</summary>
@@ -108,21 +159,41 @@ the following passages: Br̥. Up. IV, 5, 15, 'For where there is duality as it w
 
 <details><summary>मूलम्</summary>
 
-‘यत्र हि द्वैतमिव भवति तदितर इतरं पश्यति’ (बृ. उ. २। ४। १४) ‘यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत्’ (बृ. उ. ४। ५। १५) ‘यत्र नान्यत्पश्यति नान्यच्छृणोति नान्यद्विजानाति स भूमाथ यत्रान्यत्पश्यत्यन्यच्छृणोत्यन्यद्विजानाति तदल्पम्; यो वै भूमा तदमृतमथ यदल्पं तन्मर्त्यम्’ (छा. उ. ७। २४। १) ‘सर्वाणि रूपाणि विचित्य धीरो नामानि कृत्वाभिवदन्यदास्ते’ (तै. आ. ३। १२। ७) ‘निष्कलं निष्क्रियं शान्तं निरवद्यं निरञ्जनम्।
+‘यत्र हि द्वैतमिव भवति तदितर इतरं पश्यति’ (बृ. उ. २। ४। १४) ‘यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत्’ (बृ. उ. ४। ५। १५) ‘यत्र नान्यत्पश्यति नान्यच्छृणोति नान्यद्विजानाति स भूमाथ यत्रान्यत्पश्यत्यन्यच्छृणोत्यन्यद्विजानाति तदल्पम्; यो वै भूमा तदमृतमथ यदल्पं तन्मर्त्यम्’ (छा. उ. ७। २४। १) ‘सर्वाणि रूपाणि विचित्य धीरो नामानि कृत्वाभिवदन्यदास्ते’ (तै. आ. ३। १२। ७) 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अमृतस्य परं सेतुं दग्धेन्धनमिवानलम्’ (श्वे. उ. ६। १९) ‘नेति नेति’ (बृ. उ. २। ३। ६) ‘अस्थूलमनण्वह्रस्वमदीर्घम्’ (बृ. उ. ३। ८। ८) ‘न्यूनमन्यत्स्थानं सम्पूर्णमन्यत्’ इति चैवं सहस्रशो विद्याविद्याविषयभेदेन ब्रह्मणो द्विरूपतां दर्शयन्ति वाक्यानि ।
+> ‘+++(क्रियादौ)+++ निष्कलं निष्क्रियं शान्तं  
+निरवद्यं निरञ्जनम्।  
+अमृतस्य परं सेतुं  
+दग्धेन्धनम् इवानलम्’ (श्वे. उ. ६। १९) 
+
+> ‘नेति नेति’ (बृ. उ. २। ३। ६)  
+
+> ‘अस्थूलम् अनण्व् अह्रस्वम् अदीर्घम्’ (बृ. उ. ३। ८। ८) 
+
+> ‘न्यूनम् अन्यत् स्थानं  
+सम्पूर्णम् अन्यत्’ 
+
+इति चैवं सहस्रशो विद्याऽविद्या-विषय-भेदेन  
+ब्रह्मणो द्विरूपतां दर्शयन्ति वाक्यानि ।
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+द्विरूपतोहां विना मुख्यार्थेनैव निर्वाहे सम्भवे सति,  
+नोचितोऽयं द्विरूपतोहः। 
 </details>
 
 <details><summary>Translation</summary>
 
-the highest bridge of immortality, like a fire that has consumed its fuel;' Br̥. Up. II, 3, 6, 'Not so, not so;' Br̥. Up. III, 8, 8, 'It is neither coarse nor fine, neither short nor long;' and 'defective is one place, perfect the other.' All these passages, with many others, declare Brahman to possess a double nature, according as it is the object either of Knowledge or of Nescience.
+Śv. Up. VI, 19, 'Who is without parts, without actions, tranquil, without faults, without taint,the highest bridge of immortality, like a fire that has consumed its fuel;' Br̥. Up. II, 3, 6, 'Not so, not so;' Br̥. Up. III, 8, 8, 'It is neither coarse nor fine, neither short nor long;' and 'defective is one place, perfect the other.' All these passages, with many others, declare Brahman to possess a double nature, according as it is the object either of Knowledge or of Nescience.
 </details>
 
 <details><summary>मूलम्</summary>
 
+‘निष्कलं निष्क्रियं शान्तं निरवद्यं निरञ्जनम्।
 अमृतस्य परं सेतुं दग्धेन्धनमिवानलम्’ (श्वे. उ. ६। १९) ‘नेति नेति’ (बृ. उ. २। ३। ६) ‘अस्थूलमनण्वह्रस्वमदीर्घम्’ (बृ. उ. ३। ८। ८) ‘न्यूनमन्यत्स्थानं सम्पूर्णमन्यत्’ इति चैवं सहस्रशो विद्याविद्याविषयभेदेन ब्रह्मणो द्विरूपतां दर्शयन्ति वाक्यानि ।
 </details>
 
@@ -136,9 +207,11 @@ the highest bridge of immortality, like a fire that has consumed its fuel;' Br̥
 पिरह्ममो इरण्डु विदमाग अऱियप्पडुगिऱदु नामरूबमागिऱ विगारत्तिलुळ्ळ पेदत्तै उबादियाय् उडैयदु ऎऩ्ऱुम्, अदऱ्कु विबरीदमाय् सगल उबादिगळुम् अऱ्ऱदु, ऎऩ्ऱुम्; 'ऎङ्गे इरण्डु पोल् इरुक्किऱदो अङ्गे ऒऩ्ऱु मऱ्ऱॊऩ्ऱैप् पार्क्कुम्; ऎङ्गे इवऩुक्कु ऎल्लामे आत्मावाग आगिविडुमो, अङ्गे ऎदिऩाल् ऎदै पार्प्पाऩ्' (पिरुहत्। ४-५-१५); 'ऎङ्गे वेऱे ऎदैयुम् पार्प्पदिल्लैयो वेऱे ऎदैयुम् केट्पदिल्लैयो, वेऱे ऎदैयुम् अऱिवदिल्लैयो, अदु पॆरिदु। पिऱगु, 'ऎङ्गे मऱ्ऱदै पार्क्किऱाऩो, मऱ्ऱदै केट्किऱाऩो, मऱ्ऱदै अऱिगिऱाऩो, अदु अल्बम्। ऎदु पॆरिदो अदुदाऩ् नासमऱ्ऱदु; पिऱगु, ऎदु अल्बमो अदु नासमुळ्ळदु’ (सान्।७-२४-१); 'ऎल्ला रूबङ्गळैयुम् उण्डुबण्णि पॆयर्गळ् एऱ्पडुत्तिक्कॊण्डु व्यवहारम् सॆय्बवराग तीरऩ् (अऱिवुडैयवर्) ऎव्विदम् इरुक्किऱारो (तैत्तिरीय आरण्यग। ३-१२-७);' अवयवमऱ्ऱदु, सॆयलऱ्ऱदु, अडङ्गियुळ्ळदु, तोष मऱ्ऱदु, अऴुक्कऱ्ऱदु, मोक्षत्तिऱ्कु कॊण्डु विडुम् मेलाऩ अणै, विऱगु ऎरिन्दु पोऩ अक्ऩियैप्पोल' (सुवेदा।६-१९), 'इदु अल्ल, इदु अल्ल,' (पिरुहत्। २-३-६), ‘स्तूलमल्लाददु अणु अल्लाददु’ (प्रुहत् ३-८-८), 'वेऱु निलै कुऱैवुळ्ळदु, मऱ्ऱदु नऩ्गु निऱैन्ददु’ ऎऩ्ऱु इव्विदम् आयिरक्कणक्काऩ’ वाक्कियङ्गळ् वित्यैयै विषयमा युळ्ळदु अवित्यैयै विषयमायुळ्ळदु ऎऩ्ऱ पेदत्तिऩाल् पिरह्मत्तिऱगु इरण्डुविद रूबङ्गळुडऩ् इरुक्कुम् तऩ्मैयै काट्टुगिऩ्ऱऩ।
 </details>
 
+#### अविद्यावस्था
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्राविद्यावस्थायां ब्रह्मण उपास्योपासकादिलक्षणः सर्वो व्यवहारः।
+तत्राविद्याऽवस्थायां ब्रह्मण  
+उपास्योपासकादि-लक्षणः सर्वो व्यवहारः।
 </details>
 
 <details><summary>Translation</summary>
@@ -156,9 +229,12 @@ As long as it is the object of Nescience, there are applied to it the categories
 तत्राविद्यावस्थायां ब्रह्मण उपास्योपासकादिलक्षणः सर्वो व्यवहारः।
 </details>
 
+##### उपासना-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र कानिचिद्ब्रह्मण उपासनान्यभ्युदयार्थानि, कानिचित्क्रममुक्त्यर्थानि, कानिचित्कर्मसमृद्ध्यर्थानि।
+तत्र कानिचिद् ब्रह्मण उपासनान्य् अभ्युदयार्थानि,  
+कानिचित् क्रम-मुक्त्य्-अर्थानि,  
+कानिचित् कर्म-समृद्ध्य्-अर्थानि।
 </details>
 
 <details><summary>Translation</summary>
@@ -173,7 +249,7 @@ The different modes of devotion lead to different results, some to exaltation, s
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषां गुणविशेषोपाधिभेदेन भेदः।
+तेषां गुण-विशेषोपाधि-भेदेन भेदः।
 </details>
 
 <details><summary>Translation</summary>
@@ -193,7 +269,19 @@ those modes are distinct on account of the distinction of the different qualitie
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एक एव तु परमात्मेश्वरस्तैस्तैर्गुणविशेषैर्विशिष्ट उपास्यो यद्यपि भवति, तथापि यथागुणोपासनमेव फलानि भिद्यन्ते; ‘तं यथा यथोपासते तदेव भवति’ इति श्रुतेः, ‘यथाक्रतुरस्मिल्ँलोके पुरुषो भवति, तथेतः प्रेत्य भवति’ (छा. उ. ३। १४। १) इति च।
+एक एव तु परमात्मेश्वरस्  
+तैस् तैर् गुण-विशेषैर् विशिष्ट उपास्यो यद्य् अपि भवति,  
+तथा ऽपि यथा-गुणोपासनम् एव फलानि भिद्यन्ते;  
+
+> ‘तं यथा यथोपासते  
+तद् एव भवति’ 
+
+इति श्रुतेः, 
+
+> ‘यथा-क्रतुर् अस्मिल्ँ लोके पुरुषो भवति,  
+तथेतः प्रेत्य भवति’ (छा. उ. ३। १४। १) 
+
+इति च।
 </details>
 
 <details><summary>Translation</summary>
@@ -208,7 +296,10 @@ And although the one highest Self only, i.e. the Lord distinguished by those dif
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्मृतेश्च — ‘यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेबरम्।
+स्मृतेश् च —  
+
+> ‘यं यं वापि स्मरन् भावं  
+त्यजत्य् अन्ते कलेवरम्।  
 </details>
 
 <details><summary>Translation</summary>
@@ -223,7 +314,10 @@ Smr̥ti also makes an analogous statement, 'Remembering whatever form of being h
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तं तमेवैति कौन्तेय सदा तद्भावभावितः’ (भ. गी. ८। ६) इति ।
+> तं तम् एवैति कौन्तेय  
+सदा तद् भावभावितः’ (भ. गी. ८। ६) 
+
+इति ।
 </details>
 
 <details><summary>Translation</summary>
@@ -241,9 +335,19 @@ into that form he enters, being impressed with it through his constant meditatio
 अङ्गु अवित्या निलैयिल्, पिरह्मत्तिऱ्कु उबासिक्कप्पडुवदु उबासिक्किऱवऩ् ऎऩ्बदु मुदलाऩदै लक्षणमायुडैय ऎल्ला विवहारमुम् उण्डु। अवैगळिलुम् पिरह्म विषयमाऩ सिल उबासऩङ्गळ्, अप्युदयत्तैप् पिरयोजऩमायु टैयवैगळ्; सिलदु किरममुक्तियै पिरयोजऩमाय् उडैयवैगळ्; सिलदु कर्मा सॆऴिप्पदै पिरयो जऩमाय् उडैयवगैळ्। अवैगळुक्कुळ्ळुम् कुऱिप्पिट्ट कुणमागिऱ उबादियिऩ् पेदत्तिऩाल् पेदम् उण्डु। परमात्मावाऩ ऒरे ईसुवरऩ्दाऩ् अन्दन्दक् कुऱिप्पिट्ट कुणङ्गळुडऩ् सेर्न्दवराय् उबासिक्कप्पडुगिऱवराय् इरुन्दालुम्, अप्पडियुम् ऎन्द ऎन्द कुणत्तुडऩ् उबासऩमो अदऩ्बडिक्के पलऩ्गळुम् वेऱुबडुम्। 'अवरै ऎप्पडि ऎप्पडि उबासिक्किऱाऩो, अप्पडिये आगिऱाऩ्' ऎऩ्ऱुम्, 'इन्द लोगत्तिल् ऎप्पडियुळ्ळ पावऩैयुडऩ् पुरुषऩ् इरुक्किऱाऩो, इङ्गिरुन्दु पोऩबिऱगु अप्पडिये आगिऱाऩ्' (सान्।३-१४-१) ऎऩ्ऱुम् सुरुदियिरुप्पदिऩालुम्, ‘ऎन्द ऎन्द ऎण्णत्तै निऩैत्तुक्कॊण्डु कडैसियिल् सरीरत्तै विडुगिऱाऩो, हे अर्जूऩा, ऎप्पॊऴुदुम् अन्द ऎण्णत्तै ऎण्णिवन्दवऩाय् अदु अदैये अडैगिऱाऩ्, (कीदै ८-६) ऎऩ्ऱु स्मिरुदियु मिरुप्पदिऩाल्।
 </details>
 
+##### आत्मोपाधि-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्यप्येक आत्मा सर्वभूतेषु स्थावरजङ्गमेषु गूढः, तथापि चित्तोपाधिविशेषतारतम्यादात्मनः कूटस्थनित्यस्यैकरूपस्याप्युत्तरोत्तरमाविष्कृतस्य तारतम्यमैश्वर्यशक्तिविशेषैः श्रूयते — ‘तस्य य आत्मानमाविस्तरां वेद’ (ऐ. आ. २। ३। २। १) इत्यत्र।
+यद्य् अप्य् एक आत्मा  
+सर्व-भूतेषु स्थावर-जङ्गमेषु गूढः,  
+तथाऽपि चित्तोपाधि-विशेष-तारतम्याद्  
+आत्मनः कूट-स्थ-नित्यस्यैकरूपस्याप्य्  
+उत्तरोत्तरम् आविष्कृतस्य  
+तारतम्यम् ऐश्वर्य-शक्ति-विशेषैः श्रूयते —  
+
+> ‘तस्य य आत्मानम् आविस्तरां वेद’ (ऐ. आ. २। ३। २। १) 
+
+इत्यत्र।
 </details>
 
 <details><summary>Translation</summary>
@@ -264,32 +368,43 @@ Although one and the same Self is hidden in all beings movable as well as immova
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्मृतावपि — ‘यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा।
+स्मृताव् अपि — 
+
+> ‘यद् यद् विभूतिमत् सत्त्वं  
+श्रीमद् ऊर्जितम् एव वा।  
+> तत् तद् एवावगच्छ त्वं  
+मम तेजोऽंश-सम्भवम्’  
+(भ. गी. १०। ४१) 
+
+इति  
 </details>
 
 <details><summary>Translation</summary>
 
 Similarly Smr̥ti remarks, 'Whatever being there is of power, splendour or might,
+know it to have sprung from portions of my glory' (Bha. Gītā, X, 41); 
 </details>
 
 <details><summary>मूलम्</summary>
 
 स्मृतावपि — ‘यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा।
+तत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम्’ (भ. गी. १०। ४१) इति 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम्’ (भ. गी. १०। ४१) इति यत्र यत्र विभूत्याद्यतिशयः, स स ईश्वर इत्युपास्यतया चोद्यते ।
+यत्र यत्र विभूत्य्-आद्य्-अतिशयः,  
+स स ईश्वर इत्य् उपास्यतया चोद्यते । +++(5)+++
 </details>
 
 <details><summary>Translation</summary>
 
-know it to have sprung from portions of my glory' (Bha. Gītā, X, 41); a passage declaring that wherever there is an excess of power and so on, there the Lord is to be worshipped.
+a passage declaring that wherever there is an excess of power and so on, there the Lord is to be worshipped.
 </details>
 
 <details><summary>मूलम्</summary>
 
-तत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम्’ (भ. गी. १०। ४१) इति यत्र यत्र विभूत्याद्यतिशयः, स स ईश्वर इत्युपास्यतया चोद्यते ।
+यत्र यत्र विभूत्याद्यतिशयः, स स ईश्वर इत्युपास्यतया चोद्यते ।
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -299,7 +414,12 @@ know it to have sprung from portions of my glory' (Bha. Gītā, X, 41); a passag
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवमिहाप्यादित्यमण्डले हिरण्मयः पुरुषः सर्वपाप्मोदयलिङ्गात्पर एवेति वक्ष्यति।
+एवम् इहाप्य्  
+
+> आदित्य-मण्डले हिरण्मयः पुरुषः  
+सर्व-पाप्मोदय+++(→त्यक्त्वोर्ध्वगति??)+++-लिङ्गात् पर एव
+
+इति वक्ष्यति।
 </details>
 
 <details><summary>Translation</summary>
@@ -314,7 +434,11 @@ Accordingly here (i.e. in the Sūtras) also the teacher will show that the golde
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवम् ‘आकाशस्तल्लिङ्गात्’ (ब्र. सू. १। १। २२) इत्यादिषु द्रष्टव्यम्।
+एवम् 
+
+> ‘आकाशस् तल् लिङ्गात्’ (ब्र. सू. १। १। २२) 
+
+इत्य्-आदिषु द्रष्टव्यम्।
 </details>
 
 <details><summary>Translation</summary>
@@ -327,9 +451,15 @@ the same is to be observed with regard to I, 1, 22 and other Sūtras.
 एवम् ‘आकाशस्तल्लिङ्गात्’ (ब्र. सू. १। १। २२) इत्यादिषु द्रष्टव्यम्।
 </details>
 
+### उपास्यत्व-ज्ञेयत्वे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं सद्योमुक्तिकारणमप्यात्मज्ञानमुपाधिविशेषद्वारेणोपदिश्यमानमप्यविवक्षितोपाधिसम्बन्धविशेषं परापरविषयत्वेन सन्दिह्यमानं वाक्यगतिपर्यालोचनया निर्णेतव्यं भवति — यथेहैव तावत् ‘आनन्दमयोऽभ्यासात्’ इति ।
+एवं सद्यो-मुक्ति-कारणम् अप्य् आत्म-ज्ञानम्  
+उपाधि-विशेष-द्वारेणोपदिश्यमानम् अप्य्  
+अ-विवक्षितोपाधि-सम्बन्ध-विशेषं परापर-विषयत्वेन सन्दिह्यमानं  
+वाक्य-गति-पर्यालोचनया निर्णेतव्यं भवति —  
+यथेहैव तावत्  
+‘आनन्दमयोऽभ्यासाद्’ इति ।
 </details>
 
 <details><summary>Translation</summary>
@@ -354,7 +484,11 @@ And, again, an enquiry will have to be undertaken into the meaning of the texts,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवमेकमपि ब्रह्मापेक्षितोपाधिसम्बन्धं निरस्तोपाधिसम्बन्धं चोपास्यत्वेन ज्ञेयत्वेन च वेदान्तेषूपदिश्यत इति प्रदर्शयितुं परो ग्रन्थ आरभ्यते।
+एवम् एकम् अपि ब्रह्म  
+अपेक्षितोपाधि-सम्बन्धं निरस्तोपाधि-सम्बन्धं च  
+उपास्यत्वेन ज्ञेयत्वेन च वेदान्तेषूपदिश्यत  
+इति प्रदर्शयितुं  
+परो ग्रन्थ आरभ्यते।+++(5)+++
 </details>
 
 <details><summary>Translation</summary>
@@ -2449,5 +2583,6 @@ The other Sūtras also (which refer to the Self of bliss [^fn_118]) are to be co
 - Joined EN line-wraps with single space: `Compare`+`the following…`, `departed`+`this life'`, `(the`+`knowledge)`, `just as the`+`Self…`, `pradhāna is the`+`cause…`.
 - Notes: fn_104-109 (A), fn_110 (B), fn_111-114 (D), fn_115-118 (F). No notes in 13/14/18.
 - Translation files 12-19 fully covered in order. No missing SA. No extra EN beyond grouping.
+- Header sūtra block (lines 6-14, pre-existing विश्वास+मूलम् without Translation) given Translation 12 sutra-heading; counts now 138/138/138.
 </details>
 

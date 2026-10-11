@@ -15,6 +15,26 @@ title = "०७ अन्तरधिकरणम्"
 मर्यादाद्या उपास्त्यर्थमीशेऽपि स्युरुपाधिगाः ॥ २० ॥  
 --वैयासिकन्यायमाला
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्तस्तद्धर्मोपदेशात् ॥ २० ॥  
+</details>
+
+<details><summary>Translation</summary>
+
+20. The one within (the sun and the eye) (is the highest Lord), on account of his qualities being declared [^fn_119].
+</details>
+
+<details><summary>Translation - Notes</summary>
+
+[^fn_119]: 77:3 The preceding adhikaraṇa had shown that the five Selfs (consisting of food, mind, and so on), which the Taitt. Up. enumerates, are introduced merely for the purpose of facilitating the cognition of Brahman considered as devoid of all qualities; while that Brahman  itself is the real object of knowledge. The present adhikaraṇa undertakes to show that the passage about the golden person represents the saviśesha Brahman as the object of devout meditation.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्तस्तद्धर्मोपदेशात् ॥ २० ॥  
+</details>
+
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 हिरण्मयर् (तङ्गत्तैप् पोल् पिरगासिप्पवर्) ऎऩ्बदु तेवदा स्वरूबमायुळ्ळवरा? अल्लदु इवरुक्कुम् मेलाऩ ईसुवररा? ऎल्लै, आदारम्, रूबम् इवै सॊल्लप् पट्टिरुप्पदाल् तेवदात्मादाऩ्, ईसुवरर् अल्ल।
@@ -25,7 +45,35 @@ title = "०७ अन्तरधिकरणम्"
 ऎल्लावऱ्ऱिऱ्कुम् आत्मावायिरुक्कुम् तऩ्मै युळ्ळ तिऩालुम, ऎन्द विद तोषमुमऱ्ऱ तऩ्मैयुळ्ळदालुम् ईसुवरर्दाऩ् ऎऩ्ऱु तीर्माऩिक्कप् पडुगिऱदु। ऎल्लै मुदलि यवै ईसुवररिडत्तिलुम, उबासऩै सॆय्य वेण्डियदऱ्काग उबादिगळिलुळ्ळवैयाग एऱ्पडलाम्।
 </details>
 
-इदमाम्नायते — ‘अथ य एषोऽन्तरादित्ये हिरण्मयः पुरुषो दृश्यते हिरण्यश्मश्रुर्हिरण्यकेश आ प्रणखात्सर्व एव सुवर्णः’ (छा. उ. १। ६। ६) , ‘तस्य यथा कप्यासं पुण्डरीकमेवमक्षिणी तस्योदिति नाम स एष सर्वेभ्यः पाप्मभ्य उदित उदेति ह वै सर्वेभ्यः पाप्मभ्यो य एवं वेद’ (छा. उ. १। ६। ७) ‘... इत्यधिदैवतम्’ (छा. उ. १। ६। ८) ‘अथाध्यात्मम् ...’ (छा. उ. १। ७। १) ‘अथ य एषोऽन्तरक्षिणि पुरुषो दृश्यते’ (छा. उ. १। ७। ५) इत्यादि। तत्र संशयः — किं विद्याकर्मातिशयवशात्प्राप्तोत्कर्षः कश्चित्संसारी सूर्यमण्डले चक्षुषि चोपास्यत्वेन श्रूयते, किं वा नित्यसिद्धः परमेश्वर इति ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदमाम्नायते — ‘अथ य एषोऽन्तरादित्ये हिरण्मयः पुरुषो दृश्यते हिरण्यश्मश्रुर्हिरण्यकेश आ प्रणखात्सर्व एव सुवर्णः’ (छा. उ. १। ६। ६) , ‘तस्य यथा कप्यासं पुण्डरीकमेवमक्षिणी तस्योदिति नाम स एष सर्वेभ्यः पाप्मभ्य उदित उदेति ह वै सर्वेभ्यः पाप्मभ्यो य एवं वेद’ (छा. उ. १। ६। ७) ‘... इत्यधिदैवतम्’ (छा. उ. १। ६। ८) ‘अथाध्यात्मम् ...’ (छा. उ. १। ७। १) ‘अथ य एषोऽन्तरक्षिणि पुरुषो दृश्यते’ (छा. उ. १। ७। ५) इत्यादि।
+</details>
+
+<details><summary>Translation</summary>
+
+The following passage is found in Scripture (Cḥ. Up. I, 6, 6 ff.), "Now that person bright as gold who is seen within the sun, with beard bright as gold and hair bright as gold, bright as gold altogether to the very tips of his nails, whose eyes are like blue lotus; his name is Ut, for he has risen (udita) above all evil. He also who knows this rises above all evil. So much with reference to the devas. ' And further on, with reference to the body, 'Now the person who is seen in the eye,' &c.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदमाम्नायते — ‘अथ य एषोऽन्तरादित्ये हिरण्मयः पुरुषो दृश्यते हिरण्यश्मश्रुर्हिरण्यकेश आ प्रणखात्सर्व एव सुवर्णः’ (छा. उ. १। ६। ६) , ‘तस्य यथा कप्यासं पुण्डरीकमेवमक्षिणी तस्योदिति नाम स एष सर्वेभ्यः पाप्मभ्य उदित उदेति ह वै सर्वेभ्यः पाप्मभ्यो य एवं वेद’ (छा. उ. १। ६। ७) ‘... इत्यधिदैवतम्’ (छा. उ. १। ६। ८) ‘अथाध्यात्मम् ...’ (छा. उ. १। ७। १) ‘अथ य एषोऽन्तरक्षिणि पुरुषो दृश्यते’ (छा. उ. १। ७। ५) इत्यादि।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र संशयः — किं विद्याकर्मातिशयवशात्प्राप्तोत्कर्षः कश्चित्संसारी सूर्यमण्डले चक्षुषि चोपास्यत्वेन श्रूयते, किं वा नित्यसिद्धः परमेश्वर इति ।
+</details>
+
+<details><summary>Translation</summary>
+
+Here the following doubt presents itself. Do these passages point out, as the object of devotion directed on the sphere of the sun and the eye, merely some special individual soul, which, by means of a large measure of knowledge and pious works, has raised itself to a position of eminence; or do they refer to the eternally perfect highest Lord?
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र संशयः — किं विद्याकर्मातिशयवशात्प्राप्तोत्कर्षः कश्चित्संसारी सूर्यमण्डले चक्षुषि चोपास्यत्वेन श्रूयते, किं वा नित्यसिद्धः परमेश्वर इति ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -37,7 +85,155 @@ title = "०७ अन्तरधिकरणम्"
 "पिऱगु ऎन्द इवर् आदित्यऩुक्कु उळ्ळे स्वर्णमयमाय्, स्वर्णमीसैयुडऩ्, स्वर्ण केसत् तुडऩ्, नगम् वरैयिल् ऎल्लामे स्वर्णमाय्, पुरुषर् काणप्पडुगिऱारो। कबियिऩ् आसऩम् ऎप्पडियो अप्पडियुळ्ळ सॆन्दामरैबोल अवरुडैय कण्गळ्; अवरुक्कु उत् (मेलुळ्ळवर्) ऎऩ्ऱु पॆयर्; अन्द इवर् ऎल्ला पाबङ्गळिलिरुन्दुम् मेल् पोऩवर्। ऎवऩ् इव्विदम् अऱिगिऱाऩो अवऩुम् निच्चयमाग ऎल्ला पाबङ्गळिलिरुन्दुम् मेल् पोगिऱाऩ् ऎऩ्ऱु तेवदा विषयमाग" (सान् १-६-६, ७, ८) ऎऩ्ऱुम्, "इऩि सरीर विषयमाग। ऎन्द इवर् कण्णिल् उळ्ळे पुरुषर् काणप्पडुगिऱारो" (सान्।१-१-७, ५) ऎऩ्ऱुम् इदु सॊल्लप्पडुगिऱदु। अङ्गे संसयम्: सेषमाऩ वित्यै कर्माक्कळिऩ् वसत्तिऩाल् मेऩ्मै अडैन्दुळ्ळ ऒरु संसारि सूर्यमण्डलत्तिलुम् कण्णिलुम् उबासिक् कप्पड वेण्डियवरागच् चॊल्लप्पडुगिऱारा? अल्लदु ऎप्पॊऴुदुम् निलैत्तिरुक्कुम् परमात्मावा? ऎऩ्ऱु।
 </details>
 
-किं तावत्प्राप्तम् ? संसारीति। कुतः ? रूपवत्त्वश्रवणात्। आदित्यपुरुषे तावत् ‘हिरण्यश्मश्रुः’ इत्यादि रूपमुदाहृतम्। अक्षिपुरुषेऽपि तदेवातिदेशेन प्राप्यते ‘तस्यैतस्य तदेव रूपं यदमुष्य रूपम्’ इति। न च परमेश्वरस्य रूपवत्त्वं युक्तम् , ‘अशब्दमस्पर्शमरूपमव्ययम्’ (क. उ. १। ३। १५) इति श्रुतेः; आधारश्रवणाच्च — ‘य एषोऽन्तरादित्ये य एषोऽन्तरक्षिणि’ इति। न ह्यनाधारस्य स्वमहिमप्रतिष्ठस्य सर्वव्यापिनः परमेश्वरस्याधार उपदिश्येत । ‘स भगवः कस्मिन्प्रतिष्ठित इति स्वे महिम्नि’ (छा. उ. ७। २४। १) इति ‘आकाशवत्सर्वगतश्च नित्यः’ (शत. ब्रा. १०। ६। ३। २) इति च श्रुती भवतः ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं तावत्प्राप्तम् ?
+</details>
+
+<details><summary>Translation</summary>
+
+The pūrvapakshin takes the former view.
+</details>
+
+<details><summary>मूलम्</summary>
+
+किं तावत्प्राप्तम् ?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संसारीति।
+</details>
+
+<details><summary>Translation</summary>
+
+An individual soul, he says, is referred to,
+</details>
+
+<details><summary>मूलम्</summary>
+
+संसारीति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः ?
+</details>
+
+<details><summary>Translation</summary>
+
+since Scripture speaks of a definite shape.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कुतः ?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रूपवत्त्वश्रवणात्।
+</details>
+
+<details><summary>Translation</summary>
+
+To the person in the sun special features are ascribed, such as the possession of a beard as bright as gold and so on,
+</details>
+
+<details><summary>मूलम्</summary>
+
+रूपवत्त्वश्रवणात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आदित्यपुरुषे तावत् ‘हिरण्यश्मश्रुः’ इत्यादि रूपमुदाहृतम्।
+</details>
+
+<details><summary>Translation</summary>
+
+and the same features manifestly belong to the person in the eye also, since they are expressly transferred to it in the passage, 'The shape of this person is the same as the shape of that person.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आदित्यपुरुषे तावत् ‘हिरण्यश्मश्रुः’ इत्यादि रूपमुदाहृतम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अक्षिपुरुषेऽपि तदेवातिदेशेन प्राप्यते ‘तस्यैतस्य तदेव रूपं यदमुष्य रूपम्’ इति।
+</details>
+
+<details><summary>Translation</summary>
+
+' That, on the other hand, no shape can be ascribed to the highest Lord, follows from the passage (Kau. Up. I,3,15), 'That which is without sound, without touch, without form, without decay.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अक्षिपुरुषेऽपि तदेवातिदेशेन प्राप्यते ‘तस्यैतस्य तदेव रूपं यदमुष्य रूपम्’ इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च परमेश्वरस्य रूपवत्त्वं युक्तम् , ‘अशब्दमस्पर्शमरूपमव्ययम्’ (क. उ. १। ३। १५) इति श्रुतेः;
+</details>
+
+<details><summary>Translation</summary>
+
+' That an individual soul is meant follows moreover from the fact that a definite abode is mentioned, 'He who is in the sun; he who is in the eye.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च परमेश्वरस्य रूपवत्त्वं युक्तम् , ‘अशब्दमस्पर्शमरूपमव्ययम्’ (क. उ. १। ३। १५) इति श्रुतेः;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आधारश्रवणाच्च — ‘य एषोऽन्तरादित्ये य एषोऽन्तरक्षिणि’ इति।
+</details>
+
+<details><summary>Translation</summary>
+
+' About the highest Lord, who has no special abode, but abides in his own glory, no similar statement can be made; compare, for instance, the two following passages, 'Where does he rest?
+</details>
+
+<details><summary>मूलम्</summary>
+
+आधारश्रवणाच्च — ‘य एषोऽन्तरादित्ये य एषोऽन्तरक्षिणि’ इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्यनाधारस्य स्वमहिमप्रतिष्ठस्य सर्वव्यापिनः परमेश्वरस्याधार उपदिश्येत ।
+</details>
+
+<details><summary>Translation</summary>
+
+In his own glory?
+</details>
+
+<details><summary>मूलम्</summary>
+
+न ह्यनाधारस्य स्वमहिमप्रतिष्ठस्य सर्वव्यापिनः परमेश्वरस्याधार उपदिश्येत ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘स भगवः कस्मिन्प्रतिष्ठित इति स्वे महिम्नि’ (छा. उ. ७। २४। १) इति ‘आकाशवत्सर्वगतश्च नित्यः’ (शत. ब्रा. १०। ६। ३। २) इति च श्रुती भवतः ।
+</details>
+
+<details><summary>Translation</summary>
+
+' (Cḥ. Up. VII, 24, 1); and 'like the ether he is omnipresent, eternal.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘स भगवः कस्मिन्प्रतिष्ठित इति स्वे महिम्नि’ (छा. उ. ७। २४। १) इति ‘आकाशवत्सर्वगतश्च नित्यः’ (शत. ब्रा. १०। ६। ३। २) इति च श्रुती भवतः ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -49,7 +245,80 @@ title = "०७ अन्तरधिकरणम्"
 आदारम् सॊल्लियिरुप्पदालुम्: "ऎन्द इवर् आदित्यऩिल् उळ्ळे”, “ऎन्द इवर् कण्णिल् उळ्ळे" ऎऩ्ऱु। आदारमऱ्ऱवराय्, तऩ् महिमैयिलेये निलैत्तवराय्, ऎल्लावऱ्ऱैयुम् वियाबिप्पवरायुळ्ळ परमेसुवररुक्कु आदारम् उबदेसिक्कप्पडमाट्टादु। “हे पगवऩ्, अवर् ऎदिल् निलैत्तिरुक्किऱार् ऎऩ्ऱु ; तऩ् महिमैयिल्" (सान् ७-२४-१) ऎऩ्ऱुम्, “आगासत्तैप्पोल ऎङ्गुमुळ्ळवर् नित्यर्" ऎऩ्ऱुम् सुरुदिगळ् इरुक्किऩ्ऱऩ।
 </details>
 
-ऐश्वर्यमर्यादाश्रुतेश्च — ‘स एष ये चामुष्मात्पराञ्चो लोकास्तेषां चेष्टे देवकामानां च’ (छा. उ. १। ६। ८) इत्यादित्यपुरुषस्य ऐश्वर्यमर्यादा । ‘स एष ये चैतस्मादर्वाञ्चो लोकास्तेषां चेष्टे मनुष्यकामानां च’ (छा. उ. १। ७। ६) इत्यक्षिपुरुषस्य। न च परमेश्वरस्य मर्यादावदैश्वर्यं युक्तम्; ‘एष सर्वेश्वर एष भूताधिपतिरेष भूतपाल एष सेतुर्विधरण एषां लोकानामसंभेदाय’ (बृ. उ. ४। ४। २२) इत्यविशेषश्रुतेः। तस्मान्नाक्ष्यादित्ययोरन्तः परमेश्वर इत्येवं प्राप्ते ब्रूमः —
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऐश्वर्यमर्यादाश्रुतेश्च — ‘स एष ये चामुष्मात्पराञ्चो लोकास्तेषां चेष्टे देवकामानां च’ (छा. उ. १। ६। ८) इत्यादित्यपुरुषस्य ऐश्वर्यमर्यादा ।
+</details>
+
+<details><summary>Translation</summary>
+
+' A further argument for our view is supplied by the fact that the might (of the being in question) is said to be limited; for the passage, 'He is lord of the worlds beyond that, and of the wishes of the devas,' indicates the limitation of the might of the person in the sun;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऐश्वर्यमर्यादाश्रुतेश्च — ‘स एष ये चामुष्मात्पराञ्चो लोकास्तेषां चेष्टे देवकामानां च’ (छा. उ. १। ६। ८) इत्यादित्यपुरुषस्य ऐश्वर्यमर्यादा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘स एष ये चैतस्मादर्वाञ्चो लोकास्तेषां चेष्टे मनुष्यकामानां च’ (छा. उ. १। ७। ६) इत्यक्षिपुरुषस्य।
+</details>
+
+<details><summary>Translation</summary>
+
+and the passage, 'He is lord of the worlds beneath that and of the wishes of men,' indicates the limitation of the might of the person in the eye.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘स एष ये चैतस्मादर्वाञ्चो लोकास्तेषां चेष्टे मनुष्यकामानां च’ (छा. उ. १। ७। ६) इत्यक्षिपुरुषस्य।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च परमेश्वरस्य मर्यादावदैश्वर्यं युक्तम्;
+</details>
+
+<details><summary>Translation</summary>
+
+No limit, on the other hand, can be admitted of the might of the highest Lord, as appears from the passage (Br̥. Up. IV, 4, 22), 'He is the Lord of all, the king of all things, the protector of all things.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च परमेश्वरस्य मर्यादावदैश्वर्यं युक्तम्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘एष सर्वेश्वर एष भूताधिपतिरेष भूतपाल एष सेतुर्विधरण एषां लोकानामसंभेदाय’ (बृ. उ. ४। ४। २२) इत्यविशेषश्रुतेः।
+</details>
+
+<details><summary>Translation</summary>
+
+He is a bank and a boundary so that these worlds may not be confounded;' which passage intimates that the Lord is free from all limiting distinctions.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘एष सर्वेश्वर एष भूताधिपतिरेष भूतपाल एष सेतुर्विधरण एषां लोकानामसंभेदाय’ (बृ. उ. ४। ४। २२) इत्यविशेषश्रुतेः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मान्नाक्ष्यादित्ययोरन्तः परमेश्वर इत्येवं प्राप्ते ब्रूमः —
+</details>
+
+<details><summary>Translation</summary>
+
+For all these reasons the person in the eye and the sun cannot be the highest Lord.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मान्नाक्ष्यादित्ययोरन्तः परमेश्वर इत्येवं प्राप्ते ब्रूमः —
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -61,7 +330,125 @@ title = "०७ अन्तरधिकरणम्"
 आगैयाल् कण् आदित्यऩ् इवैगळिल् उळ्ळेयिरुप्पदु परमेसुवरर् इल्लै।
 </details>
 
-अन्तस्तद्धर्मोपदेशात् इति। ‘य एषोऽन्तरादित्ये’, ‘य एषोऽन्तरक्षिणि’ इति च श्रूयमाणः पुरुषः परमेश्वर एव, न संसारी। कुतः ? तद्धर्मोपदेशात्। तस्य हि परमेश्वरस्य धर्मा इहोपदिष्टाः। तद्यथा — ‘तस्योदिति नाम’ इति श्रावयित्वा अस्यादित्यपुरुषस्य नाम ‘स एष सर्वेभ्यः पाप्मभ्य उदितः’ इति सर्वपाप्मापगमेन निर्वक्ति। तदेव च कृतनिर्वचनं नामाक्षिपुरुषस्याप्यतिदिशति — ‘यन्नाम तन्नाम’ इति। सर्वपाप्मापगमश्च परमात्मन एव श्रूयते — ‘य आत्मापहतपाप्मा’ (छा. उ. ८। ७। १) इत्यादौ ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्तस्तद्धर्मोपदेशात् इति।
+</details>
+
+<details><summary>Translation</summary>
+
+To this reasoning the Sūtra replies, 'The one within, on account of his qualities being declared.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्तस्तद्धर्मोपदेशात् इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘य एषोऽन्तरादित्ये’, ‘य एषोऽन्तरक्षिणि’ इति च श्रूयमाणः पुरुषः परमेश्वर एव, न संसारी।
+</details>
+
+<details><summary>Translation</summary>
+
+' The person referred to in the passages concerning the person within the sun and the person within the eye is not a transmigrating being, but the highest Lord.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘य एषोऽन्तरादित्ये’, ‘य एषोऽन्तरक्षिणि’ इति च श्रूयमाणः पुरुषः परमेश्वर एव, न संसारी।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः ?
+</details>
+
+<details><summary>Translation</summary>
+
+Why?
+</details>
+
+<details><summary>मूलम्</summary>
+
+कुतः ?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्धर्मोपदेशात्।
+</details>
+
+<details><summary>Translation</summary>
+
+Because his qualities are declared.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्धर्मोपदेशात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्य हि परमेश्वरस्य धर्मा इहोपदिष्टाः।
+</details>
+
+<details><summary>Translation</summary>
+
+For the qualities of the highest Lord are indicated in the text as follows.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्य हि परमेश्वरस्य धर्मा इहोपदिष्टाः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्यथा — ‘तस्योदिति नाम’ इति श्रावयित्वा अस्यादित्यपुरुषस्य नाम ‘स एष सर्वेभ्यः पाप्मभ्य उदितः’ इति सर्वपाप्मापगमेन निर्वक्ति।
+</details>
+
+<details><summary>Translation</summary>
+
+At first the name of the person within the sun is mentioned--'his name is Ut'--and then this name is explained on the ground of that person being free from all evil, 'He has risen above all evil.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्यथा — ‘तस्योदिति नाम’ इति श्रावयित्वा अस्यादित्यपुरुषस्य नाम ‘स एष सर्वेभ्यः पाप्मभ्य उदितः’ इति सर्वपाप्मापगमेन निर्वक्ति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदेव च कृतनिर्वचनं नामाक्षिपुरुषस्याप्यतिदिशति — ‘यन्नाम तन्नाम’ इति।
+</details>
+
+<details><summary>Translation</summary>
+
+' The same name thus explained is then transferred to the person in the eye, in the clause, 'the name of the one is the name of the other.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदेव च कृतनिर्वचनं नामाक्षिपुरुषस्याप्यतिदिशति — ‘यन्नाम तन्नाम’ इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वपाप्मापगमश्च परमात्मन एव श्रूयते — ‘य आत्मापहतपाप्मा’ (छा. उ. ८। ७। १) इत्यादौ ।
+</details>
+
+<details><summary>Translation</summary>
+
+' Now, entire freedom from sin is attributed in Scripture to the highest Self only; so, for instance (Cḥ. Up. VIII, 7, 1), 'The Self which is free from sin,' &c.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वपाप्मापगमश्च परमात्मन एव श्रूयते — ‘य आत्मापहतपाप्मा’ (छा. उ. ८। ७। १) इत्यादौ ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -73,7 +460,115 @@ title = "०७ अन्तरधिकरणम्"
 अदु ऎप्पडियॆऩ्ऱाल्, ‘अवरुक्कु उत् ऎऩ्ऱु पॆयर्' ऎऩ्ऱु इन्द आदित्य पुरुषऩुडैय पॆयरै सॊल्लिविट्टु, “अन्द इवर् ऎल्ला पाबङ्गळिलिरुन्दुम् मेल् पोऩवर्” ऎऩ्ऱु ऎल्ला पाबङ्गळुम् पोऩवराग ऎडुत्तुच्चॊल्गिऱदु। ऎडुत्तुच् चॊऩ्ऩ अन्द पॆयरैये अक्षिबुरुषऩुक्कु ‘ऎदु (अवरुक्कु) पॆयरो अदुवे (इवरुक्कु) पॆयर्' ऎऩ्ऱु अदिदेसम् सॆय्गिऱदु। ऎल्लाप् पाबङ्गळुम् विलगियिरुप्पदो परमात्मा विऱ्कुत्ताऩ् सॊल्लप् पट्टिरुक्किऱदु। ‘ऎन्द आत्मा पाबम् विलगिऩवरो' (सान्।८-७-१) ऎऩ्बदु मुदलियदिल्।
 </details>
 
-तथा चाक्षुषे पुरुषे ‘सैव ऋक् तत्साम तदुक्थं तद्यजुस्तद्ब्रह्म’ इति ऋक्सामाद्यात्मकतां निर्धारयति। सा च परमेश्वरस्योपपद्यते, सर्वकारणत्वात्सर्वात्मकत्वोपपत्तेः। पृथिव्यग्न्याद्यात्मके चाधिदैवतमृक्सामे, वाक्प्राणाद्यात्मके चाध्यात्ममनुक्रम्याह — ‘तस्यर्क्च साम च गेष्णौ’ इत्यधिदैवतम्। तथाध्यात्ममपि — ‘यावमुष्य गेष्णौ तौ गेष्णौ’ इति। तच्च सर्वात्मकत्वे सत्येवोपपद्यते । ‘तद्य इमे वीणायां गायन्त्येतं ते गायन्ति तस्मात्ते धनसनयः’ (छा. उ. १। ७। ६) इति च लौकिकेष्वपि गानेष्वस्यैव गीयमानत्वं दर्शयति। तच्च परमेश्वरपरिग्रह एव घटते — ‘यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा। तत्तदेवावगच्छ त्वं मम तेजोंशसम्भवम्’ (भ. गी. १०। ४१) इति भगवद्गीतादर्शनात् ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा चाक्षुषे पुरुषे ‘सैव ऋक् तत्साम तदुक्थं तद्यजुस्तद्ब्रह्म’ इति ऋक्सामाद्यात्मकतां निर्धारयति।
+</details>
+
+<details><summary>Translation</summary>
+
+Then, again, there is the passage, 'He is R̥k, he is Sāman, Uktha, Yajus, Brahman,' which declares the person in the eye to be the Self of the R̥k, Sāman, and so on;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा चाक्षुषे पुरुषे ‘सैव ऋक् तत्साम तदुक्थं तद्यजुस्तद्ब्रह्म’ इति ऋक्सामाद्यात्मकतां निर्धारयति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा च परमेश्वरस्योपपद्यते, सर्वकारणत्वात्सर्वात्मकत्वोपपत्तेः।
+</details>
+
+<details><summary>Translation</summary>
+
+which is possible only if that person is the Lord who, as being the cause of all, is to be considered as the Self of all.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा च परमेश्वरस्योपपद्यते, सर्वकारणत्वात्सर्वात्मकत्वोपपत्तेः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पृथिव्यग्न्याद्यात्मके चाधिदैवतमृक्सामे, वाक्प्राणाद्यात्मके चाध्यात्ममनुक्रम्याह — ‘तस्यर्क्च साम च गेष्णौ’ इत्यधिदैवतम्।
+</details>
+
+<details><summary>Translation</summary>
+
+Moreover, the text, after having stated in succession R̥k and Sāman to have earth and fire for their Self with reference to the Devas, and, again, speech and breath with reference to the body, continues, 'R̥k and Sāman are his joints,' with reference to the Devas,
+</details>
+
+<details><summary>मूलम्</summary>
+
+पृथिव्यग्न्याद्यात्मके चाधिदैवतमृक्सामे, वाक्प्राणाद्यात्मके चाध्यात्ममनुक्रम्याह — ‘तस्यर्क्च साम च गेष्णौ’ इत्यधिदैवतम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथाध्यात्ममपि — ‘यावमुष्य गेष्णौ तौ गेष्णौ’ इति।
+</details>
+
+<details><summary>Translation</summary>
+
+and 'the joints of the one are the joints of the other,' with reference to the body.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथाध्यात्ममपि — ‘यावमुष्य गेष्णौ तौ गेष्णौ’ इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तच्च सर्वात्मकत्वे सत्येवोपपद्यते ।
+</details>
+
+<details><summary>Translation</summary>
+
+Now this statement also can be made only with regard to that which is the Self of all.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तच्च सर्वात्मकत्वे सत्येवोपपद्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘तद्य इमे वीणायां गायन्त्येतं ते गायन्ति तस्मात्ते धनसनयः’ (छा. उ. १। ७। ६) इति च लौकिकेष्वपि गानेष्वस्यैव गीयमानत्वं दर्शयति।
+</details>
+
+<details><summary>Translation</summary>
+
+Further, the passage, 'Therefore all who sing to the Vīnā sing him, and from him also they obtain wealth,' shows that the being spoken of is the sole topic of all worldly songs; which again holds true of the highest Lord only.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘तद्य इमे वीणायां गायन्त्येतं ते गायन्ति तस्मात्ते धनसनयः’ (छा. उ. १। ७। ६) इति च लौकिकेष्वपि गानेष्वस्यैव गीयमानत्वं दर्शयति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तच्च परमेश्वरपरिग्रह एव घटते — ‘यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा। तत्तदेवावगच्छ त्वं मम तेजोंशसम्भवम्’ (भ. गी. १०। ४१) इति भगवद्गीतादर्शनात् ।
+</details>
+
+<details><summary>Translation</summary>
+
+That absolute command over the objects of worldly desires (as displayed, for instance, in the bestowal of wealth) entitles us to infer that the Lord is meant, appears also from the following passage of the Bhagavadgītā (X, 41), 'Whatever being there is possessing power, glory, or strength, know it to be produced from a portion of my energy [^fn_120].
+</details>
+
+<details><summary>Translation - Notes</summary>
+
+[^fn_120]: 80:1 So that the real giver of the gifts bestowed by princes on poets and singers is Brahman.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तच्च परमेश्वरपरिग्रह एव घटते — ‘यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा। तत्तदेवावगच्छ त्वं मम तेजोंशसम्भवम्’ (भ. गी. १०। ४१) इति भगवद्गीतादर्शनात् ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -85,7 +580,35 @@ title = "०७ अन्तरधिकरणम्"
 ‘आगैयाल् ऎन्द इवर्गळ् वीणैयिल् काऩम् सॆय्गिऱार्गळो, अवर्गळ् इवरै काऩम् सॆय्गिऱार्गळ्। आगैयाल् अवर्गळ् सॆल्वमुळ्ळवर्गळाग इरुक्किऱार्गळ्' (सान्। १-७-६) ऎऩ्ऱु उलगत्तिलुळ्ळ काऩङ्गळिल् कूड इवरुक्के पाडप्पडुम् तऩ्मैयैक् काट्टुगिऱदु। अदुवुम् परमेसुवरऩ् ऎऩऱु ऎडुत्तुक्कॊण्डाल्दाऩ् पॊरुन्दुम्। 'ऎन्द ऎन्द पिराणि महिमैयुळ्ळदायो, सॆल्वमुळ्ळदायो, पलमुळ्ळ तायो इरुक्किऱदो, अदु अदु ऎऩ्ऩुडैय तेजसिऩ् अंसत्तिऩाल् एऱ्पट्टदुदाऩ् ऎऩ्ऱु नी अऱिन्दुगॊळ्' (कीदै १०-४१) ऎऩ्ऱु पगवत्कीदैयिल् काणुवदाल्।
 </details>
 
-लोककामेशितृत्वमपि निरङ्कुशं श्रूयमाणं परमेश्वरं गमयति। यत्तूक्तं हिरण्यश्मश्रुत्वादिरूपवत्त्वश्रवणं परमेश्वरे नोपपद्यत इति, अत्र ब्रूमः — स्यात्परमेश्वरस्यापीच्छावशान्मायामयं रूपं साधकानुग्रहार्थम्, ‘माया ह्येषा मया सृष्टा यन्मां पश्यसि नारद ।’(म॰भा॰ १२-३३९-४५) ‘सर्वभूतगुणैर्युक्तं मैवं मां ज्ञातुमर्हसि’(म॰भा॰ १२-३३९-४६) इति स्मरणात् ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+लोककामेशितृत्वमपि निरङ्कुशं श्रूयमाणं परमेश्वरं गमयति।
+</details>
+
+<details><summary>Translation</summary>
+
+' To the objection that the statements about bodily shape contained in the clauses, 'With a beard bright as gold,' &c., cannot refer to the highest Lord, we reply that the highest Lord also may, when he pleases, assume a bodily shape formed of Māyā, in order to gratify thereby his devout worshippers.
+</details>
+
+<details><summary>मूलम्</summary>
+
+लोककामेशितृत्वमपि निरङ्कुशं श्रूयमाणं परमेश्वरं गमयति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत्तूक्तं हिरण्यश्मश्रुत्वादिरूपवत्त्वश्रवणं परमेश्वरे नोपपद्यत इति, अत्र ब्रूमः — स्यात्परमेश्वरस्यापीच्छावशान्मायामयं रूपं साधकानुग्रहार्थम्, ‘माया ह्येषा मया सृष्टा यन्मां पश्यसि नारद ।’(म॰भा॰ १२-३३९-४५) ‘सर्वभूतगुणैर्युक्तं मैवं मां ज्ञातुमर्हसि’(म॰भा॰ १२-३३९-४६) इति स्मरणात् ।
+</details>
+
+<details><summary>Translation</summary>
+
+Thus Smr̥ti also says, 'That thou seest me, O Nārada, is the Māyā emitted by me; do not then look on me as endowed with the qualities of all beings.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्तूक्तं हिरण्यश्मश्रुत्वादिरूपवत्त्वश्रवणं परमेश्वरे नोपपद्यत इति, अत्र ब्रूमः — स्यात्परमेश्वरस्यापीच्छावशान्मायामयं रूपं साधकानुग्रहार्थम्, ‘माया ह्येषा मया सृष्टा यन्मां पश्यसि नारद ।’(म॰भा॰ १२-३३९-४५) ‘सर्वभूतगुणैर्युक्तं मैवं मां ज्ञातुमर्हसि’(म॰भा॰ १२-३३९-४६) इति स्मरणात् ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -97,7 +620,110 @@ title = "०७ अन्तरधिकरणम्"
 स्वर्णमीसैयुडैयदु मुदलिय रूबम् सॊल्लि यिरुप्पदु परमेसुवररिडत्तिल् पॊरुन्दादु ऎऩ्ऱु ऎदु सॊल्लप्पडुगिऱदो, अव्विषयत्तिल् सॊल्गिऱोम्: परमेसुवररुक्कुक्कूड इष्टप्पट्टाल् सादगर्गळिऩ् अऩुक्रहत्तिऩ् पॊरुट्टु मायामयमाऩ रूबम् इरुक्कलाम्। “हे नारदा, ऎल्लाप् पिराणिगळुडैय कुणङ्गळोडु सेर्न्ददाग ऎप्पडि ऎऩ्ऩैप् पार्क्किऱायो, इदुवो ऎऩ्ऩाल् स्रुष्टिक्कप् पट्टिरुक्कुम् मायै; ऎऩ्ऩै इव्विदमे ऎऩ्ऱु निऩैत्तुविडादे" ऎऩ्ऱु स्मरिक्कप्पट्टिरुप्पदाल्,
 </details>
 
-अपि च, यत्र तु निरस्तसर्वविशेषं पारमेश्वरं रूपमुपदिश्यते, भवति तत्र शास्त्रम् ‘अशब्दमस्पर्शमरूपमव्ययम्’ (क. उ. १। ३। १५) इत्यादि। सर्वकारणत्वात्तु विकारधर्मैरपि कैश्चिद्विशिष्टः परमेश्वर उपास्यत्वेन निर्दिश्यते — ‘सर्वकर्मा सर्वकामः सर्वगन्धः सर्वरसः’ (छा. उ. ३। १४। २) इत्यादिना। तथा हिरण्यश्मश्रुत्वादिनिर्देशोऽपि भविष्यति। यदप्याधारश्रवणान्न परमेश्वर इति, अत्रोच्यते — स्वमहिमप्रतिष्ठस्याप्याधारविशेषोपदेश उपासनार्थो भविष्यति। सर्वगतत्वाद्ब्रह्मणो व्योमवत्सर्वान्तरत्वोपपत्तेः। ऐश्वर्यमर्यादाश्रवणमप्यध्यात्माधिदैवतविभागापेक्षमुपासनार्थमेव। तस्मात्परमेश्वर एवाक्ष्यादित्ययोरन्तरुपदिश्यते ॥ २० ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च, यत्र तु निरस्तसर्वविशेषं पारमेश्वरं रूपमुपदिश्यते, भवति तत्र शास्त्रम् ‘अशब्दमस्पर्शमरूपमव्ययम्’ (क. उ. १। ३। १५) इत्यादि।
+</details>
+
+<details><summary>Translation</summary>
+
+' We have further to note that expressions such as, 'That which is without sound, without touch, without form, without decay,' are made use of where instruction is given about the nature of the highest Lord in so far as he is devoid of all qualities;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि च, यत्र तु निरस्तसर्वविशेषं पारमेश्वरं रूपमुपदिश्यते, भवति तत्र शास्त्रम् ‘अशब्दमस्पर्शमरूपमव्ययम्’ (क. उ. १। ३। १५) इत्यादि।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वकारणत्वात्तु विकारधर्मैरपि कैश्चिद्विशिष्टः परमेश्वर उपास्यत्वेन निर्दिश्यते — ‘सर्वकर्मा सर्वकामः सर्वगन्धः सर्वरसः’ (छा. उ. ३। १४। २) इत्यादिना।
+</details>
+
+<details><summary>Translation</summary>
+
+while passages such as the following one, 'He to whom belong all works, all desires, all sweet odours and tastes' (Cḥ. Up. III, 14, 2), which represent the highest Lord as the object of devotion, speak of him, who is the cause of everything, as possessing some of the qualities of his effects.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वकारणत्वात्तु विकारधर्मैरपि कैश्चिद्विशिष्टः परमेश्वर उपास्यत्वेन निर्दिश्यते — ‘सर्वकर्मा सर्वकामः सर्वगन्धः सर्वरसः’ (छा. उ. ३। १४। २) इत्यादिना।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हिरण्यश्मश्रुत्वादिनिर्देशोऽपि भविष्यति।
+</details>
+
+<details><summary>Translation</summary>
+
+Analogously he may be spoken of, in the passage under discussion, as having a beard bright as gold and so on.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा हिरण्यश्मश्रुत्वादिनिर्देशोऽपि भविष्यति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदप्याधारश्रवणान्न परमेश्वर इति, अत्रोच्यते — स्वमहिमप्रतिष्ठस्याप्याधारविशेषोपदेश उपासनार्थो भविष्यति।
+</details>
+
+<details><summary>Translation</summary>
+
+With reference to the objection that the highest Lord cannot be meant because an abode is spoken of, we remark that, for the purposes of devout meditation, a special abode may be assigned to Brahman, although it abides in its own glory only;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदप्याधारश्रवणान्न परमेश्वर इति, अत्रोच्यते — स्वमहिमप्रतिष्ठस्याप्याधारविशेषोपदेश उपासनार्थो भविष्यति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वगतत्वाद्ब्रह्मणो व्योमवत्सर्वान्तरत्वोपपत्तेः।
+</details>
+
+<details><summary>Translation</summary>
+
+for as Brahman is, like ether, all-pervading, it may be viewed as being within the Self of all beings.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वगतत्वाद्ब्रह्मणो व्योमवत्सर्वान्तरत्वोपपत्तेः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऐश्वर्यमर्यादाश्रवणमप्यध्यात्माधिदैवतविभागापेक्षमुपासनार्थमेव।
+</details>
+
+<details><summary>Translation</summary>
+
+The statement, finally, about the limitation of Brahman's might, which depends on the distinction of what belongs to the gods and what to the body, has likewise reference to devout meditation only.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऐश्वर्यमर्यादाश्रवणमप्यध्यात्माधिदैवतविभागापेक्षमुपासनार्थमेव।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात्परमेश्वर एवाक्ष्यादित्ययोरन्तरुपदिश्यते ॥ २० ॥
+</details>
+
+<details><summary>Translation</summary>
+
+From all this it follows that the being which Scripture states to be within the eye and the sun is the highest Lord.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मात्परमेश्वर एवाक्ष्यादित्ययोरन्तरुपदिश्यते ॥ २० ॥
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -119,16 +745,97 @@ title = "०७ अन्तरधिकरणम्"
 आगैयाल् परमेसुवरर्दाऩ् कण्णिलुम् आदित्यऩिडत्तिलुम् उळ्ळे इरुप्पदाग उबदेसिक् कप्पट्टिरुक्किऱदु।
 </details>
 
-भेदव्यपदेशाच्चान्यः ॥ २१ ॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भेदव्यपदेशाच्चान्यः ॥ २१ ॥
+</details>
+
+<details><summary>Translation</summary>
+
+21. And there is another one (i.e. the Lord who is different from the individual souls animating the sun, &c.), on account of the declaration of distinction.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भेदव्यपदेशाच्चान्यः ॥ २१ ॥
+</details>
+
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 पेदव्यबदेसाच्चान्य: ॥ २१ ॥
 </details>
 
-अस्ति चादित्यादिशरीराभिमानिभ्यो जीवेभ्योऽन्य ईश्वरोऽन्तर्यामी — ‘य आदित्ये तिष्ठन्नादित्यादन्तरो यमादित्यो न वेद यस्यादित्यः शरीरं य आदित्यमन्तरो यमयत्येष त आत्मान्तर्याम्यमृतः’ (बृ. उ. ३। ७। ९) इति श्रुत्यन्तरे भेदव्यपदेशात्। तत्र हि ‘आदित्यादन्तरो यमादित्यो न वेद’ इति वेदितुरादित्याद्विज्ञानात्मनोऽन्योऽन्तर्यामी स्पष्टं निर्दिश्यते। स एवेहाप्यन्तरादित्ये पुरुषो भवितुमर्हति, श्रुतिसामान्यात्। तस्मात्परमेश्वर एवेहोपदिश्यत इति सिद्धम् ॥ २१ ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्ति चादित्यादिशरीराभिमानिभ्यो जीवेभ्योऽन्य ईश्वरोऽन्तर्यामी — ‘य आदित्ये तिष्ठन्नादित्यादन्तरो यमादित्यो न वेद यस्यादित्यः शरीरं य आदित्यमन्तरो यमयत्येष त आत्मान्तर्याम्यमृतः’ (बृ. उ. ३। ७। ९) इति श्रुत्यन्तरे भेदव्यपदेशात्।
+</details>
+
+<details><summary>Translation</summary>
+
+There is, moreover, one distinct from the individual souls which animate the sun and other bodies, viz. the Lord who rules within; whose distinction (from all individual souls) is proclaimed in the following scriptural passage, 'He who dwells in the sun and within the sun, whom the sun does not know, whose body the sun is, and who rules the sun within; he is thy Self, the ruler within, the immortal' (Br̥. Up. III, 7, 9).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अस्ति चादित्यादिशरीराभिमानिभ्यो जीवेभ्योऽन्य ईश्वरोऽन्तर्यामी — ‘य आदित्ये तिष्ठन्नादित्यादन्तरो यमादित्यो न वेद यस्यादित्यः शरीरं य आदित्यमन्तरो यमयत्येष त आत्मान्तर्याम्यमृतः’ (बृ. उ. ३। ७। ९) इति श्रुत्यन्तरे भेदव्यपदेशात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र हि ‘आदित्यादन्तरो यमादित्यो न वेद’ इति वेदितुरादित्याद्विज्ञानात्मनोऽन्योऽन्तर्यामी स्पष्टं निर्दिश्यते।
+</details>
+
+<details><summary>Translation</summary>
+
+Here the expression, 'He within the sun whom the sun does not know,' clearly indicates that the Ruler within is distinct from that cognising individual soul whose body is the sun.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र हि ‘आदित्यादन्तरो यमादित्यो न वेद’ इति वेदितुरादित्याद्विज्ञानात्मनोऽन्योऽन्तर्यामी स्पष्टं निर्दिश्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स एवेहाप्यन्तरादित्ये पुरुषो भवितुमर्हति, श्रुतिसामान्यात्।
+</details>
+
+<details><summary>Translation</summary>
+
+With that Ruler within we have to identify the person within the sun, according to the tenet of the sameness of purport of all Vedānta-texts.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स एवेहाप्यन्तरादित्ये पुरुषो भवितुमर्हति, श्रुतिसामान्यात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात्परमेश्वर एवेहोपदिश्यत इति सिद्धम् ॥ २१ ॥
+</details>
+
+<details><summary>Translation</summary>
+
+It thus remains a settled conclusion that the passage under discussion conveys instruction about the highest Lord.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मात्परमेश्वर एवेहोपदिश्यत इति सिद्धम् ॥ २१ ॥
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 ‘ऎवर् आदित्यऩिल् इरुन्दु कॊण्डु, आदित्यऩै विड उळ्ळे, ऎवरै आदित्यऩ् अऱिवदिल्लैयो, ऎवरुक्कु आदित्यऩ् सरीरमो, ऎवर् उळ्ळेयिरुन्दु आदित्यऩै नियमऩम् सॆय्गिऱारो, इवर् उऩ्ऩुडैय आत्मा, अन्दर्यामी, मरणमऱ्ऱवर्' (पिरुहत् ३-७-९) ऎऩ्ऱु वेऱु सुरुदियिल् वेऱ्ऱुमै कुऱिप्पिडप् पट्टिरुप्पदाल्, आदित्यऩ् मुदलाऩ सरीरङ्गळै अबिमाऩिक्कुम् जीवर्गळुक्कु वेऱाग अन्दर्यामियाग ईसुवरर् इरुक्किऱार्। अङ्गेयो 'आदित्य ऩैविड उळ्ळे, ऎवरै आदित्यऩ् अऱिवदिल्लैयो' ऎऩ्ऱु अऱिबवऩागिय विज्ञानात्मावाऩ (जीवऩाऩ) आदित्यऩुक्कु वेऱाग अन्दर्यामी तॆळिवागक् कुऱिप्पिडप्पडुगिऱार्। सुरुदिगळ् समाऩमायिरुप्पदाल् इङ्गेयुम् कूड अवरेदाऩ् आदित्यऩिल् उळ्ळ पुरुषराग इरुप्पदु न्यायम्। आगैयाल् परमेसुवरर्दाऩ् इङ्गे कुऱिप्पिडप्पडुगिऱार् ऎऩ्बदु सित्तम्।
 </details>
 
+<details><summary>Appendix</summary>
+
+- G0 duplication (file-10 precedent): new first block duplicates header sūtra line 6 SA/Mūlam verbatim (`अन्तस्तद्धर्मोपदेशात् ॥ २० ॥` + 2 trailing spaces) with EN sūtra-20 heading + Notes fn_119; total 47 blocks (was 46 shifted-by-one).
+- Sūtra-21 pairing: EN `21. And there is another one (i.e. the Lord who is different from the individual souls animating the sun, &c.), on account of the declaration of distinction.` pairs with SA `भेदव्यपदेशाच्चान्यः ॥ २१ ॥` (old41/new42).
+- Groupings (combine): SA0 (इदमाम्नायते…) = E1–E4 combined (`The following passage… (Cḥ. Up. I, 6, 6 ff.), … "Now that person… (udita) above all evil. He also… So much… devas.' And further on… eye,' &c.`); SA1 (तत्र संशयः…) = E5+E6 (`Here the following doubt… Do these passages… highest Lord?`); SA42 (अस्ति…) = E39 combined (`There is, moreover… viz. the Lord… (Br̥. Up. III, 7, 9).` — undoes old split inside ref).
+- Splits (no split inside (...) refs): O8 `An individual soul… / since… shape.` (संसारीति / कुतः); O9 `To the person… and so on, / and the same features… person.'` ; O15 `…sun; / and the passage… eye.` ; O27 `…and so on; / which is possible… all.` ; O28 `…Devas, / and 'the joints… body.` ; O35 (E34) `…qualities; / while passages… effects.` incl. `(Cḥ. Up. III, 14, 2)` intact; O37 (E36) `…only; / for as Brahman… beings.` ; kept E12–14 as 3 (`' About… rest? / In his own glory?' / ' (Cḥ. Up. VII, 24, 1); and 'like… eternal.`) and E32 whole (`' To the objection… &c.` + `, cannot… worshippers.`) for old32.
+- Footnotes: fn_119 with G0 only; fn_120 (`[X, 41]` Gītā, `[^fn_120]`) with SA31/Gītā block (new32/old31 `तच्च परमेश्वर…`) only; footnote defs are Notes, not body; `Brahman  itself` double-space preserved.
+- Coverage: EN from `thibaut/1/1/20.md` (heading + body E1–E38, line-wraps joined single space) and `thibaut/1/1/21.md` (heading + E39–E42); frontmatter `+++` stripped; copy verbatim, no [[OLD|NEW]] corrections needed.
+</details>
