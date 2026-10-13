@@ -1,6 +1,5 @@
 +++
 title = "०६ आनन्दमयाधिकरणम्"
-
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -497,7 +496,6 @@ And, again, an enquiry will have to be undertaken into the meaning of the texts,
 तस्य कथम् उपास्यत्वं वेदप्रतिपाद्यम्?
 </details>
 
-
 <details><summary>Translation</summary>
 
 From all this it appears that the following part of the Śāstra has a special object of its own, viz. to show that the Vedānta-texts teach, on the one hand, Brahman as connected with limiting conditions and forming an object of devotion, and on the other hand, as being free from the connexion with such conditions and constituting an object of knowledge.
@@ -913,7 +911,6 @@ Just as when a man, desirous of pointing out the star Arundhatī to another man,
 उपाधिजनितेति शङ्कर-कपोल-कल्पितम्। 
 </details>
 
-
 <details><summary>Translation</summary>
 
 Nor can any weight be allowed to the objection that the attribution of joy and so on, as head, &c., cannot possibly refer to the real Self; for this attribution is due to the immediately preceding limiting condition (viz. the Self consisting of understanding, the so-called vijñānakosa), and does not really belong to the real Self.
@@ -937,7 +934,6 @@ Nor can any weight be allowed to the objection that the attribution of joy and s
 
 इति स्पष्टम् एवोक्तम् आनन्दमयेऽपि। 
 </details>
-
 
 <details><summary>Translation</summary>
 
@@ -994,7 +990,9 @@ Hence the Self consisting of bliss is the highest Brahman.
 <details><summary>मूलम्</summary>
 
 विकारशब्दान्नेति चेन्न प्राचुर्यात् ॥ १३ ॥
-</details><details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 विगारसप्तान्नेदि सेन्न प्रासुर्यात् ॥ १३ ॥
 </details>
@@ -1138,9 +1136,10 @@ Maya therefore denotes abundance.
 इङ्गु सॊल्गिऱाऩ्, आऩन्दमयऩ् परमात्वाग इरुक्कमुडियादु एऩ्? विगारत्तैच् चॊल्लुम् सप्तत्तिऩाल् पिरगिरुदियैच् चॊल्लुम् वसऩत्तिऱ्कु वेऱायुळ्ळदाग विगारत्तैच् चॊल्वदाग इन्द सप्तम् अऱियप्पडुगिऱदु; आऩन्दमय ऎऩ्बदिलुळ्ळ ‘मय’ ऎऩ्बदऱ्कु विगारत्तै अर्त्तमागवुडैय तऩ्मै यिरुप्पदाल्। आगैयाल् अऩ्ऩमयम् मुदलिय सप्तम्बोल, आऩन्दमय सप्तमुम् विगारत्तैये विषयमायुळ्ळदु-ऎऩ्ऱाल्, सरियल्ल, मय ऎऩ्बदु पिरासुर्यम् (अदिगमाग इरुत्तल्) ऎऩ्ऱ अर्त्तत्तिलुम् सॊल्लियिरुप्पदाल्। 'तत्प्रक्रुद वसने मयट्' (पाणिऩि सूत्रम् ५-४-२१) ऎऩ्ऱु अदिगमायिरुप्पदु ऎऩ्बदिलुम् मयट् चॊल्लप्पट्टिरुक्किऱदु पिरसित्तम्। ऎप्पडि 'यागम् अऩ्ऩमयम्’ ऎऩ्ऱु अऩ्ऩम् एराळमायिरुक्कुम्बोदु सॊल्लप्पडुगिऱदो, अप्पडिये आऩन्दम् अदिगमाग इरुक्कुम् पिरह्मम् आऩन्दमयम् ऎऩ्ऱु सॊल्लप् पडुगिऱदु। मऩुष्यत् तऩ्मैयिलिरुन्दु आरम्बित्तु मेल् मेल् स्ताऩत्तिल् नूऱु नूऱु पङ्गु आऩन्दम् ऎऩ्ऱु सॊल्लिविट्टु पिरह्मत्तिऩ् आऩन्दत्तिऱ्कु मेलॆदुवु मिल्लै ऎऩ्ऱु तीर्माऩित् तिरुप्पदाल्, पिरह्मत्तिऱ्कु आऩन्दम् अदिगमायुळ्ळ तऩ्मै उण्डु। आगैयाल् अदिगमॆऩ्ऱ अर्त्तत्तिल्मय ऎऩ्ऱसप्तम्।
 </details>
 
+#### आनन्दयितृता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्धेतुव्यपदेशाच्च ॥ १४ ॥
+तद्+++(→आनन्द)+++-हेतु-व्यपदेशाच् च ॥ १४ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -1151,14 +1150,19 @@ Maya therefore denotes abundance.
 <details><summary>मूलम्</summary>
 
 तद्धेतुव्यपदेशाच्च ॥ १४ ॥
-</details><details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 तत्तेदुव्यबदेसाच्च ॥ १४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतश्च प्राचुर्यार्थे मयट्; यस्मादानन्दहेतुत्वं ब्रह्मणो व्यपदिशति श्रुतिः — ‘एष ह्येवानन्दयाति’ इति — आनन्दयतीत्यर्थः।
+इतश् च प्राचुर्यार्थे मयट्;  
+यस्माद् आनन्द-हेतुत्वं ब्रह्मणो व्यपदिशति श्रुतिः —  
+‘एष ह्य् एवानन्दयाति’ इति  
+— आनन्दयतीत्यर्थः।
 </details>
 
 <details><summary>Translation</summary>
@@ -1173,7 +1177,10 @@ Maya must be understood to denote abundance, for that reason also that Scripture
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो ह्यन्यानानन्दयति स प्रचुरानन्द इति प्रसिद्धं भवति; यथा लोके योऽन्येषां धनिकत्वमापादयति स प्रचुरधन इति गम्यते, तद्वत्।
+यो ह्य् अन्यान् आनन्दयति  
+स प्रचुरानन्द इति प्रसिद्धं भवति;  
+यथा लोके योऽन्येषां धनिकत्वम् आपादयति  
+स प्रचुर-धन इति गम्यते, तद्वत्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1188,7 +1195,8 @@ For he who causes bliss must himself abound in bliss; just as we infer in ordina
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मात्प्राचुर्यार्थेऽपि मयटः सम्भवादानन्दमयः पर एवात्मा ॥ १४ ॥
+तस्मात्प्राचुर्यार्थेऽपि मयटः सम्भवाद्  
+आनन्दमयः पर एवात्मा ॥ १४ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -1208,7 +1216,7 @@ As, therefore, maya may be taken to mean 'abundant,' the Self consisting of blis
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मान्त्रवर्णिकमेव च गीयते ॥ १५ ॥
++++("ब्र॒ह्म॒-विद् आ॑प्नोति॒ पर॑म् … सत्यं ज्ञानम् अनन्तं ब्रह्म; ब्रह्मविद् " →)+++ मान्त्र-वर्णिकम् +++(ब्रह्म)+++ एव च +++("आनन्दमय" इति)+++ गीयते ॥ १५ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -1219,14 +1227,33 @@ As, therefore, maya may be taken to mean 'abundant,' the Self consisting of blis
 <details><summary>मूलम्</summary>
 
 मान्त्रवर्णिकमेव च गीयते ॥ १५ ॥
-</details><details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 मान्द्रवर्णिगमेव स कीयदे ॥ १५ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतश्चानन्दमयः पर एवात्मा; यस्मात् ‘ब्रह्मविदाप्नोति परम्’ (तै. उ. २। १। १) इत्युपक्रम्य, ‘सत्यं ज्ञानमनन्तं ब्रह्म’ (तै. उ. २। १। १) इत्यस्मिन्मन्त्रे यत् प्रकृतं ब्रह्म सत्यज्ञानानन्तविशेषणैर्निर्धारितम् , यस्मादाकाशादिक्रमेण स्थावरजङ्गमानि भूतान्यजायन्त, यच्च भूतानि सृष्ट्वा तान्यनुप्रविश्य गुहायामवस्थितं सर्वान्तरम् , यस्य विज्ञानाय ‘अन्योऽन्तर आत्मा’ ‘अन्योऽन्तर आत्मा’ इति प्रक्रान्तम् , तन्मान्त्रवर्णिकमेव ब्रह्मेह गीयते — ‘अन्योऽन्तर आत्मानन्दमयः’ (तै. उ. २। ५। १) इति।
+इतश् चानन्दमयः पर एवात्मा;  
+यस्मात् ‘ब्रह्म-विद् आप्नोति परम्’ (तै. उ. २। १। १) इत्य् उपक्रम्य,  
+‘सत्यं ज्ञानम् अनन्तं ब्रह्म’ (तै. उ. २। १। १) इत्य्-अस्मिन् मन्त्रे यत् प्रकृतं ब्रह्म  
+सत्य्-अज्ञानानन्त-विशेषणैर् निर्धारितम् ,  
+यस्माद् आकाशादि-क्रमेण स्थावर-जङ्गमानि भूतान्य् अजायन्त,  
+यच् च भूतानि सृष्ट्वा  
+तान्य् अनुप्रविश्य  
+गुहायाम् अवस्थितं सर्वान्तरम् ,  
+यस्य विज्ञानाय  
+
+> ‘अन्योऽन्तर आत्मा’ … ‘अन्योऽन्तर आत्मा’ 
+
+इति प्रक्रान्तम् ,  
+तन्-मान्त्र-वर्णिकम् एव ब्रह्मेह गीयते — 
+
+> ‘अन्योऽन्तर आत्मानन्दमयः’ (तै. उ. २। ५। १) 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -1246,7 +1273,7 @@ The Self, consisting of joy, is the highest Brahman for the following reason als
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मन्त्रब्राह्मणयोश्चैकार्थत्वं युक्तम् , अविरोधात्।
+मन्त्र-ब्राह्मणयोश् चैकार्थत्वं युक्तम् , अविरोधात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1261,7 +1288,7 @@ To assume that a mantra and the Brāhmaṇa passage belonging to it have the sam
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्यथा हि प्रकृतहानाप्रकृतप्रक्रिये स्याताम्।
+अन्यथा हि प्रकृत-हानाप्रकृत-प्रक्रिये स्याताम्।+++(5)+++
 </details>
 
 <details><summary>Translation</summary>
@@ -1276,7 +1303,7 @@ for otherwise we should be driven to the unwelcome inference that the text drops
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चान्नमयादिभ्य इवानन्दमयादन्योऽन्तर आत्माभिधीयते।
+न चान्नमयादिभ्य इवानन्दमयाद् अन्योऽन्तर आत्माभिधीयते।
 </details>
 
 <details><summary>Translation</summary>
@@ -1296,7 +1323,12 @@ Nor is there mentioned a further inner Self different from the Self consisting o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतन्निष्ठैव च ‘सैषा भार्गवी वारुणी विद्या’ (तै. उ. ३। ६। १) — ‘आनन्दो ब्रह्मेति व्यजानात्’ (तै. उ. ३। ६। १) इति।
+एतन्-निष्ठैव च  
+
+> ‘सैषा भार्गवी वारुणी विद्या’ (तै. उ. ३। ६। १) —  
+‘आनन्दो ब्रह्मेति व्यजानात्’ (तै. उ. ३। ६। १) 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -1334,9 +1366,10 @@ Therefore the Self consisting of bliss is the highest Self.
 मेलुम्, अऩ्ऩमयम् मुदलियवैगळिलिरुन्दु पोल आऩन्दमयऩिलिरुन्दु वेऱु उळ्ळे आत्मा सॊल्लप्पडविल्लै। ‘अन्द इदु पिरुगुविऩाल् अऱिन्दुगॊळ्ळप्पट्टदायुम् वरुणराल् उबदेसिक्कप् पट्टदायुमुळ्ळ वित्या' ऎऩ्ऱु इदिलेये मुडिवडैन्दु विडुगिऱदु। आगैयाल् आऩन्दमयऩ् परमात्मादाऩ्।
 </details>
 
+## सृष्ट्य्-आदेः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नेतरोऽनुपपत्तेः ॥ १६ ॥
+नेतरो ऽनुपपत्तेः +++(←ऋग्-उक्त- -निरुपाधिक-विपश्चित्त्वाभावात्)+++ ॥ १६ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -1347,14 +1380,17 @@ Therefore the Self consisting of bliss is the highest Self.
 <details><summary>मूलम्</summary>
 
 नेतरोऽनुपपत्तेः ॥ १६ ॥
-</details><details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 नेदरोअनुबबत्ते: ॥ १६ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतश्चानन्दमयः पर एवात्मा, नेतरः; इतर ईश्वरादन्यः संसारी जीव इत्यर्थः।
+इतश् चानन्दमयः पर एवात्मा, नेतरः;  
+इतर ईश्वराद् अन्यः संसारी जीव इत्य् अर्थः।
 </details>
 
 <details><summary>Translation</summary>
@@ -1369,7 +1405,7 @@ And for the following reason also the Self consisting of bliss is the highest Se
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न जीव आनन्दमयशब्देनाभिधीयते।
+न जीव आनन्दमय-शब्देनाभिधीयते।
 </details>
 
 <details><summary>Translation</summary>
@@ -1414,7 +1450,13 @@ On account of the impossibility.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आनन्दमयं हि प्रकृत्य श्रूयते — ‘सोऽकामयत। बहु स्यां प्रजायेयेति। स तपोऽतप्यत। स तपस्तप्त्वा। इदँ सर्वमसृजत। यदिदं किञ्च’ (तै. उ. २। ६। १) इति।
+आनन्दमयं हि प्रकृत्य श्रूयते — 
+
+> ‘सोऽकामयत - बहु स्यां प्रजायेयेति।  
+स तपोऽतप्यत।  
+स तपस् तप्त्वा, इदँ सर्वम् असृजत, यद् इदं किञ्च’ (तै. उ. २। ६। १) 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -1429,7 +1471,10 @@ For Scripture says, with reference to the Self consisting of bliss, 'He wished, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र प्राक्शरीराद्युत्पत्तेरभिध्यानम् , सृज्यमानानां च विकाराणां स्रष्टुरव्यतिरेकः, सर्वविकारसृष्टिश्च न परस्मादात्मनोऽन्यत्रोपपद्यते ॥ १६ ॥
+तत्र प्राक् शरीराद्य्-उत्पत्तेर् अभिध्यानम् ,  
+सृज्यमानानां च विकाराणां स्रष्टुर् अव्यतिरेकः,  
+सर्व-विकार-सृष्टिश् च  
+न परस्माद् आत्मनो ऽन्यत्रोपपद्यते ॥ १६ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -1447,9 +1492,11 @@ Here, the desire arising before the origination of a body, &c., the non-separati
 इदिऩालुम् आऩन्दमयऩ् परमात्मादाऩ्; मऱ्ऱवऩ् इल्लै'। 'मऱ्ऱवऩ्' ऎऩ्बदु ईसुवरऩुक्कु वेऱायुळ्ळ संसारियाऩ जीवऩ् ऎऩ्ऱु अर्त्तम्। आऩन्दमयऩ् ऎऩ्ऱ सप्तत्तिऩाल् जीवऩ् सॊल्लप् पडविल्लै। एऩ्? 'पॊरुत्तम् इल्लाददिऩाल्” आऩन्दमयऩैयल्लवा ऎडुत्तुक्कॊण्डु "अवर् पलवाग आवेऩ्, पिऱप्पेऩ्, ऎऩ्ऱु आसैप्पट्टार्; अवर् आलोसऩै सॆय्दार्; अवर् आलोसऩै सॆय्दुविट्टु, इदु ऎल्लावऱ्ऱैयुम् ऎदॆल्लाम् इदुवो अदै स्रुष्टित्तार्”। (तैत्तीरिय।२-६) ऎऩ्ऱु सॊल्लप्पट्टिरुक्किऱदु। अङ्गु सरीरम् मुदलाऩदु उत्पत्तियावदऱ्कु मुन्दिये आलोसऩै, स्रुष्टि सॆय्यप्पडुम् विगारङ्गळुक्कु स्रुष्टि सॆय्गिऱ वरुडऩ् वेऱुबडामलिरुप्पदु, ऎल्ला विगारङ्गळैयुम् स्रुष्टि सॆय्वदु, आगिय इवै परमात्मावैत्तविर वेऱु इडत्तिल् पॊरुन्दादु।
 </details>
 
+## भेदोक्तिः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भेदव्यपदेशाच्च ॥ १७ ॥
++++(विज्ञानमयानन्दमययोर्)+++ भेद-व्यपदेशाच् च ॥ १७ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -1460,14 +1507,21 @@ Here, the desire arising before the origination of a body, &c., the non-separati
 <details><summary>मूलम्</summary>
 
 भेदव्यपदेशाच्च ॥ १७ ॥
-</details><details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 पेदव्यबदेसाच्च ॥ १७ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतश्च नानन्दमयः संसारी; यस्मादानन्दमयाधिकारे ‘रसो वै सः। रसँ ह्येवायं लब्ध्वाऽऽनन्दी भवति’ (तै. उ. २। ७। १) इति जीवानन्दमयौ भेदेन व्यपदिशति।
+इतश् च नानन्दमयः संसारी;  
+यस्माद् आनन्दमयाधिकारे  
+
+> ‘रसो वै सः। रसँ ह्य् एवायं लब्ध्वाऽऽनन्दी भवति’ (तै. उ. २। ७। १) 
+
+इति जीवानन्दमयौ भेदेन व्यपदिशति।
 </details>
 
 <details><summary>Translation</summary>
@@ -1497,7 +1551,14 @@ For he who perceives cannot be that which is perceived.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथं तर्हि ‘आत्मान्वेष्टव्यः’, ‘आत्मलाभान्न परं विद्यते’(आ.ध.सू. १.८.१.२) इति श्रुतिस्मृती, यावता न लब्धैव लब्धव्यो भवतीत्युक्तम् ?
+कथं तर्हि 
+
+> ‘आत्मान्वेष्टव्यः’,  
+
+> ‘आत्म-लाभान् न परं विद्यते’ (आ.ध.सू. १.८.१.२) 
+
+इति श्रुति-स्मृती,  
+यावता न लब्धैव लब्धव्यो भवतीत्य् उक्तम् ?
 </details>
 
 <details><summary>Translation</summary>
@@ -1517,7 +1578,10 @@ But, it may be asked, if he who perceives or attains cannot be that which is per
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बाढम् — तथाप्यात्मनोऽप्रच्युतात्मभावस्यैव सतस्तत्त्वानवबोधनिमित्तो मिथ्यैव देहादिष्वनात्मसु आत्मत्वनिश्चयो लौकिको दृष्टः।
+बाढम् —  
+तथा ऽप्य् आत्मनो ऽप्रच्युतात्म-भावस्यैव सतस्  
+तत्त्वानवबोध-निमित्तो  
+मिथ्यैव देहादिष्व् अनात्मसु आत्मत्व-निश्चयो लौकिको दृष्टः।
 </details>
 
 <details><summary>Translation</summary>
@@ -1532,7 +1596,9 @@ This objection, we reply, is legitimate (from the point of view of absolute trut
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेन देहादिभूतस्यात्मनोऽपि आत्मा — अनन्विष्टः ‘अलब्धः ‘अश्रुतः ‘अमतः ‘अविज्ञातः ‘विज्ञातव्यः’ — इत्यादिभेदव्यपदेश उपपद्यते ।
+तेन देहादि-भूतस्यात्मनोऽप्य् आत्मा —  
+अनन्विष्टः, अलब्धः, अश्रुतः, अमतः, अविज्ञातः, विज्ञातव्यः —  
+इत्य्-आदि-भेद-व्यपदेश उपपद्यते ।
 </details>
 
 <details><summary>Translation</summary>
@@ -1648,7 +1714,9 @@ With reference to this fictitious difference of the highest Self and the individ
 <details><summary>मूलम्</summary>
 
 कामाच्च नानुमानापेक्षा ॥ १८ ॥
-</details><details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 कामाच्च नानुमानाबेक्षा ॥ १८ ॥
 </details>
@@ -1701,7 +1769,9 @@ Although the opinion that the pradhāna is the cause of the world, has already b
 <details><summary>मूलम्</summary>
 
 तस्मिन्नस्य च तद्योगं शास्ति ॥ १९ ॥
-</details><details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
+</details>
+
+<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 तस्मिन्नस्य स तत्योगम् सास्ति ॥ १९ ॥
 </details>
@@ -2717,4 +2787,3 @@ The other Sūtras also (which refer to the Self of bliss [^fn_118]) are to be co
 - Translation files 12-19 fully covered in order. No missing SA. No extra EN beyond grouping.
 - Header sūtra block (lines 6-14, pre-existing विश्वास+मूलम् without Translation) given Translation 12 sutra-heading; counts now 138/138/138.
 </details>
-
