@@ -2,6 +2,22 @@
 title = "०६ आनन्दमयाधिकरणम्"
 +++
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+आनन्दमयाधिकरणे शङ्करभाष्यम् अतिविचित्रं मे भाति, यत आदौ सूत्राणां समञ्जसप्रायं व्याख्यानं दत्त्वा,  
+"इदं त्व् इह वक्तव्यम्" इत्यारभ्य मयटो विकारार्थं पुरस्कृत्य  
+सूत्राणाम् अबद्धव्याख्यानेन अधिकरणं समापयति। 
+
+अनेन माध्वकृतं शङ्करचारित्र्यदूषणं समञ्जसं वेति सन्देहो ऽपि जायते - न मूर्खोऽसौ, प्रत्युत दुष्ट एवेति।
+
+प्रारम्भे पठन्न् अचिन्तयम् -  
+"ध्रुवम् असौ कम् अपि पूर्वपक्षम् प्रस्तौति -  
+अस्मद्-यामुन-रामानुजवत् सुदीर्घं तं वर्णयतीत्य् असाधारणम्" इति।  
+अग्रे अग्रे पठता ऽवगतम् -  
+हन्त - स्वाभिप्रायम् एव विचित्रम् आरोपयतीति। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आनन्दमयोऽभ्यासात् ॥ १२ ॥  
@@ -148,12 +164,12 @@ The question might therefore be asked, 'What reason is there for the subsequent 
 
 <details><summary>Translation</summary>
 
-the following passages: Br̥. Up. IV, 5, 15, 'For where there is duality as it were, then one sees the other; but when the Self only is all this, how should he see another?' Cḥ. Up. VII, 24, 1, 'Where one sees nothing else, hears nothing else, understands nothing else, that is the greatest. Where one sees something else, hears something else, understands something else, that is the little. The greatest is immortal; the little is mortal;' Taitt. Ār. III, 12, 7, 'The wise one, who having produced all forms and made all names, sits calling (the things by their names [^fn_104]);' 
+the following passages: Br̥. Up. IV, 5, 15, 'For where there is duality as it were, then one sees the other; but when the Self only is all this, how should he see another?' Cḥ. Up. VII, 24, 1, 'Where one sees nothing else, hears nothing else, understands nothing else, that is the greatest. Where one sees something else, hears something else, understands something else, that is the little. The greatest is immortal; the little is mortal;' Taitt. Ār. III, 12, 7, 'The wise one, who having produced all forms and made all names, sits calling (the things by their names [fn_104]);' 
 </details>
 
 <details><summary>Translation - Notes</summary>
 
-[^fn_104]: 62:1 The wise one, i.e. the highest Self; which as jīvātman is conversant with the names and forms of individual things.
+[fn_104]: 62:1 The wise one, i.e. the highest Self; which as jīvātman is conversant with the names and forms of individual things.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -215,12 +231,12 @@ the following passages: Br̥. Up. IV, 5, 15, 'For where there is duality as it w
 
 <details><summary>Translation</summary>
 
-As long as it is the object of Nescience, there are applied to it the categories of devotee, object of devotion, and the like [^fn_105].
+As long as it is the object of Nescience, there are applied to it the categories of devotee, object of devotion, and the like [fn_105].
 </details>
 
 <details><summary>Translation - Notes</summary>
 
-[^fn_105]: 62:2 I.e. it is looked upon as the object of the devotion of the individual souls; while in reality all those souls and Brahman are one.
+[fn_105]: 62:2 I.e. it is looked upon as the object of the devotion of the individual souls; while in reality all those souls and Brahman are one.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -253,12 +269,12 @@ The different modes of devotion lead to different results, some to exaltation, s
 
 <details><summary>Translation</summary>
 
-those modes are distinct on account of the distinction of the different qualities and limiting conditions [^fn_106].
+those modes are distinct on account of the distinction of the different qualities and limiting conditions [fn_106].
 </details>
 
 <details><summary>Translation - Notes</summary>
 
-[^fn_106]: 62:3 Qualities, i.e. the attributes under which the Self is meditated on; limiting conditions, i.e. the localities--such as the heart and the like--which in pious meditation are ascribed to the Self.
+[fn_106]: 62:3 Qualities, i.e. the attributes under which the Self is meditated on; limiting conditions, i.e. the localities--such as the heart and the like--which in pious meditation are ascribed to the Self.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -351,13 +367,13 @@ into that form he enters, being impressed with it through his constant meditatio
 
 <details><summary>Translation</summary>
 
-Although one and the same Self is hidden in all beings movable as well as immovable, yet owing to the gradual rise of excellence of the minds which form the limiting conditions (of the Self), Scripture declares that the Self, although eternally unchanging and uniform, reveals itself [^fn_107] in a graduated series of beings, and so appears in forms of various dignity and power; compare, for instance (Ait. Ār. II, 3, 2, 1), 'He who knows the higher manifestation of the Self in him [^fn_108],' &c.
+Although one and the same Self is hidden in all beings movable as well as immovable, yet owing to the gradual rise of excellence of the minds which form the limiting conditions (of the Self), Scripture declares that the Self, although eternally unchanging and uniform, reveals itself [fn_107] in a graduated series of beings, and so appears in forms of various dignity and power; compare, for instance (Ait. Ār. II, 3, 2, 1), 'He who knows the higher manifestation of the Self in him [fn_108],' &c.
 </details>
 
 <details><summary>Translation - Notes</summary>
 
-[^fn_107]: 63:1 Ānanda Giri reads āvishṭasya for āvishkr̥tasya.
-[^fn_108]: 63:2 Cp. the entire passage. All things are manifestations of the highest Self under certain limiting conditions, but occupying different places in an ascending scale. In unsentient things, stones, &c. only the sattā, the quality of being manifests itself; in plants, animals, and men the Self manifests itself through the vital sap; in animals and men there is understanding; higher thought in man alone.
+[fn_107]: 63:1 Ānanda Giri reads āvishṭasya for āvishkr̥tasya.
+[fn_108]: 63:2 Cp. the entire passage. All things are manifestations of the highest Self under certain limiting conditions, but occupying different places in an ascending scale. In unsentient things, stones, &c. only the sattā, the quality of being manifests itself; in plants, animals, and men the Self manifests itself through the vital sap; in animals and men there is understanding; higher thought in man alone.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -463,12 +479,12 @@ the same is to be observed with regard to I, 1, 22 and other Sūtras.
 
 <details><summary>Translation</summary>
 
-And, again, an enquiry will have to be undertaken into the meaning of the texts, in order that a settled conclusion may be reached concerning that knowledge of the Self which leads to instantaneous release; for although that knowledge is conveyed by means of various limiting conditions, yet no special connexion with limiting conditions is intended to be intimated, in consequence of which there arises a doubt whether it (the knowledge) has the higher or the lower Brahman for its object; so, for instance, in the case of Sūtra I, 1, 12 [^fn_109].
+And, again, an enquiry will have to be undertaken into the meaning of the texts, in order that a settled conclusion may be reached concerning that knowledge of the Self which leads to instantaneous release; for although that knowledge is conveyed by means of various limiting conditions, yet no special connexion with limiting conditions is intended to be intimated, in consequence of which there arises a doubt whether it (the knowledge) has the higher or the lower Brahman for its object; so, for instance, in the case of Sūtra I, 1, 12 [fn_109].
 </details>
 
 <details><summary>Translation - Notes</summary>
 
-[^fn_109]: 64:1 Ānanda Giri on the preceding passage beginning from 'thus here also:' na kevalaṁ dvaividhyam brahmaṇaḥ śrutismr̥tyor eva siddhaṁ kiṁ tu sūtrakr̥to#pi matam ity āha, evam iti, śrutismr̥tyor iva prakr̥te#pi śāstre dvairūpyam brahmaṇo bhavati; tatra sopādhikabrahmavishayam antastaddharmādhikaraṇam udāharati ādityeti; uktanyāyaṁ tulyadeśeshu prasārayati evam iti; sopādhikopadeśavan nirupādhikopadeśaṁ darśayati evam ityādinā, ātmajñānaṁ nirṇetavyam iti sambandhaḥ; nirṇayaprasangam āha pareti; annamayādyupādhidvāroktasya katham paravidyāvishayatvaṁ tatrāha upādhīti; nirṇayakramam āha vākyeti, uktārtham adhikaraṇaṁ kvāstīty āsankyoktaṁ yatheti.
+[fn_109]: 64:1 Ānanda Giri on the preceding passage beginning from 'thus here also:' na kevalaṁ dvaividhyam brahmaṇaḥ śrutismr̥tyor eva siddhaṁ kiṁ tu sūtrakr̥to#pi matam ity āha, evam iti, śrutismr̥tyor iva prakr̥te#pi śāstre dvairūpyam brahmaṇo bhavati; tatra sopādhikabrahmavishayam antastaddharmādhikaraṇam udāharati ādityeti; uktanyāyaṁ tulyadeśeshu prasārayati evam iti; sopādhikopadeśavan nirupādhikopadeśaṁ darśayati evam ityādinā, ātmajñānaṁ nirṇetavyam iti sambandhaḥ; nirṇayaprasangam āha pareti; annamayādyupādhidvāroktasya katham paravidyāvishayatvaṁ tatrāha upādhīti; nirṇayakramam āha vākyeti, uktārtham adhikaraṇaṁ kvāstīty āsankyoktaṁ yatheti.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -699,8 +715,9 @@ To this reasoning we make the following reply:
 पूर्वबक्षम्: ऎदु न्यायम्? आऩन्दमयम् ऎऩ्बदु पिरह्मत्तिऱ्कु वेऱायुळ्ळ वस्तुवाऩ मुक्कियमिल्लाद आत्मावायिरुक्कलाम्। ऎदिऩाल्? अऩ्ऩमयम् मुदलाऩ मुक्कियमिल्लाद आत्माक्कळिऩ् पिरवाहत्तिल् विऴुन्दिरुप्पदाल् (वरिसैयिल् इरुप्पदाल्) ऎल्लावऱ्ऱिऱ्कुम् उळ्ळे इरुक्कुम् तऩ्मैयुळ्ळदाल् आऩन्दमयऩ् मुक्कियमाऩ आत्मागवे इरुक्कलामे यॆऩ्ऱाल्, मुडियादु, पिरियम् मुदलाऩअवयवङ्गळोडु कूडियिरुप्पदालुम्, सरीरत्तिलिरुक्कुम् तऩ्मै सॊल्लप्पट्टिरुप्पदालुम्, आऩन्दमयऩ् मुक्कियमाऩ आत्मावायिरुन्दाल्, पिरियम् मुदलियदिऩ् सेर्क्कैयिरादु; इङ्गेयो ‘अदऱ्कु पिरियमे सिरस्' ऎऩ्बदु मुदलियदु सॊल्लप्पडुगिऱदु। 'अन्द मुऩ् सॊऩ्ऩदऱ्कु इवऩ्दाऩ् सरीरत्तिलुळ्ळ आत्मा' ऎऩ्ऱु सरीरत्तिलिरुक्कुम् तऩ्मैयुम् केट्कप्पडुगिऱदु। अन्द मुऩ्ऩुळ्ळ विज्ञानमयऩुक्कु, इन्द आऩन्दमयऩ् ऎदुवो, अदुवे सरीरत्तिलुळ्ळ आत्मा ऎऩ्ऱु अर्त्तम्। सरीरत्तुडऩ् इरुप्पवऩुक्को पिरियम् अप्पिरियम् इवैगळुडैय सम्बन्दम् विलक्कमुडियादु। आगैयाल् आऩन्दमय आत्मा ऎऩ्बदु संसारिदाऩ् ऎऩ्ऱु।
 </details>
 
-## आनन्दमयोऽभ्यासात्
-### आनन्दाभ्यासः
+## मयटः प्राचुर्यार्थः
+### आनन्दमयोऽभ्यासात्
+#### आनन्दाभ्यासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘आनन्दमयोऽभ्यासात्’।
@@ -824,7 +841,7 @@ As, therefore, the word 'bliss' is repeatedly used with reference to Brahman, we
 सित्तान्दम्:- इव्विदम् एऱ्पडुम्बोदु इदु सॊल्लप्पडुगिऱदु। 'आऩन्दमयऩ् अप्यासत्तिऩाल्' ऎऩ्ऱु। आऩन्दमयऩ् परमात्मावाग इरुप्पदुदाऩ् न्यायम्। एऩ् ‘अप्यासत्तिऩाल्' परमात्मविषयत् तिलल्लवा आऩन्दम् ऎऩ्ऱ सप्तम् पलदडवै तिरुम्बत्तिरुम्बच् चॊल्लप्पट्टिरुक्किऱदु? आऩन्द मयऩै आरम्बित्तु ‘अवऩ् रसमे' ऎऩ्ऱु अवऩुक्कु रसमाय् इरुक्कुम् तऩ्मैयै सॊल्लिविट्टु, ‘रसत्तैये अल्लवा इवऩ् अडैन्दु आऩन्द मुळ्ळवऩाग इरुक्किऱाऩ्,” “इन्द ऎङ्गुम् निऱैन्दु पिरगासिक्किऱ आऩन्दम् इल्लैयाऩाल्, यार्दाऩ् असैयमुडियुम्, यार्दाऩ् जीविक्कमुडियुम्? इदुवेदाऩ् आऩन्दमागच् चॆय्गिऱदु” (तैत्तीरिय। २-७), “इदु आऩन्दत्तिऩ् विसारणै॥। इन्द आऩन्दमयमाऩ आत्मावै अडैगिऱाऩ्। पिरुह्मत्तिऩ् आऩन्दत्तै अऱिगिऱवऩ् ऎदिलिरुन्दुम् पयप्पडमाट्टाऩ्” (तैत्तिरीय २-८,९), 'आऩन्दम् प्रह्मम् ऎऩ्ऱु अऱिन्दार्’ (तैत्तिरीय, ३,६) ऎऩ्ऱुम्। वेऱु सुरुदियिल् 'अऱिवु आऩन्दम् पिरह्मम्' (पिरुहत् ३-९-२८) ऎऩ् ऱु पिरह्मत्तिऩिडत्तिल्दाऩ् आऩन्दम् ऎऩ्ऱ सप्तम् काणुगिऱदु। इव्विदमाग आऩन्दम् ऎऩ्गिऱ सप्तत्तिऱ्कु पिरुह्म विषयत्तिल् पलदडवै अप्यासम्, तिरुम्बत्तिरुम्बच् चॊल्लुदल्, इरुप्पदिऩाल् आऩन्दमयमाऩ आत्मा पिरुह्मम् ऎऩ्ऱु तॆरिगिऱदु।
 </details>
 
-### सर्वान्तरत्वम्
+#### सर्वान्तरत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तूक्तम् अन्नमयाद्य्-अमुख्यात्म- -प्रवाह-पतितत्वाद्  
@@ -858,12 +875,12 @@ The objection that the Self consisting of bliss can only denote the secondary Se
 
 <details><summary>Translation</summary>
 
-The Śāstra, wishing to convey information about the primary Self, adapts itself to common notions, in so far as it at first refers to the body consisting of food, which, although not the Self, is by very obtuse people identified with it; it then proceeds from the body to another Self, which has the same shape with the preceding one, just as the statue possesses the form of the mould into which the molten brass had been poured; then, again, to another one, always at first representing the Non-Self as the Self, for the purpose of easier comprehension; and it finally teaches that the innermost Self [^fn_110], which consists of bliss, is the real Self.
+The Śāstra, wishing to convey information about the primary Self, adapts itself to common notions, in so far as it at first refers to the body consisting of food, which, although not the Self, is by very obtuse people identified with it; it then proceeds from the body to another Self, which has the same shape with the preceding one, just as the statue possesses the form of the mould into which the molten brass had been poured; then, again, to another one, always at first representing the Non-Self as the Self, for the purpose of easier comprehension; and it finally teaches that the innermost Self [fn_110], which consists of bliss, is the real Self.
 </details>
 
 <details><summary>Translation - Notes</summary>
 
-[^fn_110]: 66:1 After which no other Self is mentioned.
+[fn_110]: 66:1 After which no other Self is mentioned.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -896,7 +913,7 @@ Just as when a man, desirous of pointing out the star Arundhatī to another man,
 अऩ्ऩमयम् मुदलाऩ मुक्कियमिल्लाद आत्माक्कळिऩ् पिरवाहत्तिलिरुप्पदाल् आऩन्दमयत् तिऱ्कुम् कूड मुक्कियम् इल्लात् तऩ्मै ऎऩ्ऱु ऎदु सॊल्लप्पट्टदो, अदु तोषम् इल्लै, आऩन्दमयम् ऎल्लावऱ्ऱिऱ्कुम् उळ्ळेयिरुक्कुम् तऩ्मै उळ्ळदाल्। मुक्कियमाऩ आत्मावैये उबदेसिक्क निऩैक्कुम् क सास्तिरम् उलगत्तार् पुत्तियै अऩुसरित्तु, मिगवुम् मूडर्गळाय् इरुप्पवर्गळुक्कु आत्मा ऎऩ्ऱु पिरसित्तमायिरुक्कुम् आत्मावल्लाद अऩ्ऩमयमाऩ सरीरत्तै ऎडुत्तुच्चॊल्लि, मूषैयिल् विडप्पट्ट उरुक्किऩ ताम्रम् मुदलिय पिरदिमैयैप् पोल, अदऱ्कुम् उळ्ळे, अदऱ्कुम् उळ्ळेयॆऩ्ऱु इव्विदमाग मुऩ् मुऩ्उळ्ळदिऱ्कु समाऩमाय् मेल् मेल् उळ्ळ आत्मावल्लाददै आत्मावॆऩ्ऱु किरहिक्कच्चॆय्दु, अऱिवदऱ्कुळ्ळ सौगर्यत्तै अबेक्षित्तु ऎल्ला वऱ्ऱिऱ्कुम् उळ्ळेयुळ्ळ मुक्कियमाऩ आऩन्द मयऩाऩ आत्मावै उबदेसित्तदु ऎऩ्बदु मिगवुम् पॊरुन्दुम्। अरुन्ददियैक् काट्टुम्बोदु मुक्किय मिल्लाद वेऱु अरुन्ददी नक्षत्तिरङ्गळैक् काट्टि ऎदु कडैसियागक् काट्टप्पडुगिऱदो, अदुवे मुक्कियमाऩ अरुन्ददीयाग इरुप्पदु ऎप्पडियो, अप्पडिये इङ्गेयुम् आऩन्दमयम् ऎल्लावऱ्ऱिऱ्कुम् उळ्ळेयिरुप्पदाल् अदऱ्कु मुक्कियमाऩ आत्मत्तऩ्मै।
 </details>
 
-### शारीरता
+#### शारीरता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तु ब्रूषे,  
@@ -975,7 +992,7 @@ Hence the Self consisting of bliss is the highest Brahman.
 आगैयाल् आऩन्दमयऩ् परमात्मादाऩ्। (१२)
 </details>
 
-## विकार-सूत्रं न
+### विकार-सूत्रं न
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -997,7 +1014,7 @@ Hence the Self consisting of bliss is the highest Brahman.
 विगारसप्तान्नेदि सेन्न प्रासुर्यात् ॥ १३ ॥
 </details>
 
-### पूर्वपक्षः
+#### पूर्वपक्षः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्राह — नानन्दमयः पर आत्मा भवितुमर्हति;
@@ -1063,7 +1080,7 @@ Because the word ānandamaya is understood to denote something different from th
 तस्मादन्नमयादिशब्दवद्विकारविषय एवानन्दमयशब्द इति चेत् , न;
 </details>
 
-### प्राचुर्यार्थः
+#### प्राचुर्यार्थः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राचुर्यार्थेऽपि मयटः स्मरणात् ।  
@@ -1136,7 +1153,7 @@ Maya therefore denotes abundance.
 इङ्गु सॊल्गिऱाऩ्, आऩन्दमयऩ् परमात्वाग इरुक्कमुडियादु एऩ्? विगारत्तैच् चॊल्लुम् सप्तत्तिऩाल् पिरगिरुदियैच् चॊल्लुम् वसऩत्तिऱ्कु वेऱायुळ्ळदाग विगारत्तैच् चॊल्वदाग इन्द सप्तम् अऱियप्पडुगिऱदु; आऩन्दमय ऎऩ्बदिलुळ्ळ ‘मय’ ऎऩ्बदऱ्कु विगारत्तै अर्त्तमागवुडैय तऩ्मै यिरुप्पदाल्। आगैयाल् अऩ्ऩमयम् मुदलिय सप्तम्बोल, आऩन्दमय सप्तमुम् विगारत्तैये विषयमायुळ्ळदु-ऎऩ्ऱाल्, सरियल्ल, मय ऎऩ्बदु पिरासुर्यम् (अदिगमाग इरुत्तल्) ऎऩ्ऱ अर्त्तत्तिलुम् सॊल्लियिरुप्पदाल्। 'तत्प्रक्रुद वसने मयट्' (पाणिऩि सूत्रम् ५-४-२१) ऎऩ्ऱु अदिगमायिरुप्पदु ऎऩ्बदिलुम् मयट् चॊल्लप्पट्टिरुक्किऱदु पिरसित्तम्। ऎप्पडि 'यागम् अऩ्ऩमयम्’ ऎऩ्ऱु अऩ्ऩम् एराळमायिरुक्कुम्बोदु सॊल्लप्पडुगिऱदो, अप्पडिये आऩन्दम् अदिगमाग इरुक्कुम् पिरह्मम् आऩन्दमयम् ऎऩ्ऱु सॊल्लप् पडुगिऱदु। मऩुष्यत् तऩ्मैयिलिरुन्दु आरम्बित्तु मेल् मेल् स्ताऩत्तिल् नूऱु नूऱु पङ्गु आऩन्दम् ऎऩ्ऱु सॊल्लिविट्टु पिरह्मत्तिऩ् आऩन्दत्तिऱ्कु मेलॆदुवु मिल्लै ऎऩ्ऱु तीर्माऩित् तिरुप्पदाल्, पिरह्मत्तिऱ्कु आऩन्दम् अदिगमायुळ्ळ तऩ्मै उण्डु। आगैयाल् अदिगमॆऩ्ऱ अर्त्तत्तिल्मय ऎऩ्ऱसप्तम्।
 </details>
 
-#### आनन्दयितृता
+##### आनन्दयितृता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्+++(→आनन्द)+++-हेतु-व्यपदेशाच् च ॥ १४ ॥
@@ -1258,12 +1275,12 @@ As, therefore, maya may be taken to mean 'abundant,' the Self consisting of blis
 
 <details><summary>Translation</summary>
 
-The Self, consisting of joy, is the highest Brahman for the following reason also [^fn_111]. On the introductory words 'he who knows Brahman attains the highest' (Taitt. Up. II, 1), there follows a mantra proclaiming that Brahman, which forms the general topic of the chapter, possesses the qualities of true existence, intelligence, infinity; after that it is said that from Brahman there sprang at first the ether and then all other moving and non-moving things, and that, entering into the beings which it had emitted, Brahman stays in the recess, inmost of all; thereupon, for its better comprehension, the series of the different Selfs ('different from this is the inner Self,' &c.) are enumerated, and then finally the same Brahman which the mantra had proclaimed, is again proclaimed in the passage under discussion, 'different from this is the other inner Self, which consists of bliss.'
+The Self, consisting of joy, is the highest Brahman for the following reason also [fn_111]. On the introductory words 'he who knows Brahman attains the highest' (Taitt. Up. II, 1), there follows a mantra proclaiming that Brahman, which forms the general topic of the chapter, possesses the qualities of true existence, intelligence, infinity; after that it is said that from Brahman there sprang at first the ether and then all other moving and non-moving things, and that, entering into the beings which it had emitted, Brahman stays in the recess, inmost of all; thereupon, for its better comprehension, the series of the different Selfs ('different from this is the inner Self,' &c.) are enumerated, and then finally the same Brahman which the mantra had proclaimed, is again proclaimed in the passage under discussion, 'different from this is the other inner Self, which consists of bliss.'
 </details>
 
 <details><summary>Translation - Notes</summary>
 
-[^fn_111]: 68:1 The previous proofs were founded on linga; the argument which is now propounded is founded on prakaraṇa.
+[fn_111]: 68:1 The previous proofs were founded on linga; the argument which is now propounded is founded on prakaraṇa.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1308,12 +1325,12 @@ for otherwise we should be driven to the unwelcome inference that the text drops
 
 <details><summary>Translation</summary>
 
-Nor is there mentioned a further inner Self different from the Self consisting of bliss, as in the case of the Self consisting of food, &c. [^fn_112]
+Nor is there mentioned a further inner Self different from the Self consisting of bliss, as in the case of the Self consisting of food, &c. [fn_112]
 </details>
 
 <details><summary>Translation - Notes</summary>
 
-[^fn_112]: 68:2 While, in the case of the Selfs consisting of food and so on, a further inner Self is duly mentioned each time. It cannot, therefore, be concluded that the Selfs consisting of food, &c., are likewise identical with the highest Self referred to in the mantra.
+[fn_112]: 68:2 While, in the case of the Selfs consisting of food and so on, a further inner Self is duly mentioned each time. It cannot, therefore, be concluded that the Selfs consisting of food, &c., are likewise identical with the highest Self referred to in the mantra.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1366,7 +1383,7 @@ Therefore the Self consisting of bliss is the highest Self.
 मेलुम्, अऩ्ऩमयम् मुदलियवैगळिलिरुन्दु पोल आऩन्दमयऩिलिरुन्दु वेऱु उळ्ळे आत्मा सॊल्लप्पडविल्लै। ‘अन्द इदु पिरुगुविऩाल् अऱिन्दुगॊळ्ळप्पट्टदायुम् वरुणराल् उबदेसिक्कप् पट्टदायुमुळ्ळ वित्या' ऎऩ्ऱु इदिलेये मुडिवडैन्दु विडुगिऱदु। आगैयाल् आऩन्दमयऩ् परमात्मादाऩ्।
 </details>
 
-## सृष्ट्य्-आदेः
+### सृष्ट्य्-आदेः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नेतरो ऽनुपपत्तेः +++(←ऋग्-उक्त- -निरुपाधिक-विपश्चित्त्वाभावात्)+++ ॥ १६ ॥
@@ -1492,7 +1509,7 @@ Here, the desire arising before the origination of a body, &c., the non-separati
 इदिऩालुम् आऩन्दमयऩ् परमात्मादाऩ्; मऱ्ऱवऩ् इल्लै'। 'मऱ्ऱवऩ्' ऎऩ्बदु ईसुवरऩुक्कु वेऱायुळ्ळ संसारियाऩ जीवऩ् ऎऩ्ऱु अर्त्तम्। आऩन्दमयऩ् ऎऩ्ऱ सप्तत्तिऩाल् जीवऩ् सॊल्लप् पडविल्लै। एऩ्? 'पॊरुत्तम् इल्लाददिऩाल्” आऩन्दमयऩैयल्लवा ऎडुत्तुक्कॊण्डु "अवर् पलवाग आवेऩ्, पिऱप्पेऩ्, ऎऩ्ऱु आसैप्पट्टार्; अवर् आलोसऩै सॆय्दार्; अवर् आलोसऩै सॆय्दुविट्टु, इदु ऎल्लावऱ्ऱैयुम् ऎदॆल्लाम् इदुवो अदै स्रुष्टित्तार्”। (तैत्तीरिय।२-६) ऎऩ्ऱु सॊल्लप्पट्टिरुक्किऱदु। अङ्गु सरीरम् मुदलाऩदु उत्पत्तियावदऱ्कु मुन्दिये आलोसऩै, स्रुष्टि सॆय्यप्पडुम् विगारङ्गळुक्कु स्रुष्टि सॆय्गिऱ वरुडऩ् वेऱुबडामलिरुप्पदु, ऎल्ला विगारङ्गळैयुम् स्रुष्टि सॆय्वदु, आगिय इवै परमात्मावैत्तविर वेऱु इडत्तिल् पॊरुन्दादु।
 </details>
 
-## भेदोक्तिः
+### भेदोक्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1564,12 +1581,12 @@ For he who perceives cannot be that which is perceived.
 
 <details><summary>Translation</summary>
 
-But, it may be asked, if he who perceives or attains cannot be that which is perceived or attained, how about the following Śruti- and Smr̥ti-passages, 'The Self is to be sought;' 'Nothing higher is known than the attainment of the Self [^fn_113]?'
+But, it may be asked, if he who perceives or attains cannot be that which is perceived or attained, how about the following Śruti- and Smr̥ti-passages, 'The Self is to be sought;' 'Nothing higher is known than the attainment of the Self [fn_113]?'
 </details>
 
 <details><summary>Translation - Notes</summary>
 
-[^fn_113]: 69:1 Yadi labdhā na labdhavyaḥ kathaṁ tarhi paramātmano vastuto #bhinnena jīvātmanā paramātmā labhyata ity arthaḥ. Bhāmatī.
+[fn_113]: 69:1 Yadi labdhā na labdhavyaḥ kathaṁ tarhi paramātmano vastuto #bhinnena jīvātmanā paramātmā labhyata ity arthaḥ. Bhāmatī.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1653,12 +1670,12 @@ Scripture, on the other hand, denies, in such passages as 'there is no other see
 
 <details><summary>Translation</summary>
 
-(Nor can it be said that the Lord is unreal because he is identical with the unreal individual soul; for) [^fn_114] the Lord differs from the soul (vijñānātman) which is embodied, acts and enjoys, and is the product of Nescience,
+(Nor can it be said that the Lord is unreal because he is identical with the unreal individual soul; for) [fn_114] the Lord differs from the soul (vijñānātman) which is embodied, acts and enjoys, and is the product of Nescience,
 </details>
 
 <details><summary>Translation - Notes</summary>
 
-[^fn_114]: 70:1 Yathā parameśvarād bhinno jīvātmā drashṭā na bhavaty evam gīvātmano#pi drashṭur na bhinnaḥ parameśvara iti, jīvasyānirvācyatve parameśvaro#py anirvācyaḥ syād ity ata āha parameśvaras tv avidyākalpitād iti. Ānanda Giri.
+[fn_114]: 70:1 Yathā parameśvarād bhinno jīvātmā drashṭā na bhavaty evam gīvātmano#pi drashṭur na bhinnaḥ parameśvara iti, jīvasyānirvācyatve parameśvaro#py anirvācyaḥ syād ity ata āha parameśvaras tv avidyākalpitād iti. Ānanda Giri.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1718,7 +1735,7 @@ With reference to this fictitious difference of the highest Self and the individ
 परमार्त्तमागवो 'इवरैविड वेऱु पार्क्किऱवऩ् किडैयादु' (पिरुहत् ४-७-२५) ऎऩ्बदु मुदलियदाल् सर्वक्ञराऩ परमेस्वरऩैत्तविर्त्तु वेऱागप् पार्क्किऱवऩो, केट्किऱवऩो मऱुक्कप् पट्टेयिरुक्किऱदु। परमेसुवरऩो, अवित्यैयिऩाल् एऱ्पट्टिरुक्कुम् सरीरसम्बन्दमुळ्ळ कर्त्ता पोक्ता आगिय विज्ञानमात्माविलिरुन्दु वेऱु। केडयम् कत्ति इवैगळै तरित्तुक्कॊण्डु नूल्वऴियाग आगासत्तिल् एऱिक्कॊण्डिरुक्किऱ मायावियैविड पूमियिलिरुक्कुम् वास्तव रूबत्तुडऩिरुक्कुम् अदे मायावि ऎप्पडि वेऱो; अल्लदु, उबादियिऩाल् वरम्बिडप्पट्ट आगासत्तिलिरुन्दु उबादियिऩाल् वरम्बिडप्पडाद आगासम् ऎप्पडि वेऱो; अप्पडि इव्विदम् विज्ञानत् माविऱ्कुम् परमात्माविऱ्कुम् उळ्ळ पेदत्तै आसिरयित्तु ‘मऱ्ऱवऩ् इल्लै, पॊरुत्तमिल्लाददिऩाल्' ऎऩ्ऱुम्, 'वेऱ्ऱुमै कुऱिप्पिडप्पट्टिरुप्पदालुम्' ऎऩ्ऱु सॊल्लप्पट्टदु।
 </details>
 
-## प्रधानापेक्षा न
+### प्रधानापेक्षा न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामाच् च न ++++(प्रधान-)+++अनुमानापेक्षा +++(कारणत्वेन)+++॥ १८ ॥
@@ -1785,7 +1802,7 @@ Although the opinion that the pradhāna is the cause of the world, has already b
 आऩन्दमयत्तैच् चॊल्लि वरुम्बोदु 'अवर् पलवाग आवेऩ्, पिऱप्पेऩ्, ऎऩ्ऱु आसैप्पट्टार्' (तैत्तीरिय २-६) ऎऩ्ऱु आसैप्पट्टवराग सॊल्लियि रुप्पदिऩालुम्, साङ्गियराल् कल्बिक्कप्पडुगिऱ अऩुमाऩत्तिल् किडैक्कुम् जडमाऩ पिरदाऩम् आऩन्द मयमागवो कारणमागवो वेण्डुवदिल्लै। 'पार्प्प ताल् सप्तमऱ्ऱदु इल्लै' (सूत्रम् १-५) ऎऩ्ऱविडत्तिल् पिरदाऩम् निरागरिक्कप्पट्टिरुन्द पोदिलुम्, मुऩ् सूत्तिरत्तिल् सॊऩ्ऩ ‘आसैप्पट्टार्’ ऎऩ्बदै सॊल्लुम् सुरुदियै आसिरयित्तुक्कॊण्डु, पिरसङ् गत्तिऩाल् (मत्तियिल् वन्ददाल्), मऱुबडियुम् निरागरिक् कप्पडुगिऱदु, उबनिषत्तुक्कळिऩ् पोक्कु समाऩमाय् इरुप्पदै विस्तरित्तुक् काट्टुवदऱ्काग।
 </details>
 
-## जीव-ब्रह्म-योगः
+### जीव-ब्रह्म-योगः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1950,8 +1967,8 @@ Hence it is proved that the Self consisting of bliss is the highest Self.
 इदु सॊऩ्ऩदाग आगिऱदु ऎप्पॊऴुदु इन्द आऩन्द मयऩिल् अल्बमागक्कूड पेदत्तै, अदऩ् तऩ्मैयऱ्ऱदॆऩ्ऱ रूबत्तै, पार्क्किऱाऩो, अप्पॊऴुदु संसारबयत्तिलिरुन्दु निविरुत्तियडैव तिल्लै। आऩाल्, ऎप्पॊऴुदु इन्द आऩन्द मयऩिल् इडैविडामल् अदऩ् तऩ्मैयागवे निलैक्किऱाऩो, अप्पॊऴुदु संसारबयत्तिलिरुन्दु निविरुत्तियडै किऱाऩ्, ऎऩ्ऱु। इदु परमात्मावॆऩ्ऱु ऎडुत्तुक् कॊण्डाल्दाऩ् पॊरुन्दुम्। पिरदाऩत्तै ऎडुत्तुक् कॊण्डालुम्, जीवऩै ऎडुत्तुक्कॊण्डालुमो पॊरुन्दादु। आगैयाल् आऩन्द मयऩ् परमात्मा ऎऩ्ऱु एऱ्पट्टुविट्टदु।
 </details>
 
-## पूर्वत्र विकारार्थः?
-### आक्षेपः
+## मयटो विकारार्थः
+### पूर्वत्र
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं त्व् इह वक्तव्यम् — 
@@ -1981,14 +1998,14 @@ Hence it is proved that the Self consisting of bliss is the highest Self.
 
 <details><summary>Translation</summary>
 
-But, in reality, the following remarks have to be made concerning the true meaning of the word 'ānandamaya [^fn_115].'
+But, in reality, the following remarks have to be made concerning the true meaning of the word 'ānandamaya [fn_115].'
 
 On what grounds, we ask, can it be maintained that the affix 'maya' after having, in the series of compounds beginning with annamaya and ending with vijñānamaya, denoted mere modifications, should all at once, in the word ānandamaya, which belongs to the same series, denote abundance, so that ānandamaya would refer to Brahman?
 </details>
 
 <details><summary>Translation - Notes</summary>
 
-[^fn_115]: 71:1 The explanation of the ānandamaya given hitherto is here recalled, and a different one given. The previous explanation is attributed by Go. Ān. to the vr̥ttikāra.
+[fn_115]: 71:1 The explanation of the ānandamaya given hitherto is here recalled, and a different one given. The previous explanation is attributed by Go. Ān. to the vr̥ttikāra.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2029,6 +2046,20 @@ If it should be said that the assumption is made on account of the governing inf
 > युक्तम् अन्नमयादीनाम् अ-ब्रह्मत्वम् ,  
 तस्मात् तस्माद् आन्तरस्यान्तरस्यान्यस्यान्यस्यात्मन उच्यमानत्वात्।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> अस्मिन् प्रकरणे सर्वत्र  
+> 
+> > तस्यैष एव शारीर आत्मा।  
+यः पूर्वस्य (तै.आन.५) 
+> 
+> इति परमात्मन एव शारीरात्मत्वाभिधानात्।
+
+इति रामानुजः।  
+ततोऽपि नैषां ब्रह्मत्व-प्रसङ्गः। 
+</details>
+
 
 <details><summary>Translation</summary>
 
@@ -2380,6 +2411,13 @@ Analogously another scriptural passage declares, 'All other creatures live on a 
 प्रियाद्य्-अवयवत्वेन स-विशेषं ब्रह्माभ्युपगन्तव्यम्।
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+हन्त - सूत्राणीमानि "जन्माद्य् अस्य यत" इत्य् आरभ्य सविशेषं सक्रियम् एवाभिदधति।  
+अत्राप्य् अधिकरणे तदीय-कामाद्य् उक्तम्। 
+</details>
+
+
 <details><summary>Translation</summary>
 
 Further, if by the Self consisting of bliss we were to understand Brahman we should have to assume that the Brahman meant is the Brahman distinguished by qualities (saviśesha), because it is said to have joy and the like for its members.
@@ -2438,14 +2476,24 @@ But this assumption is contradicted by a complementary passage (II, 9) which dec
 प्राचुर्यस्य लोके प्रतियोग्य्-अल्पत्वापेक्षत्वात्।
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> तत्-प्रचुरत्वं हि तत्-प्रभूतत्वम्,  
+तच् चेतरस्य सत्तां नावगमयति;  
+अपि तु तस्याल्पत्वं निवर्तयति। 
+
+इति रामानुजः। 
+</details>
+
+
 <details><summary>Translation</summary>
 
-Moreover, if we speak of something as 'abounding in bliss [^fn_116],' we thereby imply the co-existence of pain; for the word 'abundance' in its ordinary sense implies the existence of a small measure of what is opposed to the thing whereof there is abundance.
+Moreover, if we speak of something as 'abounding in bliss [fn_116],' we thereby imply the co-existence of pain; for the word 'abundance' in its ordinary sense implies the existence of a small measure of what is opposed to the thing whereof there is abundance.
 </details>
 
 <details><summary>Translation - Notes</summary>
 
-[^fn_116]: 74:1 In which sense, as shown above, the word ānandamaya must be taken if understood to denote Brahman.
+[fn_116]: 74:1 In which sense, as shown above, the word ānandamaya must be taken if understood to denote Brahman.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2480,6 +2528,13 @@ But the passage so understood would be in conflict with another passage (Cḥ. U
 प्रतिशरीरं च प्रियादि-भेदाद्  
 आनन्दमयस्यापि भिन्नत्वम्।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+ब्रह्मणः प्रियम् इहोक्तम्, न जीवस्येति  
+नास्ति वस्तुतः प्रतिशरीरम् भेदः। 
+</details>
+
 
 <details><summary>Translation</summary>
 
@@ -2546,6 +2601,15 @@ Brahman, on the other hand, does not differ according to bodies; for the mantra 
 इति च।
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> आनन्द-शब्देन आनन्दमय एव परामृश्यते,  
+यथा +++(पूर्वं दर्शितया रीत्या)+++ विज्ञान-शब्देन विज्ञानमयः।
+
+इति साध्व् आह रामानुजः। 
+</details>
+
+
 <details><summary>Translation</summary>
 
 Nor, again, does Scripture exhibit a frequent repetition of the word 'ānandamaya;' for merely the radical part of the compound (i.e. the word ānanda without the affix maya) is repeated in all the following passages; 'It is a flavour, for only after seizing flavour can any one seize bliss. Who could breathe, who could breathe forth, if that bliss existed not in the ether? For he alone causes blessedness;' 'Now this is an examination of bliss;' 'He who knows the bliss of that Brahman fears nothing;' 'He understood that bliss is Brahman.'
@@ -2580,7 +2644,7 @@ If it were a settled matter that Brahman is denoted by the term, 'the Self consi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माच् छ्रुत्यन्तरे 
+तस्माच् छ्रुत्य्-अन्तरे 
 
 > ‘विज्ञानम् आनन्दं ब्रह्म’ (बृ. उ. ३। ९। २८) 
 
@@ -2591,6 +2655,18 @@ If it were a settled matter that Brahman is denoted by the term, 'the Self consi
 इति ब्रह्म-विषयः प्रयोगो  
 न त्व् आनन्दमयाभ्यास इत्य् अवगन्तव्यम् ।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> अत एव 
+> 
+> > आनन्दं ब्रह्मणो विद्वान् (तै.आन.९.१) 
+> 
+> इति व्यतिरेक+++(→आनन्दमात्र)+++-निर्देशः।
+
+इति रामानुजोदाहृतम् अपि सङ्कलय्येदम् पुनर् अन्यथावगन्तव्यम्। 
+</details>
+
 
 <details><summary>Translation</summary>
 
@@ -2619,6 +2695,15 @@ Hence, as in another scriptural passage, viz. 'Brahman is knowledge and bliss' (
 विकारात्मनाम् एवान्नमयादीनाम् अनात्मनाम् उपसङ्क्रमितव्यानां प्रवाहे पठितत्वात्।
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> अन्नमय-प्राणमय-मनोमय विज्ञानमयशब्दाः तच्छरीरकपरमात्मपराः ।
+
+इति रङ्गरामानुजोक्त-रीत्या -  
+सर्वथाऽत्र पुर्वोक्तः परम एव "शारीर आत्मा" +प्रोक्तः। 
+</details>
+
+
 <details><summary>Translation</summary>
 
 The repetition of the full compound, 'consisting of bliss,' which occurs in the passage, 'He reaches that Self consisting of bliss' (Taitt. Up. II, 8), does not refer to Brahman, as it is contained in the enumeration of Non-Selfs, comprising the Self of food, &c., all of which are mere effects, and all of which are represented as things to be reached.
@@ -2629,6 +2714,7 @@ The repetition of the full compound, 'consisting of bliss,' which occurs in the 
 यस्त्वयं मयडन्तस्यैवानन्दमयशब्दस्याभ्यासः ‘एतमानन्दमयमात्मानमुपसङ्क्रामति’ (तै. उ. २। ८। ५) इति, न तस्य ब्रह्मविषयत्वमस्ति। विकारात्मनामेवान्नमयादीनामनात्मनामुपसङ्क्रमितव्यानां प्रवाहे पठितत्वात्।
 </details>
 
+##### ब्रह्म-प्राप्तिस् तद्-द्वारा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > नन्व् आनन्दमयस्योपसङ्क्रमितव्यस्य +अन्नमयादिवद् अब्रह्मत्वे सति  
@@ -2687,6 +2773,13 @@ This objection we invalidate by the remark that the text makes its declaration a
 नानन्दमयस्य ब्रह्मतां प्रतिबोधयति।
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+यदि तत्रोक्तं ब्रह्म त्वद्-उक्त-रीत्या निर्विशेषम्,  
+कथम् भो तस्यात्रोक्तेन कामेन सम्बन्धः?
+</details>
+
+
 <details><summary>Translation</summary>
 
 With reference, again, to the passage, 'He desired: may I be many, may I grow forth,' which is found in proximity to the mention of the Self consisting of bliss, we remark that it is in reality connected (not with the Self of bliss but with) Brahman, which is mentioned in the still nearer passage, 'Brahman is the tail, the support,' and does therefore not intimate that the Self of bliss is Brahman.
@@ -2699,11 +2792,11 @@ With reference, again, to the passage, 'He desired: may I be many, may I grow fo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्-अपेक्षत्वाच् चोत्तरस्य ग्रन्थस्य  
+तद्+++(→ब्रह्म)+++-अपेक्षत्वाच् चोत्तरस्य ग्रन्थस्य  
 
 > ‘रसो वै सः’ (तै. उ. २। ७। १) 
 
-इत्यादेर् नानन्दमय-विषयता।
+इत्य्-आदेर् नानन्दमय-विषयता।
 </details>
 
 <details><summary>Translation</summary>
@@ -2719,7 +2812,7 @@ And, on account of its referring to the passage last quoted ('it desired,' &c.),
 ##### पुंलिङ्गम्?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ननु ‘सोऽकामयत’ इति ब्रह्मणि पुंलिङ्गनिर्देशो नोपपद्यते।
+> ननु ‘सोऽकामयत’ इति ब्रह्मणि पुंलिङ्ग-निर्देशो नोपपद्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -2784,10 +2877,21 @@ In the knowledge of Bhr̥gu and Varuṇa finally ('he knew that bliss is Brahman
 यत्तु भार्गवी वारुणी विद्या — ‘आनन्दो ब्रह्मेति व्यजानात्’ (तै. उ. ३। ६। १) इति, तस्यां मयडश्रवणात्प्रियशिरस्त्वाद्यश्रवणाच्च युक्तमानन्दस्य ब्रह्मत्वम्।
 </details>
 
+### निर्विशेष-प्रतिपिपादयिषा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मादणुमात्रमपि विशेषमनाश्रित्य न स्वत एव प्रियशिरस्त्वादि ब्रह्मण उपपद्यते। न चेह सविशेषं ब्रह्म प्रतिपिपादयिषितम् , वाङ्मनसगोचरातिक्रमश्रुतेः।
+तस्माद् अणु-मात्रम् अपि विशेषम् अनाश्रित्य  
+न स्वत एव प्रिय-शिरस्त्वादि ब्रह्मण उपपद्यते।  
+न चेह स-विशेषं ब्रह्म प्रतिपिपादयिषितम् ,  
+वाङ्-मनस-गोचरातिक्रम-श्रुतेः।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+"अणु-मात्रम् अपि विशेषम् अनाश्रित्य" अत्रोक्तः कामो ऽपि क्वोपपद्यते सुधीः?!  
+वाङ्-मनस-गोचरातिक्रम-श्रुतेः सविशेषब्रह्मविरोधो नेति पूर्वम् उक्तम्। 
+</details>
+
 
 <details><summary>Translation</summary>
 
@@ -2799,9 +2903,12 @@ To ascribe to Brahman in itself joy, and so on, as its members, is impossible, u
 तस्मादणुमात्रमपि विशेषमनाश्रित्य न स्वत एव प्रियशिरस्त्वादि ब्रह्मण उपपद्यते। न चेह सविशेषं ब्रह्म प्रतिपिपादयिषितम् , वाङ्मनसगोचरातिक्रमश्रुतेः।
 </details>
 
+### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मादन्नमयादिष्विवानन्दमयेऽपि विकारार्थ एव मयट् विज्ञेयः, न प्राचुर्यार्थः ॥
+तस्माद् अन्नमयादिष्व् इवानन्दमयेऽपि  
+विकारार्थ एव मयट् विज्ञेयः,  
+न प्राचुर्यार्थः ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -2824,14 +2931,33 @@ We therefore must conclude that the affix maya, in the word ānandamaya, does no
 मेलुम् वाक्कु मऩसिऱ्कु विषयमायुळ्ळदैत् ताण्डिऩदु ऎऩ्ऱु सॊल्लुम् सुरुदियिऩाल्, इङ्गे विसेषत्तैयुडैय पिरह्मम् पिरदिबादिक्क उत्तेसिक्कप् पडविल्लै। आगैयाल्, अऩ्ऩमयम् मुदलियवैगळिऩ् पोलवे, आऩन्दमयत्तिलुम् उळ्ळ ‘मय' ऎऩ्बदु विगारम् ऎऩ्ऱ अर्त्तमुळ्ळदुदाऩ्, अदिगमायुळ्ळदॆऩ्ऱ अर्त्तमिल्लै।
 </details>
 
+### सूत्र-व्याख्यानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूत्राणि त्वेवं व्याख्येयानि — ‘ब्रह्म पुच्छं प्रतिष्ठा’ इत्यत्र किमानन्दमयावयवत्वेन ब्रह्म विवक्ष्यते, उत स्वप्रधानत्वेनेति।
+सूत्राणि त्व् एवं व्याख्येयानि —  
+</details>
+
+<details><summary>English</summary>
+
+The Sūtras are therefore to be explained as follows.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सूत्राणि त्व् एवं व्याख्येयानि —  
+</details>
+
+
+#### आनन्दमयो ऽभ्यासात्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+
+‘ब्रह्म पुच्छं प्रतिष्ठा’ इत्य्-अत्र  
+किम् आनन्दमयावयवत्वेन ब्रह्म विवक्ष्यते,  
+उत स्व-प्रधानत्वेनेति।
 </details>
 
 <details><summary>Translation</summary>
-
-The Sūtras are therefore to be explained as follows.
 
 There arises the question whether the passage, 'Brahman is the tail, the support,' is to be understood as intimating that Brahman is a mere member of the Self consisting of bliss, or that it is the principal matter.
 </details>
@@ -2843,8 +2969,20 @@ There arises the question whether the passage, 'Brahman is the tail, the support
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुच्छशब्दादवयवत्वेनेति प्राप्ते, उच्यते — आनन्दमयोऽभ्यासात् — आनन्दमय आत्मा इत्यत्र ‘ब्रह्म पुच्छं प्रतिष्ठा’ इति स्वप्रधानमेव ब्रह्मोपदिश्यते;
+"पुच्छ-शब्दाद् अवयवत्वेने"ति प्राप्ते, उच्यते —  
+
+> आनन्दमयो +++(→तत्-प्रकरणस्थं प्रधानं ब्रह्म)+++ ऽभ्यासात् 
+
+— आनन्दमय आत्मा इत्य्-अत्र  
+‘ब्रह्म पुच्छं प्रतिष्ठा’ इति स्व-प्रधानम् एव ब्रह्मोपदिश्यते;
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+स्वत आदौ प्रतिपादितया रीत्या ऽनपेक्षिता ऽप्य्  
+अत्र लक्षणाश्रीता सूत्रार्थकरणे। 
+</details>
+
 
 <details><summary>Translation</summary>
 
@@ -2860,7 +2998,8 @@ That means: Brahman, which in the passage 'the Self consisting of bliss,' &c., i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभ्यासात् ‘असन्नेव स भवति’ इत्यस्मिन्निगमनश्लोके ब्रह्मण एव केवलस्याभ्यस्यमानत्वात् ।
+अभ्यासात् - ‘असन्न् एव स भवति’ इत्य्-अस्मिन् निगमन-श्लोके  
+ब्रह्मण एव केवलस्याभ्यस्यमानत्वात् ।
 </details>
 
 <details><summary>Translation</summary>
@@ -2883,10 +3022,20 @@ On account of the repetition; for in the memorial śloka, 'he becomes himself no
 "आऩन्दमयऩ् अप्यासत्तिऩाल्" ऎऩ्ऱु सॊल्लप्पडुगिऱदु। आऩन्दमय आत्मा ऎऩ्ऱ इडत्तिल् "पिरह्म पुच्चम् पिरदिष्टै” ऎऩ्ऱु, ताऩे पिरदाऩ मायुळ्ळ पिरह्मम्दाऩ् उबदेसिक्कप्पडुगिऱदु, अप्यासत् तिऩाल्, “अवऩ् इल्लादवऩागवे आगिऱाऩ्" ऎऩ्ऱु इन्द मुडिवु सुलोगत्तिल् वॆऱुम् पिरह्मत्तिऱ् कुत्ताऩ् अप्यसिक्कप्पडुम् तऩ्मैयिरुप्पदाल्।
 </details>
 
+#### विकारो ऽवयवार्थः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विकारशब्दान्नेति चेन्न प्राचुर्यात् — विकारशब्देनावयवशब्दोऽभिप्रेतः;
+> "विकार+++(→अवयव)+++-शब्दान् +++(ब्रह्म-प्राधान्यं)+++ ने"ति चेन्, न - प्राचुर्यात् 
+
+— विकार-शब्देनावयव-शब्दो ऽभिप्रेतः;
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+स्वत आदौ प्रतिपादितया रीत्या ऽनपेक्षिता ऽप्य्  
+अत्र लक्षणाश्रीता सूत्रार्थकरणे। 
+</details>
+
 
 <details><summary>Translation</summary>
 
@@ -2902,7 +3051,11 @@ In this Sūtra the word 'modification' is meant to convey the sense of member.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुच्छमित्यवयवशब्दान्न स्वप्रधानत्वं ब्रह्मण इति यदुक्तम् , तस्य परिहारो वक्तव्यः;
+> पुच्छम् इत्य्-अवयव-शब्दान्  
+न स्व-प्रधानत्वं ब्रह्मण 
+
+इति यद् उक्तम् ,  
+तस्य परिहारो वक्तव्यः;
 </details>
 
 <details><summary>Translation</summary>
@@ -2917,17 +3070,18 @@ The objection that on account of the word 'tail,' which denotes a mere member, B
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्रोच्यते — नायं दोषः, प्राचुर्यादप्यवयवशब्दोपपत्तेः;
+अत्रोच्यते — नायं दोषः,  
+प्राचुर्याद् अप्य् +++(स्वप्रधान-)+++ अवयव-शब्दोपपत्तेः;
 </details>
 
 <details><summary>Translation</summary>
 
-This we do by remarking that there is no difficulty, since a word denoting a member may be introduced into the passage on account of prācurya [^fn_117].
+This we do by remarking that there is no difficulty, since a word denoting a member may be introduced into the passage on account of prācurya [fn_117].
 </details>
 
 <details><summary>Translation - Notes</summary>
 
-[^fn_117]: 77:1 I.e. the word translated hitherto by abundance.
+[fn_117]: 77:1 I.e. the word translated hitherto by abundance.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2937,7 +3091,8 @@ This we do by remarking that there is no difficulty, since a word denoting a mem
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राचुर्यं प्रायापत्तिः, अवयवप्राये वचनमित्यर्थः;
+प्राचुर्यं प्रायापत्तिः,  
+अवयव-प्राये वचनम् इत्यर्थः;
 </details>
 
 <details><summary>Translation</summary>
@@ -2952,7 +3107,11 @@ Prācurya here means a phraseology abounding in terms denoting members.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्नमयादीनां हि शिरआदिषु पुच्छान्तेष्ववयवेषूक्तेष्वानन्दमयस्यापि शिरआदीन्यवयवान्तराण्युक्त्वा अवयवप्रायापत्त्या ‘ब्रह्म पुच्छं प्रतिष्ठा’ इत्याह, नावयवविवक्षया; यत्कारणम् ‘अभ्यासात्’ इति स्वप्रधानत्वं ब्रह्मणः समर्थितम् ।
+अन्नमयादीनां हि शिर-आदिषु पुच्छान्तेष्व् अवयवेषूक्तेष्व्  
+आनन्दमयस्यापि शिर-आदीन्य् अवयवान्तराण्य् उक्त्वा  
++++(प्राचुर्य-रूप-)+++ अवयव-प्रायापत्त्या ‘ब्रह्म पुच्छं प्रतिष्ठा’ इत्य् आह,  
+नावयव-विवक्षया;  
++++(अप्रधानावयव-विवक्षा नेति→)+++ यत्-कारणम् ‘अभ्यासात्’ इति स्व-प्रधानत्वं ब्रह्मणः समर्थितम् ।
 </details>
 
 <details><summary>Translation</summary>
@@ -2970,9 +3129,17 @@ After the different members, beginning with the head and ending with the tail, o
 “विगार सप्तमिरुप्पदिऩाल् इल्लै ऎऩ्ऱाल् इल्लै पिरासुर्यम् इरुप्पदाल्" विगार सप्तत्तिऩाल् अवयव सप्तम् अबिप्पिरायप्पडप्पडुगिऱदु। 'पुच्चम्' ऎऩ्ऱु अवयव सप्तमिरुप्पदिऩाल्, ताऩे पिरदाऩमायिरुक्कुम् तऩ्मै पिरह्मत्तिऱ्कु इल्लै ऎऩ्ऱु ऎदु सॊल्लप् पट्टदो, अदऱ्कुप् परिहारम् सॊल्ल वेण्डुम्। अदिल् सॊल्गिऱोम्; इदु तोषमिल्लै, पिरासुर्यत्तिलुम् (अदिगमायिरुप्पदिलुम्) अवयवसप्तम् पॊरुन्दुमाऩ तिऩाल्, पिरासुर्यम् ऎऩ्बदु अदिगमायिरुक्कुम् तऩ्मै; अवयवम् अदिगमायिरुक्कैयिल् सॊल्लुदल् ऎऩ्ऱु अर्त्तम्। अऩ्ऩमयम् मुदलियवैगळुक्कु सिरस् मुदल् पुच्चम् मुडिय अवयवङ्गळ् सॊल्लप्पट्टिरुक्कुम् पोदु, आऩन्द मयत्तिऱ्कुम्गूड सिरस् मुदलाऩदाग वेऱु अवयवङ्गळैच् चॊल्लि, अवयवङ्गळ् अदिगमाग वरुवदिऩाल्, "पिरह्म पुच्चम् पिरदिष्टै” ऎऩ्ऱु सॊऩ्ऩदे तविर, अवयवम् ऎऩ्ऱु सॊल्ल वेण्डु मॆऩ्ऱ उत्तेसत्तुडऩिल्लै। ऎऩ्ऩ कारणमॆऩ्ऱाल्, अप्यासत्तिऩाल् ऎऩ्ऱु पिरह्मत्तिऱ्कु ताऩागवे पिरदाऩत्तऩ्मैयुण्डॆऩ्ऱु काट्टप्पट्टुविट्टदु।
 </details>
 
+#### हेतु-व्यपदेशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्धेतुव्यपदेशाच्च — सर्वस्य हि विकारजातस्य सानन्दमयस्य कारणत्वेन ब्रह्म व्यपदिश्यते — ‘इदँ सर्वमसृजत, यदिदं किञ्च’ (तै. उ. २। ६। १) इति।
+> तद्-धेतु-व्यपदेशाच् च 
+
+— सर्वस्य हि विकार-जातस्य सानन्दमयस्य  
+कारणत्वेन ब्रह्म व्यपदिश्यते —  
+
+> ‘इदँ सर्वम् असृजत, यद् इदं किञ्च’ (तै. उ. २। ६। १) 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -2989,8 +3156,19 @@ That means: Brahman is declared to be the cause of the entire aggregate of effec
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च कारणं सद्ब्रह्म स्वविकारस्यानन्दमयस्य मुख्यया वृत्त्यावयव उपपद्यते।
+न च कारणं सद् ब्रह्म  
+स्व-विकारस्यानन्दमयस्य  
+मुख्यया वृत्त्या ऽवयव उपपद्यते।+++(5)+++
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+स्वत आदौ प्रतिपादितया रीत्या ऽनपेक्षिता ऽप्य्  
+लक्षणाम् आश्रीत्य  
+तद्-दुष्ट-मीमांसायाः समर्थनम्  
+अस्मिन् सूत्रय् आरोपयति।
+</details>
+
 
 <details><summary>Translation</summary>
 
@@ -3004,17 +3182,25 @@ And as Brahman is the cause, it cannot at the same time be called the member, in
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपराण्यपि सूत्राणि यथासम्भवं पुच्छवाक्यनिर्दिष्टस्यैव ब्रह्मण उपपादकानि द्रष्टव्यानि ॥१२ – १९ ॥
+अपराण्य् अपि सूत्राणि  
+यथा-सम्भवं पुच्छ-वाक्य-निर्दिष्टस्यैव ब्रह्मण उपपादकानि द्रष्टव्यानि ॥१२ – १९ ॥ +++(5)+++
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+"यथा-सम्भवम्" इति सूत्रपीडनकाठिन्यम्,  
+वस्तुतो ऽस्यार्थस्यारोपस्यासम्भवं चाङ्गीकरोति!
+</details>
+
 
 <details><summary>Translation</summary>
 
-The other Sūtras also (which refer to the Self of bliss [^fn_118]) are to be considered, as well as they may, as conveying a knowledge of Brahman, which (Brahman) is referred to in the passage about the tail.
+The other Sūtras also (which refer to the Self of bliss [fn_118]) are to be considered, as well as they may, as conveying a knowledge of Brahman, which (Brahman) is referred to in the passage about the tail.
 </details>
 
 <details><summary>Translation - Notes</summary>
 
-[^fn_118]: 77:2 See I, 1, 15-19.
+[fn_118]: 77:2 See I, 1, 15-19.
 </details>
 
 <details><summary>मूलम्</summary>

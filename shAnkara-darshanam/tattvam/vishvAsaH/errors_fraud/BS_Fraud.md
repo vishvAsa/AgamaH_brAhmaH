@@ -5,7 +5,7 @@ title = "BS Fraud"
 ## Intro
 Here we consider cases where shankara (with varying degrees of certainty) deliberately misrepresented brahma-sUtra-s of bAdarAyaNa.
 
-## First 2 sUtras
+## Cancelling initial sUtras
 ### En
 bAdarAyaNa's originals (Thibaut's translation of S's bhAShyam) :
 
@@ -36,13 +36,18 @@ Initially, he mostly speaks like a bhedAbhedavAdin, saying mostly the right thin
 
 (Already started directly contradicting sUtra 2.)
 
-In AnandamayAdhikaraNa (1.1.12 – 1.1.19), he says clearly -
+In AnandamayAdhikaraNa (1.1.12 – 1.1.19), he says [clearly](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/shankaraH/brahma-sUtrANi/sarva-prastutiH/01/01/06_AnandamayAdhikaraNam) -
 
 > द्वि-रूपं हि ब्रह्मावगम्यते —  
 नाम-रूप-विकार-भेदोपाधि-विशिष्टम् ,  
 तद्-विपरीतं च सर्वोपाधि-विवर्जितम् ।
 
-The Bait and Switch:  shankara says that "mayaT" in Anandamaya implies vikAra, making Anandamaya brahman the "lower" saguNa-brahman.
+
+**The Bait and Switch**:  
+
+आनन्दमयाधिकरणे शङ्करभाष्यम् अतिविचित्रं मे भाति, यत आदौ सूत्राणां समञ्जसप्रायं व्याख्यानं दत्त्वा, "इदं त्व् इह वक्तव्यम्" इत्यारभ्य मयटो विकारार्थं पुरस्कृत्याबद्धव्याख्यानेन सूत्राणाम् अधिकरणं समापयति। 
+
+shankara, having explained the sUtra in the straight-forward manner, turns around says that "mayaT" in Anandamaya implies vikAra, making Anandamaya brahman the "lower" saguNa-brahman, finally torturing the sUtra-s to make them say this.
 
 Shankara takes the universe-maker of 1.1.2 (Janmadyasya yatah) and officially strips Him of His ultimate reality under Sutra 2.1.14 
 
@@ -117,6 +122,9 @@ shankara has casually (and badly) dealt with the section dealing with pAncharAtr
 
 It is clear from his own admission, that he was interested in foisting nirguNa-brahma-vivarta-vAda on to brahma-sUtra-s, rather than explaining it as it is. (Contrast अध्यासवादं प्रसाध्य - "यथा चायमर्थो वेदान्तानां तथा वयमस्यां शारीरकमीमांसायां प्रदर्शयिष्यामः" with R's "तन्मतानुसारेण सूत्राक्षराणि व्याख्यास्यन्ते"). 
 
+This deliberateness is particularly clear in the AnandamayAdhikarana volte-face described above. अनेन माध्वकृतं शङ्करचारित्र्यदूषणं समञ्जसं वेति सन्देहो ऽपि जायते - न मूर्खोऽसौ, प्रत्युत दुष्ट एवेति।
+
+
 Besides rAmAnuja and the mAdhvas, it was noticed by bhAskara as well - 
 
 > सूत्राभिप्राय-संवृत्या  
@@ -130,6 +138,11 @@ One can excuse language / interpretation errors, and even logical errors saying
 > his capacity is only that much, we all make mistakes,
 
 but not dead-obvious outright fraud. 
+
+मध्वो यथा श्रुतिसूत्रादीनि स्वमतं वादयितुं निपीडयति, तथा (ततोऽधिकं वा) शङ्करोऽपि।  
+शङ्करेण बुद्धिपूर्वकम् इदम् असह्यं कृतम् इत्य् अधुना स्पष्टम्।  
+मध्वेनापि तथैव कृतम्, किन्तु "शठम् प्रति शाठ्यम्" इत्य् अनुसृत्योपेक्षितुं शक्यम्। शङ्करस्य तादृशं व्याजं वर्णयितुं न शक्यम्। 
+अतो लोकवञ्चकत्वाद् दुष्टता सिध्यत्य् एव। 
 
 shankara's motivation for this hopeless task is considered [elsewhere](../motivation/motivation_for_BS?printCols=1&bodyFontSize=0.4cm&includeStyle=true). 
 
