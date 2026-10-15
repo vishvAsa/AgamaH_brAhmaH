@@ -135,7 +135,8 @@ Besides rAmAnuja and the mAdhvas, it was noticed by bhAskara as well -
 ## Other Commentary
 One can excuse language / interpretation errors, and even logical errors saying 
 
-> his capacity is only that much, we all make mistakes,
+> his capacity is only that much,  
+we all make mistakes,
 
 but not dead-obvious outright fraud. 
 
@@ -146,11 +147,13 @@ but not dead-obvious outright fraud.
 
 shankara's motivation for this hopeless task is considered [elsewhere](../motivation/motivation_for_BS?printCols=1&bodyFontSize=0.4cm&includeStyle=true). 
 
-<details><summary>विश्वास-टिप्पनी</summary>
+<details><summary>Implications on v1-s</summary>
 
 Was going to say how my regard for shankara reached "record levels" upon noticing this, but then what to say about us v1s for whom this is the (numerically) preeminent darshana!?  
 But maybe it's too much to expect much else considering "uttarAyaNa" and all.  
 Still points to a deep systemic failure. The most charitable guess is that the muzzie invasion is to blame for the "time-freeze" and major talent loss.
 </details>
 
-
+This brazen twisting of brahma-sUtra-s, and it's later widespread (atleast nominal) adoption,  
+should be considered one of the "wonders of the world".  
+Human perversion and its hold on even the "spiritual" section of society are indeed marvels to behold.
