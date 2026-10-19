@@ -33,10 +33,13 @@ If nirguNa brahman already has avidyA - well it's not nirguNa. So check mate.
 This thing is not attributeless, of course. Here "perfect analogy" breaks down.
 </details>
 
+
+
 ### Distinction from others
 > No school of Hinduism AFAIK says that the presence of avidya in-and-of itself is a philosophical problem in a schools doctrine, virtually all schools accept beginningless avidya tied to karma.
 
 The distinction is that other schools accept that this beginningless avidyA is real, while you make all kinds of silly excuses and tie yourself into knots.
+
 
 ## avidyA explains experience
 nirguNa does not "produce" saguNa - it does nothing. It's all an illusion of unknown / undescribable origin as per shAnkaras.
@@ -56,6 +59,19 @@ including the first-person experience.
 
 ### shUnyAdvaita better
 Better stick to only substrateless avidyA like the buddhists (shUnyAdvaita), rather than hypothesize a substrate called nirguNa-brahman.
+
+
+#### सारूप्याभावे ऽध्यासः?
+> सारूप्य-निमित्ताश् चाध्यासा भवन्ति
+यथा
+>
+>> ‘तस्य भूर् इति शिर  
+एकं हि शिर, एकम् एतदक्षरम्’ (बृ. उ. ५। ५। ३)
+>
+> इति।
+
+इति ज्योतिष्चरणाधिकरणे शङ्करः।  
+किं सारूप्यं निर्गुण-सगुण-ब्रह्मणोः?
 
 ## Who has avidyA?
 Who experiences this avidyA? Who is confused by it?  

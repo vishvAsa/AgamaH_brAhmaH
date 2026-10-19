@@ -51,17 +51,65 @@ title = "१० ज्योतिश्चरणाधिकरणम्"
 ## ज्योतिर्-उक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदम् आमनन्ति — ‘अथ यद् अतः परो दिवो ज्योतिर् दीप्यते विश्वतः पृष्ठेषु सर्वतः पृष्ठेष्व् अनुत्तमेषूत्तमेषु लोकेष्व् इदं वाव तद् यद् इदम् अस्मिन्न्-अन्तः पुरुषे ज्योतिः’ (छा. उ. ३। १३। ७) इति। तत्र संशयः — किम् इह ज्योतिःशब्देनादित्यादिकं ज्योतिर् अभिधीयते, किं वा पर आत्मा इति। अर्थान्तर-विषयस्यापि प्राण-शब्दस्य तल्-लिङ्गाद् ब्रह्म-विषयत्वम् उक्तम्। इह तु तल्-लिङ्गम् एवास्ति नास्तीति विचार्यते ।
+इदम् आमनन्ति — 
+
+> ‘अथ यद् अतः परो दिवो ज्योतिर् दीप्यते  
+विश्वतः पृष्ठेषु, सर्वतः पृष्ठेष्व्, अनुत्तमेषूत्तमेषु लोकेष्व्  
+इदं वाव तद्  
+यद् इदम् अस्मिन्न् अन्तः पुरुषे ज्योतिः’  
+(छा. उ. ३। १३। ७) 
+
+इति। 
 </details>
 
 <details><summary>Translation</summary>
 
-Scripture says (Cḥ. Up. III, 13, 7), 'Now that light which shines above this heaven, higher than all, higher than everything, in the highest worlds beyond which there are no other worlds that is the same light which is within man.' Here the doubt presents itself whether the word 'light' denotes the light of the sun and the like, or the highest Self. Under the preceding Sūtras we had shown that some words which ordinarily have different meanings yet in certain passages denote Brahman, since characteristic marks of the latter are mentioned. Here the question has to be discussed whether, in connexion with the passage quoted, characteristic marks of Brahman are mentioned or not.
+Scripture says (Cḥ. Up. III, 13, 7), 'Now that light which shines above this heaven, higher than all, higher than everything, in the highest worlds beyond which there are no other worlds that is the same light which is within man.' 
 </details>
 
 <details><summary>मूलम्</summary>
 
-इदमामनन्ति — ‘अथ यदतः परो दिवो ज्योतिर्दीप्यते विश्वतः पृष्ठेषु सर्वतः पृष्ठेष्वनुत्तमेषूत्तमेषु लोकेष्विदं वाव तद्यदिदमस्मिन्नन्तः पुरुषे ज्योतिः’ (छा. उ. ३। १३। ७) इति। तत्र संशयः — किमिह ज्योतिःशब्देनादित्यादिकं ज्योतिरभिधीयते, किं वा पर आत्मा इति। अर्थान्तरविषयस्यापि प्राणशब्दस्य तल्लिङ्गाद्ब्रह्मविषयत्वमुक्तम्। इह तु तल्लिङ्गमेवास्ति नास्तीति विचार्यते ।
+इदमामनन्ति — ‘अथ यदतः परो दिवो ज्योतिर्दीप्यते विश्वतः पृष्ठेषु सर्वतः पृष्ठेष्वनुत्तमेषूत्तमेषु लोकेष्विदं वाव तद्यदिदमस्मिन्नन्तः पुरुषे ज्योतिः’ (छा. उ. ३। १३। ७) इति। 
+</details>
+
+### संशयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र संशयः — 
+
+> किम् इह ज्योतिः-शब्देनादित्य्-आदिकं ज्योतिर् अभिधीयते,  
+किं वा पर आत्मा 
+
+इति। 
+</details>
+
+<details><summary>English</summary>
+
+Here the doubt presents itself whether the word 'light' denotes the light of the sun and the like, or the highest Self. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र संशयः — किमिह ज्योतिःशब्देनादित्यादिकं ज्योतिरभिधीयते, किं वा पर आत्मा इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्थान्तर-विषयस्यापि प्राण-शब्दस्य  
+तल्-लिङ्गाद् ब्रह्म-विषयत्वम् उक्तम्।  
+इह तु तल्-लिङ्गम् एवास्ति नास्तीति विचार्यते ।
+</details>
+
+<details><summary>English</summary>
+
+Under the preceding Sūtras we had shown that some words which ordinarily have different meanings yet in certain passages denote Brahman, since characteristic marks of the latter are mentioned. Here the question has to be discussed whether, in connexion with the passage quoted, characteristic marks of Brahman are mentioned or not.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अर्थान्तरविषयस्यापि प्राणशब्दस्य तल्लिङ्गाद्ब्रह्मविषयत्वमुक्तम्। इह तु तल्लिङ्गमेवास्ति नास्तीति विचार्यते ।
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -94,19 +142,85 @@ Scripture says (Cḥ. Up. III, 13, 7), 'Now that light which shines above this h
 'पिऱगु इन्द त्युलोगत्तिऱ्कु मेलाऩदाय् ऎल्ला पिराणिगळुक्कुम् मेले, ऎल्ला उलगङ्गळुक्कुम् मेले, ऎदऱ्कु मेल् सिऱन्ददु किडैयादो, ऎदुवे मिगवुम् मेलाऩदो, अन्द लोगङ्गळिल् ऎन्द ज्योदिस् पिरगासिक्किऱदो अदु इन्द पुरुषऩिल् (सरीरत्तिल्) उळ्ळे ऎन्द ज्योदिस् इरुक्किऱदो, इदुवेदाऩ्' (सान्।३-१३-७) ऎऩ्ऱु इदै सॊल्गिऱार्गळ्। अदिल्, इङ्गे 'ज्योदिस्' ऎऩ्ऱ सप्तत्तिऩाल् आदित्यऩ् मुदलाऩ ज्योदिस् सॊल्लप्पडुगिऱदा अल्लदु परमात्मावा ऎऩ्ऱु सन्देहम्। वेऱु अर्त्तत्तै विषयमायुळ्ळ सप्तत्तिऱ्कुक्कूड ‘अदऩ् लिङ्ग मिरुप्पदाल्' पिरह्मत्तै विषयमायुडैय तऩ्मै उण्डॆऩ्ऱु मुऩ् सॊल्लप्पट्टदु। इङ्गे अदऩ् लिङ्गमे इरुक्किऱदा इल्लैया ऎऩ्ऱु विसारिक्कप् पडुगिऱदु।
 </details>
 
+## आदित्य-पक्षः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किं तावत्-प्राप्तम् ? आदित्यादिकम् एव ज्योतिःशब्देन परिगृह्यत इति। कुतः ? प्रसिद्धेः। तमो ज्योतिर् इति हीमौ शब्दौ परस्-पर-प्रतिद्वन्द्वि-विषयौ प्रसिद्धौ। चक्षुर् वृत्तेर् निरोधकं शार्वरादिकं तम उच्यते। तस्या एवानुग्राहकमादित्यादिकं ज्योतिः। तथा ‘दीप्यते’ इतीयम् अपि श्रुतिर्-आदित्यादि-विषया प्रसिद्धा। न हि रूपादि-हीनं ब्रह्म दीप्य् अत इति मुख्यां श्रुतिम् अर्हति। द्यु मर्याद् अत्व् अश्रुतेश् च। न हि चराचर-बीजस्य ब्रह्मणः सर्वात्मकस्य द्यौर् मर्यादा युक्ता। कार्यस्य तु ज्योतिषः परिच्छिन्नस्य द्यौर् मर्यादा स्यात्। ‘परो दिवो ज्योतिः’ इति च ब्राह्मणम् ।
+किं तावत् प्राप्तम् ?  
+"आदित्यादिकम् एव ज्योतिः-शब्देन परिगृह्यत" इति। 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>English</summary>
 
-The pūrvapakshin maintains that the word 'light' denotes nothing else but the light of the sun and the like, since that is the ordinary well-established meaning of the term. The common use of language, he says, teaches us that the two words 'light' and 'darkness' denote mutually opposite things, darkness being the term for whatever interferes with the function of the sense of sight, as, for instance, the gloom of the night, while sunshine and whatever else favours the action of the eye is called light. The word 'shines' also, which the text exhibits, is known ordinarily to refer to the sun and similar sources of light; while of Brahman, which is devoid of colour, it cannot be said, in the primary sense of the word, that it 'shines.' Further, the word jyotis must here denote light because it is said to be bounded by the sky ('that light which shines above this heaven'). For while it is impossible to consider the sky as being the boundary of Brahman, which is the Self of all and the source of all things movable or immovable, the sky may be looked upon as forming the boundary of light, which is a mere product and as such limited; accordingly the text says, 'the light beyond heaven.'
+The pūrvapakshin maintains that the word 'light' denotes nothing else but the light of the sun and the like, since that is the ordinary well-established meaning of the term. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किं तावत्प्राप्तम्? आदित्यादिकमेव ज्योतिःशब्देन परिगृह्यत इति। 
+</details>
+
+### प्रसिद्धिः
+#### लोके
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः ? प्रसिद्धेः।  
+तमो, ज्योतिर् इति हीमौ शब्दौ  
+परस्-पर-प्रतिद्वन्द्वि-विषयौ प्रसिद्धौ।  
+चक्षुर् वृत्तेर् निरोधकं शार्वरादिकं तम उच्यते।  
+तस्या एवानुग्राहकमादित्यादिकं ज्योतिः। 
+</details>
+
+<details><summary>English</summary>
+
+The common use of language, he says, teaches us that the two words 'light' and 'darkness' denote mutually opposite things, darkness being the term for whatever interferes with the function of the sense of sight, as, for instance, the gloom of the night, while sunshine and whatever else favours the action of the eye is called light. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-किं तावत्प्राप्तम् ? आदित्यादिकमेव ज्योतिःशब्देन परिगृह्यत इति। कुतः ? प्रसिद्धेः। तमो ज्योतिरिति हीमौ शब्दौ परस्परप्रतिद्वन्द्विविषयौ प्रसिद्धौ। चक्षुर्वृत्तेर्निरोधकं शार्वरादिकं तम उच्यते। तस्या एवानुग्राहकमादित्यादिकं ज्योतिः। तथा ‘दीप्यते’ इतीयमपि श्रुतिरादित्यादिविषया प्रसिद्धा। न हि रूपादिहीनं ब्रह्म दीप्यत इति मुख्यां श्रुतिमर्हति। द्युमर्यादत्वश्रुतेश्च। न हि चराचरबीजस्य ब्रह्मणः सर्वात्मकस्य द्यौर्मर्यादा युक्ता। कार्यस्य तु ज्योतिषः परिच्छिन्नस्य द्यौर्मर्यादा स्यात्। ‘परो दिवो ज्योतिः’ इति च ब्राह्मणम् ।
+कुतः ? प्रसिद्धेः। तमो ज्योतिरिति हीमौ शब्दौ परस्परप्रतिद्वन्द्विविषयौ प्रसिद्धौ। चक्षुर्वृत्तेर्निरोधकं शार्वरादिकं तम उच्यते। तस्या एवानुग्राहकमादित्यादिकं ज्योतिः। 
+</details>
+
+#### वेदे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा ‘दीप्यते’ इतीयम् अपि श्रुतिर्  
+आदित्यादि-विषया प्रसिद्धा।  
+न हि रूपादि-हीनं ब्रह्म  
+"दीप्यत" इति मुख्यां श्रुतिम् अर्हति। 
+</details>
+
+<details><summary>English</summary>
+
+The word 'shines' also, which the text exhibits, is known ordinarily to refer to the sun and similar sources of light; while of Brahman, which is devoid of colour, it cannot be said, in the primary sense of the word, that it 'shines.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा ‘दीप्यते’ इतीयमपि श्रुतिरादित्यादिविषया प्रसिद्धा। न हि रूपादिहीनं ब्रह्म दीप्यत इति मुख्यां श्रुतिमर्हति। 
+</details>
+
+
+### द्यु-मर्यादता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्यु-मर्यादत्व-श्रुतेश् च +++(ज्योतिर् आदित्यः)+++।  
+न हि चराचर-बीजस्य ब्रह्मणः सर्वात्मकस्य  
+द्यौर् मर्यादा युक्ता।  
+कार्यस्य तु ज्योतिषः परिच्छिन्नस्य  
+द्यौर् मर्यादा स्यात्।  
+‘परो दिवो ज्योतिर्’ इति च ब्राह्मणम् +++(पूर्वोदाहृतम्)+++।
+</details>
+
+<details><summary>Translation</summary>
+
+Further, the word jyotis must here denote light because it is said to be bounded by the sky ('that light which shines above this heaven'). For while it is impossible to consider the sky as being the boundary of Brahman, which is the Self of all and the source of all things movable or immovable, the sky may be looked upon as forming the boundary of light, which is a mere product and as such limited; accordingly the text says, 'the light beyond heaven.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्युमर्यादत्वश्रुतेश्च। न हि चराचरबीजस्य ब्रह्मणः सर्वात्मकस्य द्यौर्मर्यादा युक्ता। कार्यस्य तु ज्योतिषः परिच्छिन्नस्य द्यौर्मर्यादा स्यात्। ‘परो दिवो ज्योतिः’ इति च ब्राह्मणम् ।
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -119,14 +233,45 @@ The pūrvapakshin maintains that the word 'light' denotes nothing else but the l
 त्युलोगत्तै ऎल्लैयाय् सॊल्लियिरुप् पदिऩालुम्। असैयुम् पॊरुळ्, असैयाप्पॊरुळ् ऎल्लावऱ्ऱिऱ्कुम् कारणमायुम् ऎल्ला स्वरूबमागवुम् इरुक्किऱ पिरह्मत्तिऱ्कु त्युलोगम् ऎल्लै ऎऩ्बदु पॊरुन्दादु अल्लवा? कार्यमाय् (उण्डाऩदाय्) अळविऱ्कुळ्बट्टदायुळ्ळ ज्योदिस्सिऱ्को त्युलोगम् ऎल्लैयाग इरुक्कलाम्। 'त्युलोगत्तिऱ्कु मेल् उळ्ळ ज्योदिस्' ऎऩ्ऱु पिराह्मणम् इरुक्किऱदु।
 </details>
 
+#### अत्रिवृत्-कृतं तेजः?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु कार्यस्यापि ज्योतिषः सर्वत्र गम्यमान-त्वाद् द्यु मर्यादावत्त्वमसमञ्जसम्। अस्तु तर्ह्यत्रिवृत्कृतं तेजः प्रथमजम्। न, अत्रिवृत्कृतस्य तेजसः प्रयोजनाभावाद् इति। इदम् एव प्रयोजनं यदुपास्यत्वमिति चेत् , न; प्रयोजनान्तर-प्रयुक्तस्यैवादित्यादेरुपास्यत्व-दर्शनात् , ‘तासां त्रि-वृतं त्रिवृतम् एकैकां करवाणि’ (छा. उ. ६। ३। ३) इति चाविशेष-श्रुतेः। न चात्रिवृत्कृतस्यापि तेजसो द्युमर्यादत्वं प्रसिद्धम् ।
+> ननु कार्यस्यापि ज्योतिषः सर्वत्र गम्यमानत्वाद् द्युमर्यादावत्त्वम् अ-समञ्जसम्। 
+</details>
+
+<details><summary>English</summary>
+
+But light, although a mere product, is perceived everywhere; it would therefore be wrong to declare that it is bounded by the sky! 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु कार्यस्यापि ज्योतिषः सर्वत्र गम्यमानत्वाद्द्यु मर्यादावत्त्वमसमञ्जसम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्तु तर्ह्य् अ-त्रिवृत्-कृतं तेजः प्रथम-जम्।  
+
+> न, अ-त्रिवृत्-कृतस्य तेजसः प्रयोजनाभावाद् इति।  
+> "इदम् एव प्रयोजनं यद् उपास्यत्वम्" इति चेत् , न;  
+प्रयोजनान्तर-प्रयुक्तस्यैवादित्यादेर् उपास्यत्व-दर्शनात् +++(न तु प्रयोजनान्तर-रहितस्य)+++,  
+> 
+> > ‘तासां त्रि-वृतं त्रिवृतम् एकैकां करवाणि’ (छा. उ. ६। ३। ३) 
+>
+> इति चाविशेष-श्रुतेः +++(अ-त्रिवृत्-कृतस्य प्रध्वंसाभावं सूचयत्याः)+++।  
 </details>
 
 <details><summary>Translation</summary>
 
-But light, although a mere product, is perceived everywhere; it would therefore be wrong to declare that it is bounded by the sky! Well, then, the pūrvapakshin replies, let us assume that the light meant is the first-born (original) light which has not yet become tripartite [^fn_126]. This explanation again cannot be admitted, because the non-tripartite light does not serve any purpose. But, the pūrvapakshin resumes, Why should its purpose not be found therein that it is the object of devout meditation? That cannot be, we reply; for we see that only such things are represented as objects of devotion as have some other independent use of their own; so, for instance, the sun (which dispels darkness and so on). Moreover the scriptural passage, 'Let me make each of these three (fire, water, and earth) tripartite,' does not indicate any difference [^fn_127]. And even of the non-tripartite light it is not known that the sky constitutes its boundary.
+Well, then, the pūrvapakshin replies, let us assume that the light meant is the first-born (original) light which has not yet become tripartite [^fn_126]. This explanation again cannot be admitted, because the non-tripartite light does not serve any purpose. 
+
+But, the pūrvapakshin resumes, Why should its purpose not be found therein that it is the object of devout meditation? 
+
+That cannot be, we reply; for we see that only such things are represented as objects of devotion as have some other independent use of their own; so, for instance, the sun (which dispels darkness and so on).  
+Moreover the scriptural passage, 'Let me make each of these three (fire, water, and earth) tripartite,' does not indicate any difference [^fn_127]. 
 </details>
 
 <details><summary>Translation - Notes</summary>
@@ -137,8 +282,25 @@ But light, although a mere product, is perceived everywhere; it would therefore 
 
 <details><summary>मूलम्</summary>
 
-ननु कार्यस्यापि ज्योतिषः सर्वत्र गम्यमानत्वाद्द्यु मर्यादावत्त्वमसमञ्जसम्। अस्तु तर्ह्यत्रिवृत्कृतं तेजः प्रथमजम्। न, अत्रिवृत्कृतस्य तेजसः प्रयोजनाभावादिति। इदमेव प्रयोजनं यदुपास्यत्वमिति चेत् , न; प्रयोजनान्तरप्रयुक्तस्यैवादित्यादेरुपास्यत्वदर्शनात् , ‘तासां त्रिवृतं त्रिवृतमेकैकां करवाणि’ (छा. उ. ६। ३। ३) इति चाविशेषश्रुतेः। न चात्रिवृत्कृतस्यापि तेजसो द्युमर्यादत्वं प्रसिद्धम् ।
+ननु कार्यस्यापि ज्योतिषः सर्वत्र गम्यमानत्वाद्द्यु मर्यादावत्त्वमसमञ्जसम्। अस्तु तर्ह्यत्रिवृत्कृतं तेजः प्रथमजम्। न, अत्रिवृत्कृतस्य तेजसः प्रयोजनाभावादिति। इदमेव प्रयोजनं यदुपास्यत्वमिति चेत् , न; प्रयोजनान्तरप्रयुक्तस्यैवादित्यादेरुपास्यत्वदर्शनात् , ‘तासां त्रिवृतं त्रिवृतमेकैकां करवाणि’ (छा. उ. ६। ३। ३) इति चाविशेषश्रुतेः। 
 </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न चात्रिवृत्-कृतस्यापि तेजसो द्यु-मर्यादत्वं प्रसिद्धम् ।
+</details>
+
+<details><summary>English</summary>
+
+And even of the non-tripartite light it is not known that the sky constitutes its boundary.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न चात्रिवृत्कृतस्यापि तेजसो द्युमर्यादत्वं प्रसिद्धम् ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -155,19 +317,61 @@ But light, although a mere product, is perceived everywhere; it would therefore 
 मेलुम्, मूऩ्ऱागच् चॆय्यप्पडाद तेजस् सिऱ्कुम् त्युलोगत्तै ऎल्लैयायुडैय तऩ्मै पिरसित्त मिल्लै।
 </details>
 
+#### त्रिवृत्-कृतं तेजः?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्तु तर्हि त्रिवृत् कृतम् एव तत्-तेजो ज्योतिःशब्दम्। ननूक्तमर्वागपि दिवोऽवगम्यतेऽग्न्यादिकं ज्योतिर् इति। नैष दोषः; सर्वत्रापि गम्यम् आनस्य ज्योतिषः ‘परो दिवः’ इत्य् उपासनार्थः प्रदेश-विशेष-परिग्रहो न विरुध्यते। न तु निष्प्रदेशस्य ब्रह्मणः प्रदेश-विशेष-कल्पना भागिनी। ‘सर्वतः पृष्ठेष्व् अनुत्तमेषूत्तमेषु लोकेषु’ इति चाधार-बहुत्व-श्रुतिः कार्ये ज्योतिष्युपपद्यतेतराम् ।
+अस्तु तर्हि – त्रिवृत् कृतम् एव तत्-तेजो ज्योतिःशब्दम्। 
+</details>
+<details><summary>English</summary>
+
+Well, then (the pūrvapakshin resumes, dropping the idea of the non-tripartite light), let us assume that the light of which the text speaks is the tripartite (ordinary) light. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अस्तु तर्हि त्रिवृत् कृतम् एव तत्-तेजो ज्योतिःशब्दम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननूक्तम्  
+"अर्वाग् अपि दिवो ऽवगम्यते ऽग्न्यादिकं ज्योतिर्" इति। 
+
+नैष दोषः; सर्वत्रापि गम्यमानस्य ज्योतिषः  
+‘परो दिवः’ इत्य् उपासनार्थः प्रदेश-विशेष-परिग्रहो न विरुध्यते।  
+न तु निष्प्रदेशस्य ब्रह्मणः प्रदेश-विशेष-कल्पना +++(औचित्य-)+++भागिनी।  
+</details>
+
+<details><summary>English</summary>
+
+The objection that light is seen to exist also beneath the sky, viz. in the form of fire and the like, we invalidate by the remark that there is nothing contrary to reason in assigning a special locality to fire, although the latter is observed everywhere; while to assume a special place for Brahman, to which the idea of place does not apply at all, would be most unsuitable. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अस्तु तर्हि त्रिवृत्कृतमेव तत्तेजो ज्योतिःशब्दम्। ननूक्तमर्वागपि दिवोऽवगम्यतेऽग्न्यादिकं ज्योतिरिति। नैष दोषः; सर्वत्रापि गम्यमानस्य ज्योतिषः ‘परो दिवः’ इत्युपासनार्थः प्रदेशविशेषपरिग्रहो न विरुध्यते। न तु निष्प्रदेशस्य ब्रह्मणः प्रदेशविशेषकल्पना भागिनी। 
+</details>
+
+### आधार-बहुत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘सर्वतः पृष्ठेष्व् अनुत्तमेषूत्तमेषु लोकेषु’ 
+
+इति चाधार-बहुत्व-श्रुतिः  
+कार्ये ज्योतिष्य् उपपद्यतेतराम् ।
 </details>
 
 <details><summary>Translation</summary>
 
-Well, then (the pūrvapakshin resumes, dropping the idea of the non-tripartite light), let us assume that the light of which the text speaks is the tripartite (ordinary) light. The objection that light is seen to exist also beneath the sky, viz. in the form of fire and the like, we invalidate by the remark that there is nothing contrary to reason in assigning a special locality to fire, although the latter is observed everywhere; while to assume a special place for Brahman, to which the idea of place does not apply at all, would be most unsuitable. Moreover, the clause 'higher than everything, in the highest worlds beyond which there are no other worlds,' which indicates a multiplicity of abodes, agrees much better with light, which is a mere product (than with Brahman).
+Moreover, the clause 'higher than everything, in the highest worlds beyond which there are no other worlds,' which indicates a multiplicity of abodes, agrees much better with light, which is a mere product (than with Brahman).
 </details>
 
 <details><summary>मूलम्</summary>
 
-अस्तु तर्हि त्रिवृत्कृतमेव तत्तेजो ज्योतिःशब्दम्। ननूक्तमर्वागपि दिवोऽवगम्यतेऽग्न्यादिकं ज्योतिरिति। नैष दोषः; सर्वत्रापि गम्यमानस्य ज्योतिषः ‘परो दिवः’ इत्युपासनार्थः प्रदेशविशेषपरिग्रहो न विरुध्यते। न तु निष्प्रदेशस्य ब्रह्मणः प्रदेशविशेषकल्पना भागिनी। ‘सर्वतः पृष्ठेष्वनुत्तमेषूत्तमेषु लोकेषु’ इति चाधारबहुत्वश्रुतिः कार्ये ज्योतिष्युपपद्यतेतराम् ।
+‘सर्वतः पृष्ठेष्वनुत्तमेषूत्तमेषु लोकेषु’ इति चाधारबहुत्वश्रुतिः कार्ये ज्योतिष्युपपद्यतेतराम् ।
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -180,20 +384,86 @@ Well, then (the pūrvapakshin resumes, dropping the idea of the non-tripartite l
 'ऎल्ला उलगङ्गळुक्कुम्मेले, ऎदऱ्कुमेल् ऎऩ्बदु किडैयादो, ऎदुवे मिगवुम् मेलाऩदो, अन्द उलगङ्गळिल्' ऎऩ्ऱु आदारङ्गळिऩ् पऩ्मैयैच् चॊल्लुम् सुरुदि कार्यज्योदिस्सिल्दाऩ् नऩ्गु पॊरुन्दुम्।
 </details>
 
+### कौक्षेय-ज्योतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘इदं वाव तद् यद् इदम् अस्मिन्न्-अन्तः पुरुषे ज्योतिः’ (छा. उ. ३। १३। ७) इति च कौक्षेये ज्योतिषि परं ज्योतिर् अध्यस्य-मानं दृश्यते। सारूप्य-निमित्ताश् चाध्य् आसा भवन्ति — यथा ‘तस्य भूरिति शिर एकं हि शिर एकमेतदक्षरम्’ (बृ. उ. ५। ५। ३) इति। कौक्षेयस्य तु ज्योतिषः प्रसिद्धमब्रह्मत्वम् । ‘तस्यैषा दृष्टिः’ (छा. उ. ३। १३। ८) ‘तस्यैषा श्रुतिः’ इति चौष्ण्यघोषविशिष्टत्वस्य श्रवणात्। ‘तदेतद्दृष्टं च श्रुतं चेत्य् उपासीत’ इति च श्रुतेः । ‘चक्षुष्यः श्रुतो भवति य एवं वेद’ (छा. उ. ३। १३। ८) इति चाल्पफलश्रवणादब्रह्मत्वम्। महते हि फलाय ब्रह्मोपासनम् इष्यते ।
+> ‘इदं वाव तद्  
+यद् इदम् अस्मिन्न् अन्तः पुरुषे ज्योतिः’ (छा. उ. ३। १३। ७) 
+
+इति च कौक्षेये ज्योतिषि परं ज्योतिर् अध्यस्यमानं दृश्यते।  
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>English</summary>
 
-There is moreover that other clause, also, 'That is the same light which is within man,' in which the highest light is identified with the gastric fire (the fire within man). Now such identifications can be made only where there is a certain similarity of nature; as is seen, for instance, in the passage, 'Of that person Bhūḥ is the head, for the head is one and that syllable is one' (Br̥. Up. V, 5, 3). But that the fire within the human body is not Brahman clearly appears from the passage, 'Of this we have visible and audible proof' (Cḥ. Up. III, 13, 7; 8), which declares that the fire is characterised by the noise it makes, and by heat; and likewise from the following passage, 'Let a man meditate on this as that which is seen and heard.' The same conclusion may be drawn from the passage, 'He who knows this becomes conspicuous and celebrated,' which proclaims an inconsiderable reward only, while to the devout meditation on Brahman a high reward would have to be allotted.
+There is moreover that other clause, also, 'That is the same light which is within man,' in which the highest light is identified with the gastric fire (the fire within man). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘इदं वाव तद्यदिदमस्मिन्नन्तः पुरुषे ज्योतिः’ (छा. उ. ३। १३। ७) इति च कौक्षेये ज्योतिषि परं ज्योतिरध्यस्यमानं दृश्यते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सारूप्य-निमित्ताश् चाध्यासा भवन्ति —  
+यथा 
+
+> ‘तस्य भूर् इति शिर  
+एकं हि शिर, एकम् एतद् अक्षरम्’ (बृ. उ. ५। ५। ३) 
+
+इति। 
 </details>
 
 <details><summary>मूलम्</summary>
 
-‘इदं वाव तद्यदिदमस्मिन्नन्तः पुरुषे ज्योतिः’ (छा. उ. ३। १३। ७) इति च कौक्षेये ज्योतिषि परं ज्योतिरध्यस्यमानं दृश्यते। सारूप्यनिमित्ताश्चाध्यासा भवन्ति — यथा ‘तस्य भूरिति शिर एकं हि शिर एकमेतदक्षरम्’ (बृ. उ. ५। ५। ३) इति। कौक्षेयस्य तु ज्योतिषः प्रसिद्धमब्रह्मत्वम् । ‘तस्यैषा दृष्टिः’ (छा. उ. ३। १३। ८) ‘तस्यैषा श्रुतिः’ इति चौष्ण्यघोषविशिष्टत्वस्य श्रवणात्। ‘तदेतद्दृष्टं च श्रुतं चेत्युपासीत’ इति च श्रुतेः । ‘चक्षुष्यः श्रुतो भवति य एवं वेद’ (छा. उ. ३। १३। ८) इति चाल्पफलश्रवणादब्रह्मत्वम्। महते हि फलाय ब्रह्मोपासनमिष्यते ।
+सारूप्य-निमित्ताश् चाध्यासा भवन्ति — यथा ‘तस्य भूरिति शिर एकं हि शिर एकमेतदक्षरम्’ (बृ. उ. ५। ५। ३) इति। 
 </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कौक्षेयस्य तु ज्योतिषः प्रसिद्धम् अ-ब्रह्मत्वम् -  
+
+> ‘तस्यैषा दृष्टिः’ (छा. उ. ३। १३। ८)  
+> ‘तस्यैषा श्रुतिः’ 
+
+इति चौष्ण्य-घोष-विशिष्टत्वस्य श्रवणात्,  
+
+> ‘तद् एतद् दृष्टं च श्रुतं चेत्य् उपासीत’ 
+
+इति च श्रुतेः । 
+</details>
+
+<details><summary>Translation</summary>
+
+Now such identifications can be made only where there is a certain similarity of nature; as is seen, for instance, in the passage, 'Of that person Bhūḥ is the head, for the head is one and that syllable is one' (Br̥. Up. V, 5, 3). But that the fire within the human body is not Brahman clearly appears from the passage, 'Of this we have visible and audible proof' (Cḥ. Up. III, 13, 7; 8), which declares that the fire is characterised by the noise it makes, and by heat; and likewise from the following passage, 'Let a man meditate on this as that which is seen and heard.' 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सारूप्यनिमित्ताश्चाध्यासा भवन्ति — यथा ‘तस्य भूरिति शिर एकं हि शिर एकमेतदक्षरम्’ (बृ. उ. ५। ५। ३) इति। कौक्षेयस्य तु ज्योतिषः प्रसिद्धमब्रह्मत्वम् । ‘तस्यैषा दृष्टिः’ (छा. उ. ३। १३। ८) ‘तस्यैषा श्रुतिः’ इति चौष्ण्यघोषविशिष्टत्वस्य श्रवणात्। ‘तदेतद्दृष्टं च श्रुतं चेत्युपासीत’ इति च श्रुतेः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘चक्षुष्यः+++(=दर्शनीयः)+++ श्रुतो भवति य एवं वेद’ (छा. उ. ३। १३। ८) 
+
+इति चाल्प-फल-श्रवणाद् अ-ब्रह्मत्वम्।  
+महते हि फलाय ब्रह्मोपासनम् इष्यते ।
+</details>
+
+<details><summary>English</summary>
+
+The same conclusion may be drawn from the passage, 'He who knows this becomes conspicuous and celebrated,' which proclaims an inconsiderable reward only, while to the devout meditation on Brahman a high reward would have to be allotted.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘चक्षुष्यः श्रुतो भवति य एवं वेद’ (छा. उ. ३। १३। ८) इति चाल्पफलश्रवणादब्रह्मत्वम्। महते हि फलाय ब्रह्मोपासनमिष्यते ।
+</details>
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -205,19 +475,81 @@ There is moreover that other clause, also, 'That is the same light which is with
 ‘ऎवऩ् इव्विदम् अऱिगिऱाऩो अवऩ् कण्णुक्कु हिदमायुम् (अऴगुळ्ळवऩायुम्) केट्कप् पट्टवऩागवुम् (कीर्त्तियुळ्ळवऩायुम्) आगिऱाऩ्' ऎऩ्ऱु अल्बमाऩ पलऩ् सॊल्लप्पट्टु इरुप्पदिऩालुम् (ज्योदिस्सुक्कु) पिरह्मत्तऩ्मैयिल्लै पॆरिदाऩ पलऩुक्काग अल्लवा पिरह्मत्तिऩ् उबासऩम् वेण्डप्पडुगिऱदु?
 </details>
 
+### ब्रह्म-लिङ्गाभावः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चान्यद् अपि किञ्चित्-स्व-वाक्ये प्राणाकाशवज्ज्योतिषोऽस्ति ब्रह्म-लिङ्गम्। न च पूर्वस्मिन्न् अपि वाक्ये ब्रह्म निर्दिष्टम् अस्ति, ‘गायत्री वा इदं सर्वं भूतम्’ इति च्छन्दोनिर्देशात्। अथापि कथञ्चित् पूर्वस्मिन् वाक्ये ब्रह्म निर्दिष्टं स्यात् , एवम् अपि न तस्येह प्रत्यभिज्ञानम् अस्ति। तत्र हि ‘त्रिपाद् अस्यामृतं दिवि’ (छा. उ. ३। १२। ६) (छा. उ. ३। १२। ६) इति द्यौर् अधि-करणत्वेन श्रूयते। अत्र पुनः ‘परो दिवो ज्योतिः’ इति द्यौर् मर्या-दात्वेन। तस्मात् प्राकृतं ज्योतिर् इह ग्राह्यम् इत्येवं प्राप्ते ब्रूमः —
+न चान्यद् अपि किञ्चित् स्व-वाक्ये  
+प्राणाकाशवज् ज्योतिषोऽस्ति ब्रह्म-लिङ्गम्। 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>English</summary>
 
-Nor is there mentioned in the entire passage about the light any other characteristic mark of Brahman, while such marks are set forth in the passages (discussed above) which refer to prāṇa and the ether. Nor, again, is Brahman indicated in the preceding section, 'the Gāyatrī is everything whatsoever exists,' &c. (III, 12); for that passage makes a statement about the Gāyatrī metre only. And even if that section did refer to Brahman, still Brahman would not be recognised in the passage at present under discussion; for there (in the section referred to) it is declared--in the clause, 'Three feet of it are the Immortal in heaven'--that heaven constitutes the abode; while in our passage the words 'the light above heaven' declare heaven to be a boundary. For all these reasons the word jyotis is here to be taken in its ordinary meaning, viz. light.
+Nor is there mentioned in the entire passage about the light any other characteristic mark of Brahman, while such marks are set forth in the passages (discussed above) which refer to prāṇa and the ether. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-न चान्यदपि किञ्चित्स्ववाक्ये प्राणाकाशवज्ज्योतिषोऽस्ति ब्रह्मलिङ्गम्। न च पूर्वस्मिन्नपि वाक्ये ब्रह्म निर्दिष्टमस्ति, ‘गायत्री वा इदं सर्वं भूतम्’ इति च्छन्दोनिर्देशात्। अथापि कथञ्चित्पूर्वस्मिन्वाक्ये ब्रह्म निर्दिष्टं स्यात् , एवमपि न तस्येह प्रत्यभिज्ञानमस्ति। तत्र हि ‘त्रिपादस्यामृतं दिवि’ (छा. उ. ३। १२। ६) (छा. उ. ३। १२। ६) इति द्यौरधिकरणत्वेन श्रूयते। अत्र पुनः ‘परो दिवो ज्योतिः’ इति द्यौर्मर्यादात्वेन। तस्मात्प्राकृतं ज्योतिरिह ग्राह्यमित्येवं प्राप्ते ब्रूमः —
+न चान्यदपि किञ्चित्स्ववाक्ये प्राणाकाशवज्ज्योतिषोऽस्ति ब्रह्मलिङ्गम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च पूर्वस्मिन्न् अपि वाक्ये ब्रह्म निर्दिष्टम् अस्ति,  
+
+> ‘गायत्री वा इदं सर्वं भूतम्’ 
+
+इति च्छन्दो-निर्देशात्। 
+</details>
+
+<details><summary>English</summary>
+
+Nor, again, is Brahman indicated in the preceding section, 'the Gāyatrī is everything whatsoever exists,' &c. (III, 12); for that passage makes a statement about the Gāyatrī metre only. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च पूर्वस्मिन्नपि वाक्ये ब्रह्म निर्दिष्टमस्ति, ‘गायत्री वा इदं सर्वं भूतम्’ इति च्छन्दोनिर्देशात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथापि कथञ्चित् पूर्वस्मिन् वाक्ये  
+ब्रह्म निर्दिष्टं स्यात् ,  
+एवम् अपि न तस्येह प्रत्यभिज्ञानम् अस्ति। 
+</details>
+
+<details><summary>English</summary>
+
+And even if that section did refer to Brahman, still Brahman would not be recognised in the passage at present under discussion; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथापि कथञ्चित्पूर्वस्मिन्वाक्ये ब्रह्म निर्दिष्टं स्यात्, एवमपि न तस्येह प्रत्यभिज्ञानमस्ति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र हि ‘त्रिपाद् अस्यामृतं दिवि’ (छा. उ. ३। १२। ६) (छा. उ. ३। १२। ६)  
+इति द्यौर् अधि-करणत्वेन श्रूयते,  
+अत्र पुनः ‘परो दिवो ज्योतिर्’  
+इति द्यौर्-मर्यादात्वेन।  
+तस्मात् प्राकृतं ज्योतिर् इह ग्राह्यम् 
+</details>
+
+<details><summary>Translation</summary>
+
+for there (in the section referred to) it is declared--in the clause, 'Three feet of it are the Immortal in heaven'--that heaven constitutes the abode; while in our passage the words 'the light above heaven' declare heaven to be a boundary. For all these reasons the word jyotis is here to be taken in its ordinary meaning, viz. light.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र हि ‘त्रिपादस्यामृतं दिवि’ (छा. उ. ३। १२। ६) (छा. उ. ३। १२। ६) इति द्यौरधिकरणत्वेन श्रूयते। अत्र पुनः ‘परो दिवो ज्योतिः’ इति द्यौर्मर्यादात्वेन। तस्मात्प्राकृतं ज्योतिरिह ग्राह्यम् 
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -240,14 +572,33 @@ Nor is there mentioned in the entire passage about the light any other character
 आगैयाल् सादारणमायुळ्ळ ज्योदिस् इङ्गे किरहिक्कप्पडवेण्डियदु, ऎऩ्ऱु।
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्योतिर् इह ब्रह्म ग्राह्यम्। कुतः ? चरणाभिधानात् , पाद्-आभि-धानाद् इत्यर्थः। पूर्वस्मिन् हि वाक्ये चतुष्-पाद् ब्रह्म निर्दिष्टम् — ‘तावानस्य महिमा ततो ज्यायांश्च पूरुषः। पादो ऽस्य सर्वा भूतानि त्रिपाद् अस्यामृतं दिवि’ (छा. उ. ३। १२। ६) इत्य्-अनेन मन्त्रेण। तत्र यच् चतुष्-पदो ब्रह्मणस् त्रिपाद् अमृतं द्यु सम्बन्धि-रूपं निर्दिष्टम् , तदेवेह द्यु सम्बन्धान् निर्दिष्टम् इति प्रत्यभिज्ञायते। तत्-परित्यज्य प्राकृतं ज्योतिः कल्पयतः प्रकृतहाना-प्रकृत-प्रक्रिये प्रसज्येयाताम्। न केवलं ज्योतिर् वाक्य एव ब्रह्मानुवृत्तिः; परस्यामपि शाण्डिल्य-विद्यायाम् अनुवर्तिष् यते ब्रह्म। तस्माद् इह ज्येतिरिति ब्रह्म प्रतिपत्तव्यम् ।
+इत्येवं प्राप्ते ब्रूमः —
+ज्योतिर् इह ब्रह्म ग्राह्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+To this we make the following reply. The word jyotis must be held to denote Brahman. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्येवं प्राप्ते ब्रूमः —
+ज्योतिरिह ब्रह्म ग्राह्यम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः ? चरणाभिधानात् , पाद्-आभि-धानाद् इत्यर्थः। पूर्वस्मिन् हि वाक्ये चतुष्-पाद् ब्रह्म निर्दिष्टम् — ‘तावानस्य महिमा ततो ज्यायांश्च पूरुषः। पादो ऽस्य सर्वा भूतानि त्रिपाद् अस्यामृतं दिवि’ (छा. उ. ३। १२। ६) इत्य्-अनेन मन्त्रेण। तत्र यच् चतुष्-पदो ब्रह्मणस् त्रिपाद् अमृतं द्यु सम्बन्धि-रूपं निर्दिष्टम् , तदेवेह द्यु सम्बन्धान् निर्दिष्टम् इति प्रत्यभिज्ञायते। तत्-परित्यज्य प्राकृतं ज्योतिः कल्पयतः प्रकृतहाना-प्रकृत-प्रक्रिये प्रसज्येयाताम्। न केवलं ज्योतिर् वाक्य एव ब्रह्मानुवृत्तिः; परस्यामपि शाण्डिल्य-विद्यायाम् अनुवर्तिष् यते ब्रह्म। तस्माद् इह ज्येतिरिति ब्रह्म प्रतिपत्तव्यम् ।
 </details>
 
 <details><summary>Translation</summary>
 
-To this we make the following reply. The word jyotis must be held to denote Brahman. Why? On account of the feet (quarters) being mentioned. In a preceding passage Brahman had been spoken of as having four feet (quarters). 'Such is the greatness of it; greater than it is the Person (purusha). One foot of it are all the beings, three feet of it are the Immortal in heaven.' That which in this passage is said to constitute the three-quarter part, immortal and connected with heaven, of Brahman, which altogether comprises four quarters; this very same entity we recognise as again referred to in the passage under discussion, because there also it is said to be connected with heaven. If therefore we should set it aside in our interpretation of the passage and assume the latter to refer to the ordinary light, we should commit the mistake of dropping, without need, the topic started and introducing a new subject. Brahman, in fact, continues to form the subject-matter, not only of the passage about the light, but likewise of the subsequent section, the so-called Sāṇḍilya-vidyā (Cḥ. Up. III, 14). Hence we conclude that in our passage the word 'light' must be held to denote Brahman.
+Why? On account of the feet (quarters) being mentioned. In a preceding passage Brahman had been spoken of as having four feet (quarters). 'Such is the greatness of it; greater than it is the Person (purusha). One foot of it are all the beings, three feet of it are the Immortal in heaven.' That which in this passage is said to constitute the three-quarter part, immortal and connected with heaven, of Brahman, which altogether comprises four quarters; this very same entity we recognise as again referred to in the passage under discussion, because there also it is said to be connected with heaven. If therefore we should set it aside in our interpretation of the passage and assume the latter to refer to the ordinary light, we should commit the mistake of dropping, without need, the topic started and introducing a new subject. Brahman, in fact, continues to form the subject-matter, not only of the passage about the light, but likewise of the subsequent section, the so-called Sāṇḍilya-vidyā (Cḥ. Up. III, 14). Hence we conclude that in our passage the word 'light' must be held to denote Brahman.
 </details>
 
 <details><summary>मूलम्</summary>
