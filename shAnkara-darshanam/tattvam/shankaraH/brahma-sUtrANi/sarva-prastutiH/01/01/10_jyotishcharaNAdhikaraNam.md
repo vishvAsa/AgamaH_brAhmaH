@@ -572,7 +572,7 @@ for there (in the section referred to) it is declared--in the clause, 'Three fee
 आगैयाल् सादारणमायुळ्ळ ज्योदिस् इङ्गे किरहिक्कप्पडवेण्डियदु, ऎऩ्ऱु।
 </details>
 
-
+## चरणाभिधानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवं प्राप्ते ब्रूमः —
@@ -593,12 +593,79 @@ To this we make the following reply. The word jyotis must be held to denote Brah
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कुतः ? चरणाभिधानात् , पाद्-आभि-धानाद् इत्यर्थः। पूर्वस्मिन् हि वाक्ये चतुष्-पाद् ब्रह्म निर्दिष्टम् — ‘तावानस्य महिमा ततो ज्यायांश्च पूरुषः। पादो ऽस्य सर्वा भूतानि त्रिपाद् अस्यामृतं दिवि’ (छा. उ. ३। १२। ६) इत्य्-अनेन मन्त्रेण। तत्र यच् चतुष्-पदो ब्रह्मणस् त्रिपाद् अमृतं द्यु सम्बन्धि-रूपं निर्दिष्टम् , तदेवेह द्यु सम्बन्धान् निर्दिष्टम् इति प्रत्यभिज्ञायते। तत्-परित्यज्य प्राकृतं ज्योतिः कल्पयतः प्रकृतहाना-प्रकृत-प्रक्रिये प्रसज्येयाताम्। न केवलं ज्योतिर् वाक्य एव ब्रह्मानुवृत्तिः; परस्यामपि शाण्डिल्य-विद्यायाम् अनुवर्तिष् यते ब्रह्म। तस्माद् इह ज्येतिरिति ब्रह्म प्रतिपत्तव्यम् ।
+कुतः ? चरणाभिधानात् , पादाभिधानाद् इत्य् अर्थः।  
+पूर्वस्मिन् हि वाक्ये चतुष्-पाद् ब्रह्म निर्दिष्टम् —  
+
+> ‘तावान् अस्य महिमा  
+ततो ज्यायांश्च पूरुषः।  
+पादो ऽस्य सर्वा भूतानि  
+त्रिपाद् अस्यामृतं दिवि’ (छा. उ. ३। १२। ६) 
+
+इत्य्-अनेन मन्त्रेण। 
+</details>
+
+<details><summary>English</summary>
+
+Why? On account of the feet (quarters) being mentioned. In a preceding passage Brahman had been spoken of as having four feet (quarters). 'Such is the greatness of it; greater than it is the Person (purusha). One foot of it are all the beings, three feet of it are the Immortal in heaven.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कुतः ? चरणाभिधानात्, पादाभिधानादित्यर्थः। पूर्वस्मिन्हि वाक्ये चतुष्पाद्ब्रह्म निर्दिष्टम्— ‘तावानस्य महिमा ततो ज्यायांश्च पूरुषः। पादोऽस्य सर्वा भूतानि त्रिपादस्यामृतं दिवि’ (छा. उ. ३। १२। ६) इत्यनेन मन्त्रेण। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र यच् चतुष्-पदो ब्रह्मणस्  
+त्रिपाद् अमृतं द्यु-सम्बन्धि-रूपं निर्दिष्टम् , तद् एवेह +++(→"परो दिवो ज्योतिर्")+++ द्यु-सम्बन्धान् निर्दिष्टम्  
+इति प्रत्यभिज्ञायते।  
+</details>
+
+<details><summary>English</summary>
+
+That which in this passage is said to constitute the three-quarter part, immortal and connected with heaven, of Brahman, which altogether comprises four quarters; this very same entity we recognise as again referred to in the passage under discussion, because there also it is said to be connected with heaven. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र यच् चतुष्-पदो ब्रह्मणस् त्रिपाद् अमृतं द्यु सम्बन्धि-रूपं निर्दिष्टम् , तदेवेह द्यु सम्बन्धान् निर्दिष्टम् इति प्रत्यभिज्ञायते। तत्-परित्यज्य प्राकृतं ज्योतिः कल्पयतः प्रकृतहाना-प्रकृत-प्रक्रिये प्रसज्येयाताम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत् परित्यज्य  
+प्राकृतं ज्योतिः कल्पयतः  
+प्रकृतहाना-प्रकृत-प्रक्रिये प्रसज्येयाताम्। 
+</details>
+
+<details><summary>English</summary>
+
+If therefore we should set it aside in our interpretation of the passage and assume the latter to refer to the ordinary light, we should commit the mistake of dropping, without need, the topic started and introducing a new subject. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्परित्यज्य  
+प्राकृतं ज्योतिः कल्पयतः  
+प्रकृतहानाप्रकृतप्रक्रिये प्रसज्येयाताम्। 
+</details>
+
+## शाण्डिल्य-विद्याऽनुवृत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न केवलं ज्योतिर्-वाक्य एव ब्रह्मानुवृत्तिः;  
+परस्याम् अपि शाण्डिल्य-विद्यायाम् अनुवर्तिष्यते ब्रह्म।  
+तस्माद् इह ज्येतिर् इति ब्रह्म प्रतिपत्तव्यम् ।
 </details>
 
 <details><summary>Translation</summary>
 
-Why? On account of the feet (quarters) being mentioned. In a preceding passage Brahman had been spoken of as having four feet (quarters). 'Such is the greatness of it; greater than it is the Person (purusha). One foot of it are all the beings, three feet of it are the Immortal in heaven.' That which in this passage is said to constitute the three-quarter part, immortal and connected with heaven, of Brahman, which altogether comprises four quarters; this very same entity we recognise as again referred to in the passage under discussion, because there also it is said to be connected with heaven. If therefore we should set it aside in our interpretation of the passage and assume the latter to refer to the ordinary light, we should commit the mistake of dropping, without need, the topic started and introducing a new subject. Brahman, in fact, continues to form the subject-matter, not only of the passage about the light, but likewise of the subsequent section, the so-called Sāṇḍilya-vidyā (Cḥ. Up. III, 14). Hence we conclude that in our passage the word 'light' must be held to denote Brahman.
+Brahman, in fact, continues to form the subject-matter, not only of the passage about the light, but likewise of the subsequent section, the so-called Sāṇḍilya-vidyā (Cḥ. Up. III, 14). Hence we conclude that in our passage the word 'light' must be held to denote Brahman.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -611,14 +678,56 @@ Why? On account of the feet (quarters) being mentioned. In a preceding passage B
 सित्तान्दम्: इव्विदम् वरुम्बोदु सॊल्गिऱोम्; इङ्गे ज्योदिस् पिरह्मम् ऎऩ्ऱु किरहिक्कप्पड वेण्डुम्। एऩ्? 'सरणम् सॊल्लियिरुप्पदाल्', काल् सॊल्लियिरुप्पदाल् ऎऩ्ऱु अर्त्तम् मुन्दिऩ वाक्यत्तिल्, नाऩ्गु पादङ्गळैयुडैय पिरह्ममल्लवा कुऱिप्पिडप् पट्टिरुक्किऱदु? 'इवरुक्कु अव्वळवु महिमै; अदै विडवुम् पॆरिदु पुरुषऩ् ऎल्ला पूदङ्गळुम् इवरुडैय काल्बागम्; इवरुडैय मुक्काल् पागम् अमिरुदमाय् त्युलोगत्तिल्' ऎऩ्ऱ इन्द मन्दिरत्तिऩाल्, अङ्गे नाऩ्गु पादमुळ्ळ पिरह्मत्तिऩ् मुक्कालाग अमिरुदमाग त्युलोग सम्बन्दप्पट्ट रूबमाग ऎदु सॊल्लप् पट्टदो, अदुवेदाऩ् इङ्गे त्युलोग सम्बन्दत्ति ऩाल्, सॊल्लप्पडुगिऱदॆऩ्ऱु पिरत्यबिक्ञै (ञाबगम्) वरुगिऱदु। अदै विट्टुविट्टु सादारणमाऩ ज्योदिस् ऎऩ्ऱु कल्बिक्किऱवऩुक्कु पिरगिरुदत्तै विडुवदु पिरगिरुदमिल्लाददै ऎडुत्तुक्कॊळ्वदु ऎऩ्ऱ तोषङ्गळ् एऱ्पडुम्। पिरह्मत्तिऩ् तॊडर्बु ज्योदिस् वाक्कियत्तिल् मात्तिरम् ऎऩ्बदु इल्लै; मेलुळ्ळ साण्डिल्यवित्यैयिलुम् कूड पिरह्मम् तॊडर्न्दु वरुगिऱदु। आगैयाल् इङ्गे ज्योदिस् ऎऩ्बदु पिरह्मम् ऎऩ्ऱु अऱिय वेण्डुम्।
 </details>
 
+## कार्य-ज्योतिः-प्रसिद्धिः
+### उपलक्षणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्तूक्तम् — ‘ज्योतिर् दीप्यते’ इति चैतौ शब्दौ कार्ये ज्योतिषि प्रसिद्धाविति, नायं दोषः; प्रकरणाद् ब्रह्मा-वग-मे सत्य् अनयोः शब्दयोरविशेषकत्वात् , दीप्यमान-कार्य-ज्योतिर् उपल-क्षिते ब्रह्मण्यपि प्रयोग-सम्भवात्; ‘येन सूर्यस् तपति तेजसेद्धः’ (तै. ब्रा. ३। १२। ९। ७) इति च मन्त्र-वर्णात्। यद्वा, नायं ज्योतिःशब्दश्चक्षुर्वृत्तेरेवानुग्राहके तेजसि वर्तते, अन्यत्रापि प्रयोग-दर्शनात् — ‘वाचैवायं ज्योतिषास्ते’ (बृ. उ. ४। ३। ५) ‘मनो ज्योतिर् जुषताम्’ (तै. ब्रा. १। ६। ३। ३) इति च। तस्माद् यद् यत् कस्यचिद् अवभासकं तत्-तज्ज्योतिःशब्देनाभिधीयते ।
+यत् तूक्तम् —  
+
+> ‘ज्योतिर्, दीप्यते’ इति चैतौ शब्दौ  
+कार्ये ज्योतिषि प्रसिद्धाव् 
+
+इति,  
+नायं दोषः;  
+प्रकरणाद् ब्रह्मावगमे सत्य्  
+अनयोः शब्दयोर् अविशेषकत्वात् ,  
+दीप्यमान-कार्य-ज्योतिर्-उपलक्षिते ब्रह्मण्य् अपि प्रयोग-सम्भवात्;  
+
+> ‘येन सूर्यस् तपति तेजसेद्धः’ (तै. ब्रा. ३। १२। ९। ७) 
+
+इति च मन्त्र-वर्णात्। 
+</details>
+
+<details><summary>English</summary>
+
+The objection (raised above) that from common use the words 'light' and 'to shine' are known to denote effected (physical) light is without force; for as it is known from the general topic of the chapter that Brahman is meant, those two words do not necessarily denote physical light only to the exclusion of Brahman [^fn_128], but may also denote Brahman itself, in so far as it is characterised by the physical shining light which is its effect. 
+
+Analogously another mantra declares, 'that by which the sun shines kindled with heat' (Taitt. Br. III, 12, 9, 7). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत्तूक्तम् — ‘ज्योतिर् दीप्यते’ इति चैतौ शब्दौ कार्ये ज्योतिषि प्रसिद्धाविति, नायं दोषः; प्रकरणाद् ब्रह्मा-वग-मे सत्य् अनयोः शब्दयोरविशेषकत्वात् , दीप्यमान-कार्य-ज्योतिर् उपल-क्षिते ब्रह्मण्यपि प्रयोग-सम्भवात्; ‘येन सूर्यस् तपति तेजसेद्धः’ (तै. ब्रा. ३। १२। ९। ७) इति च मन्त्र-वर्णात्। 
+</details>
+
+### प्रकाशकत्वार्थः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् वा, नायं ज्योतिः-शब्दश् चक्षुर्-वृत्तेर् एवानुग्राहके तेजसि वर्तते,  
+अन्यत्रापि प्रयोग-दर्शनात् — 
+
+> ‘वाचैवायं ज्योतिषा ऽऽस्ते’ (बृ. उ. ४। ३। ५)  
+> ‘मनो ज्योतिर् जुषताम्’ (तै. ब्रा. १। ६। ३। ३) 
+
+इति च।  
+तस्माद् यद् यत् कस्यचिद् अवभासकं  
+तत्-तज्-ज्योतिः-शब्देनाभिधीयते ।
 </details>
 
 <details><summary>Translation</summary>
 
-The objection (raised above) that from common use the words 'light' and 'to shine' are known to denote effected (physical) light is without force; for as it is known from the general topic of the chapter that Brahman is meant, those two words do not necessarily denote physical light only to the exclusion of Brahman [^fn_128], but may also denote Brahman itself, in so far as it is characterised by the physical shining light which is its effect. Analogously another mantra declares, 'that by which the sun shines kindled with heat' (Taitt. Br. III, 12, 9, 7). Or else we may suppose that the word jyotis here does not denote at all that light on which the function of the eye depends. For we see that in other passages it has altogether different meanings; so, for instance, Br̥. Up. IV, 3, 5, 'With speech only as light man sits,' and Taitt. Sa. I, 6, 3, 3, 'May the mind, the light, accept,' &c. It thus appears that whatever illuminates (in the different senses of the word) something else may be spoken of as 'light.' Hence to Brahman also, whose nature is intelligence, the term 'light' may be applied; for it gives light to the entire world. Similarly, other scriptural passages say, 'Him the shining one, everything shines after; by his light all this is lighted' (Kau. Up. II, 5, 15); and 'Him the gods worship as the light of lights, as the immortal' (Br̥. Up. IV, 4, 16).
+Or else we may suppose that the word jyotis here does not denote at all that light on which the function of the eye depends. For we see that in other passages it has altogether different meanings; so, for instance, Br̥. Up. IV, 3, 5, 'With speech only as light man sits,' and Taitt. Sa. I, 6, 3, 3, 'May the mind, the light, accept,' &c. It thus appears that whatever illuminates (in the different senses of the word) something else may be spoken of as 'light.' 
 </details>
 
 <details><summary>Translation - Notes</summary>
@@ -628,7 +737,7 @@ The objection (raised above) that from common use the words 'light' and 'to shin
 
 <details><summary>मूलम्</summary>
 
-यत्तूक्तम् — ‘ज्योतिर्दीप्यते’ इति चैतौ शब्दौ कार्ये ज्योतिषि प्रसिद्धाविति, नायं दोषः; प्रकरणाद्ब्रह्मावगमे सत्यनयोः शब्दयोरविशेषकत्वात् , दीप्यमानकार्यज्योतिरुपलक्षिते ब्रह्मण्यपि प्रयोगसम्भवात्; ‘येन सूर्यस्तपति तेजसेद्धः’ (तै. ब्रा. ३। १२। ९। ७) इति च मन्त्रवर्णात्। यद्वा, नायं ज्योतिःशब्दश्चक्षुर्वृत्तेरेवानुग्राहके तेजसि वर्तते, अन्यत्रापि प्रयोगदर्शनात् — ‘वाचैवायं ज्योतिषास्ते’ (बृ. उ. ४। ३। ५) ‘मनो ज्योतिर्जुषताम्’ (तै. ब्रा. १। ६। ३। ३) इति च। तस्माद्यद्यत्कस्यचिदवभासकं तत्तज्ज्योतिःशब्देनाभिधीयते ।
+यद्वा, नायं ज्योतिःशब्दश्चक्षुर्वृत्तेरेवानुग्राहके तेजसि वर्तते, अन्यत्रापि प्रयोगदर्शनात् — ‘वाचैवायं ज्योतिषास्ते’ (बृ. उ. ४। ३। ५) ‘मनो ज्योतिर्जुषताम्’ (तै. ब्रा. १। ६। ३। ३) इति च। तस्माद्यद्यत्कस्यचिदवभासकं तत्तज्ज्योतिःशब्देनाभिधीयते ।
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -643,18 +752,130 @@ The objection (raised above) that from common use the words 'light' and 'to shin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा सति ब्रह्मणोऽपि चैतन्य-रूपस्य समस्तजगदवभासहेतुत्वादुपपन्नो ज्योतिःशब्दः । ‘तमेव भान्तम् अनुभाति सर्वं तस्य भासा सर्वम् इदं विभाति’ (क. उ. २। २। १५) ‘तद्-देवा ज्योतिषां ज्योतिरायुर्होपासतेऽमृतम्’ (बृ. उ. ४। ४। १६) इत्यादि-श्रुतिभ्यश्च। यद् अप्य् उक्तं द्युमर्यादत्वं सर्व-गतस्य ब्रह्मणो नोपपद्यत इति, अत्रोच्यते — सर्व-ग-तस्यापि ब्रह्मण उपासनार्थः प्रदेश-विशेष-परिग्रहो न विरुध्यते। ननूक्तं निष्प्रदेशस्य ब्रह्मणः प्रदेश-विशेष-कल्पना नोपपद्यत इति; नायं दोषः, निष्प्रदेशस्यापि ब्रह्मण उपाधि-विशेष-सम्बन्धात् प्रदेश-विशेष-कल्पनोपपत्तेः। तथा हि — आदित्ये, चक्षुषि, हृदये इति प्रदेश-विशेष-सम्बन्धीनि ब्रह्मणः उपासनानि श्रू-यन्ते। एतेन ‘विश्वतः पृष्ठेषु’ इत्य् आधार-बहुत्वम् उपपादितम् ।
+तथा सति ब्रह्मणोऽपि चैतन्य-रूपस्य  
+समस्त-जगद्-अवभास-हेतुत्वाद् उपपन्नो ज्योतिः-शब्दः । 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>English</summary>
 
-Against the further objection that the omnipresent Brahman cannot be viewed as bounded by heaven we remark that the assignment, to Brahman, of a special locality is not contrary to reason because it subserves the purpose of devout meditation. Nor does it avail anything to say that it is impossible to assign any place to Brahman because Brahman is out of connexion with all place. For it is possible to make such an assumption, because Brahman is connected with certain limiting adjuncts. Accordingly Scripture speaks of different kinds of devout meditation on Brahman as specially connected with certain localities, such as the sun, the eye, the heart. For the same reason it is also possible to attribute to Brahman a multiplicity of abodes, as is done in the clause (quoted above) 'higher than all.'
+Hence to Brahman also, whose nature is intelligence, the term 'light' may be applied; for it gives light to the entire world. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-तथा सति ब्रह्मणोऽपि चैतन्यरूपस्य समस्तजगदवभासहेतुत्वादुपपन्नो ज्योतिःशब्दः । ‘तमेव भान्तमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति’ (क. उ. २। २। १५) ‘तद्देवा ज्योतिषां ज्योतिरायुर्होपासतेऽमृतम्’ (बृ. उ. ४। ४। १६) इत्यादिश्रुतिभ्यश्च। यदप्युक्तं द्युमर्यादत्वं सर्वगतस्य ब्रह्मणो नोपपद्यत इति, अत्रोच्यते — सर्वगतस्यापि ब्रह्मण उपासनार्थः प्रदेशविशेषपरिग्रहो न विरुध्यते। ननूक्तं निष्प्रदेशस्य ब्रह्मणः प्रदेशविशेषकल्पना नोपपद्यत इति; नायं दोषः, निष्प्रदेशस्यापि ब्रह्मण उपाधिविशेषसम्बन्धात्प्रदेशविशेषकल्पनोपपत्तेः। तथा हि — आदित्ये, चक्षुषि, हृदये इति प्रदेशविशेषसम्बन्धीनि ब्रह्मणः उपासनानि श्रूयन्ते। एतेन ‘विश्वतः पृष्ठेषु’ इत्याधारबहुत्वमुपपादितम् ।
+तथा सति ब्रह्मणोऽपि चैतन्यरूपस्य समस्तजगदवभासहेतुत्वादुपपन्नो ज्योतिःशब्दः । 
 </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘तम् एव भान्तम् अनुभाति सर्वं  
+तस्य भासा सर्वम् इदं विभाति’ (क. उ. २। २। १५)  
+
+> ‘तद् देवा ज्योतिषां ज्योतिर्, आयुर्, होपासते ऽमृतम्’ (बृ. उ. ४। ४। १६) 
+
+इत्य्-आदि-श्रुतिभ्यश् च। 
+</details>
+
+<details><summary>English</summary>
+
+Similarly, other scriptural passages say, 
+
+> 'Him the shining one, everything shines after; by his light all this is lighted' (Kau. Up. II, 5, 15); 
+
+and 
+
+> 'Him the gods worship as the light of lights, as the immortal' (Br̥. Up. IV, 4, 16).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘तमेव भान्तमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति’ (क. उ. २। २। १५) ‘तद्देवा ज्योतिषां ज्योतिरायुर्होपासतेऽमृतम्’ (बृ. उ. ४। ४। १६) इत्यादिश्रुतिभ्यश्च। 
+</details>
+
+
+## द्यु-मर्यादता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अप्य् उक्तं 
+
+> द्यु-मर्यादत्वं सर्व-गतस्य ब्रह्मणो नोपपद्यत 
+
+इति, अत्रोच्यते —  
+सर्व-गतस्यापि ब्रह्मण उपासनार्थः प्रदेश-विशेष-परिग्रहो न विरुध्यते। 
+</details>
+
+<details><summary>English</summary>
+
+Against the further objection that the omnipresent Brahman cannot be viewed as bounded by heaven we remark that the assignment, to Brahman, of a special locality is not contrary to reason because it subserves the purpose of devout meditation. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद् अप्य् उक्तं द्युमर्यादत्वं सर्व-गतस्य ब्रह्मणो नोपपद्यत इति, अत्रोच्यते — सर्व-ग-तस्यापि ब्रह्मण उपासनार्थः प्रदेश-विशेष-परिग्रहो न विरुध्यते। 
+</details>
+
+### प्रदेश-कल्पनोपपत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननूक्तं 
+> 
+> > निष्प्रदेशस्य ब्रह्मणः  
+प्रदेश-विशेष-कल्पना नोपपद्यत 
+> 
+> इति? 
+
+नायं दोषः,  
+निष्प्रदेशस्यापि ब्रह्मण उपाधि-विशेष-सम्बन्धात् प्रदेश-विशेष-कल्पनोपपत्तेः। 
+</details>
+
+<details><summary>English</summary>
+
+Nor does it avail anything to say that it is impossible to assign any place to Brahman because Brahman is out of connexion with all place. For it is possible to make such an assumption, because Brahman is connected with certain limiting adjuncts. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननूक्तं निष्प्रदेशस्य ब्रह्मणः प्रदेशविशेषकल्पना नोपपद्यत इति; नायं दोषः, निष्प्रदेशस्यापि ब्रह्मण उपाधिविशेषसम्बन्धात्प्रदेशविशेषकल्पनोपपत्तेः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि — आदित्ये, चक्षुषि, हृदये इति प्रदेश-विशेष-सम्बन्धीनि ब्रह्मणः उपासनानि श्रू-यन्ते। 
+</details>
+
+<details><summary>Translation</summary>
+
+Accordingly Scripture speaks of different kinds of devout meditation on Brahman as specially connected with certain localities, such as the sun, the eye, the heart. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा हि — आदित्ये, चक्षुषि, हृदये इति प्रदेशविशेषसम्बन्धीनि ब्रह्मणः उपासनानि श्रूयन्ते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतेन ‘विश्वतः पृष्ठेषु’ इत्य् आधार-बहुत्वम् उपपादितम् ।
+</details>
+
+<details><summary>English</summary>
+
+For the same reason it is also possible to attribute to Brahman a multiplicity of abodes, as is done in the clause (quoted above) 'higher than all.'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतेन ‘विश्वतः पृष्ठेषु’ इत्याधारबहुत्वमुपपादितम्।
+</details>
+
+
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -671,19 +892,112 @@ Against the further objection that the omnipresent Brahman cannot be viewed as b
 इडमेयिल्लाद पिरह्मत्तिऱ्कु कुऱिप्पिट्ट इडत्तैक् कल्बिप्पदु पॊरुन्दादु ऎऩ्ऱु सॊल्लप्पट्ट तेयॆऩ्ऱाल्, इदु तोषमिल्लै। इडमेयिल्लाद पिरह्मत्तिऱ्कुम् कुऱिप्पिट्ट उबादियिऩ् सम्बन्दत् तिऩाल् कुऱिप्पिट्ट इडम् कल्बिप्पदु पॊरुन्दु माऩदिऩाल्, अप्पडिये आदित्यऩिल्, कण्णिल्, ह्रुदयत्तिल् ऎऩ्ऱु पिरह्मत्तिऱ्कु कुऱिप्पिट्ट इडम् सम्बन्दप्पट्ट उबासऩङ्गळ् सॊल्लप् पट्टिरुक्किऩ् ऱऩ। इदऩाल् ‘ऎल्लावऱ्ऱिऱ्कुम् मेले उळ्ळवैगळिल्’ ऎऩ्ऱु आदार विषयमायुळ्ळ पऩ्मै विळक्कप्पट्टु विट्टदु।
 </details>
 
+## सविशेषस्य प्रतीकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अप्य् एतद् उक्तम् औष्ण्यघोषानुमिते कौक्षेये कार्ये ज्योतिष्यध्यस्यमानत्वात्परमपि दिवः तदप्य् अयुक्तम्; परस्यापि ब्रह्मणो नामादि-प्रतीकत्ववत्कौक्षेय-ज्योतिष्प्रतीकत्वोपपत्तेः। ‘दृष्टं च श्रुतं चेत्य् उपासीत’ इति तु प्रतीक-द्वारकं दृष्टत्वं श्रु तत्वं च भविष्यति। यद् अप्य् उक्तम् अल्प-फल श्रवणात् न ब्रह्मेति, तदप्य् अनुपपन्नम्; न हि इयते फलाय ब्रह्माश्रयणीयम् , इयते न इति नियमे हेतुर् अस्ति। यत्र हि निरस्त-सर्व-विशेष-सम्बन्धं परं ब्रह्मात्मत्वेनोपदिश्य-ते, तत्रैक-रूपम् एव फलं मोक्ष इत्यवगम्यते। यत्र तु गुण-विशेष-सम्बन्धं प्रतीक-विशेष-सम्बन्धं वा ब्रह्मोपदिश्यते, तत्र संसार-गोचराण्य् एवोच्चावचानि फलानि दृश्यन्ते — ‘अन्नादो वसुदानो विन्दते वसु य एवं वेद’ (बृ. उ. ४। ४। २४) इत्याद्य् आसु श्रुतिषु ।
+यद् अप्य् एतद् उक्तम् 
+
+> औष्ण्य-घोषानुमिते कौक्षेये कार्ये ज्योतिष्य् अध्यस्यमानत्वात्  
+परम् अपि दिवः कार्य-ज्योतिर् एव
+
+इति, तदप्य् अयुक्तम्;  
+परस्यापि ब्रह्मणो नामादि-प्रतीकत्ववत्  
+कौक्षेय-ज्योतिष्-प्रतीकत्वोपपत्तेः। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+The further objection that the light beyond heaven is the mere physical light because it is identified with the gastric fire, which itself is a mere effect and is inferred from perceptible marks such as the heat of the body and a certain sound, is equally devoid of force; for the gastric fire may be viewed as the outward appearance (or symbol) of Brahman, just as Brahman's name is a mere outward symbol. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद् अप्य् एतद् उक्तम् औष्ण्यघोषानुमिते कौक्षेये कार्ये ज्योतिष्यध्यस्यमानत्वात्परमपि दिवः कार्यज्योतिरेवेति तदप्य् अयुक्तम्; परस्यापि ब्रह्मणो नामादि-प्रतीकत्ववत्कौक्षेय-ज्योतिष्प्रतीकत्वोपपत्तेः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘+++(कौक्षेयाग्निं)+++ दृष्टं च श्रुतं चेत्य् उपासीत’ 
+
+इति तु प्रतीक-द्वारकं दृष्टत्वं श्रुतत्वं च भविष्यति। 
+</details>
+
+<details><summary>English</summary>
+
+Similarly in the passage, 'Let a man meditate on it (the gastric light) as seen and heard,' the visibility and audibility (here implicitly ascribed to Brahman) must be considered as rendered possible through the gastric fire being the outward appearance of Brahman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘दृष्टं च श्रुतं चेत्युपासीत’ इति तु प्रतीकद्वारकं दृष्टत्वं श्रुतत्वं च भविष्यति। 
+</details>
+
+## फल-नियमाभावः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अप्य् उक्तम् 
+
+> अल्प-फल श्रवणान् न ब्रह्म
+
+इति, तद् अप्य् अनुपपन्नम्;  
+"न हीयते फलाय ब्रह्माश्रयणीयम्, इयते ने"ति नियमे  
+हेतुर् अस्ति। 
+</details>
+
+<details><summary>English</summary>
+
+Nor is there any force in the objection that Brahman cannot be meant because the text mentions an inconsiderable reward only; for there is no reason compelling us to have recourse to Brahman for the purpose of such and such a reward only, and not for the purpose of such and such another reward. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद् अप्य् उक्तम् अल्प-फल श्रवणात् न ब्रह्मेति, तदप्य् अनुपपन्नम्; न हीयते फलाय ब्रह्माश्रयणीयम् , इयते नेति नियमे हेतुर् अस्ति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत्र हि निरस्त-सर्व-विशेष-सम्बन्धं परं ब्रह्मात्मत्वेनोपदिश्यते,  
+तत्रैक-रूपम् एव फलं मोक्ष इत्य् अवगम्यते। 
+</details>
+
+<details><summary>English</summary>
+
+Wherever the text represents the highest Brahman--which is free from all connexion with distinguishing attributes--as the universal Self, it is understood that the result of that instruction is one only, viz. final release. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत्र हि निरस्तसर्वविशेषसम्बन्धं परं ब्रह्मात्मत्वेनोपदिश्यते, तत्रैकरूपमेव फलं मोक्ष इत्यवगम्यते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत्र तु गुण-विशेष-सम्बन्धं प्रतीक-विशेष-सम्बन्धं वा ब्रह्मोपदिश्यते,  
+तत्र संसार-गोचराण्य् एवोच्चावचानि फलानि दृश्यन्ते — 
+
+> ‘अन्नादो वसु-दानो  
+विन्दते वसु  
+य एवं वेद’ (बृ. उ. ४। ४। २४) 
+
+इत्याद्यासु श्रुतिषु ।
 </details>
 
 <details><summary>Translation</summary>
 
-The further objection that the light beyond heaven is the mere physical light because it is identified with the gastric fire, which itself is a mere effect and is inferred from perceptible marks such as the heat of the body and a certain sound, is equally devoid of force; for the gastric fire may be viewed as the outward appearance (or symbol) of Brahman, just as Brahman's name is a mere outward symbol. Similarly in the passage, 'Let a man meditate on it (the gastric light) as seen and heard,' the visibility and audibility (here implicitly ascribed to Brahman) must be considered as rendered possible through the gastric fire being the outward appearance of Brahman. Nor is there any force in the objection that Brahman cannot be meant because the text mentions an inconsiderable reward only; for there is no reason compelling us to have recourse to Brahman for the purpose of such and such a reward only, and not for the purpose of such and such another reward. Wherever the text represents the highest Brahman--which is free from all connexion with distinguishing attributes--as the universal Self, it is understood that the result of that instruction is one only, viz. final release. Wherever, on the other hand, Brahman is taught to be connected with distinguishing attributes or outward symbols, there, we see, all the various rewards which this world can offer are spoken of; cp. for instance, Br̥. Up. IV, 4, 24, 'This is he who eats all food, the giver of wealth. He who knows this obtains wealth.
+Wherever, on the other hand, Brahman is taught to be connected with distinguishing attributes or outward symbols, there, we see, all the various rewards which this world can offer are spoken of; cp. for instance, Br̥. Up. IV, 4, 24, 'This is he who eats all food, the giver of wealth. He who knows this obtains wealth.
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदप्येतदुक्तम् औष्ण्यघोषानुमिते कौक्षेये कार्ये ज्योतिष्यध्यस्यमानत्वात्परमपि दिवः तदप्ययुक्तम्; परस्यापि ब्रह्मणो नामादिप्रतीकत्ववत्कौक्षेयज्योतिष्प्रतीकत्वोपपत्तेः। ‘दृष्टं च श्रुतं चेत्युपासीत’ इति तु प्रतीकद्वारकं दृष्टत्वं श्रुतत्वं च भविष्यति। यदप्युक्तमल्पफलश्रवणात् न ब्रह्मेति, तदप्यनुपपन्नम्; न हि इयते फलाय ब्रह्माश्रयणीयम् , इयते न इति नियमे हेतुरस्ति। यत्र हि निरस्तसर्वविशेषसम्बन्धं परं ब्रह्मात्मत्वेनोपदिश्यते, तत्रैकरूपमेव फलं मोक्ष इत्यवगम्यते। यत्र तु गुणविशेषसम्बन्धं प्रतीकविशेषसम्बन्धं वा ब्रह्मोपदिश्यते, तत्र संसारगोचराण्येवोच्चावचानि फलानि दृश्यन्ते — ‘अन्नादो वसुदानो विन्दते वसु य एवं वेद’ (बृ. उ. ४। ४। २४) इत्याद्यासु श्रुतिषु ।
+यत्र तु गुणविशेषसम्बन्धं प्रतीकविशेषसम्बन्धं वा ब्रह्मोपदिश्यते, तत्र संसारगोचराण्येवोच्चावचानि फलानि दृश्यन्ते — ‘अन्नादो वसुदानो विन्दते वसु य एवं वेद’ (बृ. उ. ४। ४। २४) इत्याद्यासु श्रुतिषु ।
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
