@@ -1405,14 +1405,79 @@ Although, therefore, the previous passage speaks of the metre, Brahman is what i
 आगैयाल् सन्दस् सॊल्लप्पट्टिरुन्द पोदिलुम् मुन्दिऩ वाक्कियत्तिल् नाऩ्गु पादमुळ्ळ पिरह्मम् कुऱिप्पिडप्पट्टिरुक्किऱदु। ज्योदिस् वाक्यत्तिलुम्गूड अदुवेदाऩ्, वेऱु उबासऩैयै विदिप्पदऱ्काग तिरुम्बक्कण्डिरुक्किऱदु।
 </details>
 
+### सङ्ख्या-सामान्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपर आह — साक्षाद् एव गायत्री-शब्देन ब्रह्म प्रतिपाद्यते, संख्यासामान्यात्। यथा गायत्री चतुष्पदा षडक्षरैः पादैः, तथा ब्रह्म चतुष्पात्। तथान्यत्रापि च्छन्दोभिधायी शब्दो ऽर्थान्तरे संख्या-सामान्यात् प्रयुज्यमानो दृश्यते। तद् यथा — ‘ते वा एते पञ्चान्ये पञ्चान्ये दश सन्तस् तत्-कृतम्’ इत्युपक्रम्याह ‘सैषा विराडन्नादी’ इति। अस्मिन् पक्षे ब्रह्मैवाभिहितम् इति न च्छन्दोभिधानम्। सर्वथाप्यस्ति पूर्वस्मिन् वाक्ये प्रकृतं ब्रह्म इति ॥ २५ ॥
+अपर आह —  
+
+साक्षाद् एव गायत्री-शब्देन ब्रह्म प्रतिपाद्यते,  
+संख्या-सामान्यात् —   
+यथा गायत्री चतुष्-पदा षडक्षरैः पादैः,  
+तथा ब्रह्म चतुष्-पात्। 
+</details>
+
+<details><summary>English</summary>
+
+Another commentator [^fn_131] is of opinion that the term Gāyatrī (does not denote Brahman in so far as viewed under the form of Gāyatrī, but) directly denotes Brahman, on account of the equality of number; for just as the Gāyatrī metre has four feet consisting of six syllables each, so Brahman also has four feet, (i. e. quarters.) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपर आह — साक्षादेव गायत्रीशब्देन ब्रह्म प्रतिपाद्यते, संख्यासामान्यात्। यथा गायत्री चतुष्पदा षडक्षरैः पादैः, तथा ब्रह्म चतुष्पात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा ऽन्यत्रापि च्छन्दोऽभिधायी शब्दो  
+ऽर्थान्तरे संख्या-सामान्यात् प्रयुज्यमानो दृश्यते। 
+</details>
+
+<details><summary>English</summary>
+
+Similarly we see that in other passages also the names of metres are used to denote other things which resemble those metres in certain numerical relations; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथान्यत्रापि च्छन्दोभिधायी शब्दो ऽर्थान्तरे संख्या-सामान्यात् प्रयुज्यमानो दृश्यते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् यथा — 
+
+> ‘ते वा एते पञ्चान्ये पञ्चान्ये  
+दश सन्तस् तत्-कृतम्’  
+
+इत्य् उपक्रम्याह ‘सैषा विराड् अन्नादी’ इति। 
+</details>
+
+<details><summary>English</summary>
+
+cp. for instance, Cḥ. Up. IV, 3, 8, where it is said at first, 'Now these five and the other five make ten and that is the Kr̥ta,' and after that 'these are again the Virāj which eats the food.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद् यथा — ‘ते वा एते पञ्चान्ये पञ्चान्ये दश सन्तस् तत्-कृतम्’ इत्युपक्रम्याह ‘सैषा विराडन्नादी’ इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्मिन् पक्षे ब्रह्मैवाभिहितम् इति,  
+न च्छन्दोऽभिधानम्।  
+सर्वथा ऽप्य् अस्ति पूर्वस्मिन् वाक्ये प्रकृतं ब्रह्मेति ॥ २५ ॥
 </details>
 
 <details><summary>Translation</summary>
 
-Another commentator [^fn_131] is of opinion that the term Gāyatrī (does not denote Brahman in so far as viewed under the form of Gāyatrī, but) directly denotes Brahman, on account of the equality of number; for just as the Gāyatrī metre has four feet consisting of six syllables each, so Brahman also has four feet, (i. e. quarters.) Similarly we see that in other passages also the names of metres are used to denote other things which resemble those metres in certain numerical relations; cp. for instance, Cḥ. Up. IV, 3, 8, where it is said at first, 'Now these five and the other five make ten and that is the Kr̥ta,' and after that 'these are again the Virāj which eats the food.' If we adopt this interpretation, Brahman only is spoken of, and the metre is not referred to at all. In any case Brahman is the subject with which the previous passage is concerned.
+If we adopt this interpretation, Brahman only is spoken of, and the metre is not referred to at all. In any case Brahman is the subject with which the previous passage is concerned.
 </details>
 
 <details><summary>Translation - Notes</summary>
@@ -1422,7 +1487,7 @@ Another commentator [^fn_131] is of opinion that the term Gāyatrī (does not de
 
 <details><summary>मूलम्</summary>
 
-अपर आह — साक्षादेव गायत्रीशब्देन ब्रह्म प्रतिपाद्यते, संख्यासामान्यात्। यथा गायत्री चतुष्पदा षडक्षरैः पादैः, तथा ब्रह्म चतुष्पात्। तथान्यत्रापि च्छन्दोभिधायी शब्दोऽर्थान्तरे संख्यासामान्यात्प्रयुज्यमानो दृश्यते। तद्यथा — ‘ते वा एते पञ्चान्ये पञ्चान्ये दश सन्तस्तत्कृतम्’ इत्युपक्रम्याह ‘सैषा विराडन्नादी’ इति। अस्मिन्पक्षे ब्रह्मैवाभिहितमिति न च्छन्दोभिधानम्। सर्वथाप्यस्ति पूर्वस्मिन्वाक्ये प्रकृतं ब्रह्म इति ॥ २५ ॥
+अस्मिन्पक्षे ब्रह्मैवाभिहितमिति न च्छन्दोभिधानम्। सर्वथाप्यस्ति पूर्वस्मिन्वाक्ये प्रकृतं ब्रह्म इति ॥ २५ ॥
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -1430,9 +1495,10 @@ Another commentator [^fn_131] is of opinion that the term Gāyatrī (does not de
 वेऱॊरुवर् सॊल्गिऱार्। कायत्री सप्तत्तिऩाल् नेरागवे पिरह्मम् पिरदिबादिक्कप्पडुगिऱदु, ऎण्णिक्कै समाऩमायिरुप्पदाल्। ऎव्विदम् कायत्री आऱु अक्षरङ्गळ् कॊण्ड पादङ्गळिऩाल् नाऩ्गु पादमुळ्ळदो, अप्पडिये पिरह्ममुम् नाऩ्गु पादमुळ्ळदु। अप्पडिये वेऱु इडत्तिलुम् सन्दसैच् चॊल्लुम् सप्तम् ऎण्णिक्कै समाऩमायिरुप्पदाल् वेऱु अर्त्कत्तिल् पिरयोगम् सॆय्यप्पडुवदाग काणप्पडुगिऱदु। अदु ऎप्पडियॆऩ्ऱाल्' 'अन्द इन्द ऐन्दुवेऱु, ऐन्दु वेऱु आग पत्तु आगिऩ्ऱऩ। अदु किरुदम्' ऎऩ्ऱु आरम्बित्तु 'अन्द इदु विराट् अऩ्ऩम् साप्पिडुवदु' ऎऩ्ऱु सॊल्गिऱदु। इन्द पक्षत्तिल् पिरह्ममे सॊल्लप्पट्टदाग आगिऱदिऩाल् सन्दसै सॊल्वदु इल्लै। ऎप्पडियुम् मुऩ् वाक्कियत्तिल् पिरह्मम् पिरगिरुदमायिरुक्किऱदु।
 </details>
 
+## भूतादि-व्यपदेशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूतादि-पादव्यपदेशोपपत्तेश्चैवम् ॥ २६ ॥  
+भूतादि+++(→पृथिवी-शरीर-हृदयानि)+++--पाद-व्यपदेशोपपत्तेश् चैवम् ॥ २६ ॥  
 </details>
 
 <details><summary>Translation</summary>
@@ -1450,14 +1516,26 @@ Another commentator [^fn_131] is of opinion that the term Gāyatrī (does not de
 पूदादिबादव्यदेसोबबत्तेच्चैवम् ॥ २६ ॥
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतश् चैवम् अभ्युपगन्तव्यम् अस्ति पूर्वस्मिन् वाक्ये प्रकृतं ब्रह्मेति; यतो श्रुतिः। भूत-पृथिवी-शरीर-हृदयानि हि निर्दिश्याह — ‘सैषा चतुष्पदा षड्-विधा गायत्री’ (छा. उ. ३। १२। ५) इति। न हि ब्रह्मानाश्रयणे केवलस्य च्छन्दसो भूताद-यः पादा उपपद्यन्ते। अपि च ब्रह्मानाश्रयणे नेयमृक् सम्ब-ध्य् एत — ‘तावानस्य महिमा’ इति। अनया हि ऋचा स्व-रसेन ब्रह्मैवाभिधीयते, ‘पादो ऽस्य सर्वा भूतानि त्रिपाद् अस्यामृतं दिवि’ (छा. उ. ३। १२। ६) इति सर्वात्मत्वोपपत्तेः। पुरुष-सूक्तेऽपीयमृक् ब्रह्म-परतयैव समाम्नायते ।
+इतश् चैवम् अभ्युपगन्तव्यम् अस्ति  
+"पूर्वस्मिन् वाक्ये प्रकृतं ब्रह्मे"ति;  
+यतो श्रुतिर् भूत-पृथिवी-शरीर-हृदयानि हि निर्दिश्याह —  
+
+> ‘सैषा चतुष्पदा षड्-विधा गायत्री’ (छा. उ. ३। १२। ५) 
+
+इति। 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>मूलम्</summary>
 
-That the previous passage has Brahman for its topic, we must assume for that reason also that the text designates the beings and so on as the feet of Gāyatrī. For the text at first speaks of the beings, the earth, the body, and the heart [^fn_132], and then goes on 'that Gāyatrī has four feet and is sixfold.' For of the mere metre, without any reference to Brahman, it would be impossible to say that the beings and so on are its feet. Moreover, if Brahman were not meant, there would be no room for the verse, 'Such is the greatness,' &c. For that verse clearly describes Brahman in its own nature; otherwise it would be impossible to represent the Gāyatrī as the Self of everything as is done in the words, 'One foot of it are all the beings; three feet of it are what is immortal in heaven.' The purusha-sūkta also (R̥k Saṁh. X, 90) exhibits the verse with sole reference to Brahman.
+इतश् चैवम् अभ्युपगन्तव्यम् अस्ति पूर्वस्मिन् वाक्ये प्रकृतं ब्रह्मेति; यतो श्रुतिर् भूत-पृथिवी-शरीर-हृदयानि हि निर्दिश्याह — ‘सैषा चतुष्पदा षड्-विधा गायत्री’ (छा. उ. ३। १२। ५) इति। 
+</details>
+
+<details><summary>English</summary>
+
+That the previous passage has Brahman for its topic, we must assume for that reason also that the text designates the beings and so on as the feet of Gāyatrī. For the text at first speaks of the beings, the earth, the body, and the heart [^fn_132], and then goes on 'that Gāyatrī has four feet and is sixfold.' 
 </details>
 
 <details><summary>Translation - Notes</summary>
@@ -1465,9 +1543,83 @@ That the previous passage has Brahman for its topic, we must assume for that rea
 [^fn_132]: 95:2 Concerning the difficulty involved in this interpretation, cp. Deussen, p. 183, note.
 </details>
 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि ब्रह्मानाश्रयणे  
+केवलस्य च्छन्दसो  
+भूतादयः पादा उपपद्यन्ते। 
+</details>
+
+<details><summary>English</summary>
+
+For of the mere metre, without any reference to Brahman, it would be impossible to say that the beings and so on are its feet. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
-इतश्चैवमभ्युपगन्तव्यमस्ति पूर्वस्मिन्वाक्ये प्रकृतं ब्रह्मेति; यतो श्रुतिः। भूतपृथिवीशरीरहृदयानि हि निर्दिश्याह — ‘सैषा चतुष्पदा षड्विधा गायत्री’ (छा. उ. ३। १२। ५) इति। न हि ब्रह्मानाश्रयणे केवलस्य च्छन्दसो भूतादयः पादा उपपद्यन्ते। अपि च ब्रह्मानाश्रयणे नेयमृक् सम्बध्येत — ‘तावानस्य महिमा’ इति। अनया हि ऋचा स्वरसेन ब्रह्मैवाभिधीयते, ‘पादोऽस्य सर्वा भूतानि त्रिपादस्यामृतं दिवि’ (छा. उ. ३। १२। ६) इति सर्वात्मत्वोपपत्तेः। पुरुषसूक्तेऽपीयमृक् ब्रह्मपरतयैव समाम्नायते ।
+न हि ब्रह्मानाश्रयणे  
+केवलस्य च्छन्दसो  
+भूतादयः पादा उपपद्यन्ते। 
+</details>
+
+
+### महत्ता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च ब्रह्मानाश्रयणे नेयम् ऋक् सम्बध्येत —  
+‘तावानस्य महिमा’ इति। 
+</details>
+
+<details><summary>English</summary>
+
+Moreover, if Brahman were not meant, there would be no room for the verse, 'Such is the greatness,' &c. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि च ब्रह्मानाश्रयणे नेयमृक्सम्बध्येत — ‘तावानस्य महिमा’ इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनया ह्य् ऋचा स्व-रसेन ब्रह्मैवाभिधीयते, 
+
+> ‘पादो ऽस्य सर्वा भूतानि  
+त्रिपाद् अस्यामृतं दिवि’ (छा. उ. ३। १२। ६) 
+
+इति सर्वात्मत्वोपपत्तेः। 
+</details>
+
+<details><summary>English</summary>
+
+For that verse clearly describes Brahman in its own nature; otherwise it would be impossible to represent the Gāyatrī as the Self of everything as is done in the words, 'One foot of it are all the beings; three feet of it are what is immortal in heaven.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनया हि ऋचा स्वरसेन ब्रह्मैवाभिधीयते, ‘पादोऽस्य सर्वा भूतानि त्रिपादस्यामृतं दिवि’ (छा. उ. ३। १२। ६) इति सर्वात्मत्वोपपत्तेः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरुष-सूक्तेऽपीयम् ऋक् ब्रह्म-परतयैव समाम्नायते ।
+</details>
+
+<details><summary>Translation</summary>
+
+The purusha-sūkta also (R̥k Saṁh. X, 90) exhibits the verse with sole reference to Brahman.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुरुषसूक्तेऽपीयमृक् ब्रह्मपरतयैव समाम्नायते ।
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -1475,14 +1627,86 @@ That the previous passage has Brahman for its topic, we must assume for that rea
 मुन्दिऩ वाक्कियत्तिल् पिरगिरुदमायिरुप्पदु पिरह्मम् ऎऩ्ऱु इदिऩालेयुम् इव्विदम् ऒप्पुक्कॊळ्ळ वेण्डुम्, ऎदिऩाल् पूदम् मुदलियवैगळै पादङ्गळाग कुऱिप्पिडुगिऱदो ‘अन्द इन्द कायत्री नाऩ्गु पादङ्गळुडैयदु आऱु विदमागयुळ्ळदु' ऎऩ्ऱु पूदम्, पिरुदिवी, सरीरम्, ह्रुदयम् इवैगळै कुऱिप्पिट्टल्लवा सॊल्लुगिऱदु? पिरह्मत्तै ऎडुत्तुक्कॊळ्ळाद पक्षत्तिल् वॆऱुम् सन्दसिऱ्कु पूदम् मुदलियवै पादङ्गळ् ऎऩ्बदु पॊरुन्दादल्लवा! मेलुम्। पिरह्मत्तै ऎडुत्तुक्कॊळ्ळादबोऩाल् इदऱ्कु अव्वळवु (महिमै)' ऎऩ्ऱ इन्द रिक् ऒट्टादु। इन्द रुक्किऩाल् स्वरसमाग पिरह्ममेयल्लवा सॊल्लप्पडुगिऱदु, 'ऎल्ला पूदङ्गळुम् इवरुक्कु ऒरु काल् पादम्; इवरुडैय अमिरुदमाऩ मुक्काल् पादम् त्युलोगत्तिल्' ऎऩ्ऱु ऎल्लावऱ्ऱिऱ्कुम् आत्मावा यिरुक्कुम् तऩ्मै पॊरुन्दुमादलाल्, पुरुषसूक् कत्तिलुम्गूड इन्द रिक् पिरह्म परमागवे सॊल्लप् पडुगिऱदु।
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्मृतिश्च ब्रह्मण एवं-रूपतां दर्शयति — ‘विष्टभ्याहम् इदं कृत्स्नम् एकांशेन स्थितो जगत्’ (भ. गी. १०। ४२) इति । ‘यद् वै तद्-ब्रह्म’ (छा. उ. ३। १२। ७) इति च निर्देश एवं सति मुख्यार्थ उपपद्यते । ‘ते वा एते पञ्च ब्रह्म-पुरुषाः’ (छा. उ. ३। १३। ६) इति च हृदयसुषिषु ब्रह्म-पुरुषश्रुतिर्ब्रह्म-सम्बन्धितायां विवक्षितायां सम्भवति। तस्माद् अस्ति पूर्वस्मिन् वाक्ये ब्रह्म प्रकृतम्। तदेव ब्रह्म ज्योतिर् वाक्ये द्यु सम्बन्धात् प्रत्यभिज्ञायमानं परामृश्यत इति स्थितम् ॥ २६ ॥
+स्मृतिश् च ब्रह्मण एवं-रूपतां दर्शयति — 
+
+> ‘विष्टभ्याहम् इदं कृत्स्नम्  
+एकांशेन स्थितो जगत्’ (भ. गी. १०। ४२) 
+
+इति । 
+</details>
+
+<details><summary>English</summary>
+
+Smr̥ti likewise ascribes to Brahman a like nature, 'I stand supporting all this world by a single portion of myself' (Bha. Gītā X, 42). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्मृतिश्च ब्रह्मण एवं-रूपतां दर्शयति — ‘विष्टभ्याहम् इदं कृत्स्नम् एकांशेन स्थितो जगत्’ (भ. गी. १०। ४२) इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘यद् वै तद् ब्रह्म’ (छा. उ. ३। १२। ७) इति च निर्देश  
+एवं सति, मुख्यार्थ उपपद्यते । 
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+तत्रापि निर्विशेष-ब्रह्म-वादिना त्वया लक्षणाश्रयोऽनिवार्यः। 
+</details>
+
+
+<details><summary>English</summary>
+
+Our interpretation moreover enables us to take the passage, 'that Brahman indeed which,' &c. (III, 12, 7), in its primary sense, (i.e. to understand the word Brahman to denote nothing but Brahman.) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘यद्वै तद्ब्रह्म’ (छा. उ. ३। १२। ७) इति च निर्देश एवं सति मुख्यार्थ उपपद्यते । 
+</details>
+
+### हृदय-सुषयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘ते वा एते पञ्च ब्रह्म-पुरुषाः’ (छा. उ. ३। १३। ६) 
+
+इति च हृदय-सुषिषु  
+ब्रह्म-पुरुष-श्रुतिर् ब्रह्म-सम्बन्धितायां विवक्षितायां सम्भवति। 
+</details>
+
+<details><summary>English</summary>
+
+And, moreover, the passage, 'these are the five men of Brahman' (III, 13, 6), is appropriate only if the former passage about the Gāyatrī is taken as referring to Brahman (for otherwise the 'Brahman' in 'men of Brahman' would not be connected with the previous topic). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ‘ते वा एते पञ्च ब्रह्म-पुरुषाः’ (छा. उ. ३। १३। ६) 
+
+इति च हृदयसुषिषु ब्रह्म-पुरुषश्रुतिर्ब्रह्म-सम्बन्धितायां विवक्षितायां सम्भवति। 
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माद् अस्ति पूर्वस्मिन् वाक्ये ब्रह्म प्रकृतम्।  
+तदेव ब्रह्म ज्योतिर्-वाक्ये  
+द्यु-सम्बन्धात् प्रत्यभिज्ञायमानं परामृश्यत  
+इति स्थितम् ॥ २६ ॥
 </details>
 
 <details><summary>Translation</summary>
 
-Smr̥ti likewise ascribes to Brahman a like nature, 'I stand supporting all this world by a single portion of myself' (Bha. Gītā X, 42). Our interpretation moreover enables us to take the passage, 'that Brahman indeed which,' &c. (III, 12, 7), in its primary sense, (i.e. to understand the word Brahman to denote nothing but Brahman.) And, moreover, the passage, 'these are the five men of Brahman' (III, 13, 6), is appropriate only if the former passage about the Gāyatrī is taken as referring to Brahman (for otherwise the 'Brahman' in 'men of Brahman' would not be connected with the previous topic). Hence Brahman is to be considered as the subject-matter of the previous passage also. And the decision that the same Brahman is referred to in the passage about the light where it is recognised (to be the same) from its connexion with heaven, remains unshaken.
+Hence Brahman is to be considered as the subject-matter of the previous passage also. And the decision that the same Brahman is referred to in the passage about the light where it is recognised (to be the same) from its connexion with heaven, remains unshaken.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1495,9 +1719,11 @@ Smr̥ti likewise ascribes to Brahman a like nature, 'I stand supporting all this
 इन्द उलगम् पूरावैयुम् ऎऩ्ऩुडैय ऒरु अंसत्तिऩाल् ताङ्गिक्कॊण्डिरुक्किऱेऩ्' (कीलुऴ् १०-४२) ऎऩ्ऱु स्मिरुदियुम् पिरह्मत्तिऩ् इव्विदत् तऩ्मैयै काट्टुगिऱदु। इप्पडियिरुन्दाल् ताऩ् ‘ऎदुवो अदु पिरह्मम्' (सान् ३-१२-७) ऎऩ्ऱु कुऱिप्पिडुवदुम् मुक्कियमाऩ अर्त्तमुळ्ळदाग पॊरुन्दुम्। 'ऐन्दु पिरह्म पुरुषर्गळ्' (सान् ३-१३-६) ह्रुदयत्वारङ्गळिल् पिरह्म पुरुषर्गळ् ऎऩ्ऱ सुरुदियुम् पिरह्मत्तै सम्बन्दित्तु ऎऩ्ऱु सॊल्ल उत्तेसमाऩाल् ताऩ् सम्बविक्कुम्। आगैयाल् मुन्दिऩ वाक्कियत्तिल् पिरह्मम् पिरगिरुदमागवे इरुक्किऱदु। अन्द पिरह्ममे ताऩ् ज्योदिस् वाक्कियत्तिल् त्युलोग सम्बन्दत्तिऩाल् ञाबगप्पडुत्तप्पडुवदाय् तिरुम्बक्कुऱिक्कप्पट्टि रुक्किऱदु ऎऩ्ऱु निलैक्किऱदु।
 </details>
 
+## द्युः-परतोक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपदेश-भेदान् नेति चेन् नोभयस्मिन्न् अप्य् अविरोधात् ॥ २७ ॥  
++++("त्रिपाद् अस्यामृतं दिवि", "दिवः परः" इत्य्)+++ "उपदेश-भेदान् ने"ति चेन् न –  
+उभयस्मिन्न् अप्य् अ-विरोधात् +++("वृक्षाग्रे श्येनो, वृक्षाद् उपरी"तिवत्)+++॥ २७ ॥  
 </details>
 
 <details><summary>Translation</summary>
@@ -1515,14 +1741,105 @@ Smr̥ti likewise ascribes to Brahman a like nature, 'I stand supporting all this
 उबदेसबेदान्नेदि सेन्नोबयस्मिन्नप्यविरोदात् ॥ २७ ॥
 </details>
 
+### विरोधाभासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अप्य् एतद् उक्तम् — पूर्वत्र ‘त्रिपाद् अस्यामृतं दिवि’ इति सप्तम्या द्यौः आधारत्वेनोपदिष्टा। इह पुनः ‘अथ यद् अतः परो दिवः’ इति पञ्चम्या मर्या-दात्वेन। तस्माद् उपदेश-भेदान्न तस्येह प्रत्यभिज्ञानम् अस्तीति — तत्-परिहर्तव्यम्। अत्रोच्यते — नायं दोषः, उभयस्मिन्न् अप्य् अविरोधात्। उभयस्मिन्न् अपि सप्तम्य् अन्ते पञ्चम्य् अन्ते चोपदेशे न प्रत्यभिज्ञानं विरुध्यते। यथा लोके वृक्षाग्र-सम्बद्धोऽपि श्येन उभयथोपदिश्यमानो दृश्यते — वृक्षाग्रे श्येनो वृक्षाग्रात्परतः श्येन इति च, एवं दिव्येव सद्-ब्रह्म दिवः परम् इत्युपदिश्यते ।
+यद् अप्य् एतद् उक्तम् —  
+पूर्वत्र ‘त्रिपाद् अस्यामृतं दिवि’ इति सप्तम्या द्यौः आधारत्वेनोपदिष्टा। 
+</details>
+
+<details><summary>English</summary>
+
+The objection that in the former passage ('three feet of it are what is immortal in heaven'), heaven is designated as the abode, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद् अप्य् एतद् उक्तम् — पूर्वत्र ‘त्रिपाद् अस्यामृतं दिवि’ इति सप्तम्या द्यौः आधारत्वेनोपदिष्टा। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इह पुनर्  
+‘अथ यदतः परो दिवः’ इति पञ्चम्या मर्यादात्वेन। 
+</details>
+
+<details><summary>English</summary>
+
+while in the latter passage ('that light which shines above this heaven'), heaven is designated as the boundary, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इह पुनः ‘अथ यदतः परो दिवः’ इति पञ्चम्या मर्यादात्वेन। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माद् उपदेश-भेदान्  
+न तस्येह प्रत्यभिज्ञानम् अस्तीति —  
+तत्-परिहर्तव्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+and that, on account of this difference of designation, the subject-matter of the former passage cannot be recognised in the latter, must likewise be refuted. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्माद् उपदेश-भेदान्न तस्येह प्रत्यभिज्ञानम् अस्तीति — तत्-परिहर्तव्यम्। 
+</details>
+
+
+### अविरोधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्रोच्यते — नायं दोषः, उभयस्मिन्न् अप्य् अविरोधात्। 
+</details>
+
+<details><summary>English</summary>
+
+This we do by remarking that in either designation nothing is contrary to the recognition. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्रोच्यते — नायं दोषः, उभयस्मिन्नप्यविरोधात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उभयस्मिन्न् अपि  
+सप्तम्य्-अन्ते पञ्चम्य्-अन्ते चोपदेशे  
+न प्रत्यभिज्ञानं विरुध्यते। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+उभयस्मिन्न् अपि सप्तम्य् अन्ते पञ्चम्य् अन्ते चोपदेशे न प्रत्यभिज्ञानं विरुध्यते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा लोके वृक्षाग्र-सम्बद्धोऽपि श्येन  
+उभयथोपदिश्यमानो दृश्यते —  
+वृक्षाग्रे श्येनो, वृक्षाग्रात् परतः श्येन इति च,  
+एवं दिव्य् एव सद् ब्रह्म  
+दिवः परम् इत्य् उपदिश्यते ।
 </details>
 
 <details><summary>Translation</summary>
 
-The objection that in the former passage ('three feet of it are what is immortal in heaven'), heaven is designated as the abode, while in the latter passage ('that light which shines above this heaven'), heaven is designated as the boundary, and that, on account of this difference of designation, the subject-matter of the former passage cannot be recognised in the latter, must likewise be refuted. This we do by remarking that in either designation nothing is contrary to the recognition. Just as in ordinary language a falcon, although in contact with the top of a tree, is not only said to be on the tree but also above the tree, so Brahman also, although being in heaven, is here referred to as being beyond heaven as well.
+Just as in ordinary language a falcon, although in contact with the top of a tree, is not only said to be on the tree but also above the tree, so Brahman also, although being in heaven, is here referred to as being beyond heaven as well.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1537,12 +1854,42 @@ The objection that in the former passage ('three feet of it are what is immortal
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपर आह — यथा लोके वृक्षाग्रेणासम्बद्धोऽपि श्येन उभयथोपदिश्यमानो दृश्यते — वृक्षाग्रे श्येनो वृक्षाग्रात्परतः श्येन इति च, एवं दिवः परम् अपि सद्-ब्रह्म दिवीत्युपदिश्यते। तस्माद् अस्ति पूर्व-निर्दिष्टस्य ब्रह्मण इह प्रत्यभिज्ञानम्। अतः पर-मेव ब्रह्म ज्योतिःशब्दमिति सिद्धम् ॥ २७ ॥
+अपर आह —  
+यथा लोके वृक्षाग्रेणासम्बद्धोऽपि श्येन  
+उभयथोपदिश्यमानो दृश्यते —  
+वृक्षाग्रे श्येनो, वृक्षाग्रात्परतः श्येन इति च,  
+एवं दिवः परम् अपि सद् ब्रह्म  
+दिवीत्य् उपदिश्यते।  
+</details>
+
+<details><summary>English</summary>
+
+Another (commentator) explains: just as in ordinary language a falcon, although not in contact with the top of a tree, is not only said to be above the top of the tree but also on the top of the tree, so Brahman also, which is in reality beyond heaven, is (in the former of the two passages) said to be in heaven. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपर आह —  
+यथा लोके वृक्षाग्रेणासम्बद्धोऽपि श्येन  
+उभयथोपदिश्यमानो दृश्यते —  
+वृक्षाग्रे श्येनो, वृक्षाग्रात्परतः श्येन इति च,  
+एवं दिवः परमपि सद्ब्रह्म  
+दिवीत्युपदिश्यते।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माद् अस्ति पूर्व-निर्दिष्टस्य ब्रह्मण  
+इह प्रत्यभिज्ञानम्।  
+अतः परम् एव ब्रह्म ज्योतिः-शब्दम्  
+इति सिद्धम् ॥ २७ ॥
 </details>
 
 <details><summary>Translation</summary>
 
-Another (commentator) explains: just as in ordinary language a falcon, although not in contact with the top of a tree, is not only said to be above the top of the tree but also on the top of the tree, so Brahman also, which is in reality beyond heaven, is (in the former of the two passages) said to be in heaven. Therefore the Brahman spoken of in the former passage can be recognised in the latter also, and it remains therefore a settled conclusion that the word 'light' denotes Brahman.
+Therefore the Brahman spoken of in the former passage can be recognised in the latter also, and it remains therefore a settled conclusion that the word 'light' denotes Brahman.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1560,12 +1907,3 @@ Another (commentator) explains: just as in ordinary language a falcon, although 
 आगैयाल् ज्योदिस् सप्तत्तिऩाल् सॊल्लप् पडुवदु परबिरह्मम्दाऩ् ऎऩ्बदु सित्तम्।
 </details>
 
-<details><summary>Appendix</summary>
-
-- 22 bare Sanskrit paragraphs (lines 28,60,72,89,101,113,135,142,154,171,183,195,201,208,220,232,239,245,252,259,265,272) → 23 groups (G0 sutra24 duplicate from header +22). 45 Tamil blocks after header preserved (46 total incl header). Header lines 1-16 untouched.
-- G0: SA duplicate `ज्योतिश्चरणाभिधानात् ॥ २४ ॥` (header line 6 verbatim, trailing spaces preserved) + EN sutra24. No Tamil (header Tamil preserved). Thibaut sutra-first, SA sutra-first agree; EN24-sutra placed immediately after header for sequential match.
-- Groupings to preserve verbatim sequential match (SA units intact, EN split/combined, no split inside refs): G3 SA2 (line72) +4 EN combined (objection+firstborn+why+thatcannot); G4-6 TRI_LONG (EN24[10]+[12], 2621 chars, 11 sents) split into 3 (0-2,3-6,7-10) for SA3-5; G7-11 SID_LONG (EN24[13]+[14]+[16]+[17], 6017 chars, 32 sents, SID[21] manually split at `'higher than all.' The further objection` (outside refs) into 21a/21b) split into 5 (0-10,11-16,17-20+21a,21b+22-26,27-31) for SA6-10; G13 SA12 (line201) +3 EN combined (wenow+how+youmistaken); G14-15 THISARG (EN25[5], 7 sents, split after `14.` digit+period+Upper, no split inside refs) split into 2 (0-4,5-6) for SA13-14 (join [5]+[6] direct concat, no extra space, restores `.'` verbatim: `...ceremony.' The...`); G18-19 THATPREV (EN26[1]+[3], 9 sents) split into 2 (0-4,5-8) for SA17-18 (joins [1]+[2] `...sixfold.' For...` and [3]+[4] `...heaven.' The...` direct concat, no extra space, restores `.'` verbatim, no split inside `(R̥k Saṁh. X, 90)`); G22 E_another27 join EN27[2]+[3] with single space (`...top of a tree...`, no refs). All other groups 1-1.
-- Verbatim preserved, no corrections: SA duplicate trailing spaces `॥ २४ ॥  `, `॥२५॥  `, `॥ २६ ॥  `, `॥ २७ ॥  `; SA `इदँ` for `इदं` (line201), `(छा. उ. ३। १२। ६) (छा. उ. ३। १२। ६)` duplicate, `ज्येतिरिति` for `ज्योतिरिति` (line135), `चरणाभिधानात् ,` space-comma; EN `that(Brahman is)` missing space (25 sutra), double space `was  entirely` (F126); Joined EN line-wraps with single space: `everything, in the highest`, `cannot be admitted`, `declares that the fire`, `introducing a new subject`, `such an assumption`, `being mentioned`, `Gāyatrī has four feet`, `Saṁh. X, 90) exhibits`, `top of a tree` (27). No split inside `(Cḥ. Up. III, 13, 7)`, `(Br̥. Up. V, 5, 3)`, `(Cḥ. Up. III, 13, 7; 8)`, `(Taitt. Br. III, 12, 9, 7)`, `(Br̥. Up. IV, 3, 5)`, `(Taitt. Sa. I, 6, 3, 3)`, `(Kau. Up. II, 5, 15)`, `(Br̥. Up. IV, 4, 16)`, `(Br̥. Up. IV, 4, 24)`, `(Kh. Up. III, 14, 1)`, `(R̥k Saṁh. X, 90)`, `(Bha. Gītā X, 42)`, `(III, 12, 7)`, `(III, 13, 6)`, `(Cḥ. Up. III, 14, 1)`.
-- Notes: F126 (88:1), F127 (89:1) → G3 single Notes (joined with newline); F128 (91:1) → G8; F129 (93:1), F130 (93:2) → G11 single Notes; F131 (95:1) → G16; F132 (95:2) → G18. No notes elsewhere. Inline markers `[^fn_...]` preserved verbatim in Translation.
-- Translation files 24-27 fully covered in order (20 raw paras incl 5 footnote defs → 19 rejoined + sutra24 =20; G3 4→1 (-3), TRI 1→3 (+2), SID 1→5 (+4) =24 prose 8→11; 25: 6 EN (sutra+5) → G13 3→1 (-2), THIS 1→2 (+1) =5 groups; 26: 2 EN → THAT 1→2 (+1) =3 groups; 27: 3 EN → 3 groups). Total EN 20 → 23 groups. No missing SA (22+dup). No extra EN beyond grouping.
-</details>
