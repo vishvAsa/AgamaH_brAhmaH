@@ -992,7 +992,7 @@ Wherever the text represents the highest Brahman--which is free from all connexi
 
 <details><summary>Translation</summary>
 
-Wherever, on the other hand, Brahman is taught to be connected with distinguishing attributes or outward symbols, there, we see, all the various rewards which this world can offer are spoken of; cp. for instance, Br̥. Up. IV, 4, 24, 'This is he who eats all food, the giver of wealth. He who knows this obtains wealth.
+Wherever, on the other hand, Brahman is taught to be connected with distinguishing attributes or outward symbols, there, we see, all the various rewards which this world can offer are spoken of; cp. for instance, Br̥. Up. IV, 4, 24, 'This is he who eats all food, the giver of wealth. He who knows this obtains wealth.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1010,14 +1010,74 @@ Wherever, on the other hand, Brahman is taught to be connected with distinguishi
 अल्बमाऩ पलऩ् सॊल्लिरुप्पदाल् पिरह्मम् इल्लै ऎऩ्बदु ऎदुवो, अदुवुम् पॊरुन्दादु। इव्वळवु पलऩुक्कागत्ताऩ् पिरह्मम् आसिरयिक्कप् पडवेण्डुम्, इव्वळवुक्कु इल्लै, ऎऩ्ऱु नियमऩम् सॆय्यक्कारणम् इल्लै। ऎङ्गे सगल विसे ष सम्बन्दमुम् विलगिऩ परबिरह्मम् आत्मावाग उबदेसिक्कप्पडुगिऱदो, अङ्गे ऒरे रूबमागवे उळ्ळ मोक्षम् पलऩ् ऎऩ्ऱु अऱियप्पडुगिऱदु। ऎङ्गे कुऱिप् पिट्ट कुणत्तुडऩ् सम्बन्दमुळ्ळदागवो कुऱिप्पिट्ट पिरदीगत्तिऩ् सम्बन्दमुळ्ळदागवो पिरह्मम् उबदेसिक् कप्पडुगिऱदो, अङ्गे संसारत्तिऱ्कु उळ्बट्टदाग मेल् कीऴ् उळ्ळदाऩ पलऩ्गळ् काण्गिऩ्ऱऩ। ‘ऎवऩ् इव्विदम् अऱिगिऩ्ऱाऩो अवऩ् अऩ्ऩम् साप्पिडुगिऱ वऩागवुम्, तऩत्तै ताऩम् सॆय्गिऱवऩागवुम्, तऩत्तै अडैगिऱाऩ्' (पिरुहत् ४-४-२४) ऎऩ्बदु मुदलाऩ सुरुदिगळिल्।
 </details>
 
+## ब्रह्म-लिङ्गम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्यपि न स्व-वाक्ये किञ्चिज् ज्योतिषो ब्रह्म-लिङ्गम् अस्ति, तथापि पूर्वस्मिन् वाक्ये दृश्यमानं ग्रहीतव्यं भवति। तद्-उक्तं सूत्रकारेण — ज्योतिश् चरणाभिधानादिति। कथं पुनर् वाक्यान्तर-गतेन ब्रह्म-सन्निधानेन ज्योतिःश्रुतिः स्वविषयात् शक्या प्रच्यावयितुम् ? नैष दोषः, ‘अथ यद् अतः परो दिवो ज्योतिः’ इति प्रथमतर-पठितेन यच्-छब्देन सर्वन् आम्ना द्यु सम्बन्धात् प्रत्यभिज्ञाय-माने पूर्व-वाक्य-निर्दिष्टे ब्रह्मणि स्व-सामर्थ्येन परामृष्टे सत्यर्थाज्ज्योतिःशब्दस्यापि ब्रह्म-विषयत्वोपपत्तेः। तस्माद् इह ज्योतिर् इति ब्रह्म प्रतिपत्तव्यम् ॥ २४ ॥
+यद्य् अपि, न स्व-वाक्ये किञ्चिज् ज्योतिषो ब्रह्म-लिङ्गम् अस्ति,  
+तथा ऽपि, पूर्वस्मिन् वाक्ये दृश्यमानं ग्रहीतव्यं भवति। 
+</details>
+<details><summary>English</summary>
+
+Although in the passage itself which treats of the light no characteristic mark of Brahman is mentioned, yet, as the Sūtra intimates, the mark stated in a preceding passage (viz. the mantra, 'Such is the greatness of it,' &c.) has to be taken in connexion with the passage about the light as well. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद्यपि न स्ववाक्ये किञ्चिज्ज्योतिषो ब्रह्मलिङ्गमस्ति, तथापि पूर्वस्मिन्वाक्ये दृश्यमानं ग्रहीतव्यं भवति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-उक्तं सूत्रकारेण —  
+
++++("यद् अतः परो दिवो ज्योतिर् …" इत्यत्र परं ब्रह्म)+++ ज्योतिश् चरणाभिधानात् +++(→"पादो ऽस्य सर्वा भूतानि, त्रिपाद् अस्यामृतं दिवि")+++ ।
+
+इति। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्-उक्तं सूत्रकारेण — ज्योतिश् चरणाभिधानादिति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कथं पुनर् वाक्यान्तर-गतेन ब्रह्म-सन्निधानेन  
+ज्योतिःश्रुतिः स्वविषयात् शक्या प्रच्यावयितुम् ? 
+</details>
+
+<details><summary>English</summary>
+
+The question how the mere circumstance of Brahman being mentioned in a not distant passage can have the power of divorcing from its natural object and transferring to another object the direct statement about light implied in the word 'light,' may be answered without difficulty. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कथं पुनर् वाक्यान्तर-गतेन ब्रह्म-सन्निधानेन ज्योतिःश्रुतिः स्वविषयात् शक्या प्रच्यावयितुम् ? 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैष दोषः, 
+
+> ‘अथ यद् अतः परो दिवो ज्योतिः’ 
+
+इति प्रथमतर-पठितेन  
+यच्-छब्देन सर्वनाम्ना  
+द्यु-सम्बन्धात् प्रत्यभिज्ञायमाने  
+पूर्व-वाक्य-निर्दिष्टे ब्रह्मणि स्व-सामर्थ्येन परामृष्टे सत्य्  
+अर्थाज् ज्योतिः-शब्दस्यापि ब्रह्म-विषयत्वोपपत्तेः।   
+
+तस्माद् इह ज्योतिर् इति ब्रह्म प्रतिपत्तव्यम् ॥ २४ ॥
 </details>
 
 <details><summary>Translation</summary>
 
-' Although in the passage itself which treats of the light no characteristic mark of Brahman is mentioned, yet, as the Sūtra intimates, the mark stated in a preceding passage (viz. the mantra, 'Such is the greatness of it,' &c.) has to be taken in connexion with the passage about the light as well. The question how the mere circumstance of Brahman being mentioned in a not distant passage can have the power of divorcing from its natural object and transferring to another object the direct statement about light implied in the word 'light,' may be answered without difficulty. The passage under discussion runs [^fn_129], 'which above this heaven, the light.' The relative pronoun with which this clause begins intimates, according to its grammatical force [^fn_130], the same Brahman which was mentioned in the previous passage, and which is here recognised (as being the same which was mentioned before) through its connexion with heaven; hence the word jyotis also--which stands in grammatical co-ordination to 'which'--must have Brahman for its object. From all this it follows that the word 'light' here denotes Brahman.
+The passage under discussion runs [^fn_129], 'which above this heaven, the light.' The relative pronoun with which this clause begins intimates, according to its grammatical force [^fn_130], the same Brahman which was mentioned in the previous passage, and which is here recognised (as being the same which was mentioned before) through its connexion with heaven; hence the word jyotis also--which stands in grammatical co-ordination to 'which'--must have Brahman for its object. From all this it follows that the word 'light' here denotes Brahman.
 </details>
 
 <details><summary>Translation - Notes</summary>
@@ -1041,9 +1101,10 @@ Wherever, on the other hand, Brahman is taught to be connected with distinguishi
 वेऱु वाक्कियत्तिलुळ्ळ पिरह्मत्तिऩ् समीबमॆऩ्बदिऩाल्, ज्योदिस् ऎऩ्ऱ सुरुदि तऩ् विषयत्तिलिरुन्दु नऴुवि मऱ्ऱदै विलगुम्बडिच् चॆय्वदु ऎप्पडि? इदु तोषमिल्लै। ‘ऎदु इन्द त्युलोगत्तिऱ्कु मेलाऩदायुळ्ळ ज्योदिस्' ऎऩ्ऱु मुदल् मुदलाग सॊल्लप्पट्टिरुक्कुम्। 'ऎदु' ऎऩ्ऱुळ्ळ सर्वनामाविऩाल् त्युलोग सम्बन्दमिरुप्पदाल् ञाबगप्पडुत्तप्पट्ट मुऩ् वाक्कियत्तिल् कुऱिप्पिट्ट पिरह्ममाऩदु तऩ् सामर्त्तियत्तिऩाले कुऱिप्पिडप्पट्ट पॊऴुदु, तात्पर्यमाग, ज्योदिस् सप्तत्तिऱ्कुम् पिरह्मत्तै विषयमायुडैय तऩ्मै पॊरुन्दुमाऩदिऩाल्। आगैयाल् इङ्गे ज्योदिस् ऎऩ्बदु पिरह्मम् ऎऩ्ऱु अऱियवेण्डुम्।
 </details>
 
+## छन्दोऽभिधानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-छन्दोभिधानान्नेति चेन्न तथा चेतोर्पणनिगदात्तथाहि दर्शनम् ॥२५॥  
++++("गायत्री वा इदं सर्वम् … त्रिपाद् अस्यामृतं दिवि" इति)+++ छन्दोऽभिधानान् नेति चेन् - न – तथा +++(दृष्टि-विधेः→)+++ चेतोऽर्पण-निगदात्, तथा हि +++(छन्दो-दृष्टि-विधि-)+++दर्शनम् ॥ २५॥  
 </details>
 
 <details><summary>Translation</summary>
@@ -1061,14 +1122,69 @@ Wherever, on the other hand, Brahman is taught to be connected with distinguishi
 सन्दोबिदानान्नेदि सेन्न तदा सेदोर्बणनिगदात्तदाहि तर्सनम् ॥ २५ ॥
 </details>
 
+### गायत्र्य्-उक्तिः?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ यद्-उक्तं पूर्वस्मिन्न् अपि वाक्ये न ब्रह्माभिहितम् अस्ति, ‘गायत्री वा इदँ सर्वं भूतं यद्-इदं किञ्च’ (छा. उ. ३। १२। १) इति गायत्र्य् आख्यस्य च्छन्दसोऽभिहितत्वाद् इति; तत्-परिहर्तव्यम्। कथं पुनश्छन्दोभिधानान्न ब्रह्माभिहितम् इति शक्यते वक्तुम् ? यावता ‘तावानस्य महिमा’ इत्येतस्यामृचि चतुष्-पाद् ब्रह्म दर्शितम्। नैतद् अस्ति। ‘गायत्री वा इदँ सर्वम्’ इति गायत्रीमुपक्रम्य, तामेव भूतपृथिवीशरीरहृदयवाक्-प्राण-प्रभेदैर्व्याख्याय, ‘सैषा चतुष्पदा षड्-विधा गायत्री तदेतदृचाभ्यनूक्तं’ (छा. उ. ३। १२। ५) ‘तावानस्य महिमा’ (छा. उ. ३। १२। ६) इति तस्यामेव व्याख्यात-रूपायां गायत्र्यामुदाहृतो मन्त्रः कथमकस्माद्ब्रह्म चतुष्पाद-भिद-ध्यात् ।
+अथ यद् उक्तं – 
+
+> पूर्वस्मिन्न् अपि वाक्ये न ब्रह्माभिहितम् अस्ति,  
+>
+>> ‘गायत्री वा इदँ सर्वं भूतं  
+यद् इदं किञ्च’ (छा. उ. ३। १२। १) 
+>
+> इति गायत्र्य्-आख्यस्य च्छन्दसो ऽभिहितत्वाद् 
+
+इति; तत्-परिहर्तव्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+We now address ourselves to the refutation of the assertion (made in the pūrvapaksha of the preceding Sūtra) that in the previous passage also Brahman is not referred to, because in the sentence, 'Gāyatrī is everything whatsoever here exists,' the metre called Gāyatrī is spoken of. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथ यदुक्तं पूर्वस्मिन्नपि वाक्ये न ब्रह्माभिहितमस्ति, ‘गायत्री वा इदँ सर्वं भूतं यदिदं किञ्च’ (छा. उ. ३। १२। १) इति गायत्र्याख्यस्य च्छन्दसोऽभिहितत्वादिति; तत्परिहर्तव्यम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कथं पुनश् "छन्दो-ऽभिधानान् न ब्रह्माभिहितम्" इति शक्यते वक्तुम्,  
+यावता ‘तावानस्य महिमा’ इत्य् एतस्याम् ऋचि  
+चतुष्-पाद् ब्रह्म दर्शितम्?  
+</details>
+
+<details><summary>English</summary>
+
+How (we ask the pūrvapakshin) can it be maintained that, on account of the metre being spoken of, Brahman is not denoted, while yet the mantra 'such is the greatness of it,' &c., clearly sets forth Brahman with its four quarters? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कथं पुनश्छन्दोभिधानान्न ब्रह्माभिहितमिति शक्यते वक्तुम्यावता ‘तावानस्य महिमा’ इत्येतस्यामृचि चतुष्पाद्ब्रह्म दर्शितम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैतद् अस्ति। 
+‘गायत्री वा इदँ सर्वम्’ इति गायत्रीम् उपक्रम्य,  
+ताम् एव भूत-पृथिवी-शरीर-हृदय- -वाक्-प्राण-प्रभेदैर् व्याख्याय,  
+
+> ‘सैषा चतुष्पदा षड्-विधा गायत्री  
+तद् एतद् ऋचा ऽभ्यनूक्तं’ (छा. उ. ३। १२। ५)  
+‘तावानस्य महिमा’ (छा. उ. ३। १२। ६)  
+
+इति तस्याम् एव व्याख्यात-रूपायां गायत्र्याम्  
+उदाहृतो मन्त्रः कथम् अकस्माद् ब्रह्म चतुष्-पाद् अभिदध्यात् ।
 </details>
 
 <details><summary>Translation</summary>
 
-We now address ourselves to the refutation of the assertion (made in the pūrvapaksha of the preceding Sūtra) that in the previous passage also Brahman is not referred to, because in the sentence, 'Gāyatrī is everything whatsoever here exists,' the metre called Gāyatrī is spoken of. How (we ask the pūrvapakshin) can it be maintained that, on account of the metre being spoken of, Brahman is not denoted, while yet the mantra 'such is the greatness of it,' &c., clearly sets forth Brahman with its four quarters? You are mistaken (the pūrvapakshin replies). The sentence, 'Gāyatrī is everything,' starts the discussion of Gāyatrī. The same Gāyatrī is thereupon described under the various forms of all beings, earth, body, heart, speech, breath; to which there refers also the verse, 'that Gāyatrī has four feet and is sixfold.' After that we meet with the mantra, 'Such is the greatness of it.' &c. How then, we ask, should this mantra, which evidently is quoted with reference to the Gāyatrī (metre) as described in the preceding clauses, all at once denote Brahman with its four quarters? Since therefore the metre Gāyatrī is the subject-matter of the entire chapter, the term 'Brahman' which occurs in a subsequent passage ('the Brahman which has thus been described') must also denote the metre. This is analogous to a previous passage (Cḥ, Up. III, 11, 3, 'He who thus knows this Brahma-upanishad'), where the word Brahma-upanishad is explained to mean Veda-upanishad. As therefore the preceding passage refers (not to Brahman, but) to the Gāyatrī metre, Brahman does not constitute the topic of the entire section.
+You are mistaken (the pūrvapakshin replies). The sentence, 'Gāyatrī is everything,' starts the discussion of Gāyatrī. The same Gāyatrī is thereupon described under the various forms of all beings, earth, body, heart, speech, breath; to which there refers also the verse, 'that Gāyatrī has four feet and is sixfold.' After that we meet with the mantra, 'Such is the greatness of it.' &c. How then, we ask, should this mantra, which evidently is quoted with reference to the Gāyatrī (metre) as described in the preceding clauses, all at once denote Brahman with its four quarters? 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1083,17 +1199,147 @@ We now address ourselves to the refutation of the assertion (made in the pūrvap
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-योऽपि तत्र ‘यद् वै तद्-ब्रह्म’ (छा. उ. ३। १२। ७) इति ब्रह्म-शब्दः, सोऽपि च्छन्द-सः प्रकृतत्वाच् छन्दो-विषय एव । ‘य एतामेवं ब्रह्मोपनिषदं वेद’ (छा. उ. ३। ११। ३) इत्य्-अत्र हि वेदोपनिषदमिति व्याचक्षते। तस्माच्छन्दोभिधानान्न ब्रह्मणः प्रकृतत्व-मिति चेत् , नैष दोषः। तथा चेतोर् पण-निगदात् — तथा गायत्र्याख्यच्छन्दोद्वारेण, तद् अनुगते ब्रह्मणि चेतसो ऽर्पणं चित्तसमाधानम् अनेन ब्राह्मण-वाक्येन निगद्यते — ‘गायत्री वा इदँ सर्वम्’ इति। न ह्यक्षरसन्निवेश-मात्राया गायत्र्-याः सर्वात्मकत्वं सम्भवति। तस्माद् यद् गायत्र्य् आख्य-विकारेऽनुगतं जगत्-कारणं ब्रह्म तद् इह सर्वम् इत्युच्यते, यथा ‘सर्वं खल्विदं ब्रह्म’ (छा. उ. ३। १४। १) इति। कार्यं च कारणाद् अव्यतिरिक्त-मिति वक्ष्यामः — ‘तद्-अनन्यत्वम् आरम्भण-शब्दादिभ्यः’ (ब्र. सू. २। १। १४) इत्य्-अत्र ।
+योऽपि तत्र ‘यद् वै तद्-ब्रह्म’ (छा. उ. ३। १२। ७) इति ब्रह्म-शब्दः,  
+सोऽपि च्छन्दसः प्रकृतत्वाच्  
+छन्दो-विषय एव – 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>English</summary>
 
-This argumentation, we reply, proves nothing against our position. 'Because thus direction of the mind is declared,' i. e. because the Brahmaṇa passage, 'Gāyatrī indeed is all this,' intimates that by means of the metre Gāyatrī the mind is to be directed on Brahman which is connected with that metre. Of the metre Gāyatrī, which is nothing but a certain special combination of syllables, it could not possibly be said that it is the Self of everything. We therefore have to understand the passage as declaring that Brahman, which, as the cause of the world, is connected with that product also whose name is Gāyatrī, is 'all this;' in accordance with that other passage which directly says, 'All this indeed is Brahman' (Kh. Up. III, 14, 1). That the effect is in reality not different from the cause, we shall prove later on, under Sūtra II, 1, 14.
+Since therefore the metre Gāyatrī is the subject-matter of the entire chapter, the term 'Brahman' which occurs in a subsequent passage ('the Brahman which has thus been described') must also denote the metre. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+योऽपि तत्र ‘यद् वै तद्-ब्रह्म’ (छा. उ. ३। १२। ७) इति ब्रह्म-शब्दः, सोऽपि च्छन्द-सः प्रकृतत्वाच् छन्दो-विषय एव । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(यथा ऽन्यत्र)+++ ‘य एताम् एवं ब्रह्मोपनिषदं वेद’ (छा. उ. ३। ११। ३)  
+इत्य्-अत्र हि वेदोपनिषदम् इति व्याचक्षते। 
+</details>
+
+<details><summary>English</summary>
+
+This is analogous to a previous passage (Cḥ, Up. III, 11, 3, 'He who thus knows this Brahma-upanishad'), where the word Brahma-upanishad is explained to mean Veda-upanishad. As therefore the preceding passage refers (not to Brahman, but) to the Gāyatrī metre, Brahman does not constitute the topic of the entire section.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘य एतामेवं ब्रह्मोपनिषदं वेद’ (छा. उ. ३। ११। ३) इत्य्-अत्र हि वेदोपनिषदमिति व्याचक्षते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माच् छन्दोऽभिधानान्  
+न ब्रह्मणः प्रकृतत्वम्  
+
+इति चेत् , नैष दोषः। 
+</details>
+
+<details><summary>English</summary>
+
+This argumentation, we reply, proves nothing against our position. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्माच्छन्दोभिधानान्न ब्रह्मणः प्रकृतत्वम् इति चेत् , नैष दोषः। 
+</details>
+
+### चेतोऽर्पणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"तथा चेतोऽर्पण-निगदात्" —  
+तथा गायत्र्य्-आख्य-च्छन्दो-द्वारेण,  
+तद्-अनुगते ब्रह्मणि  
+चेतसो ऽर्पणं चित्तसमाधानम्।  
+</details>
+
+<details><summary>English</summary>
+
+'Because thus direction of the mind is declared,' i. e. because the Brahmaṇa passage, 'Gāyatrī indeed is all this,' intimates that by means of the metre Gāyatrī the mind is to be directed on Brahman which is connected with that metre. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"तथा चेतोऽर्पणनिगदात्" —  
+तथा गायत्र्याख्यच्छन्दोद्वारेण,  
+तदनुगते ब्रह्मणि  
+चेतसोऽर्पणं चित्तसमाधानम्।  
+</details>
+
+### छन्दसोऽसम्भवः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनेन ब्राह्मण-वाक्येन निगद्यते —  
+‘गायत्री वा इदँ सर्वम्’ इति। 
 </details>
 
 <details><summary>मूलम्</summary>
 
-योऽपि तत्र ‘यद्वै तद्ब्रह्म’ (छा. उ. ३। १२। ७) इति ब्रह्मशब्दः, सोऽपि च्छन्दसः प्रकृतत्वाच्छन्दोविषय एव । ‘य एतामेवं ब्रह्मोपनिषदं वेद’ (छा. उ. ३। ११। ३) इत्यत्र हि वेदोपनिषदमिति व्याचक्षते। तस्माच्छन्दोभिधानान्न ब्रह्मणः प्रकृतत्वमिति चेत् , नैष दोषः। तथा चेतोर्पणनिगदात् — तथा गायत्र्याख्यच्छन्दोद्वारेण, तदनुगते ब्रह्मणि चेतसोऽर्पणं चित्तसमाधानम् अनेन ब्राह्मणवाक्येन निगद्यते — ‘गायत्री वा इदँ सर्वम्’ इति। न ह्यक्षरसन्निवेशमात्राया गायत्र्याः सर्वात्मकत्वं सम्भवति। तस्माद्यद्गायत्र्याख्यविकारेऽनुगतं जगत्कारणं ब्रह्म तदिह सर्वमित्युच्यते, यथा ‘सर्वं खल्विदं ब्रह्म’ (छा. उ. ३। १४। १) इति। कार्यं च कारणादव्यतिरिक्तमिति वक्ष्यामः — ‘तदनन्यत्वमारम्भणशब्दादिभ्यः’ (ब्र. सू. २। १। १४) इत्यत्र ।
+अनेन ब्राह्मणवाक्येन निगद्यते —  
+‘गायत्री वा इदँ सर्वम्’ इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् अक्षर-सन्निवेश-मात्राया गायत्र्-याः सर्वात्मकत्वं सम्भवति। 
+</details>
+
+<details><summary>English</summary>
+
+Of the metre Gāyatrī, which is nothing but a certain special combination of syllables, it could not possibly be said that it is the Self of everything. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न ह्यक्षरसन्निवेश-मात्राया गायत्र्-याः सर्वात्मकत्वं सम्भवति। 
+</details>
+
+### ब्रह्म-विकारो गायत्री
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माद् यद् गायत्र्य्-आख्य-विकारे ऽनुगतं जगत्-कारणं ब्रह्म  
+तद् इह "सर्वम्" इत्युच्यते,  
+यथा ‘सर्वं खल्विदं ब्रह्म’ (छा. उ. ३। १४। १) इति। 
+</details>
+
+<details><summary>English</summary>
+
+We therefore have to understand the passage as declaring that Brahman, which, as the cause of the world, is connected with that product also whose name is Gāyatrī, is 'all this;' in accordance with that other passage which directly says, 'All this indeed is Brahman' (Kh. Up. III, 14, 1). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्माद् यद् गायत्र्य् आख्य-विकारेऽनुगतं जगत्-कारणं ब्रह्म तद् इह सर्वम् इत्युच्यते, यथा ‘सर्वं खल्विदं ब्रह्म’ (छा. उ. ३। १४। १) इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कार्यं च कारणाद् अव्यतिरिक्तम् इति वक्ष्यामः —  
+‘तद्-अनन्यत्वम् आरम्भण-शब्दादिभ्यः’ (ब्र. सू. २। १। १४) इत्य्-अत्र ।
+</details>
+
+<details><summary>Translation</summary>
+
+That the effect is in reality not different from the cause, we shall prove later on, under Sūtra II, 1, 14.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कार्यं च कारणादव्यतिरिक्तमिति वक्ष्यामः — ‘तदनन्यत्वमारम्भणशब्दादिभ्यः’ (ब्र. सू. २। १। १४) इत्यत्र ।
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
@@ -1106,19 +1352,47 @@ This argumentation, we reply, proves nothing against our position. 'Because thus
 सित्तान्दम्: ऎऩ्ऱाल् इदु तोषमिल्लै। ‘अव्विदम् मऩसै वैक्कुम्बडि सॊल्लियिरुप्पदाल्’ अव्विदम्, कायत्री ऎऩ्ऱ पॆयरुडैय सन्दस् मूलमाग अदिल् सेर्न्दिरुक्कुम् पिरह्मत्तिल् मऩसिऩ् अर्प्पणम्, मऩसै नऩ्गु वैप्पदु, इन्द प्राह्मण वाक्यत्तिऩाल् 'इदु ऎल्लाम् कायत्रीये' ऎऩ्ऱु सॊल्लप्पट्टिरुक्किऱदु। अक्षरङ्गळिऩ् सेर्क्कैयाग मात्तिरमुळ्ळ कायत्रीक्कु ऎल्लामाग विरुक्कुम् तऩ्मै सम्बविक्कादल्लवा? आगैयाल्, कायत्री ऎऩ्ऱ विगारत्तिल् कूडवेयिरुक्कुम् जगत् कारणमाऩ पिरह्मम् ऎदुवो, अदु इङ्गे 'ऎल्लाम्' ऎऩ्ऱु सॊल्लप्पडुगिऱदु। ‘इदु ऎल्लामे पिरह्मम्दाऩे' (सान्। ३-१४-१) ऎऩ्बदुबोल। कार्यमो कारणत्तिलिरुन्दु वेऱुबट्ट तिल्लै ऎऩ्ऱु 'अदऱ्कु वेऱुबडात् तऩ्मै आरम्बण सप्तम् मुदलाऩवैगळाल्' (सूत्रम् २-१-१४) ऎऩ्ऱविडत्तिल् सॊल्लप्पोगिऱोम्।
 </details>
 
+### अन्यत्र विकारे दर्शनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथान्यत्रापि विकार-द्वारेण ब्रह्मण उपासनं दृश्यते — ‘एतं ह्येव बह्वृचा महत्युक्थे मीमांसन्त एतमग्नावध्वर्यव एतं महाव्रते च्छन्दोगाः’ (ऐ. आ. ३। २। ३। १२) इति। तस्माद् अस्ति च्छन्दोभिधानेऽपि पूर्वस्मिन् वाक्ये चतुष्-पाद् ब्रह्म निर्दिष्टम्। तदेव ज्योतिर् वाक्येऽपि परामृश्यत उपासनान् तर-विधानाय ।
+तथा ऽन्यत्रापि विकार-द्वारेण ब्रह्मण उपासनं दृश्यते —  
+
+> ‘एतं ह्य् एव बह्व्-ऋचा महत्य् उक्थे मीमांसन्त  
+एतम् अग्नाव् अध्वर्यव  
+एतं महाव्रते च्छन्दोगाः’ (ऐ. आ. ३। २। ३। १२) 
+
+इति। 
+</details>
+
+<details><summary>English</summary>
+
+Devout meditation on Brahman under the form of certain effects (of Brahman) is seen to be mentioned in other passages also, so, for instance, Ait. Ār. III, 2, 3, 12, 'For the Bahv_rik_as consider him in the great hymn, the Adhvaryus in the sacrificial fire, the Cḥandogas in the Mahāvrata ceremony.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथान्यत्रापि विकारद्वारेण ब्रह्मण उपासनं दृश्यते — ‘एतं ह्येव बह्वृचा महत्युक्थे मीमांसन्त एतमग्नावध्वर्यव एतं महाव्रते च्छन्दोगाः’ (ऐ. आ. ३। २। ३। १२) इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माद् अस्ति -  
+च्छन्दोऽभिधानेऽपि पूर्वस्मिन् वाक्ये  
+चतुष्-पाद् ब्रह्म निर्दिष्टम्।  
+तद् एव ज्योतिर्-वाक्येऽपि परामृश्यत  
+उपासनान्तर-विधानाय ।
 </details>
 
 <details><summary>Translation</summary>
 
-Devout meditation on Brahman under the form of certain effects (of Brahman) is seen to be mentioned in other passages also, so, for instance, Ait. Ār. III, 2, 3, 12, 'For the Bahv_rik_as consider him in the great hymn, the Adhvaryus in the sacrificial fire, the Cḥandogas in the Mahāvrata ceremony.' Although, therefore, the previous passage speaks of the metre, Brahman is what is meant, and the same Brahman is again referred to in the passage about the light, whose purport it is to enjoin another form of devout meditation.
+Although, therefore, the previous passage speaks of the metre, Brahman is what is meant, and the same Brahman is again referred to in the passage about the light, whose purport it is to enjoin another form of devout meditation.
 </details>
 
 <details><summary>मूलम्</summary>
 
-तथान्यत्रापि विकारद्वारेण ब्रह्मण उपासनं दृश्यते — ‘एतं ह्येव बह्वृचा महत्युक्थे मीमांसन्त एतमग्नावध्वर्यव एतं महाव्रते च्छन्दोगाः’ (ऐ. आ. ३। २। ३। १२) इति। तस्मादस्ति च्छन्दोभिधानेऽपि पूर्वस्मिन्वाक्ये चतुष्पाद्ब्रह्म निर्दिष्टम्। तदेव ज्योतिर्वाक्येऽपि परामृश्यत उपासनान्तरविधानाय ।
+तस्मादस्ति च्छन्दोभिधानेऽपि पूर्वस्मिन्वाक्ये चतुष्पाद्ब्रह्म निर्दिष्टम्। तदेव ज्योतिर्वाक्येऽपि परामृश्यत उपासनान्तरविधानाय ।
 </details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
