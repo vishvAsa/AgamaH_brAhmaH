@@ -191,7 +191,7 @@ But, it will be said at the outset, the Sūtra I, 1, 21 already has shown that t
 
 <details><summary>Translation</summary>
 
-and as here also we meet with characteristic marks of Brahman, viz. the words 'bliss, imperishable, immortal,' what reason is there for again raising the same doubt?
+and as here also we meet with characteristic marks of Brahman, viz. the words 'bliss, imperishable, immortal,' 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -204,10 +204,11 @@ and as here also we meet with characteristic marks of Brahman, viz. the words 'b
 > कथम् इह पुनः संशयः सम्भवति ?
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>English</summary>
 
-We reply: Because there are observed here characteristic marks of different kinds.
+what reason is there for again raising the same doubt?
 </details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -222,7 +223,7 @@ We reply: Because there are observed here characteristic marks of different kind
 
 <details><summary>Translation</summary>
 
-For in the legend we meet not only with marks indicating Brahman, but also with marks pointing to other beings Thus Indra's words, 'Know me only' (III, 1) point to the Self of a divinity;
+We reply: Because there are observed here characteristic marks of different kinds.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -237,7 +238,7 @@ For in the legend we meet not only with marks indicating Brahman, but also with 
 
 <details><summary>Translation</summary>
 
-the words, 'Having laid hold of this body it makes it rise up,' point to the breath;
+For in the legend we meet not only with marks indicating Brahman, 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -251,10 +252,11 @@ the words, 'Having laid hold of this body it makes it rise up,' point to the bre
 ‘मामेव विजानीहि’ (कौ. उ. ३। १) इतीन्द्रस्य वचनं देवतात्म-लिङ्गम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>English</summary>
 
-the words, 'Let no man try to find out what speech is, let him know the speaker,' point to the individual soul.
+but also with marks pointing to other beings Thus Indra's words, 'Know me only' (III, 1) point to the Self of a divinity;
 </details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -268,7 +270,7 @@ the words, 'Let no man try to find out what speech is, let him know the speaker,
 
 <details><summary>Translation</summary>
 
-There is thus room for doubt.
+the words, 'Having laid hold of this body it makes it rise up,' point to the breath;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -284,7 +286,7 @@ There is thus room for doubt.
 
 <details><summary>Translation</summary>
 
-If, now, the pūrvapakshin maintains that the term prāṇa here denotes the well-known modification of air, i.e. breath, we, on our side, assert that the word prāṇa must be understood to denote Brahman.
+the words, 'Let no man try to find out what speech is, let him know the speaker,' point to the individual soul.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -299,7 +301,7 @@ If, now, the pūrvapakshin maintains that the term prāṇa here denotes the wel
 
 <details><summary>Translation</summary>
 
-For what reason?
+There is thus room for doubt.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -315,7 +317,7 @@ For what reason?
 
 <details><summary>Translation</summary>
 
-On account of such being the consecutive meaning of the passages.
+If, now, the pūrvapakshin maintains that the term prāṇa here denotes the well-known modification of air, i.e. breath, 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -334,10 +336,11 @@ On account of such being the consecutive meaning of the passages.
 प्राण-शब्दं ब्रह्म विज्ञेयम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>English</summary>
 
-For if we examine the connexion of the entire section which treats of the prāṇa, we observe that all the single passages can be construed into a whole only if they are viewed as referring to Brahman.
+we, on our side, assert that the word prāṇa must be understood to denote Brahman.
 </details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -351,7 +354,7 @@ For if we examine the connexion of the entire section which treats of the prā�
 
 <details><summary>Translation</summary>
 
-At the beginning of the legend Pratardana, having been allowed by Indra to choose a boon, mentions the highest good of man, which he selects for his boon, in the following words,
+For what reason?
 </details>
 
 <details><summary>मूलम्</summary>
@@ -361,12 +364,12 @@ At the beginning of the legend Pratardana, having been allowed by Indra to choos
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> +++("प्राण एव प्रज्ञात्मा ऽऽनन्दो ऽजरो ऽमृतः"→)+++ तथा ऽनुगमात् ।
+> तथा +++(प्रकरणे वाक्य-)+++ ऽनुगमात् ।
 </details>
 
 <details><summary>Translation</summary>
 
-'Do you yourself choose that boon for me which you deem most beneficial for a man.'
+On account of such being the consecutive meaning of the passages.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -382,7 +385,7 @@ At the beginning of the legend Pratardana, having been allowed by Indra to choos
 
 <details><summary>Translation</summary>
 
-Now, as later on prāṇa is declared to be what is most beneficial for man, what should prāṇa denote but the highest Self?
+For if we examine the connexion of the entire section which treats of the prāṇa, we observe that all the single passages can be construed into a whole only if they are viewed as referring to Brahman.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -390,6 +393,7 @@ Now, as later on prāṇa is declared to be what is most beneficial for man, wha
 तथाहि पौर्वापर्येण पर्यालोच्यमाने वाक्ये पदानां समन्वयो ब्रह्मप्रतिपादनपर उपलभ्यते।
 </details>
 
+#### हिततमता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपक्रमे तावत् ‘वरं वृणीष्व’ इतीन्द्रेणोक्तः प्रतर्दनः  
@@ -403,7 +407,12 @@ Now, as later on prāṇa is declared to be what is most beneficial for man, wha
 
 <details><summary>Translation</summary>
 
-For apart from the cognition of that Self a man cannot possibly attain what is most beneficial for him, as many scriptural passages declare.
+At the beginning of the legend Pratardana, having been allowed by Indra to choose a boon, mentions the highest good of man, which he selects for his boon, in the following words,
+</details>
+
+<details><summary>Translation</summary>
+
+'Do you yourself choose that boon for me which you deem most beneficial for a man.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -419,7 +428,7 @@ For apart from the cognition of that Self a man cannot possibly attain what is m
 
 <details><summary>Translation</summary>
 
-Compare, for instance, Śve. Up. III, 8, 'A man who knows him passes over death; there is no other path to go.'
+Now, as later on prāṇa is declared to be what is most beneficial for man, what should prāṇa denote but the highest Self?
 </details>
 
 <details><summary>मूलम्</summary>
@@ -440,7 +449,12 @@ Compare, for instance, Śve. Up. III, 8, 'A man who knows him passes over death;
 
 <details><summary>Translation</summary>
 
-Again, the further passage, 'He who knows me thus by no deed of his is his life harmed, not by theft, not by bhrūṇahatyā' (III, 1), has a meaning only if Brahman is supposed to be the object of knowledge.
+For apart from the cognition of that Self a man cannot possibly attain what is most beneficial for him, as many scriptural passages declare.
+</details>
+
+<details><summary>Translation</summary>
+
+Compare, for instance, Śve. Up. III, 8, 'A man who knows him passes over death; there is no other path to go.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -453,14 +467,21 @@ Again, the further passage, 'He who knows me thus by no deed of his is his life 
 पिराणऩ् ऎऩ्ऱसप्तत्तिऩाल् सॊल्लप्पडुवदु पिरह्मम् ऎऩ्ऱु अऱियवेण्डुम्, एऩ्? ‘अव्विदम् ऒत्तु वरुवदाल्' अप्पडिये मुऩ्बिऩ् आलोसिक्कुम् पोदु वाक्कियत्तिलुळ्ळ पदङ्गळिऩ् अर्त्तङ्गळ् ऒत्तिरुप् पदाल् पिरह्मत्तै ऎडुत्तुच्चॊल्वदागवे अऱियप् पडुगिऱदु। आरम्बत्तिलो ‘वरम् केट्टुक्कॊळ्' ऎऩ्ऱु इन्दिरऩाल् सॊल्लप्पट्ट पिरदर्दऩऩ् उत्तममाऩ पुरुषार्त्तत्तै वरमागक् कण्डाऩ्,’ ‘मऩुष्यऩुक्कु उत्तममाऩ हिदमाग ताङ्गळ् ऎदै निऩैक्किऱीर्गळो अदै ताङ्गळे ऎऩक्काग वरित्तुक्कॊळ्ळवुम्', ऎऩ्ऱु। अवऩुक्कु उत्तममाऩ हिदमाग उबदेसिक्कप्पडुम् पिराणऩ् परमात्मा इल्लामल् ऎप्पडियिरुक्कमुडियुम्? परमात्माविऩ् ञाऩत्तै तविर वेऱु इडत्तिल् उत्तममाऩ हिदम् अडैवदु किडैयादु ऎऩ्ऱु पिरसित्तम्, अवरैये अऱिन्दु मरणत्तैक् कडक्किऱाऩ्, (मोक्षत्तै) अडैवदऱ्कु वेऱुवऴि किडैयादु’ (सुवेदा ३-८) ऎऩ्बदु मुदलाऩ सुरुदिगळिऩाल्।
 </details>
 
+#### सर्व-कर्म-क्षयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा ‘स यो मां वेद न ह वै तस्य केन-च कर्मणा लोको मीयते न स्तेयेन न भ्रूणहत्यया’ (कौ. उ. ३। १) इत्य्-आदि च ब्रह्म-परिग्रहे घटते।
+तथा 
+
+> ‘स यो मां वेद  
+न ह वै तस्य केन च कर्मणा लोको मीयते  
+न स्तेयेन, न भ्रूणहत्यया’ (कौ. उ. ३। १) 
+
+इत्य्-आदि च ब्रह्म-परिग्रहे घटते।
 </details>
 
 <details><summary>Translation</summary>
 
-For, that subsequently to the cognition of Brahman all works and their effects entirely cease, is well known from scriptural passages, such as the following, 'All works perish when he has been beheld who is the higher and the lower' (Mu. Up. II, 2, 8).
+Again, the further passage, 'He who knows me thus by no deed of his is his life harmed, not by theft, not by bhrūṇahatyā' (III, 1), has a meaning only if Brahman is supposed to be the object of knowledge.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -470,7 +491,28 @@ For, that subsequently to the cognition of Brahman all works and their effects e
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म-विज्ञानेन हि सर्व-कर्म-क्षयः प्रसिद्धः — ‘क्षीयन्ते चास्य कर्माणि तस्मिन् दृष्टे परावरे’ इत्य्-आद्यासु श्रुतिषु।
+ब्रह्म-विज्ञानेन हि सर्व-कर्म-क्षयः प्रसिद्धः — 
+
+> ‘क्षीयन्ते चास्य कर्माणि  
+तस्मिन् दृष्टे परावरे’ 
+
+इत्य्-आद्यासु श्रुतिषु।
+</details>
+
+<details><summary>Translation</summary>
+
+For, that subsequently to the cognition of Brahman all works and their effects entirely cease, is well known from scriptural passages, such as the following, 'All works perish when he has been beheld who is the higher and the lower' (Mu. Up. II, 2, 8).
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मविज्ञानेन हि सर्वकर्मक्षयः प्रसिद्धः — ‘क्षीयन्ते चास्य कर्माणि तस्मिन्दृष्टे परावरे’ इत्याद्यासु श्रुतिषु।
+</details>
+
+#### प्रज्ञात्मता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रज्ञाऽऽत्मत्वं च ब्रह्म-पक्ष एवोपपद्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -480,12 +522,12 @@ Moreover, prāṇa can be identified with the intelligent Self only if it is Bra
 
 <details><summary>मूलम्</summary>
 
-ब्रह्मविज्ञानेन हि सर्वकर्मक्षयः प्रसिद्धः — ‘क्षीयन्ते चास्य कर्माणि तस्मिन्दृष्टे परावरे’ इत्याद्यासु श्रुतिषु।
+प्रज्ञात्मत्वं च ब्रह्मपक्ष एवोपपद्यते।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रज्ञात्मत्वं च ब्रह्म-पक्ष एवोपपद्यते।
+न ह्य् अ-चेतनस्य वायोः प्रज्ञाऽऽत्मत्वं सम्भवति।
 </details>
 
 <details><summary>Translation</summary>
@@ -495,32 +537,20 @@ For the air which is non-intelligent can clearly not be the intelligent Self.
 
 <details><summary>मूलम्</summary>
 
-प्रज्ञात्मत्वं च ब्रह्मपक्ष एवोपपद्यते।
+न ह्यचेतनस्य वायोः प्रज्ञात्मत्वं सम्भवति।
 </details>
 
+#### आनन्दोऽजरोऽमृतः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न ह्यचेतनस्य वायोः प्रज्ञात्मत्वं सम्भवति।
+तथोपसंहारेऽपि  
+‘आनन्दोऽजरोऽमृतः’ इत्य् आनन्दत्वादीनि  
+न ब्रह्मणो ऽन्यत्र सम्यक् सम्भवन्ति ।
 </details>
 
 <details><summary>Translation</summary>
 
 Those characteristic marks, again, which are mentioned in the concluding passage (viz. those intimated by the words 'bliss,' 'imperishable,' 'immortal') can, if taken in their full sense, not be reconciled with any being except Brahman.
-</details>
-
-<details><summary>मूलम्</summary>
-
-न ह्यचेतनस्य वायोः प्रज्ञात्मत्वं सम्भवति।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तथोपसंहारेऽपि ‘आनन्दोऽजरोऽमृतः’ इत्य् आनन्दत्वादीनि न ब्रह्मणो ऽन्यत्र सम्यक् सम्भवन्ति ।
-</details>
-
-<details><summary>Translation</summary>
-
-There are, moreover, the following passages, 'He does not increase by a good action, nor decrease by a bad action.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -538,14 +568,23 @@ There are, moreover, the following passages, 'He does not increase by a good act
 अऱिवै स्वरूबमायुडैय तऩ्मैयुम् पिरह्मम् ऎऩ्गिऱबक्षत्तिल्दाऩ् पॊरुत्तमागुम्। असेदऩमायुळ्ळ वायुविऱ्कु अऱिवै स्वरूबमायुडैय तऩ्मै सम्बविक्कादु अल्लवा? अप्पडिये मुडिविलुम् ‘आऩन्दम्, जरैयऱ्ऱदु, मरणमऱ्ऱदु’ ऎऩ्ऱु आऩन्दमायिरुक्कुम् तऩ्मै मुदलियवै पिरह्मत् तिऱ्कु वेऱायुळ्ळ इडत्तिल् सम्बविक्कादु।
 </details>
 
+#### कर्म-कारयिता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘स न साधुना कर्मणा भूयान्भवति नो एवासाधुना कर्मणा कनीयानेष ह्येव साधु कर्म कारयति तं यमेभ्यो लोकेभ्य उन्निनीषते।
+> ‘स न साधुना कर्मणा भूयान् भवति  
+नो एवासाधुना कर्मणा कनीयान्  
+एष ह्य् एव साधु कर्म कारयति  
+तं यम् एभ्यो लोकेभ्य उन्निनीषते।  
+एष उ एवासाधु कर्म कारयति  
+तं यम् एभ्यो लोकेभ्योऽधो निनीषते’ 
+
+इति, 
 </details>
 
 <details><summary>Translation</summary>
 
-For he makes him whom he wishes to lead up from these worlds do a good deed;
+There are, moreover, the following passages, 'He does not increase by a good action, nor decrease by a bad action.  
+For he makes him whom he wishes to lead up from these worlds do a good deed; and the same makes him whom he wishes to lead down from these worlds do a bad deed;' 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -553,24 +592,29 @@ For he makes him whom he wishes to lead up from these worlds do a good deed;
 ‘स न साधुना कर्मणा भूयान्भवति नो एवासाधुना कर्मणा कनीयानेष ह्येव साधु कर्म कारयति तं यमेभ्यो लोकेभ्य उन्निनीषते।
 </details>
 
+#### आधिपत्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एष उ एवासाधु कर्म कारयति तं यमेभ्यो लोकेभ्योऽधो निनीषते’ इति, ‘एष लोकाधिपतिर् एष लोकपाल एष लोकेशः’ (कौ. उ. ३। ९) इति च।
+> ‘एष लोकाधिपतिर् एष लोकपाल एष लोकेशः’ (कौ. उ. ३। ९) 
+
+इति च।
 </details>
 
 <details><summary>Translation</summary>
 
-and the same makes him whom he wishes to lead down from these worlds do a bad deed;' and, 'He is the guardian of the world, he is the king of the world, he is the Lord of the world' (Kau. Up. III, 8).
+and, 'He is the guardian of the world, he is the king of the world, he is the Lord of the world' (Kau. Up. III, 8).
 </details>
 
 <details><summary>मूलम्</summary>
 
-एष उ एवासाधु कर्म कारयति तं यमेभ्यो लोकेभ्योऽधो निनीषते’ इति, ‘एष लोकाधिपतिरेष लोकपाल एष लोकेशः’ (कौ. उ. ३। ९) इति च।
+‘एष लोकाधिपतिरेष लोकपाल एष लोकेशः’ (कौ. उ. ३। ९) इति च।
 </details>
 
+#### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वमेतत्-परस्मिन्ब्रह्मण्याश्रीयमाणेऽनुगन्तुं शक्यते, न मुख्ये प्राणे।
+सर्वम् एतत् परस्मिन् ब्रह्मण्य् आश्रीयमाणे ऽनुगन्तुं शक्यते,  
+न मुख्ये प्राणे।
 </details>
 
 <details><summary>Translation</summary>
@@ -603,9 +647,12 @@ Hence the word prāṇa denotes Brahman.
 'अवर् नल्ल कर्माविऩाल् पॆरियवरावदिल्लै, कॆट्ट कर्माविऩालुम् सिऱियवरावदिल्लै। ऎवऩै इन्द लोगङ्गळिलिरुन्दु मेले अऴैत्तुच् चॆल्ल निऩैक्किऱारो, अवऩै इवर्दाऩ् नल्ल कर्मावैच् चॆय्युम्बडि सॆय्गिऱार्। ऎवऩै इन्द लोगङ्गळि लिरुन्दु कीऴे अऴैत्तुच्चॆल्ल निऩैक्किऱारो, इवरेदाऩ् कॆट्ट कर्मावै सॆय्युम्बडिच् चॆय्गिऱार्' ऎऩ्ऱुम् ‘इवर् लोगङ्गळुक्कु अदिबदि, इवर् लोगङ्गळुक्कु ईसुवरर्' (कौषीदगी ३-८) ऎऩ्ऱुम् इदु ऎल्लाम् परबिरह्मत्तै ऎडुत्तुक्कॊण्डाल्दाऩ् ऒत्तुप्पोगमुडियुम्; मुक्कियमाऩ पिराणऩै ऎडुत्तुक् कॊण्डाल् मुडियादु। आगैयाल् 'पिराणऩ्' ऎऩ्बदु पिरह्मम्।
 </details>
 
+## इन्द्रेणात्मोपदेशः?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न वक्तुर् आत्मोपदेशाद् इति चेदध्यात्म-सम्बन्धभूमा ह्यस्मिन् ॥ २९ ॥  
+"न +++(ब्रह्म)+++ – वक्तुर् +++("प्राणो ऽस्मि प्रज्ञात्मा … त्वाष्ट्रम् अहनम्" →)+++ आत्मोपेदशाद्" – इति चेद्,  
+अध्यात्म-सम्बन्ध-भूमा ह्य् अस्मिन् +++(अध्याये)+++   
+ ॥ २९ ॥  
 </details>
 
 <details><summary>Translation</summary>
@@ -625,7 +672,9 @@ Hence the word prāṇa denotes Brahman.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्-उक्तं प्राणो ब्रह्मेति, तदाक्षिप्यते — न परं ब्रह्म प्राण-शब्दम्; कस्मात् ?
+यद्-उक्तं प्राणो ब्रह्मेति,  
+तद् आक्षिप्यते —  
+न परं ब्रह्म प्राण-शब्दम्; 
 </details>
 
 <details><summary>Translation</summary>
@@ -635,12 +684,12 @@ An objection is raised against the assertion that prāṇa denotes Brahman.
 
 <details><summary>मूलम्</summary>
 
-यदुक्तं प्राणो ब्रह्मेति, तदाक्षिप्यते — न परं ब्रह्म प्राणशब्दम्; कस्मात् ?
+यदुक्तं प्राणो ब्रह्मेति, तदाक्षिप्यते — न परं ब्रह्म प्राणशब्दम्; 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वक्तुर् आत्मोपदेशात्।
+कस्मात् ? वक्तुर् आत्मोपदेशात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -650,12 +699,17 @@ The word prāṇa, it is said, does not denote the highest Brahman, because the 
 
 <details><summary>मूलम्</summary>
 
-वक्तुरात्मोपदेशात्।
+कस्मात् ? वक्तुरात्मोपदेशात्।
 </details>
+
+### विग्रहवान् वक्ता?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वक्ता हीन्द्रो नाम कश्चिद् विग्रहवान् देवता-विशेषः स्वमात्मानं प्रतर्दनायाचचक्षे — ‘मामेव विजानीहि’ इत्य्-उपक्रम्य ‘प्राणो ऽस्मि प्रज्ञात्मा’ इत्य् अहंकार-वादेन।
+वक्ता हीन्द्रो नाम कश्चिद् विग्रहवान् देवता-विशेषः  
+स्वम् आत्मानं प्रतर्दनायाचचक्षे — 
+‘मामेव विजानीहि’ इत्य्-उपक्रम्य  
+‘प्राणो ऽस्मि प्रज्ञात्मा’ इत्य् अहंकार-वादेन।
 </details>
 
 <details><summary>Translation</summary>
@@ -670,7 +724,8 @@ The speaker, who is a certain powerful god called Indra, at first says, in order
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स एष वक्तुर् आत्मत्वेनोपदिश्यम् आनः प्राणः कथं ब्रह्म स्यात् ?
+स एष वक्तुर् आत्मत्वेनोपदिश्यमानः प्राणः  
+कथं ब्रह्म स्यात् ?
 </details>
 
 <details><summary>Translation</summary>
@@ -685,7 +740,8 @@ How, it is asked, can the prāṇa, which this latter passage, expressive of per
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि ब्रह्मणो वक्तृत्वं सम्भवति, ‘अवागमनाः’ (बृ. उ. ३। ८। ८) इत्यादि-श्रुतिभ्यः ।
+न हि ब्रह्मणो वक्तृत्वं सम्भवति,  
+‘अवाग् अमनाः’ (बृ. उ. ३। ८। ८) इत्य्-आदि-श्रुतिभ्यः ।
 </details>
 
 <details><summary>Translation</summary>
@@ -705,7 +761,13 @@ compare, for instance, Br̥. Up. III, 8, 8, 'It is without speech, without mind.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा विग्रहसम्बन्धिभिरेव ब्रह्मण्य-सम्भवद्भिर्धर्मैरात्मानं तुष्टाव — ‘त्रिशीर्षाणं त्वाष्ट्रमहनमरुन्मुखान्यतीन्सालावृकेभ्यः प्रायच्छम्’ इत्येवम् आदिभिः।
+तथा विग्रह-सम्बन्धिभिर् एव ब्रह्मण्य् अ-सम्भवद्भिर् धर्मैर्  
+आत्मानं तुष्टाव — 
+
+> ‘त्रिशीर्षाणं त्वाष्ट्रम् अहनम्  
+अरुन्-मुखान् यतीन् साला-वृकेभ्यः प्रायच्छम्’ 
+
+इत्य्-एवम्-आदिभिः।
 </details>
 
 <details><summary>Translation</summary>
@@ -718,9 +780,10 @@ Further on, also, the speaker, i.e. Indra, glorifies himself by enumerating a nu
 तथा विग्रहसम्बन्धिभिरेव ब्रह्मण्यसम्भवद्भिर्धर्मैरात्मानं तुष्टाव — ‘त्रिशीर्षाणं त्वाष्ट्रमहनमरुन्मुखान्यतीन्सालावृकेभ्यः प्रायच्छम्’ इत्येवमादिभिः।
 </details>
 
+### बलवत्त्वात् प्राणता?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राणत्वं चेन् द्रस्य बलवत्त्वादुपपद्यते।
+प्राणत्वं चेन्द्रस्य बलवत्त्वाद् उपपद्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -753,11 +816,6 @@ Scripture says, 'Strength indeed is prāṇa,' and Indra is known as the god of 
 बलस्य चेन्द्रो देवता प्रसिद्धा।
 </details>
 
-<details><summary>Translation</summary>
-
-and of any deed of strength people say, 'It is Indra's work.'
-</details>
-
 <details><summary>मूलम्</summary>
 
 बलस्य चेन्द्रो देवता प्रसिद्धा।
@@ -765,7 +823,27 @@ and of any deed of strength people say, 'It is Indra's work.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘या च काचिद्-बलकृतिः, इन्द्र-कर्मैव तत्’ इति हि वदन्ति।
+> ‘या च काचिद् बल-कृतिः,  
+इन्द्र-कर्मैव तत्’ 
+
+इति हि वदन्ति।
+</details>
+
+<details><summary>Translation</summary>
+
+and of any deed of strength people say, 'It is Indra's work.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘या च काचिद्बलकृतिः, इन्द्रकर्मैव तत्’ इति हि वदन्ति।
+</details>
+
+### परमात्मता?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रज्ञात्मत्वम् अप्य् अ-प्रतिहत-ज्ञानत्वाद्  
+देवतात्मनः सम्भवति।
 </details>
 
 <details><summary>Translation</summary>
@@ -775,12 +853,12 @@ The personal Self of a deity may, moreover, be called an intelligent Self;
 
 <details><summary>मूलम्</summary>
 
-‘या च काचिद्बलकृतिः, इन्द्रकर्मैव तत्’ इति हि वदन्ति।
+प्रज्ञात्मत्वमप्यप्रतिहतज्ञानत्वाद्देवतात्मनः सम्भवति।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रज्ञात्मत्वमप्य-प्रतिहतज्ञानत्वाद्देवतात्मनः सम्भवति।
+अप्-रतिहत-ज्ञाना देवता इति हि वदन्ति।
 </details>
 
 <details><summary>Translation</summary>
@@ -790,27 +868,19 @@ for the gods, people say, possess unobstructed knowledge.
 
 <details><summary>मूलम्</summary>
 
-प्रज्ञात्मत्वमप्यप्रतिहतज्ञानत्वाद्देवतात्मनः सम्भवति।
+अप्रतिहतज्ञाना देवता इति हि वदन्ति।
 </details>
 
+### हिततमता?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप्रतिहतज्ञाना देवता इति हि वदन्ति।
+निश्चिते चैवं देवतात्मोपदेशे  
+हिततमत्वादि-वचनानि यथा-सम्भवं तद्-विषयाण्य् एव योजयितव्यानि ।
 </details>
 
 <details><summary>Translation</summary>
 
 It thus being a settled matter that some passages convey information about the personal Self of some deity, the other passages also--as, for instance, the one about what is most beneficial for man--must be interpreted as well as they may with reference to the same deity.
-</details>
-
-<details><summary>मूलम्</summary>
-
-अप्रतिहतज्ञाना देवता इति हि वदन्ति।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-निश्चिते चैवं देवतात्मोपदेशे हिततमत्वा-दिव-चनानि यथासम्भवं तद्-विषयाण्येव योजयितव्यानि ।
 </details>
 
 <details><summary>Translation</summary>
@@ -830,7 +900,20 @@ Hence prāṇa does not denote Brahman.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माद्वक्तुरिन्द्रस्यात्मोपदेशात् न प्राणो ब्रह्मेत्याक्षिप्य प्रतिसमाधीयते — ‘अध्यात्म-सम्बन्धभूमा ह्यस्मिन्’ इति।
+तस्माद् वक्तुर् इन्द्रस्यात्मोपदेशात्  
+न प्राणो ब्रह्म
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्माद्वक्तुरिन्द्रस्यात्मोपदेशात् न प्राणो ब्रह्म 
+</details>
+
+### अध्यात्म-सम्बन्ध-भूमा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य् आक्षिप्य प्रतिसमाधीयते —  
+‘अध्यात्म-सम्बन्ध-भूमा ह्यस्मिन्’ इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -840,12 +923,30 @@ This objection we refute by the remark that in that chapter there are found a mu
 
 <details><summary>मूलम्</summary>
 
-तस्माद्वक्तुरिन्द्रस्यात्मोपदेशात् न प्राणो ब्रह्मेत्याक्षिप्य प्रतिसमाधीयते — ‘अध्यात्मसम्बन्धभूमा ह्यस्मिन्’ इति।
+इत्याक्षिप्य प्रतिसमाधीयते — ‘अध्यात्मसम्बन्धभूमा ह्यस्मिन्’ इति।
 </details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अध्यात्म-सम्बन्धः प्रत्य्-अगात्म् असम्बन्धः, तस्य भूमा बाहुल्यम् , अस्मिन्न् अध्याये उपलभ्यते।
+**अध्यात्म-सम्बन्धः** प्रत्यग्-आत्म-सम्बन्धः,  
+तस्य **भूमा** बाहुल्यम् ,  
+अस्मिन्न् अध्याये उपलभ्यते।
+</details>
+
+<details><summary>मूलम्</summary>
+
+अध्यात्मसम्बन्धः प्रत्यगात्मसम्बन्धः, तस्य भूमा बाहुल्यम् , अस्मिन्नध्याये उपलभ्यते।
+</details>
+
+#### प्राण-स्वातन्त्र्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘यावद् ध्य् अस्मिञ् शरीरे प्राणो वसति  
+तावद् आयुः’ 
+
+इति प्राणस्यैव प्रज्ञात्मनः प्रत्यग्-भूतस्यायुष्-प्रदानोपसंहारयोः स्वातन्त्र्यं दर्शयति,  
+न देवता-विशेषस्य पराचीनस्य।
 </details>
 
 <details><summary>Translation</summary>
@@ -855,12 +956,17 @@ For the passage, 'As long as prāṇa dwells in this body so long surely there i
 
 <details><summary>मूलम्</summary>
 
-अध्यात्मसम्बन्धः प्रत्यगात्मसम्बन्धः, तस्य भूमा बाहुल्यम् , अस्मिन्नध्याये उपलभ्यते।
+‘यावद्ध्यस्मिञ्शरीरे प्राणो वसति तावदायुः’ इति प्राणस्यैव प्रज्ञात्मनः प्रत्यग्भूतस्यायुष्प्रदानोपसंहारयोः स्वातन्त्र्यं दर्शयति, न देवताविशेषस्य पराचीनस्य।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘यावद्-ध्यस्मिञ्शरीरे प्राणो वसति तावद् आयुः’ इति प्राणस्यैव प्रज्ञात्मनः प्रत्यग्-भूतस्यायुष् प्रदानोपसंहारयोः स्वातन्त्र्यं दर्शयति, न देवताविशेषस्य पराचीनस्य।
+तथा  
+
+> अस्ति त्व् एव+++(~~च~~)+++  
+प्राणानां निःश्रेयसम्  
+
+इत्य् अध्यात्मम् एवेन्द्रियाश्रयं प्राणं दर्शयति ।
 </details>
 
 <details><summary>Translation</summary>
@@ -871,21 +977,6 @@ And where the text speaks of the eminence of the prāṇas as founded on the exi
 <details><summary>Translation - Notes</summary>
 
 [^fn_133]: 100:1 The text runs, 'astitve ca prāṇānāṁ niḥśreyasam,' and Go. Ān. explains 'astitve prāṇasthitau prāṇānāṁ indriyāṇām sthitir ity arthataḥ śrutim āha.' He as well as Ān. Gi. quotes as the text of the scriptural passage referred to 'athāto niḥśreyasādānam ity ādi.' But if instead of 'astitve ca' we read 'asti tv eva,' we get the concluding clause of Kau. Up. III, 2, as given in Cowell's edition.
-</details>
-
-<details><summary>मूलम्</summary>
-
-‘यावद्ध्यस्मिञ्शरीरे प्राणो वसति तावदायुः’ इति प्राणस्यैव प्रज्ञात्मनः प्रत्यग्भूतस्यायुष्प्रदानोपसंहारयोः स्वातन्त्र्यं दर्शयति, न देवताविशेषस्य पराचीनस्य।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तथास्तित्वे च प्राणानां निःश्रेयसम् इत्य् अध्यात्मम् एवेन्द्रियाश्रयं प्राणं दर्शयति ।
-</details>
-
-<details><summary>Translation</summary>
-
-Of the same tendency is the passage, 'Prāṇa, the intelligent Self, alone having laid hold of this body makes it rise up;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -905,12 +996,16 @@ Of the same tendency is the passage, 'Prāṇa, the intelligent Self, alone havi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा ‘प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्थापयति’ (कौ. उ. ३। ३) इति।
+तथा 
+
+> ‘प्राण एव प्रज्ञाऽऽत्मेदं शरीरं परिगृह्योत्थापयति’ (कौ. उ. ३। ३) 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
 
-' and the passage (which occurs in the passus, 'Let no man try to find out what speech is,' &c.), 'For as in a car the circumference of the wheel is set on the spokes and the spokes on the nave, thus are these objects set on the subjects (the senses) and the subjects on the prāṇa.
+Of the same tendency is the passage, 'Prāṇa, the intelligent Self, alone having laid hold of this body makes it rise up;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -921,6 +1016,11 @@ Of the same tendency is the passage, 'Prāṇa, the intelligent Self, alone havi
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘न वाचं विजि-ज्ञासीत वक्तारं विद्यात्’ इति चोपक्रम्य ‘तद् यथा रथस्यारेषु नेमिरर्पिता नाभावरा अर्पिता एवमेवैता भूतमात्राः प्रज्ञा-मात्रास्वर्पिताः प्रज्ञामात्राः प्राणेऽर्पिताः स एष प्राण एव प्रज्ञात्मानन्दोऽजरोऽमृतः’ इति विषयेन्द्रिय-व्यवहारार-नाभिभूतं प्रत्यगात्मानमेवोपसंहरति।
+</details>
+
+<details><summary>Translation</summary>
+
+' and the passage (which occurs in the passus, 'Let no man try to find out what speech is,' &c.), 'For as in a car the circumference of the wheel is set on the spokes and the spokes on the nave, thus are these objects set on the subjects (the senses) and the subjects on the prāṇa.
 </details>
 
 <details><summary>Translation</summary>
@@ -1093,11 +1193,6 @@ The assertion made above (in the pūrvapaksha of the preceding Sūtra) that Indr
 कथं तर्हि ?
 </details>
 
-<details><summary>Translation</summary>
-
-The death of Tvash_tri_'s son and similar deeds are referred to, not to the end of glorifying Indra as the object of knowledge--in which case the sense of the passage would be, 'Because I accomplished such and such deeds, therefore know me'--but to the end of glorifying the cognition of the highest Self.
-</details>
-
 <details><summary>मूलम्</summary>
 
 कथं तर्हि ?
@@ -1106,6 +1201,11 @@ The death of Tvash_tri_'s son and similar deeds are referred to, not to the end 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विज्ञानस्तुत्यर्थत्वेन; यत्-कारणं त्वाष्ट्र-वधादीनि साह-सान् युप न्यस्य परेण विज्ञानस्तुति-मनुसन्दधाति — ‘तस्य मे तत्र लोम च न मीयते स यो मां वेद न ह वै तस्य केन च कर्मणा लोको मीयते’ इत्य्-आदिना ।
+</details>
+
+<details><summary>Translation</summary>
+
+The death of Tvash_tri_'s son and similar deeds are referred to, not to the end of glorifying Indra as the object of knowledge--in which case the sense of the passage would be, 'Because I accomplished such and such deeds, therefore know me'--but to the end of glorifying the cognition of the highest Self.
 </details>
 
 <details><summary>Translation</summary>
@@ -1255,11 +1355,6 @@ The passage, 'Let no man try to find out what speech is, let him know the speake
 अत्र हि वागादिभिः करणैर् व्यापृतस्य कार्य-करणा-ध्यक्षस्य जीवस्य विज्ञेयत्वमभिधीयते।
 </details>
 
-<details><summary>Translation</summary>
-
-On the other hand, we have the passage, 'But prāṇa alone, the intelligent Self, having laid hold of this body makes it rise up,' which points to the chief vital air; for the chief attribute of the vital air is that it sustains the body.
-</details>
-
 <details><summary>मूलम्</summary>
 
 अत्र हि वागादिभिः करणैर्व्यापृतस्य कार्यकरणाध्यक्षस्य जीवस्य विज्ञेयत्वमभिधीयते।
@@ -1272,7 +1367,7 @@ On the other hand, we have the passage, 'But prāṇa alone, the intelligent Sel
 
 <details><summary>Translation</summary>
 
-Similarly, we read in the colloquy of the vital airs (Pra. Up. II, 3), concerning speech and the other vital airs, 'Then prāṇa (the chief vital air) as the best said to them: Be not deceived; I alone dividing myself fivefold support this body and keep it.'
+On the other hand, we have the passage, 'But prāṇa alone, the intelligent Self, having laid hold of this body makes it rise up,' which points to the chief vital air; for the chief attribute of the vital air is that it sustains the body.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1287,12 +1382,7 @@ Similarly, we read in the colloquy of the vital airs (Pra. Up. II, 3), concernin
 
 <details><summary>Translation</summary>
 
-Those, again, who in the passage quoted above read 'this one (masc.), the body [^fn_136]' must give the following explanation, Prāṇa having laid hold of this one, viz. either the individual soul or the aggregate of the sense organs, makes the body rise up.
-</details>
-
-<details><summary>Translation - Notes</summary>
-
-[^fn_136]: 103:1 Imaṁ śarīram instead of idaṁ śarīram
+Similarly, we read in the colloquy of the vital airs (Pra. Up. II, 3), concerning speech and the other vital airs, 'Then prāṇa (the chief vital air) as the best said to them: Be not deceived; I alone dividing myself fivefold support this body and keep it.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1307,7 +1397,12 @@ Those, again, who in the passage quoted above read 'this one (masc.), the body [
 
 <details><summary>Translation</summary>
 
-The individual soul as well as the chief vital air may justly be designated as the intelligent Self; for the former is of the nature of intelligence, and the latter (although non-intelligent in itself) is the abode of other prāṇas, viz. the sense organs, which are the instruments of intelligence.
+Those, again, who in the passage quoted above read 'this one (masc.), the body [^fn_136]' must give the following explanation, Prāṇa having laid hold of this one, viz. either the individual soul or the aggregate of the sense organs, makes the body rise up.
+</details>
+
+<details><summary>Translation - Notes</summary>
+
+[^fn_136]: 103:1 Imaṁ śarīram instead of idaṁ śarīram
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1332,7 +1427,7 @@ The individual soul as well as the chief vital air may justly be designated as t
 
 <details><summary>Translation</summary>
 
-Moreover, if the word prāṇa be taken to denote the individual soul as well as the chief vital air, the prāṇa and the intelligent Self may be spoken of in two ways, either as being non-different on account of their mutual concomitance, or as being different on account of their (essentially different) individual character; and in these two different ways they are actually spoken of in the two following passages, 'What is prāṇa that is prajñā, what is prajñā that is prāṇa;' and, 'For together do these two live in the body and together do they depart.'
+The individual soul as well as the chief vital air may justly be designated as the intelligent Self; for the former is of the nature of intelligence, and the latter (although non-intelligent in itself) is the abode of other prāṇas, viz. the sense organs, which are the instruments of intelligence.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1343,11 +1438,6 @@ Moreover, if the word prāṇa be taken to denote the individual soul as well as
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुख्येऽपि प्राणे प्रज्ञासाधन-प्राणान्तराश्रयत्वादुपपन्नमेव।
-</details>
-
-<details><summary>Translation</summary>
-
-If, on the other hand, prāṇa denoted Brahman, what then could be different from what?
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1362,7 +1452,7 @@ If, on the other hand, prāṇa denoted Brahman, what then could be different fr
 
 <details><summary>Translation</summary>
 
-For these reasons prāṇa does not denote Brahman, but either the individual soul or the chief vital air or both.
+Moreover, if the word prāṇa be taken to denote the individual soul as well as the chief vital air, the prāṇa and the intelligent Self may be spoken of in two ways, either as being non-different on account of their mutual concomitance, or as being different on account of their (essentially different) individual character; and in these two different ways they are actually spoken of in the two following passages, 'What is prāṇa that is prajñā, what is prajñā that is prāṇa;' and, 'For together do these two live in the body and together do they depart.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1377,7 +1467,7 @@ For these reasons prāṇa does not denote Brahman, but either the individual so
 
 <details><summary>Translation</summary>
 
-All this argumentation, we reply, is wrong, 'on account of the threefoldness of devout meditation.'
+If, on the other hand, prāṇa denoted Brahman, what then could be different from what?
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1392,7 +1482,7 @@ All this argumentation, we reply, is wrong, 'on account of the threefoldness of 
 
 <details><summary>Translation</summary>
 
-Your interpretation would involve the assumption of devout meditation of three different kinds, viz. on the individual soul, on the chief vital air, and on Brahman.
+For these reasons prāṇa does not denote Brahman, but either the individual soul or the chief vital air or both.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1417,7 +1507,7 @@ Your interpretation would involve the assumption of devout meditation of three d
 
 <details><summary>Translation</summary>
 
-But it is inappropriate to assume that a single sentence should enjoin three kinds of devout meditation;
+All this argumentation, we reply, is wrong, 'on account of the threefoldness of devout meditation.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1428,11 +1518,6 @@ But it is inappropriate to assume that a single sentence should enjoin three kin
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपासा-त्रैविध्यात्।
-</details>
-
-<details><summary>Translation</summary>
-
-and that all the passages about the prāṇa really constitute one single sentence (one syntactical whole) appears from the beginning and the concluding part.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1447,7 +1532,7 @@ and that all the passages about the prāṇa really constitute one single senten
 
 <details><summary>Translation</summary>
 
-In the beginning we have the clause 'Know me only,' followed by 'I am prāṇa, the intelligent Self, meditate on me as Life, as Immortality;
+Your interpretation would involve the assumption of devout meditation of three different kinds, viz. on the individual soul, on the chief vital air, and on Brahman.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1462,7 +1547,7 @@ In the beginning we have the clause 'Know me only,' followed by 'I am prāṇa, 
 
 <details><summary>Translation</summary>
 
-' and in the end we read, 'And that prāṇa indeed is the intelligent Self, blessed, imperishable, immortal.'
+But it is inappropriate to assume that a single sentence should enjoin three kinds of devout meditation;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1477,7 +1562,7 @@ In the beginning we have the clause 'Know me only,' followed by 'I am prāṇa, 
 
 <details><summary>Translation</summary>
 
-The beginning and the concluding part are thus seen to be similar, and we therefore must conclude that they refer to one and the same matter.
+and that all the passages about the prāṇa really constitute one single sentence (one syntactical whole) appears from the beginning and the concluding part.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1492,12 +1577,12 @@ The beginning and the concluding part are thus seen to be similar, and we theref
 
 <details><summary>Translation</summary>
 
-Nor can the characteristic mark of Brahman be so turned as to be applied to something else; for the ten objects and the ten subjects (subjective powers) [^fn_137]cannot rest on anything but Brahman.
+In the beginning we have the clause 'Know me only,' followed by 'I am prāṇa, the intelligent Self, meditate on me as Life, as Immortality;
 </details>
 
-<details><summary>Translation - Notes</summary>
+<details><summary>Translation</summary>
 
-[^fn_137]: 104:1 Pañca śabdādayaḥ pañca pr̥thivyādayaś ca daśa bhūtamātrāḥ pañca buddhīndriyāṇi pañca buddhaya iti daśa prajñāmātrāḥ. Yadvā jñānendriyārthāḥ pañca karmendriyārthāś ca pañceti daśa bhūtamātrāḥ dvividhānīndriyāṇi prajñāmātrā daśeti bhāvaḥ. Ān. Gi.
+' and in the end we read, 'And that prāṇa indeed is the intelligent Self, blessed, imperishable, immortal.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1512,7 +1597,7 @@ Nor can the characteristic mark of Brahman be so turned as to be applied to some
 
 <details><summary>Translation</summary>
 
-Moreover, prāṇa must denote Brahman 'on account of (that meaning) being accepted,' i.e. because in the case of other passages where characteristic marks of Brahman are mentioned the word prāṇa is taken in the sense of 'Brahman.'
+The beginning and the concluding part are thus seen to be similar, and we therefore must conclude that they refer to one and the same matter.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1532,7 +1617,12 @@ Moreover, prāṇa must denote Brahman 'on account of (that meaning) being accep
 
 <details><summary>Translation</summary>
 
-And another reason for assuming the passage to refer to Brahman is that here also, i.e. in the passage itself there is 'connexion' with characteristic marks of Brahman, as, for instance, the reference to what is most beneficial for man.
+Nor can the characteristic mark of Brahman be so turned as to be applied to something else; for the ten objects and the ten subjects (subjective powers) [^fn_137]cannot rest on anything but Brahman.
+</details>
+
+<details><summary>Translation - Notes</summary>
+
+[^fn_137]: 104:1 Pañca śabdādayaḥ pañca pr̥thivyādayaś ca daśa bhūtamātrāḥ pañca buddhīndriyāṇi pañca buddhaya iti daśa prajñāmātrāḥ. Yadvā jñānendriyārthāḥ pañca karmendriyārthāś ca pañceti daśa bhūtamātrāḥ dvividhānīndriyāṇi prajñāmātrā daśeti bhāvaḥ. Ān. Gi.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1547,7 +1637,12 @@ And another reason for assuming the passage to refer to Brahman is that here als
 
 <details><summary>Translation</summary>
 
-The assertion that the passage, 'Having laid hold of this body it makes it rise up,' contains a characteristic mark of the chief vital air, is untrue; for as the function of the vital air also ultimately rests on Brahman it can figuratively be ascribed to the latter.
+Moreover, prāṇa must denote Brahman 'on account of (that meaning) being accepted,' i.e. because in the case of other passages where characteristic marks of Brahman are mentioned the word prāṇa is taken in the sense of 'Brahman.'
+</details>
+
+<details><summary>Translation</summary>
+
+And another reason for assuming the passage to refer to Brahman is that here also, i.e. in the passage itself there is 'connexion' with characteristic marks of Brahman, as, for instance, the reference to what is most beneficial for man.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1558,6 +1653,11 @@ The assertion that the passage, 'Having laid hold of this body it makes it rise 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्तु मुख्य-प्राणलिङ्गं दर्शितम् — ‘इदं शरीरं परिगृह्योत्थापयति’ इति, तद् असत्; प्राण-व्यापारस्यापि परमात्मायत्तत्वात्परमात्मन्युपचरितुं शक्यत्वात् — ‘न प्राणेन नापानेन मर्त्यो जीवति कश्चन।
+</details>
+
+<details><summary>Translation</summary>
+
+The assertion that the passage, 'Having laid hold of this body it makes it rise up,' contains a characteristic mark of the chief vital air, is untrue; for as the function of the vital air also ultimately rests on Brahman it can figuratively be ascribed to the latter.
 </details>
 
 <details><summary>Translation</summary>
@@ -1635,11 +1735,6 @@ For, as the passages, 'I am Brahman,' 'That art thou,' and others, prove, there 
 बुद्ध्याद्युपाधिकृतं तु विशेषम् आश्रित्य ब्रह्मैव सन् जीवः कर्ता भोक्ता चेत्युच्यते।
 </details>
 
-<details><summary>Translation</summary>
-
-Such passages therefore as the one alluded to, (viz. 'let no man try to find out what speech is, let him know the speaker,') which, by setting aside all the differences due to limiting conditions, aim at directing the mind on the internal Self and thus showing that the individual soul is one with Brahman, are by no means out of place.
-</details>
-
 <details><summary>मूलम्</summary>
 
 बुद्ध्याद्युपाधिकृतं तु विशेषमाश्रित्य ब्रह्मैव सन् जीवः कर्ता भोक्ता चेत्युच्यते।
@@ -1652,7 +1747,7 @@ Such passages therefore as the one alluded to, (viz. 'let no man try to find out
 
 <details><summary>Translation</summary>
 
-That the Self which is active in speaking and the like is Brahman appears from another scriptural passage also, viz. Ke. Up. I, 5, 'That which is not expressed by speech and by which speech is expressed that alone know as Brahman, not that which people here adore.'
+Such passages therefore as the one alluded to, (viz. 'let no man try to find out what speech is, let him know the speaker,') which, by setting aside all the differences due to limiting conditions, aim at directing the mind on the internal Self and thus showing that the individual soul is one with Brahman, are by no means out of place.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1667,7 +1762,7 @@ That the Self which is active in speaking and the like is Brahman appears from a
 
 <details><summary>Translation</summary>
 
-The remark that the statement about the difference of prāṇa and prajñā (contained in the passage, 'Together they dwell in this body, together they depart') does not agree with that interpretation according to which prāṇa is Brahman, is without force; for the mind and the vital air which are the respective abodes of the two powers of cognition and action, and constitute the limiting conditions of the internal Self may be spoken of as different.
+That the Self which is active in speaking and the like is Brahman appears from another scriptural passage also, viz. Ke. Up. I, 5, 'That which is not expressed by speech and by which speech is expressed that alone know as Brahman, not that which people here adore.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1678,11 +1773,6 @@ The remark that the statement about the difference of prāṇa and prajñā (con
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदेव ब्रह्म त्वं विद्धि नेदं यद् इदम् उपासते’ (के. उ. १। ५) इत्य्-आदि च श्रुत्य्-अन्तरं वचनादि-क्रियाव्यापृतस्यैवात्मनो ब्रह्मत्वं दर्शयति ।
-</details>
-
-<details><summary>Translation</summary>
-
-The internal Self, on the other hand, which is limited by those two adjuncts, is in itself non-differentiated, so that the two may be identified, as is done in the passage 'prāṇa is prajñā.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1702,12 +1792,7 @@ The internal Self, on the other hand, which is limited by those two adjuncts, is
 
 <details><summary>Translation</summary>
 
-The second part of the Sūtra is explained in a different manner also [^fn_138], as follows: Characteristic marks of the individual soul as well as of the chief vital air are not out of place even in a chapter whose topic is Brahman.
-</details>
-
-<details><summary>Translation - Notes</summary>
-
-[^fn_138]: 105:1 Viz. by the vr̥ttikāra.
+The remark that the statement about the difference of prāṇa and prajñā (contained in the passage, 'Together they dwell in this body, together they depart') does not agree with that interpretation according to which prāṇa is Brahman, is without force; for the mind and the vital air which are the respective abodes of the two powers of cognition and action, and constitute the limiting conditions of the internal Self may be spoken of as different.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1722,7 +1807,7 @@ The second part of the Sūtra is explained in a different manner also [^fn_138],
 
 <details><summary>Translation</summary>
 
-How so?
+The internal Self, on the other hand, which is limited by those two adjuncts, is in itself non-differentiated, so that the two may be identified, as is done in the passage 'prāṇa is prajñā.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1742,7 +1827,12 @@ How so?
 
 <details><summary>Translation</summary>
 
-'On account of the threefoldness of devout meditation.'
+The second part of the Sūtra is explained in a different manner also [^fn_138], as follows: Characteristic marks of the individual soul as well as of the chief vital air are not out of place even in a chapter whose topic is Brahman.
+</details>
+
+<details><summary>Translation - Notes</summary>
+
+[^fn_138]: 105:1 Viz. by the vr̥ttikāra.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1757,7 +1847,7 @@ How so?
 
 <details><summary>Translation</summary>
 
-The chapter aims at enjoining three kinds of devout meditation on Brahman, according as Brahman is viewed under the aspect of prāṇa, under the aspect of prajñā, and in itself.
+How so?
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1772,7 +1862,7 @@ The chapter aims at enjoining three kinds of devout meditation on Brahman, accor
 
 <details><summary>Translation</summary>
 
-The passages, 'Meditate (on me) as life, as immortality.
+'On account of the threefoldness of devout meditation.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1787,7 +1877,7 @@ The passages, 'Meditate (on me) as life, as immortality.
 
 <details><summary>Translation</summary>
 
-Life is prāṇa,' and 'Having laid hold of this body it makes it rise up.
+The chapter aims at enjoining three kinds of devout meditation on Brahman, according as Brahman is viewed under the aspect of prāṇa, under the aspect of prajñā, and in itself.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1798,6 +1888,16 @@ Life is prāṇa,' and 'Having laid hold of this body it makes it rise up.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र ‘आयुरमृतमित्युपास्स्वायुः प्राणः’ इति ‘इदं शरीरं परिगृह्योत्थापयति’ इति ‘तस्माद् एतदेवोक्थम् उपासीत’ इति च प्राण-धर्मः।
+</details>
+
+<details><summary>Translation</summary>
+
+The passages, 'Meditate (on me) as life, as immortality.
+</details>
+
+<details><summary>Translation</summary>
+
+Life is prāṇa,' and 'Having laid hold of this body it makes it rise up.
 </details>
 
 <details><summary>Translation</summary>
@@ -1865,11 +1965,6 @@ If there were no objects there would be no subjects; and if there were no subjec
 यद् धि प्रज्ञामात्रा न स्युर् न भूतमात्राः स्युः।
 </details>
 
-<details><summary>Translation</summary>
-
-For on either side alone nothing could be achieved.
-</details>
-
 <details><summary>मूलम्</summary>
 
 यद्धि प्रज्ञामात्रा न स्युर्न भूतमात्राः स्युः।
@@ -1882,7 +1977,7 @@ For on either side alone nothing could be achieved.
 
 <details><summary>Translation</summary>
 
-But that is not many.
+For on either side alone nothing could be achieved.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1897,7 +1992,7 @@ But that is not many.
 
 <details><summary>Translation</summary>
 
-For as in a car the circumference of the wheel is set on the spokes and the spokes on the nave, thus are these objects set on the subjects and the subjects on the prāṇa.'
+But that is not many.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1912,7 +2007,7 @@ For as in a car the circumference of the wheel is set on the spokes and the spok
 
 <details><summary>Translation</summary>
 
-Thus we see that the one meditation on Brahman is here represented as threefold, according as Brahman is viewed either with reference to two limiting conditions or in itself.
+For as in a car the circumference of the wheel is set on the spokes and the spokes on the nave, thus are these objects set on the subjects and the subjects on the prāṇa.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1927,7 +2022,7 @@ Thus we see that the one meditation on Brahman is here represented as threefold,
 
 <details><summary>Translation</summary>
 
-In other passages also we find that devout meditation on Brahman is made dependent on Brahman being qualified by limiting adjuncts; so, for instance (Cḥ. Up. III, 14, 2), 'He who consists of mind, whose body is prāṇa.'
+Thus we see that the one meditation on Brahman is here represented as threefold, according as Brahman is viewed either with reference to two limiting conditions or in itself.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1938,6 +2033,11 @@ In other passages also we find that devout meditation on Brahman is made depende
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्यत्रापि ‘मनोमयः प्राण-शरीरः’ (छा. उ. ३। १४। २) इत्यादावुपाधि-धर्मेण ब्रह्मण उपासनम् आश्रितम्; इहापि तद् युज्यते वाक्यस्योपक्रमोपसंहाराभ्यामेकार्थत्वावगमात् प्राण-प्रज्ञाब्रह्मलिङ्गावगमाच्च।
+</details>
+
+<details><summary>Translation</summary>
+
+In other passages also we find that devout meditation on Brahman is made dependent on Brahman being qualified by limiting adjuncts; so, for instance (Cḥ. Up. III, 14, 2), 'He who consists of mind, whose body is prāṇa.'
 </details>
 
 <details><summary>Translation</summary>
@@ -1994,6 +2094,7 @@ It therefore remains a settled conclusion that Brahman is the topic of the whole
 
 <details><summary>Appendix</summary>
 
+- Translation blocks were re-aligned to the Sanskrit sentences they translate; the G-number references below describe the pre-fix grouping.
 - 24 bare Sanskrit paragraphs (lines 28,50,57,64,76,83,89,96,103,115,127,134,140,147,154,161,164,176,188,195,212,219,226,233) -> 114 groups (G0 header sutra duplicate +113 body: 32+1+23+1+8+1+47). 37 Tamil blocks in body preserved (38 total incl header). Header lines 1-16 untouched. Bare-Tamil line 162 preserved verbatim. Colophon 250-255 preserved verbatim.
 - G0: SA duplicate `प्राणस्तथानुगमात् ॥ २८ ॥  ` (header line 6 verbatim, trailing spaces preserved) + EN sutra28. No Tamil (header Tamil preserved). Thibaut sutra-first, SA sutra-first agree; EN28-sutra placed immediately after header for sequential match.
 - Groupings to preserve verbatim sequential match (SA units intact, EN split, no split inside refs): 28 section 32 SA vs 27 EN -> +5 (G7-G8 But 1->2 at "," before and-as-here-also; G10-G12 For-in 1->3 at 2x";" outside refs; G18-G19 At-beginning 1->2 at "," before quote; G29-G30 For-he 1->2 at ";"); 29 section 23 vs 19 -> +4 (G37-G38 How 1->2, G41-G42 Scripture 1->2, G43-G44 Personal 1->2, G50-G51 Of-same 1->2, all at ";" outside refs); 30 section 8 vs 8 -> 1-1, no splits; 31 section 47 vs 45 -> +2 (G80-G81 But-inappropriate 1->2, G82-G83 In-beginning 1->2, both at ";" outside refs). All other groups 1-1. No split inside (कौ. उ. ३। १), (Kau. Up. III, 1), (Pra. Up. II, 3), (Br. Up. II, 5, 19), (Ka. Up. II, 5, 5).
