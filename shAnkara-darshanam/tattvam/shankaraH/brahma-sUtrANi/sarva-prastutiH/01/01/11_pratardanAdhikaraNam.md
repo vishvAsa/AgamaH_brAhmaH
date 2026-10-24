@@ -9,6 +9,8 @@ title = "११ प्रतर्दनाधिकरणम्"
 अन्येषामन्यथासिद्धेर्व्युत्पाद्यं ब्रह्म नेतरत् ॥ २८ ॥  
 --वैयासिकन्यायमाला
 
+## सङ्गतिः
+### इन्द्रोपदेशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(इद्र-प्रतर्दन-संवादे ब्रह्म हि)+++ प्राणस् – +++("प्राण एव प्रज्ञात्मा ऽऽनन्दो ऽजरो ऽमृतः"→)+++ तथा ऽनुगमात् ॥ २८ ॥  
@@ -36,7 +38,13 @@ title = "११ प्रतर्दनाधिकरणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्ति कौषीतकिब्राह्मणोपनिषदीन्द्र-प्रतर्दनाख्यायिका — ‘प्रतर्दनो ह वै दैवोदासिरिन्द्रस्य प्रियं धामोपजगाम युद्धेन च पौरुषेण च’ (कौ. उ. ३। १) इत्यारभ्याम्नाता।
+अस्ति कौषीतकि-ब्राह्मणोपनिषदि +इन्द्र-प्रतर्दनाख्यायिका —  
+
+> ‘प्रतर्दनो ह वै दैवोदासिर्  
+इन्द्रस्य प्रियं धामोपजगाम  
+युद्धेन च पौरुषेण च’ (कौ. उ. ३। १) 
+
+इत्य् आरभ्याम्नाता।
 </details>
 
 <details><summary>Translation</summary>
@@ -51,7 +59,13 @@ In the Kaushītaki-brāhmaṇa-upanishad there is recorded a legend of Indra and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्यां श्रूयते — ‘स होवाच प्राणो ऽस्मि प्रज्ञात्मा तं मामायुरमृतमित्युपास्स्व’ (कौ. उ. ३। २) इति।
+तस्यां श्रूयते — 
+
+> ‘स होवाच –  
+प्राणो ऽस्मि प्रज्ञात्मा  
+तं माम् आयुर्, अमृतम् इत्य् उपास्स्व’ (कौ. उ. ३। २) 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -66,7 +80,11 @@ In this legend we read: 'He said: I am prāṇa, the intelligent Self (prajñāt
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथोत्तरत्रापि — ‘अथ खलु प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्थापयति’ (कौ. उ. ३। ३) इति।
+तथोत्तरत्रापि — 
+
+> ‘अथ खलु प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्थापयति’ (कौ. उ. ३। ३) 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -81,7 +99,7 @@ And later on (III, 3), 'Prāṇa alone, the intelligent Self, having laid hold o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा ‘न वाचं विजि-ज्ञासीत वक्तारं विद्यात्’ इति।
+तथा ‘न वाचं विजिज्ञासीत वक्तारं विद्यात्’ इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -96,7 +114,11 @@ Then, again (III, 8), 'Let no man try to find out what speech is, let him know t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्ते च ‘स एष प्राण एव प्रज्ञात्मानन्दोऽजरोऽमृतः’ (कौ. उ. ३। ९) इत्य्-आदि।
+अन्ते च 
+
+> ‘स एष प्राण एव प्रज्ञाऽऽत्माऽऽनन्दोऽजरोऽमृतः’ (कौ. उ. ३। ९) 
+
+इत्य्-आदि।
 </details>
 
 <details><summary>Translation</summary>
@@ -109,9 +131,10 @@ And in the end (III, 8), 'That breath indeed is the intelligent Self, bliss, imp
 अन्ते च ‘स एष प्राण एव प्रज्ञात्मानन्दोऽजरोऽमृतः’ (कौ. उ. ३। ९) इत्यादि।
 </details>
 
+### संशयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र संशयः — किम् इह प्राण-शब्देन वायुमात्रमभिधीयते, उत देवतात्मा, उत जीवः, अथवा परं ब्रह्मेति ।
+तत्र संशयः — किम् इह प्राण-शब्देन वायु-मात्रम् अभिधीयते, उत देवताऽऽत्मा, उत जीवः, अथवा परं ब्रह्मेति ।
 </details>
 
 <details><summary>Translation</summary>
@@ -144,9 +167,10 @@ Here the doubt presents itself whether the word prāṇa denotes merely breath, 
 अङ्गे सन्देहम्: इङ्गु पिराणऩ् ऎऩ्ऱ सप्तत्तिऩाल् वॆऱुम् वायु सॊल्लप्पडुगिऱदा, अल्लदु इन्दिर तेवदैया अल्लदु जीवऩा, अल्लदु परप्रह्ममा ऎऩ्ऱु।
 </details>
 
+#### पूर्वं परिहृतम्?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु ‘अत एव प्राणः’ इत्य्-अत्र वर्णितं प्राण-शब्दस्य ब्रह्म-परत्वम्।
+> ननु ‘अत एव प्राणः’ इत्य्-अत्र वर्णितं प्राण-शब्दस्य ब्रह्म-परत्वम्।
 </details>
 
 <details><summary>Translation</summary>
@@ -161,7 +185,8 @@ But, it will be said at the outset, the Sūtra I, 1, 21 already has shown that t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इहापि च ब्रह्म-लिङ्गम् अस्ति — ‘आनन्दोऽजरोऽमृतः’ इत्य्-आदि।
+इहापि च ब्रह्म-लिङ्गम् अस्ति —  
+‘आनन्दोऽजरोऽमृतः’ इत्य्-आदि।
 </details>
 
 <details><summary>Translation</summary>
@@ -176,7 +201,7 @@ and as here also we meet with characteristic marks of Brahman, viz. the words 'b
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथम् इह पुनः संशयः सम्भवति ?
+> कथम् इह पुनः संशयः सम्भवति ?
 </details>
 
 <details><summary>Translation</summary>
@@ -189,6 +214,7 @@ We reply: Because there are observed here characteristic marks of different kind
 कथमिह पुनः संशयः सम्भवति ?
 </details>
 
+#### लिङ्गातर-भूयस्ता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 — अनेक-लिङ्ग-दर्शनाद् इति ब्रूमः।
@@ -206,7 +232,7 @@ For in the legend we meet not only with marks indicating Brahman, but also with 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न केवलम् इह ब्रह्मलिङ्गमेवोपलभ्यते।
+न केवलम् इह ब्रह्म-लिङ्गम् एवोपलभ्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -221,7 +247,8 @@ the words, 'Having laid hold of this body it makes it rise up,' point to the bre
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सन्ति हीतरलिङ्गान्यपि — ‘मामेव विजानीहि’ (कौ. उ. ३। १) इतीन्द्रस्य वचनं देवतात्म-लिङ्गम्।
+सन्ति हीतर-लिङ्गान्य् अपि —  
+‘मामेव विजानीहि’ (कौ. उ. ३। १) इतीन्द्रस्य वचनं देवतात्म-लिङ्गम्।
 </details>
 
 <details><summary>Translation</summary>
@@ -251,7 +278,8 @@ There is thus room for doubt.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘न वाचं विजि-ज्ञासीत वक्तारं विद्यात्’ इत्य्-आदि जीव लिङ्गम्।
+‘न वाचं विजिज्ञासीत, वक्तारं विद्यात्’  
+इत्य्-आदि जीव लिङ्गम्।
 </details>
 
 <details><summary>Translation</summary>
@@ -279,9 +307,10 @@ For what reason?
 अत उपपन्नः संशयः।
 </details>
 
+## वायु-प्रसिद्धिः?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र प्रसिद्धेर् वायुः प्राण इति प्राप्ते इदम् उच्यते —
+तत्र "प्रसिद्धेर् वायुः प्राण" इति प्राप्ते इदम् उच्यते —
 </details>
 
 <details><summary>Translation</summary>
@@ -299,6 +328,7 @@ On account of such being the consecutive meaning of the passages.
 पिराण सप्तत्तिऱ्कु पिरह्मबरमायिरुक्कुम् तऩ्मै, ‘अदिऩालेये पिराणऩ्' (सूत्रम् २३) ऎऩ्ऱविडत्तिल् सॊल्लप्पट्टुविट्टदे? इङ्गेयुम् आऩन्दम् जरैयऱ्ऱदु, मरणमऱ्ऱदु ऎऩ्बदु मुदलाऩ पिरह्मलिङ्गमुम् इरुक्किऱदे? इङ्गु मऱुबडियुम् संसयम् ऎप्पडि एऱ्पडमुडियुम्? ऎऩ्ऱाल्, पलविद लिङ्गङ्गळ् काण्बदाल् ऎऩ्ऱु सॊल्गिऱोम्। इङ्गु वॆऱुम् पिरह्मलिङ्गम् मात्तिरम् काणविल्लै। मऱ्ऱवैगळिऩ् लिङ्गङ्गळुम् इङ्गे इरुक्किऩ्ऱऩ अल्लवा? “ऎऩ्ऩैये अऱिन्दुगॊळ् (३-१) ऎऩ्ऱुळ्ळ इन्दिरऩुडैय वसऩम् तेवदात्माविऱ्कु लिङ्गम्। इन्द सरीरत्तै ऎडुत्तु निऱुत्तुगिऱदु ऎऩ्बदु पिराणऩुक्कु लिङ्गम्। “वाक्कै अऱिन्दु कॊळ्ळादे। पेसुगिऱवऩै अऱियवुम्" ऎऩ्बदु मुदलियदु जीवऩुक्कु लिङ्गम् आगैयाल् संसयम् न्यायम्। अदिल् पिरसित्तियिरुप् पदाल् पिराणऩ् ऎऩ्बदु वायु ऎऩ्ऱु वरुम्बोदु सॊल्लप्पडुगिऱदु।
 </details>
 
+### ब्रह्मलिङ्गानुगमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राण-शब्दं ब्रह्म विज्ञेयम्।
@@ -331,7 +361,7 @@ At the beginning of the legend Pratardana, having been allowed by Indra to choos
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथानुगमात्।
+> +++("प्राण एव प्रज्ञात्मा ऽऽनन्दो ऽजरो ऽमृतः"→)+++ तथा ऽनुगमात् ।
 </details>
 
 <details><summary>Translation</summary>
@@ -346,7 +376,8 @@ At the beginning of the legend Pratardana, having been allowed by Indra to choos
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथाहि पौर्वापर्येण पर्यालोच्यमाने वाक्ये पदानां समन्वयो ब्रह्म-प्रतिपादन-पर उपलभ्यते।
+तथाहि पौर्वापर्येण पर्यालोच्यमाने वाक्ये  
+पदानां समन्वयो ब्रह्म-प्रतिपादन-पर उपलभ्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -361,7 +392,13 @@ Now, as later on prāṇa is declared to be what is most beneficial for man, wha
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपक्रमे तावत् ‘वरं वृणीष्व’ इतीन्द्रेणोक्तः प्रतर्दनः परमं पुरुषार्थं वरमुपचिक्षेप — ‘त्वमेव वृणीष्व यं त्वं मनुष्याय हिततमं मन्यसे’ इति।
+उपक्रमे तावत् ‘वरं वृणीष्व’ इतीन्द्रेणोक्तः प्रतर्दनः  
+परमं पुरुषार्थं वरम् उपचिक्षेप —  
+
+> ‘त्वमेव वृणीष्व  
+यं त्वं मनुष्याय हिततमं मन्यसे’  
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -376,7 +413,8 @@ For apart from the cognition of that Self a man cannot possibly attain what is m
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मै हिततमत्वेनोपदिश्यमानः प्राणः कथं परमात्मा न स्यात्।
+तस्मै हिततमत्वेनोपदिश्यमानः प्राणः  
+कथं परमात्मा न स्यात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -391,7 +429,13 @@ Compare, for instance, Śve. Up. III, 8, 'A man who knows him passes over death;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न ह्यन्यत्र परमात्म-विज्ञानाद् धि ततम् अप्राप्तिर् अस्ति, ‘तमेव विदित्वाति मृत्युम् एति नान्यः पन्था विद्यतेऽयनाय’ (श्वे. उ. ३। ८) इत्यादि-श्रुतिभ्यः ।
+न ह्य् अन्यत्र परमात्म-विज्ञानाद्  
+हिततम-प्राप्तिर् अस्ति,  
+
+> ‘तम् एव विदित्वाति मृत्युम् एति  
+नान्यः पन्था विद्यतेऽयनाय’ (श्वे. उ. ३। ८) 
+
+इत्य्-आदि-श्रुतिभ्यः ।
 </details>
 
 <details><summary>Translation</summary>
