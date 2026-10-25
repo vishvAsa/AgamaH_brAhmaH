@@ -1013,9 +1013,20 @@ Of the same tendency is the passage, 'Prāṇa, the intelligent Self, alone havi
 तथा ‘प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्थापयति’ (कौ. उ. ३। ३) इति।
 </details>
 
+#### प्रत्यग्-आत्मोक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘न वाचं विजि-ज्ञासीत वक्तारं विद्यात्’ इति चोपक्रम्य ‘तद् यथा रथस्यारेषु नेमिरर्पिता नाभावरा अर्पिता एवमेवैता भूतमात्राः प्रज्ञा-मात्रास्वर्पिताः प्रज्ञामात्राः प्राणेऽर्पिताः स एष प्राण एव प्रज्ञात्मानन्दोऽजरोऽमृतः’ इति विषयेन्द्रिय-व्यवहारार-नाभिभूतं प्रत्यगात्मानमेवोपसंहरति।
+> ‘न वाचं विजिज्ञासीत, वक्तारं विद्यात्’ 
+
+इति चोपक्रम्य 
+
+> ‘तद् यथा रथस्यारेषु नेमिर् अर्पिता  
+नाभाव् अरा अर्पिता  
+एवम् एवैता भूत-मात्राः प्रज्ञा-मात्रास्व् अर्पिताः  
+प्रज्ञा-मात्राः प्राणेऽर्पिताः  
+स एष प्राण एव प्रज्ञाऽऽत्माऽऽनन्दो ऽजरो ऽमृतः’ 
+
+इति विषयेन्द्रिय-व्यवहारार-नाभि-भूतं प्रत्यग्-आत्मानम् एवोपसंहरति।
 </details>
 
 <details><summary>Translation</summary>
@@ -1035,7 +1046,11 @@ And that prāṇa indeed is the Self of prājña, blessed, imperishable, immorta
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘स म आत्मेति विद्यात्’ इति चोपसंहारः प्रत्यग्-आत्म-परिग्रहे साधुः, न पराचीन-परिग्रहे ।
+> ‘स म आत्मेति विद्यात्’ 
+
+इति चोपसंहारः  
+प्रत्यग्-आत्म-परिग्रहे साधुः,  
+न पराचीन-परिग्रहे ।
 </details>
 
 <details><summary>Translation</summary>
@@ -1050,7 +1065,9 @@ So also the following passage which, referring to this interior Self, forming as
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘अयम् आत्मा ब्रह्म सर्वानुभूः’ (बृ. उ. २। ५। १९) इति च श्रुत्य्-अन्तरम्।
+> ‘अयम् आत्मा ब्रह्म सर्वानुभूः’ (बृ. उ. २। ५। १९) 
+
+इति च श्रुत्य्-अन्तरम्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1070,7 +1087,9 @@ And another scriptural passage declares 'this Self is Brahman, omniscient' [^fn_
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मादध्यात्म-सम्बन्धबाहुल्याद्ब्रह्मोपदेश एवायम् , न देवतात्मोपदेशः ॥ २९ ॥
+तस्माद् अध्यात्म-सम्बन्ध-बाहुल्याद्  
+ब्रह्मोपदेश एवायम् ,  
+न देवतात्मोपदेशः ॥ २९ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -1093,6 +1112,7 @@ We therefore arrive at the conclusion that, on account of the multitude of refer
 आगैयाल् आत्मा विषयमाऩ सम्बन्दम् अदिगमायिरुप्पदाल्, इदु पिरह्मत्तै उबदेसिप्पदु ताऩ्; तेवदात्माविऩ् उबदेसमिल्लै
 </details>
 
+### शास्त्र-दृष्टिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं तर्हि वक्तुर् आत्मोपदेशः ? —
@@ -1115,7 +1135,7 @@ How then can the circumstance of the speaker (Indra) referring to himself be exp
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शास्त्र-दृष्ट्या तूपदेशो वाम-देववत् ॥ ३० ॥  
+> +++(एकात्मता-)+++शास्त्र-दृष्ट्या तूपदेशो वाम-देववत् ॥ ३० ॥  
 </details>
 
 <details><summary>Translation</summary>
@@ -1135,7 +1155,10 @@ How then can the circumstance of the speaker (Indra) referring to himself be exp
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रो नाम देवतात्मा स्वमात्मानं परमात्मत्वेन ‘अहम् एव परं ब्रह्म’ इत्यार्षेण दर्शनेन यथा-शास्त्रं पश्यन् उपदिशति स्म — ‘मामेव विजानीहि’ इति।
+इन्द्रो नाम देवतात्मा  
+स्वमात्मानं परमात्मत्वेन  
+‘अहम् एव परं ब्रह्म’ इत्य् आर्षेण दर्शनेन यथा-शास्त्रं पश्यन्न् उपदिशति स्म —  
+‘माम् एव विजानीहि’ इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -1155,7 +1178,17 @@ The individual divine Self called Indra perceiving by means of r̥shi-like intui
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा ‘तद् धैतत् पश्यन्न् ऋषिर् वामदेवः प्रतिपेदेऽहं मनुरभवँ सूर्यश् च’ इति, तद्वत्; ‘तद्यो यो देवानां प्रत्य-बुध्यत स एव तद् अभवत्’ (बृ. उ. १। ४। १०) इति श्रुतेः ।
+यथा 
+
+> ‘तद् धैतत् पश्यन्न् ऋषिर् वामदेवः प्रतिपेदे  
+ऽहं मनुर् अभवँ, सूर्यश् च’ 
+
+इति, तद्वत्; 
+
+> ‘तद् यो यो देवानां प्रत्यबुध्यत  
+स एव तद् अभवत्’ (बृ. उ. १। ४। १०) 
+
+इति श्रुतेः ।
 </details>
 
 <details><summary>Translation</summary>
@@ -1173,9 +1206,17 @@ By intuition of the same kind the r̥shi Vāmadeva reached the knowledge express
 इन्दिरऩ् ऎऩ्ऱु पिरसित्तमायुळ्ळ तेवदात्मा आर्षमाऩ (जऩ्मसित्तमाऩ) ञाऩत्तिऩाल् 'नाऩे परबिरह्मम् ऎऩ्ऱु सास्तिरत्तिल् सॊल्लियबडि अऱिन्दवऩाय् तऩ् आत्मावै परमात्मावाग उबदेसम् सॆय्दाऩ्। 'ऎऩ्ऩैये अऱिन्दुगॊळ्' ऎऩ्ऱु। ऎप्पडि अन्द इदै अऱिन्द वामदेवरिषि नाऩ् मऩुवाग इरुन्देऩ्, सूर्यऩागवुम् इरुन्देऩ् ऎऩ्ऱु अऱिन्दार् ऎऩ्बदो, अदैप्पोल ‘अदै तेवर्गळुक्कुळ् ऎवर् ऎवर् अऱिन्दारो अवरे अदुवाग आगिविट्टार्' (पिरुहत् १-४-१०) ऎऩ्ऱ सुरुदियिऩाल्।
 </details>
 
+### विग्रह-धर्माः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्पुनर् उक्तम् — ‘मामेव विजानीहि’ इत्य्-उक्त्वा, विग्रह-धर्मैर् इन्द्रः आत्मानं तुष्टाव त्वाष्ट्रवधादिभिरिति, तत्-परिहर्तव्यम्; अत्रोच्यते — न त्वाष्ट्र-वधादीनां विज्ञेयेन्द्रस्तुत्यर्थत्वेनोपन्यासः — ‘यस्मादेवंकर्माहम् , तस्मान्मां विजानीहि’ इति।
+यत् पुनर् उक्तम् — 
+
+> > ‘माम् एव विजानीहि’ 
+> 
+> इत्य्-उक्त्वा,  
+विग्रह-धर्मैर् इन्द्रः आत्मानं तुष्टाव त्वाष्ट्रवधादिभिर् 
+
+इति, तत् परिहर्तव्यम्;  
 </details>
 
 <details><summary>Translation</summary>
@@ -1185,9 +1226,32 @@ The assertion made above (in the pūrvapaksha of the preceding Sūtra) that Indr
 
 <details><summary>मूलम्</summary>
 
-यत्पुनरुक्तम् — ‘मामेव विजानीहि’ इत्युक्त्वा, विग्रहधर्मैरिन्द्रः आत्मानं तुष्टाव त्वाष्ट्रवधादिभिरिति, तत्परिहर्तव्यम्; अत्रोच्यते — न त्वाष्ट्रवधादीनां विज्ञेयेन्द्रस्तुत्यर्थत्वेनोपन्यासः — ‘यस्मादेवंकर्माहम् , तस्मान्मां विजानीहि’ इति।
+यत्पुनरुक्तम् — ‘मामेव विजानीहि’ इत्युक्त्वा, विग्रहधर्मैरिन्द्रः आत्मानं तुष्टाव त्वाष्ट्रवधादिभिरिति, तत्परिहर्तव्यम्; 
 </details>
 
+#### नेन्द्र-निर्देशाय
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्रोच्यते — न त्वाष्ट्र-वधादीनां  
+विज्ञेयेन्द्र-स्तुत्य्-अर्थत्वेनोपन्यासः —  
+
+> ‘यस्माद् एवं-कर्माहम् ,  
+तस्मान्मां विजानीहि’ 
+
+इति।
+</details>
+
+<details><summary>Translation</summary>
+
+The death of Tvash_tri_'s son and similar deeds are referred to, not to the end of glorifying Indra as the object of knowledge--in which case the sense of the passage would be, 'Because I accomplished such and such deeds, therefore know me'--but to the end of glorifying the cognition of the highest Self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत्रोच्यते — न त्वाष्ट्रवधादीनां विज्ञेयेन्द्रस्तुत्यर्थत्वेनोपन्यासः — ‘यस्मादेवंकर्माहम् , तस्मान्मां विजानीहि’ इति।
+</details>
+
+#### विज्ञान-स्तुत्यै
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं तर्हि ?
@@ -1200,12 +1264,15 @@ The assertion made above (in the pūrvapaksha of the preceding Sūtra) that Indr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विज्ञानस्तुत्यर्थत्वेन; यत्-कारणं त्वाष्ट्र-वधादीनि साह-सान् युप न्यस्य परेण विज्ञानस्तुति-मनुसन्दधाति — ‘तस्य मे तत्र लोम च न मीयते स यो मां वेद न ह वै तस्य केन च कर्मणा लोको मीयते’ इत्य्-आदिना ।
-</details>
++++(त्वाष्ट्र-वधादीनाम् उपन्यासः)+++ विज्ञान-स्तुत्य्-अर्थत्वेन;  
+यत्-कारणं त्वाष्ट्र-वधादीनि साहसान्य् उपन्यस्य  
+परेण विज्ञान-स्तुतिम् अनुसन्दधाति —  
 
-<details><summary>Translation</summary>
+> ‘तस्य मे तत्र लोम च न मीयते  
+स यो मां वेद  
+न ह वै तस्य केन च कर्मणा लोको मीयते’ 
 
-The death of Tvash_tri_'s son and similar deeds are referred to, not to the end of glorifying Indra as the object of knowledge--in which case the sense of the passage would be, 'Because I accomplished such and such deeds, therefore know me'--but to the end of glorifying the cognition of the highest Self.
+इत्य्-आदिना ।
 </details>
 
 <details><summary>Translation</summary>
@@ -1225,7 +1292,12 @@ For this reason the text, after having referred to the slaying of Tvash_tri_'s s
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतद् उक्तं भवति — यस्माद् ईदृशान्य् अपि क्रूराणि कर्माणि कृतवतो मम ब्रह्म-भूतस्य लोमापि न हिंस्यते, स योऽन्योऽपि मां वेद, न तस्य केनचिद् अपि कर्मणा लोको हिंस्य् अत इति।
+एतद् उक्तं भवति —  
+यस्माद् ईदृशान्य् अपि क्रूराणि कर्माणि कृतवतो  
+मम ब्रह्म-भूतस्य  
+लोमापि न हिंस्यते,  
+स योऽन्योऽपि मां वेद,  
+न तस्य केनचिद् अपि कर्मणा लोको हिंस्यत इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -1273,9 +1345,11 @@ Therefore the entire chapter refers to Brahman.
 इदु सॊऩ्ऩदाग आगिऱदु। इव्विदमाऩ क्रूरमाऩ कर्माक्कळै सॆय्दालुम् पिरह्ममागिविट्ट ऎऩक्कु लोमम् कूड ऎन्दक् कारणत्तिऩाल् हिंसिक्कप्पड विल्लैयो, अदऩाल् वेऱु ऎवऩ् ऎऩ्ऩै अऱिगिऱा ऩो अवऩुडैय लोगमुम् ऎव्विद कर्माविऩालुम् हिंसिक्कप्पडादु ऎऩ्ऱु। 'पिरक्ञात् मावागिय पिराण ऩाय् नाऩ् इरुक्किऱेऩ्' ऎऩ्ऱु उबदेसिक्कप्पोगुम् अऱिय वेण्डिय विषयमो पिरह्मम्दाऩ्। आगैयाल् इदु पिरह्मत्तैक् कुऱिक्कुम् वाक्कियम्।
 </details>
 
+## जीव-मुख्य-प्राण-लिङ्गानि?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जीवमुख्य-प्राणलिङ्गान्नेति चेन्नोपासा-त्रैविध्याद् आश्रितत्वाद् इह तद्-योगात् ॥ ३१ ॥  
+"जीव--मुख्य-प्राण-लिङ्गान् ने"ति चेन् न –  
++++(तथा सति, प्राण-जीव-ब्रह्म→)+++ उपासा-त्रैविध्याद्, +++(अन्यत्रापि प्राण-शब्दक-ब्रह्मार्थाश्रयात्)+++ आश्रितत्वाद्, इह +++(ब्रह्मार्थ→)+++तद्-योगात् ॥  ३१ ॥  
 </details>
 
 <details><summary>Translation</summary>
@@ -1288,11 +1362,17 @@ Therefore the entire chapter refers to Brahman.
 जीवमुख्यप्राणलिङ्गान्नेति चेन्नोपासात्रैविध्यादाश्रितत्वादिह तद्योगात् ॥ ३१ ॥  
 </details>
 
-ஜீவமுக்யப்ராணலிங்காந்நேதி சேந்நோபாஸாத்ரைவித்யாதாச்ரிதத்வாதிஹ தத்யோகாத் ॥ 31 ॥
+<details><summary>तमिऴ्</summary>
+
+जीवमुख्यप्राणलिङ्गान्नेति चेन्नोपासात्रैविध्यादाश्रितत्वादिह तद्योगात् ॥ ३१ ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्यप्य् अध्यात्म-सम्बन्ध-भूम-दर्शनान्न पराचीनस्य देवतात्मन उपदेशः, तथापि न ब्रह्म-वाक्यं भवितुमर्हति।
+यद्य् अप्य् अध्यात्म-सम्बन्ध-भूम-दर्शनान्  
+न पराचीनस्य देवतात्मन उपदेशः,  
+तथापि न ब्रह्म-वाक्यं भवितुम् अर्हति।
 </details>
 
 <details><summary>Translation</summary>
@@ -1322,7 +1402,7 @@ For what reason?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जीव लिङ्गात् मुख्य-प्राणलिङ्गाच्च।
+जीव-लिङ्गात् मुख्य-प्राणलिङ्गाच् च।
 </details>
 
 <details><summary>Translation</summary>
@@ -1335,14 +1415,19 @@ Because it mentions characteristic marks of the individual soul on the one hand,
 जीवलिङ्गात् मुख्यप्राणलिङ्गाच्च।
 </details>
 
+### जीव-लिङ्गम्?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जीवस्य तावद् अस्मिन् वाक्ये विस्पष्टं लिङ्गम् उपलभ्यते — ‘न वाचं विजि-ज्ञासीत वक्तारं विद्यात्’ इत्य्-आदि।
+जीवस्य तावद् अस्मिन् वाक्ये विस्पष्टं लिङ्गम् उपलभ्यते —  
+
+> ‘न वाचं विजिज्ञासीत, वक्तारं विद्यात्’ 
+
+इत्य्-आदि।
 </details>
 
 <details><summary>Translation</summary>
 
-The passage, 'Let no man try to find out what speech is, let him know the speaker,' mentions a characteristic mark of the individual soul, and must therefore be held to point out as the object of knowledge the individual soul which rules and employs the different organs of action such as speech and so on.
+The passage, 'Let no man try to find out what speech is, let him know the speaker,' mentions a characteristic mark of the individual soul, 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1352,17 +1437,31 @@ The passage, 'Let no man try to find out what speech is, let him know the speake
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्र हि वागादिभिः करणैर् व्यापृतस्य कार्य-करणा-ध्यक्षस्य जीवस्य विज्ञेयत्वमभिधीयते।
+अत्र हि वाग्-आदिभिः करणैर् व्यापृतस्य  
+कार्य-करणाध्यक्षस्य जीवस्य  
+विज्ञेयत्वम् अभिधीयते।
 </details>
+
+<details><summary>English</summary>
+
+and must therefore be held to point out as the object of knowledge the individual soul which rules and employs the different organs of action such as speech and so on.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 अत्र हि वागादिभिः करणैर्व्यापृतस्य कार्यकरणाध्यक्षस्य जीवस्य विज्ञेयत्वमभिधीयते।
 </details>
 
+### मुख्य-प्राण-लिङ्गम्?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा मुख्य-प्राणलिङ्गमपि — ‘अथ खलु प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्थापयति’ इति।
+तथा मुख्य-प्राण-लिङ्गम् अपि — 
+
+> ‘अथ खलु प्राण एव प्रज्ञाऽऽत्मा  
+इदं शरीरं परिगृह्योत्थापयति’ 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -1377,7 +1476,15 @@ On the other hand, we have the passage, 'But prāṇa alone, the intelligent Sel
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शरीर-धारणं च मुख्य-प्राणस्य धर्मः; प्राण-संवादे वागादीन् प्राणान् प्रकृत्य — ‘तान् वरिष्ठः प्राण उवाच मा मोहमापद्यथाहमेवैतत्पञ्चधात्मानं प्रव्-इभ-ज्यैतद् बाणम् अवष्टभ्य विधारयामि’ (प्र. उ. २। ३) इति श्रवणात्।
+शरीर-धारणं च मुख्य-प्राणस्य धर्मः;  
+प्राण-संवादे वाग्-आदीन् प्राणान् प्रकृत्य — 
+
+> ‘तान् वरिष्ठः प्राण उवाच  
+मा मोहम् आपद्यथ  
+अहम् एवैतत् पञ्चधा ऽऽत्मानं प्रविभज्य  
+एतद् बाणम्+++(=शरीरम्)+++ अवष्टभ्य विधारयामि’ (प्र. उ. २। ३) 
+
+इति श्रवणात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1392,7 +1499,9 @@ Similarly, we read in the colloquy of the vital airs (Pra. Up. II, 3), concernin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये तु ‘इमं शरीरं परिगृह्य’ इति पठन्ति, तेषाम् इमं जीवम् इन्द्रियग्रामं वा परिगृह्य शरीरमुत्थापयतीति व्याख्येयम् ।
+ये तु ‘इमं शरीरं परिगृह्य’ इति पठन्ति,  
+तेषाम् इमं जीवम् इन्द्रिय-ग्रामं वा परिगृह्य  
+शरीरम् उत्थापयतीति व्याख्येयम् ।+++(4)+++
 </details>
 
 <details><summary>Translation</summary>
@@ -1420,14 +1529,16 @@ Those, again, who in the passage quoted above read 'this one (masc.), the body [
 अप्पडिये मुक्किय पिराणऩुडैय लिङ्गमुम् ‘पिरक्ञात्मावागिय पिराणऩ्दाऩ् इन्द सरीरत्तै ऎडुत्तु निऱुत्तुगिऱदु' ऎऩ्ऱिरुक्किऱदु। सरीरत्तै तरिप्पदो मुक्किय पिराणऩुडैय तर्मम्। पिराण संवादत्तिल् वाक्कु मुदलाऩ पिराणऩ्गळैक् कुऱित्तु 'अवैगळैप् पार्त्तु उत्तममाऩ पिराणऩ् सॊल्लिऱ्ऱु, मोहत्तै अडैयादीर्गळ्, नाऩ्दाऩ् ऎऩ्ऩै ऐन्दुविदमागच् चॆय्दु कॊण्डु निलैयऱ्ऱ इन्द सरीरत्तै निऱुत्ति तरित्तुक् कॊण्डिरुक्किऱेऩ्' ऎऩ्ऱु सॊल्लियिरुप्पदाल्, ऎवर्गळ् ‘इदैयुम् सरीरत्तैयुम् ऎडुत्तु’ ऎऩ्ऱु पाडम् सॊल्गिऱार्गळो अवर्गळुक्कु इन्द जीवऩैयो इन्दिरिय समूहत्तैयो ऎडुत्तुक्कॊण्डु सरीरत्तै निऱुत्तुगिऱदु ऎऩ्ऱु वियाक्याऩम् सॆय्य वेण्डुम्।
 </details>
 
+### प्रज्ञात्मता?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रज्ञात्मत्वमपि जीवे तावच् चेतनत्वाद् उपपन्नम्।
+प्रज्ञात्मत्वम् अपि जीवे तावच्  
+चेतनत्वाद् उपपन्नम्।
 </details>
 
 <details><summary>Translation</summary>
 
-The individual soul as well as the chief vital air may justly be designated as the intelligent Self; for the former is of the nature of intelligence, and the latter (although non-intelligent in itself) is the abode of other prāṇas, viz. the sense organs, which are the instruments of intelligence.
+The individual soul as well as the chief vital air may justly be designated as the intelligent Self; for the former is of the nature of intelligence, 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1437,7 +1548,12 @@ The individual soul as well as the chief vital air may justly be designated as t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मुख्येऽपि प्राणे प्रज्ञासाधन-प्राणान्तराश्रयत्वादुपपन्नमेव।
+मुख्येऽपि प्राणे प्रज्ञा-साधन-प्राणान्तराश्रयत्वाद् उपपन्नम् एव।
+</details>
+
+<details><summary>English</summary>
+
+and the latter (although non-intelligent in itself) is the abode of other prāṇas, viz. the sense organs, which are the instruments of intelligence.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1445,9 +1561,21 @@ The individual soul as well as the chief vital air may justly be designated as t
 मुख्येऽपि प्राणे प्रज्ञासाधनप्राणान्तराश्रयत्वादुपपन्नमेव।
 </details>
 
+### भेद-निर्देशः?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जीवमुख्य-प्राण-परिग्रहे च, प्राण-प्रज्ञात्मनोः सह-वृत्तित्वेनाभेद-निर्देशः, स्वरूपेण च भेद-निर्देशः, इत्य् उभयथा निर्देश उपपद्यते — ‘यो वै प्राणः सा प्रज्ञा या वै प्रज्ञा स प्राणः’ ‘सह ह्येतावस्मिञ्शरीरे वसतः सहोत्क्रामतः’ इति।
+जीव--मुख्य-प्राण-परिग्रहे च,  
+प्राण-प्रज्ञात्मनोः सह-वृत्तित्वेनाभेद-निर्देशः,  
+स्वरूपेण च भेद-निर्देशः,  
+इत्य् उभयथा निर्देश उपपद्यते — 
+
+> ‘यो वै प्राणः  
+सा प्रज्ञा  
+या वै प्रज्ञा, स प्राणः’  
+
+> ‘सह ह्य् एताव् अस्मिञ् शरीरे वसतः सहोत्क्रामतः’ 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -1477,7 +1605,9 @@ If, on the other hand, prāṇa denoted Brahman, what then could be different fr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माद् इह जीवमुख्य-प्राणयोरन्यतर उभौ वा प्रतीयेयातां न ब्रह्मेति चेत् ,
+तस्माद् इह जीव-मुख्य-प्राणयोर् अन्यतर उभौ वा प्रतीयेयातां न ब्रह्म
+
+इति चेत् ,
 </details>
 
 <details><summary>Translation</summary>
@@ -1500,6 +1630,7 @@ For these reasons prāṇa does not denote Brahman, but either the individual so
 जीवऩैयुम् मुक्किय पिराणऩैयुम् ऎडुत्तुक् कॊळ्ळुम् पक्षत्तिल्, पिराणऩ् पिरक्ञात्मा इरण्डिऱ् कुम् कूडवेयिरुक्कुम् तऩ्मैयिऩाल् पेदमिल्लामल् सॊल्लुदल्, स्वरूबत्तिऩाल् पेदत्तैच् चॊल्लुदल्, आग इरण्डु विदमागवुम् सॊल्लुदल् पॊरुन्दुम्, 'ऎदुवे पिराणऩो अदुबिरक्ञै, ऎदुवे पिरक्ञैयो अदु पिराणऩ्, इन्द इरण्डुमे इन्;द सरीरत्तिल् सेर्न्दु वसिक्किऩ्ऱऩ। सेर्न्दे वॆळिक्किळम्बुगिऩ्ऱऩ।' ऎऩ्ऱु। पिरह्मत्तै ऎडुत्तुक्कॊण्डालो, ऎदु अदिलिरुन्दु वेऱुबडुम्? आगैयाल् इङ्गे, जीवऩ् मुक्किय पिराणऩ् इवैगळुक्कुळ् एदेऩुम् ऒऩ्ऱु, अल्लदु इरण्डुमेयो, अऱियप्पडलामे तविर, पिरह्मम् इल्लै, ऎऩ्ऱाल्।
 </details>
 
+### उपासा-त्रैविध्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतदेवम्।
@@ -1517,7 +1648,7 @@ All this argumentation, we reply, is wrong, 'on account of the threefoldness of 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपासा-त्रैविध्यात्।
++++(प्राण-जीव-ब्रह्म→)+++ उपासा-त्रैविध्यात्।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1527,7 +1658,8 @@ All this argumentation, we reply, is wrong, 'on account of the threefoldness of 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं सति त्रिविधम् उपासनं प्रसज्येत — जीवोपासनं मुख्य-प्राणोपासनं ब्रह्मोपासनं चेति।
+एवं सति त्रिविधम् उपासनं प्रसज्येत —  
+जीवोपासनं, मुख्य-प्राणोपासनं, ब्रह्मोपासनं चेति।
 </details>
 
 <details><summary>Translation</summary>
@@ -1540,9 +1672,10 @@ Your interpretation would involve the assumption of devout meditation of three d
 एवं सति त्रिविधमुपासनं प्रसज्येत — जीवोपासनं मुख्यप्राणोपासनं ब्रह्मोपासनं चेति।
 </details>
 
+#### एक-वाक्ये न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चैतद् एकस्मिन् वाक्येऽभ्युपगन्तुं युक्तम्।
+न चैतद् एकस्मिन् वाक्ये ऽभ्युपगन्तुं युक्तम्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1557,7 +1690,8 @@ But it is inappropriate to assume that a single sentence should enjoin three kin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपक्रमोपसंहाराभ्यां हि वाक्यैकत्वमवगम्यते।
+उपक्रमोपसंहाराभ्यां हि  
+वाक्यैकत्वम् अवगम्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -1572,7 +1706,16 @@ and that all the passages about the prāṇa really constitute one single senten
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘मामेव विजानीहि’ इत्य्-उपक्रम्य, ‘प्राणो ऽस्मि प्रज्ञात्मा तं मामायुरमृतमित्युपास्स्व’ इत्य्-उक्त्वा, अन्ते ‘स एष प्राण एव प्रज्ञात्मानन्दोऽजरोऽमृतः’ इत्येकरूपावुपक्रमोपसंहारौ दृश्येते।
+‘माम् एव विजानीहि’ इत्य्-उपक्रम्य,  
+
+> ‘प्राणो ऽस्मि प्रज्ञाऽऽत्मा  
+तं माम् आयुर् अमृतम् इत्य् उपास्स्व’ 
+
+इत्य्-उक्त्वा, अन्ते 
+
+> ‘स एष प्राण एव प्रज्ञाऽऽत्मानन्दोऽजरोऽमृतः’ 
+
+इत्य् एक-रूपाव् उपक्रमोपसंहारौ दृश्येते।
 </details>
 
 <details><summary>Translation</summary>
@@ -1610,9 +1753,12 @@ The beginning and the concluding part are thus seen to be similar, and we theref
 सित्तान्दम्: इदु इप्पडियल्ल, 'उबासऩै मूऩ्ऱु विदमागिविडुमाऩदिऩाल्' इव्विदमिरुक्कुमे याऩाल्, उबासऩै, जीवऩे उबासिप्पदु, मुक्कियप् पिराणऩै उबासिप्पदु, पिरह्मत्तै उबासिप्पदु, ऎऩ्ऱु मूऩ्ऱुविदमॆऩ्ऱु एऱ्पडुम्; वाक्कियम् ऒऩ्ऱा यिरुक्कैयिल्, इदै ऒप्पुक् कॊळ्वदोयुक्तमिल्लै। आरम्बम् मुडिवु इव्विरण्डिलिरुन्दुम् वाक्कियम् ऒऩ्ऱु ऎऩ्ऱु अऱियप्पडुगिऱदल्लवा? 'ऎऩ्ऩैये अऱिन्दु कॊळ्' ऎऩ्ऱु आरम्बित्तु, 'पिरक्ञादमावाऩ पिराणऩाग नाऩ् इरुक्किऱेऩ्। अन्द ऎऩ्ऩै आयुस् अमिरुदम् ऎऩ्ऱु उबासऩै सॆय्' ऎऩ्ऱु सॊल्लिविट्टु, मुडिविल् अन्द इन्द पिरक्ञात्मावाऩ पिराणऩे आऩन्दम्, जरैयऱ्ऱदु, मरणमऱ्ऱदु ऎऩ्ऱु ऒरे मादिरियाग आरम्बमुम् मुडिवुम् काणप्पडुगिऩ्ऱऩ। अप्पडियिरुक् कैयिल्, ऒरे अर्त्तमुळ्ळदॆऩ्ऱु ऎडुत्तुक् कॊळ्वदु उसिदम्।
 </details>
 
+#### ब्रह्म-लिङ्गम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च ब्रह्म-लिङ्गम् अन्य-परत्वेन परिणेतुं शक्यम्; दशानां भू तमा-त्राणां प्रज्ञा-मात्राणां च ब्रह्मणो ऽन्यत्र अर्पणानुपपत्तेः।
+न च ब्रह्म-लिङ्गम् अन्य-परत्वेन परिणेतुं शक्यम्;  
+दशानां भूत-मात्राणां प्रज्ञा-मात्राणां च  
+ब्रह्मणो ऽन्यत्र अर्पणानुपपत्तेः।
 </details>
 
 <details><summary>Translation</summary>
@@ -1630,9 +1776,14 @@ Nor can the characteristic mark of Brahman be so turned as to be applied to some
 न च ब्रह्मलिङ्गमन्यपरत्वेन परिणेतुं शक्यम्; दशानां भूतमात्राणां प्रज्ञामात्राणां च ब्रह्मणोऽन्यत्र अर्पणानुपपत्तेः।
 </details>
 
+### अन्यत्राश्रयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आश्रित-त्वाच्च अन्यत्रापि ब्रह्म-लिङ्ग-वशात् प्राण-शब्दस्य ब्रह्मणि वृत्तेः, इहापि च हिततमोपन्यासादि-ब्रह्मलिङ्ग-योगात् , ब्रह्मोपदेश एवायम् इति गम्यते।
+**आश्रितत्वाच् च** —  
+अन्यत्रापि ब्रह्म-लिङ्ग-वशात् प्राण-शब्दस्य ब्रह्मणि वृत्तेः,  
+**इहापि** च हिततमोपन्यासादि- -ब्रह्म-लिङ्ग-योगात् ,  
+ब्रह्मोपदेश एवायम्  
+इति गम्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -1650,9 +1801,23 @@ And another reason for assuming the passage to refer to Brahman is that here als
 आश्रितत्वाच्च अन्यत्रापि ब्रह्मलिङ्गवशात्प्राणशब्दस्य ब्रह्मणि वृत्तेः, इहापि च हिततमोपन्यासादिब्रह्मलिङ्गयोगात् , ब्रह्मोपदेश एवायमिति गम्यते।
 </details>
 
+### शरीर-धारणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्तु मुख्य-प्राणलिङ्गं दर्शितम् — ‘इदं शरीरं परिगृह्योत्थापयति’ इति, तद् असत्; प्राण-व्यापारस्यापि परमात्मायत्तत्वात्परमात्मन्युपचरितुं शक्यत्वात् — ‘न प्राणेन नापानेन मर्त्यो जीवति कश्चन।
+यत् तु मुख्य-प्राण-लिङ्गं दर्शितम् —  
+
+> ‘इदं शरीरं परिगृह्योत्थापयति’ 
+
+इति, तद् असत्;  
+प्राण-व्यापारस्यापि परमात्मायत्तत्वात्  
+परमात्मन्य् उपचरितुं शक्यत्वात् —  
+
+> ‘न प्राणेन नापानेन  
+मर्त्यो जीवति कश्चन।  
+इतरेण तु जीवन्ति  
+यस्मिन्न् एताव् उपाश्रितौ’ (क. उ. २। २। ५) 
+
+इति श्रुतेः ।
 </details>
 
 <details><summary>Translation</summary>
@@ -1663,25 +1828,12 @@ The assertion that the passage, 'Having laid hold of this body it makes it rise 
 <details><summary>Translation</summary>
 
 So Scripture also declares, 'No mortal lives by the breath that goes up and by the breath that goes down.
-</details>
-
-<details><summary>मूलम्</summary>
-
-यत्तु मुख्यप्राणलिङ्गं दर्शितम् — ‘इदं शरीरं परिगृह्योत्थापयति’ इति, तदसत्; प्राणव्यापारस्यापि परमात्मायत्तत्वात्परमात्मन्युपचरितुं शक्यत्वात् — ‘न प्राणेन नापानेन मर्त्यो जीवति कश्चन।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-इतरेण तु जीवन्ति यस्मिन्नेतावुपाश्रितौ’ (क. उ. २। २। ५) इति श्रुतेः ।
-</details>
-
-<details><summary>Translation</summary>
-
 We live by another in whom these two repose' (Ka. Up. II, 5, 5).
 </details>
 
 <details><summary>मूलम्</summary>
 
+यत्तु मुख्यप्राणलिङ्गं दर्शितम् — ‘इदं शरीरं परिगृह्योत्थापयति’ इति, तदसत्; प्राणव्यापारस्यापि परमात्मायत्तत्वात्परमात्मन्युपचरितुं शक्यत्वात् — ‘न प्राणेन नापानेन मर्त्यो जीवति कश्चन।
 इतरेण तु जीवन्ति यस्मिन्नेतावुपाश्रितौ’ (क. उ. २। २। ५) इति श्रुतेः ।
 </details>
 
@@ -1700,9 +1852,16 @@ We live by another in whom these two repose' (Ka. Up. II, 5, 5).
 'इन्द सरीरत्तै ऎडुत्तु निऱुत्तुगिऱदु' ऎऩ्ऱु मुक्किय पिराणऩिऩ् लिङ्गमाग ऎदु काट्टप्पट्टदो, अदु सरियल्ल। पिराणऩुडैय वियाबारत्तिऱ्कुक्कूड, परमात्माविऱ्कु अदीऩमायिरुक्कुम् तऩ्मैयिऩाल्, परमात्माविडम् उबसारमाग सॊल्लमुडियुमादलाल्, 'ऎन्द पिराणियुम् पिराणऩिऩाल् जीविप्पदिल्लै, अबाऩऩालुम् इल्लै। आऩाल् इवै इरण्डुम् ऎदिल् आसिरयित्तुक्कॊण्डिरुक्किऩ्ऱऩवो, अन्द वेऱाय् उळ्ळदिऩाल्दाऩ् जीवित्तुक्कॊण्डु इरुक्किऱार्गळ्' (काडग। २-५-५) ऎऩ्ऱ सुरुदियिऩाल्।
 </details>
 
+### वक्तृता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अपि ‘न वाचं विजि-ज्ञासीत वक्तारं विद्यात्’ इत्य्-आदि जीव लिङ्गं दर्शितम् , तदपि न ब्रह्म-पक्षं निवारयति।
+यद् अपि 
+
+> ‘न वाचं विजिज्ञासीत  
+वक्तारं विद्यात्’ 
+
+इत्य्-आदि जीव-लिङ्गं दर्शितम् ,  
+तद् अपि न ब्रह्म-पक्षं निवारयति।
 </details>
 
 <details><summary>Translation</summary>
@@ -1715,14 +1874,21 @@ Nor does the indication of the individual soul which you allege to occur in the 
 यदपि ‘न वाचं विजिज्ञासीत वक्तारं विद्यात्’ इत्यादि जीवलिङ्गं दर्शितम् , तदपि न ब्रह्मपक्षं निवारयति।
 </details>
 
+#### जीव-ब्रह्मैक्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि जीवो नामात्यन्त-भिन्नो ब्रह्मणः, ‘तत्-त्वमसि’ ‘अहं ब्रह्मास्मि’ इत्यादि-श्रुतिभ्यः।
+न हि जीवो नामात्यन्त-भिन्नो ब्रह्मणः, 
+
+> ‘तत् त्वम् असि’  
+
+> ‘अहं ब्रह्मास्मि’ 
+
+इत्य्-आदि-श्रुतिभ्यः।
 </details>
 
 <details><summary>Translation</summary>
 
-For, as the passages, 'I am Brahman,' 'That art thou,' and others, prove, there is in reality no such thing as an individual soul absolutely different from Brahman, but Brahman, in so far as it differentiates itself through the mind (buddhi) and other limiting conditions, is called individual soul, agent, enjoyer.
+For, as the passages, 'I am Brahman,' 'That art thou,' and others, prove, there is in reality no such thing as an individual soul absolutely different from Brahman, 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1732,8 +1898,15 @@ For, as the passages, 'I am Brahman,' 'That art thou,' and others, prove, there 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बुद्ध्याद्युपाधिकृतं तु विशेषम् आश्रित्य ब्रह्मैव सन् जीवः कर्ता भोक्ता चेत्युच्यते।
+बुद्ध्य्-आद्य्-उपाधिकृतं तु विशेषम् आश्रित्य  
+ब्रह्मैव सन् जीवः कर्ता भोक्ता चेत्युच्यते।
 </details>
+
+<details><summary>English</summary>
+
+but Brahman, in so far as it differentiates itself through the mind (buddhi) and other limiting conditions, is called individual soul, agent, enjoyer.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1742,7 +1915,14 @@ For, as the passages, 'I am Brahman,' 'That art thou,' and others, prove, there 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्योपाधि-कृत-विशेष-परित्यागेन स्वरूपं ब्रह्म दर्शयितुम् ‘न वाचं विजि-ज्ञासीत वक्तारं विद्यात्’ इत्य्-आदिना प्रत्यग् आत्माभिमुखी-करणार्थ उपदेशो न विरुध्यते ।
+तस्योपाधि-कृत-विशेष-परित्यागेन  
+स्व-रूपं ब्रह्म दर्शयितुम्  
+
+> ‘न वाचं विजिज्ञासीत  
+वक्तारं विद्यात्’ 
+
+इत्य्-आदिना प्रत्यग्-आत्माभिमुखी-करणार्थ उपदेशो  
+न विरुध्यते ।
 </details>
 
 <details><summary>Translation</summary>
@@ -1755,9 +1935,16 @@ Such passages therefore as the one alluded to, (viz. 'let no man try to find out
 तस्योपाधिकृतविशेषपरित्यागेन स्वरूपं ब्रह्म दर्शयितुम् ‘न वाचं विजिज्ञासीत वक्तारं विद्यात्’ इत्यादिना प्रत्यगात्माभिमुखीकरणार्थ उपदेशो न विरुध्यते ।
 </details>
 
+#### वाग्-उदय-श्रुतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘यद् वाचा-नभ्य् उदितं येन वाग् अभ्य् उद्यते।
+> ‘यद् वाचा ऽनभ्युदितं  
+येन वाग् अभ्युद्यते।  
+तद् एव ब्रह्म त्वं विद्धि  
+नेदं यद् इदम् उपासते’ (के. उ. १। ५) 
+
+इत्य्-आदि च श्रुत्य्-अन्तरं  
+वचनादि-क्रिया-व्यापृतस्यैवात्मनो ब्रह्मत्वं दर्शयति ।
 </details>
 
 <details><summary>Translation</summary>
@@ -1768,26 +1955,29 @@ That the Self which is active in speaking and the like is Brahman appears from a
 <details><summary>मूलम्</summary>
 
 ‘यद्वाचानभ्युदितं येन वागभ्युद्यते।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 तदेव ब्रह्म त्वं विद्धि नेदं यद् इदम् उपासते’ (के. उ. १। ५) इत्य्-आदि च श्रुत्य्-अन्तरं वचनादि-क्रियाव्यापृतस्यैवात्मनो ब्रह्मत्वं दर्शयति ।
 </details>
 
-<details><summary>मूलम्</summary>
-
-तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते’ (के. उ. १। ५) इत्यादि च श्रुत्यन्तरं वचनादिक्रियाव्यापृतस्यैवात्मनो ब्रह्मत्वं दर्शयति ।
-</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 'वाक्कै अऱिन्दुगॊळ्ळादे, पेसुगिऱवऩै अऱियवुम्' ऎऩ्बदु मुदलाऩ जीवलिङ्गङ्गळ् ऎवै काट्टप्पट्टऩवो अवैयुम् कूड पिरह्मम् ऎऩ्गिऱ पक्षत्तै मऱुक्कविल्लै, ‘अदु नी', 'नाऩ् पिरह्मम्' ऎऩ्बदु मुदलाऩ सुरुदिगळिलिरुन्दु जीवऩ् पिरह्मत्तैत् तविर्त्तु पूरावुम् वेऱुबट्टदिल्लै। पुत्ति मुदलिय उबादिगळाल् एऱ्पडुम् विसेषत्तै आसिरयित्तु, पिरह्ममागवे इरुक्कुम् जीवऩ्, कर्त्ता, पोक्ता, ऎऩ्ऱु सॊल्लप्पडुगिऱदु। उबादिगळाल् एऱ्पट्टुळ्ळ विसेषत् तै विट्टुविडुवदिऩाल्, अदऩ् (जीवऩिऩ्) स्वरूबम् पिरह्मम् ऎऩ्ऱु काट्टुवदऱ्काग 'वाक्कै अऱिन्दु कॊळ्ळादे, पेसुगिऱवऩै अऱियवुम्' ऎऩ्बदु मुदलिय ताल् उळ्ळेयुळ्ळ आत्माविऩ् पक्कम् तिरुम्बुम्बडि सॆय्वदऱ्कागवुळ्ळ उबदेसम् विरोद मिल्लै। ‘ऎदु वाक्किऩाल् सॊल्लप्पडुव तिल्लैयो; ऎदऩाल् वाक्कु सॊल्लुगिऱदो, अदुवे पिरह्मम् ऎऩ्ऱु नी अऱिन्दु कॊळ्; इदु ऎऩ्ऱु ऎदै उबासिक्किऱार्गळो अन्द इदु अल्ल' (केन। १-४) ऎऩ्बदु मुदलाऩ वेऱु सुरुदिगळुम् पेसुवदु मुदलाऩ किरियैगळिल् ईडुबट्टिरुक्कुम् आत्माविऱ्के पिरह्मत् तऩ्मैयै काट्टुगिऱदु।
 </details>
 
+### उपाधि-भेदौचित्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्पुनर् एतद् उक्तम् — ‘सह ह्येतावस्मिञ्शरीरे वसतः सहोत्क्रामतः’ इति प्राण-प्रज्ञात्मनोऽर्भेद-दर्शनं ब्रह्म-वादे नोपपद्यत इति, नैष दोषः; ज्ञान-क्रिया-शक्ति-द्वयाश्रययोऽर्बुद्धि-प्राणयोः प्रत्यगात्मोपाधिभूतयोऽर्भेद-निर्देशोपपत्तेः।
+यत् पुनर् एतद् उक्तम् — 
+
+> > ‘सह ह्य् एताव् अस्मिञ् शरीरे वसतः  
+सहोत्क्रामतः’ 
+> 
+> इति प्राण-प्रज्ञाऽऽत्मनोर् भेद-दर्शनं  
+ब्रह्म-वादे नोपपद्यत 
+
+इति, नैष दोषः;  
+ज्ञान-क्रिया-शक्ति-द्वयाश्रययोर् बुद्धि-प्राणयोः  
+प्रत्यग्-आत्मोपाधि-भूतयोर् भेद-निर्देशोपपत्तेः।
 </details>
 
 <details><summary>Translation</summary>
@@ -1802,7 +1992,9 @@ The remark that the statement about the difference of prāṇa and prajñā (con
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपाधि-द्वयोपहितस्य तु प्रत्यगात्मनः स्वरूपेणाभेद इत्य्-अतः ‘प्राण एव प्रज्ञात्मा’ इत्य् एकीकरणम् अविरुद्धम् ॥
+उपाधि-द्वयोपहितस्य तु प्रत्यग्-आत्मनः  
+स्वरूपेणाभेद इत्य्-अतः  
+‘प्राण एव प्रज्ञात्मा’ इत्य् एकीकरणम् अ-विरुद्धम् ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -1820,9 +2012,16 @@ The internal Self, on the other hand, which is limited by those two adjuncts, is
 'इवै इरण्डुमे इन्द सरीरत्तिल् सेर्न्दु वसिक्किऩ्ऱऩ। सेर्न्दे वॆळिक्किळम्बुगिऩ्ऱऩ' ऎऩ्ऱु पिराणऩुक्कुम्, पिरक्ञात्मावुक्कुम् पेदम् काणुवदु पिरह्मत्तै सॊल्वदायिरुन्दाल् पॊरुन्दादु, ऎऩ्ऱु ऎन्द इदु सॊल्लप्पट्टदो, अदु तोषमिल्लै। उळ्ळेयिरुक्कुम् आत्माविऩ् उबादिगळायिरुक्किऱवै कळुम्, ञाऩ सक्ति, किरिया सक्ति, इव्विरण्डिऱ्कुम् (मुऱैये) आसिरयमायुळ्ळवै कळुमाऩ पुत्ति पिराणऩ इवैगळुक्कुळ् पेदत्तै सॊल्वदु पॊरुत् तमाऩदिऩाल्, इरण्डु उबादिगळालुम् उबहिदऩायुळ्ळ (सम्बन्दप्पट्टदु पोल तोऩ्ऱुगिऱ) उळ्ळेयुळ्ळ आत्माविऱ्को स्वरूबत्तिल् पेदमिल्लै ऎऩ्ऱ कारणत्तिऩाल् पिराणऩे पिरक्ञात्मा ऎऩ्ऱु ऒऩ्ऱागच् चॆय्वदु विरुत्तमिल्लै।
 </details>
 
+### धर्म-त्रयाविरोधः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथवा ‘नोपासात्रैविध्यादाश्रितत्वादिह तद्-योगात्’ इत्यस्यायमन्योऽर्थः — न ब्रह्म-वाक्येऽपि जीवमुख्य-प्राणलिङ्गं विरुध्यते।
+अथवा 
+
+> ‘नोपासा-त्रैविध्याद्, आश्रितत्वाद्,  
+इह तद्-योगात्’ 
+
+इत्य्-अस्यायम् अन्योऽर्थः —  
+न ब्रह्म-वाक्येऽपि जीव--मुख्य-प्राणलिङ्गं विरुध्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -1872,7 +2071,8 @@ How so?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रिविधम् इह ब्रह्मण उपासनं विवक्षितम् — प्राण-धर्मेण, प्रज्ञाधर्मेण, स्व-धर्मेण च।
+त्रिविधम् इह ब्रह्मण उपासनं विवक्षितम् —   
+प्राण-धर्मेण, प्रज्ञा-धर्मेण, स्व-धर्मेण च।
 </details>
 
 <details><summary>Translation</summary>
@@ -1885,24 +2085,27 @@ The chapter aims at enjoining three kinds of devout meditation on Brahman, accor
 त्रिविधमिह ब्रह्मण उपासनं विवक्षितम् — प्राणधर्मेण, प्रज्ञाधर्मेण, स्वधर्मेण च।
 </details>
 
+#### प्राण-धर्मः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र ‘आयुरमृतमित्युपास्स्वायुः प्राणः’ इति ‘इदं शरीरं परिगृह्योत्थापयति’ इति ‘तस्माद् एतदेवोक्थम् उपासीत’ इति च प्राण-धर्मः।
+तत्र  
+
+> ‘आयुर् अमृतम् इत्य् उपास्स्वायुः प्राणः’ 
+
+इति 
+
+> ‘इदं शरीरं परिगृह्योत्थापयति’ 
+
+इति 
+
+> ‘तस्माद् एतद् एवोक्थम् उपासीत’ 
+
+इति च प्राण-धर्मः।
 </details>
 
 <details><summary>Translation</summary>
 
-The passages, 'Meditate (on me) as life, as immortality.
-</details>
-
-<details><summary>Translation</summary>
-
-Life is prāṇa,' and 'Having laid hold of this body it makes it rise up.
-</details>
-
-<details><summary>Translation</summary>
-
-Therefore let man worship it alone as uktha,' refer to the prāṇa aspect.
+The passages, 'Meditate (on me) as life, as immortality. Life is prāṇa,' and 'Having laid hold of this body it makes it rise up. Therefore let man worship it alone as uktha,' refer to the prāṇa aspect.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1910,9 +2113,21 @@ Therefore let man worship it alone as uktha,' refer to the prāṇa aspect.
 तत्र ‘आयुरमृतमित्युपास्स्वायुः प्राणः’ इति ‘इदं शरीरं परिगृह्योत्थापयति’ इति ‘तस्मादेतदेवोक्थमुपासीत’ इति च प्राणधर्मः।
 </details>
 
+#### प्रज्ञा-धर्मः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘अथ यथास्यै प्रज्ञायै सर्वाणि भूतान्य् एकी-भवन्ति तद्-व्याख्यास्यामः’ इत्य्-उपक्रम्य ‘वागेवास्या एकमङ्गमदूदुहत्तस्यै नाम परस्तात् प्रति-विहिता भूतमात्रा प्रज्ञया वाचं समारुह्य वाचा सर्वाणि नामान्य् आप्नोति’ इत्यादिः प्रज्ञाधर्मः ।
+> ‘अथ यथास्यै प्रज्ञायै  
+सर्वाणि भूतान्य् एकी-भवन्ति  
+तद्-व्याख्यास्यामः’ 
+
+इत्य्-उपक्रम्य  
+
+> ‘वाग् एवास्या एकम् अङ्गम् अदूदुहत्  
+तस्यै नाम परस्तात् प्रतिविहिता  
+भूत-मात्रा प्रज्ञया वाचं समारुह्य  
+वाचा सर्वाणि नामान्य् आप्नोति’ 
+
+इत्य्-आदिः प्रज्ञाधर्मः ।
 </details>
 
 <details><summary>Translation</summary>
@@ -1930,9 +2145,11 @@ The introductory passage, 'Now we shall explain how all things become one in tha
 अल्लदु, 'इल्लै, उबासऩै मूऩ्ऱु विदमावदाल्, आसिरयिक्कप्पट्टिरुप्पदाल्, इङ्गे अदऩ् सेर्क्कैयिरुप्पदाल्' ऎऩ्ऱ इदऱ्कु इदु वेऱु अर्त्तम्; पिरह्मत्तै सॊल्लुम् वाक्कियत्तिल्गूड जीव लिङ्गमुम् मुक्किय पिराणलिङ्गमुम् विरुत्तमागादु। ऎप्पडि? उबासऩै मूऩ्ऱु विदमायिरुप्पदाल्, पिरह्मत्तिऩ् उबासऩैयाऩदु पिराणदर्मत्तैक् कॊण्डु, पिरक्ञा तर्मत्तैक् कॊण्डु, तऩ् तर्मत्तैक्कॊण्डु, ऎऩ्ऱु मूऩ्ऱु विदमागवल्लवा सॊल्ल उत्तेसम्? अङ्गु, ‘आयुस् अमिरुदमॆऩ्ऱु उबासऩैसॆय्; आयुस् पिराणऩ्' ऎऩ्ऱुम् ‘इन्द सरीरत्तै ऎडुत्तु निऱुत्तुगिऱदु’ ऎऩ्ऱुम्, ‘आगैयाल् इदैये उक्तमाग उबासिक्कवुम्' ऎऩ्ऱुम् इरुप्पदु पिराणऩिऩ् तर्मम्। 'इप्पॊऴुदु ऎप्पडि ऎल्ला पूदङ्गळुम् इन्द पिरक्ञैक्काग ऒऩ्ऱागिऩ्ऱऩ ऎऩ्बदै नऩ्गु विळक्कुगिऱोम्' ऎऩ्ऱु आरम्बित्तु, ‘इदऱ्काग (पिरक्ञैक्काग) वाक्के ऒरु अंसत्तै पूर्त्ति सॆय्ददु; अदऩ् नाम कण् मुदलियवैगळाल् अऱिविक्कप्पट्ट रूबादि पूदमात्तिरै पिऩ् पादियै पिरक्ञैयिऩाल् वाक्किल् एऱिक्कॊण्डु, वाक्किऩाल् ऎल्ला नामाक्कळैयुम् अडैगिऱदु' ऎऩ्बदु मुदलियदु पिरक्ञादर्मम्।
 </details>
 
+#### ब्रह्म-धर्मः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘ता वा एता दशैव भूतमात्रा अधिप्र् अज्ञं दश प्रज्ञामात्रा अधिभूतम्।
+> ‘ता वा एता दशैव भूत-मात्रा अधिप्रज्ञं,  
+दश-प्रज्ञा-मात्रा अधिभूतम्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1947,7 +2164,8 @@ The Brahman aspect finally is referred to in the following passage, 'These ten o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् धि भूतमात्रा न स्युर् न प्रज्ञामात्राः स्युः।
+> यद् धि भूतमात्रा न स्युर्  
+न प्रज्ञामात्राः स्युः।
 </details>
 
 <details><summary>Translation</summary>
@@ -1962,7 +2180,8 @@ If there were no objects there would be no subjects; and if there were no subjec
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् धि प्रज्ञामात्रा न स्युर् न भूतमात्राः स्युः।
+> यद् धि प्रज्ञामात्रा न स्युर्  
+न भूतमात्राः स्युः।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1972,7 +2191,7 @@ If there were no objects there would be no subjects; and if there were no subjec
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न ह्यन्यतरतो रूपं किञ्चन सिध्येत्।
+> न ह्य् अन्यतरतो रूपं किञ्चन सिध्येत्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1987,7 +2206,7 @@ For on either side alone nothing could be achieved.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नो एतन् नाना।
+> नो एतन् नाना।
 </details>
 
 <details><summary>Translation</summary>
@@ -2002,7 +2221,13 @@ But that is not many.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् यथा रथस्यारेषु नेमिरर्पिता नाभावरा अर्पिता एवमेवैता भूतमात्राः प्रज्ञा-मात्रास्वर्पिताः प्रज्ञामात्राः प्राणेऽर्पिताः स एष प्राण एव प्रज्ञात्मा’ इत्यादिर् ब्रह्म-धर्मः।
+> तद् यथा रथस्यारेषु नेमिर् अर्पिता  
+नाभाव् अरा अर्पिता  
+एवम् एवैता भूत-मात्राः प्रज्ञा-मात्रास्व् अर्पिताः  
+प्रज्ञा-मात्राः प्राणे ऽर्पिताः  
+स एष प्राण एव प्रज्ञात्मा’ 
+
+इत्य्-आदिर् ब्रह्म-धर्मः।
 </details>
 
 <details><summary>Translation</summary>
@@ -2015,9 +2240,12 @@ For as in a car the circumference of the wheel is set on the spokes and the spok
 तद्यथा रथस्यारेषु नेमिरर्पिता नाभावरा अर्पिता एवमेवैता भूतमात्राः प्रज्ञामात्रास्वर्पिताः प्रज्ञामात्राः प्राणेऽर्पिताः स एष प्राण एव प्रज्ञात्मा’ इत्यादिर्ब्रह्मधर्मः।
 </details>
 
+
+#### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माद् ब्रह्मण एवैतद् उपाधि-द्वय-धर्मेण स्व-धर्मेण चैकम् उपासनं त्रिविधं विवक्षितम्।
+तस्माद् ब्रह्मण एवैतद्-उपाधि-द्वय-धर्मेण स्व-धर्मेण च  
+एकम् उपासनं त्रि-विधं विवक्षितम्।
 </details>
 
 <details><summary>Translation</summary>
@@ -2030,9 +2258,15 @@ Thus we see that the one meditation on Brahman is here represented as threefold,
 तस्माद्ब्रह्मण एवैतदुपाधिद्वयधर्मेण स्वधर्मेण चैकमुपासनं त्रिविधं विवक्षितम्।
 </details>
 
+#### अन्यत्रापि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्यत्रापि ‘मनोमयः प्राण-शरीरः’ (छा. उ. ३। १४। २) इत्यादावुपाधि-धर्मेण ब्रह्मण उपासनम् आश्रितम्; इहापि तद् युज्यते वाक्यस्योपक्रमोपसंहाराभ्यामेकार्थत्वावगमात् प्राण-प्रज्ञाब्रह्मलिङ्गावगमाच्च।
+अन्यत्रापि 
+
+> ‘मनोमयः प्राण-शरीरः’ (छा. उ. ३। १४। २) 
+
+इत्य्-आदाव् उपाधि-धर्मेण ब्रह्मण उपासनम् **आश्रितम्**;  
+**इहापि** तद् युज्यते वाक्यस्योपक्रमोपसंहाराभ्याम् एकार्थत्वावगमात् प्राण-प्रज्ञा-ब्रह्म-लिङ्गावगमाच् च।
 </details>
 
 <details><summary>Translation</summary>
@@ -2085,20 +2319,23 @@ It therefore remains a settled conclusion that Brahman is the topic of the whole
 आगैयाल् इदु पिरह्म विषयमाऩ वाक्कियम् ऎऩ्बदु सित्तम्
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ शारीरकमीमांसासूत्रभाष्ये प्रथमाध्यायस्य प्रथमः पादः ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः कृतौ शारीरकमीमांसासूत्रभाष्ये प्रथमाध्यायस्य प्रथमः पादः ॥
+</details>
+
+
+<details><summary>तमिऴ्</summary>
 
 இவ்விதம் ஸ்ரீமத் பரமஹம்ஸ பரிவ்ராஜகாசார்யராயும்  
 ஸ்ரீமத் கோவிந்த பகவத்பூஜ்ய பாத சிஷ்யராயுமுள்ள  
 ஸ்ரீமத் சங்கரபகவத்பூஜ்ய பாதரின் கிருதியான  
 ஸ்ரீமத் சாரீரக மீமாம்ஸா பாஷ்யத்தில் முதலாவது அத்யாயத்தில் முதலாவது பாதம்.
 
-<details><summary>Appendix</summary>
-
-- Translation blocks were re-aligned to the Sanskrit sentences they translate; the G-number references below describe the pre-fix grouping.
-- 24 bare Sanskrit paragraphs (lines 28,50,57,64,76,83,89,96,103,115,127,134,140,147,154,161,164,176,188,195,212,219,226,233) -> 114 groups (G0 header sutra duplicate +113 body: 32+1+23+1+8+1+47). 37 Tamil blocks in body preserved (38 total incl header). Header lines 1-16 untouched. Bare-Tamil line 162 preserved verbatim. Colophon 250-255 preserved verbatim.
-- G0: SA duplicate `प्राणस्तथानुगमात् ॥ २८ ॥  ` (header line 6 verbatim, trailing spaces preserved) + EN sutra28. No Tamil (header Tamil preserved). Thibaut sutra-first, SA sutra-first agree; EN28-sutra placed immediately after header for sequential match.
-- Groupings to preserve verbatim sequential match (SA units intact, EN split, no split inside refs): 28 section 32 SA vs 27 EN -> +5 (G7-G8 But 1->2 at "," before and-as-here-also; G10-G12 For-in 1->3 at 2x";" outside refs; G18-G19 At-beginning 1->2 at "," before quote; G29-G30 For-he 1->2 at ";"); 29 section 23 vs 19 -> +4 (G37-G38 How 1->2, G41-G42 Scripture 1->2, G43-G44 Personal 1->2, G50-G51 Of-same 1->2, all at ";" outside refs); 30 section 8 vs 8 -> 1-1, no splits; 31 section 47 vs 45 -> +2 (G80-G81 But-inappropriate 1->2, G82-G83 In-beginning 1->2, both at ";" outside refs). All other groups 1-1. No split inside (कौ. उ. ३। १), (Kau. Up. III, 1), (Pra. Up. II, 3), (Br. Up. II, 5, 19), (Ka. Up. II, 5, 5).
-- Verbatim preserved, no corrections: SA trailing spaces `न वक्तुरात्मोपदेशादिति चेदध्यात्मसम्बन्धभूमा ह्यस्मिन् ॥ २९ ॥  ` (G33), `शास्त्रदृष्ट्या तूपदेशो वामदेववत् ॥ ३० ॥  ` (G57), `जीवमुख्यप्राणलिङ्गान्नेति चेन्नोपासात्रैविध्यादाश्रितत्वादिह तद्योगात् ॥ ३१ ॥  ` (G66), header `प्राणस्तथानुगमात् ॥ २८ ॥  ` (G0); SA spellings kept; EN typos kept (e.g. "beings Thus" missing period after beings, "i.e." kept); Joined EN line-wraps with single space: "let him know"+"the speaker," / "wishes"+"to lead up" / "Self"+"of some deity" / "arrive at"+"the conclusion" / "and we"+"therefore" / "showing that the"+"individual" / "These ten"+"objects" / "who in the"+"passage" / "How"+"Up. III" kept with protection (no split inside refs). No split inside refs.
-- Notes: fn_133 -> G49, fn_134 -> G54 (29 section); fn_135 -> G58 (30 section); fn_136 -> G73, fn_137 -> G85, fn_138 -> G97, fn_139 -> G112 (31 section). Inline markers preserved verbatim in Translation. Single Notes block per group with verbatim defs. No notes elsewhere (28 section none, sutras none).
-- Translation files 28-31 fully covered in order (28 body 27->32 via splits +sutra28 G0; 29 body 19->23 +sutra29 G33; 30 body 8->8 +sutra30 G57; 31 body 45->47 +sutra31 G66). Total EN 4 sutras +99 base sents +11 splits =114 groups. No missing SA (113+dup). No extra EN beyond grouping.
 </details>
+
