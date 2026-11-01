@@ -69,3 +69,35 @@ they might as well pick up shikhopavIta while at it.
 
 ##### आगमोल्लङ्घनम्
 shrI vidhushekhara bhAratI of shRngerI maTha supposedly violating pAncharAtra Agama-s by entering garbha-gRha of Kallapiran Koil Srivaikuntham (an SV divya-desha); and even doing chandramoulishwara pooja in the precincts a few years ago. Source: [TW](https://x.com/dyugangaa/status/1997515909225959699)
+
+
+## उन्माद-प्रोत्साहनम्
+### rAmakRShNa mission
+neo-advaitin rAmakRShNa mission celebrates christmas since 1886. rAmakRShNa mission & vivekAnanda claim to follow shankarAchArya, and certain branches count among their preceptors traditional shAnkara maTha-s like shRngerI.
+
+Source: [TW](https://www.youtube.com/watch?v=N6xlr3qFPeM&t=2s)
+
+
+Ramakrishna himself had a vision of Christ in late 1874 at Jadu Mallick's garden house in Baranagar while gazing at a painting of Madonna and Child. He went into samadhi and later said he saw Christ merging into him.
+
+On a chilling winter night of December 1886 at Antpur village, the ancestral home of Baburam Maharaj, Swami Vivekananda was speaking to 8 brother disciples about the life and sacrifice of Jesus and they took vows of renunciation. That night was later found to be Dec 24, Christmas Eve.
+
+#### shAnkara connection
+Sri Ramakrishna took Advaita sannyasa diksha from Sri Tota Puri, a Naga sannyasi of the Puri akhara.
+
+Sringeri's official site notes [TW](https://www.sringeri.net/events/monks-ramakrishna-math-call-jagadguru):
+
+> Sri Sringeri Shankara Math, Shankarapuram and Sri Ramakrishna Math, Basavanagudi are two great centres of philosophy and Vedic culture in the heart of Bangalore city. The Ramakrishna Math holds the Dakshinamnaya Sri Sharada Peetham as the Guru Peetham.
+
+### shivAnanda
+Sivananda was a Dashanami sannyasi but taught strict Advaita Vedanta through his Yoga of Synthesis. In the ashram, Christmas Eve is a major celebration every year, and is followed by a one-week retreat for devotees from abroad.
+
+
+### Miscellaneous vedAnta societies
+
+Vedanta Society of Southern California - Hollywood and Santa Barbara temples list on their official calendar: CHRISTMAS EVE SERVICE and JESUS CHRIST (Christmas Day). Swami Prabhavananda's lectures there became the book The Sermon On The Mount According To Vedanta. 
+
+### Paramahansa Yogananda
+Yogoda Satsanga Society of India / Self-Realization Fellowship
+
+Yogananda was initiated in Advaita lineage via Sri Yukteswar and Shankara tradition, but taught Kriya Yoga. For him Christmas is the biggest sadhana day of the year.
