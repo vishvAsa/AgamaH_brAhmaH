@@ -2164,7 +2164,7 @@ The Brahman aspect finally is referred to in the following passage, 'These ten o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> यद् धि भूतमात्रा न स्युर्  
+> यद् धि भूत-मात्रा न स्युर्  
 न प्रज्ञामात्राः स्युः।
 </details>
 
@@ -2180,7 +2180,7 @@ If there were no objects there would be no subjects; and if there were no subjec
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> यद् धि प्रज्ञामात्रा न स्युर्  
+> यद् धि प्रज्ञा-मात्रा न स्युर्  
 न भूतमात्राः स्युः।
 </details>
 
