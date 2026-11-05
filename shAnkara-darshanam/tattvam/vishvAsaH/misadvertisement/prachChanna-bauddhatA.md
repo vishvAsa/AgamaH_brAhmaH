@@ -130,3 +130,5 @@ is obviously contrary to nirvisheSha-brahma-vAda. Rather they're worried about a
 > The accusations against shentong are closer but they still don't have anything to do with the two truths.
 > \- Andra
 
+## stUpa at kAlaDi
+A stUpa, of all things, was erected for shankara at kAlaDi ... by shAnkaras led by chandrashekharendra-sarasvatI (mahAperiyava) :-D Apt for a crypto-bauddha.
