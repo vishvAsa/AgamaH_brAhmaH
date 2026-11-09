@@ -9,7 +9,8 @@ title = "आचारः"
 उपवीत-हानं शास्त्र-विरुद्धम् इति सुष्ठु प्रतिपादितं  
 शतदूषण्यां [यतिलिङ्ग-भेद-भङ्ग-वादे](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/shata-dUShaNI/mUlam/64_yatilingabhedabhangavAdaH) वेङ्कटनाथार्येण । 
 
-> ‘यज्ञोपवीतं वेदांश्च सर्वं तद्वर्जयेद्यतिः’
+### veda
+> ‘यज्ञोपवीतं वेदांश्च सर्वं तद् वर्जयेद् यतिः’
 
 इति शङ्करो बृहदारण्योपनिषद्-भाष्ये काम् अपि तथा-कथित-श्रुतिम् उदाहरति।  
 
@@ -17,6 +18,29 @@ Recently shAnkaran yati-s have started reversing the latter (by reciting veda-s)
 they might as well pick up shikhopavIta while at it.
 
 > No right for veda mantras except mahavakyas. Sringeri and kanchi yatis reciting veda mantras these days is new stuff. - RL
+
+### कर्म-सन्न्यासः
+shANkara yati-s are observed to perform certain karma-s -  
+
+- kAnchI yati-s lighting fire crackers (popularly supposed to be for ulkA-dAna to pitR-s)
+- 
+
+Lokasangraha argument here is flawed. A sannyAsin cannot say "I'll show gRhastha-s how to be a husband" and take a woman. If one has claimed to have done sarva-karma-sannyAsa, taking it up again shows either
+
+- futility of your "sarva-karma-sannyAsa"
+- hypocracy.
+
+#### Selective tyAga
+> In aacharana, karma sannyasa is about sandhyavandanam, agnihotra etc. And eventually it implies naishkarmya siddhi
+
+Selective "karma-tyAga" in practice reminds one of -
+
+> सन्ध्या-वन्दन-वेलायां  
+> मुक्तो ऽहम् इति मन्यसे ।  
+> खण्ड-लड्डुक-वेलायां  
+> दण्डम् आदाय धावसि ॥
+
+
 
 ### वैष्णवैर् व्यवहारः
 - चन्द्रशेखरेन्द्र-सरस्वती - कुम्भकोणे वाजपेय-पाठो ऽत्र - [TW](https://youtu.be/2Y-lu8e3VIQ?t=245) । 
