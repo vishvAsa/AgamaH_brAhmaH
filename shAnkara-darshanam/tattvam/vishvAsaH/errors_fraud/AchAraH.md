@@ -22,8 +22,8 @@ they might as well pick up shikhopavIta while at it.
 ### कर्म-सन्न्यासः
 shANkara yati-s are observed to perform certain karma-s -  
 
-- kAnchI yati-s lighting fire crackers (popularly supposed to be for ulkA-dAna to pitR-s)
-- 
+- kAnchI yati-s lighting or holding fire crackers (popularly supposed to be for ulkA-dAna to pitR-s)  [TW](https://x.com/KamakotiNilaya/status/2119282096820928977)
+
 
 Lokasangraha argument here is flawed. A sannyAsin cannot say "I'll show gRhastha-s how to be a husband" and take a woman. If one has claimed to have done sarva-karma-sannyAsa, taking it up again shows either
 
