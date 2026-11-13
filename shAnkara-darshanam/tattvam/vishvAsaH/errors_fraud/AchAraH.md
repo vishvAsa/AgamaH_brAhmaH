@@ -40,7 +40,11 @@ Selective "karma-tyAga" in practice reminds one of -
 > खण्ड-लड्डुक-वेलायां  
 > दण्डम् आदाय धावसि ॥
 
+### दण्डः
+> "ज्ञानात्मकैकदण्डाढ्यः"
 
+इत्य् उदाहृत्य त्रिदण्डैकदण्डयोर् अधिकार-व्यवस्थां कथयति  [स्स्स्]([TW](https://www.youtube.com/watch?v=RuQj-27k3Bs))।  
+नैतद् एवम् - शतदूषण्यां [यतिलिङ्ग-भेद-भङ्ग-वादे](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/shata-dUShaNI/mUlam/64_yatilingabhedabhangavAdaH) वेङ्कटनाथार्येण त्रि-दण्ड-मुख्य-कल्पता प्रतिपादिता।
 
 ### वैष्णवैर् व्यवहारः
 - चन्द्रशेखरेन्द्र-सरस्वती - कुम्भकोणे वाजपेय-पाठो ऽत्र - [TW](https://youtu.be/2Y-lu8e3VIQ?t=245) । 
