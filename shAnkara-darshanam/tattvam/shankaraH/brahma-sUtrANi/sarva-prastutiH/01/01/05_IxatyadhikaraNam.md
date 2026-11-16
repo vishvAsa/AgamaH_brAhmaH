@@ -17,7 +17,7 @@ title = "०५ ईक्षत्यधिकरणम्"
 इव्विदम् पिरह्ममायुळ्ळ आत्मावै अऱिवदै पिरयोजऩमायुळ्ळदायुम्, पिरह्ममायुळ्ळ आत्मा विडत्तिल् तात्पर्यत्तुडऩ् ऒऱ्ऱुप्पोव तायुमुळ्ळ वेदान्द वाक्कियङ्गळुक्कु, कर्माविल् पिरवेसमिल् लामले, पिरह्मत्तिल् मुडिवु ऎऩ्ऱु सॊल्लप्पट्टदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 So far it has been declared that the Vedānta-passages, whose purport is the comprehension of Brahman being the Self, and which have their object therein, refer exclusively to Brahman without any reference to actions.
 </details>
@@ -38,7 +38,7 @@ So far it has been declared that the Vedānta-passages, whose purport is the com
 पिरह्ममुम्, सर्वक्ञमाय् सर्वु सक्तियुळ्ळदाय्, जगत्तिऩ् उत्पत्ति स्तिदि नासङ्गळुक्कुक् कारणम् ऎऩ्ऱुम् सॊल्लप् पट्टुविट्टदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And it has further been shown that Brahman is the omniscient omnipotent cause of the origin, subsistence, and dissolution of the world.
 </details>
@@ -62,7 +62,7 @@ And it has further been shown that Brahman is the omniscient omnipotent cause of
 साङ्गियर् मुदलाऩवर्गळो, मुऩ्ऩमे निलैत्तिरुक्कुम् वस्तु वेऱु पिरमाणङ्गळाल् अऱियक् कूडियदे ऎऩ्ऱु ऎण्णिक्कॊण्डु, पिरदाऩम् मुदलिय वेऱु कारणङ्गळै अऩुमाऩम् सॆय्दुगॊण्डु, अवैगळिलेये तात्पर्यमुळ्ळदाग वेदान्द वाक्कियङ्गळै सेर्त्तुविडुगिऱार्गळ्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But now the Sānkhyas and others being of opinion that an existent substance is to be known through other means of proof (not through the Veda) infer different causes, such as the pradhāna and the like, and thereupon interpret the Vedānta-passages as referring to the latter.
 </details>
@@ -85,7 +85,7 @@ But now the Sānkhyas and others being of opinion that an existent substance is 
 स्रुष्टियै विषयमायुळ्ळ ऎल्ला वेदान्द वाक्कियङ्गळिलुमे अऩुमाऩत्तिऩालेये, कार्यत्तिलिरुन्दु कारणत्तै ऎडुत्तुक्काट्टुवदिल् उत्तेसम्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All the Vedānta-passages, they maintain, which treat of the creation of the world distinctly point out that the cause (of the world) has to be concluded from the effect by inference;
 </details>
@@ -107,7 +107,7 @@ All the Vedānta-passages, they maintain, which treat of the creation of the wor
 पिरदाऩत्तिऱ्कुम् पुरुषऩुक्कुमुळ्ळ सेर्क्कैगळ् ऎप्पॊऴुदुम् अऩुमाऩत्तिऩाल् अऱियक्कूडियवै ऎऩ्ऱु साङ्गियर् ऎण्णुगिऱार्गळ्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the cause which is to be inferred is the connexion of the pradhāna with the souls (purusha).
 </details>
@@ -141,7 +141,7 @@ and the cause which is to be inferred is the connexion of the pradhāna with the
 काणादर्गळो - इन्द वाक्कियङ्गळिलिरुन्दे ईसुवरऩै निमित्त कारणमागवुम्, अणुक्कळै ऒट्टिऩ (उबादाऩ) कारणमागवुम्, ऊहिक्किऱार्गळ्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The followers of Kaṇāda again infer from the very same passages that the Lord is the efficient cause of the world while the atoms are its material cause.
 </details>
@@ -162,7 +162,7 @@ The followers of Kaṇāda again infer from the very same passages that the Lord
 इव्विदम् वेऱु तार्क्किगर्गळुम् वाक्याबासम् युक्त्याबासम् इवैगळैप् पिडित्तुक्कॊण्डु पूर्वबक्षम् सॊल्लु किऱवर्गळाग इव्विषयत्तिल् किळम्बुगिऱार्गळ्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And thus other argumentators also taking their stand on passages apparently favouring their views and on fallacious arguments raise various objections.
 </details>
@@ -184,7 +184,7 @@ And thus other argumentators also taking their stand on passages apparently favo
 अप्पडियिरुक्कैयिल्, पदम् वाक्कियम् पिरमाणम् इवैगळै अऱिन्दुळ्ळ आसार्यराल्, वेदान्द वाक्कियङ्गळुक्कु पिरह्मञाऩत्तिल् ताऩ् तात्पर्य मॆऩ्ऱु काट्टुवदऱ्काग वाक्कियाबासङ् गळिऩालुम् युक्तयाबासङ्गळिऩालुम् एऱ्पडुम् अबिप्पिरायङ्गळ् पूर्वबक्षमागच् चॊल्लप्पट्टु निरागरिक्कप्पडुगिऩ्ऱऩ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For this reason the teacher (Vyāsa)--thoroughly acquainted as he is with words, passages, and means of proof--proceeds to state as primā facie views, and afterwards to refute, all those opinions founded on deceptive passages and fallacious arguments. Thereby he at the same time proves indirectly that what the Vedānta-texts aim at is the comprehension of Brahman.
 </details>
@@ -218,7 +218,7 @@ For this reason the teacher (Vyāsa)--thoroughly acquainted as he is with words,
 पूर्वबक्षम्: अङ्गु साङ्गियर् मूऩ्ऱु कुणङ्गळु टऩ् कूडियदाय् असेदऩमायुळ्ळ पिरदाऩम् कारण मॆऩ्ऱु ऎण्णिक्कॊण्डु सॊल्गिऱार्गळ्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Sānkhyas who opine that the non-intelligent pradhāna consisting of three constituent elements (guṇa) is the cause of the world argue as follows.
 </details>
@@ -240,7 +240,7 @@ The Sānkhyas who opine that the non-intelligent pradhāna consisting of three c
 ऎन्द वेदान्द वाक्कियङ्गळ् सर्वक्ञमाय् सर्वसक्तियुळ्ळ तायिरुक्कुम् पिरह्मत्तिऱ्कु जगत्तिऩ् कारणमायिरुक्कुम् तऩ्मैयै काट्टुगिऩ्ऱऩवॆऩ्ऱु सॊऩ्ऩीरो, अवैगळै पिरदाऩम् कारणम् ऎऩ्ऱ पक्षत्तिल् कूड पॊरुत्त मुडियुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Vedānta-passages which you have declared to intimate that the all-knowing all-powerful Brahman is the cause of the world can be consistently interpreted also on the doctrine of the pradhāna being the general cause.
 </details>
@@ -260,7 +260,7 @@ The Vedānta-passages which you have declared to intimate that the all-knowing a
 ऎल्ला सक्तियुमुळ्ळ तऩ्मै पिरदाऩत्तिऱ्कुम् कूड अदऩ् विगारङ्गळिऩ् विषयमागप् पॊरुन्दुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Omnipotence (more literally: the possession of all powers) can be ascribed to the pradhāna in so far as it has all its effects for its objects.
 </details>
@@ -281,7 +281,7 @@ Omnipotence (more literally: the possession of all powers) can be ascribed to th
 इव्विदम् सर्वक्ञत्तऩ्मैयुम् पॊरुन्दुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All-knowingness also can be ascribed to it,
 </details>
@@ -301,7 +301,7 @@ All-knowingness also can be ascribed to it,
 ऎप्पडि?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 viz. in the following manner.
 </details>
@@ -324,7 +324,7 @@ viz. in the following manner.
 ऎदै ञाऩम् ऎऩ्ऱु निऩैक्किऱीरो अदु सत्वगुणत्तिऩ् तर्मम्। 'सत्वत्तिलिरुन्दु ञाऩम् एऱ्पडुगिऱदु' (कीदै १४ -१७) ऎऩ्ऱ स्मिरुदियिऩाल्
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What you think to be knowledge is in reality an attribute of the guṇa of Goodness [^fn_94], according to the Smr̥ti passage 'from Goodness springs knowledge' (Bha. Gītā XIV, 17).
 </details>
@@ -345,7 +345,7 @@ What you think to be knowledge is in reality an attribute of the guṇa of Goodn
 अन्द सत्वगुणदर्ममाऩ ञाऩत्तिऩाल् सरीरम् इन्दिरियमुळ्ळ पुरुषर्गळ् सर्वक्ञर्गळाऩ योगिगळ् ऎऩ्ऱु पिरसित्तर् कळायिरुक्किऱार्गळ्
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 By means of this attribute of Goodness, viz. knowledge, certain men endowed with organs which are effects (of the pradhāna) are known as all-knowing Yogins;
 </details>
@@ -365,7 +365,7 @@ By means of this attribute of Goodness, viz. knowledge, certain men endowed with
 सत्व कुणत्तिऱ्कु ऎल्लै अऱ्ऱ एऱ्ऱमिरुन्दाल् सर्वक्ञत् तऩ्मै पिरसित्तमल्लवा?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for omniscience is acknowledged to be connected with the very highest degree of 'Goodness.'
 </details>
@@ -390,7 +390,7 @@ for omniscience is acknowledged to be connected with the very highest degree of 
 सर्वक्ञत्तऩो अल्बक्ञत् तऩो कल्बिप्पदु मुडियादु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now to the soul (purusha) which is isolated, destitute of effected organs, consisting of pure (undifferenced) intelligence it is quite impossible to ascribe either all-knowingness or limited knowledge;
 </details>
@@ -424,7 +424,7 @@ Now to the soul (purusha) which is isolated, destitute of effected organs, consi
 पिरदाऩत्तिऱ्कु मूऩ्ऱु कुणङ्गळुळ्ळ तऩ्मै यिरुप्पदिऩालो, पिरदाऩमायिरुक्कुम् निलैयिल् कूड, ऎल्ला ञाऩत्तिऱ्कुम् कारणमायुळ्ळ सत्वम् इरुक्किऱदु ऎऩ्बदिऩाल्, असेदऩमायिरुक्कुम् पिरदाऩत्तिऱ्कुम्गूड सर्वक्ञत्तऩम् उबसारमाग सॊल्लप्पडुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the pradhāna, on the other hand, because consisting of the three guṇas, comprises also in its pradhāna state the element of Goodness which is the cause of all-knowingness. The Vedānta-passages therefore in a derived (figurative) sense ascribe all-knowingness to the pradhāna, although it is in itself non-intelligent.
 </details>
@@ -447,7 +447,7 @@ the pradhāna, on the other hand, because consisting of the three guṇas, compr
 वेदान्द वाक्कियङ्गळिल् सर्वक्ञमायुळ्ळ पिरह्मत्तै ऒप्पुक्कॊळ्गिऱ उम्मालुम् ऎल्ला ञाऩ विषयमाऩ सक्तियुळ्ळदॆऩ्ऱ मुऱैयिलेये सर्वक्ञत् तऩ्मै ऎऩ्ऱु अवसियम् ऒप्पुक्कॊळ्ळप्पड वेण्डुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover you (the Vedāntin) also who assume an all-knowing Brahman can ascribe to it all-knowingness in so far only as that term means capacity for all knowledge.
 </details>
@@ -467,7 +467,7 @@ Moreover you (the Vedāntin) also who assume an all-knowing Brahman can ascribe 
 ऎल्ला विषयमाऩ ञाऩत्तै सॆय्दुगॊण्डे (ऎल्लावऱ्ऱैयुम् अऱिन्दु कॊण्डे) पिरह्मम् इरुप्पदिल्लैयल्लवा?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For Brahman cannot always be actually engaged in the cognition of everything;
 </details>
@@ -488,7 +488,7 @@ For Brahman cannot always be actually engaged in the cognition of everything;
 अप्पडिये ञाऩम् ऎप्पॊऴुदुम् उळ्ळदॆऩ्ऱाल्, अऱिवदु ऎऩ्ऱ किरियै विषयत्तिल् पिरह्मत्तिऱ्कु स्वादन्दिरियम् इल्लै यॆऩ्ऱु आगिविडुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for from this there would follow the absolute permanency of his cognition, and this would involve a want of independence on Brahman's part with regard to the activity of knowing.
 </details>
@@ -510,7 +510,7 @@ for from this there would follow the absolute permanency of his cognition, and t
 अदु अनित्यमॆऩ्ऱालो, ञाऩमागिऱ किरियैयिलिरुन्दु पिरह्मम् विलगिक् कॊळ्ळलाम्। अप्पॊऴुदु ऎल्ला ञाऩ विषयमाऩ सक्तियुळ्ळदिऩालेये सर्वक्ञत्तऩ्मै ऎऩ्ऱु एऱ्पडुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And if you should propose to consider Brahman's cognition as non-permanent it would follow that with the cessation of the cognition Brahman itself would cease. Therefore all-knowingness is possible only in the sense of capacity for all knowledge.
 </details>
@@ -545,7 +545,7 @@ And if you should propose to consider Brahman's cognition as non-permanent it wo
 तविरवुम्, (जगत्तु) उण्डावदऱ्कु मुऩ्ऩाल्, ऎव्विद कारगमऱ्ऱ पिरह्मम् उम्माल् ऒप्पुक् कॊळ्ळप्पडुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover you assume that previously to the origination of the world Brahman is without any instruments of action.
 </details>
@@ -566,7 +566,7 @@ Moreover you assume that previously to the origination of the world Brahman is w
 ञाऩत्तिऱ्कु सादऩमायुळ्ळ सरीरम् इन्दिरियम् मुदलियवैगळिल्लामल् यारुक्कुम् ञाऩम् एऱ्पडुवदु युक्तमागादु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But without the body, the senses, &c. which are the instruments of knowledge, cognition cannot take place in any being.
 </details>
@@ -590,7 +590,7 @@ But without the body, the senses, &c. which are the instruments of knowledge, co
 मेलुम् पिरदाऩत्तिऱ्कु पलविद तऩ्मैयुळ्ळदाल् माऱुदल् एऱ्पडक्कूडियदाल्, मण् मुदलियदैप्पोल, कारणत्तऩ्मै पॊरुन्दुम्; ऒऩ्ऱुडऩुम् सेराददाय् ऒरे स्वरूबत्तुडऩिरुक्कुम् पिरह्मत्तिऱ्कु पॊरुन्दादु; ऎऩ्ऱु इव्विदम् एऱ्पडुम् पोदु इन्द सूत्रम् आरम्बिक्कप् पट्टिरुक्किऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And further it must be noted that the pradhāna, as consisting of various elements, is capable of undergoing modifications, and may therefore act as a (material) cause like clay and other substances; while the uncompounded homogeneous Brahman is unable to do so.
 
@@ -620,7 +620,7 @@ To these conclusions he (Vyāsa) replies in the following Sūtra.
 ईक्षदेर्नासप्तम्: ॥ ५ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 5. On account of seeing (i. e. thinking being attributed in the Upanishads to the cause of the world; the pradhāna) is not (to be identified with the cause indicated by the Upanishads; for) it is not founded on Scripture.
 </details>
@@ -667,7 +667,7 @@ To these conclusions he (Vyāsa) replies in the following Sūtra.
 (उबनिषत्तुक्कळिल् कारणवस्तुविऱ्कु ईक्षणम् (पार्वै) सॊल्लियिरुप्पदाल् जडमाऩ पिरदाऩम् उबनिषत् पिरदिबात्यमिल्लै। आगैयाल् पिरदाऩम् जगत् कारणमल्ल)। (ऎल्ला उबनिषत्तुक्कळुक्कुम् अत्वैदप्रह् मत्तिल्दाऩ् तात्पर्यम्। अन्द प्रह्ममे जगत् कारणम् ऎऩ्ऱु तीर्माऩिक्कप्पट्टदु। इदऱ्कु माऱागक्कूऱुम् साङ्ग्यऩुडैय सित्तान्दम् इन्द अदिगरणत्तिल् निरागरिक्कप्पडुगिऱदु। 'ऎऩ्ऩा' ऎऩ्ऱ सान्दोक्यच्रुदि पिरदाऩत्तैच् चॊल्गिऱदा पिरह्मत्तैच् चॊल्गिऱदा ऎऩ्ऱु सन्देहम् सत्वगुणत्तिऩ् कारियमाऩ ञाऩ सक्ति पिरदाऩत्तिल् इरुप्पदाल् इन्द सुरुदि पिरदाऩत्तैये सर्वगारणमागक् कूऱुगिऱदु ऎऩ्बदु साङ्ग्यऩिऩ् पूर्वबक्षम् सेदऩमाऩ पिरह्मत्तिऱ् कुत्ताऩ् मुक्कियमाग ईक्षणम् पॊरुन्दुम्। आत्म सप्तमुम् आत्मदादात्म्यमुम् प्रदाऩत्तिऱ्कु पॊरुन्दादु। आगैयाल् पिरह्मत्तैये जगत् कारणमाग सान्दोक्यच्रुदि उबदेसिक्किऱदु ऎऩ्बदु सित्तान्दम्)। सित्तान्दम्:- "साङ्गियराल् कल्बिक्कप्पडुगिऱ असेदऩमाऩ पिरदाऩम् जगत्तिऩ् कारणम् ऎऩ्ऱु वेदान्दङ्गळिल् एऱ्ऱुक्कॊळ्ळमुडियादु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is impossible to find room in the Vedānta-texts for the non-intelligent pradhāna, the fiction of the Sānkhyas;
 </details>
@@ -687,7 +687,7 @@ It is impossible to find room in the Vedānta-texts for the non-intelligent prad
 अदु ‘सप्तमऱ्ऱदु’ अल्लवा?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 because it is not founded on Scripture.
 </details>
@@ -707,7 +707,7 @@ because it is not founded on Scripture.
 ऎप्पडि ‘सप्तमऱ्ऱदु’?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 How so?
 </details>
@@ -730,7 +730,7 @@ How so?
 'पार्वैयिरुप्पदाल्', कारण वस्तुविऱ्कु पार्क्कुम् तऩ्मै सॊल्लियिरुप्पदाल्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Because the quality of seeing, i. e. thinking, is in Scripture ascribed to the cause.
 </details>
@@ -751,7 +751,7 @@ Because the quality of seeing, i. e. thinking, is in Scripture ascribed to the c
 ऎप्पडि?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For
 </details>
@@ -781,7 +781,7 @@ For
 इप्पडियल्लवा सॊल्लप्पडुगिऱदु?- 'हे सोम्य, मुऩ्ऩाल् इदु सत्वस्तुवागवे, ऒऩ्ऱागवे, इरण्डावदऱ्ऱदाग इरुन्ददु (सान्। ६-२-१) ऎऩ्ऱु आरम्बित्तु ‘अदु पलवाग आवेऩ्, उण्डावेऩ्, ऎऩ्ऱु पार्त्तदु (ऎण्णिऱ्ऱु, आलोसित्तदु); पिऱगु तेजसै स्रुष्टित्तदु' (सान्। ६-२-३) ऎऩ्ऱु
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the passage, Cḥ. Up. VI, 2, (which begins: 'Being only, my dear, this was in the beginning, one only, without a second,' and goes on, 'It thought (saw), may I be many, may I grow forth. It sent forth fire,')
 </details>
@@ -804,7 +804,7 @@ the passage, Cḥ. Up. VI, 2, (which begins: 'Being only, my dear, this was in t
 अङ्गे 'इदु' ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुवदाय् नामरूबङ्गळाल् विस्तरिक्कप् पट्टिरुक्किऱ जगत् उण्डावदऱ्कु मुऩ्ऩाल्, सत्वस्तु स्वरूबमागवेयिरुन्ददॆऩ्ऱु उऱुदिप्पडुत्ति, पिरगिरुद मायुळ्ळ 'सत्' सप्तत्तिऩाल् सॊल्लप्पडुगिऱ अदऱ्के ईक्षणबूर्वमाग तेजस् मुदलियवैगळै स्रुष्टिक् किऱवर् ऎऩ्ऱ तऩ्मैयैक् काट्टुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 declares that this world differentiated by name and form, which is there denoted by the word 'this,' was before its origination identical with the Self of that which is and that the principle denoted by the term 'the being' (or 'that which is') sent forth fire and the other elements after having thought.
 </details>
@@ -840,7 +840,7 @@ declares that this world differentiated by name and form, which is there denoted
 अप्पडिये वेऱु इडत्तिलुम् 'इदु मुऩ्ऩाल् आत्मावागवे ऒऩ्ऱागवे इरुन्ददु;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The following passage also ('Verily in the beginning all this was Self, one only;
 </details>
@@ -860,7 +860,7 @@ The following passage also ('Verily in the beginning all this was Self, one only
 वेऱु ऎदुवुम् विऴित्तुक् कॊण्डु इल्लै;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 there was nothing else blinking whatsoever.
 </details>
@@ -880,7 +880,7 @@ there was nothing else blinking whatsoever.
 अदु उलगङ्गळै स्रुष्टि पण्णुवेऩे ऎऩ्ऱु पार्त्तदु;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 He thought, shall I send forth worlds?
 </details>
@@ -902,7 +902,7 @@ He thought, shall I send forth worlds?
 अदु इन्द उलगङ्गळै स्रुष्टित्तदु' (ऐदरेय। १-१-१) ऎऩ्ऱु आलोसऩैयै मुऩ्ऩिट्टे स्रुष्टियै सॊल्गिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 He sent forth these worlds,' Ait. Ār. II, 4, 1, 2) declares the creation to have had thought for its antecedent.
 </details>
@@ -927,7 +927,7 @@ He sent forth these worlds,' Ait. Ār. II, 4, 1, 2) declares the creation to hav
 वेऱु इडत्तिलुम् पदिऩाऱु कलैगळै युडैय पुरुषऩैप्पऱ्ऱि तॊडङ्गि, 'अवर् पार्त्तार्; पिराणऩै स्रुष्टित्तार्' (पिरच्ऩ। ६-३) ऎऩ्ऱु सॊल्गिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In another passage also (Pr. Up. VI, 3) it is said of the person of sixteen parts, 'He thought, &c. He sent forth Prāṇa.'
 </details>
@@ -949,7 +949,7 @@ In another passage also (Pr. Up. VI, 3) it is said of the person of sixteen part
 'पार्वैयिरुप्पदाल्' ऎऩ्bदु (पार्वै ऎऩ्ऱ) तादुविऩ् अर्त्तत्तैक् कुऱिक्किऱदॆऩ्ऱु अबिप्पिरायम्। 'यजदि' ऎऩ्bदैppoल्। (पार्वै ऎऩ्ऱ सप्तम् ऎऩ्ऱु मात्तिरम् ऎडुत्तुक्कॊळ्ळक्कूडादु)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 By 'seeing' (i.e. the verb 'seeing' exhibited in the Sūtra) is not meant that particular verb only, but any verbs which have a cognate sense; just as the verb 'to sacrifice' is used to denote any kind of offering.
 </details>
@@ -976,7 +976,7 @@ By 'seeing' (i.e. the verb 'seeing' exhibited in the Sūtra) is not meant that p
 अदऩाल् “ऎवर् सर्वक्ञरो, ऎल्लावऱ्ऱैयुम् अऱिन्दवरो, ऎवरुडैय तबस् (आलोसऩै) ञाऩमयमो, अवरिडमिरुन्दु इन्द पिरह्मम् (सूत्रात्मा), नामम्, रूबम्, अऩ्ऩम् उण्डागिऩ्ऱऩ" (मुण्डग। १-१-९) ऎऩ्ऱु इदु मुदलिय सर्वक्ञराऩ ईसुवरऩैक् कारणमागच् चॊल्लुम् वाक्कियङ्गळुम् ऎडुत्तुक् कॊळ्ळ वेण्डियवै।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Therefore other passages also whose purport it is to intimate that an all-knowing Lord is the cause of the world are to be quoted here, as, for instance, Mu. Up. I,.1, 9, 'From him who perceives all and who knows all, whose brooding consists of knowledge, from him is born that Brahman, name and form and food.'
 </details>
@@ -1017,7 +1017,7 @@ Therefore other passages also whose purport it is to intimate that an all-knowin
 पिरदाऩम् सत्वगुणत्तिऩ् तर्ममाऩ ञाऩत् तिऩाल् सर्वक्ञमागलाम् ऎऩ्ऱु ऎदु सॊल्लप्पट्टदो, अदु पॊरुन्दादु;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The argumentation of the Sānkhyas that the pradhāna may be called all-knowing on account of knowledge constituting an attribute of the guṇa Goodness is inadmissible.
 </details>
@@ -1038,7 +1038,7 @@ The argumentation of the Sānkhyas that the pradhāna may be called all-knowing 
 पिरदाऩम् ऎऩ्गिऱ निलैयिल् कुणङ्गळुक्कु सममायिरुक्कुम् तऩ्मैयिरुप्पदाल्, सत्वत्तिऩ् तर्ममागिय ञाऩम् सम्बविक्कादु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For as in the pradhāna-condition the three guṇas are in a state of equipoise, knowledge which is a quality of Goodness only is not possible [^fn_95].
 </details>
@@ -1063,7 +1063,7 @@ For as in the pradhāna-condition the three guṇas are in a state of equipoise,
 ऎल्लामऱियुम् सक्तियुडऩिरुप्पदिऩाल् सर्वक्ञ मायिरुक्कलामॆऩ्ऱु सॊऩ्ऩोमेयॆऩ्ऱाल्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can we admit the explanation that the pradhāna is all-knowing because endowed with the capacity for all knowledge.
 </details>
@@ -1083,7 +1083,7 @@ Nor can we admit the explanation that the pradhāna is all-knowing because endow
 अदुवुम् पॊरुन्दादु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For
 </details>
@@ -1107,7 +1107,7 @@ For
 कुणङ्गळुक्कु साम्यम् इरुक्कुम्बोदु ञाऩसक्तियै वैत्तुक्कॊण्डु सर्वक्ञम् ऎऩ्ऱु पिरदाऩम् सॊल्लप्पडुमेयाऩाल्, रजोगुणम् तमोगुणम् इवैगळै आसिरयित्तुळ्ळ ञाऩत्तैत् तडुक्कक्कूडिय सक्तियै वैत्तुक्कॊण्डु अल्bक्ञम् ऎऩ्ऱुम् नऩ्गु सॊल्ललाम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For if, in the condition of equipoise of the guṇas, we term the pradhāna all-knowing with reference to the power of knowledge residing in Goodness, we must likewise term it little-knowing, with reference to the power impeding knowledge which resides in Passion and Darkness.
 </details>
@@ -1140,7 +1140,7 @@ For if, in the condition of equipoise of the guṇas, we term the pradhāna all-
 मेलुम्, साक्षियिल्लाद सत्वगुण विरुत्ति ञाऩbदत्ताल् सॊल्लप्पडुवदुमिल्लै।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover a modification of Goodness which is not connected with a witnessing (observing) principle (sākshin) is not called knowledge,
 </details>
@@ -1160,7 +1160,7 @@ Moreover a modification of Goodness which is not connected with a witnessing (ob
 असेदऩमाऩ पिरदाऩत्तिऱको साक्षित्तऩ्मै किडैयादु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the non-intelligent pradhāna is destitute of such a principle.
 </details>
@@ -1180,7 +1180,7 @@ and the non-intelligent pradhāna is destitute of such a principle.
 आगैयाल्, पिरदाऩत्तिऱ्कु सर्वक्ञत् तऩ्मै पॊरुन्दादु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is therefore impossible to ascribe to the pradhāna all-knowingness.
 </details>
@@ -1204,7 +1204,7 @@ It is therefore impossible to ascribe to the pradhāna all-knowingness.
 योगिगळुक्को अवर्गळ् सेदऩरायिरुप्पदाल् सत्वगुणत्तिऩ् एऱ्ऱम् कारणमाग सर्वक्ञत् तऩ्मै पॊरुन्दुम् ऎऩ्bदिऩाल्, उदाहरणम् आगादु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The case of the Yogins finally does not apply to the point under consideration; for as they possess intelligence, they may, owing to an excess of Goodness in their nature, rise to omniscience [^fn_96].
 </details>
@@ -1230,7 +1230,7 @@ The case of the Yogins finally does not apply to the point under consideration; 
 अल्लदु, साक्षियै निमित्तमाग क वैत्तु पिरदाऩत्तिऱ्कु पार्क्कुम् तऩ्मै कल्bिक्कप् पडुमेयाऩाल् अक्ऩियै निमित्तमाग वैत्तु इरुम्बुक्कट्टि मुदलियवऱ्ऱिऱ्कु ऎरिक्कुम् तऩ्मै ऎप्पडियो, अप्पडि;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Well then (say those Sānkhyas who believe in the existence of a Lord) let us assume that the pradhāna possesses the quality of knowledge owing to the witnessing principle (the Lord), just as the quality of burning is imparted to an iron ball by fire.
 </details>
@@ -1253,7 +1253,7 @@ Well then (say those Sānkhyas who believe in the existence of a Lord) let us as
 अप्पडियिरुक्कैयिल् ऎदै निमित्तमाग वैत्तु पिरदाऩत्तिऱ्कुप् पार्क्कुम् तऩ्मैयो, अदुवेदाऩ् मुक्कियमायुळ्ळ सर्वक्ञमाऩ पिरह्मम्, जगत्तिऱ्कुक् कारणम् ऎऩ्bदु युक्तमागुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 No, we reply; for if this were so, it would be more reasonable to assume that that which is the cause of the pradhāna having the quality of thought i.e. the all-knowing primary Brahman itself is the cause of the world.
 </details>
@@ -1291,7 +1291,7 @@ No, we reply; for if this were so, it would be more reasonable to assume that th
 पिरह्मत्तिऱ्कुम् ऎप्पॊऴुदुमे ञाऩमागिय किरियै इरुन्दु वन्दाल्, ञाऩमागिऱ किरियै विषयत्तिल् अदऱ्कु स्वादन्दिरियम् इल्लाददिऩाल् मुक्कियमाऩ सर्वक्ञत्तऩ्मै पॊरुन्दादु ऎऩ्ऱु ऎदु सॊल्लप्पट्टदो,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The objection that to Brahman also all-knowingness in its primary sense cannot be ascribed because, if the activity of cognition were permanent, Brahman could not be considered as independent with regard to it,
 </details>
@@ -1312,7 +1312,7 @@ The objection that to Brahman also all-knowingness in its primary sense cannot b
 अन्द विषयत्तिल् सॊल्गिऱोम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 we refute as follows.
 </details>
@@ -1332,7 +1332,7 @@ we refute as follows.
 इदै तङ्गळैक् केट्किऱोम्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In what way, we ask the Sānkhya,
 </details>
@@ -1354,7 +1354,7 @@ In what way, we ask the Sānkhya,
 ऎप्पॊऴुदुमे ञाऩमागिय किरियैयिरुप्पदिऩाल् सर्वक्ञत् तऩ्मैक्कु ऎऩ्ऩ कॆडुदल्? ऎऩ्ऱ
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 is Brahman's all-knowingness interfered with by a permanent cognitional activity?
 </details>
@@ -1375,7 +1375,7 @@ is Brahman's all-knowingness interfered with by a permanent cognitional activity
 एऩ्ऎऩ्ऱाल्, ऎल्ला विषयत्तैयुम् पिरगासप्पडुत्तक्कूडिय ञाऩम् ऎवरुक्कु नित्यमायिरुक्किऱदो अवर् सर्वक्ञर् इल्लैयॆऩ्bदु नेर् विरोदम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To maintain that he, who possesses eternal knowledge capable to throw light on all objects, is not all-knowing, is contradictory.
 </details>
@@ -1397,7 +1397,7 @@ To maintain that he, who possesses eternal knowledge capable to throw light on a
 ञाऩम् अनित्यमायिरुन्दालल्लवा सिल वेळै अऱिगिऱाऩ् सिल वेळै अऱियविल्लैयॆऩ्ऱु सर्वक्ञऩऱ्ऱ तऩ्मैयेऱ्पडुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If his knowledge were considered non-permanent, he would know sometimes, and sometimes he would not know; from which it would follow indeed that he is not all-knowing.
 </details>
@@ -1424,7 +1424,7 @@ If his knowledge were considered non-permanent, he would know sometimes, and som
 ञाऩम् नित्यमायिरुगगुम्बोदु अन्द तोषम् एऱ्पडादु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This fault is however avoided if we admit Brahman's knowledge to be permanent.
 </details>
@@ -1449,7 +1449,7 @@ This fault is however avoided if we admit Brahman's knowledge to be permanent.
 ञाऩम् नित्यमायिरुन्दाल् ञाऩ विषयमाग स्वादन्दिरियम् सॊल्वदु पॊरुन्दा तेयॆऩ्ऱाल् अप्पडियल्ल,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, it may be objected, on this latter alternative the knower cannot be designated as independent with reference to the act of knowing.
 </details>
@@ -1470,7 +1470,7 @@ But, it may be objected, on this latter alternative the knower cannot be designa
 सूर्यऩ् ऎङ्गुम् वियाbिक्किऱ उष्णत् तऩ्मैयुडऩुम्, पिरगासत्तुडऩु मिरुक्कुम्बोदु सुडुगिऱार्, पिरगासिक्किऱार्, ऎऩ्ऱु स्वादन्दिरियम् कुऱिप्पिडुवदु काणप्पडुवदाल्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Why not? we reply; the sun also, although his heat and light are permanent, is nevertheless designated as independent when we say, 'he burns, he gives light [^fn_97].'`
 </details>
@@ -1497,7 +1497,7 @@ Why not? we reply; the sun also, although his heat and light are permanent, is n
 'ऎरिक्कप्पडुवदुम् पिरगासप्पडुत्तप्पडुवदुमाऩ वस्तुविऩ् सेर्क्कै इरुन्दाल्दाऩे सूर्यऩुक्कु ऎरिक्किऱार् पिरगासप्पडुत्तुगिऱार् ऎऩ्ऱु सॊल्वदु एऱ्पडुम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, it will again be objected, we say that the sun burns or gives light when he stands in relation to some object to be heated or illuminated;
 </details>
@@ -1519,7 +1519,7 @@ But, it will again be objected, we say that the sun burns or gives light when he
 पिरह्मत्तिऱ्को जगत्तिऩ् उत्पत्तिक्कु मुऩ्ऩाल् ञाऩत्तिऱ्कु विषयमायुळ्ळ ऎदऩुडैय सेर्क्कैयुमिल्लैयादलाल्, तिरुष्टान्दम् सरियाऩ तिल्लै'
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Brahman, on the other hand, stands, before the creation of the world, in no relation to any object of knowledge. The cases are therefore not parallel.
 </details>
@@ -1540,7 +1540,7 @@ Brahman, on the other hand, stands, before the creation of the world, in no rela
 ऎऩ्ऱाल् अप्पडियल्ल, विषयमिल्लामल् पोऩालुम् सूर्यऩ् पिरगासिक्किऱार् ऎऩ्ऱु कर्त्तावाग वियbदेसम् काणुवदाल्
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This objection too, we reply, is not valid; for as a matter of fact we speak of the Sun as an agent, saying 'the sun shines' even without reference to any object illuminated by him,
 </details>
@@ -1562,7 +1562,7 @@ This objection too, we reply, is not valid; for as a matter of fact we speak of 
 इव्विदमे ञाऩत्तिऱ्कु विषयमिल्लैयाऩालुम् पिरह्मत्तिऱ्कु 'अदु पार्त्तदु’ ऎऩ्ऱु कर्त्तावाग सॊल्लक्कूडियदु पॊरुन्दुमाऩ तिऩाल् तिरुष्टान्दम् सरियिल्लाददिल्लै।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and hence Brahman also may be spoken of as an agent, in such passages as 'it thought,' &c., even without reference to any object of knowledge.
 </details>
@@ -1594,7 +1594,7 @@ and hence Brahman also may be spoken of as an agent, in such passages as 'it tho
 विषयत्तै अबेक्षिक्किऱदॆऩ्ऱु इरुन्दालो, पार्क्किऱ तऩ्मैयुळ्ळदॆऩ्ऱु सॊल्लुम् सुरुदिगळ् पिरह्म विषयत्तिल् इऩ्ऩमुम् पॊरुत्तमागुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, however, an object is supposed to be required ('knowing' being a transitive verb while 'shining' is intransitive), the texts ascribing thought to Brahman will fit all the better.
 </details>
@@ -1615,7 +1615,7 @@ If, however, an object is supposed to be required ('knowing' being a transitive 
 जगत्तिऩ् उत्पत्तिक्कु मुऩ्ऩाल् ईसुवरऩुडैय ञाऩत्तिऱ्कु विषयमाग ऎदु इरुक्कुमो, अन्द विषयम् ऎऩ्ऩ?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What then is that object to which the knowledge of the Lord can refer previously to the origin of the world?
 </details>
@@ -1632,7 +1632,7 @@ What then is that object to which the knowledge of the Lord can refer previously
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Name and form, we reply, which can be defined neither as being identical with Brahman nor as different from it, unevolved but about to be evolved.
 </details>
@@ -1654,7 +1654,7 @@ Name and form, we reply, which can be defined neither as being identical with Br
 ऎवरुडैय पिरसादत्तिऩालेये योगिगळुक्कुक्कूड नडन्ददु वरप्पोवदु विषयमाऩ पिरत्यक्ष ञाऩम् एऱ्पडुवदाग योगसास्तिरमऱिन्द वर्गळ् ऎण्णुगि ऱार्गळो, ऎप्पॊऴुदुम् सित्तरायुळ्ळ अन्द ईसुवरऩुक्कु स्रुष्टिस्तिदि सम्हार विषयमाय् नित्यमाऩ ञाऩम् उण्डॆऩ्ऱु सॊल्ल वेण्डुमा?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For if, as the adherents of the Yoga-śāstra assume, the Yogins have a perceptive knowledge of the past and the future through the favour of the Lord; in what terms shall we have to speak of the eternal cognition of the ever pure Lord himself, whose objects are the creation, subsistence, and dissolution of the world!
 </details>
@@ -1679,7 +1679,7 @@ For if, as the adherents of the Yoga-śāstra assume, the Yogins have a percepti
 उत्पत्तिक्कु मुऩ्ऩाल् सरीरम् मुदलियदिऩ् सम्बन्दमिल्लामल् पिरह्मत्तिऱ्कु पार्क्कुम् तऩ्मै पॊरुन्दादु ऎऩ्ऱु ऎदु सॊल्लप्पट्टदो, अन्दक् केळ्विये एऱ्पडविल्लै।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The objection that Brahman, previously to the origin of the world, is not able to think because it is not connected with a body, &c. does not apply;
 </details>
@@ -1699,7 +1699,7 @@ The objection that Brahman, previously to the origin of the world, is not able t
 सूर्यऩुडैय पिरगासम् पोल पिरह्मत्तिऱ्कु ञाऩ स्वरूबम् नित्यमायिरुक् कैयिल् ञाऩत्तैयुण्डु पण्णुम् सादऩङ्गळिऩ् अबेक्षैये पॊरुन्दादादिऩाल्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for Brahman, whose nature is eternal cognition--as the sun's nature is eternal luminousness-- can impossibly stand in need of any instruments of knowledge.
 </details>
@@ -1735,7 +1735,7 @@ for Brahman, whose nature is eternal cognition--as the sun's nature is eternal l
 तविरवुम्, अवित्यै मुदलियदुळ्ळ संसारिक्कु ञाऩत्तिऩ् उत्पत्ति सरीरम् मुदलियदै अबेक्षिप्पदाग इरुक्कलाम्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The transmigrating soul (saṁsārin) indeed, which is under the sway of Nescience, &c., may require a body in order that knowledge may arise in it;
 </details>
@@ -1755,7 +1755,7 @@ The transmigrating soul (saṁsārin) indeed, which is under the sway of Nescien
 ञाऩत्तैत् तडुप्पदऱ्कुक् कारणमे यिल्लाद ईसुवरऩुक्कु इल्लै।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but not so the Lord, who is free from all impediments of knowledge.
 </details>
@@ -1777,7 +1777,7 @@ but not so the Lord, who is free from all impediments of knowledge.
 ईसुवरऩुक्कु सरीरम् मुदलियदै अबेक्षिक्कामलिरुक्कुम् तऩ्मैयैयुम् मऱैवऱ्ऱ ञाऩमुळ्ळ तऩ्मैयैयुम् इन्द इरण्डु मन्दिरङ्गळ् काट्टुगिऩ्ऱऩ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The two following Mantras also declare that the Lord does not require a body, and that his knowledge is without any obstructions.
 </details>
@@ -1798,7 +1798,7 @@ The two following Mantras also declare that the Lord does not require a body, an
 'अवरुक्कु सरीरमुम् इन्दिरियमुम् किडैयादु। अवरुक्कु समाऩमागवो, मेलागवो काणप्पडविल्लै।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'There is no effect and no instrument known of him, no one is seen like unto him or better;
 </details>
@@ -1821,7 +1821,7 @@ The two following Mantras also declare that the Lord does not require a body, an
 अवरुडैय मेलाऩ सक्ति स्वबावत्तिलेये उळ्ळदु। पलविदमायुळ्ळदु, ञाऩमागिऱ पलत्तिऩाल् सॆयलुळ्ळदु ऎऩ्ऱु सॊल्लप्पडुगिऱदु' (सुवेदा ६-८) ऎऩ्ऱुम्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 his high power is revealed as manifold, as inherent, acting as knowledge and force.'
 </details>
@@ -1842,7 +1842,7 @@ his high power is revealed as manifold, as inherent, acting as knowledge and for
 'कै काल् इल्लादवर् वेगमुळ्ळवर् ऎडुप्पवर्, कण्णिल्लादवर् पार्क्किऱार्, कादु इल्लाद अवर् केट्किऱार्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Grasping without hands, hasting without feet, he sees without eyes, he hears without ears.
 </details>
@@ -1865,7 +1865,7 @@ his high power is revealed as manifold, as inherent, acting as knowledge and for
 अवर् अऱियक्कूडियदै अऱिगिऱार्; अवरै अऱिबवर् किडैयादु। अवरै मुदलिलुळ्ळ पॆरिय पुरुषऩाग सॊल्गिऱार्गळ्' (सुवेदा ३-१९) ऎऩ्ऱुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 He knows what can be known, but no one knows him; they call him the first, the great person' (Śv. Up. VI, 8; III, 19).
 </details>
@@ -1898,7 +1898,7 @@ He knows what can be known, but no one knows him; they call him the first, the g
 ईसुवरऩिलिरुन्दु वेऱाग ञाऩत्तिऱ्कु तडङ् गलिऩ् कारणमुळ्ळवऩाग संसारि किडैयादल्लवा? ‘इवरैविड वेऱाग पार्क्किऱवऩ् किडैयादु; इवरै विड वेऱाग अऱिगिऱवऩ् किडैयादु' (पिरुहत् ३-७-२३) ऎऩ्ऱ सुरुदियिऩाल्
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, to raise a new objection,  
 there exists no transmigrating soul different from the Lord and obstructed by impediments of knowledge; for Śruti expressly declares that 'there is no other seer but he; there is no other knower but he' (Br̥. Up. Ill, 7, 23).
@@ -1920,7 +1920,7 @@ there exists no transmigrating soul different from the Lord and obstructed by im
 अप्पडियिरुक्कुम् पोदु संसारि यिऩुडैय ञाऩत्तिऩ् उत्पत्ति सरीरम् मुदलियदै अबेक्षिक्किऱदायिरुक्किऱदु ईसुवरऩुडैयदु इल्लै, ऎऩ्ऱु इदु ऎप्पडि सॊल्लप्पडुगिऱदु?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 How then can it be said that the origination of knowledge in the transmigrating soul depends on a body, while it does not do so in the case of the Lord?
 </details>
@@ -1940,7 +1940,7 @@ How then can it be said that the origination of knowledge in the transmigrating 
 इङ्गु सॊल्गिऱोम्; वास्तवम्, संसारि ईसुवरऩैविड वेऱिल्लैदाऩ्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 True, we reply. There is in reality no transmigrating soul different from the Lord.
 </details>
@@ -1961,7 +1961,7 @@ True, we reply. There is in reality no transmigrating soul different from the Lo
 अप्पडियिरुन्दालुम्, आगासत्तिऱ्कु कुडम् करगम् मलैक्कुहै मुदलाऩ उबादिगळुडैय सम्bन्दम् पोल, तेहम् मुदलाऩदिऩ् कूट्टमागिऱ उबादियिऩ् सम्bन्दम् ऒप्पुक्कॊळ्ळवेbडुgिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Still the connexion (of the Lord) with limiting adjuncts, consisting of bodies and so on, is assumed, just as we assume the ether to enter into connexion with divers limiting adjuncts such as jars, pots, caves, and the like.
 </details>
@@ -1983,7 +1983,7 @@ Still the connexion (of the Lord) with limiting adjuncts, consisting of bodies a
 आगासत्तिऱ्कु वेऱाg इल्लादbोदिलुम् अदिऩाल् (उbादिसम्बन्दत्तिऩाल्) स\u0bc5य्यप्पट्टदाय् कुडत्तु इडैव\u0bc5ळि, करgम् मुदलियदिऩ् इडैव\u0bc5ळि ऎऩ्bदु मुदलाऩ सप्तम् ऎण्णम् आगिय व्यवहारम् उलगत्तिल् पार्क्कप्पडुgिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And just as in consequence of connexion of the latter kind such conceptions and terms as 'the hollow (space) of a jar,' &c. are generally current, although the space inside a jar is not really different from universal space,
 </details>
@@ -2003,7 +2003,7 @@ And just as in consequence of connexion of the latter kind such conceptions and 
 अदिऩालेये एऱ्पट्टदाय् आगासत्तिऩिडत्तिल् कुड आगासम् मुदलाऩ पेदत्तै विषयmaयुळ्ळ वास्तवमिल्लाद पुत्तियुम् पार्क्कप् पडुgिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and just as in consequence thereof there generally prevails the false notion that there are different spaces such as the space of a jar and so on;
 </details>
@@ -2023,7 +2023,7 @@ and just as in consequence thereof there generally prevails the false notion tha
 अदैप्पोलवे इङ्gेयुम् तेgम् मुदलिय तिऩ् कूट्टमागिय उbादिसम्बन्दत्तिऩाल् पिरित्तऱियाद तिऩाल् एऱ्पडुवदाय् ईसुवरऩुक्कुम् संसारिक्कुम् पेदमुण्ड\u0bc5ऩ्ऱ वास्तवमिल्लाद पुत्ति इरुक्किऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 so there prevails likewise the false notion that the Lord and the transmigrating soul are different; a notion due to the non-discrimination of the (unreal) connexion of the soul with the limiting conditions, consisting of the body and so on.
 </details>
@@ -2053,7 +2053,7 @@ so there prevails likewise the false notion that the Lord and the transmigrating
 आत्मावागवे इरुप्पवऩुक्कु आत्मावल्लाद देहम् मुदलियदिऩ् कूट्टत्तिल् मुऩ् मुऩ्ऩुळ्ळ (अनादियायुळ्ळ) वास्तवमिल्लाद पुत्तियिऩाल् मात्तिरम् आत्मा ऎऩ्गिऱ पिडिमाऩम् काणप्पडुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the Self, although in reality the only existence, imparts the quality of Selfhood to bodies and the like which are Not-Self is a matter of observation, and is due to mere wrong conception, which depends in its turn on antecedent wrong conception.
 </details>
@@ -2074,7 +2074,7 @@ That the Self, although in reality the only existence, imparts the quality of Se
 इव्विदमिरुप्पदाल्, संसारित्तऩम् इरुक्कुम्बोडु अऱियुम् तऩ्मैक्कु तेगम् मुदलियदै अबेक्षिप्पदु संसारिक्कु न्यायम्दाऩ्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And the consequence of the soul thus involving itself in the transmigratory state is that its thought depends on a body and the like.
 </details>
@@ -2100,7 +2100,7 @@ sति चैवं संसारित्वे देहाद्यपे�
 पिरदाऩत्तिऱ्कु पलविद स्वबावमायिरुक्कुम् तऩ्मैयिरुबbदिऩाल् मण्णुक्कुबबोल कारणमा यिरुबbदु पॊरुन्दुम्, ऒऩ्ऱुडऩुम् सेराद पिरह्मत्तिऱ्कु पॊरुन्दादु, ऎऩ्ऩुम् ऎदु सॊल्लप्पट्टदो, अदु पिरदाऩम् वेद सप्तत्तिऩाल् सॊल्लप्पडाददु ऎऩ्बदिऩालेये पदिल् सॊल्लप् पट्टुविट्टदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The averment that the pradhāna, because consisting of several elements, can, like clay and similar substances, occupy the place of a cause while the uncompounded Brahman cannot do so, is refuted by the fact of the pradhāna not basing on Scripture.
 </details>
@@ -2122,7 +2122,7 @@ The averment that the pradhāna, because consisting of several elements, can, li
 तर्क्कत्तिऩालेयुम्गूड पिरह्मत्तिऱ्कुत्ताऩ् कारणत्तऩ्मै ऎऩ्बदैयुम् पिरदाऩम् मुदला ऩवैक्कु किडैयादु ऎऩ्बदैयुम्, ऎप्पडिक्काट्ट मुडियुमो, अव्विदम्, 'अदऱ्कु वेऱागयिरुबbदाल्' (सूत्रम् २-१-४) ऎऩ्बदु मुदलाऩदिऩाल् पिऩ्ऩाल् विस्तरित्तुक्काट्टप् पोगिऱार्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That, moreover, it is possible to establish by argumentation the causality of Brahman, but not of the pradhāna and similar principles, the Sūtrakāra will set forth in the second Adhyāya (II, I, 4, &c.).
 </details>
@@ -2168,7 +2168,7 @@ That, moreover, it is possible to establish by argumentation the causality of Br
 पूर्वबक्षम्: इङ्गे, पार्क्किऱदु ऎऩ्ऱु सॊल्लियिरुबbदाल् असेदऩmaयुळ्ळ पिरदाऩम् jagत् कारणमागादु ऎऩ्ऱु ऎदु सॊल्लप्पट्टदो, अदु वेऱुविदmagवुम् प\u0bcaरुन्दक्कूडियदु
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here the Sānkhya comes forward with a new objection. The difficulty stated by you, he says, viz. that the non-intelligent pradhāna cannot be the cause of the world, because thought is ascribed to the latter in the sacred texts, can be got over in another way also,
 </details>
@@ -2188,7 +2188,7 @@ Here the Sānkhya comes forward with a new objection. The difficulty stated by y
 असेदऩत्तिल् कूड सेदऩम् पोल् उबसारmaय् सॊल्वदु काणप्पडु वदाल्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 viz. on the ground that non-intelligent things are sometimes figuratively spoken of as intelligent beings.
 </details>
@@ -2209,7 +2209,7 @@ viz. on the ground that non-intelligent things are sometimes figuratively spoken
 नदियिऩुडैय करै समीबत्तिल् विऴक्कूडिय त\u0bc5ऩ्बदै कवऩित्तु ‘करै विऴप्पार्क्किऱदु' ऎऩ्ऱु असेदऩत्तिल् सेदऩम्बोल उबसारmagच् चॊल्वदु काणप्पडुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We observe, for instance, that people say of a river-bank about to fall, 'the bank is inclined to fall (pipatishati),' and thus speak of a non-intelligent bank as if it possessed intelligence.
 </details>
@@ -2230,7 +2230,7 @@ We observe, for instance, that people say of a river-bank about to fall, 'the ba
 अदैबबोलवे समीबत्तिल् एऱ्पडुम् स्रुष्टियैयुडैय पिरदाऩत्तिलुम् असेदऩmaयिरुन्द bोडिलुम् सेदऩम् पोल् 'अदु पार्त्तदु' ऎऩ्ऱु उबसारmaय् सॊल्लप्पट्टिरुक्कलाम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 So the pradhāna also, although non-intelligent, may, when about to create, be figuratively spoken of as thinking.
 </details>
@@ -2255,7 +2255,7 @@ So the pradhāna also, although non-intelligent, may, when about to create, be f
 उलगत्तिल् ऒरु सेदऩऩ् ‘स्नानम् स\u0bc5य्दुविट्टु, पोजऩम् स\u0bc5य्दु विट्टु, पिऱ्बgलिल् रदत्तिल् किरामम् पोवेऩ्' ऎऩ्ऱु आलोसित्तुविट्टु, पिऱगु अप्पडिये नियमmag पिरविरुत् तिक्किऱाऩ् ऎऩ्बदु ऎप्पडियो,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Just as in ordinary life some intelligent person after having bathed, and dined, and formed the purpose of driving in the afternoon to his village, necessarily acts according to his purpose,
 </details>
@@ -2276,7 +2276,7 @@ Just as in ordinary life some intelligent person after having bathed, and dined,
 अप्पडिये पिरदाऩमुम् महत् मुदलाऩ रूबमाग नियमmagप् पिरविरुत्तिक्किऱदु;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 so the pradhāna also acts by the necessity of its own nature, when transforming itself into the so-called great principle and the subsequent forms of evolution;
 </details>
@@ -2296,7 +2296,7 @@ so the pradhāna also acts by the necessity of its own nature, when transforming
 अदिऩाल् सेदऩऩ् पोल् कौणmaय् (उबसारmaय्) सॊल्लप्पडुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 it may therefore figuratively be spoken of as intelligent.
 </details>
@@ -2326,7 +2326,7 @@ it may therefore figuratively be spoken of as intelligent.
 मुक्कियmaयुळ्ळ पार्क्कुम् तऩ्मैयै विट्टु विट्टु, ऎन्दक् कारणत्तिऩाल् उबसारम\u0bc5ऩ्ऱु कल्बिक्कप् पडुगिऱदु?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But what reason have you for setting aside the primary meaning of the word 'thought' and for taking it in a figurative sense?
 </details>
@@ -2349,7 +2349,7 @@ But what reason have you for setting aside the primary meaning of the word 'thou
 ऎऩ्ऱाल्, 'अन्द तेजस् पार्त्तदु,’ ‘अन्द जलम् पार्त्तदु' (सान्। ६ २-३, ४) ऎऩ्ऱु असेदऩmaयुळ्ळ जलत्तिऱ्कुम् तेजुसुक्कुम् सेदऩम् पोल उबसारम् काणुवदाल्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The observation, the Sānkhya replies, that fire and water also are figuratively spoken of as intelligent beings in the two following scriptural passages, 'That fire thought; that water thought' (Cḥ. Up. VI, 2, 3; 4).
 </details>
@@ -2370,7 +2370,7 @@ The observation, the Sānkhya replies, that fire and water also are figuratively
 आगैयाल्, अदिगमाग उबसारम् सॊल्लप्पट्टिरुबbदिऩ् मत्तियिल् सॊल्लियिरुबbदाल्, 'सत्' स\u0bc5य्युम् पार्वैयुम् उबसारम् ताऩ् ऎऩ्ऱु त\u0bc5रिगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We therefrom conclude that thought is to be taken in a figurative sense there also where Being (Sat) is the agent, because it is mentioned in a chapter where (thought) is generally taken in a figurative sense [^fn_98].
 </details>
@@ -2391,7 +2391,7 @@ We therefrom conclude that thought is to be taken in a figurative sense there al
 ऎऩ्ऱु इव्विदम् वरुम्बोडु इन्द सूत्रम् आरम्बिक्कप्पडुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To this argumentation of the Sānkhya the next Sutra replies:
 </details>
@@ -2422,7 +2422,7 @@ To this argumentation of the Sānkhya the next Sutra replies:
 क\u0bc5ळाणच्चेन्ना आत्मसप्तात्: ॥ ६ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 6. If it is said that (the word 'seeing') has a figurative meaning, we deny that, on account of the word Self (being applied to the cause of the world).
 </details>
@@ -2452,7 +2452,7 @@ To this argumentation of the Sānkhya the next Sutra replies:
 सित्तान्दम्: ‘सत्' ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप् पडुवदु असेदऩमाऩ पिरदाऩम्; पार्वै ऎऩ्बदु अदिल् उबसारमाग एऱ्पट्टदु जलम् तेजस्कळिल् पोल; ऎऩ्ऱु ऎदु सॊल्लप्पट्टदो, अदु सरियल्ल।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Your assertion that the term 'Being' denotes the non-intelligent pradhāna, and that thought is ascribed to it in a figurative sense only, as it is to fire and water, is untenable.
 </details>
@@ -2472,7 +2472,7 @@ Your assertion that the term 'Being' denotes the non-intelligent pradhāna, and 
 एऩ्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Why so?
 </details>
@@ -2492,7 +2492,7 @@ Why so?
 'आत्मा ऎऩ्ऱ वार्त्तै यिरुबदाल्'।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On account of the term 'Self.'
 </details>
@@ -2515,7 +2515,7 @@ On account of the term 'Self.'
 'हे सोम्य, इदु मुदलिल् सत्तागवे इरुन्ददु' ऎऩ्ऱु आरम्बित्तु, 'अदु पार्त्तदु, अदु तेजसै स्रुष्टित्तदु' (सान्।६-२-१,३) ऎऩ्ऱु तेजस्, जलम्, अऩ्ऩम् (पिरुदिवी) इवैगळुडैय स्रुष्टियै सॊल्लिविट्टु,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the passage Cḥ. Up. VI, 2, which begins 'Being only, my dear, this was in the beginning,' after having related the creation of fire, water, and earth ('it thought,' &c.; 'it sent forth fire,' &c.),
 </details>
@@ -2536,7 +2536,7 @@ For the passage Cḥ. Up. VI, 2, which begins 'Being only, my dear, this was in 
 पिरगिरुदmaयुळ्ळ अन्द पार्त्त सत्वस्तुवैयुम् अन्द तेजस् जलम् अऩ्ऩम् इवैगळैयुम् ‘तेवदै’ ऎऩ्ऱ सप्तत्तिऩाल् कुऱिबbिट्टुच् चॊल्लुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 goes on--denoting the thinking principle of which the whole chapter treats, and likewise fire, water, and earth, by the term--'divinities'--as follows,
 </details>
@@ -2562,7 +2562,7 @@ goes on--denoting the thinking principle of which the whole chapter treats, and 
 ‘अन्द इन्द तेवदै इऩि इन्द मूऩ्ऱु तेवदैगळुळ्ळुम् इन्द जीवऩागिऱ आत्मरूबmag नुऴैन्दु प\u0bc5यरैयुम् रूबत्तैयुम् वियक्तमागच् च\u0bc5य्वेऩ् ऎऩ्ऱु आलोसित्तदु' (सान् ६-३-२) ऎऩ्ऱु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'That divinity thought: Let me now enter those three divinities with this living Self (jīva. ātman) and evolve names and forms.'
 </details>
@@ -2597,7 +2597,7 @@ goes on--denoting the thinking principle of which the whole chapter treats, and 
 अव्विडत्तिल् असेदऩमायुळ्ळ पिरदाऩमे गौणमाग पार्प्पदु ऎऩ्ऱु कल्बित्ताल्, अदुवे पिरगिरुदमाऩदिऩाल् ‘अन्द इन्द तेवदै’ ऎऩ्ऱु सॊल्लप्पट्टदाग आगुम्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If we assumed that in this passage the non-intelligent pradhāna is figuratively spoken of as thinking, we should also have to assume that the same pradhāna--as once constituting the subject-matter of the chapter--is referred to by the term 'that divinity.'
 </details>
@@ -2614,7 +2614,7 @@ If we assumed that in this passage the non-intelligent pradhāna is figuratively
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But in that case the divinity would not speak of the jīva as 'Self.'
 </details>
@@ -2635,7 +2635,7 @@ But in that case the divinity would not speak of the jīva as 'Self.'
 जीवऩ् ऎऩ्बदो सेदऩऩ्, सरीरत्तिऱ्कु यजमाऩऩ्, पिराणऩ्गळै तरिक्किऱवऩ्, अप्पडि पिरसित्तियिरुबbदिऩาลुम् निर्वसऩमिरुबbदिऩาลुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For by the term 'Jiva' we must understand, according to the received meaning and the etymology of the word, the intelligent (principle) which rules over the body and sustains the vital airs.
 </details>
@@ -2655,7 +2655,7 @@ For by the term 'Jiva' we must understand, according to the received meaning and
 अवऩ् असेदऩमाऩ पिरदाऩत्तिऱ्कु आत्मावाग ऎप्पडि इरुक्कमुडियुम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 How could such a principle be the Self of the non-intelligent pradhāna?
 </details>
@@ -2675,7 +2675,7 @@ How could such a principle be the Self of the non-intelligent pradhāna?
 आत्मा ऎऩ्बदो स्वरूबम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 By 'Self' we understand (a being's) own nature,
 </details>
@@ -2696,7 +2696,7 @@ By 'Self' we understand (a being's) own nature,
 असेदऩमाऩ पिरदाऩत्तिऱ्कु सेदऩऩाऩ जीवऩ् स्वरूबmaयिरुक्कमुडियादु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and it is clear that the intelligent Jiva cannot constitute the nature of the non-intelligent pradhāna.
 </details>
@@ -2718,7 +2718,7 @@ and it is clear that the intelligent Jiva cannot constitute the nature of the no
 सेदऩमाऩ पिरह्ममो मुक्कियmaयुळ्ळ पार्प्पदाग ऎडुत्तुक्कॊळ्ळप्पट्टाल्, अदऱ्कु जीवऩ् विषयmag आत्मा ऎऩ्ऱ सप्तत्तै पिरयोगित्तदु उसिदmagुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, on the other hand, we refer the whole chapter to the intelligent Brahman, to which thought in its primary sense belongs, the use of the word 'Self' with reference to the Jīva is quite adequate.
 </details>
@@ -2762,7 +2762,7 @@ If, on the other hand, we refer the whole chapter to the intelligent Brahman, to
 अप्पडिये ‘ऎन्द इदु सूक्ष्ममायुळ्ळदो अदु अदु। इदैये आत्मागवुडैयदु इदु ऎल्लाम्। अदु सत्यम्। अदु आत्मा, अदुवाग नी इरुक्किऱाय्, हे सुवेदगेदो (सा। VI-१४-३) ऎऩ्ऱविडत्तिल् 'सत्' ‘सूक्ष्मम्’ आगवुळ्ळ पिरगिरुदमाऩ आत्मावै ‘अदु आत्मा' ऎऩ्ऱु आत्माव\u0bc5ऩ्ऱ सप्तत्तिऩाल् उबदेसितुविट्टु 'अदुवाय् नी इरुक्किऱाय्, हेसुवेदगेदो' ऎऩ्ऱु सेदऩऩायुळ्ळ सुवेद केदुविऱ्कु आत्मत्तऩ्मैयाग उबदेसिक्किऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Then again there is the other passage, 'That which is that subtle essence, in it all that exists has its self. It is the true. It is the Self. That art thou, O Śvetaketu' (Cḥ. Up. VI, 8, 7, &c.). Here the clause 'It is the Self' designates the Being of which the entire chapter treats, viz. the subtle Self, by the word 'Self,' and the concluding clause, 'that art thou, O Śvetaketu,' declares the intelligent Śvetaketu to be of the nature of the Self.
 </details>
@@ -2779,7 +2779,7 @@ Then again there is the other passage, 'That which is that subtle essence, in it
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Fire and water, on the other hand, are non-intelligent, since they are objects (of the mind),
 </details>
@@ -2799,7 +2799,7 @@ Fire and water, on the other hand, are non-intelligent, since they are objects (
 नामरूबङ्गळिऩ् स्रुष्टि मुदलियदिल् उबयोगप्पडुम् तऩ्मैयिलेये कुऱिप्पिट्टिरुप्पदाल्
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and since they are declared to be implicated in the evolution of names and forms.
 </details>
@@ -2820,7 +2820,7 @@ and since they are declared to be implicated in the evolution of names and forms
 (अवैगळिऩ् पार्वैक्कु) मुक्कियत्तऩ्मै ऎऩ्ऱ विषयत्तिल्, आत्मा ऎऩ्ऱ सप्तत्तैप् पोल, ऎव्विद कारणमुम् इल्लाददिऩाल्, नदिक्करैक्कुबबोल, पार्प्पदु ऎऩ्बदऱ्कु कौणत् तऩ्मै युक्तमे।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And as at the same time there is no reason for ascribing to them thought in its primary sense--while the employment of the word 'Self' furnishes such a reason with reference to the Sat--the thought attributed to them must be explained in a figurative sense, like the inclination of the river-bank.
 </details>
@@ -2840,7 +2840,7 @@ And as at the same time there is no reason for ascribing to them thought in its 
 अवैगळुक्कुक्कूड पार्प्पदु ऎऩ्बदु सत् वस्तुविऩाल् अदिष्टिदmaयिरुक्कुम् तऩ्मै यिऩाल्दाऩ्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, the thinking on the part of fire and water is to be understood as dependent on their being ruled over by the Sat.
 </details>
@@ -2862,7 +2862,7 @@ Moreover, the thinking on the part of fire and water is to be understood as depe
 सत् वस्तुविऱ्को आत्मा ऎऩ्ऱ सप्तमिरुप्पदिऩाल् पार्वै कौणमिल्लैय\u0bc5ऩ्ऱु सॊल्लप्पट्टदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On the other hand, the thought of the Sat is, on account of the word 'Self,' not to be understood in a figurative sense. [^fn_99]
 </details>
@@ -2901,7 +2901,7 @@ On the other hand, the thought of the Sat is, on account of the word 'Self,' not
 पूर्वबक्षम्:- अरसऩुडैय ऎल्ला कारियङ् gळैयुम् स\u0bc5य्दुवरुगिऱ सेवगऩिडम् ‘पत्रसेऩऩ् ऎऩ् आत्मा' ऎऩ्ऱु आत्म सप्तम् इरुबbदु ऎप्पडियो, अप्पडिये
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here the Sānkhya comes forward with a new objection. The word 'Self,' he says, may be applied to the pradhāna, although unintelligent, because it is sometimes figuratively used in the sense of 'that which effects all purposes of another;'
 </details>
@@ -2923,7 +2923,7 @@ Here the Sānkhya comes forward with a new objection. The word 'Self,' he says, 
 आत्माविऩुडैय ऎल्ला कारियङ्गळैयुम् स\u0bc5य्वदाल् असेदऩमाऩ पिरदाऩत्तिऩिडत्तिलुम् आत्मा ऎऩ्ऱ सप्तम् इरुक्कलामे ऎऩ्ऱु सॊल्ललाम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 as, for instance, a king applies the word 'Self' to some servant who carries out all the king's intentions, 'Bhadrasena is my (other) Self.'
 </details>
@@ -2944,7 +2944,7 @@ as, for instance, a king applies the word 'Self' to some servant who carries out
 सेर्त्तुवैबbदु विरोदmaक्कुवदु मुदलियवैगळिल् ईडुबडुम् सेवगऩ् अरसऩुक्कु इरुबbदु पोल, आत्मावाऩ पुरुषऩुक्कु पोगम् मोक्षम् इरण्डैयुम् स\u0bc5य्दुवैत्तु पिरदाऩम् उबgारम् स\u0bc5य्गिऱदल्लवा?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the pradhāna, which effects the enjoyment and the emancipation of the soul, serves the latter in the same way as a minister serves his king in the affairs of peace and war.
 </details>
@@ -2967,7 +2967,7 @@ For the pradhāna, which effects the enjoyment and the emancipation of the soul,
 अल्लदु, आत्मा ऎऩ्गिऱ ऒरेसप्तम् सेदऩ ऩैयुम् असेदऩत्तैयुम् विषयमुळ्ळदायिरुक्कलाम्, ‘पूदात्मा, इन्दिरियात्मा' ऎऩ्ऱु पिरयोगम् काणुवदाल्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Or else, it may be said, the one word 'Self' may refer to non-intelligent things as well as to intelligent beings, as we see that such expressions as 'the Self of the elements,' 'the Self of the senses,' are made use of,
 </details>
@@ -2987,7 +2987,7 @@ Or else, it may be said, the one word 'Self' may refer to non-intelligent things
 'ज्यादिस्' ऎऩ्ऱ सप्तम् ऒऩ्ऱागवेयिरुन्दुम् यागत्तै (ज्यादिष्टोमत्तै)युम् अक्ऩियैयुम् विषयma युळ्ळदायिरुक्किऱदु ऎप्पडियो अप्पडि
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and as the one word 'light' (jyotis) denotes a certain sacrifice (the jyotishṭoma) as well as a flame.
 </details>
@@ -3010,7 +3010,7 @@ and as the one word 'light' (jyotis) denotes a certain sacrifice (the jyotishṭ
 अव्विद मिरुबbदाल् आत्मा ऎऩ्ऱ सप्तमिरुबbदाल् पार्वै सॊल्लियिरुबbदऱ्कु कौणत्तऩ्मै इल्लैय\u0bc5ऩ्ऱु ऎप्पडि ऎप्पडि ऎऩ्बदऱ्कु पदिल् सu0bc5ल्गिऱार्-
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 How then does it follow from the word 'Self' that the thinking (ascribed to the cause of the world) is not to be taken in a figurative sense? To this last argumentation the Sūtrakāra replies:
 </details>
@@ -3043,7 +3043,7 @@ How then does it follow from the word 'Self' that the thinking (ascribed to the 
 तन्निष्टस्य मोक्षोबदेसात्: ॥ ७ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 7. (The pradhāna cannot be designated by the term 'Self') because release is taught of him who takes his stand on that (the Sat).
 </details>
@@ -3065,7 +3065,7 @@ How then does it follow from the word 'Self' that the thinking (ascribed to the 
 असेदऩmaयुळ्ळ पिरदाऩम् आत्मा ऎऩ्ऱ सप्तत्तैत् तऴुविऩदाग इरुक्कमुडियादु;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The non-intelligent pradhāna cannot be the object of the term 'Self'
 </details>
@@ -3087,7 +3087,7 @@ The non-intelligent pradhāna cannot be the object of the term 'Self'
 'अदु आत्मा' ऎऩ्ऱु पिरगिरुदmaयुळ्ळ सूक्ष्ममाऩ सत् वस्तुवै ऎडुत्तुक्कॊण्डु ‘अदुवाय् नी इरुक्किऱाय् हे सुवेदगेदो' ऎऩ्ऱु विडुविक्क वेण्डियवऩाऩ सेदऩऩायुळ्ळ सुवेदगेदुविऱ्कु अदिल् निलैत् तिरुबbदै उबदेसितुविट्टु,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 because in the passage Cḥ. Up. VI, 2 ff., where the subtle Sat which is under discussion is at first referred to in the sentence, 'That is the Self,' and where the subsequent clause, 'That art thou, O Śvetaketu,' declares the intelligent Śvetaketu to have his abode in the Self,
 </details>
@@ -3112,7 +3112,7 @@ because in the passage Cḥ. Up. VI, 2 ff., where the subtle Sat which is under 
 'आसार्यारै युडैय पुरुषऩ् अऱिवाऩ्। ऎदुवरै तेहत्तिलिरुन्दु विडुबडामलिरुक्किऱाऩो अदुवरैदाऩ् अवऩुक्कुत् तामदम् पिरारप्त कर्माविऩाल् एऱ्पट्ट सरीरत्तिलिरुन्दु विडुबट्टवुडऩेये सत्स्वरूबमाग आय्विडुगिऱाऩ्। (सा। ६-१४-२) ऎऩ्ऱु मोक्षत्तै उबदेसित्तिरुप्पदाल्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 a passage subsequent to the two quoted (viz. 'a man who has a teacher obtains true knowledge; for him there is only delay as long as he is not delivered, then he will be perfect') declares final release.
 </details>
@@ -3135,7 +3135,7 @@ a passage subsequent to the two quoted (viz. 'a man who has a teacher obtains tr
 'सत्' ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुम् असेदऩmaयुळ्ळ पिरदाऩत्तै ‘अदुवाय् नी इरुक्किऱाय्' ऎऩ्ऱु उबदेसिक्कुमाऩाल्, मोक्षत्तिल् विरुप्प मुळ्ळवऩाय् सेदऩऩाय् इरुप्पवऩै ‘असेदऩmaय् नी इरुक्किऱाय्' ऎऩ;ऱु उबदेसित्तदाग आगुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For if the non-intelligent pradhāna were denoted by the term 'Sat' and did comprehend--by means of the phrase 'That art thou'--persons desirous of final release who as such are intelligent, the meaning could only be 'Thou art non-intelligent;'
 </details>
@@ -3152,7 +3152,7 @@ For if the non-intelligent pradhāna were denoted by the term 'Sat' and did comp
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 so that Scripture would virtually make contradictory statements to the disadvantage of man, and would thus cease to be a means of right knowledge.
 </details>
@@ -3173,7 +3173,7 @@ so that Scripture would virtually make contradictory statements to the disadvant
 ऎव्विद तोषमुमऱ्ऱ सास्तिरत्तै पिरमाणमऱ्ऱद\u0bc5ऩ्ऱु कल्बिप्पदु युक्तmagादु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But to assume that the faultless śāstra is not a means of right knowledge, would be contrary to reason.
 </details>
@@ -3207,7 +3207,7 @@ But to assume that the faultless śāstra is not a means of right knowledge, wou
 अऱिवऱ्ऱवऩायिरुक्कुम् मुमुक्षुविऱ्कु असेदऩ माऩ अनात्मावै आत्माव\u0bc5ऩ्ऱु पिरमाण मायिरुक्किऱ सास्तिरम् उबदेसिक्कुमाऩाल्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And if the śāstra, considered as a means of right knowledge, should point out to a man desirous of release, but ignorant of the way to it, a non-intelligent Self as the real Self,
 </details>
@@ -3229,7 +3229,7 @@ And if the śāstra, considered as a means of right knowledge, should point out 
 अवऩ् नम्बिक्कैयुळ्ळ वऩाऩदिऩाल्, कुरुडऩ् माट्टुवालैप् पिडितुक्कॊण् डाऩ\u0bc5ऩ्ऱ नियायप्पडि अदुवे आत्मा ऎऩ्ऱ ऎण्णत्तै विडमाट्टाऩ्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 he would--comparable to the blind man who had caught hold of the ox's tail [^fn_100]--cling to the view of that being the Self,
 </details>
@@ -3254,7 +3254,7 @@ he would--comparable to the blind man who had caught hold of the ox's tail [^fn_
 अदऱ्कु वेऱायुळ्ळ आत्मा वैयुम् अऱियmaट्टाऩ्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and thus never be able to reach the real Self different from the false Self pointed out to him;
 </details>
@@ -3275,7 +3275,7 @@ and thus never be able to reach the real Self different from the false Self poin
 अप्पडियिरबbदाल्, पुरुषार्त् तत्तिलिरुन्दु तडुक्कप्पट्टवऩावाऩ्, क\u0bc5डुदलैयुम् अडैवाऩ्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 hence he would be debarred from what constitutes man's good, and would incur evil.
 </details>
@@ -3296,7 +3296,7 @@ hence he would be debarred from what constitutes man's good, and would incur evi
 आगैयाल् स्वर्क्कम् मुदलियदै विरुम्बुगिऱवऩुक्कु अक्ऩिहोत्रम् मुदलिय सादऩत्तै उळ्ळबडिये ऎप्पडि उबदेसिक्किऱदो,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We must therefore conclude that, just as the śāstra teaches the agnihotra and similar performances in their true nature as means for those who are desirous of the heavenly world,
 </details>
@@ -3320,7 +3320,7 @@ We must therefore conclude that, just as the śāstra teaches the agnihotra and 
 अप्पडिये मुऴुक्षुविऱ्कुम् ‘अदु आत्मा; अदुवाय् नी इरुक्किऱाय्, हे सुवेदगेदो' ऎऩ्ऱु उळ्ळबडिये आत्मावै उबदेसिक्किऱदु ऎऩ्बदुदाऩ् न्यायम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 so the passage 'that is the Self, that art thou, O Śvetaketu,' teaches the Self in its true nature also.
 </details>
@@ -3342,7 +3342,7 @@ so the passage 'that is the Self, that art thou, O Śvetaketu,' teaches the Self
 इप्पडियिरुन्दाल् ताऩ् पऴुक्कक् काय्च्चिऩ कोडालियैप् पिडितु विडुदलैल\u0bc5ऩ्ऱु तिरुष्टान्दत्तिऩाल् सत्यत्तिल् पिडिमाऩ मुळ्ळवऩुक्कु मोक्षत्तै उबदेसिप्पदु प\u0bcaरुत्तमागुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Only on that condition release for him whose thoughts are true can be taught by means of the simile in which the person to be released is compared to the man grasping the heated axe (Cḥ. Up. VI, 16).
 </details>
@@ -3372,7 +3372,7 @@ Only on that condition release for him whose thoughts are true can be taught by 
 वेऱुविदmag सत्वस्तुवे आत्मा ऎऩ्ऱ तत्वत्तिऩ् उबदेसम् मुक्कियमाऩदिल्लैय\u0bc5ऩ्ऱाल्, 'नाऩ् उक्तmaय् इरुक्किऱेऩ् ऎऩ्ऱु अऱियवुम्' ऎऩ्बदैप्पोल इदु व\u0bc5ऱुम् 'सम्बत्’ताग इरुन्दु अनित् यमाऩ पलऩैयुडैयदाग आगिविडुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For in the other case, if the doctrine of the Sat constituting the Self had a secondary meaning only, the cognition founded on the passage 'that art thou' would be of the nature of a fanciful combination only [^fn_101], like the knowledge derived from the passage, 'I am the hymn' (Ait. Ār. II, 1, 2, 6), and would lead to a mere transitory reward;
 </details>
@@ -3393,7 +3393,7 @@ For in the other case, if the doctrine of the Sat constituting the Self had a se
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 so that the simile quoted could not convey the doctrine of release.
 </details>
@@ -3414,7 +3414,7 @@ so that the simile quoted could not convey the doctrine of release.
 आगैयाल् सत्ताग सूक्ष्मmaयिरुबbदिल् ‘आत्मा’ ऎऩ्ऱ सप्तत्तिऱ्कु कौणत्तऩ्मै किडैयादु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Therefore the word 'Self' is applied to the subtle Sat not in a merely figurative sense.
 </details>
@@ -3436,7 +3436,7 @@ Therefore the word 'Self' is applied to the subtle Sat not in a merely figurativ
 सेवगऩ् विषयत्तिलो, यजमाऩऩ् सेवगऩ् ऎऩ्ऱ पेदम् पिरत्यक्षmaयिरुबbदाल् ‘पत्रसेऩऩ् ऎऩ् आत्मा' ऎऩ्ऱु आत्मा ऎऩ्गिऱ सप्तम् कौणम् ऎऩ्बदु प\u0bcaरुन्दुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the case of the faithful servant, on the other hand, the word 'Self' can--in such phrases as 'Bhadrasena is my Self'--be taken in a figurative sense, because the difference between master and servant is well established by perception.
 </details>
@@ -3459,7 +3459,7 @@ In the case of the faithful servant, on the other hand, the word 'Self' can--in 
 मेलुम् एदो सिलविडङ्गळिल् कौणmag सप्तम् काणप्पडुगिऱदु ऎऩ्बदिऩाल् सप्तत्तै पिरमाणma युळ्ळ विषयत्तिल् कौणम् ऎऩ्ऱ कल्बऩै नियाय magादु, ऎल्लाविडत्तिलुम् तीर्माऩमऱ्ऱदागप् पोय्विडु माऩदिऩाल्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, to assume that, because words are sometimes seen to be used in figurative senses, a figurative sense may be resorted to in the case of those things also for which words (i.e. Vedic words) are the only means of knowledge, is altogether indefensible; for an assumption of that nature would lead to a general want of confidence.
 </details>
@@ -3493,7 +3493,7 @@ Moreover, to assume that, because words are sometimes seen to be used in figurat
 ज्यादिस् ऎऩ्ऱ सप्तम् यागत्तिलुम् अक्ऩियिलुम् इरुबbदुबोल, आत्मा ऎऩ्ऱ सप्तमुम् सेदऩत्तिलुम् असेदऩत्तिलुम् प\u0bcaदुवायुळ्ळदु, ऎऩ्ऱु ऎदु सॊल्लप्पट्टदो, अदु सरियल्ल,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The assertion that the word 'Self' may (primarily) signify what is non-intelligent as well as what is intelligent, just as the word 'jyotis' signifies a certain sacrifice as well as light, is inadmissible,
 </details>
@@ -3513,7 +3513,7 @@ The assertion that the word 'Self' may (primarily) signify what is non-intellige
 पल अर्त्तङ्गळै युडैयदु ऎऩ्बदु न्यायमिल्लाददिऩाल्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 because we have no right to attribute to words a plurality of meanings.
 </details>
@@ -3535,7 +3535,7 @@ because we have no right to attribute to words a plurality of meanings.
 आगैयाल्, सेदऩऩै विषयmaयुळ्ळ मुक्कियमाऩ आत्मा ऎऩ्गिऱ सप्तमे पूदङ्गळ् मुदलियवैगळिल् सेदऩत्तऩ् मैयुळ्ळदाग उबसारमाग पूदात्मा इन्दिरियात्मा ऎऩ्ऱु पिरयोगिक्कप्पडुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence (we rather assume that) the word 'Self' in its primary meaning refers to what is intelligent only and is then, by a figurative attribution of intelligence, applied to the elements and the like also; whence such phrases as 'the Self of the elements,' 'the Self of the senses.'
 </details>
@@ -3558,7 +3558,7 @@ Hence (we rather assume that) the word 'Self' in its primary meaning refers to w
 आत्मा ऎऩ्ऱसप्तम् प\u0bcaदुवा यिरुन्दालुम् कूड, पिरगरणमो अडैमॊऴियो तीर्माऩित्तुक् कॊडुक्क वेऱु ऎदुवो इल्लादबओदु (पल अर्त्तङ्गळुक्कुळ्) एदेऩुम् ऒऩ्ऱैक् कुऱिक्कुम् तऩ्मैयुळ्ळद\u0bc5ऩ्ऱु तीर्माऩिक्क मुडियादु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And even if we assume that the word 'Self' primarily signifies both classes of beings, we are unable to settle in any special case which of the two meanings the word has, unless we are aided either by the general heading under which it stands, or some determinative attributive word.
 </details>
@@ -3578,7 +3578,7 @@ And even if we assume that the word 'Self' primarily signifies both classes of b
 इङ्गेयो असेदऩम\u0bc5ऩ्ऱु तीर्माऩित्तुक् कॊडुक्कक्कूडिय कारणम् ऎदुवुम् इल्लै।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But in the passage under discussion there is nothing to determine that the word refers to something non-intelligent,
 </details>
@@ -3599,7 +3599,7 @@ But in the passage under discussion there is nothing to determine that the word 
 पिरगिरुदmo पार्प्पदायुळ्ळ सत्वस्तु; ऎदिरिल् निऱ्पदो सेदऩऩाऩ सुवेदगेदु,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 while, on the other hand, the Sat distinguished by thought forms the general heading, and Śvetaketu, i.e. a being endowed with intelligence, is mentioned in close proximity.
 </details>
@@ -3619,7 +3619,7 @@ while, on the other hand, the Sat distinguished by thought forms the general hea
 सेदऩऩाऩ सुवेदगेदुविऱ्कु आत्मा असेदऩmaयिरादु ऎऩ्ऱु सॊऩ्ऩोम् अल्लवा?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That a non-intelligent Self does not agree with Śvetaketu, who possesses intelligence, we have already shown.
 </details>
@@ -3647,7 +3647,7 @@ That a non-intelligent Self does not agree with Śvetaketu, who possesses intell
 आगैयाल् इङ्गेयुळ्ळ 'आत्मा' ऎऩ्ऱ सप्तम् सेदऩऩैye विषयmaयुळ्ळदु ऎऩ्ऱु निच्चयिक् कप्पडुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All these circumstances determine the object of the word 'Self' here to be something intelligent.
 </details>
@@ -3668,7 +3668,7 @@ All these circumstances determine the object of the word 'Self' here to be somet
 ज्यादिस् ऎऩ्ऱ सप्तमुम् उलगत्तिलुळ्ळ पिरयोगत्तिऩाल् अक्ऩिय\u0bc5ऩ्ऱ अर्त्तत्तिलेये रूडmaयिरुबbदु अर्त्तवादत्तिऱ्काग कल्बिक्कप्पडुगिऱ अक्ऩियैबபோல்उळ्ळ तऩ्मैयाल् यागत्तिल् पिरविरुत् तिक्किऱदु ऎऩ्बदिऩाल् तिरुष्टान्दmagादु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The word 'jyotis' does moreover not furnish an appropriate example; for according to common use it has the settled meaning of 'light' only, and is used in the sense of sacrifice only on account of the arthavāda assuming a similarity (of the sacrifice) to light.
 </details>
@@ -3691,7 +3691,7 @@ The word 'jyotis' does moreover not furnish an appropriate example; for accordin
 अल्लदु मुन्दिऩ सूत्रत्तिलेये ऎल्ला कौणत्तऩ्मै प\u0bcaदुत्तऩ्मै ऎऩ्ऱ सन्देह मऩ्ऩियिल् आत्मा ऎऩ्ऱ सप्तत्तै वियाक्याऩम् स\u0bc5य्दुविट्टु,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 A different explanation of the Sūtra is also possible. The preceding Sūtra may be taken completely to refute all doubts as to the word 'Self' having a figurative or double sense,
 </details>
@@ -3711,7 +3711,7 @@ A different explanation of the Sūtra is also possible. The preceding Sūtra may
 पिऱगु स्वदन्दिरमागवे ‘अदिल् निलैत्तिरुबbवऩुक्कु मोक्षम् उबदेसित्तिरुबbदाल्' ऎऩ्ऱु पिरदाऩम् कारणमिल्लैय\u0bc5ऩ्बदऱ्कु हेदुवाग वियाक्याऩम् स\u0bc5य्यवेण्डुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and then the present Sūtra is to be explained as containing an independent reason, proving that the doctrine of the pradhāna being the general cause is untenable.
 </details>
@@ -3731,7 +3731,7 @@ and then the present Sūtra is to be explained as containing an independent reas
 आगैयाल् 'सत्' ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप् पडुवदु असेदऩमाऩ पिरदाऩमिल्लै।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence the non-intelligent pradhāna is not denoted by the word 'Self.'
 </details>
@@ -3768,7 +3768,7 @@ Hence the non-intelligent pradhāna is not denoted by the word 'Self.'
 इऩ्ऩुम् ऎदिऩाल् पिरदाऩम् सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुवदु इल्लै?-
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This the teacher now proceeds to prove by an additional reason.
 </details>
@@ -3794,7 +3794,7 @@ This the teacher now proceeds to prove by an additional reason.
 हेयत्वावसनाच्च: ॥ ८ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 8. And (the pradhāna cannot be denoted by the word 'Self') because there is no statement of its having to be set aside.
 </details>
@@ -3818,7 +3818,7 @@ This the teacher now proceeds to prove by an additional reason.
 आत्मावल्लाद पिरदाऩमे सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पट्टदाय् ‘अदु आत्मा, अदुवाय् नी इरुक्किऱाय्' ऎऩ्ऱु इङ्गु उबदेसिक्कप् पट्टिरुक्कुमेयाऩाल्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If the pradhāna which is the Not-Self were denoted by the term 'Being' (Sat), and if the passage 'That is the Self, that art thou, O Śvetaketu,' referred to the pradhāna;
 </details>
@@ -3840,7 +3840,7 @@ If the pradhāna which is the Not-Self were denoted by the term 'Being' (Sat), a
 अन्द उबदेसत्तैक् केट्टवऩ् अनात्मक्ञऩाऩदाल् अदिलेये निलैत्तुविडक्कूडादु ऎऩ्ऱु, मुक्कियमाऩ आत्मावै उबदेसिक्क विरुम्बि, अदऩ् (पिरदाऩत्तिऩ्) तळ्ळिविड वेण्डिय तऩ्मैयै सॊल्लियिरुक्कुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the teacher whose wish it is to impart instruction about the true Brahman would subsequently declare that the pradhāna is to be set aside (and the true Brahman to be considered); for otherwise his pupil, having received the instruction about the pradhāna, might take his stand on the latter, looking upon it as the Non-Self.
 </details>
@@ -3861,7 +3861,7 @@ the teacher whose wish it is to impart instruction about the true Brahman would 
 अरुन्ददी नक्षत्तिरत्तैक् काट्ट निऩैबbवऩ् मुदलिल् अदऩ् समीबत्तिल् स्तूलmaयुळ्ळ मुक्कियमिल्लाद नक्षत्तिरत्तै अरुन्ददीय\u0bc5ऩ्ऱु अऱियुम्बडि स\u0bc5य्दुविट्टु,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In ordinary life a man who wishes to point out to a friend the (small) star Arundhatī at first directs his attention to a big neighbouring star, saying 'that is Arundhatī,' although it is really not so;
 </details>
@@ -3882,7 +3882,7 @@ In ordinary life a man who wishes to point out to a friend the (small) star Arun
 पिऩ्ऩाल् अदै ऎप्पडि मऱुत्तु अरुन्ददियैये अऱियच् च\u0bc5य्गिऱाऩो
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and thereupon he withdraws his first statement and points out the real Arundhatī.
 </details>
@@ -3902,7 +3902,7 @@ and thereupon he withdraws his first statement and points out the real Arundhat�
 अदैबबोल इदु आत्मावल्ल ऎऩ्ऱु सॊल्लियिरुक् कवेण्डुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Analogously the teacher (if he intended to make his pupil understand the Self through the Non-Self) would in the end definitely state that the Self is not of the nature of the pradhāna.
 </details>
@@ -3922,7 +3922,7 @@ Analogously the teacher (if he intended to make his pupil understand the Self th
 अव्विदमो सॊल्लविल्लै।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But no such statement is made;
 </details>
@@ -3943,7 +3943,7 @@ But no such statement is made;
 'सत्' मात्तिरमागिय आत्माविऩ् ञाऩत्तिल् निलैत्त तागवेयल्लवा आऱावदु पिरबाडगत्तिऩ् मुडिवु काणप्पडुगिऱदु?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for the sixth Prapāṭḥaka arrives at a conclusion based on the view that the Self is nothing but that which is (the Sat).
 </details>
@@ -3973,7 +3973,7 @@ for the sixth Prapāṭḥaka arrives at a conclusion based on the view that the
 (सूत्तिरत्तिलुळ्ळ) ‘उम्’ ऎऩ्गिऱ सप्तम् पिरदिक्ञैक्कु विरोदम् ऎऩ्बदैयुम् सेर्त्तुक्क\u0bc5ळ्ळ वेण्डुम\u0bc5ऩ्बदिल् तात्पर्यमुळ्ळदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The word 'and' (in the Sūtra) is meant to notify that the contradiction of a previous statement (which would be implied in the rejected interpretation) is an additional reason for the rejection.
 </details>
@@ -3993,7 +3993,7 @@ The word 'and' (in the Sūtra) is meant to notify that the contradiction of a pr
 तळ्ळवेण्डिय ताग वार्त्तैयिरुन्दालुम् पिरदिक्ञैक्कु विरोदम् एऱ्पडुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Such a contradiction would result even if it were stated that the pradhāna is to be set aside.
 </details>
@@ -4013,7 +4013,7 @@ Such a contradiction would result even if it were stated that the pradhāna is t
 कारणत्तै अऱिवदिऩालल्लवा ऎल्लाम् अऱियप्पट्टदागिऱदु ऎऩ्ऱु पिरदिक्ञै स\u0bc5य्यप्पट्टदु?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For in the beginning of the Prapāṭḥaka it is intimated that through the knowledge of the cause everything becomes known.
 </details>
@@ -4038,7 +4038,7 @@ For in the beginning of the Prapāṭḥaka it is intimated that through the kno
 ‘अप्पडियाऩाल् अन्द आदेसत्तैक्केट्टाया? ऎदिऩाल् केट्कप्पडाददु केट्कप्पट्टदाग आगुमो, निऩैक्कप् पडाददु निऩैक्कप्पट्टदागवुम्, अऱियप्पडाददु अऱियप्पट्टदागवुम् (आगुमो) ऎऩ्ऱु। हे bgवऩ् अन्द आदेसम् ऎप्पडियिरुक्कुम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Compare the following consecutive sentences, 'Have you ever asked for that instruction by which we hear what cannot be heard, by which we perceive what cannot be perceived, by which we know what cannot be known? What is that instruction?
 </details>
@@ -4060,7 +4060,7 @@ Compare the following consecutive sentences, 'Have you ever asked for that instr
 हे सोम्य, ऎप्पडि ऒरु मण्गट्टियिऩाल् मण्णाल् स\u0bc5य्यप्पट्टदु ऎल्लाम् अऱियप्पट्टदाग आगिऱदो (अप्पडि) विगारम् ऎऩ्बदु व\u0bc5ऱुम् वाक्किऩाल् आरम्बिक्कप्पडुगिऱदु प\u0bc5यर्दाऩ्; मण् ऎऩ्बदुदाऩ् सत्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As, my dear, by one clod of clay all that is made of clay is known, the modification (i.e. the effect) being a name merely which has its origin in speech, while the truth is that it is clay merely,'
 </details>
@@ -4081,7 +4081,7 @@ As, my dear, by one clod of clay all that is made of clay is known, the modifica
 हे सोम्य, इव्विदम् अन्द आदेसम् इरुक्कुम् (सान्।६-१-१,३) ऎऩ्ऱु वाक्कियत्तिऩ् आरम्बत्तिल् सॊल्लप्पट्टिरुबbदाल्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'such, my dear, is that instruction,' is stated in the introductory part of the chapter.
 </details>
@@ -4103,7 +4103,7 @@ As, my dear, by one clod of clay all that is made of clay is known, the modifica
 पोक्यक्कूट्टत्तिऱ्कु कारणमाऩ पिरदाऩम् सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पट्टु तळ्ळवेण्डियd\u0bc5ऩ्ऱो तळ्ळवेण्डियdिल्लैय\u0bc5ऩ्ऱो अऱियप्पट्टालुम्गूड, पोक्ताक्कळिऩ् कूट्टम् अऱियप्पट्टदाग आगादु, पोक्ताक्कळिऩ् कूट्टम् पिरदाऩत्तिऩ् विगारमिल्लाद तिऩाल्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now if the term 'Sat' denoted the pradhāna, which is merely the cause of the aggregate of the objects of enjoyment, its knowledge, whether to be set aside or not to be set aside, could never lead to the knowledge of the aggregate of enjoyers (souls), because the latter is not an effect of the pradhāna.
 </details>
@@ -4123,7 +4123,7 @@ Now if the term 'Sat' denoted the pradhāna, which is merely the cause of the ag
 अदिऩाल् पिरदाऩम् सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुवदु इल्लै।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Therefore the pradhāna is not denoted by the term 'Sat.'
 </details>
@@ -4150,7 +4150,7 @@ Therefore the pradhāna is not denoted by the term 'Sat.'
 इऩ्ऩुम् ऎदिऩाल् पिरदाऩम् सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुवदु इल्लै?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For this the Sūtrakāra gives a further reason.
 </details>
@@ -4172,7 +4172,7 @@ For this the Sūtrakāra gives a further reason.
 स्वाप्ययात्: ॥ ९ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 9. On account of (the individual Soul) going to the Self (the Self cannot be the pradhāna).
 </details>
@@ -4198,7 +4198,7 @@ For this the Sūtrakāra gives a further reason.
 सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुम् अन्द कारण वस्तुवैप्पऱ्ऱिये सॊल्लप्पडुगिऱदु:
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 With reference to the cause denoted by the word 'Sat,' Scripture says,
 </details>
@@ -4219,7 +4219,7 @@ With reference to the cause denoted by the word 'Sat,' Scripture says,
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'When a man sleeps here, then, my dear, he becomes united with the Sat, he is gone to his own (Self). Therefore they say of him, "he sleeps" (svapiti), because he is gone to his own (svam apīta).' (Cḥ. Up. VI, 8, 1.)
 </details>
@@ -4240,7 +4240,7 @@ With reference to the cause denoted by the word 'Sat,' Scripture says,
 इन्द सुरुदि पुरुषऩुक्कु उलगत्तिल् पिरसित्तmaयुळ्ळ ‘स्वबिदि’ ऎऩ्ऱ इन्दप् प\u0bc5यरै निर्वसऩम् स\u0bc5य्गिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This passage explains the well-known verb 'to sleep,' with reference to the soul.
 </details>
@@ -4260,7 +4260,7 @@ This passage explains the well-known verb 'to sleep,' with reference to the soul
 'स्वम्' (ताऩ्) ऎऩ्ऱ सप्तत्तिऩाल् इङ्गु आत्मा सॊल्लप्पडुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The word, 'his own,' denotes the Self
 </details>
@@ -4282,7 +4282,7 @@ The word, 'his own,' denotes the Self
 ऎवर् पिरगिरुदmaय् सत् सप्तत्तिऩाल् सॊल्लप्पडुगिऱारो, अवरै अडैन्दवऩाग आगिऱाऩ्, पुगुन्दवऩाग आगिऱाऩ् ऎऩ्ऱु अर्त्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 which had before been denoted by the word Sat; to the Self he (the individual soul) goes, i.e. into it it is resolved,
 </details>
@@ -4303,7 +4303,7 @@ which had before been denoted by the word Sat; to the Self he (the individual so
 'अबि' ऎऩ्बदै मुऩ्ऩुळ्ळदाऩ 'ई' ऎऩ्गिऱ तादुविऱ्कु लयम् ऎऩ्गिऱ अर्त्तमुळ्ळदु पिरसित्तम्, 'पिरबवम् अप्ययम्' ऎऩ्ऱु उत्पत्ति पिरळयम् ऎऩ्ऱ अर्त्तत्तिल् पिरयोगम् काणुवदाल्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 according to the acknowledged sense of api-i, which means 'to be resolved into.'
 </details>
@@ -4334,7 +4334,7 @@ according to the acknowledged sense of api-i, which means 'to be resolved into.'
 मऩदिऩुडैय पिरसारmagिय उबादि विसे षत्तिऩ् सेर्क्कैयिऩाल् इन्दिरियङ्गळुक्कु विषयmaयुळ्ळ वैगळै किरहिक्किऱवऩाय् अन्द विसेषत्तै यडैन्दवऩाय् जीवऩ् विऴित्तुक्कॊण्डिरुक्किऱाऩ्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The individual soul (jīva) is called awake as long as being connected with the various external objects by means of the modifications of the mind--which thus constitute limiting adjuncts of the soul--it apprehends those external objects, and identifies itself with the gross body, which is one of those external objects [^fn_102].
 </details>
@@ -4361,7 +4361,7 @@ The individual soul (jīva) is called awake as long as being connected with the 
 अन्द वासऩैयुडऩ्गूडि स्वप्ऩत्तैप् पार्प्पदु मऩस् ऎऩ्ऱु सप्तत्तिऩाल् सॊल्लप्पडुवदाग आगिऩ्ऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 When, modified by the impressions which the external objects have left, it sees dreams, it is denoted by the term 'mind [^fn_103].'
 </details>
@@ -4388,7 +4388,7 @@ When, modified by the impressions which the external objects have left, it sees 
 इरण्डु उबादिगळुम् ऒडुङ्गिय नल्ल तूक्कनिलैयिल् उबादिगळाल् स\u0bc5य्यप्पडुम् विसेष मिल्लाददिऩाल्, तऩ् आत्माविडत्तिल् लयमडैन्दु विट्टदुबोल 'तऩ्ऩै यल्लवा अडैन्दवऩाग आगिऱाऩ्' ऎऩ्ऱु सॊल्लप् पडुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 When, on the cessation of the two limiting adjuncts (i.e. the subtle and the gross bodies), and the consequent absence of the modifications due to the adjuncts, it is, in the state of deep sleep, merged in the Self as it were, then it is said to be asleep (resolved into the Self).
 </details>
@@ -4414,7 +4414,7 @@ When, on the cessation of the two limiting adjuncts (i.e. the subtle and the gro
 “अन्द इन्द आत्मावे ह्रुदयत्तिल् अदऱ्कु इदुवे निर्वसऩम् ह्रुदि अयम् (ह्रुदयत्तिल् इवर्) ऎऩ्ऱु अदऩाल् ह्रुदयम् ऎऩ्ऱु" (सान्।८-३-३) ऎऩ्ऱु ऎप्पडि ह्रुदयम् ऎऩ्ऱ सप्तत्तिऱ्कु निर्वसऩम् वेदत्तिऩाल् काट्टप्पट्टु इरुक्किऱदो;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 A similar etymology of the word 'hr̥daya' is given by śruti, 'That Self abides in the heart. And this is the etymological explanation: he is in the heart (hr̥di ayam).' (Cḥ. Up. VIII, 3, 3.)
 </details>
@@ -4439,7 +4439,7 @@ A similar etymology of the word 'hr̥daya' is given by śruti, 'That Self abides
 अल्लदु “जलम्दाऩ् असिदमाऩ (साप्पिट्टदाऩ) अदैक् कॊण्डु पोगिऱदु। तेजस्ताऩ् पाऩम् स\u0bc5य्द अदैक्कॊण्डु पोगिऱदु" (सान्।६-८-३,५) ऎऩ्ऱु ऎप्पडि असनाया उदऩ्या ऎऩ्ऱ सप्तङ्गळिऩ् पिरविरुत्तिक्कुक् कारणत्तै सुरुदि काट्टुगिऱदो;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The words aśanāya and udanyā are similarly etymologised: 'water is carrying away what has been eaten by him;' 'fire carries away what has been drunk by him' (Cḥ. Up. VI, 8, 3; 5).
 </details>
@@ -4463,7 +4463,7 @@ The words aśanāya and udanyā are similarly etymologised: 'water is carrying a
 इव्विदमे सत् सप्तत्तिऩाल् सॊल्लप्पडुगिऱ स्वम् (तऩ्) आत्मावै अबीदऩ् (अडैन्दवऩ्) आगिऱाऩ् ऎऩ्ऱु इन्द अर्त्तत्तै स्वबिदि ऎऩ्ऱ प\u0bc5यरै निर्वसऩम् पण्णुवदाल् काट्टुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Thus the passage quoted above explains the resolution (of the soul) into the Self, denoted by the term 'Sat,' by means of the etymology of the word 'sleep.'
 </details>
@@ -4498,7 +4498,7 @@ Thus the passage quoted above explains the resolution (of the soul) into the Sel
 मेलुम्, सेदऩमायुळ्ळ आत्मा असेदऩमायुळ्ळ पिरदाऩत्तै स्वरूबमाग अडैयादु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But the intelligent Self can clearly not resolve itself into the non-intelligent pradhāna.
 </details>
@@ -4518,7 +4518,7 @@ But the intelligent Self can clearly not resolve itself into the non-intelligent
 पिरदाऩमे आत्मावैच् चेर्न्ददायिरुप्पदाल् 'स्व' ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुगिऱदु ऎऩ्ऱाल्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, again, it were said that the pradhāna is denoted by the word 'own,' because belonging to the Self (as being the Self's own),
 </details>
@@ -4538,7 +4538,7 @@ If, again, it were said that the pradhāna is denoted by the word 'own,' because
 अप्पडियुम् सेदऩम् असेदऩत्तैयडैगिऱदु ऎऩ्ऱु विरुत्तमाग एऱ्पट्टुविडुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 there would remain the same absurd statement as to an intelligent entity being resolved into a non-intelligent one.
 </details>
@@ -4563,7 +4563,7 @@ there would remain the same absurd statement as to an intelligent entity being r
 वेऱु सुरुदियुम् 'पिराक्ञऩाऩ आत्माविऩाल् नऩ्गु आलिङ्गऩम् सॆय्दुगॊळ्ळप् पट्टवऩाग वॆळियिलुळ्ळदैयो उळ्ळेयुळ्ळ तैयो अऱिवदु इल्लै' (पिरुहत् ४-३-२१) ऎऩ्ऱु नल्ल तूक्क निलैयिल् सेदऩऩिल् ऒडुङ्गुवदै काट्टुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover another scriptural passage (viz. 'embraced by the intelligent--prājña Self he knows nothing that is without, nothing that is within,' Br̥. Up. IV, 3, 21) declares that the soul in the condition of dreamless sleep is resolved into an intelligent entity.
 </details>
@@ -4586,7 +4586,7 @@ Moreover another scriptural passage (viz. 'embraced by the intelligent--prājña
 आगैयाल् ऎदिऩिडत्तिल् ऎल्लाद सेदऩङ्गळुक्कुम् ऒडुङ्गुदलो, अदु सेदऩम्, सत् ऎऩ्ऱ सप्तत्तिऩाल् सॊल्लप्पडुवदु, jagत्तिऱ्कुक् कारणम्; पिरदाऩम् अल्ल।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence that into which all intelligent souls are resolved is an intelligent cause of the world, denoted by the word 'Sat,' and not the pradhāna.
 </details>
@@ -4618,7 +4618,7 @@ Hence that into which all intelligent souls are resolved is an intelligent cause
 वेऱु ऎदिऩाल् पिरदाऩम् जगतिऱ्कुक् कारणमिल्लै?-
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 A further reason for the pradhāna not being the cause is subjoined.
 </details>
@@ -4638,7 +4638,7 @@ A further reason for the pradhāna not being the cause is subjoined.
 गतिसामान्यात्: ॥ १० ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 10. On account of the uniformity of view (of the Vedānta-texts, Brahman is to be considered the cause).
 </details>
@@ -4665,7 +4665,7 @@ A further reason for the pradhāna not being the cause is subjoined.
 तार्क्किगर्गळिऩ् मदत्तिल्बोल, उबनिषत्तुक् कळिलुम् सिल इडङ्गळिल् सेदऩमाऩ पिरह्मम् जगत्तिऱ्कुक् कारणम्, सिल इडङ्गळिल् असेदऩमाऩ पिरदाऩम्, सिल इडङ्गळिल् (अणु मुदलिय) मऱ्ऱवै, ऎऩ्ऱु कारण विषयमाऩ ञाऩम् व\u0bc5व्वेऱाग इरुक्कुमेयाऩाल्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, as in the argumentations of the logicians, so in the Vedānta-texts also, there were set forth different views concerning the nature of the cause,
 </details>
@@ -4683,7 +4683,7 @@ If, as in the argumentations of the logicians, so in the Vedānta-texts also, th
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 some of them favouring the theory of an intelligent Brahman being the cause of the world, others inclining towards the pradhāna doctrine, and others again tending in a different direction;
 </details>
@@ -4700,7 +4700,7 @@ some of them favouring the theory of an intelligent Brahman being the cause of t
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 then it might perhaps be possible to interpret such passages as those, which speak of the cause of the world as thinking, in such a manner as to make them fall in with the pradhāna theory.
 </details>
@@ -4720,7 +4720,7 @@ then it might perhaps be possible to interpret such passages as those, which spe
 आऩाल् अदुवो इल्लै।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But the stated condition is absent
 </details>
@@ -4740,7 +4740,7 @@ But the stated condition is absent
 ऎल्ला उबनिषत्तुक्कळिलुमे सेदऩत्तैक् कारणमाग अऱिवदुदाऩ् समाऩमाग इरुन्दुवरुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 since all the Vedānta-texts uniformly teach that the cause of the world is the intelligent Brahman.
 </details>
@@ -4775,7 +4775,7 @@ since all the Vedānta-texts uniformly teach that the cause of the world is the 
 “ज्वलिक्किऱ अक्ऩियिलिरुन्दु पॊऱिगळ् ऎल्ला तिक्कुगळिलुम् किळम्बुवदु ऎप्पडियो, अप्पडिये इन्द आत्माविलिरुन्दु ऎल्ला इन्दिरियङ्गळुम् अददिऩ् इडत्तिल् किळम्बुगिऩ्ऱऩ इन्दिरियङ्गळुक्कुप् पिऱगु (अवैगळै अऩुग्रहिक्कुम्) तेवर्गळ्, तेवर्गळुक्कुप् पिऱगु (अवैगळिऩ् विषयmaयुळ्ळ) उलगङ्गळ्” (कौषीदगी ३-३) ऎऩ्ऱुम्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Compare, for instance, 'As from a burning fire sparks proceed in all directions, thus from that Self the prāṇas proceed each towards its place; from the prāṇas the gods, from the gods the worlds' (Kau. Up. III, 3).
 </details>
@@ -4797,7 +4797,7 @@ Compare, for instance, 'As from a burning fire sparks proceed in all directions,
 "अन्द इन्द आत्मावलिरुन्दे आगासम् उण्डायिऱ्ऱु" (तैत्तिरीय (२-१) ऎऩ्ऱुम्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And 'from that Self sprang ether' (Taitt. Up. II, 1).
 </details>
@@ -4819,7 +4819,7 @@ And 'from that Self sprang ether' (Taitt. Up. II, 1).
 "आत्माविलिरुन्दुदाऩ् इदु ऎल्लाम्” (सान्।७-२६-१) ऎऩ्ऱुम्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And 'all this springs from the Self' (Cḥ. Up. VII, 26, 1).
 </details>
@@ -4842,7 +4842,7 @@ And 'all this springs from the Self' (Cḥ. Up. VII, 26, 1).
 “आत्माविलिरुन्दुदाऩ् पिराणऩ् उण्डागिदु" (पिरच्ऩ।३-३) ऎऩ्ऱुम्, ऎल्ला उबनिषत्तुक्कळुम् आत्माविऱ्कुक् कारणत्तऩ्मैयैक् काट्टुगिऩ्ऱऩ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And 'this prāṇa is born from the Self' (Pr. Up. III, 3); all which passages declare the Self to be the cause.
 </details>
@@ -4862,7 +4862,7 @@ And 'this prāṇa is born from the Self' (Pr. Up. III, 3); all which passages d
 'आत्मा' ऎऩ्ऱ सप्तमो सेदऩत्तैच् चॊल्वदु ऎऩ्ऱु सॊल्लियिरुक्किऱोम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the word 'Self' denotes an intelligent being, we have already shown.
 </details>
@@ -4884,7 +4884,7 @@ That the word 'Self' denotes an intelligent being, we have already shown.
 वेदान्द वाक्कियङ्गळुक्कु सेदऩत्तैक् कारणमाय्च् चॊल्लुम् विषयत्तिल् समाऩмаऩ पोक्कु उळ्ळदु ऎदुवो, अदु पिरामाण्यत्तिऱ्कुप् प\u0bc5रिदाऩ कारणम्, कण् मुदलियवैगळुक्कु रूबम् मुदलियवैगळिल्बोल्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that all the Vedānta-texts advocate the same view as to an intelligent cause of the world, greatly strengthens their claim to be considered a means of right knowledge, just as the corresponding claims of the senses are strengthened by their giving us information of a uniform character regarding colour and the like.
 </details>
@@ -4905,7 +4905,7 @@ And that all the Vedānta-texts advocate the same view as to an intelligent caus
 आगैयाल् पोक्कु समाऩmaयिरुबbदाल् सर्वक्ञमाऩ पिरह्ममे jagत्तिऱ्कुक्कारणम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The all-knowing Brahman is therefore to be considered the cause of the world, 'on account of the uniformity of view (of the Vedānta-texts).'
 </details>
@@ -4932,7 +4932,7 @@ The all-knowing Brahman is therefore to be considered the cause of the world, 'o
 इऩ्ऩमुम् ऎदिऩाल् सर्वक्ञमाऩ पिरह्मम् jagत्तिऱ्कुक् कारणम्?-
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 A further reason for this conclusion is advanced.
 </details>
@@ -4953,7 +4953,7 @@ Sūtra 11:
 च्रुदत्वाच्च: ॥ ११ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And because it is directly stated in Scripture (therefore the all-knowing Brahman is the cause of the world).
 </details>
@@ -4976,7 +4976,7 @@ And because it is directly stated in Scripture (therefore the all-knowing Brahma
 सुवेदासुवदरर्गळुडैय मन्दिरोबनिषत्तिल् सर्वक्ञऩाऩ ईसुवरऩैक्कुऱित्तु
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the all-knowing Lord is the cause of the world, is also declared in a text directly referring to him (viz. the all-knowing one), viz. in the following passage of the mantropanishad of the Śvetāśvataras (VI, 9) where the word 'he' refers to the previously mentioned all-knowing Lord,
 </details>
@@ -5000,7 +5000,7 @@ That the all-knowing Lord is the cause of the world, is also declared in a text 
 ‘अवर् कारणम्, इन्दिरियङ्गळुक्कु अदिबदिगळाऩ जीवर्गळुक्कु अदिबदि, इवरै उण्डubण्णुगिऱवऩुम् किडैयादु, इवरुक्कु अदिबदियुम् किडैयादु' (सुवेदा। ६-९) ऎऩ्ऱु तऩ् सप्तत्तिऩालेये सर्वक्ञऩाऩ ईसुवरऩ् jagत्तिऱ्कुक् कारणम्, ऎऩ्ऱु केट्कप्पडुगिऱदु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'He is the cause, the lord of the lords of the organs, and there is of him neither parent nor lord.'
 </details>
@@ -5021,7 +5021,7 @@ That the all-knowing Lord is the cause of the world, is also declared in a text 
 आगैयाल् सर्वक्ञमाऩ पिरह्मम्दाऩ् jagत्तिऱ्कुक्कारणम् असेदऩमाऩ पिरदाऩमो वेऱुऎदुवो इल्लै, ऎऩ्बदु सित्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is therefore finally settled that the all-knowing Brahman is the general cause, not the non-intelligent pradhāna or anything else.
 </details>

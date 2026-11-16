@@ -1,7 +1,7 @@
 +++
 title = "० अध्यास-भाष्यम्"
 +++
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 ŚANKARA'S INTRODUCTION  
 REVERENCE TO THE AUGUST VĀSUDEVA!
@@ -15,7 +15,7 @@ REVERENCE TO THE AUGUST VĀSUDEVA!
 युष्मद्-अस्मत्-प्रत्यय-गोचरयोर् **विषय-विषयिणोस्**,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is a matter not requiring any proof that the object and the subject [^fn_36] whose respective spheres are the notion of the 'Thou' (the Non-Ego [^fn_37]) and the 'Ego,'
 
@@ -42,7 +42,7 @@ It is a matter not requiring any proof that the object and the subject [^fn_36] 
 इतरेतर-भावाऽनुपपत्तौ सिद्धायाम्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and which are opposed to each other as much as darkness and light are, cannot be identified. 
 </details>
@@ -65,7 +65,7 @@ and which are opposed to each other as much as darkness and light are, cannot be
 तद्-धर्माणाम् अपि सुतराम् **इतरेतर-भावानुपपत्तिः** — 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All the less can their respective attributes be identified. 
 </details>
@@ -89,7 +89,7 @@ All the less can their respective attributes be identified.
 युष्मत्-प्रत्यय-गोचरस्य विषयस्य, तद्-धर्माणां **चाध्यासः**,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence it follows that it is wrong to superimpose [^fn_38] upon the subject--whose Self is intelligence, and which has for its sphere the notion of the Ego-- the object whose sphere is the notion of the Non-Ego, and the attributes of the object, 
 
@@ -116,7 +116,7 @@ Hence it follows that it is wrong to superimpose [^fn_38] upon the subject--whos
 **मिथ्येति** भवितुं युक्तम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and _vice versa_ to superimpose the subject and the attributes of the subject on the object. 
 </details>
@@ -144,7 +144,7 @@ and _vice versa_ to superimpose the subject and the attributes of the subject on
 नैसर्गिकोऽयं **लोक-व्यवहारः** ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 [[p. 4]]
 
@@ -183,7 +183,7 @@ and thus, coupling the Real and the Unreal [^fn_40], to make use of expressions 
 आह — कोऽयम् **अध्यासो** नामेति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But what have we to understand by the term 'superimposition?'
 </details>
@@ -204,7 +204,7 @@ But what have we to understand by the term 'superimposition?'
 उच्यते — स्मृति-रूपः, परत्र पूर्व-दृष्टाव् अभासः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The apparent presentation, in the form of remembrance, to consciousness of something previously observed, in some other thing [^fn_42]. 
 
@@ -227,7 +227,7 @@ The apparent presentation, in the form of remembrance, to consciousness of somet
 तं केचित् अन्यत्रान्यधर्माध्यास इति वदन्ति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Some indeed define the term 'superimposition' as the superimposition of the attributes of one thing on another thing [^fn_43]. 
 
@@ -250,7 +250,7 @@ Some indeed define the term 'superimposition' as the superimposition of the attr
 केचित् तु यत्र यद्-अध्यासः तद्-विवेकाग्रह-निबन्धनो **भ्रम** इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Others, again, define superimposition as the error [[p. 5]] founded on the non-apprehension of the difference of that which is superimposed from that on which it is superimposed [^fn_44]. 
 
@@ -278,7 +278,7 @@ Others, again, define superimposition as the error [[p. 5]] founded on the non-a
 अन्ये तु यत्र यद्-अध्यासः तस्यैव विपरीत-धर्मत्व-कल्पनाम् आचक्षते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Others [^fn_45], again, define it as the fictitious assumption of attributes contrary to the nature of that thing on which something else is superimposed. 
 
@@ -301,7 +301,7 @@ Others [^fn_45], again, define it as the fictitious assumption of attributes con
 सर्वथापि तु अन्यस्यान्यधर्मावभासतां न व्यभिचरति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But all these definitions agree in so far as they represent superimposition as the apparent presentation of the attributes of one thing in another thing. 
 </details>
@@ -324,7 +324,7 @@ But all these definitions agree in so far as they represent superimposition as t
 एकश् चन्द्रः स-द्वितीयवद् इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And therewith agrees also the popular view which is exemplified by expressions such as the following: 'Mother-of-pearl appears like silver,' 'The moon although one only appears as if she were double.' 
 </details>
@@ -348,7 +348,7 @@ And therewith agrees also the popular view which is exemplified by expressions s
 > **कथं** पुनः प्रत्यग्-आत्मन्य् अविषये **अध्यासो** विषय-तद्-धर्माणाम् ?  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But how is it possible that on the interior Self which itself is not an object there should be superimposed objects and their attributes? 
 </details>
@@ -371,7 +371,7 @@ And therewith agrees also the popular view which is exemplified by expressions s
 युष्मत्-प्रत्ययापेतस्य च प्रत्यग्-आत्मनः अविषयत्वं ब्रवीषि ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > For every one superimposes an object only on such other objects as are placed before him (i.e. in contact with his sense-organs), and you have said before that the interior Self which is entirely disconnected from the idea of the Thou (the Non-Ego) is never an object. 
 </details>
@@ -397,7 +397,7 @@ And therewith agrees also the popular view which is exemplified by expressions s
 अस्मत्-प्रत्यय-विषयत्वात्, अपरोक्षत्वाच् च प्रत्यग्-आत्म-प्रसिद्धेः ;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is not, we reply, non-object in the absolute sense.  
 For it is the object of the notion of the Ego [^fn_46], and the interior Self is well known to exist on account of its immediate (intuitive) presentation. 
@@ -425,7 +425,7 @@ For it is the object of the notion of the Ego [^fn_46], and the interior Self is
 पुरो ऽवस्थित एव विषये विषयान्तरम् अध्यसितव्यम् इति ;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 [^fn_47] Nor is it an exceptionless rule that objects can be superimposed only on such other objects as are before us, i.e. in contact with our sense-organs;
 
@@ -455,7 +455,7 @@ For it is the object of the notion of the Ego [^fn_46], and the interior Self is
 अप्रत्यक्षेऽपि ह्य् आकाशे बालाः तल-मलिनतादि +++(→नीलतापि)+++ अध्यस्यन्ति ;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 
 [[p. 6]]
@@ -488,7 +488,7 @@ which is not the object of sensuous perception, dark-blue colour.
 एवम् अविरुद्धः **प्रत्यग्-आत्मन्य् अपि अनात्माध्यासः** ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence it follows that the assumption of the Non-Self being superimposed on the interior Self is not unreasonable.
 </details>
@@ -506,7 +506,7 @@ Hence it follows that the assumption of the Non-Self being superimposed on the i
 तम् एतम् एवं-लक्षणम् **अध्यासं** पण्डिता **अविद्येति** मन्यन्ते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This superimposition thus defined, learned men consider to be Nescience (avidyā), 
 </details>
@@ -528,7 +528,7 @@ This superimposition thus defined, learned men consider to be Nescience (avidyā
 तद्-विवेकेन च वस्तु-स्वरूपावधारणं **विद्याम्** आहुः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the ascertainment of the true nature of that which is (the Self) by means of the discrimination of that (which is superimposed on the Self), they call knowledge (vidyā). 
 </details>
@@ -553,7 +553,7 @@ and the ascertainment of the true nature of that which is (the Self) by means of
 अणु-मात्रेणापि स न सम्बध्यते ।  +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There being such knowledge (neither the Self nor the Non-Self) are affected in the least by any blemish or (good) quality produced by their mutual superimposition [^fn_48]. 
 
@@ -582,7 +582,7 @@ There being such knowledge (neither the Self nor the Non-Self) are affected in t
 सर्वाणि च **शास्त्राणि** विधि-प्रतिषेध-मोक्ष-पराणि ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The mutual superimposition of the Self and the Non-Self, which is termed Nescience, is the presupposition on which there base all the practical distinctions--those made in ordinary life as well as those laid down by the Veda--between means of knowledge, objects of knowledge (and knowing persons), and all scriptural texts, whether they are concerned with injunctions and prohibitions (of meritorious and non-meritorious actions), or with final release [^fn_49].
 
@@ -611,7 +611,7 @@ The mutual superimposition of the Self and the Non-Self, which is termed Nescien
 इति,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 [[p. 7]]
 
@@ -640,7 +640,7 @@ But how can the means of right knowledge such as perception, inference, &c., and
 प्रमाण-प्रवृत्त्य्-अनुपपत्तेः। +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Because, we reply, the means of right knowledge cannot operate unless there be a knowing personality, and because the existence of the latter depends on the erroneous notion that the body, the senses, and so on, are identical with, or belong to, the Self of the knowing person. 
 </details>
@@ -657,7 +657,7 @@ Because, we reply, the means of right knowledge cannot operate unless there be a
 प्रत्यक्षादिव्यवहारः सम्भवति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For without the employment of the senses, perception and the other means of right knowledge cannot operate. 
 </details>
@@ -673,7 +673,7 @@ For without the employment of the senses, perception and the other means of righ
 न चाधिष्ठानम् अन्तरेण इन्द्रियाणां व्यवहारः सम्भवति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And without a basis (i.e. the body [^fn_51]) the senses cannot act. 
 
@@ -692,7 +692,7 @@ And without a basis (i.e. the body [^fn_51]) the senses cannot act.
 न चानध्यस्तात्मभावेन देहेन कश्चिद् व्याप्रियते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor does anybody act by means of a body  
 on which the nature of the Self is not superimposed [^fn_52]. 
@@ -713,7 +713,7 @@ on which the nature of the Self is not superimposed [^fn_52].
 अ-सङ्गस्यात्मनः प्रमातृत्वम् उपपद्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can, in the absence of all that [^fn_53], the Self which, in its own nature is free from all contact, become a knowing agent. 
 
@@ -731,7 +731,7 @@ Nor can, in the absence of all that [^fn_53], the Self which, in its own nature 
 न च प्रमातृत्वम् अन्तरेण प्रमाणप्रवृत्तिरस्ति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And if there is no knowing agent, the means of right knowledge cannot operate (as said above). 
 </details>
@@ -747,7 +747,7 @@ And if there is no knowing agent, the means of right knowledge cannot operate (a
 तस्माद् अविद्यावद्-विषयाण्य् एव प्रत्यक्षादीनि प्रमाणानि शास्त्राणि चेति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence perception and the other means of right knowledge, and the Vedic texts have for their object that which is dependent on Nescience. 
 </details>
@@ -771,7 +771,7 @@ Hence perception and the other means of right knowledge, and the Vedic texts hav
 पश्वादिभिश् चाविशेषात् +++(अ-विवेक-पुरस्सरः प्रत्यक्षादि-व्यवहारः, वक्ष्यमाण-रीत्या)+++। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 (That human cognitional activity has for its presupposition the superimposition described above), follows also from the non-difference in that respect of men from animals. 
 </details>
@@ -789,7 +789,7 @@ Hence perception and the other means of right knowledge, and the Vedic texts hav
 अनुकूले च प्रवर्तन्ते; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Animals, when sounds or other sensible qualities affect their sense of hearing or other senses, recede or advance according as the idea derived from the sensation is a comforting or disquieting one. 
 </details>
@@ -807,7 +807,7 @@ Animals, when sounds or other sensible qualities affect their sense of hearing o
 इति पलायितुम् आरभन्ते, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 A cow, for instance, when she sees a man approaching with a raised stick in his hand, thinks that he wants to beat her, and therefore moves away; 
 </details>
@@ -824,7 +824,7 @@ A cow, for instance, when she sees a man approaching with a raised stick in his 
 तं प्रति अभिमुखीभवन्ति; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 while she walks up to a man who advances with some fresh grass in his hand. 
 </details>
@@ -843,7 +843,7 @@ while she walks up to a man who advances with some fresh grass in his hand.
 तद्विपरीतान् प्रति प्रवर्तन्ते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Thus men also--who possess a higher intelligence--run away when [[p. 8]] they see strong fierce-looking fellows drawing near with shouts and brandishing swords; while they confidently approach persons of contrary appearance and behaviour. 
 </details>
@@ -860,7 +860,7 @@ Thus men also--who possess a higher intelligence--run away when [[p. 8]] they se
 अतः समानः पश्वादिभिः पुरुषाणां प्रमाणप्रमेयव्यवहारः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We thus see that men and animals follow the same course of procedure with reference to the means and objects of knowledge. 
 </details>
@@ -877,7 +877,7 @@ We thus see that men and animals follow the same course of procedure with refere
 पश्वादीनां च प्रसिद्धः +++(देहात्मयोर्)+++ अविवेकपुरस्सरः प्रत्यक्षादिव्यवहारः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now it is well known that the procedure of animals bases on the non-distinction (of Self and Non-Self); 
 </details>
@@ -896,7 +896,7 @@ Now it is well known that the procedure of animals bases on the non-distinction 
 इति निश्चीयते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 we therefore conclude that, as they present the same appearances, men also--although distinguished by superior intelligence--proceed with regard to perception and so on, in the same way as animals do; as long, that is to say, as the mutual superimposition of Self and Non-Self lasts. 
 </details>
@@ -922,7 +922,7 @@ we therefore conclude that, as they present the same appearances, men also--alth
 नाविदित्वा आत्मनः परलोक-सम्बन्धम् अधिक्रियते, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 With reference again to that kind of activity which is founded on the Veda (sacrifices and the like),  
 it is true indeed that the reflecting man who is qualified to enter on it,  
@@ -950,7 +950,7 @@ does so not without knowing that the Self has a relation to another world;
 अनुपयोगात्, अधिकार-विरोधाच् च। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 yet that qualification does not depend on the knowledge, derivable from the Vedānta-texts, of the true nature of the Self as free from all wants,  
 raised above the distinctions of the Brāhmaṇa and Kshattriya-classes and so on, transcending transmigratory existence. 
@@ -968,7 +968,7 @@ raised above the distinctions of the Brāhmaṇa and Kshattriya-classes and so o
 अविद्यावद्-विषयत्वं नातिवर्तते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For such knowledge is useless and even contradictory to the claim (on the part of sacrificers, &c. to perform certain actions and enjoy their fruits). And before such knowledge of the Self has arisen, the Vedic texts continue in their operation, to have for their object that which is dependent on Nescience. 
 </details>
@@ -986,7 +986,7 @@ For such knowledge is useless and even contradictory to the claim (on the part o
 आत्मनि वर्णाश्रम-वयोऽवस्थादि-विशेषाध्यासम् आश्रित्य प्रवर्तन्ते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For such texts as the following, 'A Brāhmaṇa is to sacrifice,' are operative only on the supposition that on the Self are superimposed particular conditions such as caste, stage of life, age, outward circumstances, and so on. 
 </details>
@@ -1010,7 +1010,7 @@ For such texts as the following, 'A Brāhmaṇa is to sacrifice,' are operative 
 अध्यासो नाम अतस्मिंस् तद्-बुद्धिर् इत्य् अवोचाम। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That by superimposition we have to understand the notion of something in some other thing we have already explained.  
 (The superimposition of the Non-Self will be understood more definitely from the following examples.) 
@@ -1030,7 +1030,7 @@ That by superimposition we have to understand the notion of something in some ot
 बाह्य-धर्मान् आत्मन्य् अध्यस्यति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Extra-personal attributes are superimposed on the Self, if a man considers himself sound and entire, or the contrary, as long as his wife, children, and so on are sound and entire or not. 
 </details>
@@ -1046,7 +1046,7 @@ Extra-personal attributes are superimposed on the Self, if a man considers himse
 तथा देह-धर्मान् +++(आत्मन्य् अध्यस्यति)+++ ‘स्थूलोऽहं कृशोऽहं गौरोऽहं तिष्ठामि गच्छामि लङ्घयामि च’ इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Attributes of the body are superimposed on the Self, if a man [[p. 9]] thinks of himself (his Self) as stout, lean, fair, as standing, walking, or jumping.  
 </details>
@@ -1062,7 +1062,7 @@ Attributes of the body are superimposed on the Self, if a man [[p. 9]] thinks of
 तथेन्द्रियधर्मान् +++(आत्मन्य् अध्यस्यति)+++ ‘मूकः काणः क्लीबो बधिरोऽन्धोऽहम्’ इति; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Attributes of the sense-organs, if he thinks 'I am mute, or deaf, or one-eyed, or blind.'
 </details>
@@ -1078,7 +1078,7 @@ Attributes of the sense-organs, if he thinks 'I am mute, or deaf, or one-eyed, o
 तथान्तःकरणधर्मान् +++(आत्मन्य् अध्यस्यति)+++ काम-सङ्कल्प-विचिकित्साऽध्यवसायादीन्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Attributes of the internal organ when he considers himself subject to desire, intention, doubt, determination, and so on. 
 </details>
@@ -1099,7 +1099,7 @@ Attributes of the internal organ when he considers himself subject to desire, in
 तद्-विपर्ययेणान्तः-करणादिष्व् अध्यस्यति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Thus the producer of the notion of the Ego (i.e. the internal organ) is superimposed on the interior Self, which, in reality, is the witness of all the modifications of the internal organ, and vice versā the interior Self, which is the witness of everything, is superimposed on the internal organ, the senses, and so on. 
 </details>
@@ -1118,7 +1118,7 @@ Thus the producer of the notion of the Ego (i.e. the internal organ) is superimp
 कर्तृत्व-भोक्तृत्व-प्रवर्तकः सर्व-लोक-प्रत्यक्षः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In this way there goes on this natural beginning--and endless superimposition, which appears in the form of wrong conception, is the cause of individual souls appearing as agents and enjoyers (of the results of their actions), and is observed by every one.
 </details>
@@ -1148,7 +1148,7 @@ In this way there goes on this natural beginning--and endless superimposition, w
 सर्वे वेदान्ता आरभ्यन्ते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 With a view to freeing one's self from that wrong notion which is the cause of all evil and attaining thereby the knowledge of the absolute unity of the Self the study of the Vedānta-texts is begun. 
 </details>
@@ -1166,7 +1166,7 @@ With a view to freeing one's self from that wrong notion which is the cause of a
 तथा वयम् अस्यां शारीरक-मीमांसायां प्रदर्शयिष्यामः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That all the Vedānta-texts have the mentioned purport we shall show in this so-called Śārīraka-mīmāṁsā [^fn_54].
 

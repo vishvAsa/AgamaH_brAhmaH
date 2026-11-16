@@ -25,7 +25,7 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 उत्पत्त्यसम्भवात् ॥ ४२ ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 42. On account of the impossibility of the origination (of the individual soul from the highest Lord, the doctrine of the Bhāgavatas cannot be accepted).
 </details>
@@ -85,7 +85,7 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 इत्य् अतस् तत्-प्रत्याख्यानायारम्भः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We have, in what precedes, refuted the opinion of those who think that the Lord is not the material cause but only the ruler, the operative cause of the world. We are now going to refute the doctrine of those according to whom he is the material as well as the operative cause.
 
@@ -131,7 +131,7 @@ It is true, we reply, that a part of the system which we are going to discuss ag
 क्षीण-क्लेशो भगवन्तम् एव प्रतिपद्यत इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The so-called Bhāgavatas are of opinion that the one holy (bhagavat) Vāsudeva, whose nature is pure knowledge, is what really exists, and that he, dividing himself fourfold, appears in four forms (vyūha), as Vāsudeva, Sankarshaṇa, Pradyumna, and Aniruddha.  
 
@@ -173,7 +173,7 @@ The believer after having worshipped Vāsudeva for a hundred years by means of a
 श्रुति-स्मृत्योर् ईश्वर-प्रणिधानस्य प्रसिद्धत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Concerning this system we remark that we do not intend to controvert the doctrine that Nārāyaṇa, who is higher than the Undeveloped, who is the highest Self, and the Self of all, reveals himself by dividing himself in multiple ways; for various scriptural passages, such as 'He is onefold, he is threefold' (Cḥ. Up. VII, 26, 2)', teach us that the highest Self appears in manifold forms. Nor do we mean to object to the inculcation of unceasing concentration of mind on the highest Being which appears in the Bhāgavata doctrine under the forms of reverential approach, &c. for that we are to meditate on the Lord we know full well from Smr̥ti and Scripture. 
 </details>
@@ -207,7 +207,7 @@ Concerning this system we remark that we do not intend to controvert the doctrin
 तस्माद् असङ्गतैषा कल्पना ॥ ४२ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We, however, must take exception to the doctrine that Sankarshaṇa springs from Vāsudeva, Pradyumna from Sankarshaṇa, Aniruddha from Pradyumna. It is not possible that from Vāsudeva, i.e. the highest Self, there should originate Sankarshaṇa, i.e. the individual soul; for if such were the case, there would attach to the soul non-permanency, and all the other imperfections which belong to things originated. 
 
@@ -242,7 +242,7 @@ And thence release, which consists in reaching the highest Being, could not take
 न च कर्तुः करणम् ॥ ४३ ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 43. And (it is) not (observed that) the instrument is produced from the agent.
 </details>
@@ -274,7 +274,7 @@ And thence release, which consists in reaching the highest Being, could not take
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Bhāgavata hypothesis is to be rejected for that reason also, that observation never shows us an instrument, such as a hatchet and the like, to spring from an agent such as Devadatta, or any other workman. But the Bhāgavatas teach that from an agent, viz. the individual soul termed Sankarshaṇa, there springs its instrument, viz. the internal organ termed Pradyumna, and again from this offspring of the agent another instrument, viz. the ahankāra termed Aniruddha. Such doctrines cannot be settled without observed instances. And we do not meet with any scriptural passage in their favour.
 </details>
@@ -301,7 +301,7 @@ The Bhāgavata hypothesis is to be rejected for that reason also, that observati
 विज्ञानादि-भावे वा तद्-अप्रतिषेधः ॥ ४४ ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 44. Or (if) in consequence of the existence of knowledge, &c. (Vāsudeva, &c. be taken as Lords), yet there is non-exclusion of that (i.e. the objection raised in Sūtra 42).
 </details>
@@ -333,7 +333,7 @@ The Bhāgavata hypothesis is to be rejected for that reason also, that observati
 "तस्मान् नायं यथा-वर्णित उत्पत्त्य्-अ-सम्भवो दोषः प्राप्नोती"ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Let us then--the Bhāgavatas may say--understand by Sankarshaṇa, and so on, not the individual soul, the mind, &c., but rather Lords, i.e. powerful beings distinguished by all the qualities characteristic of rulers, such as pre-eminence of knowledge and ruling capacity, strength, valour, glory.
 
@@ -368,7 +368,7 @@ All these are Vāsudevas free from faults, without a substratum (not sprung from
 भगवान् एवैको वासुदेवः परमार्थ-तत्त्वम् इत्य् अभ्युपगमात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Even on this interpretation of your doctrine, we reply, the 'non-exclusion of that,' i.e. the non-exclusion of the impossibility of origination, can be established.
 
@@ -414,7 +414,7 @@ Moreover, you offend thereby against your own principle, according to which ther
 ब्रह्मादि-स्तम्ब-पर्यन्तस्य समस्तस्यैव जगतो भगवद्-व्यूहत्वावगमात् ॥ ४४ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Or do you perhaps mean to say that from the one highest Being there spring those four forms possessing equal attributes?
 
@@ -462,7 +462,7 @@ Whence such a childish objection, data-consideration error?
 विप्रतिषेधाच्च ॥ ४५ ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 45. And on account of contradictions.
 </details>
@@ -506,7 +506,7 @@ Whence such a childish objection, data-consideration error?
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, manifold contradictions are met with in the Bhāgavata system, with reference to the assumption of qualities and their bearers. Eminence of knowledge and ruling capacity, strength, valour, and glory are enumerated as qualities, and then they are in some other place spoken of as Selfs, holy Vāsudevas, and so on.
 

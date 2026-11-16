@@ -83,7 +83,7 @@ Scripture says (Cḥ. Up. III, 13, 7), 'Now that light which shines above this h
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here the doubt presents itself whether the word 'light' denotes the light of the sun and the like, or the highest Self. 
 </details>
@@ -101,7 +101,7 @@ Here the doubt presents itself whether the word 'light' denotes the light of the
 इह तु तल्-लिङ्गम् एवास्ति नास्तीति विचार्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Under the preceding Sūtras we had shown that some words which ordinarily have different meanings yet in certain passages denote Brahman, since characteristic marks of the latter are mentioned. Here the question has to be discussed whether, in connexion with the passage quoted, characteristic marks of Brahman are mentioned or not.
 </details>
@@ -149,7 +149,7 @@ Under the preceding Sūtras we had shown that some words which ordinarily have d
 "आदित्यादिकम् एव ज्योतिः-शब्देन परिगृह्यत" इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The pūrvapakshin maintains that the word 'light' denotes nothing else but the light of the sun and the like, since that is the ordinary well-established meaning of the term. 
 </details>
@@ -171,7 +171,7 @@ The pūrvapakshin maintains that the word 'light' denotes nothing else but the l
 तस्या एवानुग्राहकमादित्यादिकं ज्योतिः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The common use of language, he says, teaches us that the two words 'light' and 'darkness' denote mutually opposite things, darkness being the term for whatever interferes with the function of the sense of sight, as, for instance, the gloom of the night, while sunshine and whatever else favours the action of the eye is called light. 
 </details>
@@ -190,7 +190,7 @@ The common use of language, he says, teaches us that the two words 'light' and '
 "दीप्यत" इति मुख्यां श्रुतिम् अर्हति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The word 'shines' also, which the text exhibits, is known ordinarily to refer to the sun and similar sources of light; while of Brahman, which is devoid of colour, it cannot be said, in the primary sense of the word, that it 'shines.' 
 </details>
@@ -239,7 +239,7 @@ Further, the word jyotis must here denote light because it is said to be bounded
 > ननु कार्यस्यापि ज्योतिषः सर्वत्र गम्यमानत्वाद् द्युमर्यादावत्त्वम् अ-समञ्जसम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But light, although a mere product, is perceived everywhere; it would therefore be wrong to declare that it is bounded by the sky! 
 </details>
@@ -290,7 +290,7 @@ Moreover the scriptural passage, 'Let me make each of these three (fire, water, 
 > न चात्रिवृत्-कृतस्यापि तेजसो द्यु-मर्यादत्वं प्रसिद्धम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And even of the non-tripartite light it is not known that the sky constitutes its boundary.
 </details>
@@ -322,7 +322,7 @@ And even of the non-tripartite light it is not known that the sky constitutes it
 
 अस्तु तर्हि – त्रिवृत् कृतम् एव तत्-तेजो ज्योतिःशब्दम्। 
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Well, then (the pūrvapakshin resumes, dropping the idea of the non-tripartite light), let us assume that the light of which the text speaks is the tripartite (ordinary) light. 
 </details>
@@ -344,7 +344,7 @@ Well, then (the pūrvapakshin resumes, dropping the idea of the non-tripartite l
 न तु निष्प्रदेशस्य ब्रह्मणः प्रदेश-विशेष-कल्पना +++(औचित्य-)+++भागिनी।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The objection that light is seen to exist also beneath the sky, viz. in the form of fire and the like, we invalidate by the remark that there is nothing contrary to reason in assigning a special locality to fire, although the latter is observed everywhere; while to assume a special place for Brahman, to which the idea of place does not apply at all, would be most unsuitable. 
 </details>
@@ -393,7 +393,7 @@ Moreover, the clause 'higher than everything, in the highest worlds beyond which
 इति च कौक्षेये ज्योतिषि परं ज्योतिर् अध्यस्यमानं दृश्यते।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There is moreover that other clause, also, 'That is the same light which is within man,' in which the highest light is identified with the gastric fire (the fire within man). 
 </details>
@@ -453,7 +453,7 @@ Now such identifications can be made only where there is a certain similarity of
 महते हि फलाय ब्रह्मोपासनम् इष्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The same conclusion may be drawn from the passage, 'He who knows this becomes conspicuous and celebrated,' which proclaims an inconsiderable reward only, while to the devout meditation on Brahman a high reward would have to be allotted.
 </details>
@@ -482,7 +482,7 @@ The same conclusion may be drawn from the passage, 'He who knows this becomes co
 प्राणाकाशवज् ज्योतिषोऽस्ति ब्रह्म-लिङ्गम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is there mentioned in the entire passage about the light any other characteristic mark of Brahman, while such marks are set forth in the passages (discussed above) which refer to prāṇa and the ether. 
 </details>
@@ -502,7 +502,7 @@ Nor is there mentioned in the entire passage about the light any other character
 इति च्छन्दो-निर्देशात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor, again, is Brahman indicated in the preceding section, 'the Gāyatrī is everything whatsoever exists,' &c. (III, 12); for that passage makes a statement about the Gāyatrī metre only. 
 </details>
@@ -521,7 +521,7 @@ Nor, again, is Brahman indicated in the preceding section, 'the Gāyatrī is eve
 एवम् अपि न तस्येह प्रत्यभिज्ञानम् अस्ति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And even if that section did refer to Brahman, still Brahman would not be recognised in the passage at present under discussion; 
 </details>
@@ -579,7 +579,7 @@ for there (in the section referred to) it is declared--in the clause, 'Three fee
 ज्योतिर् इह ब्रह्म ग्राह्यम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To this we make the following reply. The word jyotis must be held to denote Brahman. 
 </details>
@@ -604,7 +604,7 @@ To this we make the following reply. The word jyotis must be held to denote Brah
 इत्य्-अनेन मन्त्रेण। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Why? On account of the feet (quarters) being mentioned. In a preceding passage Brahman had been spoken of as having four feet (quarters). 'Such is the greatness of it; greater than it is the Person (purusha). One foot of it are all the beings, three feet of it are the Immortal in heaven.' 
 </details>
@@ -623,7 +623,7 @@ Why? On account of the feet (quarters) being mentioned. In a preceding passage B
 इति प्रत्यभिज्ञायते।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That which in this passage is said to constitute the three-quarter part, immortal and connected with heaven, of Brahman, which altogether comprises four quarters; this very same entity we recognise as again referred to in the passage under discussion, because there also it is said to be connected with heaven. 
 </details>
@@ -642,7 +642,7 @@ That which in this passage is said to constitute the three-quarter part, immorta
 प्रकृतहाना-प्रकृत-प्रक्रिये प्रसज्येयाताम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If therefore we should set it aside in our interpretation of the passage and assume the latter to refer to the ordinary light, we should commit the mistake of dropping, without need, the topic started and introducing a new subject. 
 </details>
@@ -698,7 +698,7 @@ Brahman, in fact, continues to form the subject-matter, not only of the passage 
 इति च मन्त्र-वर्णात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The objection (raised above) that from common use the words 'light' and 'to shine' are known to denote effected (physical) light is without force; for as it is known from the general topic of the chapter that Brahman is meant, those two words do not necessarily denote physical light only to the exclusion of Brahman [^fn_128], but may also denote Brahman itself, in so far as it is characterised by the physical shining light which is its effect. 
 
@@ -756,7 +756,7 @@ Or else we may suppose that the word jyotis here does not denote at all that lig
 समस्त-जगद्-अवभास-हेतुत्वाद् उपपन्नो ज्योतिः-शब्दः । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence to Brahman also, whose nature is intelligence, the term 'light' may be applied; for it gives light to the entire world. 
 </details>
@@ -777,7 +777,7 @@ Hence to Brahman also, whose nature is intelligence, the term 'light' may be app
 इत्य्-आदि-श्रुतिभ्यश् च। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Similarly, other scriptural passages say, 
 
@@ -807,7 +807,7 @@ and
 सर्व-गतस्यापि ब्रह्मण उपासनार्थः प्रदेश-विशेष-परिग्रहो न विरुध्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Against the further objection that the omnipresent Brahman cannot be viewed as bounded by heaven we remark that the assignment, to Brahman, of a special locality is not contrary to reason because it subserves the purpose of devout meditation. 
 </details>
@@ -832,7 +832,7 @@ Against the further objection that the omnipresent Brahman cannot be viewed as b
 निष्प्रदेशस्यापि ब्रह्मण उपाधि-विशेष-सम्बन्धात् प्रदेश-विशेष-कल्पनोपपत्तेः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor does it avail anything to say that it is impossible to assign any place to Brahman because Brahman is out of connexion with all place. For it is possible to make such an assumption, because Brahman is connected with certain limiting adjuncts. 
 </details>
@@ -864,7 +864,7 @@ Accordingly Scripture speaks of different kinds of devout meditation on Brahman 
 एतेन ‘विश्वतः पृष्ठेषु’ इत्य् आधार-बहुत्वम् उपपादितम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the same reason it is also possible to attribute to Brahman a multiplicity of abodes, as is done in the clause (quoted above) 'higher than all.'
 </details>
@@ -905,7 +905,7 @@ For the same reason it is also possible to attribute to Brahman a multiplicity o
 कौक्षेय-ज्योतिष्-प्रतीकत्वोपपत्तेः। +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The further objection that the light beyond heaven is the mere physical light because it is identified with the gastric fire, which itself is a mere effect and is inferred from perceptible marks such as the heat of the body and a certain sound, is equally devoid of force; for the gastric fire may be viewed as the outward appearance (or symbol) of Brahman, just as Brahman's name is a mere outward symbol. 
 </details>
@@ -924,7 +924,7 @@ The further objection that the light beyond heaven is the mere physical light be
 इति तु प्रतीक-द्वारकं दृष्टत्वं श्रुतत्वं च भविष्यति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Similarly in the passage, 'Let a man meditate on it (the gastric light) as seen and heard,' the visibility and audibility (here implicitly ascribed to Brahman) must be considered as rendered possible through the gastric fire being the outward appearance of Brahman. 
 </details>
@@ -948,7 +948,7 @@ Similarly in the passage, 'Let a man meditate on it (the gastric light) as seen 
 हेतुर् अस्ति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is there any force in the objection that Brahman cannot be meant because the text mentions an inconsiderable reward only; for there is no reason compelling us to have recourse to Brahman for the purpose of such and such a reward only, and not for the purpose of such and such another reward. 
 </details>
@@ -966,7 +966,7 @@ Nor is there any force in the objection that Brahman cannot be meant because the
 तत्रैक-रूपम् एव फलं मोक्ष इत्य् अवगम्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Wherever the text represents the highest Brahman--which is free from all connexion with distinguishing attributes--as the universal Self, it is understood that the result of that instruction is one only, viz. final release. 
 </details>
@@ -1016,7 +1016,7 @@ Wherever, on the other hand, Brahman is taught to be connected with distinguishi
 यद्य् अपि, न स्व-वाक्ये किञ्चिज् ज्योतिषो ब्रह्म-लिङ्गम् अस्ति,  
 तथा ऽपि, पूर्वस्मिन् वाक्ये दृश्यमानं ग्रहीतव्यं भवति। 
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Although in the passage itself which treats of the light no characteristic mark of Brahman is mentioned, yet, as the Sūtra intimates, the mark stated in a preceding passage (viz. the mantra, 'Such is the greatness of it,' &c.) has to be taken in connexion with the passage about the light as well. 
 </details>
@@ -1048,7 +1048,7 @@ Although in the passage itself which treats of the light no characteristic mark 
 ज्योतिःश्रुतिः स्वविषयात् शक्या प्रच्यावयितुम् ? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The question how the mere circumstance of Brahman being mentioned in a not distant passage can have the power of divorcing from its natural object and transferring to another object the direct statement about light implied in the word 'light,' may be answered without difficulty. 
 </details>
@@ -1137,7 +1137,7 @@ The passage under discussion runs [^fn_129], 'which above this heaven, the light
 इति; तत्-परिहर्तव्यम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We now address ourselves to the refutation of the assertion (made in the pūrvapaksha of the preceding Sūtra) that in the previous passage also Brahman is not referred to, because in the sentence, 'Gāyatrī is everything whatsoever here exists,' the metre called Gāyatrī is spoken of. 
 </details>
@@ -1155,7 +1155,7 @@ We now address ourselves to the refutation of the assertion (made in the pūrvap
 चतुष्-पाद् ब्रह्म दर्शितम्?  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 How (we ask the pūrvapakshin) can it be maintained that, on account of the metre being spoken of, Brahman is not denoted, while yet the mantra 'such is the greatness of it,' &c., clearly sets forth Brahman with its four quarters? 
 </details>
@@ -1204,7 +1204,7 @@ You are mistaken (the pūrvapakshin replies). The sentence, 'Gāyatrī is everyt
 छन्दो-विषय एव – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Since therefore the metre Gāyatrī is the subject-matter of the entire chapter, the term 'Brahman' which occurs in a subsequent passage ('the Brahman which has thus been described') must also denote the metre. 
 </details>
@@ -1222,7 +1222,7 @@ Since therefore the metre Gāyatrī is the subject-matter of the entire chapter,
 इत्य्-अत्र हि वेदोपनिषदम् इति व्याचक्षते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This is analogous to a previous passage (Cḥ, Up. III, 11, 3, 'He who thus knows this Brahma-upanishad'), where the word Brahma-upanishad is explained to mean Veda-upanishad. As therefore the preceding passage refers (not to Brahman, but) to the Gāyatrī metre, Brahman does not constitute the topic of the entire section.
 </details>
@@ -1242,7 +1242,7 @@ This is analogous to a previous passage (Cḥ, Up. III, 11, 3, 'He who thus know
 इति चेत् , नैष दोषः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This argumentation, we reply, proves nothing against our position. 
 </details>
@@ -1262,7 +1262,7 @@ This argumentation, we reply, proves nothing against our position.
 चेतसो ऽर्पणं चित्तसमाधानम्।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Because thus direction of the mind is declared,' i. e. because the Brahmaṇa passage, 'Gāyatrī indeed is all this,' intimates that by means of the metre Gāyatrī the mind is to be directed on Brahman which is connected with that metre. 
 </details>
@@ -1295,7 +1295,7 @@ This argumentation, we reply, proves nothing against our position.
 न ह्य् अक्षर-सन्निवेश-मात्राया गायत्र्-याः सर्वात्मकत्वं सम्भवति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Of the metre Gāyatrī, which is nothing but a certain special combination of syllables, it could not possibly be said that it is the Self of everything. 
 </details>
@@ -1314,7 +1314,7 @@ Of the metre Gāyatrī, which is nothing but a certain special combination of sy
 यथा ‘सर्वं खल्विदं ब्रह्म’ (छा. उ. ३। १४। १) इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We therefore have to understand the passage as declaring that Brahman, which, as the cause of the world, is connected with that product also whose name is Gāyatrī, is 'all this;' in accordance with that other passage which directly says, 'All this indeed is Brahman' (Kh. Up. III, 14, 1). 
 </details>
@@ -1364,7 +1364,7 @@ That the effect is in reality not different from the cause, we shall prove later
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Devout meditation on Brahman under the form of certain effects (of Brahman) is seen to be mentioned in other passages also, so, for instance, Ait. Ār. III, 2, 3, 12, 'For the Bahv_rik_as consider him in the great hymn, the Adhvaryus in the sacrificial fire, the Cḥandogas in the Mahāvrata ceremony.' 
 </details>
@@ -1416,7 +1416,7 @@ Although, therefore, the previous passage speaks of the metre, Brahman is what i
 तथा ब्रह्म चतुष्-पात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Another commentator [^fn_131] is of opinion that the term Gāyatrī (does not denote Brahman in so far as viewed under the form of Gāyatrī, but) directly denotes Brahman, on account of the equality of number; for just as the Gāyatrī metre has four feet consisting of six syllables each, so Brahman also has four feet, (i. e. quarters.) 
 </details>
@@ -1434,7 +1434,7 @@ Another commentator [^fn_131] is of opinion that the term Gāyatrī (does not de
 ऽर्थान्तरे संख्या-सामान्यात् प्रयुज्यमानो दृश्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Similarly we see that in other passages also the names of metres are used to denote other things which resemble those metres in certain numerical relations; 
 </details>
@@ -1456,7 +1456,7 @@ Similarly we see that in other passages also the names of metres are used to den
 इत्य् उपक्रम्याह ‘सैषा विराड् अन्नादी’ इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 cp. for instance, Cḥ. Up. IV, 3, 8, where it is said at first, 'Now these five and the other five make ten and that is the Kr̥ta,' and after that 'these are again the Virāj which eats the food.' 
 </details>
@@ -1533,7 +1533,7 @@ If we adopt this interpretation, Brahman only is spoken of, and the metre is not
 इतश् चैवम् अभ्युपगन्तव्यम् अस्ति पूर्वस्मिन् वाक्ये प्रकृतं ब्रह्मेति; यतो श्रुतिर् भूत-पृथिवी-शरीर-हृदयानि हि निर्दिश्याह — ‘सैषा चतुष्पदा षड्-विधा गायत्री’ (छा. उ. ३। १२। ५) इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the previous passage has Brahman for its topic, we must assume for that reason also that the text designates the beings and so on as the feet of Gāyatrī. For the text at first speaks of the beings, the earth, the body, and the heart [^fn_132], and then goes on 'that Gāyatrī has four feet and is sixfold.' 
 </details>
@@ -1551,7 +1551,7 @@ That the previous passage has Brahman for its topic, we must assume for that rea
 भूतादयः पादा उपपद्यन्ते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For of the mere metre, without any reference to Brahman, it would be impossible to say that the beings and so on are its feet. 
 </details>
@@ -1573,7 +1573,7 @@ For of the mere metre, without any reference to Brahman, it would be impossible 
 ‘तावानस्य महिमा’ इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, if Brahman were not meant, there would be no room for the verse, 'Such is the greatness,' &c. 
 </details>
@@ -1595,7 +1595,7 @@ Moreover, if Brahman were not meant, there would be no room for the verse, 'Such
 इति सर्वात्मत्वोपपत्तेः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For that verse clearly describes Brahman in its own nature; otherwise it would be impossible to represent the Gāyatrī as the Self of everything as is done in the words, 'One foot of it are all the beings; three feet of it are what is immortal in heaven.' 
 </details>
@@ -1638,7 +1638,7 @@ The purusha-sūkta also (R̥k Saṁh. X, 90) exhibits the verse with sole refere
 इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Smr̥ti likewise ascribes to Brahman a like nature, 'I stand supporting all this world by a single portion of myself' (Bha. Gītā X, 42). 
 </details>
@@ -1662,7 +1662,7 @@ Smr̥ti likewise ascribes to Brahman a like nature, 'I stand supporting all this
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Our interpretation moreover enables us to take the passage, 'that Brahman indeed which,' &c. (III, 12, 7), in its primary sense, (i.e. to understand the word Brahman to denote nothing but Brahman.) 
 </details>
@@ -1682,7 +1682,7 @@ Our interpretation moreover enables us to take the passage, 'that Brahman indeed
 ब्रह्म-पुरुष-श्रुतिर् ब्रह्म-सम्बन्धितायां विवक्षितायां सम्भवति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And, moreover, the passage, 'these are the five men of Brahman' (III, 13, 6), is appropriate only if the former passage about the Gāyatrī is taken as referring to Brahman (for otherwise the 'Brahman' in 'men of Brahman' would not be connected with the previous topic). 
 </details>
@@ -1748,7 +1748,7 @@ Hence Brahman is to be considered as the subject-matter of the previous passage 
 पूर्वत्र ‘त्रिपाद् अस्यामृतं दिवि’ इति सप्तम्या द्यौः आधारत्वेनोपदिष्टा। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The objection that in the former passage ('three feet of it are what is immortal in heaven'), heaven is designated as the abode, 
 </details>
@@ -1766,7 +1766,7 @@ The objection that in the former passage ('three feet of it are what is immortal
 ‘अथ यदतः परो दिवः’ इति पञ्चम्या मर्यादात्वेन। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 while in the latter passage ('that light which shines above this heaven'), heaven is designated as the boundary, 
 </details>
@@ -1785,7 +1785,7 @@ while in the latter passage ('that light which shines above this heaven'), heave
 तत्-परिहर्तव्यम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and that, on account of this difference of designation, the subject-matter of the former passage cannot be recognised in the latter, must likewise be refuted. 
 </details>
@@ -1803,7 +1803,7 @@ and that, on account of this difference of designation, the subject-matter of th
 अत्रोच्यते — नायं दोषः, उभयस्मिन्न् अप्य् अविरोधात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This we do by remarking that in either designation nothing is contrary to the recognition. 
 </details>
@@ -1862,7 +1862,7 @@ Just as in ordinary language a falcon, although in contact with the top of a tre
 दिवीत्य् उपदिश्यते।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Another (commentator) explains: just as in ordinary language a falcon, although not in contact with the top of a tree, is not only said to be above the top of the tree but also on the top of the tree, so Brahman also, which is in reality beyond heaven, is (in the former of the two passages) said to be in heaven. 
 </details>

@@ -8,7 +8,7 @@ title = "०२ आत्मत्वोपासनाधिकरणम्"
 आत्मेति तूपगच्छन्ति ग्राहयन्ति च +++(ईश्वरम्)+++ ॥ ३ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 3. But as the Self (scriptural texts) acknowledge and make us comprehend (the Lord).
 </details>
@@ -49,7 +49,7 @@ title = "०२ आत्मत्वोपासनाधिकरणम्"
 — एतद्विचारयति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Sūtrakāra now considers the question whether the highest Self whose characteristics scripture declares is to be understood as the 'I' or as different from me.
 </details>
@@ -70,7 +70,7 @@ The Sūtrakāra now considers the question whether the highest Self whose charac
 इति, उच्यते — 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But how can a doubt arise,  
 considering that scripture exhibits the term 'Self'  
@@ -92,7 +92,7 @@ whose sphere is the inward Self?
 सति जीवेश्वरयोर् अ-भेद-सम्भवे।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This term 'Self'--a reply may be given--may be taken in its primary sense,  
 provided it be possible to view the individual soul and the Lord as non-different; 
@@ -108,7 +108,7 @@ provided it be possible to view the individual soul and the Lord as non-differen
 इतरथा तु गौणोऽयम् अभ्युपगन्तव्यः — इति मन्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but in the other case the term has to be taken in a secondary (metaphorical) sense only [^fn_208].
 
@@ -144,7 +144,7 @@ but in the other case the term has to be taken in a secondary (metaphorical) sen
 > न अहमिति ग्राह्यः।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The pūrvapakshin maintains that the term 'Self is not to be taken as meaning the 'I.' 
 </details>
@@ -164,7 +164,7 @@ The pūrvapakshin maintains that the term 'Self is not to be taken as meaning th
 > विपरीत-गुणो वा अपहत-पाप्मत्वादि-गुणत्वेन।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > For that which possesses the qualities of being free from all evil, &c.,  
 > cannot be understood as possessing qualities of a contrary nature,  
@@ -184,7 +184,7 @@ The pūrvapakshin maintains that the term 'Self is not to be taken as meaning th
 > तद्-विपरीत-गुणस् तु शारीरः।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > > But the highest Lord possesses the qualities of being free from all evil, &c., and the embodied Self is characterised by qualities of a contrary nature.
 </details>
@@ -201,7 +201,7 @@ The pūrvapakshin maintains that the term 'Self is not to be taken as meaning th
 > ततः शास्त्रानर्थक्यम्।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > Moreover, if the transmigrating soul constituted the Self of the Lord,  
 > it would follow that he is no Lord,  
@@ -223,7 +223,7 @@ The pūrvapakshin maintains that the term 'Self is not to be taken as meaning th
 > प्रत्यक्षादि-विरोधश् च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > while, if the Lord constituted the Self of the individual soul,  
 > the latter would not be entitled (to works and knowledge),  
@@ -248,7 +248,7 @@ The latter assumption would moreover run counter to perception and the other mea
 > कामम् एवं भवतु।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > Should it be said that,  
 > although the Lord and the soul are different,  
@@ -274,7 +274,7 @@ The latter assumption would moreover run counter to perception and the other mea
 > एतत् नः प्रापयितव्यम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > but that therefrom we must not conclude that the Lord is the real Self of the transmigrating soul.
 </details>
@@ -297,7 +297,7 @@ The latter assumption would moreover run counter to perception and the other mea
 एवं प्राप्ते, ब्रूमः —  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To all this we make the following reply. 
 </details>
@@ -314,7 +314,7 @@ To all this we make the following reply.
 आत्मेत्येव परमेश्वरः प्रतिपत्तव्यः।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The highest Lord must be understood as the Self.
 </details>
@@ -338,7 +338,7 @@ The highest Lord must be understood as the Self.
 तथा हि परमेश्वर-प्रक्रियायां जाबाला आत्मत्वेनैव एतम् उपगच्छन्ति — 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For in a chapter treating of the highest Lord the Jābālas acknowledge him to be the Self, 
 </details>
@@ -358,7 +358,7 @@ For in a chapter treating of the highest Lord the Jābālas acknowledge him to b
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Thou indeed I am. O holy divinity;  
 I indeed thou art, O divinity!'
@@ -381,7 +381,7 @@ I indeed thou art, O divinity!'
 इत्य् एवमादय आत्मत्वोपगमा द्रष्टव्याः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the same light other texts have to be viewed,  
 which also acknowledge the Lord as the Self,  
@@ -403,7 +403,7 @@ such as 'I am Brahman' (Br̥. Up. I, 4, 10).
 ग्राहयन्ति च आत्मत्वेनैव ईश्वरं वेदान्तवाक्यानि —  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover certain Vedānta-texts make us comprehend the Lord as the Self, 
 </details>
@@ -419,7 +419,7 @@ Moreover certain Vedānta-texts make us comprehend the Lord as the Self,
 ‘एष त आत्मा सर्वान्तरः’ (बृ. उ. ३। ४। १) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Thy Self is this which is within all' (Br̥. Up. III. 4, 1); 
 </details>
@@ -435,7 +435,7 @@ Moreover certain Vedānta-texts make us comprehend the Lord as the Self,
 ‘एष त आत्मान्तर्याम्यमृतः’ (बृ. उ. ३। ७। ३) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'He is thy Self, the ruler within, the immortal' (Br̥. Up. III, 7, 3); 
 </details>
@@ -453,7 +453,7 @@ Moreover certain Vedānta-texts make us comprehend the Lord as the Self,
 इत्येवमादीनि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'That is the True, that is the Self, thou art that' (Cḥ. Up. VI, 8, 7).
 </details>
@@ -480,7 +480,7 @@ Moreover certain Vedānta-texts make us comprehend the Lord as the Self,
 +++(वक्ष्यमाण-रीत्या)+++ वाक्य-वैरूप्याच् च। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can we admit the truth of the assertion, made by the pūrvapakshin,  
 that all these passages teach merely a contemplation (of the Lord) in certain symbols,  
@@ -505,7 +505,7 @@ and in the second place there is a difference of syntactical form.
 सकृद् एव तत्र वचनं भवति —  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For where scripture intends the contemplation of something in a symbol,  
 it conveys its meaning through a single enunciation 
@@ -525,7 +525,7 @@ it conveys its meaning through a single enunciation
 इत्य्-आदि। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 such as 'Brahman is Mind' (Cḥ. Up. III, 18, 1),  
 or 'Brahman is Āditya' (Cḥ. Up. III, 10, 1). 
@@ -544,7 +544,7 @@ or 'Brahman is Āditya' (Cḥ. Up. III, 10, 1).
 इह पुनः — त्वम् अहम् अस्मि, अहं च त्वम् असीत्य् आह। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But in the passage quoted above,  
 scripture says, 'I am Thou and thou art I.' 
@@ -563,7 +563,7 @@ scripture says, 'I am Thou and thou art I.'
 अतः प्रतीक-श्रुति-वैरूप्याद् अभेद-प्रतिपत्तिः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As here the form of expression differs from that of texts teaching the contemplation of symbols,  
 the passage must be understood as teaching non-difference. 
@@ -579,7 +579,7 @@ the passage must be understood as teaching non-difference.
 भेद-दृष्ट्य्-अपवादाच् च; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This moreover follows from the express prohibition of the view of difference which a number of scriptural texts convey. 
 </details>
@@ -598,7 +598,7 @@ This moreover follows from the express prohibition of the view of difference whi
 न स वेद’ (बृ. उ. १। ४। १०), 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Compare e.g. 
 
@@ -623,7 +623,7 @@ Compare e.g.
 य इह नानेव पश्यति’ (बृ. उ. ४। ४। १९), 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'From death to death goes he  
 > who here perceives any diversity' (Br̥. Up. IV, 4, 19); 
@@ -643,7 +643,7 @@ Compare e.g.
 > (बृ. उ. २। ४। ६) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Whosoever looks for anything elsewhere than in the Self  
 > is abandoned by everything' (Br̥. Up. II, 4, 6).
@@ -680,7 +680,7 @@ Compare e.g.
 विरुद्ध-गुणताया मिथ्यात्वोपपत्तेः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is there any force in the objection that  
 things with contrary qualities cannot be identical;  
@@ -699,7 +699,7 @@ for this opposition of qualities can be shown to be false.
 शास्त्र-प्रामाण्याद् अनभ्युपगमाच् च +++(वक्ष्यमाण-रीत्या)+++। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is it true that  
 from our doctrine it would follow that  
@@ -721,7 +721,7 @@ For in these matters scripture alone is authoritative,
 इत्य् अभ्युपगच्छामः —  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and we, moreover, do not at all admit that scripture teaches the Lord to be the Self of the transmigrating soul,  
 </details>
@@ -743,7 +743,7 @@ and we, moreover, do not at all admit that scripture teaches the Lord to be the 
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but maintain that by denying the transmigrating character of the soul  
 it aims at teaching that the soul is the Self of the Lord. 
@@ -767,7 +767,7 @@ it aims at teaching that the soul is the Self of the Lord.
 विपरीत-गुणता तु इतरस्य मिथ्येति व्यवतिष्ठते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From this it follows that the non-dual Lord is free from all evil qualities,  
 and that to ascribe to him contrary qualities is an error.

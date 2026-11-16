@@ -17,7 +17,7 @@ title = "०४ समन्वयाधिकरणम्"
 इति क्रिया-परत्वं शास्त्रस्य प्रदर्शितम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, again, how can it be said that Scripture is the means of knowing Brahman? Since it has been declared that Scripture aims at action (according to the Pūrva Mīmāṁsā Sūtra I, 2, 1, 'As the purport of Scripture is action, those scriptural passages whose purport is not action are purportless'),
 </details>
@@ -32,7 +32,7 @@ But, again, how can it be said that Scripture is the means of knowing Brahman? S
 अतो वेदान्तानाम् आनर्थक्यम्, अ-क्रियार्थत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Vedānta-passages whose purport is not action are purportless.
 </details>
@@ -49,7 +49,7 @@ The Vedānta-passages whose purport is not action are purportless.
 उपासनादि-क्रियान्तर-विधानार्थत्वं वा। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Or else if they are to have some sense, they must either, by manifesting the agent, the divinity or the fruit of the action, form supplements to the passages enjoining actions, or serve the purpose of themselves enjoining a new class of actions, such as devout meditation and the like.
 </details>
@@ -65,7 +65,7 @@ Or else if they are to have some sense, they must either, by manifesting the age
 प्रत्यक्षादि-विषयत्वात् परिनिष्ठित-वस्तुनः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the Veda cannot possibly aim at conveying information regarding the nature of accomplished substances, since the latter are the objects of perception and the other means of proof (which give sufficient information about them; while it is the recognised object of the Veda to give information about what is not known from other sources).
 </details>
@@ -80,7 +80,7 @@ For the Veda cannot possibly aim at conveying information regarding the nature o
 तत्-प्रतिपादने च हेयोपादेय-रहिते पुरुषार्थाभावात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And if it did give such information, it would not be connected with things to be desired or shunned, and thus be of no use to man.
 </details>
@@ -105,7 +105,7 @@ And if it did give such information, it would not be connected with things to be
 इति स्तावकत्वेनार्थवत्त्वम् उक्तम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For this very reason Vedic passages, such as 'he howled, &c.,' which at first sight appear purposeless, are shown to have a purpose in so far as they glorify certain actions (cp. Pū. Mī. Sū. I, 2, 7, 'Because they stand in syntactical connection with the injunctions, therefore their purport is to glorify the injunctions').
 </details>
@@ -122,7 +122,7 @@ For this very reason Vedic passages, such as 'he howled, &c.,' which at first si
 कर्म-समवायित्वम् उक्तम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the same way mantras are shown to stand in a certain relation to actions, in so far as they notify the actions themselves and the means by which they are accomplished. So, for instance, the mantra, 'For strength thee (I cut;' which accompanies the cutting of a branch employed in the darśapūrṇamāsa-sacrifice).
 </details>
@@ -137,7 +137,7 @@ In the same way mantras are shown to stand in a certain relation to actions, in 
 अतो न क्वचिद् अपि वेद-वाक्यानां विधि-संस्पर्शम् अन्तरेणार्थवत्ता दृष्टा, उपपन्ना वा। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In short, no Vedic passage is seen or can be proved to have a meaning but in so far as it is related to an action.
 </details>
@@ -153,7 +153,7 @@ In short, no Vedic passage is seen or can be proved to have a meaning but in so 
 क्रिया-विषयत्वाद् विधेः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And injunctions which are defined as having actions for their objects cannot refer to accomplished existent things.
 </details>
@@ -169,7 +169,7 @@ And injunctions which are defined as having actions for their objects cannot ref
 क्रिया-विधि-शेषत्वं वेदान्तानाम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence we maintain that the Vedānta-texts are mere supplements to those passages which enjoin actions; notifying the agents, divinities, and results connected with those actions.
 </details>
@@ -191,7 +191,7 @@ Hence we maintain that the Vedānta-texts are mere supplements to those passages
 तथापि स्व+++(→प्रकरण)+++-वाक्य-गतोपासनादि-कर्म-परत्वम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Or else, if this be not admitted, on the ground of its involving the introduction of a subject-matter foreign to the Vedānta-texts (viz. the subject-matter of the Karmakāṇḍa of the Veda), we must admit (the second of the two alternatives proposed above viz.) that the Vedānta-texts refer to devout meditation (upāsanā) and similar actions which are mentioned in those very (Vedānta) texts.
 </details>
@@ -206,7 +206,7 @@ Or else, if this be not admitted, on the ground of its involving the introductio
 तस्मान् न ब्रह्मणः शास्त्र-योनित्वम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The result of all of which is that Scripture is not the source of Brahman.
 </details>
@@ -223,7 +223,7 @@ The result of all of which is that Scripture is not the source of Brahman.
 इति प्राप्ते, उच्यते —
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To this argumentation the Sūtrakāra replies as follows:
 </details>
@@ -249,7 +249,7 @@ To this argumentation the Sūtrakāra replies as follows:
 तत् तु समन्वयात् ॥ ४ ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 4. But that (Brahman is to be known from Scripture), because it is connected (with the Vedānta-texts) as their purport.
 </details>
@@ -315,7 +315,7 @@ To this argumentation the Sūtrakāra replies as follows:
 **तु**-शब्दः पूर्व-पक्ष-व्यावृत्त्य्-अर्थः।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The word 'but' is meant to rebut the pūrva-paksha (the primā facie view as urged above).
 </details>
@@ -331,7 +331,7 @@ The word 'but' is meant to rebut the pūrva-paksha (the primā facie view as urg
 वेदान्त-शास्त्राद् एवावगम्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That all-knowing, all-powerful Brahman, which is the cause of the origin, subsistence, and dissolution of the world, is known from the Vedānta-part of Scripture.
 </details>
@@ -348,7 +348,7 @@ That all-knowing, all-powerful Brahman, which is the cause of the origin, subsis
 कथम् ? **समन्वयात्।** 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 How? [Because of connection (samandvaya).]
 </details>
@@ -364,7 +364,7 @@ How? [Because of connection (samandvaya).]
 वाक्यानि तात्पर्येणैतस्यार्थस्य प्रतिपादकत्वेन समनुगतानि — 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Because in all the Vedānta-texts the sentences construe in so far as they have for their purport, as they intimate that matter (viz. Brahman) —
 </details>
@@ -380,7 +380,7 @@ Because in all the Vedānta-texts the sentences construe in so far as they have 
 एकम् एवाद्वितीयम्’ (छा. उ. ६। २। १) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Being only this was in the beginning, one, without a second' (Cḥ. Up. VI, 2, 1);
 </details>
@@ -395,7 +395,7 @@ Because in all the Vedānta-texts the sentences construe in so far as they have 
 ‘आत्मा वा इदम् एक एवाग्र आसीत्’ (ऐ. उ. १। १। १) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'In the beginning all this was Self, one only' (Ait. Ār. II, 4, 1, 1);
 </details>
@@ -411,7 +411,7 @@ Because in all the Vedānta-texts the sentences construe in so far as they have 
 ‘अयम् आत्मा ब्रह्म सर्वानुभूः’ (बृ. उ. २। ५। १९) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'This is the Brahman without cause and without effect, without anything inside or outside; this Self is Brahman perceiving everything' (Br̥. Up. II, 5, 19);
 </details>
@@ -426,7 +426,7 @@ Because in all the Vedānta-texts the sentences construe in so far as they have 
 ‘ब्रह्मैवेदम् अमृतं पुरस्तात्’ (मु. उ. २। २। १२) इत्य्-आदीनि।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'That immortal Brahman is before' (Mu. Up. II, 2, 11); and similar passages.
 </details>
@@ -448,7 +448,7 @@ Because in all the Vedānta-texts the sentences construe in so far as they have 
 अर्थान्तर-कल्पना युक्ता, श्रुत-हान्य्--अ-श्रुत-कल्पना-प्रसङ्गात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If the words contained in these passages have once been determined to refer to Brahman, and their purport is understood thereby, it would be improper to assume them to have a different sense; for that would involve the fault of abandoning the direct statements of the text in favour of mere assumptions.
 </details>
@@ -465,7 +465,7 @@ If the words contained in these passages have once been determined to refer to B
 इत्य्-आदि-क्रिया-कारक-फल-निराकरण-श्रुतेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can we conclude the purport of these passages to be the intimation of the nature of agents, divinities, &c. (connected with acts of religious duty); for there are certain scriptural passages which preclude all actions, actors, and fruits, as, for instance, Br̥. Up. II, 4, 13, 'Then by what should he see whom?' (which passage intimates that there is neither an agent, nor an object of action, nor an instrument.)
 </details>
@@ -487,7 +487,7 @@ Nor can we conclude the purport of these passages to be the intimation of the na
 इति ब्रह्मात्म-भावस्य शास्त्रम् अन्तरेणानवगम्यमानत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor again can Brahman, though it is of the nature of an accomplished thing, be the object of perception and the other means of knowledge; for the fact of everything having its Self in Brahman cannot be grasped without the aid of the scriptural passage 'That art thou' (Cḥ. Up. VI, 8, 7).
 </details>
@@ -503,7 +503,7 @@ Nor again can Brahman, though it is of the nature of an accomplished thing, be t
 हेयोपादेय-शून्य-ब्रह्मात्मतावगमाद् एव सर्व-क्लेश-प्रहाणात् पुरुषार्थ-सिद्धेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it rightly be objected that instruction is purportless if not connected with something either to be striven after or shunned; for from the mere comprehension of Brahman's Self, which is not something either to be avoided or endeavoured after, there results cessation of all pain, and thereby the attainment of man's highest aim.
 </details>
@@ -527,7 +527,7 @@ Nor can it rightly be objected that instruction is purportless if not connected 
 न कश्चिद् विरोधः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That passages notifying certain divinities, and so on, stand in subordinate relation to acts of devout meditation mentioned in the same chapters may readily be admitted.
 </details>
@@ -545,7 +545,7 @@ That passages notifying certain divinities, and so on, stand in subordinate rela
 एकत्वे हेयोपादेय-शून्यतया क्रिया-कारकादि-द्वैत-विज्ञानोपमर्दोपपत्तेः। +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But it is impossible that Brahman should stand in an analogous relation to injunctions of devout meditation, for if the knowledge of absolute unity has once arisen there exists no longer anything to be desired or avoided, and thereby the conception of duality, according to which we distinguish actions, agents, and the like, is destroyed.
 </details>
@@ -561,7 +561,7 @@ But it is impossible that Brahman should stand in an analogous relation to injun
 येनोपासना-विधि-शेषत्वं ब्रह्मणः प्रतिपाद्येत ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If the conception of duality is once uprooted by the conception of absolute unity, it cannot arise again, and so no longer be the cause of Brahman being looked upon as the complementary object of injunctions of devotion.
 </details>
@@ -584,7 +584,7 @@ If the conception of duality is once uprooted by the conception of absolute unit
 न तद्-विषयस्य शास्त्रस्य प्रामाण्यं शक्यं प्रत्याख्यातुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Other parts of the Veda may have no authority except in so far as they are connected with injunctions; still it is impossible to impugn on that ground the authoritativeness of passages conveying the knowledge of the Self; for such passages have their own result.
 </details>
@@ -600,7 +600,7 @@ Other parts of the Veda may have no authority except in so far as they are conne
 येनान्यत्र दृष्टं निदर्शनम् अपेक्ष्येत।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor, finally, can the authoritativeness of the Veda be proved by inferential reasoning so that it would be dependent on instances observed elsewhere.
 </details>
@@ -616,7 +616,7 @@ Nor, finally, can the authoritativeness of the Veda be proved by inferential rea
 ब्रह्मणः शास्त्र-प्रमाणकत्वम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From all which it follows that the Veda possesses authority as a means of right knowledge of Brahman.
 </details>
@@ -641,7 +641,7 @@ From all which it follows that the Veda possesses authority as a means of right 
 तथा ऽपि प्रतिपत्ति-विधि-विषयतयैव शास्त्रेण ब्रह्म समर्प्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here others raise the following objection: Although the Veda is the means of gaining a right knowledge of Brahman, yet it intimates Brahman only as the object of certain injunctions,
 </details>
@@ -657,7 +657,7 @@ Here others raise the following objection: Although the Veda is the means of gai
 +++(बशु-बन्धादि-)+++विधि-शेषतया शास्त्रेण समर्प्यन्ते, तद्वत्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 just as the information which the Veda gives about the sacrificial post, the āhavanīya-fire and other objects not known from the practice of common life is merely supplementary to certain injunctions [fn_73].
 </details>
@@ -680,7 +680,7 @@ just as the information which the Veda gives about the sacrificial post, the āh
 कुत एतत् ? प्रवृत्ति-निवृत्ति-प्रयोजनत्वाच् छास्त्रस्य ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Why so? Because the Veda has the purport of either instigating to action or restraining from it.
 </details>
@@ -700,7 +700,7 @@ Why so? Because the Veda has the purport of either instigating to action or rest
 तथा हि 'दृष्टो हि तस्यार्थः कर्मावबोधनं नाम’ इति; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For men fully acquainted with the object of the Veda have made the following declaration, 'The purpose of the Veda is seen to be the injunction of actions' (Bhāshya on Jaimini Sūtra I, 1, 1);
 </details>
@@ -715,7 +715,7 @@ For men fully acquainted with the object of the Veda have made the following dec
 ‘चोदनेति क्रियायाः प्रवर्तकं वचनम्’ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Injunction means passages impelling to action' (Bh. on Jaim. Sū. I, 1, 2);
 </details>
@@ -730,7 +730,7 @@ For men fully acquainted with the object of the Veda have made the following dec
 ‘तस्य ज्ञानम् उपदेशः’ (जै. सू. १। १। ५), 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Of this (viz. active religious duty) the knowledge comes from injunction' (part of Jaim. Sū. I, 1, 5);
 </details>
@@ -745,7 +745,7 @@ For men fully acquainted with the object of the Veda have made the following dec
 ‘तद्-भूतानां क्रियार्थेन समाम्नायः’ (जै. सू. १। १। २५) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'The (words) denoting those (things) are to be connected with (the injunctive verb of the vidhi-passage) whose purport is action' (Jaim. Sū. I, 1, 25);
 </details>
@@ -763,7 +763,7 @@ For men fully acquainted with the object of the Veda have made the following dec
 इति च। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'As action is the purport of the Veda, whatever does not refer to action is purportless' (Jaim. Sū. I, 2, 1).
 </details>
@@ -780,7 +780,7 @@ For men fully acquainted with the object of the Veda have made the following dec
 अर्थवच् छास्त्रम्।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Therefore the Veda has a purport in so far only as it rouses the activity of man with regard to some actions and restrains it with regard to others;
 </details>
@@ -795,7 +795,7 @@ Therefore the Veda has a purport in so far only as it rouses the activity of man
 तच्-छेषतया चान्यद् उपयुक्तम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 other passages (i.e. all those passages which are not directly injunctive) have a purport only in so far as they supplement injunctions and prohibitions.
 </details>
@@ -811,7 +811,7 @@ other passages (i.e. all those passages which are not directly injunctive) have 
 तत्-सामान्याद् वेदान्तानाम् अपि तथैवार्थवत्त्वं स्यात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence the Vedānta-texts also as likewise belonging to the Veda can have a meaning in the same way only.
 </details>
@@ -828,7 +828,7 @@ Hence the Vedānta-texts also as likewise belonging to the Veda can have a meani
 एवम् अ-मृतत्व-कामस्य ब्रह्म-ज्ञानं विधीयत इति युक्तम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And if their aim is injunction, then just as the agnihotra-oblation and other rites are enjoined as means for him who is desirous of the heavenly world, so the knowledge of Brahman is enjoined as a means for him who is desirous of immortality.
 </details>
@@ -854,7 +854,7 @@ And if their aim is injunction, then just as the agnihotra-oblation and other ri
 विलक्षणं ब्रह्म-ज्ञान-फलं भवितुम् अर्हति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But--somebody might object--it has been declared that there is a difference in the character of the objects enquired into, the object of enquiry in the karma-kāṇḍa (that part of the Veda which treats of active religious duty) being something to be accomplished, viz. duty, while here the object is the already existent absolutely accomplished Brahman. From this it follows that the fruit of the knowledge of Brahman must be of a different nature from the fruit of the knowledge of duty which depends on the performance of actions [^fn_74].
 </details>
@@ -876,7 +876,7 @@ But--somebody might object--it has been declared that there is a difference in t
 कार्य-विधि-प्रयुक्तस्यैव ब्रह्मणः प्रतिपाद्यमानत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We reply that it must not be such because the Vedānta-texts give information about Brahman only in so far as it is connected with injunctions of actions.
 </details>
@@ -909,7 +909,7 @@ We reply that it must not be such because the Vedānta-texts give information ab
 इत्य्-एवम्-आदयः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We meet with injunctions of the following kind, 'Verily the Self is to be seen' (Br̥. Up. II, 4, 5); 'The Self which is free from sin that it is which we must search out, that it is which we must try to understand' (Cḥ. Up. VIII, 7, 1); 'Let a man worship him as Self' (Br̥. Up. I, 4, 7); 'Let a man worship the Self only as his true state' (Br̥. Up. I, 4, 15); 'He who knows Brahman becomes Brahman' (Mu. Up. III, 2, 9). These injunctions rouse in us the desire to know what that Brahman is. It, therefore, is the task of the Vedānta-texts to set forth Brahman's nature, and they perform that task by teaching us that Brahman is eternal, all-knowing, absolutely self-sufficient, ever pure, intelligent and free, pure knowledge, absolute bliss.
 </details>
@@ -925,7 +925,7 @@ We meet with injunctions of the following kind, 'Verily the Self is to be seen' 
 शास्त्र-दृष्टो ऽदृष्टो मोक्षः फलं भविष्यति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From the devout meditation on this Brahman there results as its fruit, final release, which, although not to be discerned in the ordinary way, is discerned by means of the śāstra.
 </details>
@@ -952,7 +952,7 @@ From the devout meditation on this Brahman there results as its fruit, final rel
 वेदान्त-वाक्यानाम् आनर्थक्यम् एव स्यात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, on the other hand, the Vedānta-texts were considered to have no reference to injunctions of actions, but to contain statements about mere (accomplished) things, just as if one were saying 'the earth comprises seven dvīpas,' 'that king is marching on,' they would be purportless, because then they could not possibly be connected with something to be shunned or endeavoured after.
 </details>
@@ -970,7 +970,7 @@ If, on the other hand, the Vedānta-texts were considered to have no reference t
 भ्रान्ति-जनित-भीति-निवर्तनेन अर्थवत्त्वं दृष्टम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Perhaps it will here be objected that sometimes a mere statement about existent things has a purpose, as, for instance, the affirmation, 'This is a rope, not a snake,' serves the purpose of removing the fear engendered by an erroneous opinion,
 </details>
@@ -985,7 +985,7 @@ Perhaps it will here be objected that sometimes a mere statement about existent 
 > तथेहाप्य् अ-संसार्य्-आत्म-वस्तु-कथनेन संसारित्व-भ्रान्ति-निवर्तनेनार्थवत्त्वं स्यात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and that so likewise the Vedānta-passages making statements about the non-transmigrating Self, have a purport of their own (without reference to any action), viz. in so far as they remove the erroneous opinion of the Self being liable to transmigration.
 </details>
@@ -1003,7 +1003,7 @@ and that so likewise the Vedānta-passages making statements about the non-trans
 न तु निवर्तते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We reply that this might be so if just as the mere hearing of the true nature of the rope dispels the fear caused by the imagined snake, so the mere hearing of the true nature of Brahman would dispel the erroneous notion of one's being subject to transmigration. But this is not the case;
 </details>
@@ -1019,7 +1019,7 @@ We reply that this might be so if just as the mere hearing of the true nature of
 यथा-पूर्वम् सुख-दुःखादि-संसारि-धर्म-दर्शनात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for we observe that even men to whom the true nature of Brahman has been stated continue to be affected by pleasure, pain, and the other qualities attaching to the transmigratory condition.
 </details>
@@ -1036,7 +1036,7 @@ for we observe that even men to whom the true nature of Brahman has been stated 
 इति च श्रवणोत्तर-कालयोर् मनन-निदिध्यासनयोर् विधि-दर्शनात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, we see from the passage, _Bri_. Up. II, 4, 5, 'The Self is to be heard, to be considered, to be reflected upon, that consideration and reflection have to follow the mere hearing.
 </details>
@@ -1054,7 +1054,7 @@ Moreover, we see from the passage, _Bri_. Up. II, 4, 5, 'The Self is to be heard
 इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From all this it results that the sāstra can be admitted as a means of knowing Brahman in so far only as the latter is connected with injunctions.
 </details>
@@ -1076,7 +1076,7 @@ From all this it results that the sāstra can be admitted as a means of knowing 
 कर्म--ब्रह्म-विद्या--फलयोर् वैलक्षण्यात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To all this, we, the Vedāntins, make the following reply:
 The preceding reasoning is not valid, on account of the different nature of the fruits of actions on the one side, and of the knowledge of Brahman on the other side.
@@ -1096,7 +1096,7 @@ The preceding reasoning is not valid, on account of the different nature of the 
 ‘अथातो धर्मजिज्ञासा’ (जै. सू. १। १। १) इति सूत्रिता।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The enquiry into those actions, whether of body, speech, or mind, which are known from Sruti and Smr̥ti, and are comprised under the name 'religious duty' (dharma), is carried on in the Jaimini Sūtra, which begins with the words 'then therefore the enquiry into duty;'
 </details>
@@ -1112,7 +1112,7 @@ The enquiry into those actions, whether of body, speech, or mind, which are know
 प्रतिषेध-चोदना-लक्षणत्वाज् जिज्ञास्यः परिहाराय।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the opposite of duty also (adharma), such as doing harm, &c., which is defined in the prohibitory injunctions, forms an object of enquiry to the end that it may be avoided.
 </details>
@@ -1131,7 +1131,7 @@ the opposite of duty also (adharma), such as doing harm, &c., which is defined i
 ब्रह्मादिषु स्थावरान्तेषु प्रसिद्धे ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The fruits of duty, which is good, and its opposite, which is evil, both of which are defined by original Vedic statements, are generally known to be sensible pleasure and pain, which make themselves felt to body, speech, and mind only, are produced by the contact of the organs of sense with the objects, and affect all animate beings from Brahman down to a tuft of grass.
 </details>
@@ -1153,7 +1153,7 @@ The fruits of duty, which is good, and its opposite, which is evil, both of whic
 सुख-तारतम्यम् अनुश्रूयते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Scripture, agreeing with observation, states that there are differences in the degree of pleasure of all embodied creatures from men upward to Brahman.
 </details>
@@ -1168,7 +1168,7 @@ Scripture, agreeing with observation, states that there are differences in the d
 ततश् च तद्-धेतोर् धर्मस्यापि तारतम्यं गम्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From those differences it is inferred that there are differences in the degrees of the merit acquired by actions in accordance with religious duty;
 </details>
@@ -1183,7 +1183,7 @@ From those differences it is inferred that there are differences in the degrees 
 धर्म-तारतम्याद् अधिकारि-तारतम्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 therefrom again are inferred differences in degree between those qualified to perform acts of religious duty.
 </details>
@@ -1198,7 +1198,7 @@ therefrom again are inferred differences in degree between those qualified to pe
 प्रसिद्धं चार्थित्व-सामर्थ्यादि-कृतम् अधिकारि-तारतम्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Those latter differences are moreover known to be affected by the desire of certain results (which entitles the man so desirous to perform certain religious acts), worldly possessions, and the like.
 </details>
@@ -1218,7 +1218,7 @@ Those latter differences are moreover known to be affected by the desire of cert
 शास्त्रात् ‘यावत्-सम्पातम् उषित्वा’ (छा. उ. ५। १०। ५) इत्य्-अस्माद् गम्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is further known from Scripture that those only who perform sacrifices proceed, in consequence of the pre-eminence of their knowledge and meditation, on the northern path (of the sun; Cḥ. Up. V, 10, 1), while mere minor offerings, works of public utility and alms, only lead through smoke and the other stages to the southern path. And that there also (viz. in the moon which is finally reached by those who have passed along the southern path) there are degrees of pleasure and the means of pleasure is understood from the passage 'Having dwelt there till their works are consumed.'
 </details>
@@ -1235,7 +1235,7 @@ It is further known from Scripture that those only who perform sacrifices procee
 तारतम्येन वर्तमानः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Analogously it is understood that the different degrees of pleasure which are enjoyed by the embodied creatures, from man downward to the inmates of hell and to immovable things, are the mere effects of religious merit as defined in Vedic injunctions.
 </details>
@@ -1261,7 +1261,7 @@ Analogously it is understood that the different degrees of pleasure which are en
 तत्-हेतोर् अधर्मस्य प्रतिषेध-चोदना-लक्षणस्य तद्-अनुष्ठायिनां च तारतम्यं गम्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On the other hand, from the different degrees of pain endured by higher and lower embodied creatures, there is inferred difference of degree in its cause, viz. religious demerit as defined in the prohibitory injunctions, and in its agents.
 </details>
@@ -1280,7 +1280,7 @@ On the other hand, from the different degrees of pain endured by higher and lowe
 श्रुति-स्मृति-न्याय-प्रसिद्धम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This difference in the degree of pain and pleasure, which has for its antecedent embodied existence, and for its cause the difference of degree of merit and demerit of animated beings, liable to faults such as ignorance and the like, is well known--from Śruti, Smr̥ti, and reasoning-to be non-eternal, of a fleeting, changing nature (saṁsāra).
 </details>
@@ -1300,7 +1300,7 @@ This difference in the degree of pain and pleasure, which has for its antecedent
 इति यथा-वर्णितं संसार-रूपम् अनुवदति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The following text, for instance, 'As long as he is in the body he cannot get free from pleasure and pain' (Cḥ. Up. VIII, 12, i), refers to the saṁsāra-state as described above.
 </details>
@@ -1321,7 +1321,7 @@ The following text, for instance, 'As long as he is in the body he cannot get fr
 इति गम्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 When he is free from the body then neither pleasure nor pain touches him,' which denies the touch of pain or pleasure, we learn that the unembodied state called 'final release' (moksha) is declared not to be the effect of religious merit as defined by Vedic injunctions.
 </details>
@@ -1337,7 +1337,7 @@ When he is free from the body then neither pleasure nor pain touches him,' which
 प्रियाप्रिय-स्पर्शन-प्रतिषेधो नोपपद्येत ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For if it were the effect of merit it would not be denied that it is subject to pain and pleasure.
 </details>
@@ -1374,7 +1374,7 @@ For if it were the effect of merit it would not be denied that it is subject to 
 "अशरीरत्वम् एव धर्म-कार्यम्" इति चेत् , न —
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Should it be said that the very circumstance of its being an unembodied state is the effect of merit, we reply that that cannot be,
 </details>
@@ -1400,7 +1400,7 @@ Should it be said that the very circumstance of its being an unembodied state is
 इत्य्-आदि-श्रुतिभ्यः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 since Scripture declares that state to be naturally and originally an unembodied one. 'The wise who knows the Self as bodiless within the bodies, as unchanging among changing things, as great and omnipresent does never grieve' (Ka. Up. II, 22); 'He is without breath, without mind, pure' (Mu. Up. II, 1, 2); 'That person is not attached to anything' (Br̥. Up. IV, 3, 15) [^fn_75].
 </details>
@@ -1422,7 +1422,7 @@ since Scripture declares that state to be naturally and originally an unembodied
 इति सिद्धम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All which passages establish the fact that so-called release differs from all the fruits of action, and is an eternally and essentially disembodied state.
 </details>
@@ -1448,7 +1448,7 @@ All which passages establish the fact that so-called release differs from all th
 यथा वा साङ्ख्यानां गुणाः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Among eternal things, some indeed may be 'eternal, although changing' (pariṇāminitya), viz. those, the idea of whose identity is not destroyed, although they may undergo changes; such, for instance, are earth and the other elements in the opinion of those who maintain the eternity of the world, or the three guṇas in the opinion of the Sānkhyas.
 </details>
@@ -1466,7 +1466,7 @@ Among eternal things, some indeed may be 'eternal, although changing' (pariṇā
 यत्र धर्माधर्मौ सह कार्येण, काल-त्रयं च नोपावर्तेते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But this (moksha) is eternal in the true sense, i.e. eternal without undergoing any changes (kūṭasthanitya), omnipresent as ether, free from all modifications, absolutely self-sufficient, not composed of parts, of self-luminous nature.
 </details>
@@ -1488,7 +1488,7 @@ But this (moksha) is eternal in the true sense, i.e. eternal without undergoing 
 इत्य्-आदि-श्रुतिभ्यः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That bodiless entity in fact, to which merit and demerit with their consequences and threefold time do not apply, is called release; a definition agreeing with scriptural passages, such as the following: 'Different from merit and demerit, different from effect and cause, different from past and future' (Ka. Up. I, 2, 14).
 </details>
@@ -1504,7 +1504,7 @@ That bodiless entity in fact, to which merit and demerit with their consequences
 यस्येयं जिज्ञासा प्रस्तुता ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It [^fn_76] (i.e. moksha) is, therefore, the same as Brahman in the enquiry into which we are at present engaged.
 </details>
@@ -1534,7 +1534,7 @@ It [^fn_76] (i.e. moksha) is, therefore, the same as Brahman in the enquiry into
 अनित्य एव स्यात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If Brahman were represented as supplementary to certain actions, and release were assumed to be the effect of those actions, it would be non-eternal,
 </details>
@@ -1552,7 +1552,7 @@ If Brahman were represented as supplementary to certain actions, and release wer
 इति प्रसज्येत।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and would have to be considered merely as something holding a pre-eminent position among the described non-eternal fruits of actions with their various degrees.
 </details>
@@ -1568,7 +1568,7 @@ and would have to be considered merely as something holding a pre-eminent positi
 सर्वैर् मोक्ष-वादिभिर अभ्युपगम्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But that release is something eternal is acknowledged by whoever admits it at all,
 </details>
@@ -1583,7 +1583,7 @@ But that release is something eternal is acknowledged by whoever admits it at al
 अतो न कर्तव्य-शेषत्वेन ब्रह्मोपदेशो युक्तः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the teaching concerning Brahman can therefore not be merely supplementary to actions.
 </details>
@@ -1624,7 +1624,7 @@ and the teaching concerning Brahman can therefore not be merely supplementary to
 मध्ये कार्यान्तरं वारयन्ति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There are, moreover, a number of scriptural passages which declare release to follow immediately on the cognition of Brahman, and which thus preclude the possibility of an effect intervening between the two; for instance, 'He who knows Brahman becomes Brahman' (Mu. Up. III, 2, 9); 'All his works perish when He has been beheld, who is the higher and the lower' (Mu. Up. II, 2, 8); 'He who knows the bliss of Brahman fears nothing' (Taitt. Up. II, 9); 'O Janaka, you have indeed reached fearlessness' (Br̥. Up. IV, 2, 4); 'That Brahman knew its Self only, saying, I am Brahman. From it all this sprang' (Br̥. Up. I, 4, 10); 'What sorrow, what trouble can there be to him who beholds that unity?' (Īś. Up. 7.)
 </details>
@@ -1646,7 +1646,7 @@ There are, moreover, a number of scriptural passages which declare release to fo
 यथा ‘तिष्ठन् गायति’ इति तिष्ठति-गायत्योर् मध्ये तत्-कर्तृकं कार्यान्तरं नास्तीति गम्यते ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We must likewise quote the passage, Br̥. Up. I, 4, 10, ('Seeing this the R̥shi Vāmadeva understood: I was Manu, I was the sun,') in order to exclude the idea of any action taking place between one's seeing Brahman and becoming one with the universal Self; for that passage is analogous to the following one, 'standing he sings,' from which we understand that no action due to the same agent intervenes between the standing and the singing.
 </details>
@@ -1685,7 +1685,7 @@ We must likewise quote the passage, Br̥. Up. I, 4, 10, ('Seeing this the R̥shi
 मोक्ष-प्रतिबन्ध-निवृत्ति-मात्रम् एवात्म-ज्ञानस्य फलं दर्शयन्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Other scriptural passages show that the removal of the obstacles which lie in the way of release is the only fruit of the knowledge of Brahman; so, for instance, 'You indeed are our father, you who carry us from our ignorance to the other shore' (Pr. Up. VI, 8); 'I have heard from men like you that he who knows the Self overcomes grief. I am in grief. Do, Sir, help me over this grief of mine' (Cḥ. Up. VII, 1,3); 'To him after his faults had been rubbed out, the venerable Sanatkumāra showed the other side of darkness' (Cḥ. Up. VII, 26, 2).
 </details>
@@ -1713,7 +1713,7 @@ Other scriptural passages show that the removal of the obstacles which lie in th
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The same is the purport of the Sūtra, supported by arguments, of (Gautama) Ācārya, 'Final release results from the successive removal of wrong knowledge, faults, activity, birth, pain, the removal of each later member of the series depending on the removal of the preceding member' (Nyāy. Sū. I, 1, 2);
 </details>
@@ -1729,7 +1729,7 @@ The same is the purport of the Sūtra, supported by arguments, of (Gautama) Āc�
 ब्रह्मात्मैकत्व-विज्ञानाद् भवति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and wrong knowledge itself is removed by the knowledge of one's Self being one with the Self of Brahman.
 </details>
@@ -1753,7 +1753,7 @@ and wrong knowledge itself is removed by the knowledge of one's Self being one w
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is this knowledge of the Self being one with Brahman a mere (fanciful) combination [^fn_77], as is made use of, for instance, in the following passage, 'For the mind is endless, and the Viśvedevas are endless, and he thereby gains the endless world' (Br̥. Up. III, 1, 9) [^fn_78];
 </details>
@@ -1783,7 +1783,7 @@ Nor is this knowledge of the Self being one with Brahman a mere (fanciful) combi
 इति च मन-आदित्यादिषु ब्रह्म-दृष्ट्य्-अध्यासः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 nor is it an (in reality unfounded) ascription (superimposition), as in the passages, 'Let him meditate on mind as Brahman,' and 'Āditya is Brahman, this is the doctrine' (Cḥ. Up. III, 18, 1; 19, 1), where the contemplation as Brahman is superimposed on the mind, Āditya and so on;
 </details>
@@ -1810,7 +1810,7 @@ Adhyāsaḥ śāstrato'tasmiṃs taddhīḥ. Sampadi sampādyamānasya prādhān
 इतिवत्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 nor, again, is it (a figurative conception of identity) founded on the connection (of the things viewed as identical) with some special activity, as in the passage, 'Air is indeed the absorber; breath is indeed the absorber' (Cḥ. Up. IV, 3, 1; 3);
 </details>
@@ -1833,7 +1833,7 @@ Air and breath each absorb certain things, and are, therefore, designated by the
 कर्माङ्ग-संस्कार-रूपम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 nor is it a mere (ceremonial) purification of (the Self constituting a subordinate member) of an action (viz. the action of seeing, &c., Brahman), in the same way as, for instance, the act of looking at the sacrificial butter.
 </details>
@@ -1875,7 +1875,7 @@ The butter used in the upāṃśuyāja is ceremonially purified by the wife of t
 ब्रह्मात्मैकत्व-वस्तु-प्रतिपादन-परः पद-समन्वयः पीड्येत ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For if the knowledge of the identity of the Self and Brahman were understood in the way of combination and the like, violence would be done thereby to the connection of the words whose object, in certain passages, it clearly is to intimate the fact of Brahman and the Self being really identical; so, for instance, in the following passages, 'That art thou' (Cḥ. Up. VI, 8, 7); 'I am Brahman' (Br̥. Up. I, 4, 10); 'This Self is Brahman' (Br̥. Up. II, 5, 19).
 </details>
@@ -1893,7 +1893,7 @@ For if the knowledge of the identity of the Self and Brahman were understood in 
 इति चैवम्-आदीन्य् अविद्या-निवृत्ति-फल-श्रवणान्य् उपरुध्येरन् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And other texts which declare that the fruit of the cognition of Brahman is the cessation of Ignorance would be contradicted thereby; so, for instance, 'The fetter of the heart is broken, all doubts are solved' (Mu. Up. II, 2, 8).
 </details>
@@ -1911,7 +1911,7 @@ And other texts which declare that the fruit of the cognition of Brahman is the 
 सम्पदादि-रूपत्वे न सामञ्जस्येनोपपद्येरन्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor, finally, would it be possible, in that case, satisfactorily to explain the passages which speak of the individual Self becoming Brahman: such as 'He who knows Brahman becomes Brahman' (Mu. Up. III, 2, 9).
 </details>
@@ -1926,7 +1926,7 @@ Nor, finally, would it be possible, in that case, satisfactorily to explain the 
 तस्मान् न सम्पदादि-रूपं ब्रह्मात्मैकत्व-विज्ञानम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence the knowledge of the unity of Brahman and the Self cannot be of the nature of figurative combination and the like.
 </details>
@@ -1948,7 +1948,7 @@ Hence the knowledge of the unity of Brahman and the Self cannot be of the nature
 अतो न पुरुष-व्यापार-तन्त्रा ब्रह्म-विद्या।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The knowledge of Brahman does, therefore, not depend on the active energy of man,
 </details>
@@ -1964,7 +1964,7 @@ The knowledge of Brahman does, therefore, not depend on the active energy of man
 प्रत्यक्षादि-प्रमाण-विषय-वस्तु-ज्ञानवद् वस्तु-तन्त्रैव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but is analogous to the knowledge of those things which are the objects of perception, inference, and so on, and thus depends on the object of knowledge only.
 </details>
@@ -1981,7 +1981,7 @@ but is analogous to the knowledge of those things which are the objects of perce
 न कयाचिद् युक्त्या शक्यः +++(उपासनादि-)+++कार्यानुप्रवेशः कल्पयितुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Of such a Brahman or its knowledge it is impossible to establish, by reasoning, any connection with actions.
 </details>
@@ -2006,7 +2006,7 @@ Of such a Brahman or its knowledge it is impossible to establish, by reasoning, 
 इति च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor, again, can we connect Brahman with acts by representing it as the object of the action of knowing. For that it is not such is expressly declared in two passages, viz. 'It is different from the known and again above (i.e. different from) the unknown' (Ken. Up. I, 3); and 'How should he know him by whom he knows all this?' (Br̥. Up. II, 4, 13.)
 </details>
@@ -2032,7 +2032,7 @@ Nor, again, can we connect Brahman with acts by representing it as the object of
 इति ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the same way Brahman is expressly declared not to be the object of the act of devout meditation, viz. in the second half of the verse, Ken. Up. I, 5, whose first half declares it not to be an object (of speech, mind, and so on), 'That which is not proclaimed by speech, by which speech is proclaimed, that only know to be Brahman, not that on which people devoutly meditate as this.'
 </details>
@@ -2062,7 +2062,7 @@ In the same way Brahman is expressly declared not to be the object of the act of
 अविद्या-कल्पित-भेद-निवृत्ति-परत्वाच् शास्त्रस्य।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If it should be objected that if Brahman is not an object (of speech, mind, &c.) the sāstra can impossibly be its source, we refute this objection by the remark that the aim of the sāstra is to discard all distinctions fictitiously created by Nescience.
 </details>
@@ -2077,7 +2077,7 @@ If it should be objected that if Brahman is not an object (of speech, mind, &c.)
 न हि शास्त्रम् इदन्तया विषय-भूतं ब्रह्म प्रतिपिपादयिषति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The śāstra's purport is not to represent Brahman definitely as this or that object,
 </details>
@@ -2094,7 +2094,7 @@ The śāstra's purport is not to represent Brahman definitely as this or that ob
 अविद्या-कल्पितं वेद्य-वेदितृ-वेदनादि-भेदम् अपनयति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 its purpose is rather to show that Brahman as the eternal subject (pratyagātman, the inward Self) is never an object, and thereby to remove the distinction of objects known, knowers, acts of knowledge, &c., which is fictitiously created by Nescience.
 </details>
@@ -2121,7 +2121,7 @@ its purpose is rather to show that Brahman as the eternal subject (pratyagātman
 इति चैवम्-आदि।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Accordingly the sāstra says, 'By whom it is not thought by him it is thought, by whom it is thought he does not know it; unknown by those who know it, it is known by those who do not know it' (Ken. Up. II, 3}; and 'Thou couldst not see the seer of sight, thou couldst not hear the hearer of hearing, nor perceive the perceiver of perception, nor know the knower of knowledge' (Br̥. Up. III, 4, 2).
 </details>
@@ -2140,7 +2140,7 @@ Accordingly the sāstra says, 'By whom it is not thought by him it is thought, b
 न मोक्षस्य अनित्यत्व-दोषः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As thereby (i.e. by the knowledge derived from the sāstra) the imagination of the transitoriness of Release which is due to Nescience is discarded, and Release is shown to be of the nature of the eternally free Self, it cannot be charged with the imperfection of non-eternality.
 </details>
@@ -2168,7 +2168,7 @@ As thereby (i.e. by the knowledge derived from the sāstra) the imagination of t
 तस्य मानसं वाचिकं कायिकं वा कार्यम् अपेक्षत इति युक्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Those, on the other hand, who consider Release to be something to be effected properly maintain that it depends on the action of mind, speech, or body.
 </details>
@@ -2183,7 +2183,7 @@ Those, on the other hand, who consider Release to be something to be effected pr
 तथा विकार्यत्वे च +++(तस्य मानसं वाचिकं कायिकं वा कार्यम् अपेक्षत इति युक्तम्)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 So, likewise, those who consider it to be a mere modification.
 </details>
@@ -2198,7 +2198,7 @@ So, likewise, those who consider it to be a mere modification.
 तयोः पक्षयोर् मोक्षस्य ध्रुवम् अनित्यत्वम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Non-eternality of Release is the certain consequence of these two opinions;
 </details>
@@ -2215,7 +2215,7 @@ Non-eternality of Release is the certain consequence of these two opinions;
 नित्यं दृष्टं लोके।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for we observe in common life that things which are modifications, such as sour milk and the like, and things which are effects, such as jars, &c., are non-eternal.
 </details>
@@ -2233,7 +2233,7 @@ for we observe in common life that things which are modifications, such as sour 
 स्वात्म-स्वरूपत्वे सत्य् अनाप्यत्वात्;
 </</details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor, again, can it be said that there is a dependance on action in consequence of (Brahman or Release) being something which is to be obtained [^fn_82]; for as Brahman constitutes a person's Self it is not something to be attained by that person.
 </details>
@@ -2256,7 +2256,7 @@ An hypothesis which might be proposed for the purpose of p. 33 obviating the imp
 सर्व-गतत्वेन नित्याप्त-स्वरूपत्वात् सर्वेण ब्रह्मण - आकाशस्येव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And even if Brahman were altogether different from a person's Self still it would not be something to be obtained; for as it is omnipresent it is part of its nature that it is ever present to every one, just as the (all-pervading) ether is.
 </details>
@@ -2272,7 +2272,7 @@ And even if Brahman were altogether different from a person's Self still it woul
 नापि संस्कार्यो मोक्षः, येन व्यापारम् अपेक्षेत।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor, again, can it be maintained that Release is something to be ceremonially purified, and as such depends on an activity.
 </details>
@@ -2287,7 +2287,7 @@ Nor, again, can it be maintained that Release is something to be ceremonially pu
 संस्कारो हि नाम संस्कार्यस्य गुणाधानेन वा स्यात् , दोषापनयनेन वा।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For ceremonial purification (saṁskāra) results either from the accretion of some excellence or from the removal of some blemish.
 </details>
@@ -2303,7 +2303,7 @@ For ceremonial purification (saṁskāra) results either from the accretion of s
 अनाधेयातिशय-ब्रह्म-स्वरूपत्वान् मोक्षस्य।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The former alternative does not apply to Release as it is of the nature of Brahman, to which no excellence can be added;
 </details>
@@ -2319,7 +2319,7 @@ The former alternative does not apply to Release as it is of the nature of Brahm
 नित्य-शुद्ध-ब्रह्म-स्वरूपत्वान् मोक्षस्य ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 nor, again, does the latter alternative apply, since Release is of the nature of Brahman, which is eternally pure.
 </details>
@@ -2356,7 +2356,7 @@ nor, again, does the latter alternative apply, since Release is of the nature of
 क्रियाश्रयत्वानुपपत्तेर् आत्मनः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, it might be said, Release might be a quality of the Self which is merely hidden and becomes manifest on the Self being purified by some action; just as the quality of clearness becomes manifest in a mirror when the mirror is cleaned by means of the action of rubbing. This objection is invalid, we reply, because the Self cannot be the abode of any action.
 </details>
@@ -2373,7 +2373,7 @@ But, it might be said, Release might be a quality of the Self which is merely hi
 नैवात्मानं लभते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For an action cannot exist without modifying that in which it abides.
 </details>
@@ -2389,7 +2389,7 @@ For an action cannot exist without modifying that in which it abides.
 अनित्यत्वम् आत्मनः प्रसज्येत ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But if the Self were modified by an action its non-eternality would result therefrom,
 </details>
@@ -2406,7 +2406,7 @@ But if the Self were modified by an action its non-eternality would result there
 इति चैवम्-आदीनि वाक्यानि बाध्येरन्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and texts such as the following, 'unchangeable he is called,' would thus be stultified; an altogether unacceptable result.
 </details>
@@ -2421,7 +2421,7 @@ and texts such as the following, 'unchangeable he is called,' would thus be stul
 तच् चानिष्टम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 an altogether unacceptable result.
 </details>
@@ -2436,7 +2436,7 @@ an altogether unacceptable result.
 तस्मान् न स्वाश्रया क्रिया ऽऽत्मनः सम्भवति।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence it is impossible to assume that any action should abide in the Self.
 </details>
@@ -2452,7 +2452,7 @@ Hence it is impossible to assume that any action should abide in the Self.
 न तया ऽऽत्मा संस्क्रियते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On the other hand, the Self cannot be purified by actions abiding in something else as it stands in no relation to that extraneous something.
 </details>
@@ -2477,7 +2477,7 @@ On the other hand, the Self cannot be purified by actions abiding in something e
 न; देहादि-संहतस्यैवाविद्या-गृहीतस्यात्मनः संस्क्रियमाणत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor will it avail to point out (as a quasi-analogous case) that the embodied Self (dehin, the individual soul) is purified by certain ritual actions which abide in the body, such as bathing, rinsing one's mouth, wearing the sacrificial thread, and the like. For what is purified by those actions is that Self merely which is joined to the body, i.e. the Self in so far as it is under the power of Nescience.
 </details>
@@ -2492,7 +2492,7 @@ Nor will it avail to point out (as a quasi-analogous case) that the embodied Sel
 प्रत्यक्षं हि स्नानाचमनादेर् देह-समवायित्वम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For it is a matter of perception that bathing and similar actions stand in the relation of inherence to the body,
 </details>
@@ -2509,7 +2509,7 @@ For it is a matter of perception that bathing and similar actions stand in the r
 इति युक्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and it is therefore only proper to conclude that by such actions only that something is purified which is joined to the body.
 </details>
@@ -2529,7 +2529,7 @@ and it is therefore only proper to conclude that by such actions only that somet
 स संस्क्रियते।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If a person thinks 'I am free from disease,' he predicates health of that entity only which is connected with and mistakenly identifies itself with the harmonious condition of matter (i.e. the body) resulting from appropriate medical treatment applied to the body (i.e. the 'I' constituting the subject of predication is only the individual embodied Self). Analogously that I which predicates of itself, that it is purified by bathing and the like, is only the individual soul joined to the body.
 </details>
@@ -2544,7 +2544,7 @@ If a person thinks 'I am free from disease,' he predicates health of that entity
 स च देहेन संहत एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For it is only this latter principle of egoity (ahaṁkartr̥), the object of the notion of the ego and the agent in all cognition, which accomplishes all actions and enjoys their results.
 </details>
@@ -2561,7 +2561,7 @@ For it is only this latter principle of egoity (ahaṁkartr̥), the object of th
 सर्वाः क्रिया निर्वर्त्यन्ते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For it is only this latter principle of egoity (ahaṁkartr̥), the object of the notion of the ego and the agent in all cognition, which accomplishes all actions and enjoys their results.
 </details>
@@ -2585,7 +2585,7 @@ For it is only this latter principle of egoity (ahaṁkartr̥), the object of th
 इति च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Thus the mantras also declare, 'One of them eats the sweet fruit, the other looks on without eating' (Mu. Up. III, 1, 1); and 'When he is in union with the body, the senses, and the mind, then wise people call him the Enjoyer' (Ka. Up. III, 1, 4).
 </details>
@@ -2619,7 +2619,7 @@ Thus the mantras also declare, 'One of them eats the sweet fruit, the other look
 एतौ मन्त्राव् अनाधेयातिशयतां नित्य-शुद्धतां च ब्रह्मणो दर्शयतः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Of Brahman, on the other hand, the two following passages declare that it is incapable of receiving any accretion and eternally pure, 'He is the one God, hidden in all beings, all-pervading, the Self within all beings, watching over all works, dwelling in all beings, the witness, the perceiver, the only one; free from qualities' (Śv. Up. VI, 11); and 'He pervaded all, bright, incorporeal, scatheless, without muscles, pure, untouched by evil' (Īś. Up. 8).
 </details>
@@ -2634,7 +2634,7 @@ Of Brahman, on the other hand, the two following passages declare that it is inc
 ब्रह्म-भावश् च मोक्षः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But Release is nothing but being Brahman.
 </details>
@@ -2650,7 +2650,7 @@ But Release is nothing but being Brahman.
 तस्मान् न संस्कार्यो ऽपि मोक्षः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Therefore Release is not something to be purified.
 </details>
@@ -2667,7 +2667,7 @@ Therefore Release is not something to be purified.
 न शक्यं केनचिद् दर्शयितुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And as nobody is able to show any other way in which Release could be connected with action,
 </details>
@@ -2683,7 +2683,7 @@ And as nobody is able to show any other way in which Release could be connected 
 क्रियाया गन्ध-मात्रस्याप्य् अनुप्रवेश इह नोपपद्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 it is impossible that it should stand in any, even the slightest, relation to any action, excepting knowledge.
 </details>
@@ -2706,7 +2706,7 @@ it is impossible that it should stand in any, even the slightest, relation to an
 न; वैलक्षण्यात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, it will be said here, knowledge itself is an activity of the mind. By no means, we reply; since the two are of different nature.
 </details>
@@ -2733,7 +2733,7 @@ But, it will be said here, knowledge itself is an activity of the mind. By no me
 इति चैवम्-आदिषु।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 An action is that which is enjoined as being independent of the nature of existing things and dependent on the energy of some person's mind; compare, for instance, the following passages, 'To whichever divinity the offering is made on that one let him meditate when about to say vashaṭ' (Ait. Brāhm. III, 8, 1); and 'Let him meditate in his mind on the sandhyā.'
 </details>
@@ -2749,7 +2749,7 @@ An action is that which is enjoined as being independent of the nature of existi
 तथापि पुरुषेण कर्तुम्, अकर्तुम्, अन्यथा वा कर्तुं शक्यम्, पुरुष-तन्त्रत्वात्। +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Meditation and reflection are indeed mental, but as they depend on the (meditating, &c.) person they may either be performed or not be performed or modified.
 </details>
@@ -2765,7 +2765,7 @@ Meditation and reflection are indeed mental, but as they depend on the (meditati
 ज्ञानं तु प्रमाण-जन्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Knowledge, on the other hand, is the result of the different means of (right) knowledge,
 </details>
@@ -2780,7 +2780,7 @@ Knowledge, on the other hand, is the result of the different means of (right) kn
 प्रमाणं च यथा-भूत-वस्तु-विषयम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and those have for their objects existing things;
 </details>
@@ -2795,7 +2795,7 @@ and those have for their objects existing things;
 अतो ज्ञानं कर्तुम् अकर्तुम् अन्यथा वा कर्तुम् अशक्यम्। +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 knowledge can therefore not be either made or not made or modified,
 </details>
@@ -2811,7 +2811,7 @@ knowledge can therefore not be either made or not made or modified,
 न चोदना-तन्त्रम्, नापि पुरुष-तन्त्रम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but depends entirely on existing things, and not either on Vedic statements or on the mind of man.
 </details>
@@ -2841,7 +2841,7 @@ but depends entirely on existing things, and not either on Vedic statements or o
 इत्य्-अत्र योषित्-पुरुषयोर् अग्नि-बुद्धिर् मानसी भवति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The meditation, for instance, on man and woman as fire, which is founded on _Kh._ Up. V, 7, 1; 8, 1, 'The fire is man, O Gautama; the fire is woman, O Gautama,' is
 </details>
@@ -2856,7 +2856,7 @@ The meditation, for instance, on man and woman as fire, which is founded on _Kh.
 केवल-चोदना-जन्यत्वात् - क्रियैव सा पुरुष-तन्त्रा च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 on account of its being the result of a Vedic statement, merely an action and dependent on man;
 </details>
@@ -2877,7 +2877,7 @@ on account of its being the result of a Vedic statement, merely an action and de
 एवं सर्व-प्रमाण-विषय-वस्तुषु वेदितव्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 that conception of fire, on the other hand, which refers to the well-known (real) fire, is neither dependent on Vedic statements nor on man, but only on a real thing which is an object of perception; it is therefore knowledge and not an action. The same remark applies to all things which are the objects of the different means of right knowledge.
 </details>
@@ -2894,7 +2894,7 @@ that conception of fire, on the other hand, which refers to the well-known (real
 तत्रैवं सति यथा-भूत-ब्रह्मात्म-विषयम् अपि ज्ञानं न चोदना-तन्त्रम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This being thus that knowledge also which has the existent Brahman for its object is not dependent on Vedic injunction.
 </details>
@@ -2912,7 +2912,7 @@ This being thus that knowledge also which has the existent Brahman for its objec
 अहेयानुपादेय-वस्तु-विषयत्वात् ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence, although imperative and similar forms referring to the knowledge of Brahman are found in the Vedic texts, yet they are ineffective because they refer to something which cannot be enjoined, just as the edge of a razor becomes blunt when it is applied to a stone. For they have for their object something which can neither be endeavoured after nor avoided.
 </details>
@@ -2944,7 +2944,7 @@ Hence, although imperative and similar forms referring to the knowledge of Brahm
 > इत्य्-आदीनि विधि-च्छायानि वचनानि ?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But what then, it will be asked, is the purport of those sentences which, at any rate, have the appearance of injunctions; such as, 'The Self is to be seen, to be heard about?'
 </details>
@@ -2959,7 +2959,7 @@ But what then, it will be asked, is the purport of those sentences which, at any
 स्वाभाविक-प्रवृत्ति-विषय- -विमुखी-करणार्थानीति ब्रूमः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 They have the purport, we reply, of diverting (men) from the objects of natural activity.
 </details>
@@ -2984,7 +2984,7 @@ They have the purport, we reply, of diverting (men) from the objects of natural 
 ‘आत्मा वा अरे द्रष्टव्यः’ इत्य्-आदीनि;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For when a man acts intent on external things, and only anxious to attain the objects of his desire and to eschew the objects of his aversion, and does not thereby reach the highest aim of man although desirous of attaining it; such texts as the one quoted divert him from the objects of natural activity and turn the stream of his thoughts on the inward (the highest) Self.
 </details>
@@ -3012,7 +3012,7 @@ For when a man acts intent on external things, and only anxious to attain the ob
 इत्य्-आदिभिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That for him who is engaged in the enquiry into the Self, the true nature of the Self is nothing either to be endeavoured after or to be avoided, we learn from texts such as the following: 'This everything, all is that Self' (Br̥, Up. II, 4, 6); 'But when the Self only is all this, how should he see another, how should he know another, how should he know the knower?' (Br̥. Up. IV, 5, 15); 'This Self is Brahman' (Br̥. Up. II, 5, 19).
 </details>
@@ -3038,7 +3038,7 @@ That for him who is engaged in the enquiry into the Self, the true nature of the
 तत् तथैवेत्य् अभ्युपगम्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the knowledge of Brahman refers to something which is not a thing to be done, and therefore is not concerned either with the pursuit or the avoidance of any object, is the very thing we admit;
 </details>
@@ -3055,7 +3055,7 @@ That the knowledge of Brahman refers to something which is not a thing to be don
 सर्व-कर्तव्यता-हानिः कृत-कृत्यता चेति। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for just that constitutes our glory, that as soon as we comprehend Brahman, all our duties come to an end and all our work is over.
 </details>
@@ -3082,7 +3082,7 @@ for just that constitutes our glory, that as soon as we comprehend Brahman, all 
 इति च स्मृतिः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Thus Śruti says, 'If a man understands the Self, saying, "I am he," what could he wish or desire that he should pine after the body?' (Br̥. Up. IV, 4, 12.) And similarly Smr̥ti declares, 'Having understood this the understanding man has done with all work, O Bhārata' (Bha. Gītā XV, 20).
 </details>
@@ -3098,7 +3098,7 @@ Thus Śruti says, 'If a man understands the Self, saying, "I am he," what could 
 तस्मान् न प्रतिपत्ति-विधि-विषयतया ब्रह्मणः समर्पणम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Therefore Brahman is not represented as the object of injunctions.
 </details>
@@ -3131,7 +3131,7 @@ Therefore Brahman is not represented as the object of injunctions.
 इति, तन् न –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We now proceed to consider the doctrine of those who maintain that there is no part of the Veda which has the purport of making statements about mere existent things, and is not either an injunction or a prohibition, or supplementary to either. This opinion is erroneous,
 </details>
@@ -3146,7 +3146,7 @@ We now proceed to consider the doctrine of those who maintain that there is no p
 औपनिषदस्य पुरुषस्यानन्य-शेषत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 because the soul (purusha), which is the subject of the Upanishads, does not constitute a complement to anything else.
 </details>
@@ -3164,7 +3164,7 @@ because the soul (purusha), which is the subject of the Upanishads, does not con
 न "असौ नास्ति, नाधिगम्यत" इति वा शक्यं वदितुम् —
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Of that soul which is to be comprehended from the Upanishads only, which is non-transmigratory, Brahman, different in nature from the four classes of substances [^fn_83], which forms a topic of its own and is not a complement to anything else; of that soul it is impossible to say that it is not or is not apprehended;
 </details>
@@ -3183,7 +3183,7 @@ Of that soul which is to be comprehended from the Upanishads only, which is non-
 य एव निराकर्ता तस्यैवात्मत्वात् ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for the passage, 'That Self is to be described by No, no!' (Br̥. Up. III, 9, 26) designates it as the Self, and that the Self is cannot be denied.
 </details>
@@ -3207,7 +3207,7 @@ for the passage, 'That Self is to be described by No, no!' (Br̥. Up. III, 9, 26
 "उपनिषत्स्व् एव विज्ञायत" इत्य्-अनुपपन्नम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The possible objection that there is no reason to maintain that the soul is known from the Upanishads only, since it is the object of self-consciousness, is refuted by the fact that
 </details>
@@ -3222,7 +3222,7 @@ The possible objection that there is no reason to maintain that the soul is know
 न, तत्+++(→अहम्-अर्थ)+++-साक्षित्वेन प्रत्युक्तत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the soul of which the Upanishads treat is merely the witness of that (i.e. of the object of self-consciousness, viz. the jīvātman).
 </details>
@@ -3240,7 +3240,7 @@ the soul of which the Upanishads treat is merely the witness of that (i.e. of th
 विधि-काण्डे तर्क-समये वा केनचिद् अधिगतः सर्वस्यात्मा।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For neither from that part of the Veda which enjoins works nor from reasoning, anybody apprehends that soul which, different from the agent that is the object of self-consciousness, merely witnesses it; which is permanent in all (transitory) beings; uniform; one; eternally unchanging; the Self of everything.
 </details>
@@ -3258,7 +3258,7 @@ For neither from that part of the Veda which enjoins works nor from reasoning, a
 — न हेयो नाप्य् उपादेयः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence it can neither be denied nor be represented as the mere complement of injunctions; for of that very person who might deny it it is the Self. And as it is the Self of all, it can neither be striven after nor avoided.
 </details>
@@ -3288,7 +3288,7 @@ Hence it can neither be denied nor be represented as the mere complement of inju
 विनश्यति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All perishable things indeed perish, because they are mere modifications, up to (i.e. exclusive of) the soul.
 </details>
@@ -3303,7 +3303,7 @@ All perishable things indeed perish, because they are mere modifications, up to 
 पुरुषो हि विनाश-हेत्व्-अभावाद् अविनाशी।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But the soul is imperishable [^fn_84],
 </details>
@@ -3318,7 +3318,7 @@ But the soul is imperishable [^fn_84],
 विक्रिया-हेत्व्-अभावाच् च कूटस्थ-नित्यः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 as there is no cause why it should perish; and eternally unchanging, as there is no cause for its undergoing any modification;
 </details>
@@ -3333,7 +3333,7 @@ as there is no cause why it should perish; and eternally unchanging, as there is
 अत एव नित्य-शुद्ध-बुद्ध-मुक्त-स्वभावः;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 hence it is in its essence eternally pure and free.
 </details>
@@ -3355,7 +3355,7 @@ hence it is in its essence eternally pure and free.
 इति चौपनिषदत्व-विशेषणं पुरुषस्योपनिषत्सु प्राधान्येन प्रकाश्यमानत्वय् उपपद्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And from passages, such as 'Beyond the soul there is nothing; this is the goal, the highest road' (Ka. Up. I, 3, 11), and 'That soul, taught in the Upanishads, I ask thee' (Br̥. Up. III, 9, 26), it appears that the attribute of resting on the Upanishads is properly given to the soul, as it constitutes their chief topic.
 </details>
@@ -3370,7 +3370,7 @@ And from passages, such as 'Beyond the soul there is nothing; this is the goal, 
 अतो भूत-वस्तु-परो वेद-भागो नास्तीति वचनं साहस-मात्रम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To say, therefore, that there is no portion of the Veda referring to existing things, is a mere bold assertion.
 </details>
@@ -3399,7 +3399,7 @@ To say, therefore, that there is no portion of the Veda referring to existing th
 विधि-प्रतिषेध-शास्त्राभिप्रायं द्रष्टव्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 With regard to the quotations made of the views of men acquainted with the purport of the Śāstra (who alone were stated to have declared that the Veda treats of actions) it is to be understood that they, having to do with the enquiry into duty, refer to that part of the Śāstra which consists of injunctions and prohibitions.
 </details>
@@ -3421,7 +3421,7 @@ With regard to the quotations made of the views of men acquainted with the purpo
 इत्य्-एतद् एकान्तेनाभ्युपगच्छतां भूतोपदेशानर्थक्य-प्रसङ्गः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 With regard to the other passage quoted ('as action is the purport of the Veda, whatever does not refer to action is purportless') we remark that if that passage were taken in an absolutely strict sense (when it would mean that only those words which denote action have a meaning), it would follow that all information about existent things is meaningless [^fn_85].
 </details>
@@ -3437,7 +3437,7 @@ With regard to the other passage quoted ('as action is the purport of the Veda, 
 कूटस्थ-नित्यं भूतं नोपदिशतीति को हेतुः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, on the other hand, the Veda--in addition to the injunctions of activity and cessation of activity--does give information about existent things as being subservient to some action to be accomplished, why then should it not give information also about the existent eternally unchangeable Self?
 </details>
@@ -3452,7 +3452,7 @@ If, on the other hand, the Veda--in addition to the injunctions of activity and 
 न हि भूतम् उपदिश्यमानं क्रिया भवति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For an existent thing, about which information is given, does not become an act (through being stated to be subservient to an act).
 </details>
@@ -3484,7 +3484,7 @@ For an existent thing, about which information is given, does not become an act 
 इति चेत् , नैष दोषः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, it will be said, although existent things are not acts, yet, as they are instrumental to action, the information given about such things is merely subservient to action. This, we reply, does not matter;
 </details>
@@ -3500,7 +3500,7 @@ But, it will be said, although existent things are not acts, yet, as they are in
 क्रिया-निर्वर्तन-शक्तिमद् वस्तूपदिष्टम् एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for although the information may be subservient to action, the things themselves about which information is given are already intimated thereby as things which have the power of bringing about certain actions.
 </details>
@@ -3515,7 +3515,7 @@ for although the information may be subservient to action, the things themselves
 क्रियार्थत्वं तु प्रयोजनं तस्य।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Their final end (prayojana) indeed may be subserviency to some action,
 </details>
@@ -3530,7 +3530,7 @@ Their final end (prayojana) indeed may be subserviency to some action,
 न चैतावता वस्त्व् अनुपदिष्टं भवति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but thereby they do not cease to be, in the information given about them, intimated in themselves.
 </details>
@@ -3550,7 +3550,7 @@ but thereby they do not cease to be, in the information given about them, intima
 तथैव भवितुम् अर्हति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Well, and if they are thus intimated, what is gained thereby for your purpose [^fn_86]? We reply that the information about the Self, which is an existing thing not comprehended from other sources, is of the same nature (as the information about other existent things);
 </details>
@@ -3566,7 +3566,7 @@ Well, and if they are thus intimated, what is gained thereby for your purpose [^
 इत्य्-अविशिष्टम् अर्थवत्त्वं क्रिया-साधन-वस्तूपदेशेन।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for by the comprehension of the Self a stop is put to all false knowledge, which is the cause of transmigration, and thus a purpose is established which renders the passages relative to Brahman equal to those passages which give information about things instrumental to actions.
 </details>
@@ -3591,7 +3591,7 @@ for by the comprehension of the Self a stop is put to all false knowledge, which
 अपि च ‘ब्राह्मणो न हन्तव्यः’ इति चैवम्-आद्या निवृत्तिर् उपदिश्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, there are found (even in that part of the Veda which treats of actions) such passages as 'a Brāhmaṇa is not to be killed,' which teach abstinence from certain actions.
 </details>
@@ -3606,7 +3606,7 @@ Moreover, there are found (even in that part of the Veda which treats of actions
 न च सा क्रिया।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now abstinence from action is neither action
 </details>
@@ -3621,7 +3621,7 @@ Now abstinence from action is neither action
 नापि क्रिया-साधनम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 nor instrumental to action.
 </details>
@@ -3637,7 +3637,7 @@ nor instrumental to action.
 ‘ब्राह्मणो न हन्तव्यः’ इत्य्-आदि-निवृत्त्य्-उपदेशानाम् आनर्थक्यं प्राप्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, therefore, the tenet that all those passages which do not express action are devoid of purport were insisted on, it would follow that all such passages as the one quoted, which teach abstinence from action, are devoid of purport--
 </details>
@@ -3652,7 +3652,7 @@ If, therefore, the tenet that all those passages which do not express action are
 तच् चानिष्टम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 a consequence which is of course unacceptable.
 </details>
@@ -3669,7 +3669,7 @@ a consequence which is of course unacceptable.
 हनन-क्रिया-निवृत्त्य्- -औदासीन्य-व्यतिरेकेण।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor, again, can the connexion in which the word 'not' stands with the action expressed by the verb 'is to be killed'--which action is naturally established [fn_87] -- be used as a reason for assuming that 'not' denotes an action non-established elsewhere [fn_88], different from the state of mere passivity implied in the abstinence from the act of killing.
 </details>
@@ -3693,7 +3693,7 @@ Nor, again, can the connexion in which the word 'not' stands with the action exp
 यत् स्व-सम्बन्धिनो ऽभावं बोधयतीति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the peculiar function of the particle 'not' is to intimate the idea of the non-existence of that with which it is connected,
 </details>
@@ -3708,7 +3708,7 @@ For the peculiar function of the particle 'not' is to intimate the idea of the n
 अभाव-बुद्धिश् चौदासीन्य-कारणम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the conception of the non-existence (of something to be done) is the cause of the state of passivity.
 </details>
@@ -3723,7 +3723,7 @@ and the conception of the non-existence (of something to be done) is the cause o
 सा च दग्धेन्धनाग्निवत् स्वयम् एवोपशाम्यति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 (Nor can it be objected that, as soon as that momentary idea has passed away, the state of passivity will again make room for activity; for) that idea itself passes away (only after having completely destroyed the natural impulse prompting to the murder of a Brāhmaṇa, &c., just as a fire is extinguished only after having completely consumed its fuel.
 </details>
@@ -3740,7 +3740,7 @@ and the conception of the non-existence (of something to be done) is the cause o
 अन्यत्र +++(निषेध-युक्त-)+++प्रजापति-व्रतादिभ्यः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence we are of opinion that the aim of prohibitory passages, such as 'a Brāhmaṇa is not to be killed, 'is a merely passive state, consisting in the abstinence from some possible action; excepting some special cases, such as the so-called Prajāpati-vow, &c. [^fn_89]
 </details>
@@ -3768,7 +3768,7 @@ Special cases only are excepted, as the one alluded to in the text where certain
 तस्मात् पुरुषार्थानुपयोग्य्-उपाख्यानादि- -भूतार्थवाद-विषयम् आनर्थक्याभिधानं +++(पूर्वदर्शितं मीमांसोक्तं)+++ द्रष्टव्यम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence the charge of want of purpose is to be considered as referring (not to the Vedānta-passages, but only) to such statements about existent things as are of the nature of legends and the like, and do not serve any purpose of man.
 </details>
@@ -3801,7 +3801,7 @@ Hence the charge of want of purpose is to be considered as referring (not to the
 तत् परिहृतम् –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The allegation that a mere statement about an actually existent thing not connected with an injunction of something to be done, is purposeless (as, for instance, the statement that the earth contains seven dvīpas) has already been refuted
 </details>
@@ -3817,7 +3817,7 @@ The allegation that a mere statement about an actually existent thing not connec
 इति वस्तु-मात्र-कथने ऽपि प्रयोजनस्य दृष्टत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 on the ground that a purpose is seen to exist in some such statements, as, for instance, 'this is not a snake, but a rope.'
 </details>
@@ -3838,7 +3838,7 @@ on the ground that a purpose is seen to exist in some such statements, as, for i
 इत्य् उक्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But how about the objection raised above that the information about Brahman cannot be held to have a purpose in the same way as the statement about a rope has one, because a man even after having heard about Brahman continues to belong to this transmigratory world?
 </details>
@@ -3863,7 +3863,7 @@ But how about the objection raised above that the information about Brahman cann
 वेद-प्रमाण-जनित-ब्रह्मात्म-भाव-विरोधात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We reply as follows: It is impossible to show that a man who has once understood Brahman to be the Self, belongs to the transmigratory world in the same sense as he did before, because that would be contrary to the fact of his being Brahman.
 </details>
@@ -3894,7 +3894,7 @@ We reply as follows: It is impossible to show that a man who has once understood
 इति शक्यं कल्पयितुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For we indeed observe that a person who imagines the body, and so on, to constitute the Self, is subject to fear and pain, but we have no right to assume that the same person after having, by means of the Veda, comprehended Brahman to be the Self, and thus having got over his former imaginings, will still in the same manner be subject to pain and fear whose cause is wrong knowledge.
 </details>
@@ -3913,7 +3913,7 @@ For we indeed observe that a person who imagines the body, and so on, to constit
 तद् एव धनापहार-निमित्तं दुःखं भवति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the same way we see that a rich householder, puffed up by the conceit of his wealth, is grieved when his possessions are taken from him; but we do not see that the loss of his wealth equally grieves him after he has once retired from the world and put off the conceit of his riches.
 </details>
@@ -3931,7 +3931,7 @@ In the same way we see that a rich householder, puffed up by the conceit of his 
 तद् एव कुण्डलित्वाभिमान-निमित्तं सुखं भवति। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And, again, we see that a person possessing a pair of beautiful earrings derives pleasure from the proud conceit of ownership; but after he has lost the earrings and the conceit established thereon, the pleasure derived from them vanishes.
 </details>
@@ -3952,7 +3952,7 @@ And, again, we see that a person possessing a pair of beautiful earrings derives
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Thus Sruti also declares, 'When he is free from the body, then neither pleasure nor pain touches him' (Cḥ. Up. VIII, 12, 1).
 </details>
@@ -3978,7 +3978,7 @@ Thus Sruti also declares, 'When he is free from the body, then neither pleasure 
 सशरीरत्वस्य मिथ्या-ज्ञान-निमित्तत्वात्। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If it should be objected that the condition of being free from the body follows on death only, we demur, since the cause of man being joined to the body is wrong knowledge.
 </details>
@@ -3994,7 +3994,7 @@ If it should be objected that the condition of being free from the body follows 
 अन्यतः स-शरीरत्वं शक्यं कल्पयितुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For it is not possible to establish the state of embodiedness upon anything else but wrong knowledge.
 </details>
@@ -4010,7 +4010,7 @@ For it is not possible to establish the state of embodiedness upon anything else
 इत्य् अवोचाम।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that the state of disembodiedness is eternal on account of its not having actions for its cause, we have already explained.
 </details>
@@ -4031,7 +4031,7 @@ And that the state of disembodiedness is eternal on account of its not having ac
 इति चेत् , न —
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The objection again, that embodiedness is caused by the merit and demerit effected by the Self (and therefore real), we refute by remarking that
 </details>
@@ -4050,7 +4050,7 @@ The objection again, that embodiedness is caused by the merit and demerit effect
 अन्ध-परम्परैषा अनादित्व-कल्पना ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 as the (reality of the) conjunction of the Self with the body is itself not established, the circumstance of merit and demerit being due to the action of the Self is likewise not established; for (if we should try to get over this difficulty by representing the Self's embodiedness as caused by merit and demerit) we should commit the logical fault of making embodiedness dependent on merit and demerit, and again merit and demerit on embodiedness. And the assumption of an endless retrogressive chain (of embodied states and merit and demerit) would be no better than a chain of blind men (who are unable to lead one another).
 </details>
@@ -4080,7 +4080,7 @@ as the (reality of the) conjunction of the Self with the body is itself not esta
 आत्मनः कर्तृत्वानुपपत्तेः +++(नात्म-कृत-धर्माधर्म-निमित्तं स-शरीरत्वम्)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, the Self can impossibly become an agent, as it cannot enter into intimate relation to actions.
 </details>
@@ -4097,7 +4097,7 @@ Moreover, the Self can impossibly become an agent, as it cannot enter into intim
 इति चेत् , न।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If it should be said that the Self may be considered as an agent in the same way as kings and other great people are (who without acting themselves make others act) by their mere presence, we deny the appositeness of this instance;
 </details>
@@ -4113,7 +4113,7 @@ If it should be said that the Self may be considered as an agent in the same way
 तेषां कर्तृत्वोपपत्तेः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for kings may become agents through their relation to servants whom they procure by giving them wages, &c.,
 </details>
@@ -4129,7 +4129,7 @@ for kings may become agents through their relation to servants whom they procure
 शरीरादिभिः स्व-स्वामि-भाव-सम्बन्ध-निमित्तं किञ्चिच् छक्यं कल्पयितुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 while it is impossible to imagine anything, analogous to money, which could be the cause of a connexion between the Self as lord and the body, and so on (as servants).
 </details>
@@ -4144,7 +4144,7 @@ while it is impossible to imagine anything, analogous to money, which could be t
 मिथ्याभिमानस् तु प्रत्यक्षः सम्बन्ध-हेतुः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Wrong imagination, on the other hand, (of the individual Self, considering itself to be joined to the body,) is a manifest reason of the connexion of the two (which is not based on any assumption).
 </details>
@@ -4159,7 +4159,7 @@ Wrong imagination, on the other hand, (of the individual Self, considering itsel
 एतेन यजमानत्वम् आत्मनो व्याख्यातम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This explains also in how far the Self can be considered as the agent in sacrifices and similar acts [^fn_90].
 </details>
@@ -4192,7 +4192,7 @@ The Self is the agent in a sacrifice, &c. only in so far as it imagines itself t
 इति चेत् , न –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here it is objected that the Self's imagination as to the body, and so on, belonging to itself is not false, but is to be understood in a derived (figurative) sense. This objection we invalidate by the remark that
 </details>
@@ -4209,7 +4209,7 @@ Here it is objected that the Self's imagination as to the body, and so on, belon
 प्रसिद्ध-+++(देहाभिमानादि-)+++वस्तु-भेदस्य गौणत्व-मुख्यत्व-प्रसिद्धेः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the distinction of derived and primary senses of words is known to be applicable only where an actual difference of things is known to exist.
 </details>
@@ -4229,7 +4229,7 @@ the distinction of derived and primary senses of words is known to be applicable
 तस्य पुरुषे सिंह-शब्द-प्रत्ययौ गौणौ भवतः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We are, for instance, acquainted with a certain species of animals having a mane, and so on, which is the exclusive primary object of the idea and word 'lion,' and we are likewise acquainted with persons possessing in an eminent degree certain leonine qualities, such as fierceness, courage, &c.; here, a well settled difference of objects existing, the idea and the name 'lion' are applied to those persons in a derived or figurative sense.
 </details>
@@ -4246,7 +4246,7 @@ We are, for instance, acquainted with a certain species of animals having a mane
 नाप्रसिद्ध-वस्तु-भेदस्य।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In those cases, however, where the difference of the objects is not well established, the transfer of the conception and name of the one to the other is not figurative,
 </details>
@@ -4263,7 +4263,7 @@ In those cases, however, where the difference of the objects is not well establi
 तस्य त्व् अन्यत्रान्य-शब्द-प्रत्ययौ भ्रान्ति-निमित्तावेव भवतः, न गौणौ ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but simply founded on error.
 </details>
@@ -4289,7 +4289,7 @@ but simply founded on error.
 कथं गौणौ शक्यौ वदितुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Such is, for instance, the case of a man who at the time of twilight does not discern that the object before him is a post, and applies to it the conception and designation of a man; such is likewise the case of the conception and designation of silver being applied to a shell of mother-of-pearl somehow mistaken for silver. How then can it be maintained that the application of the word and the conception of the Ego to the body, &c., which application is due to the non-discrimination of the Self and the Not-Self, is figurative (rather than simply false)?
 </details>
@@ -4308,7 +4308,7 @@ Such is, for instance, the case of a man who at the time of twilight does not di
 अविविक्तौ शब्द-प्रत्ययौ भवतः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 considering that even learned men who know the difference of the Self and the Not-Self confound the words and ideas just as common shepherds and goatherds do.
 </details>
@@ -4326,7 +4326,7 @@ considering that even learned men who know the difference of the Self and the No
 देहादाव् अहं-प्रत्ययो मिथ्यैव, न गौणः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As therefore the application of the conception of the Ego to the body on the part of those who affirm the existence of a Self different from the body is simply false, not figurative,
 </details>
@@ -4352,7 +4352,7 @@ As therefore the application of the conception of the Ego to the body on the par
 सिद्धं जीवतो ऽपि विदुषो ऽशरीरत्वम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 it follows that the embodiedness of the Self is (not real but) caused by wrong conception, and hence that the person who has reached true knowledge is free from his body even while still alive.
 </details>
@@ -4384,7 +4384,7 @@ it follows that the embodiedness of the Self is (not real but) caused by wrong c
 इति च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The same is declared in the Śruti passages concerning him who knows Brahman: 'And as the slough of a snake lies on an ant-hill, dead and cast away, thus lies this body; but that disembodied immortal spirit is Brahman only, is only light' (Br̥. Up. IV, 4, 7); and 'With eyes he is without eyes as it were, with ears without ears as it were, with speech without speech as it were, with a mind without mind as it were, with vital airs without vital airs as it were.'
 </details>
@@ -4406,7 +4406,7 @@ The same is declared in the Śruti passages concerning him who knows Brahman: 'A
 विदुषः सर्व-प्रवृत्त्य्-असम्बन्धं दर्शयति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Smr̥ti also, in the passage where the characteristic marks are enumerated of one whose mind is steady (Bha. Gītā II, 54), declares that he who knows is no longer connected with action of any kind.
 </details>
@@ -4426,7 +4426,7 @@ Smr̥ti also, in the passage where the characteristic marks are enumerated of on
 यथा-पूर्वम् संसारित्वम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Therefore the man who has once comprehended Brahman to be the Self, does not belong to this transmigratory world as he did before.
 </details>
@@ -4444,7 +4444,7 @@ Therefore the man who has once comprehended Brahman to be the Self, does not bel
 नासाव् अवगत-ब्रह्मात्म-भाव इत्य् अनवद्यम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 He, on the other hand, who still belongs to this transmigratory world as before, has not comprehended Brahman to be the Self. Thus there remain no unsolved contradictions.
 </details>
@@ -4472,7 +4472,7 @@ He, on the other hand, who still belongs to this transmigratory world as before,
 इति, तन् न –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 With reference again to the assertion that Brahman is not fully determined in its own nature, but stands in a complementary relation to injunctions, because the hearing about Brahman is to be followed by consideration and reflection, we remark that
 </details>
@@ -4489,7 +4489,7 @@ With reference again to the assertion that Brahman is not fully determined in it
 श्रवणवद् अवगत्य्-अर्थत्वान् मनन-निदिध्यासनयोः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 consideration and reflection are themselves merely subservient to the comprehension of Brahman.
 </details>
@@ -4507,7 +4507,7 @@ consideration and reflection are themselves merely subservient to the comprehens
 भवेत् तदा विधि-शेषत्वम्।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If Brahman, after having been comprehended, stood in a subordinate relation to some injunctions, it might be said to be merely supplementary.
 </details>
@@ -4526,7 +4526,7 @@ If Brahman, after having been comprehended, stood in a subordinate relation to s
 श्रवणवद् अवगत्य्-अर्थत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But this is not the case, since consideration and reflection no less than hearing are subservient to comprehension.
 </details>
@@ -4545,7 +4545,7 @@ But this is not the case, since consideration and reflection no less than hearin
 वेदान्त-वाक्य-समन्वयाद् इति सिद्धम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It follows that the Śāstra cannot be the means of knowing Brahman only in so far as it is connected with injunctions, and the doctrine that on account of the uniform meaning of the Vedānta-texts, an independent Brahman is to be admitted, is thereby fully established.
 </details>
@@ -4576,7 +4576,7 @@ It follows that the Śāstra cannot be the means of knowing Brahman only in so f
 इति तद्-विषयः पृथक्-शास्त्रारम्भ उपपद्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence there is room for beginning the new Śāstra indicated in the first Sūtra, 'Then therefore the enquiry into Brahman.'
 </details>
@@ -4601,7 +4601,7 @@ Hence there is room for beginning the new Śāstra indicated in the first Sūtra
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, on the other hand, the Vedānta-texts were connected with injunctions, a new Śāstra would either not be begun at all, since the Śāstra concerned with injunctions has already been introduced by means of the first Sūtra of the Pūrva Mīmāṁsā, 'Then therefore the enquiry into duty;'
 </details>
@@ -4620,7 +4620,7 @@ If, on the other hand, the Vedānta-texts were connected with injunctions, a new
 ‘अथातः क्रत्वर्थ-पुरुषार्थयोर् जिज्ञासा’ (जै. सू. ४। १। १) इति-वत्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 or if it were begun it would be introduced as follows: 'Then therefore the enquiry into the remaining duties;' just as a new portion of the Pūrva Mīmāṁsā Sūtras is introduced with the words, 'Then therefore the enquiry into what subserves the purpose of the sacrifice, and what subserves the purpose of man' (Pū. Mī. Sū. IV, 1, 1).
 </details>
@@ -4639,7 +4639,7 @@ or if it were begun it would be introduced as follows: 'Then therefore the enqui
 ‘अथातो ब्रह्म-जिज्ञासा’ इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But as the comprehension of the unity of Brahman and the Self has not been propounded (in the previous Śāstra), it is quite appropriate that a new Śāstra, whose subject is Brahman, should be entered upon.
 </details>
@@ -4658,7 +4658,7 @@ But as the comprehension of the unity of Brahman and the Self has not been propo
 सर्वे विधयः, सर्वाणि चेतराणि प्रमाणानि –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence all injunctions and all other means of knowledge end with the cognition expressed in the words, 'I am Brahman;'
 </details>
@@ -4685,7 +4685,7 @@ Hence all injunctions and all other means of knowledge end with the cognition ex
 निर्विषयाण्य् अ-प्रमातृकाणि च प्रमाणानि भवितुम् अर्हन्तीति। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for as soon as there supervenes the comprehension of the non-dual Self, which is not either something to be eschewed or something to be appropriated, all objects and knowing agents vanish, and hence there can no longer be means of proof.
 </details>
@@ -4717,7 +4717,7 @@ for as soon as there supervenes the comprehension of the non-dual Self, which is
 इति ॥ ४ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In accordance with this, they (i.e. men knowing Brahman) have made the following declaration:--
 
@@ -4749,7 +4749,7 @@ so all the ordinary sources of knowledge (perception and the like) are valid onl
 तळ्ळमुडियाद ऎडुक्कमुडियाद इरण्डावदऱ्ऱ आत्मावै अऱिन्दबिऩ् पिरमाणङ्गळ् विषयमऱ्ऱदाय्, अऱिगिऩ्ऱवऩऱ्ऱदाय् आय्विडुवदाल् अवैगळ् पिरमाणङ्गळागवे आवदिल्लै। मेलुम् “(नाऩ् पुत्तिरऩ् ऎऩ्ऱु) कौणमायुम् (नाऩ् तेहम् ऎऩ्ऱु) मित्यैयायुमुळ्ळ आत्माविऱ्कु इल्लामैयॆऩ्ऱाल्, पुत्तिरऩ् तेहम् मुदलियदु पादिक्कप्पट्टु विडुवदाल्, ऎप्पॊऴुदुम् उळ्ळ पिरह्म स्वरूबमे नाऩ् ऎऩ्ऱु इव्विदञाऩम् एऱ्पडुम्बोदु, सॆय्यवेण्डियदु ऎऩ्ऱु ऎप्पडि इरुक्कुम्? तेडवेण्डियदाऩ आत्मावै अऱिवदऱ्कु मुऩ्ऩाल् तऩक्कु अऱिगिऱवऩॆऩ्ऱ तऩ्मैयुण्डु। तेडियडैन्दु विट्टाल् अऱिगिऱवऩे पाबम् तोषम् मुदलाऩदु अऱ्ऱवऩाग आगिविडुवाऩ्। तेहमे आत्मा ऎऩ्ऱ ऎण्णम् ऎप्पडि पिरमाणमाग कल्बिक्कप्पट्टिरुक्किऱदो, अदैप्पोलवे उलग रीदियाय् इन्द पिरमाणमुम्, आत्मा निच्चयमाग अऱियप्पडुंवरै उण्डु (व्यवहारत्तिऱ्काग कल्बिक्कप्पट्टिरुक्किऱदु)” ऎऩ्ऱु सॊल्गिऱार्गळ्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 (Herewith the section comprising the four Sūtras is finished.)
 </details>

@@ -2937,7 +2937,7 @@ We therefore must conclude that the affix maya, in the word ānandamaya, does no
 सूत्राणि त्व् एवं व्याख्येयानि —  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Sūtras are therefore to be explained as follows.
 </details>

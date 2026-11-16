@@ -193,7 +193,7 @@ title = "०६ आरम्भणाधिकरणम्"
 पानावगाहनादि-प्रयोजनं क्रियत इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But how (to restate an objection raised above) can the Vedānta-texts if untrue convey information about the true being of Brahman? We certainly do not observe that a man bitten by a rope-snake (i.e. a snake falsely imagined in a rope) dies, nor is the water appearing in a mirage used for drinking or bathing [^fn_286].
 
@@ -212,7 +212,7 @@ title = "०६ आरम्भणाधिकरणम्"
 स्वप्न-दर्शनावस्थस्य च सर्प-दंशनोदक-स्नानादि-कार्य-दर्शनात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This objection, we reply, is without force  
 (because as a matter of fact  
@@ -236,7 +236,7 @@ and effects (of what is perceived in a dream) such as the bite of a snake or bat
 तथा ऽपि तद्-अवगतिः सत्यम् एव फलम् , प्रतिबुद्धस्याप्य् अबाध्यमानत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But, it will be said, these effects themselves are unreal!
 
@@ -259,7 +259,7 @@ for it is not sublated by the waking consciousness.
 तद्-अवगतिम् अपि मिथ्येति मन्यते कश्चित्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The man who has risen from sleep  
 does indeed consider the effects perceived by him in his dream  
@@ -278,7 +278,7 @@ consider the consciousness he had of them to be unreal likewise.
 एतेन स्वप्न-दृशो ऽवगत्य्-अबाधनेन देहमात्रात्म-वादो दूषितो वेदितव्यः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --(We remark in passing that) by this fact of the consciousness of the dreaming person not being sublated (by the waking consciousness) the doctrine of the body being our true Self is to be 'considered as refuted.
 
@@ -317,7 +317,7 @@ tad-rūpasyātmano dehadvayātireka-siddher dehātrātmavādo na yukta ity artha
 सत्यायाः समृद्धेः प्रतिपत्तिं दर्शयति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Scripture also (in the passage, 'If a man who is engaged in some sacrifice undertaken for some special wish sees in his dream a woman, he is to infer therefrom success in his work') declares that by the unreal phantom of a dream a real result such as prosperity may be obtained. 
 </details>
@@ -344,7 +344,7 @@ tad-rūpasyātmano dehadvayātireka-siddher dehātrātmavādo na yukta ity artha
 इत्यादिना तेन तेनासत्येनैव स्वप्न-दर्शनेन सूच्यत इति दर्शयति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And, again, another scriptural passage, after having declared that from the observation of certain unfavourable omens a man is to conclude that he will not live long, continues 'if somebody sees in his dream a black man with black teeth and that man kills him,' intimating thereby that by the unreal dream-phantom a real fact, viz. death, is notified.--
 </details>
@@ -360,7 +360,7 @@ And, again, another scriptural passage, after having declared that from the obse
 ईदृशेन स्वप्न-दर्शनेन साध्व्-आगमः सूच्यते, ईदृशेनासाध्व्-आगम इति।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is, moreover, known from the experience of persons who carefully observe positive and negative instances that such and such dreams are auspicious omens, others the reverse. 
 </details>
@@ -376,7 +376,7 @@ It is, moreover, known from the experience of persons who carefully observe posi
 रेखानृताक्षर-प्रतिपत्तेः ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And (to quote another example that something true can result from or be known through something untrue) we see that the knowledge of the real sounds A. &c. is reached by means of the unreal written letters. 
 </details>
@@ -398,7 +398,7 @@ And (to quote another example that something true can result from or be known th
 नातःपरं किञ्चिद् आकाङ्क्ष्यम् अस्ति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, the reasons which establish the unity of the Self are altogether final, so that subsequently to them nothing more is required for full satisfaction. 
 
@@ -422,7 +422,7 @@ and there remains no longer any reason for qualifying in any way the absolute un
 किं केन कथम् इत्य् आकाङ्क्ष्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 An injunction as, for instance, 'He is to sacrifice' at once renders us desirous of knowing what is to be effected, and by what means and in what manner it is to be effected; 
 </details>
@@ -438,7 +438,7 @@ An injunction as, for instance, 'He is to sacrifice' at once renders us desirous
 किञ्चिद् अन्यद् आकाङ्क्ष्यम् अस्ति — सर्वात्मैकत्व-विषयत्वावगतेः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but passages such as, 'Thou art that,' 'I am Brahman,' leave nothing to be desired because the state of consciousness produced by them has for its object the unity of the universal Self. 
 </details>
@@ -454,7 +454,7 @@ but passages such as, 'Thou art that,' 'I am Brahman,' leave nothing to be desir
 आकाङ्क्षा स्यात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For as long as something else remains a desire is possible; 
 </details>
@@ -469,7 +469,7 @@ For as long as something else remains a desire is possible;
 न त्व् आत्मैकत्व-व्यतिरेकेणावशिष्यमाणो ऽन्यो ऽर्थोऽस्ति, य आकाङ्क्ष्येत। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but there is nothing else which could be desired in addition to the absolute unity of Brahman. 
 </details>
@@ -488,7 +488,7 @@ but there is nothing else which could be desired in addition to the absolute uni
 वेदानुवचनादीनां च विधानात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it be maintained that such states of consciousness do not actually arise; for scriptural passages such as, 'He understood what he said' (Cḥ. Up. VII, 18, 2), declare them to occur,  
 
@@ -519,7 +519,7 @@ and certain means are enjoined to bring them about, such as the hearing (of the 
 अविद्या-निवृत्ति-फल-दर्शनात् , बाधक-ज्ञानान्तराभावाच् च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor, again, can such consciousness be objected to on the ground either of uselessness or of erroneousness, because,  
 firstly, it is seen to have for its result the cessation of ignorance,  
@@ -540,7 +540,7 @@ and because, secondly, there is no other kind of knowledge by which it could be 
 सर्वः सत्यानृत-व्यवहारो लौकिको वैदिकश् चेत्य् अवोचाम। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that before the knowledge of the unity of the Self has been reached  
 the whole real-unreal course of ordinary life, worldly as well as religious, goes on unimpeded,  
@@ -558,7 +558,7 @@ we have already explained.
 प्रतिपादिते आत्मैकत्वे   
 समस्तस्य प्राचीनस्य भेद-व्यवहारस्य बाधितत्वात्  
 न अनेकात्मक-ब्रह्म-कल्पनावकाशोऽस्ति। 
-</details><summary>English</summary>
+</details><summary>Thibaut</summary>
 
 When, however, final authority having intimated the unity of the Self, the entire course of the world which was founded on the previous distinction is sublated, then there is no longer any opportunity for assuming a Brahman comprising in itself various elements.
 

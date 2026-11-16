@@ -185,7 +185,7 @@ title = "०४ अन्तराधिकरणम्"
 अनवस्थितेर् असम्भवाच् च नेतरः ॥ १७ ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 17. (The person within the eye is the highest), not any other Self; on account of the non-permanency (of the other Selfs) and on account of the impossibility (of the qualities of the person in the eye being ascribed to the other Selfs).
 </details>
@@ -212,7 +212,7 @@ title = "०४ अन्तराधिकरणम्"
 इति, अत्रोच्यते — 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To the assertion made in the pūrvapaksha that  
 
@@ -235,7 +235,7 @@ the following answer is given.
 न च्छायात्मादिरितर इह ग्रहणमर्हति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 No other Self such as, for instance, the reflected Self can be assumed here, 
 </details>
@@ -252,7 +252,7 @@ No other Self such as, for instance, the reflected Self can be assumed here,
 कस्मात् ? अनवस्थितेः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 on account of non-permanency.
 </details>
@@ -271,7 +271,7 @@ on account of non-permanency.
 नित्यम् अवस्थानं सम्भवति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The reflected Self, in the first place, does not permanently abide in the eye. 
 </details>
@@ -288,7 +288,7 @@ The reflected Self, in the first place, does not permanently abide in the eye.
 तदा चक्षुषि पुरुषच्छाया दृश्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For when some person approaches the eye the reflection of that person is seen in the eye, 
 </details>
@@ -305,7 +305,7 @@ For when some person approaches the eye the reflection of that person is seen in
 अपगते तस्मिन्न दृश्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but when the person moves away the reflection is seen no longer. 
 </details>
@@ -323,7 +323,7 @@ but when the person moves away the reflection is seen no longer.
 सन्निधानात् स्व-चक्षुषि दृश्यमानं पुरुषम् उपास्यत्वेनोपदिशति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The passage 
 
@@ -352,7 +352,7 @@ the person seen in a man's own eye is the object of (that man's) devout meditati
 इति युक्तं कल्पयितुम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 [Let, then, another man approach the devout man,  
 and let the latter meditate on the image reflected in his own eye,  
@@ -377,7 +377,7 @@ we have no right to make the (complicated) assumption that the devout man is, at
 इति श्रुतिश् छायात्मनो ऽप्य् अनवस्थितत्वं दर्शयति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Scripture, moreover, (viz. Cḥ. Up. VIII, 9, 1, 'It (the reflected Self) perishes as soon as the body perishes,') declares the non-permanency of the reflected Self.
 </details>
@@ -394,7 +394,7 @@ Scripture, moreover, (viz. Cḥ. Up. VIII, 9, 1, 'It (the reflected Self) perish
 तस्मिन्न् अमृतत्वादीनां गुणानां न च्छायात्मनि प्रतीतिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And, further, 'on account of impossibility' (the person in the eye cannot be the reflected Self). For immortality and the other qualities ascribed to the person in the eye are not to be perceived in the reflected Self.
 </details>
@@ -418,7 +418,7 @@ And, further, 'on account of impossibility' (the person in the eye cannot be the
 न चक्षुष्य् एवावस्थितत्वं शक्यं वक्तुम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Of the cognitional Self, in the second place, which is in general connexion with the whole body and all the senses, it can likewise not be said that it has its permanent station in the eye only. 
 </details>
@@ -436,7 +436,7 @@ Of the cognitional Self, in the second place, which is in general connexion with
 हृदयादि-देश-विशेष-सम्बन्धः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That, on the other hand, Brahman although all-pervading may, for the purpose of contemplation, be spoken of as connected with particular places such as the heart and the like, we have seen already. 
 </details>
@@ -452,7 +452,7 @@ That, on the other hand, Brahman although all-pervading may, for the purpose of 
 समानश् च विज्ञानात्मन्य् अप्य् अमृतत्वादीनां गुणानाम् असम्भवः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The cognitional Self shares (with the reflected Self) the impossibility of having the qualities of immortality and so on attributed to it. 
 </details>
@@ -469,7 +469,7 @@ The cognitional Self shares (with the reflected Self) the impossibility of havin
 अमृतत्वाभयत्वे नोपपद्येते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Although the cognitional Self is in reality not different from the highest Self, still there are fictitiously ascribed to it (adhyāropita) the effects of nescience, desire and works, viz. mortality and fear; so that neither immortality nor fearlessness belongs to it. 
 </details>
@@ -484,7 +484,7 @@ Although the cognitional Self is in reality not different from the highest Self,
 संयद्वामत्वादयश् चैतस्मिन्न् अनैश्वर्याद् अनुपपन्ना एव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The qualities of being the saṁyadvāma, &c. also cannot properly be ascribed to the cognitional Self, which is not distinguished by lordly power (aiśvarya).
 </details>
@@ -514,7 +514,7 @@ The qualities of being the saṁyadvāma, &c. also cannot properly be ascribed t
 पराग्-रूपत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the third place, although the Self of a deity (viz. the sun) has its station in the eye--  
 according to the scriptural passage,  
@@ -534,7 +534,7 @@ still Selfhood cannot be ascribed to the sun, on account of his externality (par
 अमृतत्वादयोऽपि न सम्भवन्ति, उत्पत्तिप्रलयश्रवणात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Immortality, &c. also cannot be predicated of him, as Scripture speaks of his origin and his dissolution. 
 </details>
@@ -551,7 +551,7 @@ Immortality, &c. also cannot be predicated of him, as Scripture speaks of his or
 अमरत्वमपि देवानां चिरकालावस्थानापेक्षम्। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the (so-called) deathlessness of the gods only means their (comparatively) long existence. 
 </details>
@@ -567,7 +567,7 @@ For the (so-called) deathlessness of the gods only means their (comparatively) l
 ऐश्वर्यमपि परमेश्वरायत्तम् , न स्वाभाविकम्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And their lordly power also is based on the highest Lord and does not naturally belong to them; 
 </details>
@@ -590,7 +590,7 @@ And their lordly power also is based on the highest Lord and does not naturally 
 इति मन्त्रवर्णात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 as the mantra declares, 'From terror of it (Brahman) the wind blows, from terror the sun rises; from terror of it Agni and Indra, yea, Death runs as the fifth.'
 </details>
@@ -612,7 +612,7 @@ as the mantra declares, 'From terror of it (Brahman) the wind blows, from terror
 तस्मात्परमेश्वर एवायमक्षिस्थानः प्रत्येतव्यः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence the person in the eye must be viewed as the highest Lord only. 
 </details>
@@ -633,7 +633,7 @@ Hence the person in the eye must be viewed as the highest Lord only.
 इति व्याख्येयम् ॥ १७ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the case of this explanation being adopted the mention (of the person in the eye) as something well known and established,  
 which is contained in the words 'is seen' (in the phrase 'the person that is seen in the eye'),  

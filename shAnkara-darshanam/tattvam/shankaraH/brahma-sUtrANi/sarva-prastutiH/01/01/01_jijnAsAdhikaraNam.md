@@ -9,7 +9,7 @@ title = "०१ जिज्ञासाधिकरणम्"
 वेदान्तमीमांसाशास्त्रस्य व्याचिख्यासितस्येदमादिमं सूत्रम् —
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Of this Vedānta-mīmāṁsā about to be explained by us the first Sūtra is as follows.
 </details>
@@ -32,7 +32,7 @@ Of this Vedānta-mīmāṁsā about to be explained by us the first Sūtra is as
 अथातो ब्रह्मजिज्ञासा ॥ १ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 1. Then therefore the enquiry into Brahman.
 </details>
@@ -76,7 +76,7 @@ Of this Vedānta-mīmāṁsā about to be explained by us the first Sūtra is as
 नाधिकारार्थः, ब्रह्मजिज्ञासाया अनधिकार्यत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 
 The word 'then' is here to be taken as denoting immediate consecution;  
@@ -100,7 +100,7 @@ for the enquiry into Brahman (more literally, the desire of knowing Brahman) is 
 +++(तत्र अथशब्दः आनन्तर्यार्थः परिगृह्यते)+++ मङ्गलस्य च वाक्यार्थे समन्वयाभावात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 p. 10
 
@@ -120,7 +120,7 @@ for a word of that meaning could not be properly construed as a part of the sent
 अर्थान्तरप्रयुक्त एव ह्यथशब्दः श्रुत्या मङ्गलप्रयोजनो भवति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The word 'then' rather acts as an auspicious term by being pronounced and heard merely, while it denotes at the same time something else, viz. immediate consecution as said above. 
 </details>
@@ -137,7 +137,7 @@ The word 'then' rather acts as an auspicious term by being pronounced and heard 
 पूर्वप्रकृतापेक्षायाश् च फलत आनन्तर्याव्यतिरेकात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the latter is its meaning follows moreover from the circumstance that the relation in which the result stands to the previous topic (viewed as the cause of the result) is non-separate from the relation of immediate consecution [^fn_56].
 
@@ -168,7 +168,7 @@ That the latter is its meaning follows moreover from the circumstance that the r
 तद् वक्तव्यम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, then, the word 'then' intimates immediate consecution it must be explained on what antecedent the enquiry into Brahman specially depends; just as the enquiry into active religious duty (which forms the subject of the Pūrvā Mīmāṁsā) specially depends on the antecedent reading of the Veda. 
 </details>
@@ -184,7 +184,7 @@ If, then, the word 'then' intimates immediate consecution it must be explained o
 स्वाध्यायानन्तर्यं तु समानम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The reading of the Veda indeed is the common antecedent (for those who wish to enter on an enquiry into religious duty as well as for those desirous of knowing Brahman). 
 </details>
@@ -214,7 +214,7 @@ The reading of the Veda indeed is the common antecedent (for those who wish to e
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The special question with regard to the enquiry into Brahman is whether it presupposes as its antecedent the understanding of the acts of religious duty (which is acquired by means of the Pūrvā Mīmāṁsā). To this question we reply in the negative, because for a man who has read the Vedānta-parts of the Veda it is possible to enter on the enquiry into Brahman even before engaging in the enquiry into religious duty. 
 </details>
@@ -234,7 +234,7 @@ The special question with regard to the enquiry into Brahman is whether it presu
 न तथेह क्रमो विवक्षितः – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is it the purport of the word 'then' to indicate order of succession; a purport which it serves in other passages, as, for instance, in the one enjoining the cutting off of pieces from the heart and other [[11]] parts of the sacrificial animal. [^fn_57] 
 
@@ -252,7 +252,7 @@ Nor is it the purport of the word 'then' to indicate order of succession; a purp
 शेषशेषित्वे अधिकृताधिकारे वा प्रमाणाभावात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 (For the intimation of order of succession could be intended only if the agent in both cases were the same; but this is not the case), because there is no proof for assuming the enquiry into religious duty and the enquiry into Brahman to stand in the relation of principal and subordinate matter or the relation of qualification (for a certain act) on the part of the person qualified [^fn_58]; 
 
@@ -277,7 +277,7 @@ Nor is it the purport of the word 'then' to indicate order of succession; a purp
 धर्म-ब्रह्म-जिज्ञासयोः फल-जिज्ञास्य-भेदाच् च +++(न कर्मावबोधानन्तर्यम्)+++।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and because the result as well as the object of the enquiry differs in the two cases. 
 </details>
@@ -294,7 +294,7 @@ and because the result as well as the object of the enquiry differs in the two c
 तच् चानुष्ठानापेक्षम्;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The knowledge of active religious duty has for its fruit transitory felicity, and that again depends on the performance of religious acts.  
 </details>
@@ -312,7 +312,7 @@ The knowledge of active religious duty has for its fruit transitory felicity, an
 न चानुष्ठानान्तरापेक्षम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The enquiry into Brahman, on the other hand, has for its fruit eternal bliss,  
 and does not depend on the performance of any acts.
@@ -332,7 +332,7 @@ and does not depend on the performance of any acts.
 पुरुषव्यापारतन्त्रत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Acts of religious duty do not yet exist at the time when they are enquired into, but are something to be accomplished (in the future); for they depend on the activity of man. 
 </details>
@@ -349,7 +349,7 @@ Acts of religious duty do not yet exist at the time when they are enquired into,
 नित्यत्वान् न पुरुष-व्यापार-तन्त्रम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the Brahma-mīmāṁsā, on the other hand, the object of enquiry, i.e. Brahman, is something already accomplished (existent),--for it is eternal,--and does not depend on human energy. 
 </details>
@@ -377,7 +377,7 @@ In the Brahma-mīmāṁsā, on the other hand, the object of enquiry, i.e. Brahm
 चोदनाप्रवृत्तिभेदाच् च +++(न कर्मावबोधानन्तर्यम्)+++।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The two enquiries differ moreover in so far as the operation of their respective fundamental texts is concerned. 
 </details>
@@ -396,7 +396,7 @@ The two enquiries differ moreover in so far as the operation of their respective
 पुरुषम् अवबोधयति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the fundamental texts on which active religious duty depends convey information to man in so far only as they enjoin on him their own particular subjects (sacrifices, &c.); 
 </details>
@@ -413,7 +413,7 @@ For the fundamental texts on which active religious duty depends convey informat
 ब्रह्म-चोदना तु पुरुषम् अवबोधयत्य् एव केवलम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 while the fundamental texts about Brahman merely instruct man, without laying on him the injunction of being instructed, 
 </details>
@@ -430,7 +430,7 @@ while the fundamental texts about Brahman merely instruct man, without laying on
 न पुरुषोऽवबोधे नियुज्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 instruction being their immediate result. 
 </details>
@@ -448,7 +448,7 @@ instruction being their immediate result.
 तद्वत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The case is analogous to that of the information regarding objects of sense which ensues as soon as the objects are approximated to the senses. 
 </details>
@@ -472,7 +472,7 @@ The case is analogous to that of the information regarding objects of sense whic
 यदनन्तरं ब्रह्मजिज्ञासोपदिश्यत इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It therefore is requisite that something should be [[12]] stated subsequent to which the enquiry into Brahman is proposed.
 </details>
@@ -488,7 +488,7 @@ It therefore is requisite that something should be [[12]] stated subsequent to w
 उच्यते — नित्यानित्यवस्तुविवेकः, इहामुत्रार्थफलभोगविरागः, शमदमादि-साधन-सम्पत् , मुमुक्षुत्वं च। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Well, then, we maintain that the antecedent conditions are the discrimination of what is eternal and what is non-eternal; the renunciation of all desire to enjoy the fruit (of one's actions) both here and hereafter; the acquirement of tranquillity, self-restraint, and the other means [^fn_59], and the desire of final release. 
 
@@ -509,7 +509,7 @@ Well, then, we maintain that the antecedent conditions are the discrimination of
 न विपर्यये।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If these conditions exist, a man may, either before entering on an enquiry into active religious duty or after that, engage in the enquiry into Brahman and come to know it; but not otherwise. 
 </details>
@@ -526,7 +526,7 @@ If these conditions exist, a man may, either before entering on an enquiry into 
 तस्मात् अथशब्देन यथोक्त-साधनसम्पत्त्य्-आनन्तर्यम् उपदिश्यते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The word 'then' therefore intimates that the enquiry into Brahman is subsequent to the acquisition of the above-mentioned (spiritual) means.
 </details>
@@ -561,7 +561,7 @@ The word 'then' therefore intimates that the enquiry into Brahman is subsequent 
 अतःशब्दः हेत्वर्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The word 'therefore' intimates a reason. 
 </details>
@@ -579,7 +579,7 @@ The word 'therefore' intimates a reason.
 अनित्यफलतां दर्शयति — 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Because the Veda, while declaring that the fruit of the agnihotra and similar performances which are means of happiness is non-eternal 
 </details>
@@ -599,7 +599,7 @@ Because the Veda, while declaring that the fruit of the agnihotra and similar pe
 इत्यादिः; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 (as, for instance. _Kh._ Up. VIII, 1, 6, 'As here on earth whatever has been acquired by action perishes so perishes in the next world whatever is acquired by acts of religious duty'), 
 </details>
@@ -615,7 +615,7 @@ Because the Veda, while declaring that the fruit of the agnihotra and similar pe
 तथा ब्रह्मविज्ञानादपि परं पुरुषार्थं दर्शयति — 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 teaches at the same time that the highest aim of man is realised by the knowledge of Brahman 
 </details>
@@ -631,7 +631,7 @@ teaches at the same time that the highest aim of man is realised by the knowledg
 ‘ब्रह्मविदाप्नोति परम्’ (तै. उ. २। १। १) इत्यादिः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 (as, for instance, Taitt. Up. II, I, 'He who knows Brahman attains the highest'); 
 </details>
@@ -648,7 +648,7 @@ teaches at the same time that the highest aim of man is realised by the knowledg
 ब्रह्मजिज्ञासा कर्तव्या ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 therefore the enquiry into Brahman is to be undertaken subsequently to the acquirement of the mentioned means.
 </details>
@@ -684,7 +684,7 @@ therefore the enquiry into Brahman is to be undertaken subsequently to the acqui
 ब्रह्म च वक्ष्यमाण-लक्षणम् ‘जन्माद्यस्य यतः’ इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 By Brahman is to be understood that the definition of which will be given in the next Sūtra (I, 1, 2); 
 </details>
@@ -700,7 +700,7 @@ By Brahman is to be understood that the definition of which will be given in the
 न ब्रह्म-शब्दस्य जात्याद्यर्थान्तरम् आशङ्कितव्यम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 it is therefore not to be supposed that the word Brahman may here denote something else, as, for instance, the brahminical caste. 
 </details>
@@ -717,7 +717,7 @@ it is therefore not to be supposed that the word Brahman may here denote somethi
 जिज्ञास्यापेक्षत्वाज् जिज्ञासायाः। जिज्ञास्यान्तरानिर्देशाच् च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the Sūtra the genitive case ('of Brahman;' the literal translation of the Sūtra being 'then therefore the desire of knowledge of Brahman') denotes the object, not something generally supplementary (śesha [^fn_60]); for the desire of knowledge [[13]] demands an object of desire and no other such object is stated.
 
@@ -754,7 +754,7 @@ In the Sūtra the genitive case ('of Brahman;' the literal translation of the S�
 सम्बन्धसामान्यस्य विशेषनिष्ठत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But why should not the genitive case be taken as expressing the general complementary relation (to express which is its proper office)? Even in that case it might constitute the object of the desire of knowledge, since the general relation may base itself on the more particular one.
 </details>
@@ -772,7 +772,7 @@ In the Sūtra the genitive case ('of Brahman;' the literal translation of the S�
 व्यर्थः प्रयासः स्यात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This assumption, we reply, would mean that we refuse to take Brahman as the direct object, and then again indirectly introduce it as the object; an altogether needless procedure.
 </details>
@@ -797,7 +797,7 @@ This assumption, we reply, would mean that we refuse to take Brahman as the dire
 इति चेत् न; प्रधानपरिग्रहे तद्-अपेक्षितानाम् अर्थाक्षिप्तत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > Not needless; for if we explain the words of the Sūtra to mean 'the desire of knowledge connected with Brahman' we thereby virtually promise that also all the heads of discussion which bear on Brahman will be treated.
 
@@ -830,7 +830,7 @@ This reason also, we reply, is not strong enough to uphold your interpretation. 
 न पृथक्-सूत्रयितव्यानि।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence if Brahman, the most eminent of all objects of knowledge, is mentioned, this implies already all those objects of enquiry which the enquiry into Brahman presupposes, and those objects need therefore not be mentioned, especially in the Sūtra. 
 </details>
@@ -847,7 +847,7 @@ Hence if Brahman, the most eminent of all objects of knowledge, is mentioned, th
 यथा ‘राजासौ गच्छति’ इत्युक्ते सपरिवारस्य राज्ञो गमनमुक्तं भवति, तद्वत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Analogously the sentence 'there the king is going' implicitly means that the king together with his retinue is going there. 
 </details>
@@ -869,7 +869,7 @@ Analogously the sentence 'there the king is going' implicitly means that the kin
 श्रुत्यनुगमाच्च । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Our interpretation (according to which the Sūtra represents Brahman as the direct object of knowledge) moreover agrees with Scripture, which directly represents Brahman as the object of the desire of knowledge; 
 </details>
@@ -885,7 +885,7 @@ Our interpretation (according to which the Sūtra represents Brahman as the dire
 श्रुतयः ‘यतो वा इमानि भूतानि जायन्ते’ (तै. उ. ३। १। १) ‘तद्विजिज्ञासस्व। तद्ब्रह्म’ (तै. उ. ३। १। १) इति प्रत्यक्षमेव ब्रह्मणो जिज्ञासाकर्मत्वं दर्शयन्ति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 compare, for instance, the passage, 'That from whence these beings are born, &c., desire to know that. That is Brahman' (Taitt. Up. III, I). With passages of this kind the Sūtra only agrees if the genitive case is taken to denote the object. 
 </details>
@@ -913,7 +913,7 @@ compare, for instance, the passage, 'That from whence these beings are born, &c.
 तस्माद्ब्रह्मण इति कर्मणि षष्ठी ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence we do take it in that sense.
 </details>
@@ -950,7 +950,7 @@ Hence we do take it in that sense.
 फल-विषयत्वाद् इच्छायाः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The object of the desire is the knowledge of Brahman up to its complete comprehension,  
 desires having reference to results [^fn_61].
@@ -970,7 +970,7 @@ desires having reference to results [^fn_61].
 ज्ञानेन हि प्रमाणेनावगन्तुमिष्टं ब्रह्म। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Knowledge thus constitutes the means by which the complete comprehension of Brahman is desired to be obtained. 
 </details>
@@ -988,7 +988,7 @@ Knowledge thus constitutes the means by which the complete comprehension of Brah
 निःशेष-संसार-बीजाविद्याद्य्-अनर्थ-निबर्हणात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the complete comprehension of Brahman is the highest end of man, since it destroys the root of all evil such as Nescience, the seed of the entire Saṁsāra. 
 </details>
@@ -1005,7 +1005,7 @@ For the complete comprehension of Brahman is the highest end of man, since it de
 तस्माद् ब्रह्म जिज्ञासितव्यम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence the desire of knowing Brahman is to be entertained.
 </details>
@@ -1032,7 +1032,7 @@ Hence the desire of knowing Brahman is to be entertained.
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But, it may be asked, is Brahman known or not known (previously to the enquiry into its nature)?  
 > If it is known we need not enter on an enquiry concerning it; if it is not known we can not enter on such an enquiry.
@@ -1056,7 +1056,7 @@ Hence the desire of knowing Brahman is to be entertained.
 नित्य-शुद्ध-बुद्ध-मुक्त-स्वभावं सर्वज्ञं सर्व-शक्ति-समन्वितम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We reply that Brahman is known.  
 Brahman, which is all-knowing and endowed with all powers, whose essential nature is eternal purity, intelligence, and freedom, exists. 
@@ -1076,7 +1076,7 @@ Brahman, which is all-knowing and endowed with all powers, whose essential natur
 बृंहतेर् धातोर् अर्थानुगमात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For if we consider the derivation of the word 'Brahman,' from the root br̥h, 'to be great,' we at once understand that eternal purity, and so on, belong to Brahman [^fn_62]. 
 
@@ -1095,7 +1095,7 @@ For if we consider the derivation of the word 'Brahman,' from the root br̥h, 't
 सर्वस्यात्मत्वाच् च ब्रह्मास्तित्व-प्रसिद्धिः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover the existence of Brahman is known on the ground of its being the Self of every one. 
 </details>
@@ -1111,7 +1111,7 @@ Moreover the existence of Brahman is known on the ground of its being the Self o
 न ‘नाहमस्मि’ इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For every one is conscious of the existence of (his) Self, and never thinks 'I am not.'
 </details>
@@ -1128,7 +1128,7 @@ For every one is conscious of the existence of (his) Self, and never thinks 'I a
 सर्वो लोकः ‘नाहमस्मि’ इति प्रतीयात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If the existence of the Self were not known, every one would think 'I am not.' 
 </details>
@@ -1151,7 +1151,7 @@ If the existence of the Self were not known, every one would think 'I am not.'
 जन्माद्य् अस्य यत इति वक्ष्यमानस्य का दशा?!
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And this Self (of whose existence all are conscious) is Brahman. 
 </details>
@@ -1182,7 +1182,7 @@ And this Self (of whose existence all are conscious) is Brahman.
 न। तद्-विशेषं प्रति विप्रतिपत्तेः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But if Brahman is generally known as the Self, there is no room for an enquiry into it! 
 
@@ -1204,7 +1204,7 @@ Not so, we reply; for there is a conflict of opinions as to its special nature.
 प्राकृता जना लोकायतिकाश् च प्रतिपन्नाः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Unlearned people and the Lokāyatikas are of opinion that the mere body endowed with the quality of intelligence is the Self; 
 </details>
@@ -1220,7 +1220,7 @@ Unlearned people and the Lokāyatikas are of opinion that the mere body endowed 
 इन्द्रियाण्येव चेतनान्यात्मेत्यपरे।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 others that the organs endowed with intelligence are the Self; 
 </details>
@@ -1235,7 +1235,7 @@ others that the organs endowed with intelligence are the Self;
 मन इत्यन्ये।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 others maintain that the internal organ is the Self; 
 </details>
@@ -1251,7 +1251,7 @@ others maintain that the internal organ is the Self;
 विज्ञानमात्रं क्षणिकम् इत्येके। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 others, again, that the Self is a mere momentary idea; 
 </details>
@@ -1266,7 +1266,7 @@ others, again, that the Self is a mere momentary idea;
 शून्यम् इत्य् अपरे। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 others, again, that it is the Void. 
 </details>
@@ -1281,7 +1281,7 @@ others, again, that it is the Void.
 अस्ति देहादि-व्यतिरिक्तः संसारी कर्ता भोक्तेत्यपरे। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Others, again (to proceed to the opinion of such as acknowledge the authority of the Veda), maintain that there is a transmigrating being different from the body, and so on, which is both agent and enjoyer (of the fruits of action); 
 </details>
@@ -1297,7 +1297,7 @@ Others, again (to proceed to the opinion of such as acknowledge the authority of
 भोक्तैव केवलं न कर्तेत्येके। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 others teach [[15]] that that being is enjoying only, not acting; 
 </details>
@@ -1313,7 +1313,7 @@ others teach [[15]] that that being is enjoying only, not acting;
 अस्ति तद्व्यतिरिक्त ईश्वरः सर्वज्ञः सर्वशक्तिरिति केचित्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 others believe that in addition to the individual souls, there is an all-knowing, all-powerful Lord [^fn_63]. 
 
@@ -1339,7 +1339,7 @@ others believe that in addition to the individual souls, there is an all-knowing
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Others, finally, (i.e. the Vedāntins) maintain that the Lord is the Self of the enjoyer (i.e. of the individual soul whose individual existence is apparent only, the product of Nescience).
 
@@ -1357,7 +1357,7 @@ Others, finally, (i.e. the Vedāntins) maintain that the Lord is the Self of the
 एवं बहवो विप्रतिपन्ना युक्तिवाक्यतदाभाससमाश्रयाः सन्तः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Thus there are many various opinions, basing part of them on sound arguments and scriptural texts, part of them on fallacious arguments and scriptural texts misunderstood [^fn_64]. 
 
@@ -1387,7 +1387,7 @@ Thus there are many various opinions, basing part of them on sound arguments and
 तत्राविचार्य यत्किञ्चित्प्रतिपद्यमानो निःश्रेयसात्प्रतिहन्येत, अनर्थं चेयात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If therefore a man would embrace some one of these opinions without previous consideration, he would bar himself from the highest beatitude and incur grievous loss. 
 </details>
@@ -1405,7 +1405,7 @@ If therefore a man would embrace some one of these opinions without previous con
 तद्-अविरोधि-तर्कोपकरणा निःश्रेयस-प्रयोजना प्रस्तूयते ॥ १ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For this reason the first Sūtra proposes, under the designation of an enquiry into Brahman, a disquisition of the Vedānta-texts, to be carried on with the help of conformable arguments, and having for its aim the highest beatitude.
 </details>

@@ -204,7 +204,7 @@ and as here also we meet with characteristic marks of Brahman, viz. the words 'b
 > कथम् इह पुनः संशयः सम्भवति ?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 what reason is there for again raising the same doubt?
 </details>
@@ -252,7 +252,7 @@ For in the legend we meet not only with marks indicating Brahman,
 ‘मामेव विजानीहि’ (कौ. उ. ३। १) इतीन्द्रस्य वचनं देवतात्म-लिङ्गम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but also with marks pointing to other beings Thus Indra's words, 'Know me only' (III, 1) point to the Self of a divinity;
 </details>
@@ -336,7 +336,7 @@ If, now, the pūrvapakshin maintains that the term prāṇa here denotes the wel
 प्राण-शब्दं ब्रह्म विज्ञेयम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 we, on our side, assert that the word prāṇa must be understood to denote Brahman.
 </details>
@@ -1442,7 +1442,7 @@ The passage, 'Let no man try to find out what speech is, let him know the speake
 विज्ञेयत्वम् अभिधीयते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and must therefore be held to point out as the object of knowledge the individual soul which rules and employs the different organs of action such as speech and so on.
 </details>
@@ -1551,7 +1551,7 @@ The individual soul as well as the chief vital air may justly be designated as t
 मुख्येऽपि प्राणे प्रज्ञा-साधन-प्राणान्तराश्रयत्वाद् उपपन्नम् एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the latter (although non-intelligent in itself) is the abode of other prāṇas, viz. the sense organs, which are the instruments of intelligence.
 </details>
@@ -1902,7 +1902,7 @@ For, as the passages, 'I am Brahman,' 'That art thou,' and others, prove, there 
 ब्रह्मैव सन् जीवः कर्ता भोक्ता चेत्युच्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but Brahman, in so far as it differentiates itself through the mind (buddhi) and other limiting conditions, is called individual soul, agent, enjoyer.
 </details>

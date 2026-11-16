@@ -170,7 +170,7 @@ This objection, the pūrvapakshin replies, is futile, since we see that the bein
 प्रबोध-काले च प्रादुर्-भवन्तीति।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What the Veda here states is, moreover, a matter of observation, for during sleep, while the process of breathing goes on uninterruptedly, the activity of the sense organs is interrupted and again becomes manifest at the time of awaking only. 
 </details>
@@ -193,7 +193,7 @@ What the Veda here states is, moreover, a matter of observation, for during slee
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And as the sense organs are the essence of all material beings, the complementary passage which speaks of the merging and emerging of the beings can be reconciled with the principal vital air also.
 </details>
@@ -246,7 +246,7 @@ Moreover, subsequently to prāṇa being mentioned as the divinity of the prast�
 इति।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To this argumentation the author of the Sūtras replies:
 
@@ -288,7 +288,7 @@ For the same reason prāṇa--that means: on account of the presence of characte
 इति।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For Scripture says of prāṇa also, that it is connected with marks characteristic of Brahman. The sentence, 'All these beings merge into breath alone, and from breath they arise,' 
 </details>

@@ -9,7 +9,7 @@ title = "०२ जन्माद्यधिकरणम्"
 ब्रह्म जिज्ञासितव्यमित्युक्तम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 So far it has been said that Brahman is to be enquired into. 
 </details>
@@ -24,7 +24,7 @@ So far it has been said that Brahman is to be enquired into.
 किंलक्षणकं पुनस्तद् ब्रह्मेत्यत आह भगवान्सूत्रकारः —
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The question now arises what the characteristics of that Brahman are, and the reverend author of the Sūtras therefore propounds the following aphorism.
 </details>
@@ -47,7 +47,7 @@ The question now arises what the characteristics of that Brahman are, and the re
 जन्माद्यस्य यतः ॥ २ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 2. (Brahman is that) from which the origin, &c. (i.e. the origin, subsistence, and dissolution) of this (world proceed).
 </details>
@@ -97,7 +97,7 @@ The question now arises what the characteristics of that Brahman are, and the re
 जन्मस्थितिभङ्गं समासार्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The term, &c. implies subsistence and re-absorption.
 </details>
@@ -113,7 +113,7 @@ The term, &c. implies subsistence and re-absorption.
 जन्मनश् चादित्वं श्रुतिनिर्देशापेक्षं वस्तुवृत्तापेक्षं च। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the origin is mentioned first (of the three) depends on the declaration of Scripture as well as on the natural development of a substance. 
 </details>
@@ -130,7 +130,7 @@ That the origin is mentioned first (of the three) depends on the declaration of 
 श्रुतिनिर्देशस्तावत् — ‘यतो वा इमानि भूतानि जायन्ते’ (तै. उ. ३। १। १) इति, अस्मिन्वाक्ये जन्मस्थितिप्रलयानां क्रमदर्शनात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Scripture declares the order of succession of origin, subsistence, and dissolution in the passage, Taitt. Up. III, I, 
 
@@ -148,7 +148,7 @@ Scripture declares the order of succession of origin, subsistence, and dissoluti
 वस्तुवृत्तमपि — जन्मना लब्धसत्ताकस्य धर्मिणः स्थितिप्रलयसम्भवात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And with regard to the second reason stated, it is known that a substrate of qualities can subsist and be dissolved only after it has entered, through origination, on the state of existence. 
 </details>
@@ -165,7 +165,7 @@ And with regard to the second reason stated, it is known that a substrate of qua
 अस्येति प्रत्यक्षादिसन्निधापितस्य धर्मिण इदमा निर्देशः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The words 'of this' denote that substrate of qualities which is presented to us by perception and the other means of right knowledge; 
 </details>
@@ -182,7 +182,7 @@ The words 'of this' denote that substrate of qualities which is presented to us 
 षष्ठी जन्मादिधर्मसम्बन्धार्था। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the genitive case indicates it to be connected with origin, &c. 
 </details>
@@ -199,7 +199,7 @@ the genitive case indicates it to be connected with origin, &c.
 यत इति कारणनिर्देशः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The words 'from which' denote the cause. 
 </details>
@@ -232,7 +232,7 @@ The words 'from which' denote the cause.
 "तद् ब्रह्मे"ति वाक्यशेषः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The full sense of the Sūtra therefore is: That omniscient omnipotent cause from which proceed the origin, subsistence, and dissolution of this world--which world is differentiated by names and forms, contains many agents and enjoyers, is the abode of the fruits of actions, these fruits having their definite places, times, and causes [^fn_65], and the nature of whose arrangement cannot even be conceived by the mind,--that cause, we say, is Brahman. 
 
@@ -252,7 +252,7 @@ The full sense of the Sūtra therefore is: That omniscient omnipotent cause from
 जन्मस्थितिनाशानाम् इह ग्रहणम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Since the other forms of existence (such as increase, decline, &c.) are included in origination, subsistence, and dissolution, only the three latter are referred to in the Sūtra. 
 </details>
@@ -272,7 +272,7 @@ Since the other forms of existence (such as increase, decline, &c.) are included
 इत्याशङ्क्येत। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As the six stages of existence enumerated by Yāska [^fn_66] are possible only during the period of the world's subsistence, it might--were they referred to in the Sūtra--be suspected that what is meant are not the origin, subsistence, and dissolution (of the world) as dependent on the first cause. 
 
@@ -291,7 +291,7 @@ As the six stages of existence enumerated by Yāska [^fn_66] are possible only d
 तन्मा शङ्कि; इति या उत्पत्तिर्ब्रह्मणः, तत्रैव स्थितिः प्रलयश्च, त एव गृह्यन्ते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To preclude this suspicion the Sūtra is to be taken as referring, in addition to the world's origination from Brahman, only to its subsistence in Brahman, and final dissolution into Brahman.
 </details>
@@ -343,7 +343,7 @@ The origin, &c. of a world possessing the attributes stated above cannot possibl
 न च स्वभावतः +++(→विना कारणं)+++, विशिष्ट-देश-काल-निमित्तानाम् इहोपादानात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 nor, again, can it proceed from its own nature (i.e. spontaneously, without a cause), since we observe that (for the production of effects) special places, times, and causes have invariably to be employed.
 </details>
@@ -361,7 +361,7 @@ nor, again, can it proceed from its own nature (i.e. spontaneously, without a ca
 ईश्वर-कारण-वादिनः
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 (Some of) those who maintain a Lord to be the cause of the world [^fn_69], think that the existence of a Lord different from mere transmigrating beings can be inferred by means of the argument stated just now (without recourse being had to Scripture at all).
 
@@ -385,7 +385,7 @@ nor, again, can it proceed from its own nature (i.e. spontaneously, without a ca
 नन्व् इहापि तदेवोपन्यस्तं जन्मादिसूत्रे। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But, it might be said, you yourself in the Sūtra under discussion have merely brought forward the same argument!
 </details>
@@ -401,7 +401,7 @@ nor, again, can it proceed from its own nature (i.e. spontaneously, without a ca
 न; वेदान्त-वाक्य-कुसुम-ग्रथनार्थत्वात् सूत्राणाम्। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 By no means, we reply. The Sūtras (i.e. literally 'the strings') have merely the purpose of stringing together the flowers of the Vedānta-passages. 
 </details>
@@ -418,7 +418,7 @@ By no means, we reply. The Sūtras (i.e. literally 'the strings') have merely th
 वेदान्त-वाक्यानि हि सूत्रैर् उदाहृत्य विचार्यन्ते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In reality the Vedānta-passages referred to by the Sūtras are discussed here. 
 </details>
@@ -436,7 +436,7 @@ In reality the Vedānta-passages referred to by the Sūtras are discussed here.
 नानुमानादि-प्रमाणान्तर-निर्वृत्ता। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the comprehension of Brahman is effected by the ascertainment, consequent on discussion, of the sense of the Vedānta-texts, not either by inference or by the other means of right knowledge. 
 </details>
@@ -457,7 +457,7 @@ For the comprehension of Brahman is effected by the ascertainment, consequent on
 श्रुत्यैव च सहायत्वेन तर्कस्याभ्युपेतत्वात्।+++(4)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 While, however, the Vedānta-passages primarily declare the cause of the origin, &c., of the world, inference also, being an instrument of right knowledge in so far as it does not contradict the Vedānta-texts, is not to be excluded as a means of confirming the meaning ascertained. Scripture itself, moreover, allows argumentation; 
 </details>
@@ -473,7 +473,7 @@ While, however, the Vedānta-passages primarily declare the cause of the origin,
 तथा हि — ‘श्रोतव्यो मन्तव्यः’ (बृ. उ. २। ४। ५) इति श्रुतिः 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for the passages, Br̥. Up. II, 4, 5  
 ('the Self is to be heard, to be considered'), 
@@ -494,7 +494,7 @@ for the passages, Br̥. Up. II, 4, 5
 इति च पुरुष-बुद्धि-साहाय्यम् आत्मनो दर्शयति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and Cḥ. Up. VI, 14, 2 ('as the man, &c., having been informed, and being able to judge for himself, would arrive at Gandhāra, in the same way a man who meets with a teacher obtains knowledge'), declare that human understanding assists Scripture [^fn_70].
 
@@ -527,7 +527,7 @@ and Cḥ. Up. VI, 14, 2 ('as the man, &c., having been informed, and being able 
 श्रुत्यादय एव प्रमाणं ब्रह्म-जिज्ञासायाम्। +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Scriptural text, &c. [^fn_71], are not, in the enquiry into Brahman, the only means of knowledge, as they are in the enquiry into active duty (i.e. in the Pūrva Mimāṁsā), 
 
@@ -551,7 +551,7 @@ Scriptural text, &c. [^fn_71], are not, in the enquiry into Brahman, the only me
 भूत-वस्तु-विषयत्वाच् च ब्रह्म-ज्ञानस्य। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but scriptural texts on the one hand, and intuition [^fn_72], &c., on the other hand, are to be had recourse to according to the occasion: firstly, because intuition is the final result of the enquiry into Brahman; secondly, because the object of the enquiry is an existing (accomplished) substance. 
 
@@ -575,7 +575,7 @@ The origination of something to be accomplished depends, moreover, on man
 पुरुषाधीनात्म-लाभत्वाच् च कर्तव्यस्य। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If the object of the knowledge of Brahman were something to be accomplished, there would be no reference to intuition, and text, &c., would be the only means of knowledge. 
 </details>
@@ -592,7 +592,7 @@ If the object of the knowledge of Brahman were something to be accomplished, the
 यथा - अश्वेन गच्छति, पद्भ्याम् , अन्यथा वा, न वा गच्छतीति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 since any action either of ordinary life, or dependent on the Veda may either be done or not be done, or be done in a different way. A man, for instance, may move on either by means of a horse, or by means of his feet, or by some other means, or not at all. 
 </details>
@@ -618,7 +618,7 @@ since any action either of ordinary life, or dependent on the Veda may either be
 विकल्पोत्सर्गापवादाश् च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And again (to quote examples of actions dependent on the Veda), we meet in Scripture with sentences such as the following: 'At the atirātra he takes the shoḍasin cup,' and 'at the atirātra he does not take the shoḍasin cup;' or, 'he makes the oblation after the sun has risen,' and, 'he makes the oblation when the sun has not yet risen.' 
 
@@ -642,7 +642,7 @@ Just as in the quoted instances, injunctions and prohibitions, allowances of opt
 न तु वस्तु ‘एवम् , नैवम्’ ‘अस्ति, नास्ति’ इति वा विकल्प्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But the fact is that no option is possible as to whether a substance is to be thus or thus, is to be or not to be. 
 </details>
@@ -659,7 +659,7 @@ But the fact is that no option is possible as to whether a substance is to be th
 विकल्पनास्तु पुरुषबुद्ध्यपेक्षाः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All option depends on the notions of man; 
 </details>
@@ -677,7 +677,7 @@ All option depends on the notions of man;
 किं तर्हि ? वस्तुतन्त्रमेव तत्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but the knowledge of the real nature of a thing does not depend on the notions of man, but only on the thing itself. 
 </details>
@@ -696,7 +696,7 @@ but the knowledge of the real nature of a thing does not depend on the notions o
 इति तत्त्वज्ञानं भवति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For to think with regard to a post, 'this is a post or a man, or something else,' is not knowledge of truth; 
 </details>
@@ -712,7 +712,7 @@ For to think with regard to a post, 'this is a post or a man, or something else,
 तत्र ‘पुरुषोऽन्यो वा’ इति मिथ्याज्ञानम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the two ideas, 'it is a man or something else,' being false, 
 </details>
@@ -728,7 +728,7 @@ the two ideas, 'it is a man or something else,' being false,
 ‘स्थाणुरेव’ इति तत्त्वज्ञानम् , वस्तुतन्त्रत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and only the third idea, 'it is a post,' which depends on the thing itself, falling under the head of true knowledge. 
 </details>
@@ -745,7 +745,7 @@ and only the third idea, 'it is a post,' which depends on the thing itself, fall
 एवं भूतवस्तुविषयाणां प्रामाण्यं वस्तुतन्त्रम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Thus true knowledge of all existing things depends on the things themselves, 
 </details>
@@ -760,7 +760,7 @@ Thus true knowledge of all existing things depends on the things themselves,
 तत्रैवं सति ब्रह्मज्ञानमपि वस्तुतन्त्रमेव, भूतवस्तुविषयत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and hence the knowledge of Brahman also depends altogether on the thing, i.e. Brahman itself.
 </details>
@@ -786,7 +786,7 @@ and hence the knowledge of Brahman also depends altogether on the thing, i.e. Br
 > वेदान्त-वाक्य-विचारणा ऽनर्थिकैव प्राप्ता।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, it might be said, as Brahman is an existing substance, it will be the object of the other means of right knowledge also, and from this it follows that a discussion of the Vedānta-texts is purposeless.
 </details>
@@ -804,7 +804,7 @@ But, it might be said, as Brahman is an existing substance, it will be the objec
 न; इन्द्रियाविषयत्वेन सम्बन्धाग्रहणात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This we deny; for as Brahman is not an object of the senses, it has no connection with those other means of knowledge. 
 </details>
@@ -819,7 +819,7 @@ This we deny; for as Brahman is not an object of the senses, it has no connectio
 स्वभावतो विषयविषयाणीन्द्रियाणि, न ब्रह्मविषयाणि। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the senses have, according to their nature, only external things for their objects, not Brahman. 
 </details>
@@ -838,7 +838,7 @@ For the senses have, according to their nature, only external things for their o
 इति गृह्येत।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If Brahman were an object of the senses, we might perceive that the world is connected with Brahman as its effect; but as the effect only (i.e. the world) is perceived, it is impossible to decide (through perception) whether it is connected with Brahman or something else. 
 
@@ -877,7 +877,7 @@ If Brahman were an object of the senses, we might perceive that the world is con
 किं तर्हि ? वेदान्त-वाक्य-प्रदर्शनार्थम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Therefore the Sūtra under discussion is not meant to propound inference (as the means of knowing Brahman), but rather to set forth a Vedānta-text.
 </details>
@@ -904,7 +904,7 @@ Therefore the Sūtra under discussion is not meant to propound inference (as the
 किं पुनस्तद्वेदान्तवाक्यं यत् सूत्रेणेह लिलक्षयिषितम् ? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Which, then, is the Vedānta-text which the Sūtra points at as having to be considered with reference to the characteristics of Brahman?
 </details>
@@ -929,7 +929,7 @@ Which, then, is the Vedānta-text which the Sūtra points at as having to be con
 तद्विजिज्ञासस्व। तद्ब्रह्मेति ।’ (तै. उ. ३। १। १) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is the passage Taitt. Up. III, 1, 'Bhr̥gu Vāruṇi went to his father Varuṇa, saying, Sir, teach me Brahman,' &c., up to 'That from whence these beings are born, that by which, when born, they live, that into which they enter at their death, try to know that. That is Brahman.' 
 </details>
@@ -951,7 +951,7 @@ It is the passage Taitt. Up. III, 1, 'Bhr̥gu Vāruṇi went to his father Varu�
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The sentence finally determining the sense of this passage is found III, 6: 'From bliss these beings are born; by bliss, when born, they, live; into bliss they enter at their death.' 
 </details>
@@ -969,7 +969,7 @@ The sentence finally determining the sense of this passage is found III, 6: 'Fro
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Other passages also are to be adduced which declare the cause to be the almighty Being, whose essential nature is eternal purity, intelligence, and freedom.
 </details>

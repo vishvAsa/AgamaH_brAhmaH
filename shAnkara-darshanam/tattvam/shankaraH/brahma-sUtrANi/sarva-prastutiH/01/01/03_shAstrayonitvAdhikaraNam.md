@@ -8,7 +8,7 @@ title = "०३ शास्त्रयोनित्वाधिकरणम�
 जगत्-कारणत्व-प्रदर्शनेन सर्व-ज्ञं ब्रह्मेत्य् उपक्षिप्तम् ,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That Brahman is omniscient we have been made to infer from it being shown that it is the cause of the world.
 </details>
@@ -28,7 +28,7 @@ That Brahman is omniscient we have been made to infer from it being shown that i
 तद् एव द्रढयन्न् आह —
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To confirm this conclusion, the Sūtrakāra continues as follows:
 </details>
@@ -48,7 +48,7 @@ To confirm this conclusion, the Sūtrakāra continues as follows:
 शास्त्र-योनित्वात् ॥ ३ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 3. (The omniscience of Brahman follows) from its being the source of Scripture.
 </details>
@@ -108,7 +108,7 @@ To confirm this conclusion, the Sūtrakāra continues as follows:
 महत ऋग्-वेदादेः शास्त्रस्य अनेक-विद्या-स्थानोपबृंहितस्य प्रदीपवत्-सर्वार्थावद्योतिनः सर्व-ज्ञ-कल्पस्य योनिः कारणं ब्रह्म ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Brahman is the source, i.e. the cause of the great body of Scripture, consisting of the R̥g-veda and other branches, which is supported by various disciplines (such as grammar, nyāya, purāṇa, &c.); which lamp-like illuminates all things; which is itself all-knowing as it were.
 </details>
@@ -128,7 +128,7 @@ Brahman is the source, i.e. the cause of the great body of Scripture, consisting
 न हीदृशस्य शास्त्रस्य ऋग्-वेदादिलक्षणस्य सर्व-ज्ञ-गुणान्वितस्य सर्वज्ञाद् अन्यतः सम्भवो ऽस्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the origin of a body of Scripture possessing the quality of omniscience cannot be sought elsewhere but in omniscience itself.
 </details>
@@ -152,7 +152,7 @@ For the origin of a body of Scripture possessing the quality of omniscience cann
 इति प्रसिद्धं लोके ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is generally understood that the man from whom some special body of doctrine referring to one province of knowledge only originates, as, for instance, grammar from Pāṇini possesses a more extensive knowledge than his work, comprehensive though it be;
 </details>
@@ -183,7 +183,7 @@ It is generally understood that the man from whom some special body of doctrine 
 तस्य महतो भूतस्य निरतिशयं सर्व-ज्ञत्वं सर्व-शक्तिमत्त्वं चेति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 what idea, then, shall we have to form of the supreme omniscience and omnipotence of that great Being, which in sport as it were, easily as a man sends forth his breath, has produced the vast mass of holy texts known as the R̥g-veda, &c., the mine of all knowledge, consisting of manifold branches, the cause of the distinction of all the different classes and conditions of gods, animals, and men! See what Scripture says about him, 'The R̥g-veda, &c., have been breathed forth from that great Being' (Br̥. Up. II, 4, 10).
 </details>
@@ -207,7 +207,7 @@ what idea, then, shall we have to form of the supreme omniscience and omnipotenc
 यथावत्-स्वरूपाधिगमे ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Or else we may interpret the Sūtra to mean that Scripture consisting of the R̥g-veda, &c., as described above, is the source or cause, i.e. the means of right knowledge through which we understand the nature of Brahman.
 </details>
@@ -229,7 +229,7 @@ Or else we may interpret the Sūtra to mean that Scripture consisting of the R̥
 इत्य् अभिप्रायः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 So that the sense would be: through Scripture only as a means of knowledge Brahman is known to be the cause of the origin, &c., of the world.
 </details>
@@ -249,7 +249,7 @@ So that the sense would be: through Scripture only as a means of knowledge Brahm
 शास्त्रम् उदाहृतं पूर्व-सूत्रे — ‘यतो वा इमानि भूतानि जायन्ते’ (तै. उ. ३। १। १) इत्य्-आदि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The special scriptural passage meant has been quoted under the preceding Sūtra 'from which these beings are born,' &c.
 </details>
@@ -273,7 +273,7 @@ The special scriptural passage meant has been quoted under the preceding Sūtra 
 शास्त्र-योनित्वं ब्रह्मणो दर्शितम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But as the preceding Sūtra already has pointed out a text showing that Scripture is the source of Brahman, of what use then is the present Sūtra?
 </details>
@@ -296,7 +296,7 @@ But as the preceding Sūtra already has pointed out a text showing that Scriptur
 ‘शास्त्र-योनित्वात्’ इति ॥ ३ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The words of the preceding Sūtra, we reply, did not clearly indicate the scriptural passage, and room was thus left for the suspicion that the origin, &c., of the world were adduced merely as determining an inference (independent of Scripture). To obviate this suspicion the Sūtra under discussion has been propounded.
 </details>

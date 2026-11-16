@@ -8,7 +8,7 @@ title = "१३ सुषुप्त्युत्क्रान्त्य�
 सुषुप्त्य्-उत्क्रान्त्योर् भेदेन +++(व्यपदेशात्)+++॥ ४२ ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 42. And (on account of the designation) (of the highest Self) as different (from the individual soul) in the states of deep sleep and departing.
 </details>
@@ -64,7 +64,7 @@ title = "१३ सुषुप्त्युत्क्रान्त्य�
 भूयान् आत्म-विषयः प्रपञ्चः कृतः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the sixth prapāṭḥaka of the Br̥hadāraṇyaka  
 there is given, in reply to the question,  
@@ -93,7 +93,7 @@ a lengthy exposition of the nature of the Self,
 उत असंसारि-स्वरूप-प्रतिपादन-परम् इति विशयः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here the doubt arises,  
 whether the passage merely aims at making an additional statement about the nature of the transmigrating soul (known already from other sources),  
@@ -133,7 +133,7 @@ or at establishing the nature of the non-transmigrating Self.
 संसारि-स्वरूप-मात्र-विषयम् एवेति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The pūrvapakshin maintains that the passage is concerned with the nature of the transmigrating soul, 
 </details>
@@ -149,7 +149,7 @@ The pūrvapakshin maintains that the passage is concerned with the nature of the
 > कुतः? उपक्रमोपसंहाराभ्याम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 on account of the introductory and concluding statements. 
 </details>
@@ -164,7 +164,7 @@ on account of the introductory and concluding statements.
 > उपक्रमे ‘यो ऽयं विज्ञानमयः प्राणेषु’ इति शारीर-लिङ्गात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > For the introductory statement, 'He among the prāṇas who consists of knowledge,' contains marks indicatory of the embodied soul, 
 </details>
@@ -180,7 +180,7 @@ on account of the introductory and concluding statements.
 > उपसंहारे च ‘स वा एष महान् अज आत्मा यो ऽयं विज्ञानमयः प्राणेषु’ (बृ. उ. ४। ४। २२) इति तद्-अपरित्यागात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > and so likewise the concluding passage,  
 > 'And that great unborn Self is he  
@@ -198,7 +198,7 @@ on account of the introductory and concluding statements.
 > मध्ये ऽपि +++(प्र)+++बुद्धान्ताद्य्-अवस्थोपन्यासेन तस्यैव प्रपञ्चनाद्
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > We must therefore adhere to the same subject-matter in the intermediate passages also,  
 > and look on them as setting forth the same embodied Self, represented in its different states, viz. the waking state, and so on.
@@ -214,7 +214,7 @@ on account of the introductory and concluding statements.
 इत्य् एवं प्राप्ते ब्रूमः —
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In reply to this, 
 </details>
@@ -235,7 +235,7 @@ In reply to this,
 न शारीर-मात्रान्वाख्यानपरम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 we maintain that the passage aims  
 only at giving information about the highest Lord,  
@@ -254,7 +254,7 @@ not at making additional statements about the embodied soul.
 परमेश्वरस्य व्यपदेशात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Why?  
 On account of the highest Lord being designated as different from the embodied soul,  
@@ -278,7 +278,7 @@ in the states of deep sleep and of departing from the body.
 इति शारीराद् भेदेन परमेश्वरं व्यपदिशति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 His difference from the embodied soul in the state of deep sleep is declared in the following passage,  
 
@@ -299,7 +299,7 @@ nothing that is within.'
 +++(वेदितृत्वञ्च)+++ बाह्याभ्यन्तर-वेदन-प्रसङ्गे सति +++(एव)+++ तत्-प्रतिषेध-सम्भवात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here the term, 'the person,' must mean the embodied soul;  
 for of him it is possible to deny that he knows,  
@@ -320,7 +320,7 @@ because he, as being the knower, may know what is within and without.
 सर्वज्ञत्व-लक्षणया प्रज्ञया नित्यम् अवियोगात्।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The 'intelligent Self,' on the other hand, is the highest Lord,  
 because he is never dissociated from intelligence, i.e.--in his case--all-embracing knowledge.
@@ -344,7 +344,7 @@ because he is never dissociated from intelligence, i.e.--in his case--all-embrac
 इति जीवाद्भेदेन परमेश्वरं व्यपदिशति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Similarly, the passage treating of departure, i.e. death  
 ('this bodily Self mounted by the intelligent Self moves along groaning'),  
@@ -361,7 +361,7 @@ refers to the highest Lord as different from the individual Self.
 तत्रापि शारीरो जीवः स्यात् , शरीरस्वामित्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There also we have to understand by the 'embodied one' the individual soul  
 which is the Lord of the body, 
@@ -377,7 +377,7 @@ which is the Lord of the body,
 प्राज्ञस्तु स एव परमेश्वरः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 while the 'intelligent one' is again the Lord. 
 </details>
@@ -405,7 +405,7 @@ while the 'intelligent one' is again the Lord.
 परमेश्वर एव अत्र विवक्षित इति गम्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We thus understand that 'on account of his being designated as something different, in the states of deep sleep and departure,' the highest Lord forms the subject of the passage.
 </details>
@@ -424,7 +424,7 @@ We thus understand that 'on account of his being designated as something differe
 इति, अत्र ब्रूमः — 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 With reference to the pūrvapakshin's assertion that the entire chapter refers to the embodied Self,   
 because indicatory marks of the latter are found in its beginning, middle, and end,  
@@ -446,7 +446,7 @@ we remark that
 न संसारि-स्वरूपं विवक्षितम् — 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 in the first place the introductory passage ('He among the prāṇas who consists of cognition') does not aim at setting forth the character of the transmigrating Self, 
 </details>
@@ -465,7 +465,7 @@ in the first place the introductory passage ('He among the prāṇas who consist
 परेण ब्रह्मणास्यैकतां विवक्षति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but rather, while merely referring to the nature of the transmigrating Self as something already known,  
 aims at declaring its identity with the highest Brahman; 
@@ -484,7 +484,7 @@ aims at declaring its identity with the highest Brahman;
 यतः ‘ध्यायतीव लेलायतीव’ इत्य्-एवम्-आद्य्-उत्तर-ग्रन्थ-प्रवृत्तिः संसारि-धर्म-निराकरण-परा लक्ष्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for it is manifest that the immediately subsequent passage, 'as if thinking, as if moving' [^fn_231],  
 aims at discarding the attributes of the transmigrating Self.
@@ -504,7 +504,7 @@ aims at discarding the attributes of the transmigrating Self.
 तथा उपसंहारे ऽपि यथोपक्रममेवोपसंहरति — 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The concluding passage again is analogous to the initial one; 
 </details>
@@ -519,7 +519,7 @@ The concluding passage again is analogous to the initial one;
 ‘स वा एष महान् अज आत्मा यो ऽयं विज्ञानमयः प्राणेषु’ इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for the words, 'And that great unborn Self is he who,' &c., mean: 
 </details>
@@ -539,7 +539,7 @@ for the words, 'And that great unborn Self is he who,' &c., mean:
 इत्य् अर्थः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We have shown that that same cognitional Self, which is observed among the prāṇas, is the great unborn Self, i.e. the highest Lord.
 </details>
@@ -568,7 +568,7 @@ We have shown that that same cognitional Self, which is observed among the prā�
 प्रतीचीम् अपि दिशं प्रतिष्ठेत। +++(5)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 He, again, who imagines that the passages intervening (between the two quoted) aim at setting forth the nature of the transmigrating Self by representing it in the waking state, and so on, is like a man who setting out towards the east, wants to set out at the same time towards the west. 
 </details>
