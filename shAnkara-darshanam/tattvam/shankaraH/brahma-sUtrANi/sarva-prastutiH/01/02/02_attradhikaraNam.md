@@ -13,7 +13,6 @@ title = "०२ अत्त्रधिकरणम्"
 9. The eater (is the highest Self) since what is movable and what is immovable is mentioned (as his food).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अत्ता चराचरग्रहणात् ॥ ९ ॥  
@@ -48,7 +47,6 @@ title = "०२ अत्त्रधिकरणम्"
 We read in the Kaṭḥavallī (I, 2, 25), 'Who then knows where He is, He to whom the Brahmans and Kshattriyas are but food, and death itself a condiment?'
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 कठवल्लीषु पठ्यते ‘यस्य ब्रह्म च क्षत्रं चोभे भवत ओदनः। मृत्युर्यस्योपसेचनं क इत्था वेद यत्र सः’ (क. उ. १। २। २५) इति।
@@ -63,7 +61,6 @@ We read in the Kaṭḥavallī (I, 2, 25), 'Who then knows where He is, He to wh
 
 This passage intimates, by means of the words 'food' and 'condiment,' that there is some eater.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -81,7 +78,6 @@ A doubt then arises whether the eater be Agni or the individual soul or the high
 
 [145]: 116:2 Cp. Kaṭḥa Up, I, 1, 13; 20; I, 2, 14.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -118,7 +114,6 @@ A doubt then arises whether the eater be Agni or the individual soul or the high
 The pūrvapakshin maintains that the eater is Agni,
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 किं तावत्प्राप्तम् ? अग्निरत्तेति।
@@ -133,7 +128,6 @@ The pūrvapakshin maintains that the eater is Agni,
 
 fire being known from Scripture as well (cp. Br̥. Up. I, 4, 6) as from ordinary life to be the eater of food.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -150,7 +144,6 @@ fire being known from Scripture as well (cp. Br̥. Up. I, 4, 6) as from ordinary
 Or else the individual soul may be the eater, according to the passage, 'One of them eats the sweet fruit' (Mu. Up. III, 1, 1).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 जीवो वा अत्ता स्यात् ‘तयोरन्यः पिप्पलं स्वाद्वत्ति’ (मु. उ. ३। १। १) इति दर्शनात्।
@@ -165,7 +158,6 @@ Or else the individual soul may be the eater, according to the passage, 'One of 
 
 On the other hand, the eater cannot be Brahman on account of the passage (which forms the continuation of the one quoted from the Mu. Up.), 'The other looks on without eating.'
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -182,7 +174,6 @@ On the other hand, the eater cannot be Brahman on account of the passage (which 
 The eater, we reply, must be the highest Self
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अत्तात्र परमात्मा भवितुमर्हति।
@@ -197,7 +188,6 @@ The eater, we reply, must be the highest Self
 
 'because there is mentioned what is movable and what is immovable.'
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -214,7 +204,6 @@ The eater, we reply, must be the highest Self
 For all things movable and immovable are here to be taken as constituting the food, while death is the condiment.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 चराचरं हि स्थावरजङ्गमं मृत्यूपसेचनमिहाद्यत्वेन प्रतीयते।
@@ -230,7 +219,6 @@ For all things movable and immovable are here to be taken as constituting the fo
 But nothing beside the highest Self can be the consumer of all these things in their totality;
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तादृशस्य चाद्यस्य न परमात्मनोऽन्यः कार्त्स्न्येनात्ता सम्भवति।
@@ -245,7 +233,6 @@ But nothing beside the highest Self can be the consumer of all these things in t
 
 the highest Self, however, when reabsorbing the entire aggregate of effects may be said to eat everything.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -272,7 +259,6 @@ the highest Self, however, when reabsorbing the entire aggregate of effects may 
 If it is objected that here no express mention is made of things movable and things immovable, and that hence we have no right to use the (alleged) mention made of them as a reason,
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 नन्विह चराचरग्रहणं नोपलभ्यते, कथं सिद्धवच्चराचरग्रहणं हेतुत्वेनोपादीयते ?
@@ -287,7 +273,6 @@ If it is objected that here no express mention is made of things movable and thi
 
 we reply that this objection is unfounded; firstly, because the aggregate of all living beings is seen to be meant from the circumstance of death being the condiment; and, secondly, because the Brahmans and Kshattriyas may here, on account of their pre-eminent position, be viewed as instances only (of all beings).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -304,7 +289,6 @@ we reply that this objection is unfounded; firstly, because the aggregate of all
 Concerning the objection that the highest Self cannot be an eater on account of the passage quoted ('the other looks on without eating'), we remark that that passage aims at denying the fruition (on the part of the highest Self) of the results of works, such fruition being mentioned in immediate proximity,
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यत्तु परमात्मनोऽपि नात्तृत्वं सम्भवति ‘अनश्नन्नन्योऽभिचाकशीति’ इति दर्शनादिति, अत्रोच्यते — कर्मफलभोगस्य प्रतिषेधकमेतद्दर्शनम् , तस्य सन्निहितत्वात्।
@@ -320,7 +304,6 @@ Concerning the objection that the highest Self cannot be an eater on account of 
 but is not meant to negative the reabsorption of the world of effects (into Brahman); for it is well established by all the Vedānta-texts that Brahman is the cause of the creation, subsistence, and reabsorption of the world.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न विकारसंहारस्य प्रतिषेधकम् , सर्ववेदान्तेषु सृष्टिस्थितिसंहारकारणत्वेन ब्रह्मणः प्रसिद्धत्वात्।
@@ -335,7 +318,6 @@ but is not meant to negative the reabsorption of the world of effects (into Brah
 
 Therefore the eater can here be Brahman only.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -367,7 +349,6 @@ Therefore the eater can here be Brahman only.
 10. And on account of the topic under discussion.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 प्रकरणाच्च ॥ १० ॥  
@@ -382,7 +363,6 @@ Therefore the eater can here be Brahman only.
 
 That the highest Self only can be the eater referred to is moreover evident from the passage (Ka. Up. I, 2, 18), ('The knowing Self is not born, it dies not'), which shows that the highest Self is the general topic.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -399,7 +379,6 @@ That the highest Self only can be the eater referred to is moreover evident from
 And to adhere to the general topic is the proper proceeding.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 प्रकृतग्रहणं च न्याय्यम्।
@@ -414,7 +393,6 @@ And to adhere to the general topic is the proper proceeding.
 
 Further, the clause, 'Who then knows where he is,' shows that the cognition is connected with difficulties; which circumstance again points to the highest Self.
 </details>
-
 
 <details><summary>मूलम्</summary>
 

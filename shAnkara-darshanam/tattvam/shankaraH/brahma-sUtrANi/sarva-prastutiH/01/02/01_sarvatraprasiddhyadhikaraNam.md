@@ -3,6 +3,13 @@ title = "०१ सर्वत्रप्रसिद्ध्यधिकर�
 
 +++
 
+<details><summary>Thibaut</summary>
+
+SECOND PĀDA.
+
+REVERENCE TO THE HIGHEST SELF!
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वत्र प्रसिद्धोपदेशात् ॥ १ ॥
@@ -14,7 +21,6 @@ title = "०१ सर्वत्रप्रसिद्ध्यधिकर�
 1. (That which consists of mind is Brahman) because there is taught what is known from everywhere.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -49,16 +55,9 @@ title = "०१ सर्वत्रप्रसिद्ध्यधिकर�
 
 <details><summary>Thibaut</summary>
 
-SECOND PĀDA.
-
-### SECOND PĀDA.
-
-REVERENCE TO THE HIGHEST SELF!
-
 In the first pāda Brahman has been shown to be the cause of the origin, subsistence, and reabsorption of the entire world, comprising the ether and the other elements.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -78,7 +77,6 @@ Moreover, of this Brahman, which is the cause of the entire world, certain quali
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्य समस्तजगत्कारणस्य ब्रह्मणो व्यापित्वं नित्यत्वं सर्वज्ञत्वं सर्वशक्तित्वं सर्वात्मत्वमित्येवंजातीयका धर्मा उक्ता एव भवन्ति।
@@ -96,7 +94,6 @@ Moreover, of this Brahman, which is the cause of the entire world, certain quali
 Further, by producing reasons showing that some words which are generally used in a different sense denote Brahman also, we have been able to determine that some passages about whose sense doubts are entertained refer to Brahman.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -116,7 +113,6 @@ Now certain other passages present themselves which because containing only obsc
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 पुनरप्यन्यानि वाक्यान्यस्पष्टब्रह्मलिङ्गानि सन्दिह्यन्ते — किं परं ब्रह्म प्रतिपादयन्ति, आहोस्विदर्थान्तरं किञ्चिदिति।
@@ -134,7 +130,6 @@ Now certain other passages present themselves which because containing only obsc
 We therefore begin the second and third pādas in order to settle those doubtful points.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -164,7 +159,6 @@ Scripture says, 'All this indeed is Brahman, beginning, ending, and breathing in
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इदमाम्नायते — ‘सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत। अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिल्ँलोके पुरुषो भवति तथेतः प्रेत्य भवति स क्रतुं कुर्वीत’ (छा. उ. ३। १४। १) , ‘मनोमयः प्राणशरीरः’ (छा. उ. ३। १४। २) इत्यादि।
@@ -182,7 +176,6 @@ Scripture says, 'All this indeed is Brahman, beginning, ending, and breathing in
 Concerning this passage the doubt presents itself whether what is pointed out as the object of meditation, by means of attributes such as consisting of mind, &c., is the embodied (individual) soul or the highest Brahman.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -217,7 +210,6 @@ The embodied Self, the pūrvapakshin says.
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 किं तावत्प्राप्तम् ? शारीर इति।
@@ -235,7 +227,6 @@ The embodied Self, the pūrvapakshin says.
 Why?
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -257,7 +248,6 @@ Because the embodied Self as the ruler of the organs of action is well known to 
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्य हि कार्यकरणाधिपतेः प्रसिद्धो मनआदिभिः सम्बन्धः, न परस्य ब्रह्मणः; ‘अप्राणो ह्यमनाः शुभ्रः’ (मु. उ. २। १। २) इत्यादिश्रुतिभ्यः।
@@ -275,7 +265,6 @@ Because the embodied Self as the ruler of the organs of action is well known to 
 But, it may be objected, the passage, 'All this indeed is Brahman,' mentions Brahman directly; how then can you suppose that the embodied Self forms the object of meditation?
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -295,7 +284,6 @@ This objection does not apply, the pūrvapakshin rejoins,
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 नैष दोषः।
@@ -313,7 +301,6 @@ This objection does not apply, the pūrvapakshin rejoins,
 because the passage does not aim at enjoining meditation on Brahman,
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -333,7 +320,6 @@ but rather at enjoining calmness of mind, the sense being: because Brahman is al
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 किं तर्हि ? शमविधिपरम्; यत्कारणम् ‘सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत’ इत्याह।
@@ -351,7 +337,6 @@ but rather at enjoining calmness of mind, the sense being: because Brahman is al
 That is to say: because all this aggregate of effects is Brahman only, springing from it, ending in it, and breathing in it; and because, as everything constitutes one Self only, there is no room for passion; therefore a man is to meditate with a calm mind.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -382,7 +367,6 @@ And since the sentence aims at enjoining calmness of mind, it cannot at the same
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न च शमविधिपरत्वे सत्यनेन वाक्येन ब्रह्मोपासनं नियन्तुं शक्यते।
@@ -400,7 +384,6 @@ And since the sentence aims at enjoining calmness of mind, it cannot at the same
 but meditation is separately enjoined in the clause, 'Let him form the determination, i.e. reflection.'
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -420,7 +403,6 @@ And thereupon the subsequent passage, 'He who consists of mind, whose body is br
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्य च विषयत्वेन श्रूयते — ‘मनोमयः प्राणशरीरः’ इति जीवलिङ्गम्।
@@ -438,7 +420,6 @@ And thereupon the subsequent passage, 'He who consists of mind, whose body is br
 For this reason we maintain that the meditation spoken of has the individual soul for its object.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -458,7 +439,6 @@ The other attributes also subsequently stated in the text, 'He to whom all works
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ‘सर्वकर्मा सर्वकामः’ इत्याद्यपि श्रूयमाणं पर्यायेण जीवविषयमुपपद्यते।
@@ -476,7 +456,6 @@ The other attributes also subsequently stated in the text, 'He to whom all works
 The attributes, finally, of being what abides in the heart and of being extremely minute which are mentioned in the passage, 'He is my Self within the heart, smaller than a corn of rice, smaller than a corn of barley,' may be ascribed to the individual soul which has the size of the point of a goad, but not to the unlimited Brahman.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -511,7 +490,6 @@ If it be objected that the immediately following passage, 'greater than the eart
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ननु ‘ज्यायान्पृथिव्याः’ इत्याद्यपि न परिच्छिन्नेऽवकल्पत इति।
@@ -529,7 +507,6 @@ If it be objected that the immediately following passage, 'greater than the eart
 we reply that smallness and greatness which are mutually opposite cannot indeed be ascribed to one and the same thing;
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -551,7 +528,6 @@ only is to be ascribed to the subject of the passage, smallness is preferable be
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अन्यतराश्रयणे च, प्रथमश्रुतत्वादणीयस्त्वं युक्तमाश्रयितुम्।
@@ -569,7 +545,6 @@ only is to be ascribed to the subject of the passage, smallness is preferable be
 while the greatness mentioned later on may be attributed to the soul in so far as it is one with Brahman.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -591,7 +566,6 @@ If it is once settled that the whole passage refers to the individual soul, it f
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 निश्चिते च जीवविषयत्वे यदन्ते ब्रह्मसङ्कीर्तनम् — ‘एतद्ब्रह्म’ (छा. उ. ३। १४। ४) इति, तदपि प्रकृतपरामर्शार्थत्वाज्जीवविषयमेव।
@@ -609,7 +583,6 @@ If it is once settled that the whole passage refers to the individual soul, it f
 Therefore the individual soul is the object of meditation indicated by the qualities of consisting of mind and so on.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -639,7 +612,6 @@ To all this we reply: The highest Brahman only is what is to be meditated upon a
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 परमेव ब्रह्मेह मनोमयत्वादिभिर्धर्मैरुपास्यम्।
@@ -657,7 +629,6 @@ To all this we reply: The highest Brahman only is what is to be meditated upon a
 Why?--
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -677,7 +648,6 @@ Why?--
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सर्वत्र प्रसिद्धोपदेशात्।
@@ -696,7 +666,6 @@ What is known from all Vedānta-passages to be the sense of the word Brahman, vi
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यत्सर्वेषु वेदान्तेषु प्रसिद्धं ब्रह्मशब्दस्यालम्बनं जगत्कारणम् , इह च ‘सर्वं खल्विदं ब्रह्म’ इति वाक्योपक्रमे श्रुतम् , तदेव मनोमयत्वादिधर्मैर्विशिष्टमुपदिश्यत इति युक्तम्।
@@ -714,7 +683,6 @@ What is known from all Vedānta-passages to be the sense of the word Brahman, vi
 Thus we avoid the fault of dropping the subject-matter under discussion and needlessly introducing a new topic.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -746,7 +714,6 @@ True, we reply; but the fact nevertheless remains that, where the qualities of c
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ननु वाक्योपक्रमे शमविधिविवक्षया ब्रह्म निर्दिष्टं न स्वविवक्षयेत्युक्तम्; अत्रोच्यते — यद्यपि शमविधिविवक्षया ब्रह्म निर्दिष्टम् , तथापि मनोमयत्वादिषूपदिश्यमानेषु तदेव ब्रह्म सन्निहितं भवति, जीवस्तु न सन्निहितः, न च स्वशब्देनोपात्त इति वैषम्यम् ॥ १ ॥
@@ -770,7 +737,6 @@ True, we reply; but the fact nevertheless remains that, where the qualities of c
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 विवक्षितगुणोपपत्तेश्च ॥ २ ॥
@@ -791,7 +757,6 @@ Although in the Veda which is not the work of man no wish in the strict sense ca
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 वक्तुमिष्टा विवक्षिताः। यद्यप्यपौरुषेये वेदे वक्तुरभावात् नेच्छार्थः सम्भवति, तथाप्युपादानेन फलेनोपचर्यते।
@@ -809,7 +774,6 @@ Although in the Veda which is not the work of man no wish in the strict sense ca
 For just as in ordinary language we speak of something which is intimated by a word and is to be received (by the hearer as the meaning of the word), as 'desired to be expressed;'
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -829,7 +793,6 @@ so in the Veda also whatever is denoted as that which is to be received is 'desi
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तद्वद्वेदेऽप्युपादेयत्वेनाभिहितं विवक्षितं भवति, इतरदविवक्षितम्।
@@ -847,7 +810,6 @@ so in the Veda also whatever is denoted as that which is to be received is 'desi
 What is to be received as the meaning of a Vedic sentence, and what not, is inferred from the general purport of the passage.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -872,7 +834,6 @@ Those qualities which are here desired to be expressed, i.e. intimated as qualit
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तदिह ये विवक्षिता गुणा उपासनायामुपादेयत्वेनोपदिष्टाः सत्यसङ्कल्पप्रभृतयः, ते परस्मिन्ब्रह्मण्युपपद्यन्ते।
@@ -890,7 +851,6 @@ Those qualities which are here desired to be expressed, i.e. intimated as qualit
 for the quality of having true purposes may be ascribed to the highest Self which possesses unimpeded power over the creation, subsistence, and reabsorption of this world.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -910,7 +870,6 @@ Similarly the qualities of having true desires and true purposes are attributed 
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 परमात्मगुणत्वेन च ‘य आत्मापहतपाप्मा’ (छा. उ. ८। ७। १) इत्यत्र ‘सत्यकामः सत्यसङ्कल्पः’ इति श्रुतम् , ‘आकाशात्मा’ इति च आकाशवदात्मा अस्येत्यर्थः।
@@ -928,7 +887,6 @@ Similarly the qualities of having true desires and true purposes are attributed 
 for Brahman may be said to be like the ether on account of its omnipresence and other qualities.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -948,7 +906,6 @@ This is also expressed by the clause, 'Greater than the earth.'
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ‘ज्यायान्पृथिव्याः’ इत्यादिना चैतदेव दर्शयति।
@@ -966,7 +923,6 @@ This is also expressed by the clause, 'Greater than the earth.'
 And the other explanation also, according to which the passage means 'he whose Self is the ether' is possible, since Brahman which as the cause of the whole world is the Self of everything is also the Self of the ether.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -986,7 +942,6 @@ For the same reasons he is called 'he to whom all works belong, and so on.'
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अत एव ‘सर्वकर्मा’ इत्यादि।
@@ -1004,7 +959,6 @@ For the same reasons he is called 'he to whom all works belong, and so on.'
 Thus the qualities here intimated as topics of meditation agree with the nature of Brahman.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1036,7 +990,6 @@ cannot refer to Brahman, may refer to it.
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यत्तूक्तम् — ‘मनोमयः प्राणशरीरः’ इति जीवलिङ्गम् , न तद्ब्रह्मण्युपपद्यत इति; तदपि ब्रह्मण्युपपद्यत इति ब्रूमः।
@@ -1054,7 +1007,6 @@ cannot refer to Brahman, may refer to it.
 For as Brahman is the Self of everything, qualities such as consisting of mind and the like, which belong to the individual soul, belong to Brahman also.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1074,7 +1026,6 @@ Accordingly Śruti and Smr̥ti say of Brahman, 'Thou art woman, thou art man; th
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तथा च ब्रह्मविषये श्रुतिस्मृती भवतः — ‘त्वं स्त्री त्वं पुमानसि त्वं कुमार उत वा कुमारी। त्वं जीर्णो दण्डेन वञ्चसि त्वं जातो भवसि विश्वतोमुखः’ (श्वे. उ. ४। ३) इति; ‘सर्वतःपाणिपादं तत्सर्वतोऽक्षिशिरोमुखम्। सर्वतःश्रुतिमल्लोके सर्वमावृत्य तिष्ठति’ (भ. गी. १३। १३) इति च।
@@ -1093,7 +1044,6 @@ The passage (quoted above against our view), 'Without breath, without mind, pure
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ‘अप्राणो ह्यमनाः शुभ्रः’ इति श्रुतिः शुद्धब्रह्मविषया, इयं तु श्रुतिः ‘मनोमयः प्राणशरीरः’ इति सगुणब्रह्मविषयेति विशेषः।
@@ -1111,7 +1061,6 @@ The passage (quoted above against our view), 'Without breath, without mind, pure
 Hence, as the qualities mentioned are possible in Brahman, we conclude that the highest Brahman only is represented as the object of meditation.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1151,7 +1100,6 @@ Hence, as the qualities mentioned are possible in Brahman, we conclude that the 
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अनुपपत्तेस्तु न शारीरः ॥ ३ ॥
@@ -1169,7 +1117,6 @@ Hence, as the qualities mentioned are possible in Brahman, we conclude that the 
 The preceding Sūtra has declared that the qualities mentioned are possible in Brahman;
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1189,7 +1136,6 @@ the present Sūtra states that they are not possible in the embodied Self.
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अनेन शारीरे तेषामनुपपत्तिरुच्यते।
@@ -1208,7 +1154,6 @@ Brahman only possesses, in the manner explained, the qualities of consisting of 
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तुशब्दोऽवधारणार्थः। ब्रह्मैवोक्तेन न्यायेन मनोमयत्वादिगुणम्; न तु शारीरो जीवो मनोमयत्वादिगुणः; यत्कारणम् — ‘सत्यसङ्कल्पः’ ‘आकाशात्मा’ ‘अवाकी’ ‘अनादरः’ ‘ज्यायान्पृथिव्याः’ इति चैवंजातीयका गुणा न शारीरे आञ्जस्येनोपपद्यन्ते।
@@ -1226,7 +1171,6 @@ Brahman only possesses, in the manner explained, the qualities of consisting of 
 By the term 'embodied' (śārīra) we have to understand 'residing' in a body.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1248,7 +1192,6 @@ If it be objected that the Lord also resides in the body [143],
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 नन्वीश्वरोऽपि शरीरे भवति।
@@ -1266,7 +1209,6 @@ If it be objected that the Lord also resides in the body [143],
 we reply, True, he does reside in the body, but not in the body only; for śruti declares him to be all-pervading; compare, 'He is greater than the earth; greater than the atmosphere, omnipresent like the ether, eternal.'
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1287,7 +1229,6 @@ The individual soul, on the other
 hand, is in the body only, apart from which as the abode of fruition it does not exist.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1312,7 +1253,6 @@ hand, is in the body only, apart from which as the abode of fruition it does not
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 कर्मकर्तृव्यपदेशाच्च ॥ ४ ॥
@@ -1330,7 +1270,6 @@ hand, is in the body only, apart from which as the abode of fruition it does not
 The attributes of consisting of mind, and so on, cannot belong to the embodied Self for that reason also, that there is a (separate) denotation of the object of activity and of the agent. In the passage, 'When I shall have departed from hence I shall obtain him' (Cḥ. Up. III, 14, 4),
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1350,7 +1289,6 @@ the word 'him' refers to that which is the topic of discussion, viz. the Self wh
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 एतमिति प्रकृतं मनोमयत्वादिगुणमुपास्यमात्मानं कर्मत्वेन प्राप्यत्वेन व्यपदिशति; अभिसम्भवितास्मीति शारीरमुपासकं कर्तृत्वेन प्रापकत्वेन। अभिसम्भवितास्मीति प्राप्तास्मीत्यर्थः।
@@ -1368,7 +1306,6 @@ the word 'him' refers to that which is the topic of discussion, viz. the Self wh
 Now, wherever it can be helped, we must not assume that one and the same being is spoken of as the agent and the object of the activity at the same time.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1388,7 +1325,6 @@ The relation existing between a person meditating and the thing meditated upon r
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तथोपास्योपासकभावोऽपि भेदाधिष्ठान एव।
@@ -1406,7 +1342,6 @@ The relation existing between a person meditating and the thing meditated upon r
 And thus for the above reason, also, that which is characterised by the attributes of consisting of mind, and so on, cannot be the individual soul.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1431,7 +1366,6 @@ And thus for the above reason, also, that which is characterised by the attribut
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 शब्दविशेषात् ॥ ५ ॥
@@ -1452,7 +1386,6 @@ That is to say, we meet with another scriptural passage of kindred subject-matte
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इतश्च शारीरादन्यो मनोमयत्वादिगुणः; यस्माच्छब्दविशेषो भवति समानप्रकरणे श्रुत्यन्तरे — ‘यथा व्रीहिर्वा यवो वा श्यामाको वा श्यामाकतण्डुलो वैवमयमन्तरात्मन्पुरुषो हिरण्मयः’ (श. ब्रा. १०। ६। ३। २) इति।
@@ -1471,7 +1404,6 @@ There one word, i.e. the locative 'in the Self,' denotes the embodied Self, and 
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 शारीरस्यात्मनो यः शब्दोऽभिधायकः सप्तम्यन्तः — अन्तरात्मन्निति; तस्माद्विशिष्टोऽन्यः प्रथमान्तः पुरुषशब्दो मनोमयत्वादिविशिष्टस्यात्मनोऽभिधायकः।
@@ -1489,7 +1421,6 @@ There one word, i.e. the locative 'in the Self,' denotes the embodied Self, and 
 We therefrom conclude that the two are different.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1514,7 +1445,6 @@ We therefrom conclude that the two are different.
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स्मृतेश्च ॥ ६ ॥
@@ -1534,7 +1464,6 @@ Smr̥ti also declares the difference of the embodied Self
 and the highest Self, viz. Bha. Gītā XVIII, 61, 'The Lord, O Arjuna, is seated in the heart of all beings, driving round by his magical power all beings (as if they were) mounted on a machine.'
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1559,7 +1488,6 @@ But what, it may be asked, is that so-called embodied Self different from the hi
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अत्राह — कः पुनरयं शारीरो नाम परमात्मनोऽन्यः, यः प्रतिषिध्यते — ‘अनुपपत्तेस्तु न शारीरः’ इत्यादिना ?
@@ -1578,7 +1506,6 @@ But what, it may be asked, is that so-called embodied Self different from the hi
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 श्रुतिस्तु ‘नान्योऽतोऽस्ति द्रष्टा नान्योऽतोऽस्ति श्रोता’ (बृ. उ. ३। ७। २३) इत्येवंजातीयका परमात्मनोऽन्यमात्मानं वारयति।
@@ -1596,7 +1523,6 @@ But what, it may be asked, is that so-called embodied Self different from the hi
 and Bha. Gītā XIII, 2, 'And know me also, O Bhārata, to be the kshetrajña in all kshetras.'
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1621,7 +1547,6 @@ True, we reply, (there is in reality one universal Self only.) But the highest S
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अत्रोच्यते — सत्यमेवैतत् , पर एवात्मा देहेन्द्रियमनोबुद्ध्युपाधिभिः परिच्छिद्यमानो बालैः शारीर इत्युपचर्यते।
@@ -1639,7 +1564,6 @@ True, we reply, (there is in reality one universal Self only.) But the highest S
 Similarly the ether, although in reality unlimited, appears limited owing to certain adjuncts, such as jars and other vessels.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1659,7 +1583,6 @@ With regard to this (unreal limitation of the one Self) the distinction of objec
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तदपेक्षया च कर्मत्वकर्तृत्वादिभेदव्यवहारो न विरुध्यते प्राक् ‘तत्त्वमसि’ इत्यात्मैकत्वोपदेशग्रहणात्।
@@ -1677,7 +1600,6 @@ With regard to this (unreal limitation of the one Self) the distinction of objec
 As soon, however, as we grasp the truth that there is only one universal Self, there is an end to the whole practical view of the world with its distinction of bondage, final release, and the like.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1702,7 +1624,6 @@ As soon, however, as we grasp the truth that there is only one universal Self, t
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अर्भकौकस्त्वात्तद्व्यपदेशाच्च नेति चेन्न निचाय्यत्वादेवं व्योमवच्च ॥ ७ ॥
@@ -1723,7 +1644,6 @@ the highest Self. This assertion made above (in the pūrvapaksha of Sūtra I, an
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अर्भकमल्पम् ओको नीडम् , ‘एष म आत्मान्तर्हृदये’ इति परिच्छिन्नायतनत्वात् , स्वशब्देन च ‘अणीयान्व्रीहेर्वा यवाद्वा’ इत्यणीयस्त्वव्यपदेशात् , शारीर एवाराग्रमात्रो जीव इहोपदिश्यते, न सर्वगतः परमात्मा — इति यदुक्तं तत्परिहर्तव्यम्।
@@ -1741,7 +1661,6 @@ the highest Self. This assertion made above (in the pūrvapaksha of Sūtra I, an
 We therefore maintain that the objection raised does not invalidate our view of the passage.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1761,7 +1680,6 @@ It is true that a thing occupying a limited space only cannot in any way be spok
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न तावत्परिच्छिन्नदेशस्य सर्वगतत्वव्यपदेशः कथमप्युपपद्यते।
@@ -1779,7 +1697,6 @@ It is true that a thing occupying a limited space only cannot in any way be spok
 but, on the other hand, that which is omnipresent, and therefore in all places may, from a certain point of view, be said to occupy a limited space.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1799,7 +1716,6 @@ Similarly, a prince may be called the ruler of Ayodhyā although he is at the sa
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यथा समस्तवसुधाधिपतिरपि हि सन् अयोध्याधिपतिरिति व्यपदिश्यते।
@@ -1818,7 +1734,6 @@ But from what point of view can the omnipresent Lord be said to occupy a limited
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 कया पुनरपेक्षया सर्वगतः सन्नीश्वरोऽर्भकौका अणीयांश्च व्यपदिश्यत इति।
@@ -1836,7 +1751,6 @@ But from what point of view can the omnipresent Lord be said to occupy a limited
 He may, we reply, be spoken of thus, 'because he is to be contemplated thus.'
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1866,7 +1780,6 @@ The passage under discussion teaches us to contemplate the Lord as abiding withi
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 एवम् अणीयस्त्वादिगुणगणोपेत ईश्वरः, तत्र हृदयपुण्डरीके निचाय्यो द्रष्टव्य उपदिश्यते; यथा सालग्रामे हरिः। तत्रास्य बुद्धिविज्ञानं ग्राहकम्।
@@ -1884,7 +1797,6 @@ The passage under discussion teaches us to contemplate the Lord as abiding withi
 Although present everywhere, the Lord is pleased when meditated upon as dwelling in the heart.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1904,7 +1816,6 @@ The case is, moreover, to be viewed as analogous to that of the ether.
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 व्योमवच्चैतद्द्रष्टव्यम्।
@@ -1922,7 +1833,6 @@ The case is, moreover, to be viewed as analogous to that of the ether.
 The ether, although all-pervading, is spoken of as limited and minute, if considered in its connexion with the eye of a needle; so Brahman also.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1942,7 +1852,6 @@ But it is an understood matter that the attributes of limitation of abode and of
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तदेवं निचाय्यत्वापेक्षं ब्रह्मणोऽर्भकौकस्त्वमणीयस्त्वं च, न पारमार्थिकम्।
@@ -1960,7 +1869,6 @@ But it is an understood matter that the attributes of limitation of abode and of
 The latter consideration disposes also of the objection, that if Brahman has its abode in the heart, which heart-abode is a different one in each body, it would follow that it is affected by all the imperfections which attach to beings having different abodes, such as parrots shut up in different cages, viz. want of unity, being made up of parts, non-permanency, and so on.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1995,7 +1903,6 @@ The latter consideration disposes also of the objection, that if Brahman has its
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सम्भोगप्राप्तिरिति चेन्न वैशेष्यात् ॥ ८ ॥
@@ -2014,7 +1921,6 @@ But, it may be said, as Brahman is omnipresent like ether, and therefore connect
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 व्योमवत्सर्वगतस्य ब्रह्मणः सर्वप्राणिहृदयसम्बन्धात् , चिद्रूपतया च शारीरादविशिष्टत्वात् , सुखदुःखादिसम्भोगोऽप्यविशिष्टः प्रसज्येत।
@@ -2032,7 +1938,6 @@ But, it may be said, as Brahman is omnipresent like ether, and therefore connect
 The same result follows from its unity. For in reality there exists no transmigratory Self different from the highest Self; as appears from the text, 'There is no other knower but he' (Br̥. Up. III, 7, 23), and similar passages.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2054,7 +1959,6 @@ This is not so, we reply; because there is a difference of nature.
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्मात्परस्यैव ब्रह्मणः सम्भोगप्राप्तिरिति चेत् , न; वैशेष्यात्।
@@ -2072,7 +1976,6 @@ This is not so, we reply; because there is a difference of nature.
 From the circumstance that Brahman is connected with the hearts of all living beings it does not follow that it is, like the embodied Self, subject to fruition.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2092,7 +1995,6 @@ For, between the embodied Self and the highest Self, there is the difference
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 विशेषो हि भवति शारीरपरमेश्वरयोः।
@@ -2110,7 +2012,6 @@ For, between the embodied Self and the highest Self, there is the difference
 that the former acts and enjoys, acquires merit and demerit, and is affected by pleasure, pain, and so on;
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2130,7 +2031,6 @@ while the latter is of the opposite nature, i.e. characterised by being free fro
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 एकस्तद्विपरीतोऽपहतपाप्मत्वादिगुणः।
@@ -2148,7 +2048,6 @@ while the latter is of the opposite nature, i.e. characterised by being free fro
 On account of this difference of the two, the fruition of the one does not extend to the other.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2178,7 +2077,6 @@ To assume merely on the ground of the mutual proximity of the two, without consi
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यदि च सन्निधानमात्रेण वस्तुशक्तिमनाश्रित्य कार्यसम्बन्धोऽभ्युपगम्येत, आकाशादीनामपि दाहादिप्रसङ्गः।
@@ -2196,7 +2094,6 @@ To assume merely on the ground of the mutual proximity of the two, without consi
 The same objection and refutation apply to the case of those also who teach the existence of more than one omnipresent Self.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2216,7 +2113,6 @@ In reply to the assertion, that because Brahman is one and there are no other Se
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यदप्येकत्वाद्ब्रह्मण आत्मान्तराभावाच्छारीरस्य भोगेन ब्रह्मणो भोगप्रसङ्ग इति, अत्र वदामः — इदं तावद्देवानांप्रियः प्रष्टव्यः; कथमयं त्वयात्मान्तराभावोऽध्यवसित इति।
@@ -2234,7 +2130,6 @@ In reply to the assertion, that because Brahman is one and there are no other Se
 You will reply, we suppose, from scriptural texts such as, 'That art thou,' 'I am Brahman,' 'There is no other knower but he,' and so on. Very well, then, it appears that the truth about scriptural matters is to be ascertained from Scripture, and that Scripture is not sometimes to be appealed to, and on other occasions to be disregarded.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2254,7 +2149,6 @@ Scriptural texts, such as 'that art thou,' teach that Brahman which is free from
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 शास्त्रं च ‘तत्त्वमसि’ इत्यपहतपाप्मत्वादिविशेषणं ब्रह्म शारीरस्यात्मत्वेनोपदिशच्छारीरस्यैव तावदुपभोक्तृत्वं वारयति।
@@ -2272,7 +2166,6 @@ Scriptural texts, such as 'that art thou,' teach that Brahman which is free from
 how then should fruition on the part of the embodied soul involve fruition on the part of Brahman?
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2309,7 +2202,6 @@ In that case, we reply, the fruition on the part of the individual soul has wron
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अथागृहीतं शारीरस्य ब्रह्मणैकत्वम् , तदा मिथ्याज्ञाननिमित्तः शारीरस्योपभोगः।
@@ -2328,7 +2220,6 @@ and Brahman as it truly exists is not touched thereby,
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न तेन परमार्थरूपस्य ब्रह्मणः संस्पर्शः।
@@ -2346,7 +2237,6 @@ and Brahman as it truly exists is not touched thereby,
 not any more than the ether becomes really dark-blue in consequence of ignorant people presuming it to be so.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2368,7 +2258,6 @@ For this reason the Sūtrakāra says [144] 'no, on account of the difference.' I
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तदाह — न वैशेष्यादिति नैकत्वेऽपि शारीरस्योपभोगेन ब्रह्मण उपभोगप्रसङ्गः, वैशेष्यात्।
@@ -2386,7 +2275,6 @@ For this reason the Sūtrakāra says [144] 'no, on account of the difference.' I
 For there is a difference between false knowledge and perfect knowledge,
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2406,7 +2294,6 @@ fruition being the figment of false knowledge while the unity (of the Self) is r
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मिथ्याज्ञानकल्पित उपभोगः, सम्यग्ज्ञानदृष्टमेकत्वम्।
@@ -2425,7 +2312,6 @@ Now, as the substance revealed by perfect knowledge cannot be affected by fruiti
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न च मिथ्याज्ञानकल्पितेनोपभोगेन सम्यग्ज्ञानदृष्टं वस्तु संस्पृश्यते।
@@ -2443,7 +2329,6 @@ Now, as the substance revealed by perfect knowledge cannot be affected by fruiti
 it is impossible to assume even a shadow of fruition on Brahman's part.
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 

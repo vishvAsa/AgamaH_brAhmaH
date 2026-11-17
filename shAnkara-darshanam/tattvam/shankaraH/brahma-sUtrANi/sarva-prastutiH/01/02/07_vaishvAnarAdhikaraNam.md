@@ -1601,7 +1601,7 @@ Or else the passage about him who is measured by a span may be considered to res
 
 Why?
 
-Because the passage of the Vājasaneyi-brāhmaṇa which treats of the same topic identifies heaven, earth, and so on--which are the members of Vaiśvānara viewed as the Self of the threefold world--with certain parts of the human frame, viz. the parts comprised between the upper part of the head and the chin, and thus declares the imaginative identity of Vaiśvānara with something whose measure is a span. There we read, 'The Gods indeed reached him, knowing him as measured by a span as it were. Now I will declare them (his members) to you so as to identify him (the Vaiśvānara) with that whose measure is a span; thus he said. Pointing to the upper part of the head he said: This is what stands above (i.e. the heavenly world) as Vaiśvānara (i.e. the head of Vaiśvānara [166]). Pointing to the eyes he said: This is he with good light (i.e. the sun) as Vaiśvānara (i.e. the eye of V.). Pointing to the nose he said: This is he who moves on manifold paths (i.e. the air) as Vaiśvānara (i.e. the breath of V.). Pointing to the space (ether) within his mouth he said: This is the full one (i.e. the ether) as Vaiśvānara. Pointing to the saliva within his mouth he said: This is wealth as Vaiśvānara (i.e. the water in the bladder of V.).
+Because the passage of the Vājasaneyi-brāhmaṇa which treats of the same topic identifies heaven, earth, and so on--which are the members of Vaiśvānara viewed as the Self of the threefold world--with certain parts of the human frame, viz. the parts comprised between the upper part of the head and the chin, and thus declares the imaginative identity of Vaiśvānara with something whose measure is a span. There we read, 'The Gods indeed reached him, knowing him as measured by a span as it were. Now I will declare them (his members) to you so as to identify him (the Vaiśvānara) with that whose measure is a span; thus he said. Pointing to the upper part of the head he said: This is what stands above (i.e. the heavenly world) as Vaiśvānara (i.e. the head of Vaiśvānara [166]). Pointing to the eyes he said: This is he with good light (i.e. the sun) as Vaiśvānara (i.e. the eye of V.). Pointing to the nose he said: This is he who moves on manifold paths (i.e. the air) as Vaiśvānara (i.e. the breath of V.). Pointing to the space (ether) within his mouth he said: This is the full one (i.e. the ether) as Vaiśvānara. Pointing to the saliva within his mouth he said: This is wealth as Vaiśvānara (i.e. the water in the bladder of V.). Pointing to the chin he said: This is the base as Vaiśvānara (i.e. the feet of V.).'
 
 [166]: 152:1 Atra sarvatra vaiśvānaraśabdas tadangaparaḥ. Go. Ān.
 </details>
@@ -1614,11 +1614,6 @@ Because the passage of the Vājasaneyi-brāhmaṇa which treats of the same topi
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चुबुकमित्यधरं मुखफलकमुच्यते ।
-</details>
-
-<details><summary>Thibaut</summary>
-
-Pointing to the chin he said: This is the base as Vaiśvānara (i.e. the feet of V.).'
 </details>
 
 <details><summary>मूलम्</summary>

@@ -14,7 +14,6 @@ title = "०६ अदृश्यत्वाधिकरणम्"
 21. That which possesses the attributes of invisibility and so on (is Brahman), on account of the declaration of attributes.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अदृश्यत्वादिगुणको धर्मोक्तेः ॥ २१ ॥
@@ -49,7 +48,6 @@ title = "०६ अदृश्यत्वाधिकरणम्"
 Scripture says, 'The higher knowledge is this by which the Indestructible is apprehended. That which cannot be seen nor seized, which is without origin and qualities, without eyes and ears, without hands and feet, the eternal, all-pervading, omnipresent, infinitesimal, that which is imperishable, that it is which the wise regard as the source of all beings' (Mu. Up. I, 1, 5; 6).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ‘अथ परा यया तदक्षरमधिगम्यते’(मु. उ. १। १। ५) , ‘यत्तदद्रेश्यमग्राह्यमगोत्रमवर्णमचक्षुःश्रोत्रं तदपाणिपादम् , नित्यं विभुं सर्वगतं सुसूक्ष्मं तदव्ययं यद्भूतयोनिं परिपश्यन्ति धीराः’ (मु. उ. १। १। ६) इति श्रूयते।
@@ -64,7 +62,6 @@ Scripture says, 'The higher knowledge is this by which the Indestructible is app
 
 Here the doubt arises whether the source of all beings which is spoken of as characterised by invisibility, &c. be the prādhana, or the embodied soul, or the highest Lord.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -111,7 +108,6 @@ Here the doubt arises whether the source of all beings which is spoken of as cha
 We must, the pūrvapakshin says, understand by the source of all beings the non-intelligent prādhana because (in the passage immediately subsequent to the one quoted) only non-intelligent beings are mentioned as parallel instances.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तत्र प्रधानमचेतनं भूतयोनिरिति युक्तम् , अचेतनानामेव तस्य दृष्टान्तत्वेनोपादानात् ।
@@ -126,7 +122,6 @@ We must, the pūrvapakshin says, understand by the source of all beings the non-
 
 'As the spider sends forth and draws in its thread, as plants grow on the earth, as from the living man hairs spring forth on the head and the body, thus everything arises here from the Indestructible.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -143,7 +138,6 @@ We must, the pūrvapakshin says, understand by the source of all beings the non-
 But, it may be objected, men and spiders which are here quoted as parallel instances are of intelligent nature. No, the pūrvapakshin replies;
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ननूर्णनाभिः पुरुषश्च चेतनाविह दृष्टान्तत्वेनोपात्तौ; नेति ब्रूमः।
@@ -159,7 +153,6 @@ But, it may be objected, men and spiders which are here quoted as parallel insta
 for the intelligent being as such is not the source of the threads and the hair,
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न हि केवलस्य चेतनस्य तत्र सूत्रयोनित्वं केशलोमयोनित्वं चास्ति।
@@ -174,7 +167,6 @@ for the intelligent being as such is not the source of the threads and the hair,
 
 but everybody knows that the non-intelligent body of the spider ruled by intelligence is the source of the threads; and so in the case of man also.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -196,7 +188,6 @@ but everybody knows that the non-intelligent body of the spider ruled by intelli
 While, moreover, in the case of the preceding Sūtra, the pradhāna hypothesis could not be accepted, because, although some qualities mentioned, such as invisibility and so on, agreed with it, others such as being the seer and the like did not;
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अपि च पूर्वत्रादृष्टत्वाद्यभिलापसम्भवेऽपि द्रष्टृत्वाद्यभिलापासम्भवान्न प्रधानमभ्युपगतम्।
@@ -211,7 +202,6 @@ While, moreover, in the case of the preceding Sūtra, the pradhāna hypothesis c
 
 we have here to do only with attributes such as invisibility which agree with the pradhāna,
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -228,7 +218,6 @@ we have here to do only with attributes such as invisibility which agree with th
 no attribute of a contrary nature being mentioned.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न चात्र विरुध्यमानो धर्मः कश्चिदभिलप्यते।
@@ -243,7 +232,6 @@ no attribute of a contrary nature being mentioned.
 
 But the qualities mentioned in the complementary passage (Mu. Up. I, 1, 9), 'He who knows all and perceives all,' do not agree with the non-intelligent pradhāna; how, then, can the source of all beings be interpreted to mean the pradhāna? To this the pūrvapakshin replies: The passage, 'The higher knowledge is that by which the Indestructible is apprehended, that which cannot be seen,' &c., points, by means of the term 'the Indestructible,' to the source of all beings characterised by invisibility and similar attributes. This same 'Indestructible' is again mentioned later on in the passage, 'It is higher than the high Imperishable.'
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -260,7 +248,6 @@ But the qualities mentioned in the complementary passage (Mu. Up. I, 1, 9), 'He 
 Now that which in this latter passage is spoken of as higher than the Imperishable may possess the qualities of knowing and perceiving everything,
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तत्र यः परोऽक्षराच्छ्रुतः, स सर्वज्ञः सर्ववित्सम्भविष्यति।
@@ -276,7 +263,6 @@ Now that which in this latter passage is spoken of as higher than the Imperishab
 while the pradhāna denoted by the term 'the Imperishable' is the source of all beings.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 प्रधानमेव त्वक्षरशब्दनिर्दिष्टं भूतयोनिः।
@@ -291,7 +277,6 @@ while the pradhāna denoted by the term 'the Imperishable' is the source of all 
 
 If, however, the word 'source' (yoni) be taken in the sense of operative cause, we may by 'the source of the beings' understand the embodied Self also, which, by means of merit and demerit, is the cause of the origin of the complex of things.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -328,7 +313,6 @@ If, however, the word 'source' (yoni) be taken in the sense of operative cause, 
 To this we make the following reply. That which here is spoken of as the source of all beings, distinguished by such qualities as invisibility and so on, can be the highest Lord only, nothing else.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 एवं प्राप्ते अभिधीयते — योऽयमदृश्यत्वादिगुणको भूतयोनिः, स परमेश्वर एव स्यात् , नान्य इति।
@@ -343,7 +327,6 @@ To this we make the following reply. That which here is spoken of as the source 
 
 Whereupon is this conclusion founded? On the statement of attributes.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -360,7 +343,6 @@ Whereupon is this conclusion founded? On the statement of attributes.
 For the clause, 'He who is all-knowing, all-perceiving,' clearly states an attribute belonging to the highest Lord only,
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 परमेश्वरस्य हि धर्म इहोच्यमानो दृश्यते — ‘यः सर्वज्ञः सर्ववित्’ इति।
@@ -376,7 +358,6 @@ For the clause, 'He who is all-knowing, all-perceiving,' clearly states an attri
 since the attributes of knowing all and perceiving all cannot be predicated either of the non-intelligent pradhāna or the embodied soul whose power of sight is narrowed by its limiting conditions.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न हि प्रधानस्याचेतनस्य शारीरस्य वोपाधिपरिच्छिन्नदृष्टेः सर्वज्ञत्वं सर्ववित्त्वं वा सम्भवति।
@@ -391,7 +372,6 @@ since the attributes of knowing all and perceiving all cannot be predicated eith
 
 To the objection that the qualities of knowing and perceiving all are, in the passage under discussion, attributed to that which is higher than the source of all beings--which latter is denoted by the term 'the Imperishable'--not to the source itself, we reply that this explanation is inadmissible because the source of all beings, which--in the clause, 'From the Indestructible everything here arises'--is designated as the material cause of all created beings, is later on spoken of as all-knowing, and again as the cause of all created beings, viz. in the passage (I, 1, 9), 'From him who knows all and perceives all, whose brooding consists of knowledge, from him is born that Brahman, name, form, and food.'
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -418,7 +398,6 @@ To the objection that the qualities of knowing and perceiving all are, in the pa
 As therefore the Indestructible which forms the general topic of discussion is, owing to the identity of designation, recognised (as being referred to in the later passage also), we understand that it is the same Indestructible to which the attributes of knowing and perceiving all are ascribed.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्मान्निर्देशसाम्येन प्रत्यभिज्ञायमानत्वात्प्रकृतस्यैवाक्षरस्य भूतयोनेः सर्वज्ञत्वं सर्ववित्त्वं च धर्म उच्यत इति गम्यते।
@@ -433,7 +412,6 @@ As therefore the Indestructible which forms the general topic of discussion is, 
 
 We further maintain that also the passage, 'Higher than the high Imperishable,' does not refer to any being different from the imperishable source of all beings which is the general topic of discussion.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -450,7 +428,6 @@ We further maintain that also the passage, 'Higher than the high Imperishable,' 
 We conclude this from the circumstance that the passage, 'He truly told that knowledge of Brahman through which he knows the imperishable true person,' (I, 2, 13; which passage leads on to the passage about that which is higher than the Imperishable,) merely declares that the imperishable source of all beings, distinguished by invisibility and the like--which formed the subject of the preceding chapter--will be discussed.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 कथमेतदवगम्यते ? ‘येनाक्षरं पुरुषं वेद सत्यं प्रोवाच तां तत्त्वतो ब्रह्मविद्याम्’ (मु. उ. १। २। १३) इति प्रकृतस्यैवाक्षरस्य भूतयोनेरदृश्यत्वादिगुणकस्य वक्तव्यत्वेन प्रतिज्ञातत्वात्।
@@ -465,7 +442,6 @@ We conclude this from the circumstance that the passage, 'He truly told that kno
 
 The reason why that imperishable source is called higher than the high Imperishable, we shall explain under the next Sūtra.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -487,7 +463,6 @@ The reason why that imperishable source is called higher than the high Imperisha
 Moreover, two kinds of knowledge are enjoined there (in the Upanishad), a lower and a higher one.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अपि चात्र द्वे विद्ये वेदितव्ये उक्ते — ‘परा चैवापरा च’ इति।
@@ -502,7 +477,6 @@ Moreover, two kinds of knowledge are enjoined there (in the Upanishad), a lower 
 
 Of the lower one it is said that it comprises the R̥g-veda and so on, and then the text continues, 'The higher knowledge is that by which the Indestructible is apprehended.'
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -519,7 +493,6 @@ Of the lower one it is said that it comprises the R̥g-veda and so on, and then 
 Here the Indestructible is declared to be the subject of the higher knowledge. If we now were to assume that the Indestructible distinguished by invisibility and like qualities is something different from the highest Lord, the knowledge referring to it would not be the higher one.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तत्र परस्या विद्याया विषयत्वेनाक्षरं श्रुतम्। यदि पुनः परमेश्वरादन्यददृश्यत्वादिगुणकमक्षरं परिकल्प्येत, नेयं परा विद्या स्यात्।
@@ -534,7 +507,6 @@ Here the Indestructible is declared to be the subject of the higher knowledge. I
 
 For the distinction of lower and higher knowledge is made on account of the diversity of their results, the former leading to mere worldly exaltation, the latter to absolute bliss;
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -551,7 +523,6 @@ For the distinction of lower and higher knowledge is made on account of the dive
 and nobody would assume absolute bliss to result from the knowledge of the pradhāna.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न च प्रधानविद्या निःश्रेयसफला केनचिदभ्युपगम्यते।
@@ -567,7 +538,6 @@ and nobody would assume absolute bliss to result from the knowledge of the pradh
 Moreover, as on the view we are controverting the highest Self would be assumed to be something higher than the imperishable source of all beings, three kinds of knowledge would have to be acknowledged,
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तिस्रश्च विद्याः प्रतिज्ञायेरन्, त्वत्पक्षेऽक्षराद्भूतयोनेः परस्य परमात्मनः प्रतिपाद्यमानत्वात्।
@@ -582,7 +552,6 @@ Moreover, as on the view we are controverting the highest Self would be assumed 
 
 while the text expressly speaks of two kinds only.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -604,7 +573,6 @@ while the text expressly speaks of two kinds only.
 Further, the reference to the knowledge of everything being implied in the knowledge of one thing--which is contained in the passage (I, 1, 3), 'Sir, what is that through which if it is known everything else becomes known?'--is possible only if the allusion is to Brahman the Self of all, and not either to the pradhāna which comprises only what is non-intelligent or to the enjoyer viewed apart from the objects of enjoyment.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ‘कस्मिन्नु भगवो विज्ञाते सर्वमिदं विज्ञातं भवति’ (मु. उ. १। १। ३) इति चैकविज्ञानेन सर्वविज्ञानापेक्षणं सर्वात्मके ब्रह्मणि विवक्ष्यमाणेऽवकल्पते, नाचेतनमात्रैकायतने प्रधाने, भोग्यव्यतिरिक्ते वा भोक्तरि।
@@ -620,7 +588,6 @@ Further, the reference to the knowledge of everything being implied in the knowl
 The text, moreover, by introducing the knowledge of Brahman as the chief subject-which it does in the passage (I, 1, 1), 'He told the knowledge of Brahman, the foundation of all knowledge, to his eldest son Atharvan'--and by afterwards declaring that out of the two kinds of knowledge, viz. the lower one and the higher one, the higher one leads to the comprehension of the Imperishable, shows that the knowledge of the Imperishable is the knowledge of Brahman.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अपि च ‘स ब्रह्मविद्यां सर्वविद्याप्रतिष्ठामथर्वाय ज्येष्ठपुत्राय प्राह’ (मु. उ. १। १। १) इति ब्रह्मविद्यां प्राधान्येनोपक्रम्य परापरविभागेन परां विद्यामक्षराधिगमनीं दर्शयन् तस्या ब्रह्मविद्यात्वं दर्शयति।
@@ -635,7 +602,6 @@ The text, moreover, by introducing the knowledge of Brahman as the chief subject
 
 On the other hand, the term 'knowledge of Brahman' would become meaningless if that Imperishable which is to be comprehended by means of it were not Brahman.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -662,7 +628,6 @@ On the other hand, the term 'knowledge of Brahman' would become meaningless if t
 The lower knowledge of works which comprises the R̥g-veda, and so on, is mentioned preliminarily to the knowledge of Brahman for the mere purpose of glorifying the latter; as appears from the passages in which it (the lower knowledge) is spoken of slightingly, such as (I, 2, 7), 'But frail indeed are those boats, the sacrifices, the eighteen in which this lower ceremonial has been told. Fools who praise this as the highest good are subject again and again to old age and death.'
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अपरा ऋग्वेदादिलक्षणा कर्मविद्या ब्रह्मविद्योपक्रमे उपन्यस्यते ब्रह्मविद्याप्रशंसायै — ‘प्लवा ह्येते अदृढा यज्ञरूपा अष्टादशोक्तमवरं येषु कर्म। एतच्छ्रेयो येऽभिनन्दन्ति मूढा जरामृत्युं ते पुनरेवापि यन्ति’ (मु. उ. १। २। ७) इत्येवमादिनिन्दावचनात्।
@@ -677,7 +642,6 @@ The lower knowledge of works which comprises the R̥g-veda, and so on, is mentio
 
 After these slighting remarks the text declares that he who turns away from the lower knowledge is prepared for the highest one (I, 2, 12), 'Let a Brhāmaṇa after he has examined all these worlds which are gained by works acquire freedom from all desires. Nothing that is eternal (not made) can be gained by what is not eternal (made). Let him in order to understand this take fuel in his hand and approach a guru who is learned and dwells entirely in Brahman.'
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -699,7 +663,6 @@ After these slighting remarks the text declares that he who turns away from the 
 The remark that, because the earth and other non-intelligent things are adduced as parallel instances, that also which is compared to them, viz. the source of all beings must be non-intelligent, is without foundation, since it is not necessary that two things of which one is compared to the other should be of absolutely the same nature.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यत्तूक्तम् — अचेतनानां पृथिव्यादीनां दृष्टान्तत्वेनोपादानाद्दार्ष्टान्तिकेनाप्यचेतनेनैव भूतयोनिना भवितव्यमिति, तदयुक्तम्; न हि दृष्टान्तदार्ष्टान्तिकयोरत्यन्तसाम्येन भवितव्यमिति नियमोऽस्ति।
@@ -715,7 +678,6 @@ The remark that, because the earth and other non-intelligent things are adduced 
 The things, moreover, to which the source of all beings is compared, viz. the earth and the like, are material, while nobody would assume the source of all beings to be material.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अपि च स्थूलाः पृथिव्यादयो दृष्टान्तत्वेनोपात्ता इति न स्थूल एव दार्ष्टान्तिको भूतयोनिरभ्युपगम्यते।
@@ -730,7 +692,6 @@ The things, moreover, to which the source of all beings is compared, viz. the ea
 
 For all these reasons the source of all beings, which possesses the attributes of invisibility and so on, is the highest Lord.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -757,7 +718,6 @@ For all these reasons the source of all beings, which possesses the attributes o
 22. The two others (i.e. the individual soul and the pradhāna) are not (the source of all beings) because there are stated distinctive attributes and difference.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 विशेषणभेदव्यपदेशाभ्यां च नेतरौ ॥ २२ ॥
@@ -772,7 +732,6 @@ For all these reasons the source of all beings, which possesses the attributes o
 
 The source of all beings is the highest Lord, not either of the two others, viz. the pradhāna and the individual soul,
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -789,7 +748,6 @@ The source of all beings is the highest Lord, not either of the two others, viz.
 on account of the following reason also.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 कस्मात् ? विशेषणभेदव्यपदेशाभ्याम्।
@@ -804,7 +762,6 @@ on account of the following reason also.
 
 In the first place, the text distinguishes the source of all beings from the embodied soul, as something of a different nature; compare the passage (II, i, 2), 'That heavenly person is without body, he is both without and within, not produced, without breath and without mind, pure.' The distinctive attributes mentioned here, such as being of a heavenly nature, and so on, can in no way belong to the individual soul,
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -821,7 +778,6 @@ In the first place, the text distinguishes the source of all beings from the emb
 which erroneously considers itself to be limited by name and form as presented by Nescience, and erroneously imputes their attributes to itself.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न ह्येतद्दिव्यत्वादिविशेषणम् अविद्याप्रत्युपस्थापितनामरूपपरिच्छेदाभिमानिनः तद्धर्मान्स्वात्मनि कल्पयतः शारीरस्योपपद्यते।
@@ -836,7 +792,6 @@ which erroneously considers itself to be limited by name and form as presented b
 
 Therefore the passage manifestly refers to the Person which is the subject of all the Upanishads.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -858,7 +813,6 @@ Therefore the passage manifestly refers to the Person which is the subject of al
 In the second place, the source of all beings which forms the general topic is represented in the text as something different from the pradhāna, viz. in the passage, 'Higher than the high Imperishable.'
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तथा प्रधानादपि प्रकृतं भूतयोनिं भेदेन व्यपदिशति — ‘अक्षरात्परतः परः’ इति।
@@ -873,7 +827,6 @@ In the second place, the source of all beings which forms the general topic is r
 
 Here the term 'Imperishable' means that undeveloped entity which represents the seminal potentiality of names and forms, contains the fine parts of the material elements, abides in the Lord, forms his limiting adjunct, and being itself no effect is high in comparison to all effects; the whole phrase, 'Higher than the high Imperishable,' which expresses a difference then clearly shows that the highest Self is meant here.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -890,7 +843,6 @@ Here the term 'Imperishable' means that undeveloped entity which represents the 
 We do not on that account assume an independent entity called pradhāna and say that the source of all beings is stated separately therefrom;
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 नात्र प्रधानं नाम किञ्चित्स्वतन्त्रं तत्त्वमभ्युपगम्य, तस्माद्भेदव्यपदेश उच्यते।
@@ -906,7 +858,6 @@ We do not on that account assume an independent entity called pradhāna and say 
 but if a pradhāna is to be assumed at all (in agreement with the common opinion) and if being assumed it is assumed of such a nature as not to be opposed to the statements of Scripture, viz. as the subtle cause of all beings denoted by the terms 'the Undeveloped' and so on, we have no objection to such an assumption,
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 किं तर्हि ? यदि प्रधानमपि कल्प्यमानं श्रुत्यविरोधेनाव्याकृतादिशब्दवाच्यं भूतसूक्ष्मं परिकल्प्येत, परिकल्प्यताम्।
@@ -921,7 +872,6 @@ but if a pradhāna is to be assumed at all (in agreement with the common opinion
 
 and declare that, on account of the separate statement therefrom, i.e. from that pradhāna, 'the source of all beings' must mean the highest Lord.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -943,7 +893,6 @@ and declare that, on account of the separate statement therefrom, i.e. from that
 A further argument in favour of the same conclusion is supplied by the next Sūtra.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 कुतश्च परमेश्वरो भूतयोनिः ? —
@@ -964,7 +913,6 @@ A further argument in favour of the same conclusion is supplied by the next Sūt
 23. And on account of its form being mentioned.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 रूपोपन्यासाच्च ॥ २३ ॥
@@ -979,7 +927,6 @@ A further argument in favour of the same conclusion is supplied by the next Sūt
 
 Subsequently to the passage, 'Higher than the high Imperishable,' we meet (in the passage, 'From him is born breath,' &c.) with a description of the creation of all things, from breath down to earth, and then with a statement of the form of this same source of beings as consisting of all created beings, 'Fire is his head, his eyes the sun and the moon, the quarters his ears, his speech the Vedas disclosed, the wind his breath, his heart the universe; from his feet came the earth; he is indeed the inner Self of all things.'
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -996,7 +943,6 @@ Subsequently to the passage, 'Higher than the high Imperishable,' we meet (in th
 This statement of form can refer only to the highest Lord,
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तच्च परमेश्वरस्यैवोचितम् , सर्वविकारकारणत्वात्।
@@ -1012,7 +958,6 @@ This statement of form can refer only to the highest Lord,
 and not either to the embodied soul, which, on account of its small power, cannot be the cause of all effects, or to the pradhāna, which cannot be the inner Self of all beings.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न शारीरस्य तनुमहिम्नः; नापि प्रधानस्य अयं रूपोपन्यासः सम्भवति, सर्वभूतान्तरात्मत्वासम्भवात्।
@@ -1027,7 +972,6 @@ and not either to the embodied soul, which, on account of its small power, canno
 
 We therefore conclude that the source of all beings is the highest Lord, not either of the other two.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1049,7 +993,6 @@ We therefore conclude that the source of all beings is the highest Lord, not eit
 But wherefrom do you conclude that the quoted declaration of form refers to the source of all beings? From the general topic, we reply. The word 'he' (in the clause, 'He is indeed the inner Self of all things') connects the passage with the general topic.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 कथं पुनर्भूतयोनेरयं रूपोपन्यास इति गम्यते ? प्रकरणात् , ‘एषः’ इति च प्रकृतानुकर्षणात्।
@@ -1065,7 +1008,6 @@ But wherefrom do you conclude that the quoted declaration of form refers to the 
 As the source of all beings constitutes the general topic, the whole passage, from 'From him is born breath,' up to, 'He is the inner Self of all beings,' refers to that same source. Similarly, when in ordinary conversation a certain teacher forms the general topic of the talk, the phrase, 'Study under him; he knows the Veda and the Vedāngas thoroughly,' as a matter of course, refers to that same teacher.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 भूतयोनिं हि प्रकृत्य ‘एतस्माज्जायते प्राणः’ ‘एष सर्वभूतान्तरात्मा’ इति वचनं भूतयोनिविषयमेव भवति। यथा उपाध्यायं प्रकृत्य ‘एतस्मादधीष्व, एष वेदवेदाङ्गपारगः’ इति वचनमुपाध्यायविषयं भवति, तद्वत्।
@@ -1080,7 +1022,6 @@ As the source of all beings constitutes the general topic, the whole passage, fr
 
 But how can a bodily form be ascribed to the source of all beings which is characterised by invisibility and similar attributes? The statement as to its nature, we reply, is made for the purpose of showing that the source of all beings is the Self of all beings, not of showing that it is of a bodily nature. The case is analogous to such passages as, 'I am food, I am food, I am the eater of food' (Taitt. Up. III, 10, 6).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1109,7 +1050,6 @@ Others, however, are of opinion [155] that the statement quoted does not refer t
 The statement of the two former commentators must be understood to mean--in agreement with the Bhāmatī--that Śankara is now going to refute the preceding explanation by the statement of his own view. Thus Go. Ān. later on explains 'asmin pakshe' by 'svapakshe.'
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अन्ये पुनर्मन्यन्ते — नायं भूतयोनेः रूपोपन्यासः, जायमानत्वेनोपन्यासात्।
@@ -1124,7 +1064,6 @@ The statement of the two former commentators must be understood to mean--in agre
 
 For, on the one hand, the immediately preceding passage ('From him is born health, mind, and all organs of sense, ether, air, light, water, and the earth, the support of all') speaks of the aggregate of beings from air down to earth as something produced,
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1141,7 +1080,6 @@ For, on the one hand, the immediately preceding passage ('From him is born healt
 and, on the other hand, a passage met with later on ('From him comes Agni, the sun being his fuel,' up to 'All herbs and juices') expresses itself to the same purpose.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 उत्तरत्रापि च ‘तस्मादग्निः समिधो यस्य सूर्यः’ इत्येवमादि ‘अतश्च सर्वा ओषधयो रसश्च’ इत्येवमन्तं जायमानत्वेनैव निर्देक्ष्यति।
@@ -1156,7 +1094,6 @@ and, on the other hand, a passage met with later on ('From him comes Agni, the s
 
 How then should all at once, in the midst of these two passages (which refer to the creation), a statement be made about the nature of the source of all beings?
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1178,7 +1115,6 @@ How then should all at once, in the midst of these two passages (which refer to 
 The attribute of being the Self of all beings, (which above was said to be mentioned in the passage about the creation, 'Fire is his head,' &c., is not mentioned there but) is stated only later on in a passage subsequent to that which refers to the creation, viz. 'The Person is all this, sacrifice,' &c. (II, 1, 10).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सर्वात्मत्वमपि सृष्टिं परिसमाप्योपदेक्ष्यति — ‘पुरुष एवेदं विश्वं कर्म’ (मु. उ. २। १। १०) इत्यादिना।
@@ -1194,7 +1130,6 @@ The attribute of being the Self of all beings, (which above was said to be menti
 Now, we see that śruti as well as smr̥ti speaks of the birth of Prajāpati, whose body is this threefold world; compare R̥g-veda Saṁh. X, 121, 1, 'Hiraṇyagarbha arose in the beginning; he was the one born Lord of things existing. He established the earth and this sky; to what God shall we offer our oblation?' where the expression 'arose' means 'he was born.' And in smr̥ti we read, 'He is the first embodied one, he is called the Person; as the primal creator of the beings Brahman was evolved in the beginning.'
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 श्रुतिस्मृत्योश्च त्रैलोक्यशरीरस्य प्रजापतेर्जन्मादि निर्दिश्यमानमुपलभामहे — ‘हिरण्यगर्भः समवर्तताग्रे भूतस्य जातः पतिरेक आसीत्। स दाधार पृथिवीं द्यामुतेमां कस्मै देवाय हविषा विधेम’ (ऋ. सं. १०। १२१। १) इति; समवर्ततेति अजायतेत्यर्थः — तथा, ‘स वै शरीरी प्रथमः स वै पुरुष उच्यते। आदिकर्ता स भूतानां ब्रह्माग्रे समवर्तत’ इति च।
@@ -1209,7 +1144,6 @@ Now, we see that śruti as well as smr̥ti speaks of the birth of Prajāpati, wh
 
 This Person which is (not the original Brahman but) an effect (like other created beings) may be called the internal Self of all beings (as it is called in II, 1, 4), because in the form of the Self of breath it abides in the Selfs of all beings.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1236,7 +1170,6 @@ But, according to the second view, II, 1, 4 to II, 1, 9, cannot refer to the sou
 
 Hence the Sūtra must be connected with another passage, and that passage is found in II, 1, 10, where it is said that the Person (i.e. the highest Self) is all this, &c.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
