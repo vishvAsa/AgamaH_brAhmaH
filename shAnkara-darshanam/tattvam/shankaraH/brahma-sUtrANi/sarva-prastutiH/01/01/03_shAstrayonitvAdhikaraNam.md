@@ -58,7 +58,7 @@ To confirm this conclusion, the Sūtrakāra continues as follows:
 शास्त्रयोनित्वात् ॥ ३ ॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>वैयासिक-न्याय-माला</summary>
 
 न कर्तृ ब्रह्म वेदस्य किंवा कर्तृ, न कर्तृ तत् ॥  
 विरूप नित्यया वाचेत्येवं नित्यत्ववर्णनात् ॥ ५ ॥  
@@ -82,7 +82,7 @@ To confirm this conclusion, the Sūtrakāra continues as follows:
 सन्देहत्तिलिरुन्दे विषयत्तै अऱिन्दु कॊळ्ळक् कूडियदिऩाल् तऩित्तु ऎडुत्तुच् चॊल्ल अवसियमिल्लै।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>वैयासिक-न्याय-माला</summary>
 
 अस्त्यन्यमेयताऽप्यस्य किंवा वेदैकमेयता ॥  
 घटवत्सिद्धवस्तुत्वाद्ब्रह्मान्येनापि मीयते ॥ ७ ॥  
