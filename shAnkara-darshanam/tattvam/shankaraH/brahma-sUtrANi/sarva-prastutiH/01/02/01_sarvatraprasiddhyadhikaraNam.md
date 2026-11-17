@@ -3,13 +3,33 @@ title = "०१ सर्वत्रप्रसिद्ध्यधिकर�
 
 +++
 
-सर्वत्र प्रसिद्धोपदेशात् ॥ १ ॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वत्र प्रसिद्धोपदेशात् ॥ १ ॥
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+1. (That which consists of mind is Brahman) because there is taught what is known from everywhere.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वत्र प्रसिद्धोपदेशात् ॥ १ ॥
+
+</details>
+
+<details><summary>वैयासिक-न्याय-माला</summary>
 
 मनोमयोऽयं शारीर ईशो वा प्राणमानसे ॥  
 हृदयस्थित्यणीयस्त्वे जीवे स्युस्तेन जीवगाः ॥ १ ॥  
 शमवाक्यगतं ब्रह्म तद्धितादिरपेक्षते ॥  
 प्राणादियोगश्चिन्तार्थश्चिन्त्यं ब्रह्म प्रसिद्धितः ॥ २ ॥  
 --वैयासिकन्यायमाला
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -21,7 +41,106 @@ title = "०१ सर्वत्रप्रसिद्ध्यधिकर�
 समत्तै विदिक्कुम् (मुऩ्ऩुळ्ळ) वाक्कियत्तिल् कण्ड पिरह्मत्तै इन्द 'तत्तिदम्' मुदलाऩ कूट्टु वार्त्तैगळ् अबेक्षिक्किऩ्ऱऩ। पिराणऩ् मुदलियदुडऩ् सेर्त्तुच् चॊऩ्ऩदु, सिन्दऩै सॆय्य वेण्डियदऱ्काग पिरह्मम् ताऩ् सिन्दिक्क वेण्डियदु ऎऩ्ऱ पिरसित्तियिरुप्पदाल्।
 </details>
 
-प्रथमे पादे ‘जन्माद्यस्य यतः’ इत्याकाशादेः समस्तस्य जगतो जन्मादिकारणं ब्रह्मेत्युक्तम्। तस्य समस्तजगत्कारणस्य ब्रह्मणो व्यापित्वं नित्यत्वं सर्वज्ञत्वं सर्वशक्तित्वं सर्वात्मत्वमित्येवंजातीयका धर्मा उक्ता एव भवन्ति। अर्थान्तरप्रसिद्धानां च केषाञ्चिच्छब्दानां ब्रह्मविषयत्वहेतुप्रतिपादनेन कानिचिद्वाक्यानि स्पष्टब्रह्मलिङ्गानि सन्दिह्यमानानि ब्रह्मपरतया निर्णीतानि। पुनरप्यन्यानि वाक्यान्यस्पष्टब्रह्मलिङ्गानि सन्दिह्यन्ते — किं परं ब्रह्म प्रतिपादयन्ति, आहोस्विदर्थान्तरं किञ्चिदिति। तन्निर्णयाय द्वितीयतृतीयौ पादावारभ्येते
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रथमे पादे ‘जन्माद्यस्य यतः’ इत्याकाशादेः समस्तस्य जगतो जन्मादिकारणं ब्रह्मेत्युक्तम्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+SECOND PĀDA.
+
+### SECOND PĀDA.
+
+REVERENCE TO THE HIGHEST SELF!
+
+In the first pāda Brahman has been shown to be the cause of the origin, subsistence, and reabsorption of the entire world, comprising the ether and the other elements.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रथमे पादे ‘जन्माद्यस्य यतः’ इत्याकाशादेः समस्तस्य जगतो जन्मादिकारणं ब्रह्मेत्युक्तम्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्य समस्तजगत्कारणस्य ब्रह्मणो व्यापित्वं नित्यत्वं सर्वज्ञत्वं सर्वशक्तित्वं सर्वात्मत्वमित्येवंजातीयका धर्मा उक्ता एव भवन्ति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Moreover, of this Brahman, which is the cause of the entire world, certain qualities have (implicitly) been declared, such as all-pervadingness, eternity, omniscience, its being the Self of all, and so on.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्य समस्तजगत्कारणस्य ब्रह्मणो व्यापित्वं नित्यत्वं सर्वज्ञत्वं सर्वशक्तित्वं सर्वात्मत्वमित्येवंजातीयका धर्मा उक्ता एव भवन्ति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्थान्तरप्रसिद्धानां च केषाञ्चिच्छब्दानां ब्रह्मविषयत्वहेतुप्रतिपादनेन कानिचिद्वाक्यानि स्पष्टब्रह्मलिङ्गानि सन्दिह्यमानानि ब्रह्मपरतया निर्णीतानि।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Further, by producing reasons showing that some words which are generally used in a different sense denote Brahman also, we have been able to determine that some passages about whose sense doubts are entertained refer to Brahman.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अर्थान्तरप्रसिद्धानां च केषाञ्चिच्छब्दानां ब्रह्मविषयत्वहेतुप्रतिपादनेन कानिचिद्वाक्यानि स्पष्टब्रह्मलिङ्गानि सन्दिह्यमानानि ब्रह्मपरतया निर्णीतानि।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुनरप्यन्यानि वाक्यान्यस्पष्टब्रह्मलिङ्गानि सन्दिह्यन्ते — किं परं ब्रह्म प्रतिपादयन्ति, आहोस्विदर्थान्तरं किञ्चिदिति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Now certain other passages present themselves which because containing only obscure indications of Brahman give rise to the doubt whether they refer to the highest Self or to something else.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पुनरप्यन्यानि वाक्यान्यस्पष्टब्रह्मलिङ्गानि सन्दिह्यन्ते — किं परं ब्रह्म प्रतिपादयन्ति, आहोस्विदर्थान्तरं किञ्चिदिति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन्निर्णयाय द्वितीयतृतीयौ पादावारभ्येते
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+We therefore begin the second and third pādas in order to settle those doubtful points.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तन्निर्णयाय द्वितीयतृतीयौ पादावारभ्येते
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -33,7 +152,43 @@ title = "०१ सर्वत्रप्रसिद्ध्यधिकर�
 मऱुबडियुम् वेऱु वाक्कियङ्गळ् तॆळिवाग पिरह्मत्तैक् कुऱिक्कक्कूडिय लिङ्गङ्गळऱ्ऱवैगळ्, परबिरह्मत्तै पिरदिबादिक्किऩ्ऱऩवा, अल्लदु वेऱु एदेऩुम् पॊरुळैया ऎऩ्ऱु, सन्देहिक् कप्पडुगिऱऩ्ऱऩ। अदै निर्णयम् सॆय्वदऱ्काग इरण्डाम् पादमुम् मूऩ्ऱाम् पादमुम् आरम्बिक् कप्पडुगिऩ्ऱऩ।
 </details>
 
-इदमाम्नायते — ‘सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत। अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिल्ँलोके पुरुषो भवति तथेतः प्रेत्य भवति स क्रतुं कुर्वीत’ (छा. उ. ३। १४। १) , ‘मनोमयः प्राणशरीरः’ (छा. उ. ३। १४। २) इत्यादि। तत्र संशयः — किमिह मनोमयत्वादिभिर्धर्मैः शारीर आत्मोपास्यत्वेनोपदिश्यते, आहोस्वित्परं ब्रह्मेति ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदमाम्नायते — ‘सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत। अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिल्ँलोके पुरुषो भवति तथेतः प्रेत्य भवति स क्रतुं कुर्वीत’ (छा. उ. ३। १४। १) , ‘मनोमयः प्राणशरीरः’ (छा. उ. ३। १४। २) इत्यादि।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Scripture says, 'All this indeed is Brahman, beginning, ending, and breathing in it; thus knowing let a man meditate with calm mind. Now man is made of determination (kratu); according to what his determination is in this world so will he be when he has departed this life. Let him therefore form this determination: he who consists of mind, whose body is breath (the subtle body),' &c. (Cḥ. Up. III, 14).
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदमाम्नायते — ‘सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत। अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिल्ँलोके पुरुषो भवति तथेतः प्रेत्य भवति स क्रतुं कुर्वीत’ (छा. उ. ३। १४। १) , ‘मनोमयः प्राणशरीरः’ (छा. उ. ३। १४। २) इत्यादि।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र संशयः — किमिह मनोमयत्वादिभिर्धर्मैः शारीर आत्मोपास्यत्वेनोपदिश्यते, आहोस्वित्परं ब्रह्मेति ।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Concerning this passage the doubt presents itself whether what is pointed out as the object of meditation, by means of attributes such as consisting of mind, &c., is the embodied (individual) soul or the highest Brahman.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र संशयः — किमिह मनोमयत्वादिभिर्धर्मैः शारीर आत्मोपास्यत्वेनोपदिश्यते, आहोस्वित्परं ब्रह्मेति ।
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -50,14 +205,284 @@ title = "०१ सर्वत्रप्रसिद्ध्यधिकर�
 “इदु ऎल्लाम् पिरह्मम् अल्लवा? अदिलिरुन्दु उण्डाऩदु, अदिलेये लयम् अडैवदु, अदऩालेये जीवित्तिरुप्पदु ऎऩ्ऱु सान्दऩाय् उबासिक्कवुम् पुरुषऩ् ऎण्णप्पडि आगिऱवऩल्लवा? पुरुषऩ् इन्द उलगत्तिल् ऎन्द ऎण्णत्तुडऩ् इरुक्किऱाऩो अप्पडिये इङ्गिरुन्दु पोऩ पिऱगु आगिऱाऩ्। (आगैयाल् अवऩ् ऎण्णत्तै सॆय्य वेण्डुम् (नल्ल सङ्गल्बत्तुडऩ् इरुक्कवेण्डुम्)," ‘मऩोमयऩ्, पिराणऩै सरीरमायुडैयवऩ्, पिरगासस्वरूबमायिरुप्पवऩ्' (सान् ३-१४- १,२) ऎऩ्बदु मुदलिय इदु सॊल्लप्पडुगिऱदु। अङ्गे, इन्द इडत्तिल् मऩेमयमायिरुत्तल् मुदलाऩ तर्मङ्गळुडऩ् कूडिऩ, सरीरत्तिलुळ्ळ, आत्मा, (जीवऩ्) उबासिक् कवेण्डियदाग उबदेसिक्कप्पडुगिऱदा अल्लदु परबिरह्ममा ऎऩ्ऱु सन्देहम्।
 </details>
 
-किं तावत्प्राप्तम् ? शारीर इति। कुतः ? तस्य हि कार्यकरणाधिपतेः प्रसिद्धो मनआदिभिः सम्बन्धः, न परस्य ब्रह्मणः; ‘अप्राणो ह्यमनाः शुभ्रः’ (मु. उ. २। १। २) इत्यादिश्रुतिभ्यः। ननु ‘सर्वं खल्विदं ब्रह्म’ इति स्वशब्देनैव ब्रह्मोपात्तम्; कथमिह शारीर आत्मोपास्यत्वेनाशङ्क्यते ? नैष दोषः। नेदं वाक्यं ब्रह्मोपासनाविधिपरम्। किं तर्हि ? शमविधिपरम्; यत्कारणम् ‘सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत’ इत्याह। एतदुक्तं भवति — यस्मात्सर्वमिदं विकारजातं ब्रह्मैव, तज्जत्वात् तल्लत्वात् तदनत्वाच्च — न च सर्वस्यैकात्मत्वे रागादयः सम्भवन्ति — तस्मात् शान्त उपासीतेति ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं तावत्प्राप्तम् ? शारीर इति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+The embodied Self, the pūrvapakshin says.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किं तावत्प्राप्तम् ? शारीर इति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः ?
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Why?
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कुतः ?
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्य हि कार्यकरणाधिपतेः प्रसिद्धो मनआदिभिः सम्बन्धः, न परस्य ब्रह्मणः; ‘अप्राणो ह्यमनाः शुभ्रः’ (मु. उ. २। १। २) इत्यादिश्रुतिभ्यः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Because the embodied Self as the ruler of the organs of action is well known to be connected with the mind and so on, while the highest Brahman is not, as is declared in several scriptural passages, so, for instance (Mu. Up. II, 1, 2),
+
+'He is without breath, without mind, pure.'
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्य हि कार्यकरणाधिपतेः प्रसिद्धो मनआदिभिः सम्बन्धः, न परस्य ब्रह्मणः; ‘अप्राणो ह्यमनाः शुभ्रः’ (मु. उ. २। १। २) इत्यादिश्रुतिभ्यः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ननु ‘सर्वं खल्विदं ब्रह्म’ इति स्वशब्देनैव ब्रह्मोपात्तम्; कथमिह शारीर आत्मोपास्यत्वेनाशङ्क्यते ?
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+But, it may be objected, the passage, 'All this indeed is Brahman,' mentions Brahman directly; how then can you suppose that the embodied Self forms the object of meditation?
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु ‘सर्वं खल्विदं ब्रह्म’ इति स्वशब्देनैव ब्रह्मोपात्तम्; कथमिह शारीर आत्मोपास्यत्वेनाशङ्क्यते ?
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैष दोषः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+This objection does not apply, the pūrvapakshin rejoins,
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नैष दोषः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नेदं वाक्यं ब्रह्मोपासनाविधिपरम्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+because the passage does not aim at enjoining meditation on Brahman,
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नेदं वाक्यं ब्रह्मोपासनाविधिपरम्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं तर्हि ? शमविधिपरम्; यत्कारणम् ‘सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत’ इत्याह।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+but rather at enjoining calmness of mind, the sense being: because Brahman is all this, tajjalān, let a man meditate with a calm mind.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किं तर्हि ? शमविधिपरम्; यत्कारणम् ‘सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत’ इत्याह।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतदुक्तं भवति — यस्मात्सर्वमिदं विकारजातं ब्रह्मैव, तज्जत्वात् तल्लत्वात् तदनत्वाच्च — न च सर्वस्यैकात्मत्वे रागादयः सम्भवन्ति — तस्मात् शान्त उपासीतेति ।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+That is to say: because all this aggregate of effects is Brahman only, springing from it, ending in it, and breathing in it; and because, as everything constitutes one Self only, there is no room for passion; therefore a man is to meditate with a calm mind.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतदुक्तं भवति — यस्मात्सर्वमिदं विकारजातं ब्रह्मैव, तज्जत्वात् तल्लत्वात् तदनत्वाच्च — न च सर्वस्यैकात्मत्वे रागादयः सम्भवन्ति — तस्मात् शान्त उपासीतेति ।
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 पूर्वबक्षम्: ऎदु न्यायम्? सारीरऩ् (सरीरत्तिलुळ्ळ जीवऩ्) ऎऩ्ऱु। एऩ्? सरीरम् इन्दिरियम् इवैगळुक्कु अदिबदियायिरुक्कुम् अवऩुक्कल्लवा मऩस् मुदलिय वैगळुडऩ् सम्बन्दम् पिरसित्तमा यिरुक्किऱदु? परबिरह्मत्तिऱ्कु इल्लै, 'पिराण ऩिल्लाददु। मऩस् इल्लाददु, सुत्तम्' (मुण्डग २-१-२) ऎऩ्बदु मुदलाऩ सुरुदिगळाल्, “इदु ऎल्लाम् पिरह्मम् अल्लवा?” ऎऩ्ऱु तऩ् सप्तत्तिऩालेये पिरह्मम् सॊल्लप् पट्टिरुक् किऱदे? (अप्पडि इरुक्क) इङ्गु सरीरत्तिलुळ्ळ आत्मा उबासिक्कत्तगुन्दवऩ् ऎऩ्ऱु ऎप्पडि सन्देहप् पडलाम्? ऎऩ्ऱाल्, इदु तोषम् इल्लै। इन्द वाक्कियम् पिरह्मत्तिऩ् उबासऩैयै विदिप्पदिल् तात्पर्यमुळ्ळदल्ल, आऩाल् सान्दियै विदिप्पदिल् तात्पर्यमुळ्ळदु ऎऩ्ऩ कारणमॆऩ्ऱाल्, “इदु ऎल्लाम् पिरह्मम् अल्लवा? अदिलिरुन्दु उण्डाऩदु। अदिल् लयत्तै अडैगिऱदु, अदऩाल् जीवित्तिरुक्किऱदु ऎऩ्ऱु सान्दऩाय् उबासिक्कवुम्” ऎऩ्ऱु सॊल्गिऱदु। इदु सॊऩ्ऩदाग आगिऱदु ऎन्द कारणत्तिऩाल्, अदिलिरुन्दु उण्डाऩदिऩाल्, अदिल् लयमडैवदाल्, अदऩाल् जीवित्तिरुप्पदिऩाल्, विगारङ्गळिऩ् कूट्टमागिय इदु ऎल्लाम् पिरह्ममेदाऩो; ऎल्लाम् ऒरे स्वरूबमायि रुक्कुमेयाऩाल् रागम् मुदलियवैगळ् एऱ्पडादु; अदऩाल् सान्दऩाय् इरुन्दु कॊण्डु उबासिक्कवुम् ऎऩ्ऱु।
 </details>
 
-न च शमविधिपरत्वे सत्यनेन वाक्येन ब्रह्मोपासनं नियन्तुं शक्यते। उपासनं तु ‘स क्रतुं कुर्वीत’ इत्यनेन विधीयते। क्रतुः सङ्कल्पो ध्यानमित्यर्थः। तस्य च विषयत्वेन श्रूयते — ‘मनोमयः प्राणशरीरः’ इति जीवलिङ्गम्। अतो ब्रूमः — जीवविषयमेतदुपासनमिति। ‘सर्वकर्मा सर्वकामः’ इत्याद्यपि श्रूयमाणं पर्यायेण जीवविषयमुपपद्यते। ‘एष म आत्मान्तर्हृदयेऽणीयान्व्रीहेर्वा यवाद्वा’ इति च हृदयायतनत्वमणीयस्त्वं चाराग्रमात्रस्य जीवस्यावकल्पते, नापरिच्छिन्नस्य ब्रह्मणः ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च शमविधिपरत्वे सत्यनेन वाक्येन ब्रह्मोपासनं नियन्तुं शक्यते।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+And since the sentence aims at enjoining calmness of mind, it cannot at the same time enjoin meditation on Brahman [140];
+
+</details>
+
+<details><summary>Thibaut - Note</summary>
+
+[140]: 108:1 The clause 'he is to meditate with a calm mind' if taken as a guṇavidhi, i.e. as enjoining some secondary matter, viz. calmness of mind of the meditating person, cannot at the same time enjoin meditation; for that would involve a so-called split of the sentence (vākyabheda).
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च शमविधिपरत्वे सत्यनेन वाक्येन ब्रह्मोपासनं नियन्तुं शक्यते।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपासनं तु ‘स क्रतुं कुर्वीत’ इत्यनेन विधीयते। क्रतुः सङ्कल्पो ध्यानमित्यर्थः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+but meditation is separately enjoined in the clause, 'Let him form the determination, i.e. reflection.'
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपासनं तु ‘स क्रतुं कुर्वीत’ इत्यनेन विधीयते। क्रतुः सङ्कल्पो ध्यानमित्यर्थः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्य च विषयत्वेन श्रूयते — ‘मनोमयः प्राणशरीरः’ इति जीवलिङ्गम्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+And thereupon the subsequent passage, 'He who consists of mind, whose body is breath,' &c. states the object of the meditation in words indicatory of the individual soul.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्य च विषयत्वेन श्रूयते — ‘मनोमयः प्राणशरीरः’ इति जीवलिङ्गम्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ब्रूमः — जीवविषयमेतदुपासनमिति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+For this reason we maintain that the meditation spoken of has the individual soul for its object.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो ब्रूमः — जीवविषयमेतदुपासनमिति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘सर्वकर्मा सर्वकामः’ इत्याद्यपि श्रूयमाणं पर्यायेण जीवविषयमुपपद्यते।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+The other attributes also subsequently stated in the text, 'He to whom all works, all desires belong,' &c. may rightly be held to refer to the individual soul.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘सर्वकर्मा सर्वकामः’ इत्याद्यपि श्रूयमाणं पर्यायेण जीवविषयमुपपद्यते।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘एष म आत्मान्तर्हृदयेऽणीयान्व्रीहेर्वा यवाद्वा’ इति च हृदयायतनत्वमणीयस्त्वं चाराग्रमात्रस्य जीवस्यावकल्पते, नापरिच्छिन्नस्य ब्रह्मणः ।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+The attributes, finally, of being what abides in the heart and of being extremely minute which are mentioned in the passage, 'He is my Self within the heart, smaller than a corn of rice, smaller than a corn of barley,' may be ascribed to the individual soul which has the size of the point of a goad, but not to the unlimited Brahman.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘एष म आत्मान्तर्हृदयेऽणीयान्व्रीहेर्वा यवाद्वा’ इति च हृदयायतनत्वमणीयस्त्वं चाराग्रमात्रस्य जीवस्यावकल्पते, नापरिच्छिन्नस्य ब्रह्मणः ।
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -74,7 +499,123 @@ title = "०१ सर्वत्रप्रसिद्ध्यधिकर�
 ‘इन्द ऎऩ्ऩुडैय आत्मा ह्रुदयत्तिल् उळ्ळे, नॆल्लैयुम् विड, यवत्तैयुम् विड मिगवुम् अणु' ऎऩ्ऱु ह्रुदयत्तै इरुप्पिडमायुळ्ळ तऩ्मै, मिगवुम् अणुवायिरुक्कुम् तऩ्मै इवै ऊसि मुऩैयिऩ् अळवुळ्ळ जीवऩुक्कुप् पॊरुन्दुम्, अळविऱ्कु उळ्बडाद पिरह्मत्तिऱ्कु पॊरुन्दादु।
 </details>
 
-ननु ‘ज्यायान्पृथिव्याः’ इत्याद्यपि न परिच्छिन्नेऽवकल्पत इति। अत्र ब्रूमः — न तावदणीयस्त्वं ज्यायस्त्वं चोभयमेकस्मिन्समाश्रयितुं शक्यम् , विरोधात्। अन्यतराश्रयणे च, प्रथमश्रुतत्वादणीयस्त्वं युक्तमाश्रयितुम्। ज्यायस्त्वं तु ब्रह्मभावापेक्षया भविष्यतीति। निश्चिते च जीवविषयत्वे यदन्ते ब्रह्मसङ्कीर्तनम् — ‘एतद्ब्रह्म’ (छा. उ. ३। १४। ४) इति, तदपि प्रकृतपरामर्शार्थत्वाज्जीवविषयमेव। तस्मान्मनोमयत्वादिभिर्धर्मैर्जीव उपास्य इत्येवं प्राप्ते ब्रूमः —
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ननु ‘ज्यायान्पृथिव्याः’ इत्याद्यपि न परिच्छिन्नेऽवकल्पत इति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+If it be objected that the immediately following passage, 'greater than the earth,' &c., cannot refer to something limited,
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु ‘ज्यायान्पृथिव्याः’ इत्याद्यपि न परिच्छिन्नेऽवकल्पत इति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र ब्रूमः — न तावदणीयस्त्वं ज्यायस्त्वं चोभयमेकस्मिन्समाश्रयितुं शक्यम् , विरोधात्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+we reply that smallness and greatness which are mutually opposite cannot indeed be ascribed to one and the same thing;
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र ब्रूमः — न तावदणीयस्त्वं ज्यायस्त्वं चोभयमेकस्मिन्समाश्रयितुं शक्यम् , विरोधात्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यतराश्रयणे च, प्रथमश्रुतत्वादणीयस्त्वं युक्तमाश्रयितुम्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+and that, if one attribute
+
+only is to be ascribed to the subject of the passage, smallness is preferable because it is mentioned first;
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्यतराश्रयणे च, प्रथमश्रुतत्वादणीयस्त्वं युक्तमाश्रयितुम्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्यायस्त्वं तु ब्रह्मभावापेक्षया भविष्यतीति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+while the greatness mentioned later on may be attributed to the soul in so far as it is one with Brahman.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्यायस्त्वं तु ब्रह्मभावापेक्षया भविष्यतीति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निश्चिते च जीवविषयत्वे यदन्ते ब्रह्मसङ्कीर्तनम् — ‘एतद्ब्रह्म’ (छा. उ. ३। १४। ४) इति, तदपि प्रकृतपरामर्शार्थत्वाज्जीवविषयमेव।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+If it is once settled that the whole passage refers to the individual soul, it follows that the declaration of Brahman also, contained in the passage, 'That is Brahman' (III, 14, 4), refers to the individual soul [141], as it is clearly connected with the general topic.
+
+[141]: 109:1 Jīve#pi dehādib_rim_hanāj jyāstvanyāyād vā brahmatety arthaḥ. Ān. Gi.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निश्चिते च जीवविषयत्वे यदन्ते ब्रह्मसङ्कीर्तनम् — ‘एतद्ब्रह्म’ (छा. उ. ३। १४। ४) इति, तदपि प्रकृतपरामर्शार्थत्वाज्जीवविषयमेव।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मान्मनोमयत्वादिभिर्धर्मैर्जीव उपास्य इत्येवं प्राप्ते ब्रूमः —
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Therefore the individual soul is the object of meditation indicated by the qualities of consisting of mind and so on.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मान्मनोमयत्वादिभिर्धर्मैर्जीव उपास्य इत्येवं प्राप्ते ब्रूमः —
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -86,7 +627,100 @@ title = "०१ सर्वत्रप्रसिद्ध्यधिकर�
 आगैयाल् मऩोमयत्तऩ्मै मुदलाऩ तर्मङ्गळुडऩ् जीवऩ् उबासिक्कत्तगुन्दवऩ्, ऎऩ्ऱु
 </details>
 
-परमेव ब्रह्मेह मनोमयत्वादिभिर्धर्मैरुपास्यम्। कुतः ? सर्वत्र प्रसिद्धोपदेशात्। यत्सर्वेषु वेदान्तेषु प्रसिद्धं ब्रह्मशब्दस्यालम्बनं जगत्कारणम् , इह च ‘सर्वं खल्विदं ब्रह्म’ इति वाक्योपक्रमे श्रुतम् , तदेव मनोमयत्वादिधर्मैर्विशिष्टमुपदिश्यत इति युक्तम्। एवं च सति प्रकृतहानाप्रकृतप्रक्रिये न भविष्यतः ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परमेव ब्रह्मेह मनोमयत्वादिभिर्धर्मैरुपास्यम्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+To all this we reply: The highest Brahman only is what is to be meditated upon as distinguished by the attributes of consisting of mind and so on.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परमेव ब्रह्मेह मनोमयत्वादिभिर्धर्मैरुपास्यम्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः ?
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Why?--
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कुतः ?
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वत्र प्रसिद्धोपदेशात्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+'On account of there being taught here what is known from everywhere.'
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वत्र प्रसिद्धोपदेशात्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत्सर्वेषु वेदान्तेषु प्रसिद्धं ब्रह्मशब्दस्यालम्बनं जगत्कारणम् , इह च ‘सर्वं खल्विदं ब्रह्म’ इति वाक्योपक्रमे श्रुतम् , तदेव मनोमयत्वादिधर्मैर्विशिष्टमुपदिश्यत इति युक्तम्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+What is known from all Vedānta-passages to be the sense of the word Brahman, viz. the cause of the world, and what is mentioned here in the beginning words of the passage, ('all this indeed is Brahman,') the same we must assume to be taught here as distinguished by certain qualities, viz. consisting of mind and so on.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत्सर्वेषु वेदान्तेषु प्रसिद्धं ब्रह्मशब्दस्यालम्बनं जगत्कारणम् , इह च ‘सर्वं खल्विदं ब्रह्म’ इति वाक्योपक्रमे श्रुतम् , तदेव मनोमयत्वादिधर्मैर्विशिष्टमुपदिश्यत इति युक्तम्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं च सति प्रकृतहानाप्रकृतप्रक्रिये न भविष्यतः ।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Thus we avoid the fault of dropping the subject-matter under discussion and needlessly introducing a new topic.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं च सति प्रकृतहानाप्रकृतप्रक्रिये न भविष्यतः ।
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -98,23 +732,285 @@ title = "०१ सर्वत्रप्रसिद्ध्यधिकर�
 ‘ऎङ्गुम् पिरसित्तमायुळ्ळदै उबदेसिप्पदाल्' ऎदु ऎल्ला उबनिषत्तुक्कळिलुम् पिरसित्तमाय् पिरह्मम् ऎऩ्ऱ सप्तत्तिऱ्कु पिडिप्पाय् जगत्तिऩ् कारणमाय्, उळ्ळदो, इङ्गेयुम् ‘इदु ऎल्लाम् पिरह्मम् अल्लवा' ऎऩ्ऱु वाक्कियत्तिऩ् आरम्बत्तिल् सॊल्लप् पट्टिरुक्किऱदो, अदुदाऩ् मऩोमयत्तऩ्मै मुदलाऩ कुणङ्गळुडऩ् कूडिऩदाग उबदेसिक्कप्पडुगिऱदु ऎऩ्बदु न्यायम्। इप्पडियाऩाल् ताऩ् पिरगिरुदत्तै विडुवदु पिरगिरुदमिल्लाददै ऎडुत्तुक्कॊळ्वदु ऎऩ्ऱु तोषङ्गळ् एऱ्पडामलिरुक्कुम्।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ननु वाक्योपक्रमे शमविधिविवक्षया ब्रह्म निर्दिष्टं न स्वविवक्षयेत्युक्तम्; अत्रोच्यते — यद्यपि शमविधिविवक्षया ब्रह्म निर्दिष्टम् , तथापि मनोमयत्वादिषूपदिश्यमानेषु तदेव ब्रह्म सन्निहितं भवति, जीवस्तु न सन्निहितः, न च स्वशब्देनोपात्त इति वैषम्यम् ॥ १ ॥
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+But, it may be said, it has been shown that Brahman is, in the beginning of the passage, introduced merely for the purpose of intimating the injunction of calmness of mind, not for the purpose of intimating Brahman itself.
+
+True, we reply; but the fact nevertheless remains that, where the qualities of consisting of mind, &c. are spoken of, Brahman only is proximate (i.e. mentioned not far off so that it may be concluded to be the thing referred to), while the individual soul is neither proximate nor intimated by any word directly pointing to it. The cases of Brahman and the individual soul are therefore not equal.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु वाक्योपक्रमे शमविधिविवक्षया ब्रह्म निर्दिष्टं न स्वविवक्षयेत्युक्तम्; अत्रोच्यते — यद्यपि शमविधिविवक्षया ब्रह्म निर्दिष्टम् , तथापि मनोमयत्वादिषूपदिश्यमानेषु तदेव ब्रह्म सन्निहितं भवति, जीवस्तु न सन्निहितः, न च स्वशब्देनोपात्त इति वैषम्यम् ॥ १ ॥
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 वाक्कियत्तिऩ् आरम्बत्तिल् सान्दि सम्बन्दमाऩ विदियैच् चॊल्लुम् उत्तेसत्तुडऩ् पिरह्मम् कुऱिप्पिडप् पट्टदे तविर तऩ्ऩै (पिरह्मत्तै) सॊल्लुम् उत्तेसत्तुडऩिल्लै ऎऩ्ऱु सॊल्लप्पट्टदे यॆऩ्ऱाल्, अङ्गु सॊल्गिऱोम्। सान्दि विदियैच्चॊल्लुम् उत्तेसत् तुडऩ् पिरह्मम् कुऱिप्पिडप्पट्ट पोदिलुम्, अप्पडियुम् मऩोम यत्तऩ्मै मुदलियवै उबदेसिक् कप्पडुम् पोदु अन्द पिरह्ममे समीबत्तिल् इरुक्किऱदु। जीवऩो समीबत्तिलुम् इल्लै। तऩ् (जीवऩ् ऎऩ्ऱ) सप्तत्तिऩाल् सॊल्लप्पडवुमिल्लै ऎऩ्बदु वित्तियासम्।
 </details>
 
-विवक्षितगुणोपपत्तेश्च ॥ २ ॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वक्तुमिष्टा विवक्षिताः। यद्यप्यपौरुषेये वेदे वक्तुरभावात् नेच्छार्थः सम्भवति, तथाप्युपादानेन फलेनोपचर्यते। यच्छब्दाभिहितमुपादेयं भवति तद्विवक्षितमित्युच्यते, यदनुपादेयं तदविवक्षितमिति। तद्वद्वेदेऽप्युपादेयत्वेनाभिहितं विवक्षितं भवति, इतरदविवक्षितम्। उपादानानुपादाने तु वेदवाक्यतात्पर्यातात्पर्याभ्यामवगम्येते ।
+विवक्षितगुणोपपत्तेश्च ॥ २ ॥
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+2. And because the qualities desired to be expressed are possible (in Brahman; therefore the passage refers to Brahman).
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विवक्षितगुणोपपत्तेश्च ॥ २ ॥
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वक्तुमिष्टा विवक्षिताः। यद्यप्यपौरुषेये वेदे वक्तुरभावात् नेच्छार्थः सम्भवति, तथाप्युपादानेन फलेनोपचर्यते।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Although in the Veda which is not the work of man no wish in the strict sense can be expressed [142], there being no speaker, still such phrases as 'desired to be expressed,' may be figuratively used on account of the result, viz. (mental) comprehension.
+
+[142]: 110:1 The discussion is brought on by the term 'vivakshita' in the Sūtra whose meaning is 'expressed, aimed at,' but more literally 'desired to be expressed.'
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वक्तुमिष्टा विवक्षिताः। यद्यप्यपौरुषेये वेदे वक्तुरभावात् नेच्छार्थः सम्भवति, तथाप्युपादानेन फलेनोपचर्यते।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यच्छब्दाभिहितमुपादेयं भवति तद्विवक्षितमित्युच्यते, यदनुपादेयं तदविवक्षितमिति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+For just as in ordinary language we speak of something which is intimated by a word and is to be received (by the hearer as the meaning of the word), as 'desired to be expressed;'
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यच्छब्दाभिहितमुपादेयं भवति तद्विवक्षितमित्युच्यते, यदनुपादेयं तदविवक्षितमिति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्वद्वेदेऽप्युपादेयत्वेनाभिहितं विवक्षितं भवति, इतरदविवक्षितम्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+so in the Veda also whatever is denoted as that which is to be received is 'desired to be expressed,' everything else 'not desired to be expressed.'
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद्वद्वेदेऽप्युपादेयत्वेनाभिहितं विवक्षितं भवति, इतरदविवक्षितम्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपादानानुपादाने तु वेदवाक्यतात्पर्यातात्पर्याभ्यामवगम्येते ।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+What is to be received as the meaning of a Vedic sentence, and what not, is inferred from the general purport of the passage.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपादानानुपादाने तु वेदवाक्यतात्पर्यातात्पर्याभ्यामवगम्येते ।
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 ‘सॊल्लविरुम्बुम्' ऎऩ्बदु सॊल्ल वेण्डुमॆऩ्ऱु विरुम्बप्पडुबवै। अबौरुषेयमाऩ (ऎन्द पुरुषऩालुम् उण्डुबण्णप्पडाद) वेद विषयत्तिल् सॊल्गिऱवऩ् किडैयाददिऩाल् विरुम्बुवदु ऎऩ्ऱ अर्त्तम् सम्बविक्कादु। ऎऩ्ऱिरुन्द पोदिलुम्, अप्पडियुम् “ऎडुत्तुक्कॊळ्वदु” ऎऩ्ऱ पलऩिऩाल् (पिरयोजऩत् तिऩाल्) उबसारमाग सॊल्लप्पडुगिऱदु। 'उलगत्तिल् ऎदु सप्तत्तिऩाल् सॊल्लप्पट्टु ऎडुत्तुक्कॊळ्ळ वेण्डि यदाग इरुक्किऱदो; अदु सॊल्ल विरुम्बप्पट्ट तॆऩ्ऱुम् ऎदु ऎडुत्तुक्कॊळ्ळ वेण्डिय तिल्लैयो, अदु सॊल्ल विरुम्बप्पडाददॆऩ्ऱुम्, सॊल्लप्पडुव तिल्लैया? अदैप्पोल वेदत्तिलुम् कूड ऎदु ऎडुत्तुक्कॊळ्ळ वेण्डियदाग सॊल्लप्पट्टि रुक्किऱदो, अदु सॊल्ल विरुम्बप्पट्टदाग आगिऱदु, मऱ्ऱदु सॊल्ल विरुम्बप्पडाददाग (आगिऱदु) ऎडुत्तुक् कॊळ्वदु ऎडुत्तुक्कॊळ्ळामलिरुप्पदु इवैगळो वेदवाक्कियत्तिऩ् तात्पर्यमायिरुप्पदु तात्पर्यमिल्ला मलिरुप्पदु ऎऩ्बवैगळिलिरुन्दु अऱियप् पडुगिऱदु।
 </details>
 
-तदिह ये विवक्षिता गुणा उपासनायामुपादेयत्वेनोपदिष्टाः सत्यसङ्कल्पप्रभृतयः, ते परस्मिन्ब्रह्मण्युपपद्यन्ते। सत्यसङ्कल्पत्वं हि सृष्टिस्थितिसंहारेष्वप्रतिबद्धशक्तित्वात्परमात्मन एवावकल्पते। परमात्मगुणत्वेन च ‘य आत्मापहतपाप्मा’ (छा. उ. ८। ७। १) इत्यत्र ‘सत्यकामः सत्यसङ्कल्पः’ इति श्रुतम् , ‘आकाशात्मा’ इति च आकाशवदात्मा अस्येत्यर्थः। सर्वगतत्वादिभिर्धर्मैः सम्भवत्याकाशेन साम्यं ब्रह्मणः। ‘ज्यायान्पृथिव्याः’ इत्यादिना चैतदेव दर्शयति। यदापि आकाश आत्मा यस्येति व्याख्यायते, तदापि सम्भवति सर्वजगत्कारणस्य सर्वात्मनो ब्रह्मण आकाशात्मत्वम्। अत एव ‘सर्वकर्मा’ इत्यादि। एवमिहोपास्यतया विवक्षिता गुणा ब्रह्मण्युपपद्यन्ते ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदिह ये विवक्षिता गुणा उपासनायामुपादेयत्वेनोपदिष्टाः सत्यसङ्कल्पप्रभृतयः, ते परस्मिन्ब्रह्मण्युपपद्यन्ते।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Those qualities which are here desired to be expressed, i.e. intimated as qualities to be dwelt on in meditation, viz. the qualities of having true purposes, &c. are possible in the highest Brahman;
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदिह ये विवक्षिता गुणा उपासनायामुपादेयत्वेनोपदिष्टाः सत्यसङ्कल्पप्रभृतयः, ते परस्मिन्ब्रह्मण्युपपद्यन्ते।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्यसङ्कल्पत्वं हि सृष्टिस्थितिसंहारेष्वप्रतिबद्धशक्तित्वात्परमात्मन एवावकल्पते।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+for the quality of having true purposes may be ascribed to the highest Self which possesses unimpeded power over the creation, subsistence, and reabsorption of this world.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सत्यसङ्कल्पत्वं हि सृष्टिस्थितिसंहारेष्वप्रतिबद्धशक्तित्वात्परमात्मन एवावकल्पते।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परमात्मगुणत्वेन च ‘य आत्मापहतपाप्मा’ (छा. उ. ८। ७। १) इत्यत्र ‘सत्यकामः सत्यसङ्कल्पः’ इति श्रुतम् , ‘आकाशात्मा’ इति च आकाशवदात्मा अस्येत्यर्थः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Similarly the qualities of having true desires and true purposes are attributed to the highest Self in another passage, viz. the one beginning, 'The Self which is free from sin' (Cḥ. Up. VIII, 7, 1). The clause, 'He whose Self is the ether,' means 'he whose Self is like the ether;'
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परमात्मगुणत्वेन च ‘य आत्मापहतपाप्मा’ (छा. उ. ८। ७। १) इत्यत्र ‘सत्यकामः सत्यसङ्कल्पः’ इति श्रुतम् , ‘आकाशात्मा’ इति च आकाशवदात्मा अस्येत्यर्थः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वगतत्वादिभिर्धर्मैः सम्भवत्याकाशेन साम्यं ब्रह्मणः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+for Brahman may be said to be like the ether on account of its omnipresence and other qualities.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वगतत्वादिभिर्धर्मैः सम्भवत्याकाशेन साम्यं ब्रह्मणः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘ज्यायान्पृथिव्याः’ इत्यादिना चैतदेव दर्शयति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+This is also expressed by the clause, 'Greater than the earth.'
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘ज्यायान्पृथिव्याः’ इत्यादिना चैतदेव दर्शयति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदापि आकाश आत्मा यस्येति व्याख्यायते, तदापि सम्भवति सर्वजगत्कारणस्य सर्वात्मनो ब्रह्मण आकाशात्मत्वम्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+And the other explanation also, according to which the passage means 'he whose Self is the ether' is possible, since Brahman which as the cause of the whole world is the Self of everything is also the Self of the ether.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदापि आकाश आत्मा यस्येति व्याख्यायते, तदापि सम्भवति सर्वजगत्कारणस्य सर्वात्मनो ब्रह्मण आकाशात्मत्वम्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव ‘सर्वकर्मा’ इत्यादि।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+For the same reasons he is called 'he to whom all works belong, and so on.'
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत एव ‘सर्वकर्मा’ इत्यादि।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवमिहोपास्यतया विवक्षिता गुणा ब्रह्मण्युपपद्यन्ते ।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Thus the qualities here intimated as topics of meditation agree with the nature of Brahman.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवमिहोपास्यतया विवक्षिता गुणा ब्रह्मण्युपपद्यन्ते ।
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -126,7 +1022,102 @@ title = "०१ सर्वत्रप्रसिद्ध्यधिकर�
 आगासात्मा" ऎऩ्बदु मुदलियवैयाल् आगासम् पोल् इवरुडैय आत्मा ऎऩ्ऱ अर्त्तम् (किडैक्किऱदु) ऎल्लावऱ्ऱिलुमिरुप्पदु मुदलाऩ तर्मङ्गळिऩाल् पिरह्मत्तिऱ्कु आगासत्तुडऩ् साम्यम् सम्बविक्किऱदु “पूमियैविडप्पॆरिदु” ऎऩ्बदु मुदलाऩदिऩालुम् इदैये काट्टुगिऱदु। आगासम् ऎवरुक्कु आत्मावो, ऎऩ्ऱु वियाक्याऩम् सॆय्दालुम्, अप्पॊऴुदुम् ऎल्ला जगत्तिऱ्कुम् कारणमाय् ऎल्ला स्वरूबमायुळ्ळ पिरह्मत्तिऱ्कु आगासात्मत्तऩ्मै सम्बविक्कुम्। इदिऩालेये "सर्व कर्मा" ऎऩ्बदु मुदलियदुम् (सम्बविक्कुम्)। इव्विदमाग इङ्गे उबासिक्क वेण्डियदाग सॊल्ल विरुम्बप्पडुम् कुणङ्गळ् पिरह्मत्तिल् पॊरुन्दुगिऩ्ऱऩ।
 </details>
 
-यत्तूक्तम् — ‘मनोमयः प्राणशरीरः’ इति जीवलिङ्गम् , न तद्ब्रह्मण्युपपद्यत इति; तदपि ब्रह्मण्युपपद्यत इति ब्रूमः। सर्वात्मत्वाद्धि ब्रह्मणो जीवसम्बन्धीनि मनोमयत्वादीनि ब्रह्मसम्बन्धीनि भवन्ति। तथा च ब्रह्मविषये श्रुतिस्मृती भवतः — ‘त्वं स्त्री त्वं पुमानसि त्वं कुमार उत वा कुमारी। त्वं जीर्णो दण्डेन वञ्चसि त्वं जातो भवसि विश्वतोमुखः’ (श्वे. उ. ४। ३) इति; ‘सर्वतःपाणिपादं तत्सर्वतोऽक्षिशिरोमुखम्। सर्वतःश्रुतिमल्लोके सर्वमावृत्य तिष्ठति’ (भ. गी. १३। १३) इति च। ‘अप्राणो ह्यमनाः शुभ्रः’ इति श्रुतिः शुद्धब्रह्मविषया, इयं तु श्रुतिः ‘मनोमयः प्राणशरीरः’ इति सगुणब्रह्मविषयेति विशेषः। अतो विवक्षितगुणोपपत्तेः परमेव ब्रह्म इहोपास्यत्वेनोपदिष्टमिति गम्यते ॥ २ ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत्तूक्तम् — ‘मनोमयः प्राणशरीरः’ इति जीवलिङ्गम् , न तद्ब्रह्मण्युपपद्यत इति; तदपि ब्रह्मण्युपपद्यत इति ब्रूमः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+We further maintain that the terms 'consisting of mind,' and 'having breath for its body,' which the pūrvapakshin asserts
+
+cannot refer to Brahman, may refer to it.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत्तूक्तम् — ‘मनोमयः प्राणशरीरः’ इति जीवलिङ्गम् , न तद्ब्रह्मण्युपपद्यत इति; तदपि ब्रह्मण्युपपद्यत इति ब्रूमः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वात्मत्वाद्धि ब्रह्मणो जीवसम्बन्धीनि मनोमयत्वादीनि ब्रह्मसम्बन्धीनि भवन्ति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+For as Brahman is the Self of everything, qualities such as consisting of mind and the like, which belong to the individual soul, belong to Brahman also.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वात्मत्वाद्धि ब्रह्मणो जीवसम्बन्धीनि मनोमयत्वादीनि ब्रह्मसम्बन्धीनि भवन्ति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च ब्रह्मविषये श्रुतिस्मृती भवतः — ‘त्वं स्त्री त्वं पुमानसि त्वं कुमार उत वा कुमारी। त्वं जीर्णो दण्डेन वञ्चसि त्वं जातो भवसि विश्वतोमुखः’ (श्वे. उ. ४। ३) इति; ‘सर्वतःपाणिपादं तत्सर्वतोऽक्षिशिरोमुखम्। सर्वतःश्रुतिमल्लोके सर्वमावृत्य तिष्ठति’ (भ. गी. १३। १३) इति च।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Accordingly Śruti and Smr̥ti say of Brahman, 'Thou art woman, thou art man; thou art youth, thou art maiden; thou as an old man totterest along on thy staff; thou art born with thy face turned everywhere' (Śve. Up. IV, 3), and 'its hands and feet are everywhere, its eyes and head are everywhere, its ears are everywhere, it stands encompassing all in the world' (Bha. Gītā III, 13).
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा च ब्रह्मविषये श्रुतिस्मृती भवतः — ‘त्वं स्त्री त्वं पुमानसि त्वं कुमार उत वा कुमारी। त्वं जीर्णो दण्डेन वञ्चसि त्वं जातो भवसि विश्वतोमुखः’ (श्वे. उ. ४। ३) इति; ‘सर्वतःपाणिपादं तत्सर्वतोऽक्षिशिरोमुखम्। सर्वतःश्रुतिमल्लोके सर्वमावृत्य तिष्ठति’ (भ. गी. १३। १३) इति च।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘अप्राणो ह्यमनाः शुभ्रः’ इति श्रुतिः शुद्धब्रह्मविषया, इयं तु श्रुतिः ‘मनोमयः प्राणशरीरः’ इति सगुणब्रह्मविषयेति विशेषः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+The passage (quoted above against our view), 'Without breath, without mind, pure,' refers to the pure (unrelated) Brahman. The terms 'consisting of mind; having breath for its body,' on the other hand, refer to Brahman as distinguished by qualities.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘अप्राणो ह्यमनाः शुभ्रः’ इति श्रुतिः शुद्धब्रह्मविषया, इयं तु श्रुतिः ‘मनोमयः प्राणशरीरः’ इति सगुणब्रह्मविषयेति विशेषः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो विवक्षितगुणोपपत्तेः परमेव ब्रह्म इहोपास्यत्वेनोपदिष्टमिति गम्यते ॥ २ ॥
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Hence, as the qualities mentioned are possible in Brahman, we conclude that the highest Brahman only is represented as the object of meditation.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो विवक्षितगुणोपपत्तेः परमेव ब्रह्म इहोपास्यत्वेनोपदिष्टमिति गम्यते ॥ २ ॥
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -148,59 +1139,710 @@ title = "०१ सर्वत्रप्रसिद्ध्यधिकर�
 आगैयाल् सॊल्ल विरुप्पप्पडुम् कुणङ्गळ् पॊरुन्दुमाऩदिऩाल्, परबिरह्मम्दाऩ् इङ्गे उबासिक्कत्तक्कदाग उबदेसम् सॆय्यप्पट्टिरुक्किऱदु ऎऩ्ऱु अऱियप्पडुगिऱदु।
 </details>
 
-अनुपपत्तेस्तु न शारीरः ॥ ३ ॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पूर्वेण सूत्रेण ब्रह्मणि विवक्षितानां गुणानामुपपत्तिरुक्ता। अनेन शारीरे तेषामनुपपत्तिरुच्यते। तुशब्दोऽवधारणार्थः। ब्रह्मैवोक्तेन न्यायेन मनोमयत्वादिगुणम्; न तु शारीरो जीवो मनोमयत्वादिगुणः; यत्कारणम् — ‘सत्यसङ्कल्पः’ ‘आकाशात्मा’ ‘अवाकी’ ‘अनादरः’ ‘ज्यायान्पृथिव्याः’ इति चैवंजातीयका गुणा न शारीरे आञ्जस्येनोपपद्यन्ते। शारीर इति शरीरे भव इत्यर्थः। नन्वीश्वरोऽपि शरीरे भवति। सत्यम् , शरीरे भवति; न तु शरीर एव भवति; ‘ज्यायान्पृथिव्या ज्यायानन्तरिक्षात्’ ‘आकाशवत्सर्वगतश्च नित्यः’ (शत. ब्रा. १०। ६। ३। २) इति च व्यापित्वश्रवणात्। जीवस्तु शरीर एव भवति, तस्य भोगाधिष्ठानाच्छरीरादन्यत्र वृत्त्यभावात् ॥ ३ ॥
+अनुपपत्तेस्तु न शारीरः ॥ ३ ॥
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+3. On the other hand, as (those qualities) are not possible (in it), the embodied (soul is) not (denoted by manomaya, &c.).
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनुपपत्तेस्तु न शारीरः ॥ ३ ॥
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्वेण सूत्रेण ब्रह्मणि विवक्षितानां गुणानामुपपत्तिरुक्ता।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+The preceding Sūtra has declared that the qualities mentioned are possible in Brahman;
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पूर्वेण सूत्रेण ब्रह्मणि विवक्षितानां गुणानामुपपत्तिरुक्ता।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनेन शारीरे तेषामनुपपत्तिरुच्यते।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+the present Sūtra states that they are not possible in the embodied Self.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनेन शारीरे तेषामनुपपत्तिरुच्यते।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तुशब्दोऽवधारणार्थः। ब्रह्मैवोक्तेन न्यायेन मनोमयत्वादिगुणम्; न तु शारीरो जीवो मनोमयत्वादिगुणः; यत्कारणम् — ‘सत्यसङ्कल्पः’ ‘आकाशात्मा’ ‘अवाकी’ ‘अनादरः’ ‘ज्यायान्पृथिव्याः’ इति चैवंजातीयका गुणा न शारीरे आञ्जस्येनोपपद्यन्ते।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Brahman only possesses, in the manner explained, the qualities of consisting of mind, and so on; not the embodied individual soul. For qualities such as expressed in the words, 'He whose purposes are true, whose Self is the ether, who has no speech, who is not disturbed, who is greater than the earth,' cannot easily be attributed to the embodied Self.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तुशब्दोऽवधारणार्थः। ब्रह्मैवोक्तेन न्यायेन मनोमयत्वादिगुणम्; न तु शारीरो जीवो मनोमयत्वादिगुणः; यत्कारणम् — ‘सत्यसङ्कल्पः’ ‘आकाशात्मा’ ‘अवाकी’ ‘अनादरः’ ‘ज्यायान्पृथिव्याः’ इति चैवंजातीयका गुणा न शारीरे आञ्जस्येनोपपद्यन्ते।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शारीर इति शरीरे भव इत्यर्थः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+By the term 'embodied' (śārīra) we have to understand 'residing' in a body.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शारीर इति शरीरे भव इत्यर्थः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नन्वीश्वरोऽपि शरीरे भवति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+If it be objected that the Lord also resides in the body [143],
+
+[143]: 111:1 Because he is vyāpin.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नन्वीश्वरोऽपि शरीरे भवति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्यम् , शरीरे भवति; न तु शरीर एव भवति; ‘ज्यायान्पृथिव्या ज्यायानन्तरिक्षात्’ ‘आकाशवत्सर्वगतश्च नित्यः’ (शत. ब्रा. १०। ६। ३। २) इति च व्यापित्वश्रवणात्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+we reply, True, he does reside in the body, but not in the body only; for śruti declares him to be all-pervading; compare, 'He is greater than the earth; greater than the atmosphere, omnipresent like the ether, eternal.'
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सत्यम् , शरीरे भवति; न तु शरीर एव भवति; ‘ज्यायान्पृथिव्या ज्यायानन्तरिक्षात्’ ‘आकाशवत्सर्वगतश्च नित्यः’ (शत. ब्रा. १०। ६। ३। २) इति च व्यापित्वश्रवणात्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीवस्तु शरीर एव भवति, तस्य भोगाधिष्ठानाच्छरीरादन्यत्र वृत्त्यभावात् ॥ ३ ॥
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+The individual soul, on the other
+
+hand, is in the body only, apart from which as the abode of fruition it does not exist.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जीवस्तु शरीर एव भवति, तस्य भोगाधिष्ठानाच्छरीरादन्यत्र वृत्त्यभावात् ॥ ३ ॥
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 मुन्दिऩ सूत्रत्तिऩाल् सॊल्ल विरुम्बप्पडुम् कुणङ्गळुक्कु पिरह्मत्तिऩिडत्तिल् पॊरुत्तम् सॊल्लप्पट्टदु। इन्द सूत्रत्तिऩाल् अवैगळुक्कु सारीरऩिडत्तिल् (जीवऩिडत्तिल्) पॊरुत्तमिल्लैयॆऩ्ऱु सॊल्लप्पडुगिऱदु। 'तु' ऎऩ्ऱ सप्तम् उऱुदिप्पडुत्तुवदिल् तात्पर्यमुळ्ळदु। ऎडुत्तुक्काट्टिय नियायत्तिऩाल् पिरह्मम्दाऩ् मऩोमयत्तऩ्मै मुदलिय कुणङ्गळैयुडैयदु। सारीरऩाऩ जीवऩ् मऩेमयत् तऩ्मै मुदलिय कुणङ्गळैयुडैयवऩाग इल्लै। एऩॆऩ्ऱाल् 'सत्य सङ्गल्बर्, आगासात्मा, वाक्किल्लादवर्, विरुप्पमिल्लादवर्, पूमियै विड पॆरियवर्' ऎऩ्ऩुम् इदुबोलुळ्ळ कुणङ्गळ् सारीरऩिडत्तिल् नेराग पॊरुन्दादु। सारीरऩ् ऎऩ्बदु सरीरत्तिल् इरुप्पवऩ् ऎऩ्ऱु अर्त्तम्। ईसुवरऩुम्दाऩ् सरीरत्तिल् इरुक्किऱारेयॆऩ्ऱाल्, वास्तवम् सरीरत्तिल् इरुक्किऱार्। आऩाल् सरीरत्तिल् मात्तिरम् इरुक्किऱार् ऎऩ्ऱिल्लै, ‘पूमियैविड पॆरियवर्, अन्दरि क्षत्तैविडप् पॆरियवर्’, ‘आगासत्तैप्पोल ऎङ्गुम् उळ्ळवर्, ऎप्पॊऴुदुम् इरुप्पवर्' ऎऩ्ऱु वियाबियाय् इरुक्कुम् तऩ्मै सॊल्लप्पडुवदाल्, जीवऩो सरीरत्तिल् मात्तिरम्दाऩ् इरुक्किऱाऩ्। पोगत्तिऱ्कु इरुप्पिडमाऩ सरीरत्तैत् तविर वेऱु इडत्तिल् अवऩुक्कु इरुप्पु इल्लाददिऩाल्।
 </details>
 
-कर्मकर्तृव्यपदेशाच्च ॥ ४ ॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतश्च न शारीरो मनोमयत्वादिगुणः; यस्मात्कर्मकर्तृव्यपदेशो भवति — ‘एतमितः प्रेत्याभिसम्भवितास्मि’ (छा. उ. ३। १४। ४) इति। एतमिति प्रकृतं मनोमयत्वादिगुणमुपास्यमात्मानं कर्मत्वेन प्राप्यत्वेन व्यपदिशति; अभिसम्भवितास्मीति शारीरमुपासकं कर्तृत्वेन प्रापकत्वेन। अभिसम्भवितास्मीति प्राप्तास्मीत्यर्थः। न च सत्यां गतावेकस्य कर्मकर्तृव्यपदेशो युक्तः। तथोपास्योपासकभावोऽपि भेदाधिष्ठान एव। तस्मादपि न शारीरो मनोमयत्वादिविशिष्टः ॥ ४ ॥
+कर्मकर्तृव्यपदेशाच्च ॥ ४ ॥
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+4. And because there is a (separate) denotation of the object of activity and of the agent.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कर्मकर्तृव्यपदेशाच्च ॥ ४ ॥
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इतश्च न शारीरो मनोमयत्वादिगुणः; यस्मात्कर्मकर्तृव्यपदेशो भवति — ‘एतमितः प्रेत्याभिसम्भवितास्मि’ (छा. उ. ३। १४। ४) इति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+The attributes of consisting of mind, and so on, cannot belong to the embodied Self for that reason also, that there is a (separate) denotation of the object of activity and of the agent. In the passage, 'When I shall have departed from hence I shall obtain him' (Cḥ. Up. III, 14, 4),
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इतश्च न शारीरो मनोमयत्वादिगुणः; यस्मात्कर्मकर्तृव्यपदेशो भवति — ‘एतमितः प्रेत्याभिसम्भवितास्मि’ (छा. उ. ३। १४। ४) इति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतमिति प्रकृतं मनोमयत्वादिगुणमुपास्यमात्मानं कर्मत्वेन प्राप्यत्वेन व्यपदिशति; अभिसम्भवितास्मीति शारीरमुपासकं कर्तृत्वेन प्रापकत्वेन। अभिसम्भवितास्मीति प्राप्तास्मीत्यर्थः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+the word 'him' refers to that which is the topic of discussion, viz. the Self which is to be meditated upon as possessing the attributes of consisting of mind, &c., as the object of an activity, viz. as something to be obtained; while the words, 'I shall obtain,' represent the meditating individual Self as the agent, i.e. the obtainer.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतमिति प्रकृतं मनोमयत्वादिगुणमुपास्यमात्मानं कर्मत्वेन प्राप्यत्वेन व्यपदिशति; अभिसम्भवितास्मीति शारीरमुपासकं कर्तृत्वेन प्रापकत्वेन। अभिसम्भवितास्मीति प्राप्तास्मीत्यर्थः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च सत्यां गतावेकस्य कर्मकर्तृव्यपदेशो युक्तः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Now, wherever it can be helped, we must not assume that one and the same being is spoken of as the agent and the object of the activity at the same time.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च सत्यां गतावेकस्य कर्मकर्तृव्यपदेशो युक्तः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथोपास्योपासकभावोऽपि भेदाधिष्ठान एव।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+The relation existing between a person meditating and the thing meditated upon requires, moreover, different abodes.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथोपास्योपासकभावोऽपि भेदाधिष्ठान एव।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मादपि न शारीरो मनोमयत्वादिविशिष्टः ॥ ४ ॥
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+And thus for the above reason, also, that which is characterised by the attributes of consisting of mind, and so on, cannot be the individual soul.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मादपि न शारीरो मनोमयत्वादिविशिष्टः ॥ ४ ॥
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 इदऩालुम् मऩोयमत्तऩ्मै मुदलिय कुणमुळ्ळदु सारीरऩ् अल्ल, ‘इङ्गिरुन्दु पोय् इवरै अडैगिऱवऩाग इरुक्किऱेऩ्' (सान्। ३-१४-४) ऎऩ्ऱु कर्मावागवुम्, कर्त्तावागवुम् कुऱिप्पिडप्पट्टिरुक्किऱ तॆऩ्बदाल्। मऩोमयत्तऩ्मै मुदलिय कुणत्तोडु कूडिऩवराय् उबासिक्कप्पडुगिऱवराय् पिरगिरुदमायुळ्ळ आत्मावै 'इवरै' ऎऩ्ऱु कर्मावाग (इरण्डावदु वेऱ्ऱुमैयिल्) अडैयप्पडुबवराग कुऱिप्पिडुगिऱदु। उबासिक्किऱवऩाऩ सारीर्गऩै ‘अडैगिऱवऩाग इरुक्किऱेऩ्' ऎऩ्ऱु कर्त्तावाग (मुदल् वेऱ्ऱुमैयिल्) अडैगिऱवऩाग (कुऱिप्पिडुगिऱदु 'अबिसम्बविदा अस्मि' ऎऩ्बदु ‘अडैगिऱवऩाग इरुक्किऱेऩ्' ऎऩ्ऱु अर्त्तम्। नेराग अर्त्तम् सॊल्लुम्बडियाऩ अवगासम् इरुक्कु मेयाऩाल् ऒरुवऩैये कर्मावागवुम्, कर्त्तावागवुम् कुऱिप्पिडुवदु न्यायमागादु। अप्पडिये, उबासिक्कप्पडु पवर् उबासिक्किऱवर् ऎऩ्ऱ तऩ्मैयुम्गूड पेदत्तै अडिप्पडैयायुळ्ळदु। आगैयिऩालुम् मऩोमयत् तऩ्मै मुदलियदुडऩ् कूडिऩदु सारीरऩ् अल्ल।
 </details>
 
-शब्दविशेषात् ॥ ५ ॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतश्च शारीरादन्यो मनोमयत्वादिगुणः; यस्माच्छब्दविशेषो भवति समानप्रकरणे श्रुत्यन्तरे — ‘यथा व्रीहिर्वा यवो वा श्यामाको वा श्यामाकतण्डुलो वैवमयमन्तरात्मन्पुरुषो हिरण्मयः’ (श. ब्रा. १०। ६। ३। २) इति। शारीरस्यात्मनो यः शब्दोऽभिधायकः सप्तम्यन्तः — अन्तरात्मन्निति; तस्माद्विशिष्टोऽन्यः प्रथमान्तः पुरुषशब्दो मनोमयत्वादिविशिष्टस्यात्मनोऽभिधायकः। तस्मात्तयोर्भेदोऽधिगम्यते ॥ ५ ॥
+शब्दविशेषात् ॥ ५ ॥
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+5. On account of the difference of words.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शब्दविशेषात् ॥ ५ ॥
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इतश्च शारीरादन्यो मनोमयत्वादिगुणः; यस्माच्छब्दविशेषो भवति समानप्रकरणे श्रुत्यन्तरे — ‘यथा व्रीहिर्वा यवो वा श्यामाको वा श्यामाकतण्डुलो वैवमयमन्तरात्मन्पुरुषो हिरण्मयः’ (श. ब्रा. १०। ६। ३। २) इति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+That which possesses the attributes of consisting of mind, and so on, cannot be the individual soul, for that reason also that there is a difference of words.
+
+That is to say, we meet with another scriptural passage of kindred subject-matter (Śat. Brā. X, 6, 3, 2), 'Like a rice grain, or a barley grain, or a canary seed or the kernel of a canary seed, thus that golden person is in the Self.'
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इतश्च शारीरादन्यो मनोमयत्वादिगुणः; यस्माच्छब्दविशेषो भवति समानप्रकरणे श्रुत्यन्तरे — ‘यथा व्रीहिर्वा यवो वा श्यामाको वा श्यामाकतण्डुलो वैवमयमन्तरात्मन्पुरुषो हिरण्मयः’ (श. ब्रा. १०। ६। ३। २) इति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शारीरस्यात्मनो यः शब्दोऽभिधायकः सप्तम्यन्तः — अन्तरात्मन्निति; तस्माद्विशिष्टोऽन्यः प्रथमान्तः पुरुषशब्दो मनोमयत्वादिविशिष्टस्यात्मनोऽभिधायकः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+There one word, i.e. the locative 'in the Self,' denotes the embodied Self, and a different word, viz. the nominative 'person,' denotes the Self distinguished by the qualities of consisting of mind, &c.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शारीरस्यात्मनो यः शब्दोऽभिधायकः सप्तम्यन्तः — अन्तरात्मन्निति; तस्माद्विशिष्टोऽन्यः प्रथमान्तः पुरुषशब्दो मनोमयत्वादिविशिष्टस्यात्मनोऽभिधायकः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात्तयोर्भेदोऽधिगम्यते ॥ ५ ॥
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+We therefrom conclude that the two are different.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मात्तयोर्भेदोऽधिगम्यते ॥ ५ ॥
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 इदिऩालुम् मऩोमयत्तऩ्मै मुदलिय कुणमुळ्ळदु सारीरऩैविड वेऱु, इदैप्पोलुळ्ळ पिरगरणत्तिल् वेऱु सुरुदियिल् सप्तत्तिल् वित्यासम् इरुक्किऱदु ऎऩ्बदिऩाल्! ‘आत्माविल् उळ्ळेयिरुक्कुम् इन्द स्वर्णमयमाऩ पुरुषऩ् नॆल् अल्लदु यवम् अल्लदु सियामागम् अल्लदु सियामाग अरिसि ऎप्पडियो अप्पडि' (सदबद पिराह्मणम् १० ६-३-२) ऎऩ्ऱु सारीरऩाऩ आत्मावैच् चॊल्लुम् सप्तम् ऎदुवो अदु 'आत्माविल् उळ्ळे' ऎऩ्ऱु एऴाम् वेऱ्ऱुमैयिल् मुडिवुळ्ळदायिरुक्किऱदु। अदिलिरुन्दु वित्यासप्पट्ट तायुळ्ळ वेऱाऩ, मुदल् वेऱ्ऱुमैयिल् मुडिवुळ्ळदाऩ ‘पुरुषऩ्’ ऎऩ्ऱ सप्तम् मऩोमयत्तऩ्मै मुदलियदुडऩ् कूडिऩ आत्मावै सॊल्वदाग इरुक्किऱदु। आगैयाल् अव्विरुवरुक्कुम् पेदम् अऱियप्पडुगिऱदु।
 </details>
 
-स्मृतेश्च ॥ ६ ॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्मृतेश्च ॥ ६ ॥
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+6. And on account of Smr̥ti.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्मृतेश्च ॥ ६ ॥
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मृतिश्च शारीरपरमात्मनोर्भेदं दर्शयति — ‘ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति। भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया’ (भ. गी. १८। ६१) इत्याद्या ।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Smr̥ti also declares the difference of the embodied Self
+
+and the highest Self, viz. Bha. Gītā XVIII, 61, 'The Lord, O Arjuna, is seated in the heart of all beings, driving round by his magical power all beings (as if they were) mounted on a machine.'
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्मृतिश्च शारीरपरमात्मनोर्भेदं दर्शयति — ‘ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति। भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया’ (भ. गी. १८। ६१) इत्याद्या ।
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 सारीरऩुक्कुम्, परमात्माविऱ्कुम् उळ्ळ पेदत्तै हे अर्जुऩा ऎल्ला पिराणिगळुडैय ह्रुदयत्तिल् ऎल्ला पिराणिगळैयुम् यन्दिरत्तिल् एऱ्ऱिऩवैगळैप् पोल, मायैयिऩाल् सुऴऱ्ऱिक्कॊण्डु ईसुवरऩ् इरुक्किऱार्’ (कीदै १८-६१) ऎऩ्बदु मुदलाऩ स्मिरुदिगळुम् काट्टुगिऩ्ऱऩ।
 </details>
 
-अत्राह — कः पुनरयं शारीरो नाम परमात्मनोऽन्यः, यः प्रतिषिध्यते — ‘अनुपपत्तेस्तु न शारीरः’ इत्यादिना ? श्रुतिस्तु ‘नान्योऽतोऽस्ति द्रष्टा नान्योऽतोऽस्ति श्रोता’ (बृ. उ. ३। ७। २३) इत्येवंजातीयका परमात्मनोऽन्यमात्मानं वारयति। तथा स्मृतिरपि ‘क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत’ (भ. गी. १३। २) इत्येवंजातीयकेति ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्राह — कः पुनरयं शारीरो नाम परमात्मनोऽन्यः, यः प्रतिषिध्यते — ‘अनुपपत्तेस्तु न शारीरः’ इत्यादिना ?
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+But what, it may be asked, is that so-called embodied Self different from the highest Self which is to be set aside according to the preceding Sūtras?
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्राह — कः पुनरयं शारीरो नाम परमात्मनोऽन्यः, यः प्रतिषिध्यते — ‘अनुपपत्तेस्तु न शारीरः’ इत्यादिना ?
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रुतिस्तु ‘नान्योऽतोऽस्ति द्रष्टा नान्योऽतोऽस्ति श्रोता’ (बृ. उ. ३। ७। २३) इत्येवंजातीयका परमात्मनोऽन्यमात्मानं वारयति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Śruti passages, as well as Smr̥ti, expressly deny that there is any Self apart from the highest Self; compare, for instance, Br̥. Up. 111, 7, 23, 'There is no other seer but he; there is no other hearer but he;'
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रुतिस्तु ‘नान्योऽतोऽस्ति द्रष्टा नान्योऽतोऽस्ति श्रोता’ (बृ. उ. ३। ७। २३) इत्येवंजातीयका परमात्मनोऽन्यमात्मानं वारयति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा स्मृतिरपि ‘क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत’ (भ. गी. १३। २) इत्येवंजातीयकेति ।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+and Bha. Gītā XIII, 2, 'And know me also, O Bhārata, to be the kshetrajña in all kshetras.'
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा स्मृतिरपि ‘क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत’ (भ. गी. १३। २) इत्येवंजातीयकेति ।
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 इङ्गु सॊल्गिऱाऩ्: 'पॊरुन्दाददिऩाल् सारीरऩ् इल्लै’ ऎऩ्बदु मुदलियदिऩाल् ऎदु मऱुक्कप् पडुगिऱदो इन्द परमात्मावुक्कु वेऱायुळ्ळ, सारीरऩ् ऎऩ्बवऩ् यार्? सुरुदियो ‘इवरै विड पार्क्किऱवऩ् वेऱु इल्लै, इवरै विड केट्किऱवऩ् वेऱु इल्लै' (पिरुह ३-७-२३) ऎऩ्बदु पोऩ्ऱवै परमात्माविऱ्कु वेऱाऩ आत्मावै मऱुक्किऩ्ऱदु। अप्पडिये स्मिरुदियुम् ‘ऎल्ला सेषत्तिरङ्गळिलुम्, क्षेत्तिरक् ञऩैयुम् कूड नाऩ् ऎऩ्ऱु अऱिन्दुगॊळ्। हे अर्जुऩा’ (कीदै १३-२) ऎऩ्बदु पोलुळ्ळदु ऎऩ्ऱु।
 </details>
 
-अत्रोच्यते — सत्यमेवैतत् , पर एवात्मा देहेन्द्रियमनोबुद्ध्युपाधिभिः परिच्छिद्यमानो बालैः शारीर इत्युपचर्यते। यथा घटकरकाद्युपाधिवशादपरिच्छिन्नमपि नभः परिच्छिन्नवदवभासते, तद्वत्। तदपेक्षया च कर्मत्वकर्तृत्वादिभेदव्यवहारो न विरुध्यते प्राक् ‘तत्त्वमसि’ इत्यात्मैकत्वोपदेशग्रहणात्। गृहीते त्वात्मैकत्वे बन्धमोक्षादिसर्वव्यवहारपरिसमाप्तिरेव स्यात् ॥ ६ ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्रोच्यते — सत्यमेवैतत् , पर एवात्मा देहेन्द्रियमनोबुद्ध्युपाधिभिः परिच्छिद्यमानो बालैः शारीर इत्युपचर्यते।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+True, we reply, (there is in reality one universal Self only.) But the highest Self in so far as it is limited by its adjuncts, viz. the body, the senses, and the mind (mano-buddhi), is, by the ignorant, spoken of as if it were embodied.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्रोच्यते — सत्यमेवैतत् , पर एवात्मा देहेन्द्रियमनोबुद्ध्युपाधिभिः परिच्छिद्यमानो बालैः शारीर इत्युपचर्यते।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा घटकरकाद्युपाधिवशादपरिच्छिन्नमपि नभः परिच्छिन्नवदवभासते, तद्वत्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Similarly the ether, although in reality unlimited, appears limited owing to certain adjuncts, such as jars and other vessels.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा घटकरकाद्युपाधिवशादपरिच्छिन्नमपि नभः परिच्छिन्नवदवभासते, तद्वत्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदपेक्षया च कर्मत्वकर्तृत्वादिभेदव्यवहारो न विरुध्यते प्राक् ‘तत्त्वमसि’ इत्यात्मैकत्वोपदेशग्रहणात्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+With regard to this (unreal limitation of the one Self) the distinction of objects of activity and of agents may be practically assumed, as long as we have not learned--from the passage, 'That art thou'--that the Self is one only.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदपेक्षया च कर्मत्वकर्तृत्वादिभेदव्यवहारो न विरुध्यते प्राक् ‘तत्त्वमसि’ इत्यात्मैकत्वोपदेशग्रहणात्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गृहीते त्वात्मैकत्वे बन्धमोक्षादिसर्वव्यवहारपरिसमाप्तिरेव स्यात् ॥ ६ ॥
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+As soon, however, as we grasp the truth that there is only one universal Self, there is an end to the whole practical view of the world with its distinction of bondage, final release, and the like.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गृहीते त्वात्मैकत्वे बन्धमोक्षादिसर्वव्यवहारपरिसमाप्तिरेव स्यात् ॥ ६ ॥
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 इङ्गु सॊल्गिऱोम्: इदु सत्यम्दाऩ्, परमात्मादाऩ् तेहम्, इन्दिरियम्, मऩस्, पुत्ति ऎऩ्गिऱ उबादिगळाल् वरैयऱुक्कप्पट्टु पालर्गळाल् (विवेग मिल्लादवर्गळाल्) सारीरऩ् ऎऩ्ऱु उबसारमाय् सॊल्लप् पडुगिऱार्। कुडम्, करगम् मुदलाऩ उबादिगळिऩ् कारणमाग (ऎव्विदत्तिलुम्) वरैयऱुक्कप्पडाद आगासम्गूड वरैयऱुक्कप्पट्टदु पोल् तोऩ्ऱुगिऱदु। ऎप्पडियो, अदैप्पोल। अदै अबेक्षित्तु, ‘अदु नी’ ऎऩ्ऱु आत्माविऩ् ऒऩ्ऱायिरुक्कुम् तऩ्मै विषयमाऩ उबदेसत्तै किरगिप्पदऱ्कु मुऩ्ऩाल्, कर्मा, कर्त्ता इवैगळिऩ् तऩ्मै मुदलाऩ पेद विषयमाऩ व्यवहारम् विरोदप्पडादु। आत्माविऩ् ऒऩ्ऱा यिरुक्कुम् तऩ्मै किरहिक्कप्पट्टु विट्टालो पन्दम् मोक्षम् मुदलाऩ ऎल्ला व्यवहारङ्गळुक्कुम् मुडिवे एऱ्पडुम्।
 </details>
 
-अर्भकौकस्त्वात्तद्व्यपदेशाच्च नेति चेन्न निचाय्यत्वादेवं व्योमवच्च ॥ ७ ॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अर्भकमल्पम् ओको नीडम् , ‘एष म आत्मान्तर्हृदये’ इति परिच्छिन्नायतनत्वात् , स्वशब्देन च ‘अणीयान्व्रीहेर्वा यवाद्वा’ इत्यणीयस्त्वव्यपदेशात् , शारीर एवाराग्रमात्रो जीव इहोपदिश्यते, न सर्वगतः परमात्मा — इति यदुक्तं तत्परिहर्तव्यम्। अत्रोच्यते — नायं दोषः। न तावत्परिच्छिन्नदेशस्य सर्वगतत्वव्यपदेशः कथमप्युपपद्यते। सर्वगतस्य तु सर्वदेशेषु विद्यमानत्वात्परिच्छिन्नदेशव्यपदेशोऽपि कयाचिदपेक्षया सम्भवति। यथा समस्तवसुधाधिपतिरपि हि सन् अयोध्याधिपतिरिति व्यपदिश्यते। कया पुनरपेक्षया सर्वगतः सन्नीश्वरोऽर्भकौका अणीयांश्च व्यपदिश्यत इति। निचाय्यत्वादेवमिति ब्रूमः ।
+अर्भकौकस्त्वात्तद्व्यपदेशाच्च नेति चेन्न निचाय्यत्वादेवं व्योमवच्च ॥ ७ ॥
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+7. If it be said that (the passage does) not (refer to Brahman) on account of the smallness of the abode (mentioned), and on account of the denotations of that (i.e. of minuteness); we say, no; because (Brahman) has thus to be contemplated, and because the case is analogous to that of ether.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अर्भकौकस्त्वात्तद्व्यपदेशाच्च नेति चेन्न निचाय्यत्वादेवं व्योमवच्च ॥ ७ ॥
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्भकमल्पम् ओको नीडम् , ‘एष म आत्मान्तर्हृदये’ इति परिच्छिन्नायतनत्वात् , स्वशब्देन च ‘अणीयान्व्रीहेर्वा यवाद्वा’ इत्यणीयस्त्वव्यपदेशात् , शारीर एवाराग्रमात्रो जीव इहोपदिश्यते, न सर्वगतः परमात्मा — इति यदुक्तं तत्परिहर्तव्यम्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+On account of the limitation of its abode, which is mentioned in the clause, 'He is my Self within the heart,' and on account of the declaration as to its minuteness contained in the direct statement, 'He is smaller than a grain of rice,' &c.; the embodied soul only, which is of the size of an awl's point, is spoken of in the passage under discussion, and not
+
+the highest Self. This assertion made above (in the pūrvapaksha of Sūtra I, and restated in the pūrvapaksha of the present Sūtra) has to be refuted.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अर्भकमल्पम् ओको नीडम् , ‘एष म आत्मान्तर्हृदये’ इति परिच्छिन्नायतनत्वात् , स्वशब्देन च ‘अणीयान्व्रीहेर्वा यवाद्वा’ इत्यणीयस्त्वव्यपदेशात् , शारीर एवाराग्रमात्रो जीव इहोपदिश्यते, न सर्वगतः परमात्मा — इति यदुक्तं तत्परिहर्तव्यम्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्रोच्यते — नायं दोषः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+We therefore maintain that the objection raised does not invalidate our view of the passage.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्रोच्यते — नायं दोषः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न तावत्परिच्छिन्नदेशस्य सर्वगतत्वव्यपदेशः कथमप्युपपद्यते।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+It is true that a thing occupying a limited space only cannot in any way be spoken of as omnipresent;
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न तावत्परिच्छिन्नदेशस्य सर्वगतत्वव्यपदेशः कथमप्युपपद्यते।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वगतस्य तु सर्वदेशेषु विद्यमानत्वात्परिच्छिन्नदेशव्यपदेशोऽपि कयाचिदपेक्षया सम्भवति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+but, on the other hand, that which is omnipresent, and therefore in all places may, from a certain point of view, be said to occupy a limited space.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वगतस्य तु सर्वदेशेषु विद्यमानत्वात्परिच्छिन्नदेशव्यपदेशोऽपि कयाचिदपेक्षया सम्भवति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा समस्तवसुधाधिपतिरपि हि सन् अयोध्याधिपतिरिति व्यपदिश्यते।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Similarly, a prince may be called the ruler of Ayodhyā although he is at the same time the ruler of the whole earth.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा समस्तवसुधाधिपतिरपि हि सन् अयोध्याधिपतिरिति व्यपदिश्यते।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कया पुनरपेक्षया सर्वगतः सन्नीश्वरोऽर्भकौका अणीयांश्च व्यपदिश्यत इति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+But from what point of view can the omnipresent Lord be said to occupy a limited space and to be minute?
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कया पुनरपेक्षया सर्वगतः सन्नीश्वरोऽर्भकौका अणीयांश्च व्यपदिश्यत इति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निचाय्यत्वादेवमिति ब्रूमः ।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+He may, we reply, be spoken of thus, 'because he is to be contemplated thus.'
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निचाय्यत्वादेवमिति ब्रूमः ।
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -212,7 +1854,119 @@ title = "०१ सर्वत्रप्रसिद्ध्यधिकर�
 अदिल् सॊल्लप्पडुगिऱदु, इदु तोषम् इल्लै यॆऩ्ऱु। सिऱिय इडमुळ्ळदऱ्कु ऎङ्गुमुळ्ळ तऩ्मैयै पदेसिप्पदु ऎव्विदत्तिलुम् पॊरुन्दादु; ऎङ्गुमुळ्ळ तऱ्को, ऎल्ला इडङ्गळिलुम् इरुप्पदाल्, सिऱिय इडत्तै कुऱिप्पिडुवदुम्, ऎदैयेऩुम् अबेक्षित्तु सम्बविक्कक् कूडियदे। पूमि मुऴुवदऱ्कुम् अदिबदियायि रुप्पवरुम्गूड अयोत्यैक्कु अदिबदि ऎऩ्ऱु कुऱिप्पि टप्पडुवदु पोल। ऎन्द अबेक्षैयिऩाल् ऎङ्गुमुळ्ळ ईसुवरऩ् सिऱिय इडमुळ्ळवर्, मिगवुम् सिऱियवर् ऎऩ्ऱु सॊल्लप्पडुगिऱार्, ऎऩ्ऱाल् 'तियाऩम् सॆय्यप्पड वेण्डिय तऩ्मैयाल् इव्विदम्’ ऎऩ्गिऱोम्।
 </details>
 
-एवम् अणीयस्त्वादिगुणगणोपेत ईश्वरः, तत्र हृदयपुण्डरीके निचाय्यो द्रष्टव्य उपदिश्यते; यथा सालग्रामे हरिः। तत्रास्य बुद्धिविज्ञानं ग्राहकम्। सर्वगतोऽपीश्वरस्तत्रोपास्यमानः प्रसीदति। व्योमवच्चैतद्द्रष्टव्यम्। यथा सर्वगतमपि सद्व्योम सूचीपाशाद्यपेक्षयार्भकौकोऽणीयश्च व्यपदिश्यते, एवं ब्रह्मापि। तदेवं निचाय्यत्वापेक्षं ब्रह्मणोऽर्भकौकस्त्वमणीयस्त्वं च, न पारमार्थिकम्। तत्र यदाशङ्क्यते — हृदयायतनत्वाद्ब्रह्मणो हृदयानां च प्रतिशरीरं भिन्नत्वाद्भिन्नायतनानां च शुकादीनामनेकत्वसावयवत्वानित्यत्वादिदोषदर्शनाद्ब्रह्मणोऽपि तत्प्रसङ्ग इति, तदपि परिहृतं भवति ॥ ७ ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् अणीयस्त्वादिगुणगणोपेत ईश्वरः, तत्र हृदयपुण्डरीके निचाय्यो द्रष्टव्य उपदिश्यते; यथा सालग्रामे हरिः। तत्रास्य बुद्धिविज्ञानं ग्राहकम्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+The passage under discussion teaches us to contemplate the Lord as abiding within the lotus of the heart, characterised by minuteness and similar qualities--which apprehension of the Lord is rendered possible through a modification of the mind--just as Hari is contemplated in the sacred stone called Śālagrām.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवम् अणीयस्त्वादिगुणगणोपेत ईश्वरः, तत्र हृदयपुण्डरीके निचाय्यो द्रष्टव्य उपदिश्यते; यथा सालग्रामे हरिः। तत्रास्य बुद्धिविज्ञानं ग्राहकम्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वगतोऽपीश्वरस्तत्रोपास्यमानः प्रसीदति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Although present everywhere, the Lord is pleased when meditated upon as dwelling in the heart.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वगतोऽपीश्वरस्तत्रोपास्यमानः प्रसीदति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्योमवच्चैतद्द्रष्टव्यम्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+The case is, moreover, to be viewed as analogous to that of the ether.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+व्योमवच्चैतद्द्रष्टव्यम्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा सर्वगतमपि सद्व्योम सूचीपाशाद्यपेक्षयार्भकौकोऽणीयश्च व्यपदिश्यते, एवं ब्रह्मापि।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+The ether, although all-pervading, is spoken of as limited and minute, if considered in its connexion with the eye of a needle; so Brahman also.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा सर्वगतमपि सद्व्योम सूचीपाशाद्यपेक्षयार्भकौकोऽणीयश्च व्यपदिश्यते, एवं ब्रह्मापि।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदेवं निचाय्यत्वापेक्षं ब्रह्मणोऽर्भकौकस्त्वमणीयस्त्वं च, न पारमार्थिकम्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+But it is an understood matter that the attributes of limitation of abode and of minuteness depend, in Brahman's case, entirely on special forms of contemplation, and are not real.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदेवं निचाय्यत्वापेक्षं ब्रह्मणोऽर्भकौकस्त्वमणीयस्त्वं च, न पारमार्थिकम्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र यदाशङ्क्यते — हृदयायतनत्वाद्ब्रह्मणो हृदयानां च प्रतिशरीरं भिन्नत्वाद्भिन्नायतनानां च शुकादीनामनेकत्वसावयवत्वानित्यत्वादिदोषदर्शनाद्ब्रह्मणोऽपि तत्प्रसङ्ग इति, तदपि परिहृतं भवति ॥ ७ ॥
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+The latter consideration disposes also of the objection, that if Brahman has its abode in the heart, which heart-abode is a different one in each body, it would follow that it is affected by all the imperfections which attach to beings having different abodes, such as parrots shut up in different cages, viz. want of unity, being made up of parts, non-permanency, and so on.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र यदाशङ्क्यते — हृदयायतनत्वाद्ब्रह्मणो हृदयानां च प्रतिशरीरं भिन्नत्वाद्भिन्नायतनानां च शुकादीनामनेकत्वसावयवत्वानित्यत्वादिदोषदर्शनाद्ब्रह्मणोऽपि तत्प्रसङ्ग इति, तदपि परिहृतं भवति ॥ ७ ॥
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -229,9 +1983,178 @@ title = "०१ सर्वत्रप्रसिद्ध्यधिकर�
 पिरह्मत्तिऱ्कु ह्रुदयत्तै इरुप्पिडमायुडैय तऩ्मैयिरुप्पदिऩालुम्, ह्रुदय रूबमाऩ इरुप्पिडङ् गळुम् ऒव्वॊरु सरीरत्तिलुम् वेऱुबट्टिरुप्पदालुम्, वेऱुबट्ट इरुप्पिडङ्गळैयुडैय किळि मुदलियवैग ळुक्कु पलवायिरुक्कुम् तऩ्मै, अवयवङ्गळोडु कूडिय तायिरुक्कुम् तऩ्मै, अनित्यमायिरुक्कुम् तऩ्मै मुदलाऩ तोषङ्गळ् काणुवदाल्, पिरह्मत्तिऱ्कुम् अदैप्पोल एऱ्पडुमे ऎऩ्ऱु अङ्गु ऎदु आक्षेबिक्कप्पट्टदो, अदुवुम् परिहरिक्कप्पट्टदाग आगिऱदु।
 </details>
 
-सम्भोगप्राप्तिरिति चेन्न वैशेष्यात् ॥ ८ ॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्योमवत्सर्वगतस्य ब्रह्मणः सर्वप्राणिहृदयसम्बन्धात् , चिद्रूपतया च शारीरादविशिष्टत्वात् , सुखदुःखादिसम्भोगोऽप्यविशिष्टः प्रसज्येत। एकत्वाच्च; न हि परस्मादात्मनोऽन्यः कश्चिदात्मा संसारी विद्यते, ‘नान्योऽतोऽस्ति विज्ञाता’ (बृ. उ. ३। ७। २३) इत्यादिश्रुतिभ्यः। तस्मात्परस्यैव ब्रह्मणः सम्भोगप्राप्तिरिति चेत् , न; वैशेष्यात्। न तावत्सर्वप्राणिहृदयसम्बन्धात् शारीरवद्ब्रह्मणः सम्भोगप्रसङ्गः, वैशेष्यात्। विशेषो हि भवति शारीरपरमेश्वरयोः। एकः कर्ता भोक्ता धर्माधर्मादिसाधनः सुखदुःखादिमांश्च। एकस्तद्विपरीतोऽपहतपाप्मत्वादिगुणः। एतस्मादनयोर्विशेषादेकस्य भोगः, नेतरस्य ।
+सम्भोगप्राप्तिरिति चेन्न वैशेष्यात् ॥ ८ ॥
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+8. If it is said that (from the circumstance of Brahman and the individual soul being one) there follows fruition (on the part of Brahman); we say, no; on account of the difference of nature (of the two).
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सम्भोगप्राप्तिरिति चेन्न वैशेष्यात् ॥ ८ ॥
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्योमवत्सर्वगतस्य ब्रह्मणः सर्वप्राणिहृदयसम्बन्धात् , चिद्रूपतया च शारीरादविशिष्टत्वात् , सुखदुःखादिसम्भोगोऽप्यविशिष्टः प्रसज्येत।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+But, it may be said, as Brahman is omnipresent like ether, and therefore connected with the hearts of all living beings, and as it is of the nature of intelligence and therefore not different from the individual soul, it follows that Brahman also has the same fruition of pleasure, pain, and so on (as the individual soul).
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+व्योमवत्सर्वगतस्य ब्रह्मणः सर्वप्राणिहृदयसम्बन्धात् , चिद्रूपतया च शारीरादविशिष्टत्वात् , सुखदुःखादिसम्भोगोऽप्यविशिष्टः प्रसज्येत।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एकत्वाच्च; न हि परस्मादात्मनोऽन्यः कश्चिदात्मा संसारी विद्यते, ‘नान्योऽतोऽस्ति विज्ञाता’ (बृ. उ. ३। ७। २३) इत्यादिश्रुतिभ्यः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+The same result follows from its unity. For in reality there exists no transmigratory Self different from the highest Self; as appears from the text, 'There is no other knower but he' (Br̥. Up. III, 7, 23), and similar passages.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एकत्वाच्च; न हि परस्मादात्मनोऽन्यः कश्चिदात्मा संसारी विद्यते, ‘नान्योऽतोऽस्ति विज्ञाता’ (बृ. उ. ३। ७। २३) इत्यादिश्रुतिभ्यः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात्परस्यैव ब्रह्मणः सम्भोगप्राप्तिरिति चेत् , न; वैशेष्यात्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Hence the highest Self is subject to the fruition connected with transmigratory existence.
+
+This is not so, we reply; because there is a difference of nature.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मात्परस्यैव ब्रह्मणः सम्भोगप्राप्तिरिति चेत् , न; वैशेष्यात्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न तावत्सर्वप्राणिहृदयसम्बन्धात् शारीरवद्ब्रह्मणः सम्भोगप्रसङ्गः, वैशेष्यात्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+From the circumstance that Brahman is connected with the hearts of all living beings it does not follow that it is, like the embodied Self, subject to fruition.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न तावत्सर्वप्राणिहृदयसम्बन्धात् शारीरवद्ब्रह्मणः सम्भोगप्रसङ्गः, वैशेष्यात्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विशेषो हि भवति शारीरपरमेश्वरयोः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+For, between the embodied Self and the highest Self, there is the difference
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विशेषो हि भवति शारीरपरमेश्वरयोः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एकः कर्ता भोक्ता धर्माधर्मादिसाधनः सुखदुःखादिमांश्च।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+that the former acts and enjoys, acquires merit and demerit, and is affected by pleasure, pain, and so on;
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एकः कर्ता भोक्ता धर्माधर्मादिसाधनः सुखदुःखादिमांश्च।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एकस्तद्विपरीतोऽपहतपाप्मत्वादिगुणः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+while the latter is of the opposite nature, i.e. characterised by being free from all evil and the like.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एकस्तद्विपरीतोऽपहतपाप्मत्वादिगुणः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतस्मादनयोर्विशेषादेकस्य भोगः, नेतरस्य ।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+On account of this difference of the two, the fruition of the one does not extend to the other.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतस्मादनयोर्विशेषादेकस्य भोगः, नेतरस्य ।
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -243,7 +2166,119 @@ title = "०१ सर्वत्रप्रसिद्ध्यधिकर�
 अप्पडियल्ल ‘वित्तियासमिरुप्पदाल्' ऎल्ला पिराणिगळुडैय ह्रुदयङ्गळुडऩ् सम्बन्दमिरुप् पदाल् सारीरऩैप्पोल सम्बोगम् एऱ्पडुमॆऩ्बदु इल्लै, वित्तियासमिरुप्पदाल्, सारीरऩुक्कुम्, परमेसुवरऩुक्कुम् वित्तियासम् इरुप्पदु पिरसित्तम्। ऒरुवऩ् कर्त्ता, पोक्ता, तर्मादर्मङ्गळै सादऩमाग उडैयवऩ्, सूगम्, तुक्कम् मुदलियदुडऩ् कूडियवऩुम्; मऱ्ऱवर् अदऱ्कु नेर् विबरीदमाय् पाबमऱ्ऱ तऩ्मै मुदलाऩ कुणङ्गळुडैयवर्। इव्विरुवर्गळुक्कुळ् इन्द वित्तियासम् इरुप्पदाल् ऒरुवऩुक्कु पोगम्, मऱ्ऱवरुक्कु इल्लै।
 </details>
 
-यदि च सन्निधानमात्रेण वस्तुशक्तिमनाश्रित्य कार्यसम्बन्धोऽभ्युपगम्येत, आकाशादीनामपि दाहादिप्रसङ्गः। सर्वगतानेकात्मवादिनामपि समावेतौ चोद्यपरिहारौ। यदप्येकत्वाद्ब्रह्मण आत्मान्तराभावाच्छारीरस्य भोगेन ब्रह्मणो भोगप्रसङ्ग इति, अत्र वदामः — इदं तावद्देवानांप्रियः प्रष्टव्यः; कथमयं त्वयात्मान्तराभावोऽध्यवसित इति। ‘तत्त्वमसि’ ‘अहं ब्रह्मास्मि’ ‘नान्योऽतोऽस्ति विज्ञाता’ इत्यादिशास्त्रेभ्य इति चेत् , यथाशास्त्रं तर्हि शास्त्रीयोऽर्थः प्रतिपत्तव्यः, न तत्रार्धजरतीयं लभ्यम्। शास्त्रं च ‘तत्त्वमसि’ इत्यपहतपाप्मत्वादिविशेषणं ब्रह्म शारीरस्यात्मत्वेनोपदिशच्छारीरस्यैव तावदुपभोक्तृत्वं वारयति। कुतस्तदुपभोगेन ब्रह्मण उपभोगप्रसङ्गः ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि च सन्निधानमात्रेण वस्तुशक्तिमनाश्रित्य कार्यसम्बन्धोऽभ्युपगम्येत, आकाशादीनामपि दाहादिप्रसङ्गः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+To assume merely on the ground of the mutual proximity of the two, without considering their essentially different powers, that a connexion with effects exists (in Brahman's case also), would be no better than to suppose that space is on fire (when something in space is on fire).
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदि च सन्निधानमात्रेण वस्तुशक्तिमनाश्रित्य कार्यसम्बन्धोऽभ्युपगम्येत, आकाशादीनामपि दाहादिप्रसङ्गः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वगतानेकात्मवादिनामपि समावेतौ चोद्यपरिहारौ।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+The same objection and refutation apply to the case of those also who teach the existence of more than one omnipresent Self.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वगतानेकात्मवादिनामपि समावेतौ चोद्यपरिहारौ।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदप्येकत्वाद्ब्रह्मण आत्मान्तराभावाच्छारीरस्य भोगेन ब्रह्मणो भोगप्रसङ्ग इति, अत्र वदामः — इदं तावद्देवानांप्रियः प्रष्टव्यः; कथमयं त्वयात्मान्तराभावोऽध्यवसित इति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+In reply to the assertion, that because Brahman is one and there are no other Selfs outside it, Brahman must be subject to fruition since the individual soul is so, we ask the question: How have you, our wise opponent, ascertained that there is no other Self?
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदप्येकत्वाद्ब्रह्मण आत्मान्तराभावाच्छारीरस्य भोगेन ब्रह्मणो भोगप्रसङ्ग इति, अत्र वदामः — इदं तावद्देवानांप्रियः प्रष्टव्यः; कथमयं त्वयात्मान्तराभावोऽध्यवसित इति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘तत्त्वमसि’ ‘अहं ब्रह्मास्मि’ ‘नान्योऽतोऽस्ति विज्ञाता’ इत्यादिशास्त्रेभ्य इति चेत् , यथाशास्त्रं तर्हि शास्त्रीयोऽर्थः प्रतिपत्तव्यः, न तत्रार्धजरतीयं लभ्यम्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+You will reply, we suppose, from scriptural texts such as, 'That art thou,' 'I am Brahman,' 'There is no other knower but he,' and so on. Very well, then, it appears that the truth about scriptural matters is to be ascertained from Scripture, and that Scripture is not sometimes to be appealed to, and on other occasions to be disregarded.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘तत्त्वमसि’ ‘अहं ब्रह्मास्मि’ ‘नान्योऽतोऽस्ति विज्ञाता’ इत्यादिशास्त्रेभ्य इति चेत् , यथाशास्त्रं तर्हि शास्त्रीयोऽर्थः प्रतिपत्तव्यः, न तत्रार्धजरतीयं लभ्यम्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्रं च ‘तत्त्वमसि’ इत्यपहतपाप्मत्वादिविशेषणं ब्रह्म शारीरस्यात्मत्वेनोपदिशच्छारीरस्यैव तावदुपभोक्तृत्वं वारयति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Scriptural texts, such as 'that art thou,' teach that Brahman which is free from all evil is the Self of the embodied soul, and thus dispel even the opinion that the embodied soul is subject to fruition;
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शास्त्रं च ‘तत्त्वमसि’ इत्यपहतपाप्मत्वादिविशेषणं ब्रह्म शारीरस्यात्मत्वेनोपदिशच्छारीरस्यैव तावदुपभोक्तृत्वं वारयति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतस्तदुपभोगेन ब्रह्मण उपभोगप्रसङ्गः ।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+how then should fruition on the part of the embodied soul involve fruition on the part of Brahman?
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कुतस्तदुपभोगेन ब्रह्मण उपभोगप्रसङ्गः ।
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -260,10 +2295,163 @@ title = "०१ सर्वत्रप्रसिद्ध्यधिकर�
 पिरह्मम् ऒऩ्ऱायिरुप्पदाल्, वेऱु आत्मा किडैयाददिऩाल्, सारीरऩुडैय पोगत्तिऩाल् पिरह्मत्तिऱ्कुम् पोगम् एऱ्पडुमे ऎऩ्बदु ऎदुवो अव्विषयत्तिल् सॊल्गिऱोम्; इदु उऩ्ऩै केट्क वेण्डियिरुक्किऱदु - वेऱु आत्मा किडैयादॆऩ्ऱ इन्द विषयम् उऩ्ऩाल् ऎप्पडि तीर्माऩिक्कप्पट्टदु? 'नी अदाग इरुक्किऱाय्' 'नाऩ् पिरह्ममायिरुक्किऱेऩ्,’ ‘इवरैत् तविर वेऱु अऱिगिऱवर् इल्लै' इदु मुदलाऩ सास्तिरप्पडियॆऩ्ऱाल्, सास्तिरत्तिल् काण्गिऱबडि अदऩ् अर्त्तम् ऒप्पुक्कॊळ्ळप्पडवेण्डुम्; अदिल् 'पादि किऴवि' ऎऩ्ऱ न्यायम् एऱ्पडक्कूडादु। सास्तिरमो, पाबमऱ्ऱ तऩ्मै मुदलाऩ विसेषणङ्गळै उडैय पिरह्मत्तै सारीरऩुडैय आत्मावाग 'तत्तुवम् असि (नी अदु)' ऎऩ्ऱु उबदेसित्तुक्कॊण्डु, सारीरऩुक्के पोक्तावायिरुक्कुम् तऩ्मैयै मऱुक्किऱदु। अदऩुडैय पोगत्तिऩाल् पिरह्मत्तिऱ्कु पोगम् एऱ्पडुवदु ऎप्पडि?
 </details>
 
-अथागृहीतं शारीरस्य ब्रह्मणैकत्वम् , तदा मिथ्याज्ञाननिमित्तः शारीरस्योपभोगः। न तेन परमार्थरूपस्य ब्रह्मणः संस्पर्शः। न हि बालैस्तलमलिनतादिभिर्व्योम्नि विकल्प्यमाने तलमलिनतादिविशिष्टमेव परमार्थतो व्योम भवति। तदाह — न वैशेष्यादिति नैकत्वेऽपि शारीरस्योपभोगेन ब्रह्मण उपभोगप्रसङ्गः, वैशेष्यात्। विशेषो हि भवति मिथ्याज्ञानसम्यग्ज्ञानयोः। मिथ्याज्ञानकल्पित उपभोगः, सम्यग्ज्ञानदृष्टमेकत्वम्। न च मिथ्याज्ञानकल्पितेनोपभोगेन सम्यग्ज्ञानदृष्टं वस्तु संस्पृश्यते। तस्मान्नोपभोगगन्धोऽपि शक्य ईश्वरस्य कल्पयितुम् ॥ ८ ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथागृहीतं शारीरस्य ब्रह्मणैकत्वम् , तदा मिथ्याज्ञाननिमित्तः शारीरस्योपभोगः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Let, then, the unity of the individual soul and Brahman not be apprehended on the ground of Scripture.
+
+In that case, we reply, the fruition on the part of the individual soul has wrong knowledge for its cause,
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथागृहीतं शारीरस्य ब्रह्मणैकत्वम् , तदा मिथ्याज्ञाननिमित्तः शारीरस्योपभोगः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न तेन परमार्थरूपस्य ब्रह्मणः संस्पर्शः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+and Brahman as it truly exists is not touched thereby,
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न तेन परमार्थरूपस्य ब्रह्मणः संस्पर्शः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि बालैस्तलमलिनतादिभिर्व्योम्नि विकल्प्यमाने तलमलिनतादिविशिष्टमेव परमार्थतो व्योम भवति।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+not any more than the ether becomes really dark-blue in consequence of ignorant people presuming it to be so.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हि बालैस्तलमलिनतादिभिर्व्योम्नि विकल्प्यमाने तलमलिनतादिविशिष्टमेव परमार्थतो व्योम भवति।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदाह — न वैशेष्यादिति नैकत्वेऽपि शारीरस्योपभोगेन ब्रह्मण उपभोगप्रसङ्गः, वैशेष्यात्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+For this reason the Sūtrakāra says [144] 'no, on account of the difference.' In spite of their unity, fruition on the part of the soul does not involve fruition on the part of Brahman; because there is a difference.
+
+[144]: 116:1 Another interpretation of the later part of Sūtra.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदाह — न वैशेष्यादिति नैकत्वेऽपि शारीरस्योपभोगेन ब्रह्मण उपभोगप्रसङ्गः, वैशेष्यात्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विशेषो हि भवति मिथ्याज्ञानसम्यग्ज्ञानयोः।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+For there is a difference between false knowledge and perfect knowledge,
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विशेषो हि भवति मिथ्याज्ञानसम्यग्ज्ञानयोः।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मिथ्याज्ञानकल्पित उपभोगः, सम्यग्ज्ञानदृष्टमेकत्वम्।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+fruition being the figment of false knowledge while the unity (of the Self) is revealed by perfect knowledge.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मिथ्याज्ञानकल्पित उपभोगः, सम्यग्ज्ञानदृष्टमेकत्वम्।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च मिथ्याज्ञानकल्पितेनोपभोगेन सम्यग्ज्ञानदृष्टं वस्तु संस्पृश्यते।
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+Now, as the substance revealed by perfect knowledge cannot be affected by fruition which is nothing but the figment of false knowledge,
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च मिथ्याज्ञानकल्पितेनोपभोगेन सम्यग्ज्ञानदृष्टं वस्तु संस्पृश्यते।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मान्नोपभोगगन्धोऽपि शक्य ईश्वरस्य कल्पयितुम् ॥ ८ ॥
+
+</details>
+
+<details><summary>Thibaut</summary>
+
+it is impossible to assume even a shadow of fruition on Brahman's part.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मान्नोपभोगगन्धोऽपि शक्य ईश्वरस्य कल्पयितुम् ॥ ८ ॥
+
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 सारीरऩुक्कु पिरह्मत्तुडऩ् ऒऩ्ऱायिरुक्कुम् तऩ्मै अऱियप्पडविल्लैयॆऩ्ऱालो, अप्पॊऴुदु मित्यैयाऩ अक्ञाऩत्तै कारणमायुळ्ळ पोगम् सारीरऩुक्कु उण्डु। अत्तुडऩ् वास्तव स्वरूबमाऩ पिरह्मत्तिऱ्कु सम्बन्दमे किडैयादु। पालर्गळाल् तळमायिरुक्कुम् तऩ्मै अऴुक्कायिरुक्कुम् तऩ्मै मुदलियवैगळुडऩ् कूडियदाग आगासम् कल्बिक्कप् पडुम्बोदु, वास्तवमागवे आगासम् तळमायिरुक्कुम् तऩ्मै अऴुक्कायिरुक्कुम् तऩ्मै मुदलियवैगळुडऩ् कूडिऩदाग आगिविडुगिऱदिल्लैयल्लवा? अदैच् चॊल्गिऱार् 'इल्लै वित्तियासम् इरुप्पदाल्' ऎऩ्ऱु। ऒऩ्ऱायिरुक्कुम् तऩ्मैयिरुन्दालुम्गूड सारीरऩुडैय पोगत्तिऩाल् पिरह्मत्तिऱ्कु पोगम् एऱ्पडुम् ऎऩ्बदु किडैयादु, 'वित्तियासम् इरुप्पदाल्' पॊय्याऩ अक्ञाऩम् सरियाऩ ञाऩम् ऎऩ्बदिऩाल् वित्तियासम् इरुक्किऱदल्लवा? पॊय्याऩ अक्ञाऩत्तिऩाल् कल्बिक्कप्पट्टदु पोगम्, सरियाऩ ञाऩत्तिऩाल् अऱियप्पट्टदु ऒऩ्ऱायिरुक्कुम् तऩ्मै पॊय्याऩ अक्ञाऩत्तिऩाल् कल्बिक्कप्पट्ट पोगत्तिऩाल् सरियाऩ ञाऩत्तिऩाल् अऱियप्पट्ट वस्तुवै तॊडमुडियादु (पादिक्कप्पडमुडियादु)। आगैयाल् ईसुवरऩुक्कु पोगत्तिऩ् कन्दम्गूड कल्बिक्कमुडियादु।
 </details>
-

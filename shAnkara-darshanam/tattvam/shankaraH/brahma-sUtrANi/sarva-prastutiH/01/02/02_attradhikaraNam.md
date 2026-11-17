@@ -3,13 +3,30 @@ title = "०२ अत्त्रधिकरणम्"
 
 +++
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अत्ता चराचरग्रहणात् ॥ ९ ॥  
+</details>
+
+<details><summary>Thibaut</summary>
+
+9. The eater (is the highest Self) since what is movable and what is immovable is mentioned (as his food).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्ता चराचरग्रहणात् ॥ ९ ॥  
+</details>
+
+<details><summary>वैयासिक-न्याय-माला</summary>
 
 जीवोऽग्निरीशो वाऽत्ता स्यादोदने जीव इष्यताम् ॥  
 स्वाद्वत्तीति श्रुतेर्वह्निर्वाऽग्निरन्नाद इत्यतः ॥ ३ ॥  
 ब्रह्मक्षत्रादिजगतो भोज्यत्वात्स्यादिहेश्वरः ॥  
 ईशप्रश्नोत्तरत्वाच्च संहारस्तस्य चातृता ॥ ४ ॥  
 --वैयासिकन्यायमाला
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -21,7 +38,55 @@ title = "०२ अत्त्रधिकरणम्"
 इङ्गे पिराह्मणर्, क्षत्तिरियर् मुदलाऩ जगत्ते साप्पिडप्पडुम् वस्तुवागच् चॊल्लियिरुप्पदालुम्, ईसुवरर् विषयमाऩ केळ्विक्के इन्द वाक्कियम् पदिलाग विरुप्प तिऩालुम्, ईसुवररागत्ताऩ् इरुक्क वेण्डुम्। सम्हारम् सॆय्वदु अवरुक्कु साप्पिडुम् तऩ्मैयाम्।
 </details>
 
-कठवल्लीषु पठ्यते ‘यस्य ब्रह्म च क्षत्रं चोभे भवत ओदनः। मृत्युर्यस्योपसेचनं क इत्था वेद यत्र सः’ (क. उ. १। २। २५) इति। अत्र कश्चिदोदनोपसेचनसूचितोऽत्ता प्रतीयते। तत्र किमग्निरत्ता स्यात् , उत जीवः, अथवा परमात्मा, इति संशयः। विशेषानवधारणात्। त्रयाणां चाग्निजीवपरमात्मनामस्मिन्ग्रन्थे प्रश्नोपन्यासोपलब्धेः ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कठवल्लीषु पठ्यते ‘यस्य ब्रह्म च क्षत्रं चोभे भवत ओदनः। मृत्युर्यस्योपसेचनं क इत्था वेद यत्र सः’ (क. उ. १। २। २५) इति।
+</details>
+
+<details><summary>Thibaut</summary>
+
+We read in the Kaṭḥavallī (I, 2, 25), 'Who then knows where He is, He to whom the Brahmans and Kshattriyas are but food, and death itself a condiment?'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कठवल्लीषु पठ्यते ‘यस्य ब्रह्म च क्षत्रं चोभे भवत ओदनः। मृत्युर्यस्योपसेचनं क इत्था वेद यत्र सः’ (क. उ. १। २। २५) इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र कश्चिदोदनोपसेचनसूचितोऽत्ता प्रतीयते।
+</details>
+
+<details><summary>Thibaut</summary>
+
+This passage intimates, by means of the words 'food' and 'condiment,' that there is some eater.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र कश्चिदोदनोपसेचनसूचितोऽत्ता प्रतीयते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र किमग्निरत्ता स्यात् , उत जीवः, अथवा परमात्मा, इति संशयः। विशेषानवधारणात्। त्रयाणां चाग्निजीवपरमात्मनामस्मिन्ग्रन्थे प्रश्नोपन्यासोपलब्धेः ।
+</details>
+
+<details><summary>Thibaut</summary>
+
+A doubt then arises whether the eater be Agni or the individual soul or the highest Self; for no distinguishing characteristic is stated, and Agni as well as the individual soul and the highest Self is observed to form, in that Upanishad, the subjects of questions [145].
+
+[145]: 116:2 Cp. Kaṭḥa Up, I, 1, 13; 20; I, 2, 14.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र किमग्निरत्ता स्यात् , उत जीवः, अथवा परमात्मा, इति संशयः। विशेषानवधारणात्। त्रयाणां चाग्निजीवपरमात्मनामस्मिन्ग्रन्थे प्रश्नोपन्यासोपलब्धेः ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -43,9 +108,149 @@ title = "०२ अत्त्रधिकरणम्"
 कडोबनिषत् वल्लिगळिल् ‘ऎवरुक्कु पिराह्मणर् क्षत्तिरियर् इरुवरुम् अऩ्ऩमो, ऎवरुक्कु मिरुत्यु अऩ्ऩत्तुडऩ्गूडच् चेर्क्कप्पडुम् पॊरुळो, अवर् ऎङ्गेयिरुक्किऱारो अवरै इव्वाऱु ऎऩ्ऱु यार्दाऩ् अऱिवार्' (१-२-२४) ऎऩ्ऱु सॊल्लप्पडुगिऱदु। अङ्गु अऩ्ऩम्, कूडच्चेर्क्कप्पडुम् पॊरुळ् ऎऩ्बदिऩाल् सुसिक्कप्पट्टवराय् यारो साप्पिडुगिऱवर् इरुप्पदागत् तॆरिगिऱदु। इङ्गे साप्पिडुगिऱवर् अक्ऩियाग इरुक्कलामा, अल्लदु जीवऩा, अल्लदु परमात्मावा, ऎऩ्ऱु सन्देगम्, कुऱिप्पिट्टु तीर्माऩमिल्लाददिऩाल्। इन्द किरन्दत्तिल् अक्ऩि, जीवऩ्, परमात्मा मूवरुक्कुमे केळ्वियुम् विवरिप्पुम् काणुवदाल्।
 </details>
 
-किं तावत्प्राप्तम् ? अग्निरत्तेति। कुतः ? ‘अग्निरन्नादः’ (बृ. उ. १। ४। ६) इति श्रुतिप्रसिद्धिभ्याम्। जीवो वा अत्ता स्यात् ‘तयोरन्यः पिप्पलं स्वाद्वत्ति’ (मु. उ. ३। १। १) इति दर्शनात्। न परमात्मा, ‘अनश्नन्नन्योऽभिचाकशीति’ इति दर्शनादित्येवं प्राप्ते ब्रूमः —
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्तात्र परमात्मा भवितुमर्हति। कुतः ? चराचरग्रहणात्। चराचरं हि स्थावरजङ्गमं मृत्यूपसेचनमिहाद्यत्वेन प्रतीयते। तादृशस्य चाद्यस्य न परमात्मनोऽन्यः कार्त्स्न्येनात्ता सम्भवति। परमात्मा तु विकारजातमुपसंहरन्सवॆमतीत्युपपधते ।
+किं तावत्प्राप्तम् ? अग्निरत्तेति।
+</details>
+
+<details><summary>Thibaut</summary>
+
+The pūrvapakshin maintains that the eater is Agni,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किं तावत्प्राप्तम् ? अग्निरत्तेति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः ? ‘अग्निरन्नादः’ (बृ. उ. १। ४। ६) इति श्रुतिप्रसिद्धिभ्याम्।
+</details>
+
+<details><summary>Thibaut</summary>
+
+fire being known from Scripture as well (cp. Br̥. Up. I, 4, 6) as from ordinary life to be the eater of food.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कुतः ? ‘अग्निरन्नादः’ (बृ. उ. १। ४। ६) इति श्रुतिप्रसिद्धिभ्याम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीवो वा अत्ता स्यात् ‘तयोरन्यः पिप्पलं स्वाद्वत्ति’ (मु. उ. ३। १। १) इति दर्शनात्।
+</details>
+
+<details><summary>Thibaut</summary>
+
+Or else the individual soul may be the eater, according to the passage, 'One of them eats the sweet fruit' (Mu. Up. III, 1, 1).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जीवो वा अत्ता स्यात् ‘तयोरन्यः पिप्पलं स्वाद्वत्ति’ (मु. उ. ३। १। १) इति दर्शनात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न परमात्मा, ‘अनश्नन्नन्योऽभिचाकशीति’ इति दर्शनादित्येवं प्राप्ते ब्रूमः —
+</details>
+
+<details><summary>Thibaut</summary>
+
+On the other hand, the eater cannot be Brahman on account of the passage (which forms the continuation of the one quoted from the Mu. Up.), 'The other looks on without eating.'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न परमात्मा, ‘अनश्नन्नन्योऽभिचाकशीति’ इति दर्शनादित्येवं प्राप्ते ब्रूमः —
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्तात्र परमात्मा भवितुमर्हति।
+</details>
+
+<details><summary>Thibaut</summary>
+
+The eater, we reply, must be the highest Self
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्तात्र परमात्मा भवितुमर्हति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः ? चराचरग्रहणात्।
+</details>
+
+<details><summary>Thibaut</summary>
+
+'because there is mentioned what is movable and what is immovable.'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कुतः ? चराचरग्रहणात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चराचरं हि स्थावरजङ्गमं मृत्यूपसेचनमिहाद्यत्वेन प्रतीयते।
+</details>
+
+<details><summary>Thibaut</summary>
+
+For all things movable and immovable are here to be taken as constituting the food, while death is the condiment.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+चराचरं हि स्थावरजङ्गमं मृत्यूपसेचनमिहाद्यत्वेन प्रतीयते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तादृशस्य चाद्यस्य न परमात्मनोऽन्यः कार्त्स्न्येनात्ता सम्भवति।
+</details>
+
+<details><summary>Thibaut</summary>
+
+But nothing beside the highest Self can be the consumer of all these things in their totality;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तादृशस्य चाद्यस्य न परमात्मनोऽन्यः कार्त्स्न्येनात्ता सम्भवति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परमात्मा तु विकारजातमुपसंहरन्सवॆमतीत्युपपधते ।
+</details>
+
+<details><summary>Thibaut</summary>
+
+the highest Self, however, when reabsorbing the entire aggregate of effects may be said to eat everything.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परमात्मा तु विकारजातमुपसंहरन्सवॆमतीत्युपपधते ।
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -57,7 +262,85 @@ title = "०२ अत्त्रधिकरणम्"
 सित्तान्दम्: इव्विदम् वरुम्बोदु सॊल्गिऱोम्: इङ्गे “अत्ता” परमात्मावाग इरुप्पदुदाऩ् न्यायम्। एऩ्? “सरम् असरम् इवैगळै सॊल्लियिरुप्पदाल्" सरम् असरम् असैगिऱवै, असैयादवै, मिरुत्युवागिय कूडच्चेर्प्पदु, इवै इङ्गे साप्पिडप्पडुबवैगळागत् तॆरिगिऱदु। अव्विदम् साप्पिडक्कूडियदु मुऴुवदैयुम् साप्पिडुगिऱवर् परमात्मावैत् तविर्त्तु वेऱु यारुम् इरुक्क मुडियादु। परमात्मावो, उण्डायुळ्ळदिऩ् कूट्टत्तै उबसम्हरिक्किऱवर्, ऎल्लावऱ्ऱैयुम् साप्पिडुगिऱवर् ऎऩ्बदु पॊरुन्दुम्।
 </details>
 
-नन्विह चराचरग्रहणं नोपलभ्यते, कथं सिद्धवच्चराचरग्रहणं हेतुत्वेनोपादीयते ? नैष दोषः, मृत्यूपसेचनत्वेनेहाद्यत्वेन सर्वस्य प्राणिनिकायस्य प्रतीयमानत्वात् , ब्रह्मक्षत्रयोश्च प्राधान्यात्प्रदर्शनार्थत्वोपपत्तेः। यत्तु परमात्मनोऽपि नात्तृत्वं सम्भवति ‘अनश्नन्नन्योऽभिचाकशीति’ इति दर्शनादिति, अत्रोच्यते — कर्मफलभोगस्य प्रतिषेधकमेतद्दर्शनम् , तस्य सन्निहितत्वात्। न विकारसंहारस्य प्रतिषेधकम् , सर्ववेदान्तेषु सृष्टिस्थितिसंहारकारणत्वेन ब्रह्मणः प्रसिद्धत्वात्। तस्मात्परमात्मैवेहात्ता भवितुमर्हति ॥ ९ ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नन्विह चराचरग्रहणं नोपलभ्यते, कथं सिद्धवच्चराचरग्रहणं हेतुत्वेनोपादीयते ?
+</details>
+
+<details><summary>Thibaut</summary>
+
+If it is objected that here no express mention is made of things movable and things immovable, and that hence we have no right to use the (alleged) mention made of them as a reason,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नन्विह चराचरग्रहणं नोपलभ्यते, कथं सिद्धवच्चराचरग्रहणं हेतुत्वेनोपादीयते ?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैष दोषः, मृत्यूपसेचनत्वेनेहाद्यत्वेन सर्वस्य प्राणिनिकायस्य प्रतीयमानत्वात् , ब्रह्मक्षत्रयोश्च प्राधान्यात्प्रदर्शनार्थत्वोपपत्तेः।
+</details>
+
+<details><summary>Thibaut</summary>
+
+we reply that this objection is unfounded; firstly, because the aggregate of all living beings is seen to be meant from the circumstance of death being the condiment; and, secondly, because the Brahmans and Kshattriyas may here, on account of their pre-eminent position, be viewed as instances only (of all beings).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नैष दोषः, मृत्यूपसेचनत्वेनेहाद्यत्वेन सर्वस्य प्राणिनिकायस्य प्रतीयमानत्वात् , ब्रह्मक्षत्रयोश्च प्राधान्यात्प्रदर्शनार्थत्वोपपत्तेः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत्तु परमात्मनोऽपि नात्तृत्वं सम्भवति ‘अनश्नन्नन्योऽभिचाकशीति’ इति दर्शनादिति, अत्रोच्यते — कर्मफलभोगस्य प्रतिषेधकमेतद्दर्शनम् , तस्य सन्निहितत्वात्।
+</details>
+
+<details><summary>Thibaut</summary>
+
+Concerning the objection that the highest Self cannot be an eater on account of the passage quoted ('the other looks on without eating'), we remark that that passage aims at denying the fruition (on the part of the highest Self) of the results of works, such fruition being mentioned in immediate proximity,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत्तु परमात्मनोऽपि नात्तृत्वं सम्भवति ‘अनश्नन्नन्योऽभिचाकशीति’ इति दर्शनादिति, अत्रोच्यते — कर्मफलभोगस्य प्रतिषेधकमेतद्दर्शनम् , तस्य सन्निहितत्वात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न विकारसंहारस्य प्रतिषेधकम् , सर्ववेदान्तेषु सृष्टिस्थितिसंहारकारणत्वेन ब्रह्मणः प्रसिद्धत्वात्।
+</details>
+
+<details><summary>Thibaut</summary>
+
+but is not meant to negative the reabsorption of the world of effects (into Brahman); for it is well established by all the Vedānta-texts that Brahman is the cause of the creation, subsistence, and reabsorption of the world.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न विकारसंहारस्य प्रतिषेधकम् , सर्ववेदान्तेषु सृष्टिस्थितिसंहारकारणत्वेन ब्रह्मणः प्रसिद्धत्वात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात्परमात्मैवेहात्ता भवितुमर्हति ॥ ९ ॥
+</details>
+
+<details><summary>Thibaut</summary>
+
+Therefore the eater can here be Brahman only.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मात्परमात्मैवेहात्ता भवितुमर्हति ॥ ९ ॥
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
@@ -74,12 +357,71 @@ title = "०२ अत्त्रधिकरणम्"
 आगैयाल् इङ्गे साप्पिडुगिऱवर् परमात्मा वागवे इरुप्पदुदाऩ् न्यायम्।
 </details>
 
-प्रकरणाच्च ॥ १० ॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतश्च परमात्मैवेहात्ता भवितुमर्हति; यत्कारणं प्रकरणमिदं परमात्मनः — ‘न जायते म्रियते वा विपश्चित्’ (क. उ. १। २। १८) इत्यादि। प्रकृतग्रहणं च न्याय्यम्। ‘क इत्था वेद यत्र सः’ इति च दुर्विज्ञानत्वं परमात्मलिङ्गम् ॥ १० ॥
+प्रकरणाच्च ॥ १० ॥  
+</details>
+
+<details><summary>Thibaut</summary>
+
+10. And on account of the topic under discussion.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रकरणाच्च ॥ १० ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इतश्च परमात्मैवेहात्ता भवितुमर्हति; यत्कारणं प्रकरणमिदं परमात्मनः — ‘न जायते म्रियते वा विपश्चित्’ (क. उ. १। २। १८) इत्यादि।
+</details>
+
+<details><summary>Thibaut</summary>
+
+That the highest Self only can be the eater referred to is moreover evident from the passage (Ka. Up. I, 2, 18), ('The knowing Self is not born, it dies not'), which shows that the highest Self is the general topic.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इतश्च परमात्मैवेहात्ता भवितुमर्हति; यत्कारणं प्रकरणमिदं परमात्मनः — ‘न जायते म्रियते वा विपश्चित्’ (क. उ. १। २। १८) इत्यादि।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रकृतग्रहणं च न्याय्यम्।
+</details>
+
+<details><summary>Thibaut</summary>
+
+And to adhere to the general topic is the proper proceeding.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रकृतग्रहणं च न्याय्यम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘क इत्था वेद यत्र सः’ इति च दुर्विज्ञानत्वं परमात्मलिङ्गम् ॥ १० ॥
+</details>
+
+<details><summary>Thibaut</summary>
+
+Further, the clause, 'Who then knows where he is,' shows that the cognition is connected with difficulties; which circumstance again points to the highest Self.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘क इत्था वेद यत्र सः’ इति च दुर्विज्ञानत्वं परमात्मलिङ्गम् ॥ १० ॥
+</details>
 
 <details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
 इदऩालेयुम् परमात्मादाऩ् अत्तावाग इरुप्पदु न्यायम्, ऎऩ्ऩ कारणमॆऩ्ऱाल् इन्द पिरगरणम् 'पिऱप्पदिल्लै, इऱप्पदिल्लै, ञाऩस्वरूबर्' (काडग। १-२-१८) ऎऩ्बदु मुदलियऩ पिरह्मत्तैक् कुऱिप्पवै। पिरगिरुदमायुळ्ळदै ऎडुत्तुक्कॊळ्वदुदाऩ् न्यायम्। 'अवर् ऎङ्गेयिरुक्किऱारो अदै इव्वाऱु ऎऩ्ऱु यार्दाऩ् अऱिवार्' ऎऩ्ऱु अऱियमुडियात्तऩ्मैयुम् परमात्माविऱ्कु लिङ्गम् (अडैयाळम्)।
 </details>
-
