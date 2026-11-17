@@ -19,11 +19,6 @@ title = "०२ परामर्शाधिकरणम्"
 परामर्शं जैमिनिरचोदना चापवदति हि ॥ १८ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-परामर्सम् जैमिऩिरसोदना साबवददि हि ॥ १८ ॥
-</details>
-
 <details><summary>वैयासिक-न्याय-माला</summary>
 
 नास्त्यूर्ध्वरेताः किंवाऽस्ति नास्त्यसावविधानतः ॥  
@@ -466,11 +461,6 @@ True, but our discussion is carried on without reference to that passage.
 अनुष्ठेयं बादरायणः साम्यश्रुतेः ॥ १९ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-अऩुष्टेयम् पादरायण: साम्यच्रुदे: ॥ १९ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुष्ठेयम् आश्रमान्तरं बादरायण आचार्यो मन्यते —
@@ -775,11 +765,6 @@ From all this it follows that the further stage of life has to be gone through, 
 <details><summary>मूलम्</summary>
 
 विधिर्वा धारणवत् ॥ २० ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-विदिर्वा तारणवत् ॥ २० ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -793,11 +793,6 @@ Hence the word prāṇa denotes Brahman.
 न वक्तुरात्मोपदेशादिति चेदध्यात्मसम्बन्धभूमा ह्यस्मिन् ॥ २९ ॥  
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-न वक्तुरात्मोबदेसादिदि सेदत्यात्मसम्बन्दबूमाह्यसमिन् ॥ २९ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्-उक्तं प्राणो ब्रह्मेति,  
@@ -1349,11 +1344,6 @@ How then can the circumstance of the speaker (Indra) referring to himself be exp
 <details><summary>मूलम्</summary>
 
 शास्त्रदृष्ट्या तूपदेशो वामदेववत् ॥ ३० ॥  
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-सास्त्रत्रुष्ट्या तूबदेसो वामदेववत् ॥ ३० ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -298,11 +298,6 @@ To this argumentation the Sūtrakāra replies as follows:
 तत्तु समन्वयात् ॥ ४ ॥  
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-तत्तु समन्वयात्: ॥ ४ ॥
-</details>
-
 <details><summary>वैयासिक-न्याय-माला</summary>
 
 वेदान्ताः कर्तृदेवादि-  

@@ -35,11 +35,6 @@ title = "०८ उत्पत्त्यसम्भवाधिकरणम�
 उत्पत्त्यसम्भवात् ॥ ४२ ॥  
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-उत्पत्त्यसम्बवात् ॥ ४२ ॥
-</details>
-
 <details><summary>वैयासिक-न्यायमाला</summary>
 
 जीवोत्पत्त्यादिकं पञ्च-  
@@ -252,11 +247,6 @@ And thence release, which consists in reaching the highest Being, could not take
 न च कर्तुः करणम् ॥ ४३ ॥  
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-नस कर्दु: करणम् ॥ ४३ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतश् चासङ्गतैषा कल्पना —  
@@ -312,10 +302,6 @@ The Bhāgavata hypothesis is to be rejected for that reason also, that observati
 </details>
 
 ## ईश्वरोत्पत्ति-पक्षः
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-विज्ञानादिबावे वा तदप्रदिषेद: ॥ ४४ ॥
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -470,11 +456,6 @@ Whence such a childish objection, data-consideration error?
 <details><summary>मूलम्</summary>
 
 विप्रतिषेधाच्च ॥ ४५ ॥  
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-विप्रदिषेदाच्च ॥ ४५ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

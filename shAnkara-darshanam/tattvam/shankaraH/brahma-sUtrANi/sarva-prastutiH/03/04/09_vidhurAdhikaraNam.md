@@ -18,11 +18,6 @@ title = "०९ विधुराधिकरणम्"
 अन्तरा चापि तु तद्दृष्टेः ॥ ३६ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-अन्दरा साबि तु तत्त्रुष्टे: ॥ ३६ ॥
-</details>
-
 <details><summary>वैयासिक-न्याय-माला</summary>
 
 नास्त्यनाश्रमिणो ज्ञानमस्ति वा नैव विद्यते ॥  
@@ -164,11 +159,6 @@ To this the Sūtrakāra replies. 'But also between.' Even a person who because h
 <details><summary>मूलम्</summary>
 
 अपि च स्मर्यते ॥ ३७ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-अबि स स्मर्यदे ॥ ३७ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -411,11 +401,6 @@ Hence there is no contradiction in admitting qualification for knowledge on the 
 <details><summary>मूलम्</summary>
 
 अतस्त्वितरज्ज्यायो लिङ्गाच्च ॥ ३९ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-अदस्त्विदरज्ज्यायो लिङ्गाच्च ॥ ३९ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

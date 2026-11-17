@@ -18,11 +18,6 @@ title = "०८ आश्रमकर्माधिकरणम्"
 विहितत्वाच्चाश्रमकर्मापि ॥ ३२ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-विहिदत्वाच्चआच्रमगर्माबि ॥ ३२ ॥
-</details>
-
 <details><summary>वैयासिक-न्याय-माला</summary>
 
 विद्यार्थमाश्रमार्थं च द्विः प्रयोगोऽथवा सकृत् ॥  
@@ -221,11 +216,6 @@ The next Sūtra replies to the objection raised above in the words, 'but then th
 <details><summary>मूलम्</summary>
 
 सहकारित्वेन च ॥ ३३ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-सहगारित्वेन स ॥ ३३ ॥
 </details>
 
 ### विहित-त्वात् सहकारि-त्वम्
@@ -484,11 +474,6 @@ The case is analogous to that of the one khadira, which through a permanent conn
 सर्वथापि त एवोभयलिङ्गात् ॥ ३४ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-सर्वदाअबि त एवोबयलिङ्गात् ॥ ३४ ॥
-</details>
-
 ### कर्म-भेद-शङ्का-निरासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -732,11 +717,6 @@ The Sūtrakāra therefore rightly emphasizes the non-difference of the works.
 <details><summary>मूलम्</summary>
 
 अनभिभवं च दर्शयति ॥ ३५ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-अनबिबवम् स तर्सयदि ॥ ३५ ॥
 </details>
 
 ### उपोद्बलक-लिङ्गम्

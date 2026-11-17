@@ -3,10 +3,6 @@ title = "०७ अन्तरधिकरणम्"
 +++
 
 अन्तस्तद्धर्मोपदेशात् ॥ २० ॥  
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-अन्दस्तत्तर्मोबदेसात् ॥ २० ॥
-</details>
 
 <details><summary>वैयासिक-न्याय-माला</summary>
 
@@ -1008,11 +1004,6 @@ From all this it follows that the being which Scripture states to be within the 
 <details><summary>मूलम्</summary>
 
 भेदव्यपदेशाच्चान्यः ॥ २१ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-पेदव्यबदेसाच्चान्य: ॥ २१ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

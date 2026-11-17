@@ -33,11 +33,6 @@ title = "०६ आनन्दमयाधिकरणम्"
 आनन्दमयोऽभ्यासात् ॥ १२ ॥  
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-आऩन्दमयोअप्यासात् ॥ १२ ॥
-</details>
-
 ## सङ्गतिः
 
 <details><summary>वैयासिक-न्याय-माला</summary>
@@ -1120,11 +1115,6 @@ Hence the Self consisting of bliss is the highest Brahman.
 विकारशब्दान्नेति चेन्न प्राचुर्यात् ॥ १३ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-विगारसप्तान्नेदि सेन्न प्रासुर्यात् ॥ १३ ॥
-</details>
-
 #### पूर्वपक्षः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1305,11 +1295,6 @@ Maya therefore denotes abundance.
 तद्धेतुव्यपदेशाच्च ॥ १४ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-तत्तेदुव्यबदेसाच्च ॥ १४ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतश् च प्राचुर्यार्थे मयट्;  
@@ -1390,11 +1375,6 @@ As, therefore, maya may be taken to mean 'abundant,' the Self consisting of blis
 <details><summary>मूलम्</summary>
 
 मान्त्रवर्णिकमेव च गीयते ॥ १५ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-मान्द्रवर्णिगमेव स कीयदे ॥ १५ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1565,11 +1545,6 @@ Therefore the Self consisting of bliss is the highest Self.
 नेतरोऽनुपपत्तेः ॥ १६ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-नेदरोअनुबबत्ते: ॥ १६ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतश् चानन्दमयः पर एवात्मा, नेतरः;  
@@ -1705,11 +1680,6 @@ Here, the desire arising before the origination of a body, &c., the non-separati
 <details><summary>मूलम्</summary>
 
 भेदव्यपदेशाच्च ॥ १७ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-पेदव्यबदेसाच्च ॥ १७ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1962,11 +1932,6 @@ With reference to this fictitious difference of the highest Self and the individ
 कामाच्च नानुमानापेक्षा ॥ १८ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-कामाच्च नानुमानाबेक्षा ॥ १८ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आनन्दमयाधिकारे च 
@@ -2033,11 +1998,6 @@ Although the opinion that the pradhāna is the cause of the world, has already b
 <details><summary>मूलम्</summary>
 
 तस्मिन्नस्य च तद्योगं शास्ति ॥ १९ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-तस्मिन्नस्य स तत्योगम् सास्ति ॥ १९ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

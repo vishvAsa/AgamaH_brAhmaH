@@ -18,11 +18,6 @@ title = "१४ सहकार्यन्तरविध्यधिकरण�
 सहकार्यन्तरविधिः पक्षेण तृतीयं तद्वतो विध्यादिवत् ॥ ४७ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-सहगार्यन्दरविदि पक्षेण त्रीदीयम् तत्त्वदो वित्यादिवत् ॥ ४७ ॥
-</details>
-
 <details><summary>वैयासिक-न्याय-माला</summary>
 
 अविधेयं विधेयं वा मौनं तन्न विधीयते ॥  
@@ -467,11 +462,6 @@ To this doubt the next Sūtra replies.
 कृत्स्नभावात्तु गृहिणोपसंहारः ॥ ४८ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-क्रुत्स्नबावात्तु क्रुहिणोबसम्हार: ॥ ४८ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तु-शब्दो विशेषणार्थः। कृत्स्न-भावो ऽस्य विशेष्यते।
@@ -547,11 +537,6 @@ There is therefore nothing contradictory in the Cḥāndogya winding up with the
 <details><summary>मूलम्</summary>
 
 मौनवदितरेषामप्युपदेशात् ॥ ४९ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-मौनवदि तरे षामप्युबदेसात् ॥ ४९ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

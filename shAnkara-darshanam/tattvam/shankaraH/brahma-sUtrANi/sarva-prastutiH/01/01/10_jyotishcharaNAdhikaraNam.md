@@ -12,11 +12,6 @@ title = "१० ज्योतिश्चरणाधिकरणम्"
 ज्योतिश्चरणाभिधानात् ॥ २४ ॥  
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-ज्योदिच्चरणाबिदानात् ॥ २४ ॥
-</details>
-
 <details><summary>वैयासिक-न्याय-माला</summary>
 
 कार्यं ज्योतिरुत ब्रह्म ज्योतिर्दीप्यत इत्यदः ॥  
@@ -1190,11 +1185,6 @@ The passage under discussion runs [^fn_129], 'which above this heaven, the light
 छन्दोभिधानान्नेति चेन्न तथा चेतोर्पणनिगदात्तथाहि दर्शनम् ॥२५॥  
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-सन्दोबिदानान्नेदि सेन्न तदा सेदोर्बणनिगदात्तदाहि तर्सनम् ॥ २५ ॥
-</details>
-
 ### गायत्र्य्-उक्तिः?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1619,11 +1609,6 @@ If we adopt this interpretation, Brahman only is spoken of, and the metre is not
 भूतादिपादव्यपदेशोपपत्तेश्चैवम् ॥ २६ ॥  
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-पूदादिबादव्यदेसोबबत्तेच्चैवम् ॥ २६ ॥
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1862,11 +1847,6 @@ Hence Brahman is to be considered as the subject-matter of the previous passage 
 <details><summary>मूलम्</summary>
 
 उपदेशभेदान्नेति चेन्नोभयस्मिन्नप्यविरोधात् ॥ २७ ॥  
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-उबदेसबेदान्नेदि सेन्नोबयस्मिन्नप्यविरोदात् ॥ २७ ॥
 </details>
 
 ### विरोधाभासः

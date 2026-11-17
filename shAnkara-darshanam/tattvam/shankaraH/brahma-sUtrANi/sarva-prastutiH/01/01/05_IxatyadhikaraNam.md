@@ -624,11 +624,6 @@ To these conclusions he (Vyāsa) replies in the following Sūtra.
 ईक्षतेर्नाशब्दम् ॥ ५ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-ईक्षदेर्नासप्तम्: ॥ ५ ॥
-</details>
-
 <details><summary>वैयासिक-न्याय-माला</summary>
 
 तदैक्षतेतिवाक्येन  
@@ -2426,17 +2421,7 @@ To this argumentation of the Sānkhya the next Sutra replies:
 गौणश्चेन्नात्मशब्दात् ॥ ६ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
 
-क\u0bc5ळाणच्चेन्ना आत्मसप्तात्: ॥ ६ ॥
-</details>
-
-
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-कॆळाणच्चेन्ना आत्मसप्तात्: ॥ ६ ॥
-</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3045,11 +3030,6 @@ How then does it follow from the word 'Self' that the thinking (ascribed to the 
 <details><summary>मूलम्</summary>
 
 तन्निष्ठस्य मोक्षोपदेशात् ॥ ७ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-तन्निष्टस्य मोक्षोबदेसात्: ॥ ७ ॥
 </details>
 
 
@@ -3798,11 +3778,6 @@ This the teacher now proceeds to prove by an additional reason.
 हेयत्वावचनाच्च ॥ ८ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-हेयत्वावसनाच्च: ॥ ८ ॥
-</details>
-
 
 
 
@@ -4174,11 +4149,6 @@ For this the Sūtrakāra gives a further reason.
 <details><summary>मूलम्</summary>
 
 स्वाप्ययात् ॥ ९ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-स्वाप्ययात्: ॥ ९ ॥
 </details>
 
 
@@ -4642,11 +4612,6 @@ A further reason for the pradhāna not being the cause is subjoined.
 गतिसामान्यात् ॥ १० ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-गतिसामान्यात्: ॥ १० ॥
-</details>
-
 
 
 
@@ -4956,11 +4921,6 @@ And because it is directly stated in Scripture (therefore the all-knowing Brahma
 <details><summary>मूलम्</summary>
 
 श्रुतत्वाच्च ॥ ११ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-च्रुदत्वाच्च: ॥ ११ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

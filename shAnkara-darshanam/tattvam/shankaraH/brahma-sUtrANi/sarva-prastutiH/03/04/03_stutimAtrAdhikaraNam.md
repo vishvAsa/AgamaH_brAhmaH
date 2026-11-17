@@ -18,11 +18,6 @@ title = "०३ स्तुतिमात्राधिकरणम्"
 स्तुतिमात्रमुपादानादिति चेन्नापूर्वत्वात् ॥ २१ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-स्तुदिमात्रमुबादानादिदि सेन्नाबूर्वत्वात् ॥ २१ ॥
-</details>
-
 <details><summary>वैयासिक-न्याय-माला</summary>
 
 स्तोत्रंं रसतमत्वादि ध्येयं वा गुणवर्णनात् ॥  
@@ -309,11 +304,6 @@ Therefore texts such as those under discussion have an injunctive purpose.
 <details><summary>मूलम्</summary>
 
 भावशब्दाच्च ॥ २२ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-पावसप्ताच्च ॥ २२ ॥
 </details>
 
 ### विधि-शब्दाः

@@ -18,11 +18,6 @@ title = "११ आधिकारिकाधिकरणम्"
 न चाधिकारिकमपि पतनानुमानात्तदयोगात् ॥ ४१ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-नसाआदिगारिगमबि पदनानुमानात्तदयोगात् ॥ ४१ ॥
-</details>
-
 <details><summary>वैयासिक-न्याय-माला</summary>
 
 भ्रष्टोर्ध्वरेतसो नास्ति प्रायश्चित्तमथास्ति वा ॥  
@@ -164,11 +159,6 @@ For Smr̥ti declares that such sins cannot be expiated by him any more than a he
 <details><summary>मूलम्</summary>
 
 उपपूर्वमपि त्वेके भावमशनवत्तदुक्तम् ॥ ४२ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-उबबूर्वमबि त्वेगे पावमसऩवत्तदुदिक्तम् ॥ ४२ ॥
 </details>
 
 ### उपपातक-त्वम्

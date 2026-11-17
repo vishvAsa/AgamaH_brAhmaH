@@ -20,11 +20,6 @@ REVERENCE TO THE HIGHEST SELF!
 पुरुषार्थोऽतः शब्दादिति बादरायणः ॥ १ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-पुरुषार्दोद: सप्तादिदि पादरायण: ॥ १ ॥
-</details>
-
 <details><summary>वैयासिक-न्याय-माला</summary>
 
 क्रत्वर्थमात्मविज्ञानं स्वतन्त्रं वाऽऽत्मनो यतः ॥  
@@ -225,11 +220,6 @@ Against this the opponent raises his voice as follows.
 <details><summary>मूलम्</summary>
 
 शेषत्वात्पुरुषार्थवादो यथान्येष्विति जैमिनिः ॥ २ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-से षत्वात्पुरुषार्दवादो यदाअन्येष्विदि जैमिदि: ॥ २ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -511,11 +501,6 @@ but in order to confirm that doctrine, objections and their refutation are again
 आचारदर्शनात् ॥ ३ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-आसारदर्सनात् ॥ ३ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘जनको ह वैदेहो बहु-दक्षिणेन यज्ञेनेजे’ (बृ. उ. ३। १। १)  
@@ -604,11 +589,6 @@ If mere knowledge could effect the purpose of man, why should the persons mentio
 तच्छ्रुतेः ॥ ४ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-तच्च्रुदे ॥ ४ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘यद् एव विद्यया करोति श्रद्धयोपनिषदा तद् एव वीर्यवत्-तरं भवति’ (छा. उ. १। १। १०)
@@ -649,11 +629,6 @@ If mere knowledge could effect the purpose of man, why should the persons mentio
 समन्वारम्भणात् ॥ ५ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-समन्वारम्बणात् ॥ ५ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘तं विद्या-कर्मणी समन्वारभेते’ (बृ. उ. ४। ४। २)
@@ -691,11 +666,6 @@ If mere knowledge could effect the purpose of man, why should the persons mentio
 <details><summary>मूलम्</summary>
 
 तद्वतो विधानात् ॥ ६ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-तत्वदो विदानात् ॥ ६ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -805,11 +775,6 @@ The reading of the Veda extends up to the comprehension of its purport, as thus 
 नियमाच्च ॥ ७ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-नियमाच्च ॥ ७ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘कुर्वन्न् एवेह कर्माणि जिजीविषेच् छतँ समाः। एवं त्वयि नान्यथेतो ऽस्ति न कर्म लिप्यते नरे’ (ई. उ. २)
@@ -871,11 +836,6 @@ Against all these objections the Sūtrakāra upholds his view in the following S
 <details><summary>मूलम्</summary>
 
 अधिकोपदेशात्तु बादरायणस्यैवं तद्दर्शनात् ॥ ८ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-अदिगोबदेसात्तु पादरायणस्यैवम् तत्तार्सनात् ॥ ८ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1113,11 +1073,6 @@ All which has been demonstrated by us at length in the earlier parts of this com
 तुल्यं तु दर्शनम् ॥ ९ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-तुल्यम् तु तर्सनम् ॥ ९ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्तूक्तम् — आचार-दर्शनात् कर्म-शेषो विद्येति, अत्र ब्रूमः — तुल्यम्
@@ -1296,11 +1251,6 @@ We now reply to the averment made in Sūtra 4.
 असार्वत्रिकी ॥ १० ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-असार्वत्रिगी ॥ १० ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘यद् एव विद्यया करोति’ (छा. उ. १। १। १०)
@@ -1344,11 +1294,6 @@ And the latter is the knowledge of the udgītha only, 'Let a man meditate on the
 <details><summary>मूलम्</summary>
 
 विभागः शतवत् ॥ ११ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-विबाग: सदवत् ॥ ११ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1514,11 +1459,6 @@ The next Sūtra replies to the averment made in Sūtra 6.
 अध्ययनमात्रवतः ॥ १२ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-अत्ययनमात्रवद: ॥ १२ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘आचार्य-कुलाद् वेदम् अधीत्य’ (छा. उ. ८। १५। १)
@@ -1667,11 +1607,6 @@ Against the reasoning of Sūtra 7 we make the following remark.
 नाविशेषात् ॥ १३ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-नाविसे षात् ॥ १३ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘कुर्वन्न् एवेह कर्माणि जिजीविषेत्’ (ई. उ. २)
@@ -1709,11 +1644,6 @@ In passages such as 'Performing works here let a man live' &c., which state defi
 <details><summary>मूलम्</summary>
 
 स्तुतयेऽनुमतिर्वा ॥ १४ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-स्तुदयेअऩुमदिर्वा ॥ १४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1785,11 +1715,6 @@ And this clearly glorifies knowledge.
 <details><summary>मूलम्</summary>
 
 कामकारेण चैके ॥ १५ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-कामगारेण सैगे ॥ १५ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1876,11 +1801,6 @@ From this also it follows that knowledge is not subordinate to action, and that 
 उपमर्दं च ॥ १६ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-उबमर्दम् स ॥ १६ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च कर्माधिकार-हेतोः क्रिया-कारक-फल-लक्षणस्य समस्तस्य प्रपञ्चस्य
@@ -1945,11 +1865,6 @@ From this also it follows that knowledge is independent.
 <details><summary>मूलम्</summary>
 
 ऊर्ध्वरेतःसु च शब्दे हि ॥ १७ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-ऊर्त्वरेद: सु स सप्ते हि ॥ १७ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

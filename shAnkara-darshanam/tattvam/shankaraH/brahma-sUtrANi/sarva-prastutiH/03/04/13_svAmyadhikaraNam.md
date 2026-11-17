@@ -18,11 +18,6 @@ title = "१३ स्वाम्यधिकरणम्"
 स्वामिनः फलश्रुतेरित्यात्रेयः ॥ ४४ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-स्वामिन: पलच्रुदेरित्यात्रेय: ॥ ४४ ॥
-</details>
-
 <details><summary>वैयासिक-न्याय-माला</summary>
 
 अङ्गध्यानं याजमानमार्त्विजं वा यतः फलम् ॥  
@@ -205,11 +200,6 @@ Hence the lord of the sacrifice only is the agent in those meditations which hav
 आर्त्विज्यमित्यौडुलोमिस्तस्मै हि परिक्रीयते ॥ ४५ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-आर्त्विज्यमित्यॆळडुलोमिस्तस्मै हि परिक्रीयदे ॥ ४५ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतद् अस्ति — स्वामि-कर्माण्य् उपासनानीति।
@@ -350,11 +340,6 @@ With reference to the circumstance noted by the pūrvapakshin that scripture sta
 <details><summary>मूलम्</summary>
 
 श्रुतेश्च ॥ ४६ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-च्रुदेच्च ॥ ४६ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

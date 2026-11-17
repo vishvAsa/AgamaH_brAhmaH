@@ -20,10 +20,6 @@ title = "०२ आत्मत्वोपासनाधिकरणम्"
 </details>
 
   
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-आत्मेदि तूबगच्चन्दि क्राहयन्दि स ॥ ३ ॥
-</details>
 
 <details><summary>वैयासिक-न्याय-माला</summary>
 

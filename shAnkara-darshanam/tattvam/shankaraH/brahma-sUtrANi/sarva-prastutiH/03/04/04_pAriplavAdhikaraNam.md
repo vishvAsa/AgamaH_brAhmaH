@@ -18,11 +18,6 @@ title = "०४ पारिप्लवाधिकरणम्"
 पारिप्लवार्था इति चेन्न विशेषितत्वात् ॥ २३ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-पारिप्लवार्दा इदि सेन्न विसेषिदत्वात् ॥ २३ ॥
-</details>
-
 <details><summary>वैयासिक-न्याय-माला</summary>
 
 पारिप्लवार्थमाख्यानं किंवा विद्यास्तुतिस्तुतेः ॥  
@@ -208,11 +203,6 @@ We therefore conclude that those scriptural stories are not meant to be told at 
 <details><summary>मूलम्</summary>
 
 तथा चैकवाक्यतोपबन्धात् ॥ २४ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-तदा सैगवायदोबबन्दात् ॥ २४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

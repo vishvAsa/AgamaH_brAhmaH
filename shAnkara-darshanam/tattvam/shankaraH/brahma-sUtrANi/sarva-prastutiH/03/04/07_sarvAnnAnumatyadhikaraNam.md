@@ -18,11 +18,6 @@ title = "०७ सर्वान्नानुमत्यधिकरणम�
 सर्वान्नानुमतिश्च प्राणात्यये तद्दर्शनात् ॥ २८ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-सर्वाऩ्ऩाऩुमदिच्च प्राणात्यये तत्तर्सनात् ॥ २८ ॥
-</details>
-
 <details><summary>वैयासिक-न्याय-माला</summary>
 
 सर्वाशनविधिः प्राणविदोऽनुज्ञाऽथवाऽऽपदि ॥  
@@ -420,11 +415,6 @@ From this it follows that the passage, 'For to him who knows this,' &c., is an a
 अबाधाच्च ॥ २९ ॥
 </details>
 
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-अबादाच्च ॥ २९ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं च सति
@@ -463,11 +453,6 @@ And thus those scriptural passages which distinguish lawful and unlawful food, s
 <details><summary>मूलम्</summary>
 
 अपि च स्मर्यते ॥ ३० ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-अबिस स्मर्यदे ॥ ३० ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -517,11 +502,6 @@ On the other hand, many passages teach that unlawful food is to be avoided. 'Int
 <details><summary>मूलम्</summary>
 
 शब्दश्चातोऽकामकारे ॥ ३१ ॥
-</details>
-
-<details><summary>ज्ञानानन्द-भारती - द्राविडी</summary>
-
-सप्तच्चादोअगामगारे ॥ ३१ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
