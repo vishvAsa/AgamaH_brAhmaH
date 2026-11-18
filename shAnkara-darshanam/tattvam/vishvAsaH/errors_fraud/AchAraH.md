@@ -10,6 +10,10 @@ title = "आचारः"
 शतदूषण्यां [यतिलिङ्ग-भेद-भङ्ग-वादे](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/shata-dUShaNI/mUlam/64_yatilingabhedabhangavAdaH) वेङ्कटनाथार्येण । 
 
 ### veda
+agniveśyagṛhya sūtra, sannyāsavidhi chapter: "na vedam sannyaset| vedasannyāsācchūdro bhavati| tasmād vedam na sannyased|" 
+
+किञ्च - 
+
 > ‘यज्ञोपवीतं वेदांश्च सर्वं तद् वर्जयेद् यतिः’
 
 इति शङ्करो बृहदारण्योपनिषद्-भाष्ये काम् अपि तथा-कथित-श्रुतिम् उदाहरति।  

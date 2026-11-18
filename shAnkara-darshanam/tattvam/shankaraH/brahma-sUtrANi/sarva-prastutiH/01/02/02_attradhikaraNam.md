@@ -5,7 +5,7 @@ title = "०२ अत्त्रधिकरणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्ता चराचरग्रहणात् ॥ ९ ॥  
+अत्ता चराचर-ग्रहणात् ॥ ९ ॥  
 </details>
 
 <details><summary>Thibaut</summary>
@@ -21,9 +21,9 @@ title = "०२ अत्त्रधिकरणम्"
 <details><summary>वैयासिक-न्याय-माला</summary>
 
 जीवोऽग्निरीशो वाऽत्ता स्यादोदने जीव इष्यताम् ॥  
-स्वाद्वत्तीति श्रुतेर्वह्निर्वाऽग्निरन्नाद इत्यतः ॥ ३ ॥  
+स्वाद्व् अत्तीति श्रुतेर् वह्निर् वाऽग्निर् अन्नाद इत्यतः ॥ ३ ॥  
 ब्रह्मक्षत्रादिजगतो भोज्यत्वात्स्यादिहेश्वरः ॥  
-ईशप्रश्नोत्तरत्वाच्च संहारस्तस्य चातृता ॥ ४ ॥  
+ईशप्रश्नोत्तरत्वाच् च संहारस्तस्य चातृता ॥ ४ ॥  
 --वैयासिकन्यायमाला
 </details>
 
@@ -39,7 +39,7 @@ title = "०२ अत्त्रधिकरणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कठवल्लीषु पठ्यते ‘यस्य ब्रह्म च क्षत्रं चोभे भवत ओदनः। मृत्युर्यस्योपसेचनं क इत्था वेद यत्र सः’ (क. उ. १। २। २५) इति।
+कठ-वल्लीषु पठ्यते ‘यस्य ब्रह्म च क्षत्रं चोभे भवत ओदनः। मृत्युर् यस्योपसेचनं क इत्था वेद यत्र सः’ (क. उ. १। २। २५) इति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -54,7 +54,7 @@ We read in the Kaṭḥavallī (I, 2, 25), 'Who then knows where He is, He to wh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्र कश्चिदोदनोपसेचनसूचितोऽत्ता प्रतीयते।
+अत्र कश्चिद् ओदनोपसेचन-सूचितो ऽत्ता प्रतीयते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -69,7 +69,7 @@ This passage intimates, by means of the words 'food' and 'condiment,' that there
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र किमग्निरत्ता स्यात् , उत जीवः, अथवा परमात्मा, इति संशयः। विशेषानवधारणात्। त्रयाणां चाग्निजीवपरमात्मनामस्मिन्ग्रन्थे प्रश्नोपन्यासोपलब्धेः ।
+तत्र किम् अग्निर् अत्ता स्यात् , उत जीवः, अथवा परमात्मा, इति संशयः। विशेषानवधारणात्। त्रयाणां चाग्नि-जीव-परमात्मनामस्मिन् ग्रन्थे प्रश्नोपन्यासोपलब्धेः ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -106,7 +106,7 @@ A doubt then arises whether the eater be Agni or the individual soul or the high
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किं तावत्प्राप्तम् ? अग्निरत्तेति।
+किं तावत्-प्राप्तम् ? अग्निर् अत्तेति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -121,7 +121,7 @@ The pūrvapakshin maintains that the eater is Agni,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कुतः ? ‘अग्निरन्नादः’ (बृ. उ. १। ४। ६) इति श्रुतिप्रसिद्धिभ्याम्।
+कुतः ? ‘अग्निर् अन्नादः’ (बृ. उ. १। ४। ६) इति श्रुति-प्रसिद्धिभ्याम्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -136,7 +136,7 @@ fire being known from Scripture as well (cp. Br̥. Up. I, 4, 6) as from ordinary
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जीवो वा अत्ता स्यात् ‘तयोरन्यः पिप्पलं स्वाद्वत्ति’ (मु. उ. ३। १। १) इति दर्शनात्।
+जीवो वा अत्ता स्यात् ‘तयोर् अन्यः पिप्पलं स्वाद्व् अत्ति’ (मु. उ. ३। १। १) इति दर्शनात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -151,7 +151,7 @@ Or else the individual soul may be the eater, according to the passage, 'One of 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न परमात्मा, ‘अनश्नन्नन्योऽभिचाकशीति’ इति दर्शनादित्येवं प्राप्ते ब्रूमः —
+न परमात्मा, ‘अनश्नन्न् अन्यो ऽभिचाकशीति’ इति दर्शनाद् इत्य् एवं प्राप्ते ब्रूमः —
 </details>
 
 <details><summary>Thibaut</summary>
@@ -181,7 +181,7 @@ The eater, we reply, must be the highest Self
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कुतः ? चराचरग्रहणात्।
+कुतः ? चराचर-ग्रहणात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -196,7 +196,7 @@ The eater, we reply, must be the highest Self
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चराचरं हि स्थावरजङ्गमं मृत्यूपसेचनमिहाद्यत्वेन प्रतीयते।
+चराचरं हि स्थावर-जङ्गमं मृत्यूपसेचनम् इहाद्यत्वेन प्रतीयते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -211,7 +211,7 @@ For all things movable and immovable are here to be taken as constituting the fo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तादृशस्य चाद्यस्य न परमात्मनोऽन्यः कार्त्स्न्येनात्ता सम्भवति।
+तादृशस्य चाद्यस्य न परमात्मनो ऽन्यः कार्त्स्न्येनात्ता सम्भवति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -226,7 +226,7 @@ But nothing beside the highest Self can be the consumer of all these things in t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परमात्मा तु विकारजातमुपसंहरन्सवॆमतीत्युपपधते ।
+परमात्मा तु विकार-जातम् उपसंहरन् सवॆमतीत्युपपधते ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -251,7 +251,7 @@ the highest Self, however, when reabsorbing the entire aggregate of effects may 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नन्विह चराचरग्रहणं नोपलभ्यते, कथं सिद्धवच्चराचरग्रहणं हेतुत्वेनोपादीयते ?
+नन्व् इह चराचर-ग्रहणं नोपलभ्यते, कथं सिद्धवच् चराचर-ग्रहणं हेतुत्वेनोपादीयते ?
 </details>
 
 <details><summary>Thibaut</summary>
@@ -266,7 +266,7 @@ If it is objected that here no express mention is made of things movable and thi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नैष दोषः, मृत्यूपसेचनत्वेनेहाद्यत्वेन सर्वस्य प्राणिनिकायस्य प्रतीयमानत्वात् , ब्रह्मक्षत्रयोश्च प्राधान्यात्प्रदर्शनार्थत्वोपपत्तेः।
+नैष दोषः, मृत्यूपसेचनत्वेनेहाद्यत्वेन सर्वस्य प्राणि-निकायस्य प्रतीयमानत्वात् , ब्रह्म-क्षत्रयोश् च प्राधान्यात् प्रदर्शनार्थत्वोपपत्तेः।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -281,7 +281,7 @@ we reply that this objection is unfounded; firstly, because the aggregate of all
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्तु परमात्मनोऽपि नात्तृत्वं सम्भवति ‘अनश्नन्नन्योऽभिचाकशीति’ इति दर्शनादिति, अत्रोच्यते — कर्मफलभोगस्य प्रतिषेधकमेतद्दर्शनम् , तस्य सन्निहितत्वात्।
+यत् तु परमात्मनो ऽपि नात्तृत्वं सम्भवति ‘अनश्नन्न् अन्यो ऽभिचाकशीति’ इति दर्शनाद् इति, अत्रोच्यते — कर्म-फल-भोगस्य प्रतिषेधकम् एतद् दर्शनम् , तस्य सन्निहितत्वात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -296,7 +296,7 @@ Concerning the objection that the highest Self cannot be an eater on account of 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न विकारसंहारस्य प्रतिषेधकम् , सर्ववेदान्तेषु सृष्टिस्थितिसंहारकारणत्वेन ब्रह्मणः प्रसिद्धत्वात्।
+न विकार-संहारस्य प्रतिषेधकम् , सर्व-वेदान्तेषु सृष्टि-स्थिति-संहार-कारणत्वेन ब्रह्मणः प्रसिद्धत्वात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -311,7 +311,7 @@ but is not meant to negative the reabsorption of the world of effects (into Brah
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मात्परमात्मैवेहात्ता भवितुमर्हति ॥ ९ ॥
+तस्मात् परमात्मैवेहात्ता भवितुमर्हति ॥ ९ ॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -341,7 +341,7 @@ Therefore the eater can here be Brahman only.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रकरणाच्च ॥ १० ॥  
+प्रकरणाच् च ॥ १० ॥  
 </details>
 
 <details><summary>Thibaut</summary>
@@ -356,7 +356,7 @@ Therefore the eater can here be Brahman only.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतश्च परमात्मैवेहात्ता भवितुमर्हति; यत्कारणं प्रकरणमिदं परमात्मनः — ‘न जायते म्रियते वा विपश्चित्’ (क. उ. १। २। १८) इत्यादि।
+इतश् च परमात्मैवेहात्ता भवितुमर्हति; यत्-कारणं प्रकरणम् इदं परमात्मनः — ‘न जायते म्रियते वा विपश्चित्’ (क. उ. १। २। १८) इत्य्-आदि।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -371,7 +371,7 @@ That the highest Self only can be the eater referred to is moreover evident from
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रकृतग्रहणं च न्याय्यम्।
+प्रकृत-ग्रहणं च न्याय्यम्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -386,7 +386,7 @@ And to adhere to the general topic is the proper proceeding.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘क इत्था वेद यत्र सः’ इति च दुर्विज्ञानत्वं परमात्मलिङ्गम् ॥ १० ॥
+‘क इत्था वेद यत्र सः’ इति च दुर्विज्ञानत्वं परमात्म-लिङ्गम् ॥ १० ॥
 </details>
 
 <details><summary>Thibaut</summary>

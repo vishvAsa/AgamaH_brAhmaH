@@ -30,10 +30,10 @@ REVERENCE TO THE HIGHEST SELF!
 
 <details><summary>वैयासिक-न्याय-माला</summary>
 
-मनोमयोऽयं शारीर ईशो वा प्राणमानसे ॥  
-हृदयस्थित्यणीयस्त्वे जीवे स्युस्तेन जीवगाः ॥ १ ॥  
-शमवाक्यगतं ब्रह्म तद्धितादिरपेक्षते ॥  
-प्राणादियोगश्चिन्तार्थश्चिन्त्यं ब्रह्म प्रसिद्धितः ॥ २ ॥  
+मनोमयो ऽयं शारीर ईशो वा प्राण-मानसे ॥  
+हृदय-स्थित्यणीयस्त्वे जीवे स्युस् तेन जीवगाः ॥ १ ॥  
+शम-वाक्य-गतं ब्रह्म तद्धितादिर् अपेक्षते ॥  
+प्राणादि-योगश् चिन्तार्थश् चिन्त्यं ब्रह्म प्रसिद्धितः ॥ २ ॥  
 --वैयासिकन्यायमाला
 </details>
 
@@ -49,7 +49,7 @@ REVERENCE TO THE HIGHEST SELF!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रथमे पादे ‘जन्माद्यस्य यतः’ इत्याकाशादेः समस्तस्य जगतो जन्मादिकारणं ब्रह्मेत्युक्तम्।
+प्रथमे पादे ‘जन्माद्यस्य यतः’ इत्य् आकाशादेः समस्तस्य जगतो जन्मादि-कारणं ब्रह्मेत्य् उक्तम्।
 
 </details>
 
@@ -67,7 +67,7 @@ In the first pāda Brahman has been shown to be the cause of the origin, subsist
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य समस्तजगत्कारणस्य ब्रह्मणो व्यापित्वं नित्यत्वं सर्वज्ञत्वं सर्वशक्तित्वं सर्वात्मत्वमित्येवंजातीयका धर्मा उक्ता एव भवन्ति।
+तस्य समस्त-जगत्-कारणस्य ब्रह्मणो व्यापित्वं नित्यत्वं सर्वज्ञत्वं सर्व-शक्तित्वं सर्वात्मत्वम् इत्य् एवंजातीयका धर्मा उक्ता एव भवन्ति।
 
 </details>
 
@@ -85,7 +85,7 @@ Moreover, of this Brahman, which is the cause of the entire world, certain quali
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अर्थान्तरप्रसिद्धानां च केषाञ्चिच्छब्दानां ब्रह्मविषयत्वहेतुप्रतिपादनेन कानिचिद्वाक्यानि स्पष्टब्रह्मलिङ्गानि सन्दिह्यमानानि ब्रह्मपरतया निर्णीतानि।
+अर्थान्तर-प्रसिद्धानां च केषाञ्चिच् छब्दानां ब्रह्म-विषयत्व-हेतु-प्रतिपादनेन कानिचिद् वाक्यानि स्पष्ट-ब्रह्म-लिङ्गानि सन्दिह्यमानानि ब्रह्म-परतया निर्णीतानि।
 
 </details>
 
@@ -103,7 +103,7 @@ Further, by producing reasons showing that some words which are generally used i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुनरप्यन्यानि वाक्यान्यस्पष्टब्रह्मलिङ्गानि सन्दिह्यन्ते — किं परं ब्रह्म प्रतिपादयन्ति, आहोस्विदर्थान्तरं किञ्चिदिति।
+पुनर् अप्य् अन्यानि वाक्यान्य् अस्पष्ट-ब्रह्म-लिङ्गानि सन्दिह्यन्ते — किं परं ब्रह्म प्रतिपादयन्ति, आहोस्विद् अर्थान्तरं किञ्चिद् इति।
 
 </details>
 
@@ -121,7 +121,7 @@ Now certain other passages present themselves which because containing only obsc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन्निर्णयाय द्वितीयतृतीयौ पादावारभ्येते
+तन्-निर्णयाय द्वितीय-तृतीयौ पादाव् आरभ्येते
 
 </details>
 
@@ -149,7 +149,7 @@ We therefore begin the second and third pādas in order to settle those doubtful
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदमाम्नायते — ‘सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत। अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिल्ँलोके पुरुषो भवति तथेतः प्रेत्य भवति स क्रतुं कुर्वीत’ (छा. उ. ३। १४। १) , ‘मनोमयः प्राणशरीरः’ (छा. उ. ३। १४। २) इत्यादि।
+इदम् आम्नायते — ‘सर्वं खल्व् इदं ब्रह्म तज्-जलान् इति शान्त उपासीत। अथ खलु क्रतु-मयः पुरुषो यथाक्रतुर् अस्मिल्ँ लोके पुरुषो भवति तथेतः प्रेत्य भवति स क्रतुं कुर्वीत’ (छा. उ. ३। १४। १) , ‘मनोमयः प्राण-शरीरः’ (छा. उ. ३। १४। २) इत्य्-आदि।
 
 </details>
 
@@ -167,7 +167,7 @@ Scripture says, 'All this indeed is Brahman, beginning, ending, and breathing in
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र संशयः — किमिह मनोमयत्वादिभिर्धर्मैः शारीर आत्मोपास्यत्वेनोपदिश्यते, आहोस्वित्परं ब्रह्मेति ।
+तत्र संशयः — किम् इह मनो-मयत्वादिभिर् धर्मैः शारीर आत्मोपास्यत्वेनोपदिश्यते, आहोस्वित् परं ब्रह्मेति ।
 
 </details>
 
@@ -200,7 +200,7 @@ Concerning this passage the doubt presents itself whether what is pointed out as
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किं तावत्प्राप्तम् ? शारीर इति।
+किं तावत्-प्राप्तम् ? शारीर इति।
 
 </details>
 
@@ -236,7 +236,7 @@ Why?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य हि कार्यकरणाधिपतेः प्रसिद्धो मनआदिभिः सम्बन्धः, न परस्य ब्रह्मणः; ‘अप्राणो ह्यमनाः शुभ्रः’ (मु. उ. २। १। २) इत्यादिश्रुतिभ्यः।
+तस्य हि कार्य-करणाधिपतेः प्रसिद्धो मनआदिभिः सम्बन्धः, न परस्य ब्रह्मणः; ‘अप्राणो ह्य् अमनाः शुभ्रः’ (मु. उ. २। १। २) इत्य्-आदि-श्रुतिभ्यः।
 
 </details>
 
@@ -256,7 +256,7 @@ Because the embodied Self as the ruler of the organs of action is well known to 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु ‘सर्वं खल्विदं ब्रह्म’ इति स्वशब्देनैव ब्रह्मोपात्तम्; कथमिह शारीर आत्मोपास्यत्वेनाशङ्क्यते ?
+ननु ‘सर्वं खल्व् इदं ब्रह्म’ इति स्व-शब्देनैव ब्रह्मोपात्तम्; कथम् इह शारीर आत्मोपास्यत्वेनाशङ्क्यते ?
 
 </details>
 
@@ -292,7 +292,7 @@ This objection does not apply, the pūrvapakshin rejoins,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नेदं वाक्यं ब्रह्मोपासनाविधिपरम्।
+नेदं वाक्यं ब्रह्मोपासना-विधि-परम्।
 
 </details>
 
@@ -310,7 +310,7 @@ because the passage does not aim at enjoining meditation on Brahman,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किं तर्हि ? शमविधिपरम्; यत्कारणम् ‘सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत’ इत्याह।
+किं तर्हि ? शम-विधि-परम्; यत्-कारणम् ‘सर्वं खल्व् इदं ब्रह्म तज्-जलान् इति शान्त उपासीत’ इत्य् आह।
 
 </details>
 
@@ -328,7 +328,7 @@ but rather at enjoining calmness of mind, the sense being: because Brahman is al
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतदुक्तं भवति — यस्मात्सर्वमिदं विकारजातं ब्रह्मैव, तज्जत्वात् तल्लत्वात् तदनत्वाच्च — न च सर्वस्यैकात्मत्वे रागादयः सम्भवन्ति — तस्मात् शान्त उपासीतेति ।
+एतद् उक्तं भवति — यस्मात् सर्वम् इदं विकार-जातं ब्रह्मैव, तज्जत्वात् तल्लत्वात् तद्-अनत्वाच् च — न च सर्वस्यैकात्मत्वे रागादयः सम्भवन्ति — तस्मात् शान्त उपासीतेति ।
 
 </details>
 
@@ -351,7 +351,7 @@ That is to say: because all this aggregate of effects is Brahman only, springing
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च शमविधिपरत्वे सत्यनेन वाक्येन ब्रह्मोपासनं नियन्तुं शक्यते।
+न च शमविधिपरत्वे सत्य् अनेन वाक्येन ब्रह्मोपासनं नियन्तुं शक्यते।
 
 </details>
 
@@ -375,7 +375,7 @@ And since the sentence aims at enjoining calmness of mind, it cannot at the same
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपासनं तु ‘स क्रतुं कुर्वीत’ इत्यनेन विधीयते। क्रतुः सङ्कल्पो ध्यानमित्यर्थः।
+उपासनं तु ‘स क्रतुं कुर्वीत’ इत्य् अनेन विधीयते। क्रतुः सङ्कल्पो ध्यानम् इत्य् अर्थः।
 
 </details>
 
@@ -393,7 +393,7 @@ but meditation is separately enjoined in the clause, 'Let him form the determina
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य च विषयत्वेन श्रूयते — ‘मनोमयः प्राणशरीरः’ इति जीवलिङ्गम्।
+तस्य च विषयत्वेन श्रूयते — ‘मनोमयः प्राण-शरीरः’ इति जीव-लिङ्गम्।
 
 </details>
 
@@ -411,7 +411,7 @@ And thereupon the subsequent passage, 'He who consists of mind, whose body is br
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो ब्रूमः — जीवविषयमेतदुपासनमिति।
+अतो ब्रूमः — जीव-विषयम् एतद् उपासनम् इति।
 
 </details>
 
@@ -429,7 +429,7 @@ For this reason we maintain that the meditation spoken of has the individual sou
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘सर्वकर्मा सर्वकामः’ इत्याद्यपि श्रूयमाणं पर्यायेण जीवविषयमुपपद्यते।
+‘सर्व-कर्मा सर्व-कामः’ इत्य्-आद्य् अपि श्रूयमाणं पर्यायेण जीव-विषयम् उपपद्यते।
 
 </details>
 
@@ -447,7 +447,7 @@ The other attributes also subsequently stated in the text, 'He to whom all works
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘एष म आत्मान्तर्हृदयेऽणीयान्व्रीहेर्वा यवाद्वा’ इति च हृदयायतनत्वमणीयस्त्वं चाराग्रमात्रस्य जीवस्यावकल्पते, नापरिच्छिन्नस्य ब्रह्मणः ।
+‘एष म आत्मान्तर्-हृदये ऽणीयान् व्रीहेर् वा यवाद् वा’ इति च हृदयायतनत्वम् अणीयस्त्वं चाराग्रमात्रस्य जीवस्यावकल्पते, नापरिच्छिन्नस्य ब्रह्मणः ।
 
 </details>
 
@@ -480,7 +480,7 @@ The attributes, finally, of being what abides in the heart and of being extremel
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु ‘ज्यायान्पृथिव्याः’ इत्याद्यपि न परिच्छिन्नेऽवकल्पत इति।
+ननु ‘ज्यायान् पृथिव्याः’ इत्य्-आद्य् अपि न परिच्छिन्ने ऽवकल्पत इति।
 
 </details>
 
@@ -498,7 +498,7 @@ If it be objected that the immediately following passage, 'greater than the eart
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्र ब्रूमः — न तावदणीयस्त्वं ज्यायस्त्वं चोभयमेकस्मिन्समाश्रयितुं शक्यम् , विरोधात्।
+अत्र ब्रूमः — न तावद् अणीयस्त्वं ज्यायस्त्वं चोभयम् एकस्मिन् समाश्रयितुं शक्यम् , विरोधात्।
 
 </details>
 
@@ -516,7 +516,7 @@ we reply that smallness and greatness which are mutually opposite cannot indeed 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्यतराश्रयणे च, प्रथमश्रुतत्वादणीयस्त्वं युक्तमाश्रयितुम्।
+अन्यतराश्रयणे च, प्रथम-श्रुतत्वाद् अणीयस्त्वं युक्तम् आश्रयितुम्।
 
 </details>
 
@@ -536,7 +536,7 @@ only is to be ascribed to the subject of the passage, smallness is preferable be
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्यायस्त्वं तु ब्रह्मभावापेक्षया भविष्यतीति।
+ज्यायस्त्वं तु ब्रह्म-भावापेक्षया भविष्यतीति।
 
 </details>
 
@@ -554,7 +554,7 @@ while the greatness mentioned later on may be attributed to the soul in so far a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निश्चिते च जीवविषयत्वे यदन्ते ब्रह्मसङ्कीर्तनम् — ‘एतद्ब्रह्म’ (छा. उ. ३। १४। ४) इति, तदपि प्रकृतपरामर्शार्थत्वाज्जीवविषयमेव।
+निश्चिते च जीव-विषयत्वे यद् अन्ते ब्रह्म-सङ्कीर्तनम् — ‘एतद् ब्रह्म’ (छा. उ. ३। १४। ४) इति, तद् अपि प्रकृत-परामर्शार्थत्वाज् जीव-विषयम् एव।
 
 </details>
 
@@ -574,7 +574,7 @@ If it is once settled that the whole passage refers to the individual soul, it f
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मान्मनोमयत्वादिभिर्धर्मैर्जीव उपास्य इत्येवं प्राप्ते ब्रूमः —
+तस्मान् मनो-मयत्वादिभिर् धर्मैर् जीव उपास्य इत्य् एवं प्राप्ते ब्रूमः —
 
 </details>
 
@@ -602,7 +602,7 @@ Therefore the individual soul is the object of meditation indicated by the quali
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परमेव ब्रह्मेह मनोमयत्वादिभिर्धर्मैरुपास्यम्।
+परम् एव ब्रह्मेह मनो-मयत्वादिभिर् धर्मैर् उपास्यम्।
 
 </details>
 
@@ -656,7 +656,7 @@ Why?--
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्सर्वेषु वेदान्तेषु प्रसिद्धं ब्रह्मशब्दस्यालम्बनं जगत्कारणम् , इह च ‘सर्वं खल्विदं ब्रह्म’ इति वाक्योपक्रमे श्रुतम् , तदेव मनोमयत्वादिधर्मैर्विशिष्टमुपदिश्यत इति युक्तम्।
+यत् सर्वेषु वेदान्तेषु प्रसिद्धं ब्रह्म-शब्दस्यालम्बनं जगत्-कारणम् , इह च ‘सर्वं खल्व् इदं ब्रह्म’ इति वाक्योपक्रमे श्रुतम् , तद् एव मनो-मयत्वादि-धर्मैर् विशिष्टम् उपदिश्यत इति युक्तम्।
 
 </details>
 
@@ -674,7 +674,7 @@ What is known from all Vedānta-passages to be the sense of the word Brahman, vi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं च सति प्रकृतहानाप्रकृतप्रक्रिये न भविष्यतः ।
+एवं च सति प्रकृतहाना-प्रकृत-प्रक्रिये न भविष्यतः ।
 
 </details>
 
@@ -702,7 +702,7 @@ Thus we avoid the fault of dropping the subject-matter under discussion and need
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु वाक्योपक्रमे शमविधिविवक्षया ब्रह्म निर्दिष्टं न स्वविवक्षयेत्युक्तम्; अत्रोच्यते — यद्यपि शमविधिविवक्षया ब्रह्म निर्दिष्टम् , तथापि मनोमयत्वादिषूपदिश्यमानेषु तदेव ब्रह्म सन्निहितं भवति, जीवस्तु न सन्निहितः, न च स्वशब्देनोपात्त इति वैषम्यम् ॥ १ ॥
+ननु वाक्योपक्रमे शमविधिविवक्षया ब्रह्म निर्दिष्टं न स्व-विवक्षयेत्य् उक्तम्; अत्रोच्यते — यद्य् अपि शमविधिविवक्षया ब्रह्म निर्दिष्टम् , तथापि मनो-मयत्वादिषूपदिश्यमानेषु तद् एव ब्रह्म सन्निहितं भवति, जीवस् तु न सन्निहितः, न च स्वशब्देनोपात्त इति वैषम्यम् ॥ १ ॥
 
 </details>
 
@@ -727,7 +727,7 @@ True, we reply; but the fact nevertheless remains that, where the qualities of c
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विवक्षितगुणोपपत्तेश्च ॥ २ ॥
+विवक्षित-गुणोपपत्तेश् च ॥ २ ॥
 
 </details>
 
@@ -745,7 +745,7 @@ True, we reply; but the fact nevertheless remains that, where the qualities of c
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वक्तुमिष्टा विवक्षिताः। यद्यप्यपौरुषेये वेदे वक्तुरभावात् नेच्छार्थः सम्भवति, तथाप्युपादानेन फलेनोपचर्यते।
+वक्तुम् इष्टा विवक्षिताः। यद्य् अप्य् अपौरुषेये वेदे वक्तुर् अभावात् नेच्छार्थः सम्भवति, तथाप्य् उपादानेन फलेनोपचर्यते।
 
 </details>
 
@@ -765,7 +765,7 @@ Although in the Veda which is not the work of man no wish in the strict sense ca
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यच्छब्दाभिहितमुपादेयं भवति तद्विवक्षितमित्युच्यते, यदनुपादेयं तदविवक्षितमिति।
+यच्-छब्दाभिहितम् उपादेयं भवति तद् विवक्षितम् इत्य् उच्यते, यद् अनुपादेयं तद् अविवक्षितम् इति।
 
 </details>
 
@@ -783,7 +783,7 @@ For just as in ordinary language we speak of something which is intimated by a w
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्वद्वेदेऽप्युपादेयत्वेनाभिहितं विवक्षितं भवति, इतरदविवक्षितम्।
+तद्वद् वेदे ऽप्य् उपादेयत्वेनाभिहितं विवक्षितं भवति, इतरद् अविवक्षितम्।
 
 </details>
 
@@ -801,7 +801,7 @@ so in the Veda also whatever is denoted as that which is to be received is 'desi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपादानानुपादाने तु वेदवाक्यतात्पर्यातात्पर्याभ्यामवगम्येते ।
+उपादानानुपादाने तु वेद-वाक्य-तात्पर्यातात्पर्याभ्यामवगम्येते ।
 
 </details>
 
@@ -824,7 +824,7 @@ What is to be received as the meaning of a Vedic sentence, and what not, is infe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदिह ये विवक्षिता गुणा उपासनायामुपादेयत्वेनोपदिष्टाः सत्यसङ्कल्पप्रभृतयः, ते परस्मिन्ब्रह्मण्युपपद्यन्ते।
+तद् इह ये विवक्षिता गुणा उपासनायाम् उपादेयत्वेनोपदिष्टाः सत्य-सङ्कल्प-प्रभृतयः, ते परस्मिन् ब्रह्मण्य् उपपद्यन्ते।
 
 </details>
 
@@ -842,7 +842,7 @@ Those qualities which are here desired to be expressed, i.e. intimated as qualit
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्यसङ्कल्पत्वं हि सृष्टिस्थितिसंहारेष्वप्रतिबद्धशक्तित्वात्परमात्मन एवावकल्पते।
+सत्य-सङ्कल्पत्वं हि सृष्टि-स्थिति-संहारेष्व् अप्रतिबद्ध-शक्तित्वात् परमात्मन एवावकल्पते।
 
 </details>
 
@@ -860,7 +860,7 @@ for the quality of having true purposes may be ascribed to the highest Self whic
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परमात्मगुणत्वेन च ‘य आत्मापहतपाप्मा’ (छा. उ. ८। ७। १) इत्यत्र ‘सत्यकामः सत्यसङ्कल्पः’ इति श्रुतम् , ‘आकाशात्मा’ इति च आकाशवदात्मा अस्येत्यर्थः।
+परमात्म-गुणत्वेन च ‘य आत्मापहतपाप्मा’ (छा. उ. ८। ७। १) इत्यत्र ‘सत्य-कामः सत्य-सङ्कल्पः’ इति श्रुतम् , ‘आकाशात्मा’ इति च आकाशवद् आत्मा अस्येत्य् अर्थः।
 
 </details>
 
@@ -878,7 +878,7 @@ Similarly the qualities of having true desires and true purposes are attributed 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वगतत्वादिभिर्धर्मैः सम्भवत्याकाशेन साम्यं ब्रह्मणः।
+सर्व-गतत्वादिभिर् धर्मैः सम्भवत्य् आकाशेन साम्यं ब्रह्मणः।
 
 </details>
 
@@ -896,7 +896,7 @@ for Brahman may be said to be like the ether on account of its omnipresence and 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘ज्यायान्पृथिव्याः’ इत्यादिना चैतदेव दर्शयति।
+‘ज्यायान् पृथिव्याः’ इत्य्-आदिना चैतद् एव दर्शयति।
 
 </details>
 
@@ -914,7 +914,7 @@ This is also expressed by the clause, 'Greater than the earth.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदापि आकाश आत्मा यस्येति व्याख्यायते, तदापि सम्भवति सर्वजगत्कारणस्य सर्वात्मनो ब्रह्मण आकाशात्मत्वम्।
+यदापि आकाश आत्मा यस्येति व्याख्यायते, तदापि सम्भवति सर्व-जगत्-कारणस्य सर्वात्मनो ब्रह्मण आकाशात्मत्वम्।
 
 </details>
 
@@ -932,7 +932,7 @@ And the other explanation also, according to which the passage means 'he whose S
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव ‘सर्वकर्मा’ इत्यादि।
+अत एव ‘सर्व-कर्मा’ इत्य्-आदि।
 
 </details>
 
@@ -950,7 +950,7 @@ For the same reasons he is called 'he to whom all works belong, and so on.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवमिहोपास्यतया विवक्षिता गुणा ब्रह्मण्युपपद्यन्ते ।
+एवमिहोपास्यतया विवक्षिता गुणा ब्रह्मण्य् उपपद्यन्ते ।
 
 </details>
 
@@ -978,7 +978,7 @@ Thus the qualities here intimated as topics of meditation agree with the nature 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्तूक्तम् — ‘मनोमयः प्राणशरीरः’ इति जीवलिङ्गम् , न तद्ब्रह्मण्युपपद्यत इति; तदपि ब्रह्मण्युपपद्यत इति ब्रूमः।
+यत् तूक्तम् — ‘मनोमयः प्राण-शरीरः’ इति जीव-लिङ्गम् , न तद् ब्रह्मण्य् उपपद्यत इति; तद् अपि ब्रह्मण्य् उपपद्यत इति ब्रूमः।
 
 </details>
 
@@ -998,7 +998,7 @@ cannot refer to Brahman, may refer to it.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वात्मत्वाद्धि ब्रह्मणो जीवसम्बन्धीनि मनोमयत्वादीनि ब्रह्मसम्बन्धीनि भवन्ति।
+सर्वात्मत्वाद् धि ब्रह्मणो जीव-सम्बन्धीनि मनो-मयत्वादीनि ब्रह्म-सम्बन्धीनि भवन्ति।
 
 </details>
 
@@ -1016,7 +1016,7 @@ For as Brahman is the Self of everything, qualities such as consisting of mind a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा च ब्रह्मविषये श्रुतिस्मृती भवतः — ‘त्वं स्त्री त्वं पुमानसि त्वं कुमार उत वा कुमारी। त्वं जीर्णो दण्डेन वञ्चसि त्वं जातो भवसि विश्वतोमुखः’ (श्वे. उ. ४। ३) इति; ‘सर्वतःपाणिपादं तत्सर्वतोऽक्षिशिरोमुखम्। सर्वतःश्रुतिमल्लोके सर्वमावृत्य तिष्ठति’ (भ. गी. १३। १३) इति च।
+तथा च ब्रह्म-विषये श्रुति-स्मृती भवतः — ‘त्वं स्त्री त्वं पुमान् असि त्वं कुमार उत वा कुमारी। त्वं जीर्णो दण्डेन वञ्चसि त्वं जातो भवसि विश्वतो-मुखः’ (श्वे. उ. ४। ३) इति; ‘सर्वतः-पाणि-पादं तत् सर्वतो ऽक्षि-शिरो-मुखम्। सर्वतः-श्रुतिमल् लोके सर्वम् आवृत्य तिष्ठति’ (भ. गी. १३। १३) इति च।
 
 </details>
 
@@ -1034,7 +1034,7 @@ Accordingly Śruti and Smr̥ti say of Brahman, 'Thou art woman, thou art man; th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘अप्राणो ह्यमनाः शुभ्रः’ इति श्रुतिः शुद्धब्रह्मविषया, इयं तु श्रुतिः ‘मनोमयः प्राणशरीरः’ इति सगुणब्रह्मविषयेति विशेषः।
+‘अप्राणो ह्य् अमनाः शुभ्रः’ इति श्रुतिः शुद्ध-ब्रह्म-विषया, इयं तु श्रुतिः ‘मनोमयः प्राण-शरीरः’ इति स-गुण-ब्रह्म-विषयेति विशेषः।
 
 </details>
 
@@ -1052,7 +1052,7 @@ The passage (quoted above against our view), 'Without breath, without mind, pure
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो विवक्षितगुणोपपत्तेः परमेव ब्रह्म इहोपास्यत्वेनोपदिष्टमिति गम्यते ॥ २ ॥
+अतो विवक्षित-गुणोपपत्तेः परम् एव ब्रह्म इहोपास्यत्वेनोपदिष्टमिति गम्यते ॥ २ ॥
 
 </details>
 
@@ -1090,7 +1090,7 @@ Hence, as the qualities mentioned are possible in Brahman, we conclude that the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनुपपत्तेस्तु न शारीरः ॥ ३ ॥
+अनुपपत्तेस् तु न शारीरः ॥ ३ ॥
 
 </details>
 
@@ -1108,7 +1108,7 @@ Hence, as the qualities mentioned are possible in Brahman, we conclude that the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पूर्वेण सूत्रेण ब्रह्मणि विवक्षितानां गुणानामुपपत्तिरुक्ता।
+पूर्वेण सूत्रेण ब्रह्मणि विवक्षितानां गुणानाम् उपपत्तिर् उक्ता।
 
 </details>
 
@@ -1126,7 +1126,7 @@ The preceding Sūtra has declared that the qualities mentioned are possible in B
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनेन शारीरे तेषामनुपपत्तिरुच्यते।
+अनेन शारीरे तेषाम् अनुपपत्तिर् उच्यते।
 
 </details>
 
@@ -1144,7 +1144,7 @@ the present Sūtra states that they are not possible in the embodied Self.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तुशब्दोऽवधारणार्थः। ब्रह्मैवोक्तेन न्यायेन मनोमयत्वादिगुणम्; न तु शारीरो जीवो मनोमयत्वादिगुणः; यत्कारणम् — ‘सत्यसङ्कल्पः’ ‘आकाशात्मा’ ‘अवाकी’ ‘अनादरः’ ‘ज्यायान्पृथिव्याः’ इति चैवंजातीयका गुणा न शारीरे आञ्जस्येनोपपद्यन्ते।
+तु-शब्दो ऽवधारणार्थः। ब्रह्मैवोक्तेन न्यायेन मनो-मयत्वादि-गुणम्; न तु शारीरो जीवो मनो-मयत्वादि-गुणः; यत्-कारणम् — ‘सत्य-सङ्कल्पः’ ‘आकाशात्मा’ ‘अवाकी’ ‘अनादरः’ ‘ज्यायान् पृथिव्याः’ इति चैवंजातीयका गुणा न शारीरे आञ्जस्येनोपपद्यन्ते।
 
 </details>
 
@@ -1180,7 +1180,7 @@ By the term 'embodied' (śārīra) we have to understand 'residing' in a body.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नन्वीश्वरोऽपि शरीरे भवति।
+नन्व् ईश्वरो ऽपि शरीरे भवति।
 
 </details>
 
@@ -1200,7 +1200,7 @@ If it be objected that the Lord also resides in the body [143],
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्यम् , शरीरे भवति; न तु शरीर एव भवति; ‘ज्यायान्पृथिव्या ज्यायानन्तरिक्षात्’ ‘आकाशवत्सर्वगतश्च नित्यः’ (शत. ब्रा. १०। ६। ३। २) इति च व्यापित्वश्रवणात्।
+सत्यम् , शरीरे भवति; न तु शरीर एव भवति; ‘ज्यायान्पृथिव्या ज्यायान् अन्तरिक्षात्’ ‘आकाशवत् सर्वगतश् च नित्यः’ (शत. ब्रा. १०। ६। ३। २) इति च व्यापित्व-श्रवणात्।
 
 </details>
 
@@ -1218,7 +1218,7 @@ we reply, True, he does reside in the body, but not in the body only; for śruti
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जीवस्तु शरीर एव भवति, तस्य भोगाधिष्ठानाच्छरीरादन्यत्र वृत्त्यभावात् ॥ ३ ॥
+जीवस् तु शरीर एव भवति, तस्य भोगाधिष्ठानाच् छरीराद् अन्यत्र वृत्त्य् अभावात् ॥ ३ ॥
 
 </details>
 
@@ -1243,7 +1243,7 @@ hand, is in the body only, apart from which as the abode of fruition it does not
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कर्मकर्तृव्यपदेशाच्च ॥ ४ ॥
+कर्म-कर्तृ-व्यपदेशाच् च ॥ ४ ॥
 
 </details>
 
@@ -1261,7 +1261,7 @@ hand, is in the body only, apart from which as the abode of fruition it does not
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतश्च न शारीरो मनोमयत्वादिगुणः; यस्मात्कर्मकर्तृव्यपदेशो भवति — ‘एतमितः प्रेत्याभिसम्भवितास्मि’ (छा. उ. ३। १४। ४) इति।
+इतश् च न शारीरो मनो-मयत्वादि-गुणः; यस्मात् कर्म-कर्तृ-व्यपदेशो भवति — ‘एतम् इतः प्रेत्याभिसम्भवितास्मि’ (छा. उ. ३। १४। ४) इति।
 
 </details>
 
@@ -1279,7 +1279,7 @@ The attributes of consisting of mind, and so on, cannot belong to the embodied S
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतमिति प्रकृतं मनोमयत्वादिगुणमुपास्यमात्मानं कर्मत्वेन प्राप्यत्वेन व्यपदिशति; अभिसम्भवितास्मीति शारीरमुपासकं कर्तृत्वेन प्रापकत्वेन। अभिसम्भवितास्मीति प्राप्तास्मीत्यर्थः।
+एतम् इति प्रकृतं मनो-मयत्वादि-गुणम् उपास्यम् आत्मानं कर्मत्वेन प्राप्यत्वेन व्यपदिशति; अभिसम्भवितास्मीति शारीरम् उपासकं कर्तृत्वेन प्रापकत्वेन। अभिसम्भवितास्मीति प्राप्तास्मीत्य् अर्थः।
 
 </details>
 
@@ -1297,7 +1297,7 @@ the word 'him' refers to that which is the topic of discussion, viz. the Self wh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च सत्यां गतावेकस्य कर्मकर्तृव्यपदेशो युक्तः।
+न च सत्यां गताव् एकस्य कर्म-कर्तृ-व्यपदेशो युक्तः।
 
 </details>
 
@@ -1315,7 +1315,7 @@ Now, wherever it can be helped, we must not assume that one and the same being i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथोपास्योपासकभावोऽपि भेदाधिष्ठान एव।
+तथोपास्योपासक-भावो ऽपि भेदाधिष्ठान एव।
 
 </details>
 
@@ -1333,7 +1333,7 @@ The relation existing between a person meditating and the thing meditated upon r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मादपि न शारीरो मनोमयत्वादिविशिष्टः ॥ ४ ॥
+तस्माद् अपि न शारीरो मनो-मयत्वादि-विशिष्टः ॥ ४ ॥
 
 </details>
 
@@ -1356,7 +1356,7 @@ And thus for the above reason, also, that which is characterised by the attribut
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शब्दविशेषात् ॥ ५ ॥
+शब्द-विशेषात् ॥ ५ ॥
 
 </details>
 
@@ -1374,7 +1374,7 @@ And thus for the above reason, also, that which is characterised by the attribut
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतश्च शारीरादन्यो मनोमयत्वादिगुणः; यस्माच्छब्दविशेषो भवति समानप्रकरणे श्रुत्यन्तरे — ‘यथा व्रीहिर्वा यवो वा श्यामाको वा श्यामाकतण्डुलो वैवमयमन्तरात्मन्पुरुषो हिरण्मयः’ (श. ब्रा. १०। ६। ३। २) इति।
+इतश् च शारीराद् अन्यो मनो-मयत्वादि-गुणः; यस्माच् छब्द-विशेषो भवति समान-प्रकरणे श्रुत्य्-अन्तरे — ‘यथा व्रीहिर् वा यवो वा श्यामाको वा श्यामाक-तण्डुलो वैवम् अयम् अन्तरात्मन् पुरुषो हिरण्मयः’ (श. ब्रा. १०। ६। ३। २) इति।
 
 </details>
 
@@ -1394,7 +1394,7 @@ That is to say, we meet with another scriptural passage of kindred subject-matte
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शारीरस्यात्मनो यः शब्दोऽभिधायकः सप्तम्यन्तः — अन्तरात्मन्निति; तस्माद्विशिष्टोऽन्यः प्रथमान्तः पुरुषशब्दो मनोमयत्वादिविशिष्टस्यात्मनोऽभिधायकः।
+शारीरस्यात्मनो यः शब्दो ऽभिधायकः सप्तम्य्-अन्तः — अन्तरात्मन्न् इति; तस्माद् विशिष्टो ऽन्यः प्रथमान्तः पुरुष-शब्दो मनो-मयत्वादि-विशिष्टस्यात्मनो ऽभिधायकः।
 
 </details>
 
@@ -1412,7 +1412,7 @@ There one word, i.e. the locative 'in the Self,' denotes the embodied Self, and 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मात्तयोर्भेदोऽधिगम्यते ॥ ५ ॥
+तस्मात् तयोर् भेदो ऽधिगम्यते ॥ ५ ॥
 
 </details>
 
@@ -1435,7 +1435,7 @@ We therefrom conclude that the two are different.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्मृतेश्च ॥ ६ ॥
+स्मृतेश् च ॥ ६ ॥
 
 </details>
 
@@ -1453,7 +1453,7 @@ We therefrom conclude that the two are different.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्मृतिश्च शारीरपरमात्मनोर्भेदं दर्शयति — ‘ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति। भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया’ (भ. गी. १८। ६१) इत्याद्या ।
+स्मृतिश् च शारीर-परमात्मनोर् भेदं दर्शयति — ‘ईश्वरः सर्वभूतानां हृद्देशे ऽर्जुन तिष्ठति। भ्रामयन् सर्व-भूतानि यन्त्रारूढानि मायया’ (भ. गी. १८। ६१) इत्य्-आद्या ।
 
 </details>
 
@@ -1478,7 +1478,7 @@ and the highest Self, viz. Bha. Gītā XVIII, 61, 'The Lord, O Arjuna, is seated
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्राह — कः पुनरयं शारीरो नाम परमात्मनोऽन्यः, यः प्रतिषिध्यते — ‘अनुपपत्तेस्तु न शारीरः’ इत्यादिना ?
+अत्राह — कः पुनर् अयं शारीरो नाम परमात्मनो ऽन्यः, यः प्रतिषिध्यते — ‘अनुपपत्तेस् तु न शारीरः’ इत्य्-आदिना ?
 
 </details>
 
@@ -1496,7 +1496,7 @@ But what, it may be asked, is that so-called embodied Self different from the hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रुतिस्तु ‘नान्योऽतोऽस्ति द्रष्टा नान्योऽतोऽस्ति श्रोता’ (बृ. उ. ३। ७। २३) इत्येवंजातीयका परमात्मनोऽन्यमात्मानं वारयति।
+श्रुतिस् तु ‘नान्यो ऽतो ऽस्ति द्रष्टा नान्यो ऽतो ऽस्ति श्रोता’ (बृ. उ. ३। ७। २३) इत्य् एवंजातीयका परमात्मनो ऽन्यम् आत्मानं वारयति।
 
 </details>
 
@@ -1514,7 +1514,7 @@ But what, it may be asked, is that so-called embodied Self different from the hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा स्मृतिरपि ‘क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत’ (भ. गी. १३। २) इत्येवंजातीयकेति ।
+तथा स्मृतिर् अपि ‘क्षेत्र-ज्ञं चापि मां विद्धि सर्व-क्षेत्रेषु भारत’ (भ. गी. १३। २) इत्य् एवंजातीयकेति ।
 
 </details>
 
@@ -1537,7 +1537,7 @@ and Bha. Gītā XIII, 2, 'And know me also, O Bhārata, to be the kshetrajña in
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्रोच्यते — सत्यमेवैतत् , पर एवात्मा देहेन्द्रियमनोबुद्ध्युपाधिभिः परिच्छिद्यमानो बालैः शारीर इत्युपचर्यते।
+अत्रोच्यते — सत्यम् एवैतत् , पर एवात्मा देहेन्द्रिय-मनो-बुद्ध्य्-उपाधिभिः परिच्छिद्यमानो बालैः शारीर इत्य् उपचर्यते।
 
 </details>
 
@@ -1555,7 +1555,7 @@ True, we reply, (there is in reality one universal Self only.) But the highest S
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा घटकरकाद्युपाधिवशादपरिच्छिन्नमपि नभः परिच्छिन्नवदवभासते, तद्वत्।
+यथा घट-करकाद्य्-उपाधि-वशाद् अपरिच्छिन्नम् अपि नभः परिच्छिन्नवद् अवभासते, तद्वत्।
 
 </details>
 
@@ -1573,7 +1573,7 @@ Similarly the ether, although in reality unlimited, appears limited owing to cer
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदपेक्षया च कर्मत्वकर्तृत्वादिभेदव्यवहारो न विरुध्यते प्राक् ‘तत्त्वमसि’ इत्यात्मैकत्वोपदेशग्रहणात्।
+तद् अपेक्षया च कर्मत्व-कर्तृत्वादि-भेद-व्यवहारो न विरुध्यते प्राक् ‘तत्त्वमसि’ इत्य् आत्मैकत्वोपदेश-ग्रहणात्।
 
 </details>
 
@@ -1591,7 +1591,7 @@ With regard to this (unreal limitation of the one Self) the distinction of objec
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गृहीते त्वात्मैकत्वे बन्धमोक्षादिसर्वव्यवहारपरिसमाप्तिरेव स्यात् ॥ ६ ॥
+गृहीते त्व् आत्मैकत्वे बन्ध-मोक्षादि-सर्व-व्यवहार-परिसमाप्तिर् एव स्यात् ॥ ६ ॥
 
 </details>
 
@@ -1614,7 +1614,7 @@ As soon, however, as we grasp the truth that there is only one universal Self, t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अर्भकौकस्त्वात्तद्व्यपदेशाच्च नेति चेन्न निचाय्यत्वादेवं व्योमवच्च ॥ ७ ॥
+अर्भकौकस्त्वात् तद्-व्यपदेशाच् च नेति चेन् न निचाय्यत्वाद् एवं व्योमवच् च ॥ ७ ॥
 
 </details>
 
@@ -1632,7 +1632,7 @@ As soon, however, as we grasp the truth that there is only one universal Self, t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अर्भकमल्पम् ओको नीडम् , ‘एष म आत्मान्तर्हृदये’ इति परिच्छिन्नायतनत्वात् , स्वशब्देन च ‘अणीयान्व्रीहेर्वा यवाद्वा’ इत्यणीयस्त्वव्यपदेशात् , शारीर एवाराग्रमात्रो जीव इहोपदिश्यते, न सर्वगतः परमात्मा — इति यदुक्तं तत्परिहर्तव्यम्।
+अर्भकम् अल्पम् ओको नीडम् , ‘एष म आत्मान्तर्-हृदये’ इति परिच्छिन्नायतनत्वात् , स्वशब्देन च ‘अणीयान् व्रीहेर् वा यवाद् वा’ इत्य् अणीयस्त्व-व्यपदेशात् , शारीर एवाराग्रमात्रो जीव इहोपदिश्यते, न सर्वगतः परमात्मा — इति यद् उक्तं तत्-परिहर्तव्यम्।
 
 </details>
 
@@ -1670,7 +1670,7 @@ We therefore maintain that the objection raised does not invalidate our view of 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तावत्परिच्छिन्नदेशस्य सर्वगतत्वव्यपदेशः कथमप्युपपद्यते।
+न तावत् परिच्छिन्न-देशस्य सर्व-गतत्व-व्यपदेशः कथम् अप्य् उपपद्यते।
 
 </details>
 
@@ -1688,7 +1688,7 @@ It is true that a thing occupying a limited space only cannot in any way be spok
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वगतस्य तु सर्वदेशेषु विद्यमानत्वात्परिच्छिन्नदेशव्यपदेशोऽपि कयाचिदपेक्षया सम्भवति।
+सर्वगतस्य तु सर्व-देशेषु विद्यमानत्वात् परिच्छिन्न-देश-व्यपदेशो ऽपि कयाचिद् अपेक्षया सम्भवति।
 
 </details>
 
@@ -1706,7 +1706,7 @@ but, on the other hand, that which is omnipresent, and therefore in all places m
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा समस्तवसुधाधिपतिरपि हि सन् अयोध्याधिपतिरिति व्यपदिश्यते।
+यथा समस्त-वसुधाधिपतिर् अपि हि सन् अयोध्याधिपतिर् इति व्यपदिश्यते।
 
 </details>
 
@@ -1724,7 +1724,7 @@ Similarly, a prince may be called the ruler of Ayodhyā although he is at the sa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कया पुनरपेक्षया सर्वगतः सन्नीश्वरोऽर्भकौका अणीयांश्च व्यपदिश्यत इति।
+कया पुनर् अपेक्षया सर्वगतः सन्नीश्वरोऽर्भकौका अणीयांश् च व्यपदिश्यत इति।
 
 </details>
 
@@ -1742,7 +1742,7 @@ But from what point of view can the omnipresent Lord be said to occupy a limited
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निचाय्यत्वादेवमिति ब्रूमः ।
+निचाय्यत्वाद् एवम् इति ब्रूमः ।
 
 </details>
 
@@ -1770,7 +1770,7 @@ He may, we reply, be spoken of thus, 'because he is to be contemplated thus.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवम् अणीयस्त्वादिगुणगणोपेत ईश्वरः, तत्र हृदयपुण्डरीके निचाय्यो द्रष्टव्य उपदिश्यते; यथा सालग्रामे हरिः। तत्रास्य बुद्धिविज्ञानं ग्राहकम्।
+एवम् अणीयस्त्वादि-गुण-गणोपेत ईश्वरः, तत्र हृदय-पुण्डरीके निचाय्यो द्रष्टव्य उपदिश्यते; यथा सालग्रामे हरिः। तत्रास्य बुद्धि-विज्ञानं ग्राहकम्।
 
 </details>
 
@@ -1788,7 +1788,7 @@ The passage under discussion teaches us to contemplate the Lord as abiding withi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वगतोऽपीश्वरस्तत्रोपास्यमानः प्रसीदति।
+सर्वगतो ऽपीश्वरस् तत्रोपास्यमानः प्रसीदति।
 
 </details>
 
@@ -1806,7 +1806,7 @@ Although present everywhere, the Lord is pleased when meditated upon as dwelling
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्योमवच्चैतद्द्रष्टव्यम्।
+व्योमवच् चैतद् द्रष्टव्यम्।
 
 </details>
 
@@ -1824,7 +1824,7 @@ The case is, moreover, to be viewed as analogous to that of the ether.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा सर्वगतमपि सद्व्योम सूचीपाशाद्यपेक्षयार्भकौकोऽणीयश्च व्यपदिश्यते, एवं ब्रह्मापि।
+यथा सर्व-गतम् अपि सद् व्योम सूची-पाशाद्य्-अपेक्षयार्भकौको ऽणीयश् च व्यपदिश्यते, एवं ब्रह्मापि।
 
 </details>
 
@@ -1842,7 +1842,7 @@ The ether, although all-pervading, is spoken of as limited and minute, if consid
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदेवं निचाय्यत्वापेक्षं ब्रह्मणोऽर्भकौकस्त्वमणीयस्त्वं च, न पारमार्थिकम्।
+तदेवं निचाय्यत्वापेक्षं ब्रह्मणो ऽर्भकौकस्त्वम् अणीयस्त्वं च, न पारमार्थिकम्।
 
 </details>
 
@@ -1860,7 +1860,7 @@ But it is an understood matter that the attributes of limitation of abode and of
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र यदाशङ्क्यते — हृदयायतनत्वाद्ब्रह्मणो हृदयानां च प्रतिशरीरं भिन्नत्वाद्भिन्नायतनानां च शुकादीनामनेकत्वसावयवत्वानित्यत्वादिदोषदर्शनाद्ब्रह्मणोऽपि तत्प्रसङ्ग इति, तदपि परिहृतं भवति ॥ ७ ॥
+तत्र यद् आशङ्क्यते — हृदयायतनत्वाद् ब्रह्मणो हृदयानां च प्रतिशरीरं भिन्नत्वाद् भिन्नायतनानां च शुकादीनाम् अनेकत्व-सावयवत्वानित्यत्वादि-दोष-दर्शनाद् ब्रह्मणो ऽपि तत्-प्रसङ्ग इति, तद् अपि परिहृतं भवति ॥ ७ ॥
 
 </details>
 
@@ -1893,7 +1893,7 @@ The latter consideration disposes also of the objection, that if Brahman has its
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम्भोगप्राप्तिरिति चेन्न वैशेष्यात् ॥ ८ ॥
+सम्भोग-प्राप्तिर् इति चेन् न वैशेष्यात् ॥ ८ ॥
 
 </details>
 
@@ -1911,7 +1911,7 @@ The latter consideration disposes also of the objection, that if Brahman has its
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्योमवत्सर्वगतस्य ब्रह्मणः सर्वप्राणिहृदयसम्बन्धात् , चिद्रूपतया च शारीरादविशिष्टत्वात् , सुखदुःखादिसम्भोगोऽप्यविशिष्टः प्रसज्येत।
+व्योमवत् सर्व-गतस्य ब्रह्मणः सर्व-प्राणि-हृदय-सम्बन्धात् , चिद्-रूपतया च शारीराद् अविशिष्टत्वात् , सुख-दुःखादि-सम्भोगो ऽप्य् अविशिष्टः प्रसज्येत।
 
 </details>
 
@@ -1929,7 +1929,7 @@ But, it may be said, as Brahman is omnipresent like ether, and therefore connect
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एकत्वाच्च; न हि परस्मादात्मनोऽन्यः कश्चिदात्मा संसारी विद्यते, ‘नान्योऽतोऽस्ति विज्ञाता’ (बृ. उ. ३। ७। २३) इत्यादिश्रुतिभ्यः।
+एकत्वाच् च; न हि परस्माद् आत्मनो ऽन्यः कश्चिद् आत्मा संसारी विद्यते, ‘नान्यो ऽतो ऽस्ति विज्ञाता’ (बृ. उ. ३। ७। २३) इत्य्-आदि-श्रुतिभ्यः।
 
 </details>
 
@@ -1947,7 +1947,7 @@ The same result follows from its unity. For in reality there exists no transmigr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मात्परस्यैव ब्रह्मणः सम्भोगप्राप्तिरिति चेत् , न; वैशेष्यात्।
+तस्मात् परस्यैव ब्रह्मणः सम्भोग-प्राप्तिर् इति चेत् , न; वैशेष्यात्।
 
 </details>
 
@@ -1967,7 +1967,7 @@ This is not so, we reply; because there is a difference of nature.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तावत्सर्वप्राणिहृदयसम्बन्धात् शारीरवद्ब्रह्मणः सम्भोगप्रसङ्गः, वैशेष्यात्।
+न तावत् सर्व-प्राणि-हृदय-सम्बन्धात् शारीरवद् ब्रह्मणः सम्भोग-प्रसङ्गः, वैशेष्यात्।
 
 </details>
 
@@ -1985,7 +1985,7 @@ From the circumstance that Brahman is connected with the hearts of all living be
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विशेषो हि भवति शारीरपरमेश्वरयोः।
+विशेषो हि भवति शारीर-परमेश्वरयोः।
 
 </details>
 
@@ -2003,7 +2003,7 @@ For, between the embodied Self and the highest Self, there is the difference
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एकः कर्ता भोक्ता धर्माधर्मादिसाधनः सुखदुःखादिमांश्च।
+एकः कर्ता भोक्ता धर्माधर्मादि-साधनः सुख-दुःखादिमांश् च।
 
 </details>
 
@@ -2021,7 +2021,7 @@ that the former acts and enjoys, acquires merit and demerit, and is affected by 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एकस्तद्विपरीतोऽपहतपाप्मत्वादिगुणः।
+एकस् तद्-विपरीतो ऽपहत-पाप्मत्वादि-गुणः।
 
 </details>
 
@@ -2039,7 +2039,7 @@ while the latter is of the opposite nature, i.e. characterised by being free fro
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतस्मादनयोर्विशेषादेकस्य भोगः, नेतरस्य ।
+एतस्माद् अनयोर् विशेषाद् एकस्य भोगः, नेतरस्य ।
 
 </details>
 
@@ -2067,7 +2067,7 @@ On account of this difference of the two, the fruition of the one does not exten
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि च सन्निधानमात्रेण वस्तुशक्तिमनाश्रित्य कार्यसम्बन्धोऽभ्युपगम्येत, आकाशादीनामपि दाहादिप्रसङ्गः।
+यदि च सन्निधान-मात्रेण वस्तु-शक्तिम् अनाश्रित्य कार्य-सम्बन्धो ऽभ्युपगम्येत, आकाशादीनाम् अपि दाहादि-प्रसङ्गः।
 
 </details>
 
@@ -2085,7 +2085,7 @@ To assume merely on the ground of the mutual proximity of the two, without consi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वगतानेकात्मवादिनामपि समावेतौ चोद्यपरिहारौ।
+सर्व-गतानेकात्म-वादिनाम् अपि समावेतौ चोद्य-परिहारौ।
 
 </details>
 
@@ -2103,7 +2103,7 @@ The same objection and refutation apply to the case of those also who teach the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदप्येकत्वाद्ब्रह्मण आत्मान्तराभावाच्छारीरस्य भोगेन ब्रह्मणो भोगप्रसङ्ग इति, अत्र वदामः — इदं तावद्देवानांप्रियः प्रष्टव्यः; कथमयं त्वयात्मान्तराभावोऽध्यवसित इति।
+यद् अप्य् एकत्वाद् ब्रह्मण आत्मान्तराभावाच् छारीरस्य भोगेन ब्रह्मणो भोगप्रसङ्ग इति, अत्र वदामः — इदं तावद् देवानां-प्रियः प्रष्टव्यः; कथमयं त्वयात्मान्तराभावो ऽध्यवसित इति।
 
 </details>
 
@@ -2121,7 +2121,7 @@ In reply to the assertion, that because Brahman is one and there are no other Se
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘तत्त्वमसि’ ‘अहं ब्रह्मास्मि’ ‘नान्योऽतोऽस्ति विज्ञाता’ इत्यादिशास्त्रेभ्य इति चेत् , यथाशास्त्रं तर्हि शास्त्रीयोऽर्थः प्रतिपत्तव्यः, न तत्रार्धजरतीयं लभ्यम्।
+‘तत्त्वमसि’ ‘अहं ब्रह्मास्मि’ ‘नान्यो ऽतो ऽस्ति विज्ञाता’ इत्य्-आदि-शास्त्रेभ्य इति चेत् , यथाशास्त्रं तर्हि शास्त्रीयो ऽर्थः प्रतिपत्तव्यः, न तत्रार्धजरतीयं लभ्यम्।
 
 </details>
 
@@ -2139,7 +2139,7 @@ You will reply, we suppose, from scriptural texts such as, 'That art thou,' 'I a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शास्त्रं च ‘तत्त्वमसि’ इत्यपहतपाप्मत्वादिविशेषणं ब्रह्म शारीरस्यात्मत्वेनोपदिशच्छारीरस्यैव तावदुपभोक्तृत्वं वारयति।
+शास्त्रं च ‘तत्त्वमसि’ इत्य् अपहत-पाप्मत्वादि-विशेषणं ब्रह्म शारीरस्यात्मत्वेनोपदिशच् छारीरस्यैव तावद् उपभोक्तृत्वं वारयति।
 
 </details>
 
@@ -2157,7 +2157,7 @@ Scriptural texts, such as 'that art thou,' teach that Brahman which is free from
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कुतस्तदुपभोगेन ब्रह्मण उपभोगप्रसङ्गः ।
+कुतस् तद् उपभोगेन ब्रह्मण उपभोग-प्रसङ्गः ।
 
 </details>
 
@@ -2190,7 +2190,7 @@ how then should fruition on the part of the embodied soul involve fruition on th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथागृहीतं शारीरस्य ब्रह्मणैकत्वम् , तदा मिथ्याज्ञाननिमित्तः शारीरस्योपभोगः।
+अथागृहीतं शारीरस्य ब्रह्मणैकत्वम् , तदा मिथ्या-ज्ञान-निमित्तः शारीरस्योपभोगः।
 
 </details>
 
@@ -2210,7 +2210,7 @@ In that case, we reply, the fruition on the part of the individual soul has wron
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तेन परमार्थरूपस्य ब्रह्मणः संस्पर्शः।
+न तेन परमार्थ-रूपस्य ब्रह्मणः संस्पर्शः।
 
 </details>
 
@@ -2228,7 +2228,7 @@ and Brahman as it truly exists is not touched thereby,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि बालैस्तलमलिनतादिभिर्व्योम्नि विकल्प्यमाने तलमलिनतादिविशिष्टमेव परमार्थतो व्योम भवति।
+न हि बालैस् तल-मलिनतादिभिर् व्योम्नि विकल्प्यमाने तल-मलिनतादि-विशिष्टम् एव परमार्थतो व्योम भवति।
 
 </details>
 
@@ -2246,7 +2246,7 @@ not any more than the ether becomes really dark-blue in consequence of ignorant 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदाह — न वैशेष्यादिति नैकत्वेऽपि शारीरस्योपभोगेन ब्रह्मण उपभोगप्रसङ्गः, वैशेष्यात्।
+तद् आह — न वैशेष्याद् इति नैकत्वे ऽपि शारीरस्योपभोगेन ब्रह्मण उपभोग-प्रसङ्गः, वैशेष्यात्।
 
 </details>
 
@@ -2266,7 +2266,7 @@ For this reason the Sūtrakāra says [144] 'no, on account of the difference.' I
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विशेषो हि भवति मिथ्याज्ञानसम्यग्ज्ञानयोः।
+विशेषो हि भवति मिथ्या-ज्ञान-सम्यग्-ज्ञानयोः।
 
 </details>
 
@@ -2284,7 +2284,7 @@ For there is a difference between false knowledge and perfect knowledge,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मिथ्याज्ञानकल्पित उपभोगः, सम्यग्ज्ञानदृष्टमेकत्वम्।
+मिथ्या-ज्ञान-कल्पित उपभोगः, सम्यग्-ज्ञान-दृष्टम् एकत्वम्।
 
 </details>
 
@@ -2302,7 +2302,7 @@ fruition being the figment of false knowledge while the unity (of the Self) is r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च मिथ्याज्ञानकल्पितेनोपभोगेन सम्यग्ज्ञानदृष्टं वस्तु संस्पृश्यते।
+न च मिथ्या-ज्ञान-कल्पितेनोपभोगेन सम्यग्-ज्ञान-दृष्टं वस्तु संस्पृश्यते।
 
 </details>
 
@@ -2320,7 +2320,7 @@ Now, as the substance revealed by perfect knowledge cannot be affected by fruiti
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मान्नोपभोगगन्धोऽपि शक्य ईश्वरस्य कल्पयितुम् ॥ ८ ॥
+तस्मान् नोपभोग-गन्धो ऽपि शक्य ईश्वरस्य कल्पयितुम् ॥ ८ ॥
 
 </details>
 

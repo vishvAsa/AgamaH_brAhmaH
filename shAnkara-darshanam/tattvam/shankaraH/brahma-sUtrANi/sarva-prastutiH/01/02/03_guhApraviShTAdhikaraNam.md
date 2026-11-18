@@ -5,7 +5,7 @@ title = "०३ गुहाप्रविष्टाधिकरणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गुहां प्रविष्टावात्मानौ हि तद्दर्शनात् ॥ ११ ॥
+गुहां प्रविष्टाव् आत्मानौ हि तद्-दर्शनात् ॥ ११ ॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -20,10 +20,10 @@ title = "०३ गुहाप्रविष्टाधिकरणम्"
 
 <details><summary>वैयासिक-न्याय-माला</summary>
 
-गुहां प्रविष्टौ धीजीवौ जीवेशौ वा हृदि स्थितेः ॥  
-छायातपाभ्यां दृष्टान्ताद्धीजीवौ स्तो विलक्षणौ ॥ ५ ॥  
-पिबन्ताविति चैतन्यं द्वयोर्जीवेश्वरौ ततः ॥  
-हृत्स्थानमुपलब्ध्यै स्याद्वैलक्षण्यमुपाधितः ॥ ६ ॥  
+गुहां प्रविष्टौ धी-जीवौ जीवेशौ वा हृदि स्थितेः ॥  
+छायातपाभ्यां दृष्टान्ताद् धी-जीवौ स्तो विलक्षणौ ॥ ५ ॥  
+पिबन्ताव् इति चैतन्यं द्वयोर् जीवेश्वरौ ततः ॥  
+हृत्-स्थानम् उपलब्ध्यै स्याद् वैलक्षण्यम् उपाधितः ॥ ६ ॥  
 --वैयासिकन्यायमाला
 </details>
 
@@ -39,8 +39,8 @@ title = "०३ गुहाप्रविष्टाधिकरणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कठवल्लीष्वेव पठ्यते — ‘ऋतं पिबन्तौ सुकृतस्य लोके गुहां प्रविष्टौ परमे परार्धे।  
-छायातपौ ब्रह्मविदो वदन्ति पञ्चाग्नयो ये च त्रिणाचिकेताः’ (क. उ. १। ३। १) इति।
+कठ-वल्लीष्व् एव पठ्यते — ‘ऋतं पिबन्तौ सुकृतस्य लोके गुहां प्रविष्टौ परमे परार्धे।  
+छायातपौ ब्रह्मविदो वदन्ति पञ्चाग्नयो ये च त्रि-णाचिकेताः’ (क. उ. १। ३। १) इति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -56,7 +56,7 @@ In the same Kaṭḥavallī we read (I, 3, 1), 'There are the two drinking the r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र संशयः — किमिह बुद्धिजीवौ निर्दिष्टौ, उत जीवपरमात्मानाविति।
+तत्र संशयः — किम् इह बुद्धि-जीवौ निर्दिष्टौ, उत जीव-परमात्मानाव् इति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -71,7 +71,7 @@ Here the doubt arises whether the mind (buddhi) and the individual soul are refe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि बुद्धिजीवौ, ततो बुद्धिप्रधानात्कार्यकरणसङ्घाताद्विलक्षणो जीवः प्रतिपादितो भवति।
+यदि बुद्धि-जीवौ, ततो बुद्धि-प्रधानात् कार्य-करण-सङ्घाताद् विलक्षणो जीवः प्रतिपादितो भवति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -86,8 +86,8 @@ If the mind and the individual soul, then the individual soul is here spoken of 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदपीह प्रतिपादयितव्यम् , ‘येयं प्रेते विचिकित्सा मनुष्येऽस्तीत्येके नायमस्तीति चैके।  
-एतद्विद्यामनुशिष्टस्त्वयाहं वराणामेष वरस्तृतीयः’ (क. उ. १। १। २०) इति पृष्टत्वात् ।
+तद् अपीह प्रतिपादयितव्यम् , ‘येयं प्रेते विचिकित्सा मनुष्ये ऽस्तीत्य् एके नायम् अस्तीति चैके।  
+एतद् विद्याम् अनुशिष्टस् त्वयाहं वराणाम् एष वरस्तृतीयः’ (क. उ. १। १। २०) इति पृष्टत्वात् ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -123,7 +123,7 @@ And a statement on this point is to be expected, as a question concerning it is 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ जीवपरमात्मानौ, ततो जीवाद्विलक्षणः परमात्मा प्रतिपादितो भवति।
+अथ जीव-परमात्मानौ, ततो जीवाद् विलक्षणः परमात्मा प्रतिपादितो भवति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -138,8 +138,8 @@ If, on the other hand, the passage refers to the individual soul and the highest
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदपीह प्रतिपादयितव्यम् — ‘अन्यत्र धर्मादन्यत्राधर्मादन्यत्रास्मात्कृताकृतात्।  
-अन्यत्र भूताच्च भव्याच्च यत्तत्पश्यसि तद्वद’ (क. उ. १। २। १४) इति पृष्टत्वात्।
+तद् अपीह प्रतिपादयितव्यम् — ‘अन्यत्र धर्माद् अन्यत्राधर्माद् अन्यत्रास्मात् कृताकृतात्।  
+अन्यत्र भूताच् च भव्याच् च यत् तत् पश्यसि तद्वद’ (क. उ. १। २। १४) इति पृष्टत्वात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -155,7 +155,7 @@ and this also requires to be declared here, on account of the question contained
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्राहाक्षेप्ता — उभावप्येतौ पक्षौ न सम्भवतः।
+अत्राहाक्षेप्ता — उभाव् अप्य् एतौ पक्षौ न सम्भवतः।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -170,7 +170,7 @@ The doubt to which the passage gives rise having thus been stated, a caviller st
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कस्मात् ? ऋतपानं कर्मफलोपभोगः, ‘सुकृतस्य लोके’ इति लिङ्गात्।
+कस्मात् ? ऋत-पानं कर्म-फलोपभोगः, ‘सुकृतस्य लोके’ इति लिङ्गात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -187,7 +187,7 @@ On account of the characteristic mark implied in the circumstance that the two a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच्च चेतनस्य क्षेत्रज्ञस्य सम्भवति, नाचेतनाया बुद्धेः।
+तच् च चेतनस्य क्षेत्र-ज्ञस्य सम्भवति, नाचेतनाया बुद्धेः।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -203,7 +203,7 @@ For this can apply to the intelligent individual soul only, not to the non-intel
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘पिबन्तौ’ द्विवचनेन द्वयोः पानं दर्शयति श्रुतिः।  
-अतो बुद्धिक्षेत्रज्ञपक्षस्तावन्न सम्भवति ।
+अतो बुद्धि-क्षेत्रज्ञ-पक्षस् तावन् न सम्भवति ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -229,8 +229,8 @@ And as the dual form 'drinking' (pibantau) shows that both are drinking, the vie
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव क्षेत्रज्ञपरमात्मपक्षोऽपि न सम्भवति।  
-चेतनेऽपि परमात्मनि ऋतपानासम्भवात् , ‘अनश्नन्नन्योऽभिचाकशीति’ (मु. उ. ३। १। १) इति मन्त्रवर्णादिति।
+अत एव क्षेत्र-ज्ञ-परमात्म-पक्षो ऽपि न सम्भवति।  
+चेतने ऽपि परमात्मनि ऋत-पानासम्भवात् , ‘अनश्नन्न् अन्यो ऽभिचाकशीति’ (मु. उ. ३। १। १) इति मन्त्र-वर्णाद् इति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -246,8 +246,8 @@ For the same reason the other opinion also, viz. of the two being the individual
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्रोच्यते — नैष दोषः; छत्रिणो गच्छन्तीत्येकेनापि च्छत्रिणा बहूनामच्छत्रिणां छत्रित्वोपचारदर्शनात्।  
-एवमेकेनापि पिबता द्वौ पिबन्तावुच्येयाताम्।
+अत्रोच्यते — नैष दोषः; छत्रिणो गच्छन्तीत्य् एकेनापि च्छत्रिणा बहूनाम् अच्छत्रिणां छत्रित्वोपचार-दर्शनात्।  
+एवम् एकेनापि पिबता द्वौ पिबन्ताव् उच्येयाताम्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -263,9 +263,9 @@ These objections, we reply, are without any force. Just as we see that in phrase
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्वा जीवस्तावत्पिबति।  
-ईश्वरस्तु पाययति।  
-पाययन्नपि पिबतीत्युच्यते, पाचयितर्यपि पक्तृत्वप्रसिद्धिदर्शनात्।
+यद्वा जीवस् तावत् पिबति।  
+ईश्वरस् तु पाययति।  
+पाययन्न् अपि पिबतीत्य् उच्यते, पाचयितर्य् अपि पक्तृत्व-प्रसिद्धि-दर्शनात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -282,8 +282,8 @@ Or else we may explain the passage by saying that, while the individual soul onl
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बुद्धिक्षेत्रज्ञपरिग्रहोऽपि सम्भवति; करणे कर्तृत्वोपचारात्।  
-‘एधांसि पचन्ति’ इति प्रयोगदर्शनात्।
+बुद्धि-क्षेत्रज्ञ-परिग्रहो ऽपि सम्भवति; करणे कर्तृत्वोपचारात्।  
+‘एधांसि पचन्ति’ इति प्रयोग-दर्शनात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -299,7 +299,7 @@ On the other hand, we may also assume that the two are the buddhi and the indivi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चाध्यात्माधिकारेऽन्यौ कौचिद्द्वावृतं पिबन्तौ सम्भवतः।
+न चाध्यात्माधिकारे ऽन्यौ कौचिद् द्वाव् ऋतं पिबन्तौ सम्भवतः।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -314,7 +314,7 @@ And in a chapter whose topic is the soul no two other beings can well be represe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माद्बुद्धिजीवौ स्यातां जीवपरमात्मानौ वेति संशयः ॥
+तस्माद् बुद्धि-जीवौ स्यातां जीव-परमात्मानौ वेति संशयः ॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -349,7 +349,7 @@ Hence there is room for the doubt whether the two are the buddhi and the individ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किं तावत्प्राप्तम् ? बुद्धिक्षेत्रज्ञाविति।  
+किं तावत्-प्राप्तम् ? बुद्धि-क्षेत्रज्ञाव् इति।  
 कुतः ? ‘गुहां प्रविष्टौ’ इति विशेषणात्।
 </details>
 
@@ -366,7 +366,7 @@ Here the pūrvapakshin maintains that the former of the two stated views is the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि शरीरं गुहा, यदि वा हृदयम् , उभयथापि बुद्धिक्षेत्रज्ञौ गुहां प्रविष्टावुपपद्येते।
+यदि शरीरं गुहा, यदि वा हृदयम् , उभयथापि बुद्धि-क्षेत्रज्ञौ गुहां प्रविष्टाव् उपपद्येते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -381,7 +381,7 @@ Whether we understand by the cave the body or the heart, in either case the budd
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च सति सम्भवे सर्वगतस्य ब्रह्मणो विशिष्टदेशत्वं युक्तं कल्पयितुम्।
+न च सति सम्भवे सर्व-गतस्य ब्रह्मणो विशिष्ट-देशत्वं युक्तं कल्पयितुम्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -396,7 +396,7 @@ Nor would it be appropriate, as long as another interpretation is possible, to a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘सुकृतस्य लोके’ इति च कर्मगोचरानतिक्रमं दर्शयति।
+‘सुकृतस्य लोके’ इति च कर्म-गोचरानतिक्रमं दर्शयति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -426,7 +426,7 @@ But the highest Self is not in the sphere of the results of either good or bad w
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘छायातपौ’ इति च चेतनाचेतनयोर्निर्देश उपपद्यते, छायातपवत्परस्परविलक्षणत्वात्।
+‘छायातपौ’ इति च चेतनाचेतनयोर् निर्देश उपपद्यते, छायातपवत् परस्पर-विलक्षणत्वात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -441,7 +441,7 @@ Further, the words 'shade and light' properly designate what is intelligent and 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माद्बुद्धिक्षेत्रज्ञाविहोच्येयातामित्येवं प्राप्ते ब्रूमः—
+तस्माद् बुद्धि-क्षेत्रज्ञाव् इहोच्येयाताम् इत्य् एवं प्राप्ते ब्रूमः—
 </details>
 
 <details><summary>Thibaut</summary>
@@ -463,8 +463,8 @@ To this we make the following reply:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विज्ञानात्मपरमात्मानाविहोच्येयाताम्।  
-कस्मात् ? आत्मानौ हि तावुभावपि चेतनौ समानस्वभावौ।
+विज्ञानात्म-परमात्मानाव् इहोच्येयाताम्।  
+कस्मात् ? आत्मानौ हि ताव् उभाव् अपि चेतनौ समान-स्वभावौ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -480,8 +480,8 @@ In the passage under discussion the individual soul (vijñānātman) and the hig
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संख्याश्रवणे च समानस्वभावेष्वेव लोके प्रतीतिर्दृश्यते।  
-‘अस्य गोर्द्वितीयोऽन्वेष्टव्यः’ इत्युक्ते, गौरेव द्वितीयोऽन्विष्यते, नाश्वः पुरुषो वा।
+संख्या-श्रवणे च समान-स्वभावेष्व् एव लोके प्रतीतिर् दृश्यते।  
+‘अस्य गोर् द्वितीयो ऽन्वेष्टव्यः’ इत्य् उक्ते, गौरेव द्वितीयो ऽन्विष्यते, नाश्वः पुरुषो वा।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -497,7 +497,7 @@ For we see that in ordinary life also, whenever a number is mentioned, beings of
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदिह ऋतपानेन लिङ्गेन निश्चिते विज्ञानात्मनि द्वितीयान्वेषणायां समानस्वभावश्चेतनः परमात्मैव प्रतीयते ।
+तद् इह ऋत-पानेन लिङ्गेन निश्चिते विज्ञानात्मनि द्वितीयान्वेषणायां समान-स्वभावश् चेतनः परमात्मैव प्रतीयते ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -517,8 +517,8 @@ So here also, where the mention of the fruition of rewards enables us to determi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननूक्तं गुहाहितत्वदर्शनान्न परमात्मा प्रत्येतव्य इति; गुहाहितत्वदर्शनादेव परमात्मा प्रत्येतव्य इति वदामः।  
-गुहाहितत्वं तु श्रुतिस्मृतिष्वसकृत्परमात्मन एव दृश्यते — ‘गुहाहितं गह्वरेष्ठं पुराणम्’ (क. उ. १। २। १२) ‘यो वेद निहितं गुहायां परमे व्योमन्’ (तै. उ. २। १। १) ‘आत्मानमन्विच्छ गुहां प्रविष्टम्’ इत्याद्यासु ।
+ननूक्तं गुहा-हितत्व-दर्शनान् न परमात्मा प्रत्येतव्य इति; गुहा-हितत्व-दर्शनाद् एव परमात्मा प्रत्येतव्य इति वदामः।  
+गुहाहितत्वं तु श्रुति-स्मृतिष्व् असकृत् परमात्मन एव दृश्यते — ‘गुहा-हितं गह्वरेष्ठं पुराणम्’ (क. उ. १। २। १२) ‘यो वेद निहितं गुहायां परमे व्योमन्’ (तै. उ. २। १। १) ‘आत्मानम् अन्विच्छ गुहां प्रविष्टम्’ इत्य्-आद्यासु ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -541,7 +541,7 @@ Well, we reply, śruti as well as smr̥ti speaks of the highest Self as placed i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वगतस्यापि ब्रह्मण उपलब्ध्यर्थो देशविशेषोपदेशो न विरुध्यत इत्येतदप्युक्तमेव।
+सर्वगतस्यापि ब्रह्मण उपलब्ध्यर्थो देश-विशेषोपदेशो न विरुध्यत इत्य् एतद् अप्य् उक्तम् एव।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -556,7 +556,7 @@ That it is not contrary to reason to assign to the omnipresent Brahman a special
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुकृतलोकवर्तित्वं तु च्छत्रित्ववदेकस्मिन्नपि वर्तमानमुभयोरविरुद्धम्।
+सुकृत-लोक-वर्तित्वं तु च्छत्रित्ववद् एकस्मिन्न् अपि वर्तमानम् उभयोर् अविरुद्धम्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -571,7 +571,7 @@ The attribute of existing in the world of its good works, which properly belongs
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘छायातपौ’ इत्यप्यविरुद्धम्; छायातपवत्परस्परविलक्षणत्वात्संसारित्वासंसारित्वयोः, अविद्याकृतत्वात्संसारित्वस्य पारमार्थिकत्वाच्चासंसारित्वस्य।
+‘छायातपौ’ इत्य् अप्य् अविरुद्धम्; छायातपवत् परस्पर-विलक्षणत्वात् संसारित्वासंसारित्वयोः, अविद्या-कृतत्वात् संसारित्वस्य पारमार्थिकत्वाच् चासंसारित्वस्य।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -586,7 +586,7 @@ Their being compared to light and shade also is unobjectionable, because the qua
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माद्विज्ञानात्मपरमात्मानौ गुहां प्रविष्टौ गृह्येते ॥ ११ ॥
+तस्माद् विज्ञानात्म-परमात्मानौ गुहां प्रविष्टौ गृह्येते ॥ ११ ॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -611,7 +611,7 @@ We therefore understand by the two 'entered into the cave,' the individual soul 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कुतश्च विज्ञानात्मपरमात्मानौ गृह्येते ? —
+कुतश् च विज्ञानात्मपरमात्मानौ गृह्येते ? —
 </details>
 
 <details><summary>Thibaut</summary>
@@ -631,7 +631,7 @@ Another reason for this interpretation follows.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विशेषणाच्च ॥ १२ ॥
+विशेषणाच् च ॥ १२ ॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -646,7 +646,7 @@ Another reason for this interpretation follows.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विशेषणं च विज्ञानात्मपरमात्मनोरेव भवति ।
+विशेषणं च विज्ञानात्म-परमात्मनोर् एव भवति ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -661,8 +661,8 @@ Moreover, the distinctive qualities mentioned in the text agree only with the in
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘आत्मानं रथिनं विद्धि शरीरं रथमेव तु’ (क. उ. १। ३। ३) इत्यादिना परेण ग्रन्थेन रथिरथादिरूपककल्पनया विज्ञानात्मानं रथिनं संसारमोक्षयोर्गन्तारं कल्पयति ।  
-‘सोऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदम्’ (क. उ. १। ३। ९) परमात्मानं गन्तव्यं कल्पयति।
+‘आत्मानं रथिनं विद्धि शरीरं रथमेव तु’ (क. उ. १। ३। ३) इत्य्-आदिना परेण ग्रन्थेन रथि-रथादि-रूपक-कल्पनया विज्ञानात्मानं रथिनं संसार-मोक्षयोर् गन्तारं कल्पयति ।  
+‘सो ऽध्वनः पारमाप्नोति तद् विष्णोः परमं पदम्’ (क. उ. १। ३। ९) परमात्मानं गन्तव्यं कल्पयति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -678,8 +678,8 @@ For in a subsequent passage (I, 3, 3), 'Know the Self to be the charioteer, the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा ‘तं दुर्दर्शं गूढमनुप्रविष्टं गुहाहितं गह्वरेष्ठं पुराणम्।  
-अध्यात्मयोगाधिगमेन देवं मत्वा धीरो हर्षशोकौ जहाति’ (क. उ. १। २। १२) इति पूर्वस्मिन्नपि ग्रन्थे मन्तृमन्तव्यत्वेनैतावेव विशेषितौ।
+तथा ‘तं दुर्दर्शं गूढम् अनुप्रविष्टं गुहा-हितं गह्वरेष्ठं पुराणम्।  
+अध्यात्म-योगाधिगमेन देवं मत्वा धीरो हर्षशोकौ जहाति’ (क. उ. १। २। १२) इति पूर्वस्मिन्न् अपि ग्रन्थे मन्तृ-मन्तव्यत्वेनैताव् एव विशेषितौ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -710,7 +710,7 @@ The highest Self is, moreover, the general topic.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘ब्रह्मविदो वदन्ति’ इति च वक्तृविशेषोपादानं परमात्मपरिग्रहे घटते।
+‘ब्रह्मविदो वदन्ति’ इति च वक्तृ-विशेषोपादानं परमात्म-परिग्रहे घटते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -725,7 +725,7 @@ And further, the clause, 'Those who know Brahman call them,' &c., which brings f
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मादिह जीवपरमात्मानावुच्येयाताम् ।
+तस्माद् इह जीव-परमात्मानाव् उच्येयाताम् ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -745,7 +745,7 @@ It is therefore evident that the passage under discussion refers to the individu
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एष एव न्यायः ‘द्वा सुपर्णा सयुजा सखाया’ (मु. उ. ३। १। १) इत्येवमादिष्वपि।
+एष एव न्यायः ‘द्वा सुपर्णा सयुजा सखाया’ (मु. उ. ३। १। १) इत्य् एवम्-आदिष्व् अपि।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -760,7 +760,7 @@ The same reasoning applies to the passage (Mu. Up. III, 1, 1), 'Two birds, insep
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्रापि ह्यध्यात्माधिकारान्न प्राकृतौ सुपर्णावुच्येते।
+तत्रापि ह्य् अध्यात्माधिकारान् न प्राकृतौ सुपर्णाव् उच्येते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -775,8 +775,8 @@ There also the Self is the general topic, and hence no two ordinary birds can be
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘तयोरन्यः पिप्पलं स्वाद्वत्ति’ इत्यदनलिङ्गाद्विज्ञानात्मा भवति ।  
-‘अनश्नन्नन्योऽभिचाकशीति’ (मु. उ. ३। १। १) इत्यनशनचेतनत्वाभ्यां परमात्मा।
+‘तयोर् अन्यः पिप्पलं स्वाद्व् अत्ति’ इत्य् अदन-लिङ्गाद् विज्ञानात्मा भवति ।  
+‘अनश्नन्न् अन्यो ऽभिचाकशीति’ (मु. उ. ३। १। १) इत्य् अनशन-चेतनत्वाभ्यां परमात्मा।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -792,8 +792,8 @@ we therefore conclude from the characteristic mark of eating, mentioned in the p
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनन्तरे च मन्त्रे तावेव द्रष्टृद्रष्टव्यभावेन विशिनष्टि — ‘समाने वृक्षे पुरुषो निमग्नोऽनीशया शोचति मुह्यमानः।  
-जुष्टं यदा पश्यत्यन्यमीशमस्य महिमानमिति वीतशोकः’ (मु. उ. ३। १। २) इति ॥
+अनन्तरे च मन्त्रे तावेव द्रष्टृ-द्रष्टव्य-भावेन विशिनष्टि — ‘समाने वृक्षे पुरुषो निमग्नो ऽनीशया शोचति मुह्यमानः।  
+जुष्टं यदा पश्यत्य् अन्यम् ईशम् अस्य महिमानम् इति वीतशोकः’ (मु. उ. ३। १। २) इति ॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -814,7 +814,7 @@ In a subsequent mantra again the two are distinguished as the seer and the objec
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपर आह — ‘द्वा सुपर्णा’ इति नेयमृगस्याधिकरणस्य सिद्धान्तं भजते, पैङ्गिरहस्यब्राह्मणेनान्यथा व्याख्यातत्वात् — ‘तयोरन्यः पिप्पलं स्वाद्वत्तीति सत्त्वमनश्नन्नन्योऽभिचाकशीतीत्यनश्नन्नन्योऽभिपश्यति ज्ञस्तावेतौ सत्त्वक्षेत्रज्ञौ’ इति।
+अपर आह — ‘द्वा सुपर्णा’ इति नेयम् ऋगस्याधिकरणस्य सिद्धान्तं भजते, पैङ्गि-रहस्य-ब्राह्मणेनान्यथा व्याख्यातत्वात् — ‘तयोर् अन्यः पिप्पलं स्वाद्व् अत्तीति सत्त्वम् अनश्नन्न् अन्यो ऽभिचाकशीतीत्य् अनश्नन्न् अन्यो ऽभिपश्यति ज्ञस् तावेतौ सत्त्व-क्षेत्रज्ञौ’ इति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -829,8 +829,8 @@ Another (commentator) gives a different interpretation of the mantra, 'Two birds
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्त्वशब्दो जीवः क्षेत्रज्ञशब्दः परमात्मेति यदुच्यते, तन्न; सत्त्वक्षेत्रज्ञशब्दयोरन्तःकरणशारीरपरतया प्रसिद्धत्वात्।  
-तत्रैव च व्याख्यातत्वात् — ‘तदेतत्सत्त्वं येन स्वप्नं पश्यति, अथ योऽयं शारीर उपद्रष्टा स क्षेत्रज्ञस्तावेतौ सत्त्वक्षेत्रज्ञौ’ इति।
+सत्त्व-शब्दो जीवः क्षेत्र-ज्ञ-शब्दः परमात्मेति यद् उच्यते, तन् न; सत्त्व-क्षेत्र-ज्ञ-शब्दयोर् अन्तःकरण-शारीर-परतया प्रसिद्धत्वात्।  
+तत्रैव च व्याख्यातत्वात् — ‘तद् एतत् सत्त्वं येन स्वप्नं पश्यति, अथ यो ऽयं शारीर उपद्रष्टा स क्षेत्र-ज्ञस् तावेतौ सत्त्व-क्षेत्रज्ञौ’ इति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -846,7 +846,7 @@ The objection that the word sattva might denote the individual soul, and the wor
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाप्यस्याधिकरणस्य पूर्वपक्षं भजते।
+नाप्य् अस्याधिकरणस्य पूर्वपक्षं भजते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -861,7 +861,7 @@ Nor does the mantra under discussion fall under the pūrvapaksha propounded abov
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न ह्यत्र शारीरः क्षेत्रज्ञः कर्तृत्वभोक्तृत्वादिना संसारधर्मेणोपेतो विवक्ष्यते ।
+न ह्य् अत्र शारीरः क्षेत्र-ज्ञः कर्तृत्व-भोक्तृत्वादिना संसार-धर्मेणोपेतो विवक्ष्यते ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -886,7 +886,7 @@ For it does not aim at setting forth the embodied individual soul, in so far as 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथं तर्हि ? सर्वसंसारधर्मातीतो ब्रह्मस्वभावश्चैतन्यमात्रस्वरूपः; ‘अनश्नन्नन्योऽभिचाकशीतीत्यनश्नन्नन्योऽभिपश्यति ज्ञः’ इति वचनात् , ‘तत्त्वमसि’ ‘क्षेत्रज्ञं चापि मां विद्धि’ (भ. गी. १३। २) इत्यादिश्रुतिस्मृतिभ्यश्च।
+कथं तर्हि ? सर्व-संसार-धर्मातीतो ब्रह्म-स्वभावश् चैतन्य-मात्र-स्वरूपः; ‘अनश्नन्न् अन्यो ऽभिचाकशीतीत्य् अनश्नन्न् अन्यो ऽभिपश्यति ज्ञः’ इति वचनात् , ‘तत्त्वमसि’ ‘क्षेत्र-ज्ञं चापि मां विद्धि’ (भ. गी. १३। २) इत्य्-आदि-श्रुति-स्मृतिभ्यश् च।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -901,7 +901,7 @@ but in so far rather as it transcends all attributes connected with the saṁsā
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तावता च विद्योपसंहारदर्शनमेवमेवावकल्पते, ‘तावेतौ सत्त्वक्षेत्रज्ञौ न ह वा एवंविदि किञ्चन रज आध्वंसते’ इत्यादि।
+तावता च विद्योपसंहार-दर्शनम् एवम् एवावकल्पते, ‘तावेतौ सत्त्व-क्षेत्रज्ञौ न ह वा एवंविदि किञ्चन रज आध्वंसते’ इत्य्-आदि।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -918,7 +918,7 @@ Only on such an explanation of the passage as the preceding one there is room fo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथं पुनरस्मिन्पक्षे ‘तयोरन्यः पिप्पलं स्वाद्वत्तीति सत्त्वम्’ इत्यचेतने सत्त्वे भोक्तृत्ववचनमिति, उच्यते — नेयं श्रुतिरचेतनस्य सत्त्वस्य भोक्तृत्वं वक्ष्यामीति प्रवृत्ता; किं तर्हि ? चेतनस्य क्षेत्रज्ञस्याभोक्तृत्वं ब्रह्मस्वभावतां च वक्ष्यामीति।
+कथं पुनर् अस्मिन् पक्षे ‘तयोर् अन्यः पिप्पलं स्वाद्व् अत्तीति सत्त्वम्’ इत्य् अचेतने सत्त्वे भोक्तृत्व-वचनम् इति, उच्यते — नेयं श्रुतिर् अचेतनस्य सत्त्वस्य भोक्तृत्वं वक्ष्यामीति प्रवृत्ता; किं तर्हि ? चेतनस्य क्षेत्रज्ञस्याभोक्तृत्वं ब्रह्म-स्वभावतां च वक्ष्यामीति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -935,7 +935,7 @@ The whole passage, we reply, does not aim at setting forth the fact that the sat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदर्थं सुखादिविक्रियावति सत्त्वे भोक्तृत्वमध्यारोपयति ।
+तद्-अर्थं सुखादि-विक्रियावति सत्त्वे भोक्तृत्वम् अध्यारोपयति ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -965,7 +965,7 @@ To that end [147] the passage under discussion metaphorically ascribes the attri
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदं हि कर्तृत्वं भोक्तृत्वं च सत्त्वक्षेत्रज्ञयोरितरेतरस्वभावाविवेककृतं कल्प्यते।
+इदं हि कर्तृत्वं भोक्तृत्वं च सत्त्व-क्षेत्र-ज्ञयोर् इतरेतर-स्वभावाविवेक-कृतं कल्प्यते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -980,7 +980,7 @@ For all acting and enjoying is at the bottom based on the non-discrimination (by
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परमार्थतस्तु नान्यतरस्यापि सम्भवति, अचेतनत्वात्सत्त्वस्य, अविक्रियत्वाच्च क्षेत्रज्ञस्य।
+परमार्थतस् तु नान्यतरस्यापि सम्भवति, अचेतनत्वात् सत्त्वस्य, अविक्रियत्वाच् च क्षेत्र-ज्ञस्य।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -995,7 +995,7 @@ while in reality neither the internal organ nor the soul either act or enjoy; no
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अविद्याप्रत्युपस्थापितस्वभावत्वाच्च सत्त्वस्य सुतरां न सम्भवति।
+अविद्या-प्रत्युपस्थापित-स्वभावत्वाच् च सत्त्वस्य सुतरां न सम्भवति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1010,8 +1010,8 @@ And the internal organ can be considered as acting and enjoying, all the less as
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा च श्रुतिः — ‘यत्र वा अन्यदिव स्यात्तत्रान्योऽन्यत्पश्येत्’ (बृ. उ. ४। ५। १५) इत्यादिना स्वप्नदृष्टहस्त्यादिव्यवहारवदविद्याविषय एव कर्तृत्वादिव्यवहारं दर्शयति ।  
-‘यत्र त्वस्य सर्वमात्मैवाभूत्तत्केन कं पश्येत्’ (बृ. उ. ४। ५। १५) इत्यादिना च विवेकिनः कर्तृत्वादिव्यवहाराभवं दर्शयति ॥ १२ ॥
+तथा च श्रुतिः — ‘यत्र वा अन्यदिव स्यात् तत्रान्यो ऽन्यत् पश्येत्’ (बृ. उ. ४। ५। १५) इत्य्-आदिना स्वप्न-दृष्ट-हस्त्य्-आदि-व्यवहारवद् अविद्या-विषय एव कर्तृत्वादि-व्यवहारं दर्शयति ।  
+‘यत्र त्वस्य सर्वम् आत्मैवाभूत् तत् केन कं पश्येत्’ (बृ. उ. ४। ५। १५) इत्य्-आदिना च विवेकिनः कर्तृत्वादि-व्यवहाराभवं दर्शयति ॥ १२ ॥
 </details>
 
 <details><summary>Thibaut</summary>

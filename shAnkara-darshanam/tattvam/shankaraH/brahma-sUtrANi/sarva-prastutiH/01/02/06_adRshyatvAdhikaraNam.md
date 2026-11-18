@@ -6,7 +6,7 @@ title = "०६ अदृश्यत्वाधिकरणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदृश्यत्वादिगुणको धर्मोक्तेः ॥ २१ ॥
+अदृश्यत्वादि-गुणको धर्मोक्तेः ॥ २१ ॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -22,9 +22,9 @@ title = "०६ अदृश्यत्वाधिकरणम्"
 <details><summary>वैयासिक-न्याय-माला</summary>
 
 भूतयोनिः प्रधानं वा जीवो वा यदि वेश्वरः ॥
-आद्यौ पक्षावुपादाननिमित्तत्वाभिधानतः ॥ ११ ॥
-ईश्वरो भूतयोनिः स्यात्सर्वज्ञत्वाादिकीर्तनात् ॥
-दिव्याद्युक्तेर्न जीवः स्यान्न प्रधानं भिदोक्तितः ॥ १२ ॥
+आद्यौ पक्षाव् उपादान-निमित्तत्वाभिधानतः ॥ ११ ॥
+ईश्वरो भूतयोनिः स्यात् सर्वज्ञत्वाादिकीर्तनात् ॥
+दिव्याद्य्-उक्तेर् न जीवः स्यान् न प्रधानं भिदोक्तितः ॥ १२ ॥
 --वैयासिकन्यायमाला
 </details>
 
@@ -40,7 +40,7 @@ title = "०६ अदृश्यत्वाधिकरणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘अथ परा यया तदक्षरमधिगम्यते’(मु. उ. १। १। ५) , ‘यत्तदद्रेश्यमग्राह्यमगोत्रमवर्णमचक्षुःश्रोत्रं तदपाणिपादम् , नित्यं विभुं सर्वगतं सुसूक्ष्मं तदव्ययं यद्भूतयोनिं परिपश्यन्ति धीराः’ (मु. उ. १। १। ६) इति श्रूयते।
+‘अथ परा यया तद् अक्षरम् अधिगम्यते’(मु. उ. १। १। ५) , ‘यत् तद् अद्रेश्यम् अग्राह्यम् अगोत्रम् अवर्णम् अचक्षुःश्रोत्रं तद् अपाणिपादम् , नित्यं विभुं सर्वगतं सुसूक्ष्मं तदव्ययं यद् भूतयोनिं परिपश्यन्ति धीराः’ (मु. उ. १। १। ६) इति श्रूयते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -55,7 +55,7 @@ Scripture says, 'The higher knowledge is this by which the Indestructible is app
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र संशयः — किमयमदृश्यत्वादिगुणको भूतयोनिः प्रधानं स्यात् , उत शारीरः, आहोस्वित्परमेश्वर इति ।
+तत्र संशयः — किम् अयम् अदृश्यत्वादि-गुणको भूतयोनिः प्रधानं स्यात् , उत शारीरः, आहोस्वित् परमेश्वर इति ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -70,7 +70,7 @@ Here the doubt arises whether the source of all beings which is spoken of as cha
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-\[अथ परा यया तदक्षरमधिगम्यते यत्तदद्रेयं भूतयोनिं परिपश्यन्ति धीराः
+\[अथ परा यया तद् अक्षरम् अधिगम्यते यत् तद् अद्रेयं भूतयोनिं परिपश्यन्ति धीराः
 </details>
 
 <details><summary>मूलम्</summary>
@@ -100,7 +100,7 @@ Here the doubt arises whether the source of all beings which is spoken of as cha
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र प्रधानमचेतनं भूतयोनिरिति युक्तम् , अचेतनानामेव तस्य दृष्टान्तत्वेनोपादानात् ।
+तत्र प्रधानम् अचेतनं भूतयोनिर् इति युक्तम् , अचेतनानाम् एव तस्य दृष्टान्तत्वेनोपादानात् ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -115,7 +115,7 @@ We must, the pūrvapakshin says, understand by the source of all beings the non-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘यथोर्णनाभिः सृजते गृह्णते च यथा पृथिव्यामोषधयः सम्भवन्ति। यथा सतः पुरुषात्केशलोमानि तथाक्षरात्सम्भवतीह विश्वम्’ (मु. उ. १। १। ७) इति।
+‘यथोर्णनाभिः सृजते गृह्णते च यथा पृथिव्याम् ओषधयः सम्भवन्ति। यथा सतः पुरुषात् केशलोमानि तथाक्षरात् सम्भवतीह विश्वम्’ (मु. उ. १। १। ७) इति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -130,7 +130,7 @@ We must, the pūrvapakshin says, understand by the source of all beings the non-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननूर्णनाभिः पुरुषश्च चेतनाविह दृष्टान्तत्वेनोपात्तौ; नेति ब्रूमः।
+ननूर्णनाभिः पुरुषश् च चेतनाव् इह दृष्टान्तत्वेनोपात्तौ; नेति ब्रूमः।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -145,7 +145,7 @@ But, it may be objected, men and spiders which are here quoted as parallel insta
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि केवलस्य चेतनस्य तत्र सूत्रयोनित्वं केशलोमयोनित्वं चास्ति।
+न हि केवलस्य चेतनस्य तत्र सूत्र-योनित्वं केशलोम-योनित्वं चास्ति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -160,7 +160,7 @@ for the intelligent being as such is not the source of the threads and the hair,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चेतनाधिष्ठितं ह्यचेतनमूर्णनाभिशरीरं सूत्रस्य योनिः, पुरुषशरीरं च केशलोम्नामिति प्रसिद्धम् ।
+चेतनाधिष्ठितं ह्य् अचेतनम् ऊर्णनाभि-शरीरं सूत्रस्य योनिः, पुरुष-शरीरं च केशलोम्नाम् इति प्रसिद्धम् ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -180,7 +180,7 @@ but everybody knows that the non-intelligent body of the spider ruled by intelli
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च पूर्वत्रादृष्टत्वाद्यभिलापसम्भवेऽपि द्रष्टृत्वाद्यभिलापासम्भवान्न प्रधानमभ्युपगतम्।
+अपि च पूर्वत्रादृष्टत्वाद्य्-अभिलाप-सम्भवे ऽपि द्रष्टृत्वाद्य्-अभिलापासम्भवान् न प्रधानम् अभ्युपगतम्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -195,7 +195,7 @@ While, moreover, in the case of the preceding Sūtra, the pradhāna hypothesis c
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इह त्वदृश्यत्वादयो धर्माः प्रधाने सम्भवन्ति।
+इह त्व् अदृश्यत्वादयो धर्माः प्रधाने सम्भवन्ति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -210,7 +210,7 @@ we have here to do only with attributes such as invisibility which agree with th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चात्र विरुध्यमानो धर्मः कश्चिदभिलप्यते।
+न चात्र विरुध्यमानो धर्मः कश्चिद् अभिलप्यते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -225,7 +225,7 @@ no attribute of a contrary nature being mentioned.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु ‘यः सर्वज्ञः सर्ववित्’ (मु. उ. १। १। ९) इत्ययं वाक्यशेषोऽचेतने प्रधाने न सम्भवति, कथं प्रधानं भूतयोनिः प्रतिज्ञायत इति; अत्रोच्यते — ‘यया तदक्षरमधिगम्यते’ ‘यत्तदद्रेश्यम्’ इत्यक्षरशब्देनादृश्यत्वादिगुणकं भूतयोनिं श्रावयित्वा, पुनरन्ते श्रावयिष्यति — ‘अक्षरात्परतः परः’ (मु. उ. २। १। २) इति।
+ननु ‘यः सर्वज्ञः सर्ववित्’ (मु. उ. १। १। ९) इत्य् अयं वाक्यशेषो ऽचेतने प्रधाने न सम्भवति, कथं प्रधानं भूतयोनिः प्रतिज्ञायत इति; अत्रोच्यते — ‘यया तद् अक्षरम् अधिगम्यते’ ‘यत् तद् अद्रेश्यम्’ इत्य् अक्षर-शब्देनादृश्यत्वादि-गुणकं भूतयोनिं श्रावयित्वा, पुनर् अन्ते श्रावयिष्यति — ‘अक्षरात् परतः परः’ (मु. उ. २। १। २) इति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -240,7 +240,7 @@ But the qualities mentioned in the complementary passage (Mu. Up. I, 1, 9), 'He 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र यः परोऽक्षराच्छ्रुतः, स सर्वज्ञः सर्ववित्सम्भविष्यति।
+तत्र यः परो ऽक्षराच् छ्रुतः, स सर्वज्ञः सर्ववित् सम्भविष्यति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -255,7 +255,7 @@ Now that which in this latter passage is spoken of as higher than the Imperishab
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रधानमेव त्वक्षरशब्दनिर्दिष्टं भूतयोनिः।
+प्रधानम् एव त्व् अक्षर-शब्द-निर्दिष्टं भूतयोनिः।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -270,7 +270,7 @@ while the pradhāna denoted by the term 'the Imperishable' is the source of all 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदा तु योनिशब्दो निमित्तवाची, तदा शारीरोऽपि भूतयोनिः स्यात् , धर्माधर्माभ्यां भूतजातस्योपार्जनादिति ।
+यदा तु योनि-शब्दो निमित्तवाची, तदा शारीरो ऽपि भूतयोनिः स्यात् , धर्माधर्माभ्यां भूत-जातस्योपार्जनाद् इति ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -305,7 +305,7 @@ If, however, the word 'source' (yoni) be taken in the sense of operative cause, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं प्राप्ते अभिधीयते — योऽयमदृश्यत्वादिगुणको भूतयोनिः, स परमेश्वर एव स्यात् , नान्य इति।
+एवं प्राप्ते अभिधीयते — यो ऽयम् अदृश्यत्वादि-गुणको भूतयोनिः, स परमेश्वर एव स्यात् , नान्य इति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -320,7 +320,7 @@ To this we make the following reply. That which here is spoken of as the source 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथमेतदवगम्यते ? धर्मोक्तेः।
+कथम् एतद् अवगम्यते ? धर्मोक्तेः।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -350,7 +350,7 @@ For the clause, 'He who is all-knowing, all-perceiving,' clearly states an attri
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि प्रधानस्याचेतनस्य शारीरस्य वोपाधिपरिच्छिन्नदृष्टेः सर्वज्ञत्वं सर्ववित्त्वं वा सम्भवति।
+न हि प्रधानस्याचेतनस्य शारीरस्य वोपाधि-परिच्छिन्न-दृष्टेः सर्वज्ञत्वं सर्ववित्त्वं वा सम्भवति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -365,7 +365,7 @@ since the attributes of knowing all and perceiving all cannot be predicated eith
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नन्वक्षरशब्दनिर्दिष्टाद्भूतयोनेः परस्यैव तत्सर्वज्ञत्वं सर्ववित्त्वं च, न भूतयोनिविषयमित्युक्तम्; अत्रोच्यते — नैवं सम्भवति; यत्कारणम् ‘अक्षरात्सम्भवतीह विश्वम्’ इति प्रकृतं भूतयोनिमिह जायमानप्रकृतित्वेन निर्दिश्य, अनन्तरमपि जायमानप्रकृतित्वेनैव सर्वज्ञं निर्दिशति — ‘यः सर्वज्ञः सर्वविद्यस्य ज्ञानमयं तपः। तस्मादेतद्ब्रह्म नाम रूपमन्नं च जायते’ इति ।
+नन्व् अक्षर-शब्द-निर्दिष्टाद् भूतयोनेः परस्यैव तत् सर्वज्ञत्वं सर्ववित्त्वं च, न भूतयोनि-विषयम् इत्य् उक्तम्; अत्रोच्यते — नैवं सम्भवति; यत् कारणम् ‘अक्षरात् सम्भवतीह विश्वम्’ इति प्रकृतं भूतयोनिम् इह जायमान-प्रकृतित्वेन निर्दिश्य, अनन्तरम् अपि जायमान-प्रकृतित्वेनैव सर्वज्ञं निर्दिशति — ‘यः सर्वज्ञः सर्वविद् यस्य ज्ञानमयं तपः। तस्माद् एतद् ब्रह्म नाम रूपम् अन्नं च जायते’ इति ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -390,7 +390,7 @@ To the objection that the qualities of knowing and perceiving all are, in the pa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मान्निर्देशसाम्येन प्रत्यभिज्ञायमानत्वात्प्रकृतस्यैवाक्षरस्य भूतयोनेः सर्वज्ञत्वं सर्ववित्त्वं च धर्म उच्यत इति गम्यते।
+तस्मान् निर्देश-साम्येन प्रत्यभिज्ञायमानत्वात् प्रकृतस्यैवाक्षरस्य भूतयोनेः सर्वज्ञत्वं सर्ववित्त्वं च धर्म उच्यत इति गम्यते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -405,7 +405,7 @@ As therefore the Indestructible which forms the general topic of discussion is, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘अक्षरात्परतः परः’ इत्यत्रापि न प्रकृताद्भूतयोनेरक्षरात्परः कश्चिदभिधीयते।
+‘अक्षरात् परतः परः’ इत्य् अत्रापि न प्रकृताद् भूतयोनेर् अक्षरात् परः कश्चिद् अभिधीयते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -420,7 +420,7 @@ We further maintain that also the passage, 'Higher than the high Imperishable,' 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथमेतदवगम्यते ? ‘येनाक्षरं पुरुषं वेद सत्यं प्रोवाच तां तत्त्वतो ब्रह्मविद्याम्’ (मु. उ. १। २। १३) इति प्रकृतस्यैवाक्षरस्य भूतयोनेरदृश्यत्वादिगुणकस्य वक्तव्यत्वेन प्रतिज्ञातत्वात्।
+कथम् एतद् अवगम्यते ? ‘येनाक्षरं पुरुषं वेद सत्यं प्रोवाच तां तत्त्वतो ब्रह्मविद्याम्’ (मु. उ. १। २। १३) इति प्रकृतस्यैवाक्षरस्य भूतयोनेर् अदृश्यत्वादि-गुणकस्य वक्तव्यत्वेन प्रतिज्ञातत्वात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -435,7 +435,7 @@ We conclude this from the circumstance that the passage, 'He truly told that kno
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथं तर्हि ‘अक्षरात्परतः परः’ इति व्यपदिश्यत इति ? उत्तरसूत्रे तद्वक्ष्यामः ।
+कथं तर्हि ‘अक्षरात् परतः परः’ इति व्यपदिश्यत इति ? उत्तर-सूत्रे तद् वक्ष्यामः ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -470,7 +470,7 @@ Moreover, two kinds of knowledge are enjoined there (in the Upanishad), a lower 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्रापरामृग्वेदादिलक्षणां विद्यामुक्त्वा ब्रवीति ‘अथ परा यया तदक्षरमधिगम्यते’ इत्यादि।
+तत्रापराम् ऋग्वेद्-आदि-लक्षणां विद्याम् उक्त्वा ब्रवीति ‘अथ परा यया तद् अक्षरम् अधिगम्यते’ इत्य्-आदि।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -485,7 +485,7 @@ Of the lower one it is said that it comprises the R̥g-veda and so on, and then 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र परस्या विद्याया विषयत्वेनाक्षरं श्रुतम्। यदि पुनः परमेश्वरादन्यददृश्यत्वादिगुणकमक्षरं परिकल्प्येत, नेयं परा विद्या स्यात्।
+तत्र परस्या विद्याया विषयत्वेनाक्षरं श्रुतम्। यदि पुनः परमेश्वराद् अन्यद् अदृश्यत्वादि-गुणकम् अक्षरं परिकल्प्येत, नेयं परा विद्या स्यात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -500,7 +500,7 @@ Here the Indestructible is declared to be the subject of the higher knowledge. I
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परापरविभागो ह्ययं विद्ययोः अभ्युदयनिःश्रेयसफलतया परिकल्प्यते।
+परापर-विभागो ह्य् अयं विद्ययोः अभ्युदय-निःश्रेयस-फलतया परिकल्प्यते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -515,7 +515,7 @@ For the distinction of lower and higher knowledge is made on account of the dive
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च प्रधानविद्या निःश्रेयसफला केनचिदभ्युपगम्यते।
+न च प्रधान-विद्या निःश्रेयस-फला केनचिद् अभ्युपगम्यते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -530,7 +530,7 @@ and nobody would assume absolute bliss to result from the knowledge of the pradh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तिस्रश्च विद्याः प्रतिज्ञायेरन्, त्वत्पक्षेऽक्षराद्भूतयोनेः परस्य परमात्मनः प्रतिपाद्यमानत्वात्।
+तिस्रश् च विद्याः प्रतिज्ञायेरन्, त्वत्-पक्षे ऽक्षराद् भूतयोनेः परस्य परमात्मनः प्रतिपाद्यमानत्वात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -565,7 +565,7 @@ while the text expressly speaks of two kinds only.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘कस्मिन्नु भगवो विज्ञाते सर्वमिदं विज्ञातं भवति’ (मु. उ. १। १। ३) इति चैकविज्ञानेन सर्वविज्ञानापेक्षणं सर्वात्मके ब्रह्मणि विवक्ष्यमाणेऽवकल्पते, नाचेतनमात्रैकायतने प्रधाने, भोग्यव्यतिरिक्ते वा भोक्तरि।
+‘कस्मिन् नु भगवो विज्ञाते सर्वम् इदं विज्ञातं भवति’ (मु. उ. १। १। ३) इति चैकविज्ञानेन सर्व-विज्ञानापेक्षणं सर्वात्मके ब्रह्मणि विवक्ष्यमाणे ऽवकल्पते, नाचेतन-मात्रैकायतने प्रधाने, भोग्य-व्यतिरिक्ते वा भोक्तरि।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -580,7 +580,7 @@ Further, the reference to the knowledge of everything being implied in the knowl
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च ‘स ब्रह्मविद्यां सर्वविद्याप्रतिष्ठामथर्वाय ज्येष्ठपुत्राय प्राह’ (मु. उ. १। १। १) इति ब्रह्मविद्यां प्राधान्येनोपक्रम्य परापरविभागेन परां विद्यामक्षराधिगमनीं दर्शयन् तस्या ब्रह्मविद्यात्वं दर्शयति।
+अपि च ‘स ब्रह्मविद्यां सर्व-विद्या-प्रतिष्ठाम् अथर्वाय ज्येष्ठपुत्राय प्राह’ (मु. उ. १। १। १) इति ब्रह्मविद्यां प्राधान्येनोपक्रम्य परापर-विभागेन परां विद्याम् अक्षराधिगमनीं दर्शयन् तस्या ब्रह्म-विद्यात्वं दर्शयति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -595,7 +595,7 @@ The text, moreover, by introducing the knowledge of Brahman as the chief subject
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा च ब्रह्मविद्यासमाख्या तदधिगम्यस्य अक्षरस्याब्रह्मत्वे बाधिता स्यात् ।
+सा च ब्रह्म-विद्या-समाख्या तद्-अधिगम्यस्य अक्षरस्याब्रह्मत्वे बाधिता स्यात् ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -620,7 +620,7 @@ On the other hand, the term 'knowledge of Brahman' would become meaningless if t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपरा ऋग्वेदादिलक्षणा कर्मविद्या ब्रह्मविद्योपक्रमे उपन्यस्यते ब्रह्मविद्याप्रशंसायै — ‘प्लवा ह्येते अदृढा यज्ञरूपा अष्टादशोक्तमवरं येषु कर्म। एतच्छ्रेयो येऽभिनन्दन्ति मूढा जरामृत्युं ते पुनरेवापि यन्ति’ (मु. उ. १। २। ७) इत्येवमादिनिन्दावचनात्।
+अपरा ऋग्वेदादिलक्षणा कर्मविद्या ब्रह्म-विद्योपक्रमे उपन्यस्यते ब्रह्म-विद्या-प्रशंसायै — ‘प्लवा ह्येते अदृढा यज्ञरूपा अष्टादशोक्तम् अवरं येषु कर्म। एतच्छ्रेयो येऽभिनन्दन्ति मूढा जरामृत्युं ते पुनरेवापि यन्ति’ (मु. उ. १। २। ७) इत्य् एवम्-आदि-निन्दा-वचनात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -635,7 +635,7 @@ The lower knowledge of works which comprises the R̥g-veda, and so on, is mentio
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निन्दित्वा चापरां विद्यां ततो विरक्तस्य परविद्याधिकारं दर्शयति — ‘परीक्ष्य लोकान्कर्मचितान्ब्राह्मणो निर्वेदमायान्नास्त्यकृतः कृतेन। तद्विज्ञानार्थं स गुरुमेवाभिगच्छेत्समित्पाणिः श्रोत्रियं ब्रह्मनिष्ठम्’ (मु. उ. १। २। १२) इति ।
+निन्दित्वा चापरां विद्यां ततो विरक्तस्य परविद्याधिकारं दर्शयति — ‘परीक्ष्य लोकान् कर्म-चितान् ब्राह्मणो निर्वेदम् आयान् नास्त्य् अकृतः कृतेन। तद् विज्ञानार्थं स गुरुम् एवाभिगच्छेत् समित्-पाणिः श्रोत्रियं ब्रह्मनिष्ठम्’ (मु. उ. १। २। १२) इति ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -655,7 +655,7 @@ After these slighting remarks the text declares that he who turns away from the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्तूक्तम् — अचेतनानां पृथिव्यादीनां दृष्टान्तत्वेनोपादानाद्दार्ष्टान्तिकेनाप्यचेतनेनैव भूतयोनिना भवितव्यमिति, तदयुक्तम्; न हि दृष्टान्तदार्ष्टान्तिकयोरत्यन्तसाम्येन भवितव्यमिति नियमोऽस्ति।
+यत्तूक्तम् — अचेतनानां पृथिव्यादीनां दृष्टान्तत्वेनोपादानाद् दार्ष्टान्तिकेनाप्य् अचेतनेनैव भूतयोनिना भवितव्यमिति, तदयुक्तम्; न हि दृष्टान्त-दार्ष्टान्तिकयोर् अत्यन्त-साम्येन भवितव्यमिति नियमोऽस्ति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -670,7 +670,7 @@ The remark that, because the earth and other non-intelligent things are adduced 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च स्थूलाः पृथिव्यादयो दृष्टान्तत्वेनोपात्ता इति न स्थूल एव दार्ष्टान्तिको भूतयोनिरभ्युपगम्यते।
+अपि च स्थूलाः पृथिव्यादयो दृष्टान्तत्वेनोपात्ता इति न स्थूल एव दार्ष्टान्तिको भूतयोनिर् अभ्युपगम्यते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -685,7 +685,7 @@ The things, moreover, to which the source of all beings is compared, viz. the ea
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माददृश्यत्वादिगुणको भूतयोनिः परमेश्वर एव ॥ २१ ॥
+तस्माद् अदृश्यत्वादि-गुणको भूतयोनिः परमेश्वर एव ॥ २१ ॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -710,7 +710,7 @@ For all these reasons the source of all beings, which possesses the attributes o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विशेषणभेदव्यपदेशाभ्यां च नेतरौ ॥ २२ ॥
+विशेषण-भेद-व्यपदेशाभ्यां च नेतरौ ॥ २२ ॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -740,7 +740,7 @@ The source of all beings is the highest Lord, not either of the two others, viz.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कस्मात् ? विशेषणभेदव्यपदेशाभ्याम्।
+कस्मात् ? विशेषण-भेद-व्यपदेशाभ्याम्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -755,7 +755,7 @@ on account of the following reason also.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विशिनष्टि हि प्रकृतं भूतयोनिं शारीराद्विलक्षणत्वेन — ‘दिव्यो ह्यमूर्तः पुरुषः सबाह्याभ्यन्तरो ह्यजः। अप्राणो ह्यमनाः शुभ्रः’ (मु. उ. २। १। २) इति।
+विशिनष्टि हि प्रकृतं भूतयोनिं शारीराद् विलक्षणत्वेन — ‘दिव्यो ह्यमूर्तः पुरुषः सबाह्याभ्यन्तरो ह्यजः। अप्राणो ह्यमनाः शुभ्रः’ (मु. उ. २। १। २) इति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -770,7 +770,7 @@ In the first place, the text distinguishes the source of all beings from the emb
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न ह्येतद्दिव्यत्वादिविशेषणम् अविद्याप्रत्युपस्थापितनामरूपपरिच्छेदाभिमानिनः तद्धर्मान्स्वात्मनि कल्पयतः शारीरस्योपपद्यते।
+न ह्य् एतद् दिव्यत्वादि-विशेषणम् अविद्या-प्रत्युपस्थापित-नाम-रूप-परिच्छेदाभिमानिनः तद्-धर्मान् स्वात्मनि कल्पयतः शारीरस्योपपद्यते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -785,7 +785,7 @@ which erroneously considers itself to be limited by name and form as presented b
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मात्साक्षादौपनिषदः पुरुष इहोच्यते ।
+तस्मात् साक्षाद् औपनिषदः पुरुष इहोच्यते ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -805,7 +805,7 @@ Therefore the passage manifestly refers to the Person which is the subject of al
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा प्रधानादपि प्रकृतं भूतयोनिं भेदेन व्यपदिशति — ‘अक्षरात्परतः परः’ इति।
+तथा प्रधानादपि प्रकृतं भूतयोनिं भेदेन व्यपदिशति — ‘अक्षरात् परतः परः’ इति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -820,7 +820,7 @@ In the second place, the source of all beings which forms the general topic is r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अक्षरमव्याकृतं नामरूपबीजशक्तिरूपं भूतसूक्ष्ममीश्वराश्रयं तस्यैवोपाधिभूतम् , सर्वस्माद्विकारात्परो योऽविकारः, तस्मात्परतः परः इति भेदेन व्यपदिशन् परमात्मानमिह विवक्षितं दर्शयति।
+अक्षरमव्याकृतं नाम-रूप-बीज-शक्ति-रूपं भूत-सूक्ष्मम् ईश्वराश्रयं तस्यैवोपाधि-भूतम् , सर्वस्माद् विकारात् परो योऽविकारः, तस्मात्परतः परः इति भेदेन व्यपदिशन् परमात्मानमिह विवक्षितं दर्शयति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -835,7 +835,7 @@ Here the term 'Imperishable' means that undeveloped entity which represents the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नात्र प्रधानं नाम किञ्चित्स्वतन्त्रं तत्त्वमभ्युपगम्य, तस्माद्भेदव्यपदेश उच्यते।
+नात्र प्रधानं नाम किञ्चित् स्वतन्त्रं तत्त्वम् अभ्युपगम्य, तस्माद् भेद-व्यपदेश उच्यते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -850,7 +850,7 @@ We do not on that account assume an independent entity called pradhāna and say 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किं तर्हि ? यदि प्रधानमपि कल्प्यमानं श्रुत्यविरोधेनाव्याकृतादिशब्दवाच्यं भूतसूक्ष्मं परिकल्प्येत, परिकल्प्यताम्।
+किं तर्हि ? यदि प्रधानमपि कल्प्यमानं श्रुत्य्-अविरोधेनाव्याकृतादि-शब्द-वाच्यं भूतसूक्ष्मं परिकल्प्येत, परिकल्प्यताम्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -865,7 +865,7 @@ but if a pradhāna is to be assumed at all (in agreement with the common opinion
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माद्भेदव्यपदेशात् परमेश्वरो भूतयोनिरित्येतदिह प्रतिपाद्यते ॥ २२ ॥
+तस्माद् भेद-व्यपदेशात् परमेश्वरो भूतयोनिर् इत्य् एतद् इह प्रतिपाद्यते ॥ २२ ॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -920,7 +920,7 @@ A further argument in favour of the same conclusion is supplied by the next Sūt
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च ‘अक्षरात्परतः परः’ इत्यस्यानन्तरम् ‘एतस्माज्जायते प्राणः’ इति प्राणप्रभृतीनां पृथिवीपर्यन्तानां तत्त्वानां सर्गमुक्त्वा, तस्यैव भूतयोनेः सर्वविकारात्मकं रूपमुपन्यस्यमानं पश्यामः — ‘अग्निर्मूर्धा चक्षुषी चन्द्रसूर्यौ दिशः श्रोत्रे वाग्विवृताश्च वेदाः। वायुः प्राणो हृदयं विश्वमस्य पद्भ्यां पृथिवी ह्येष सर्वभूतान्तरात्मा’ (मु. उ. २। १। ४) इति।
+अपि च ‘अक्षरात् परतः परः’ इत्य् अस्यानन्तरम् ‘एतस्माज्जायते प्राणः’ इति प्राण-प्रभृतीनां पृथिवी-पर्यन्तानां तत्त्वानां सर्गमुक्त्वा, तस्यैव भूतयोनेः सर्व-विकारात्मकं रूपम् उपन्यस्यमानं पश्यामः — ‘अग्निर्मूर्धा चक्षुषी चन्द्रसूर्यौ दिशः श्रोत्रे वाग्विवृताश्च वेदाः। वायुः प्राणो हृदयं विश्वमस्य पद्भ्यां पृथिवी ह्येष सर्व-भूतान्तरात्मा’ (मु. उ. २। १। ४) इति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -935,7 +935,7 @@ Subsequently to the passage, 'Higher than the high Imperishable,' we meet (in th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच्च परमेश्वरस्यैवोचितम् , सर्वविकारकारणत्वात्।
+तच्च परमेश्वरस्यैवोचितम् , सर्व-विकार-कारणत्वात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -950,7 +950,7 @@ This statement of form can refer only to the highest Lord,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न शारीरस्य तनुमहिम्नः; नापि प्रधानस्य अयं रूपोपन्यासः सम्भवति, सर्वभूतान्तरात्मत्वासम्भवात्।
+न शारीरस्य तनुमहिम्नः; नापि प्रधानस्य अयं रूपोपन्यासः सम्भवति, सर्व-भूतान्तरात्मत्वासम्भवात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -965,7 +965,7 @@ and not either to the embodied soul, which, on account of its small power, canno
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मात्परमेश्वर एव भूतयोनिः, नेतराविति गम्यते ।
+तस्मात् परमेश्वर एव भूतयोनिः, नेतराविति गम्यते ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -985,7 +985,7 @@ We therefore conclude that the source of all beings is the highest Lord, not eit
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथं पुनर्भूतयोनेरयं रूपोपन्यास इति गम्यते ? प्रकरणात् , ‘एषः’ इति च प्रकृतानुकर्षणात्।
+कथं पुनर् भूतयोनेर् अयं रूपोपन्यास इति गम्यते ? प्रकरणात् , ‘एषः’ इति च प्रकृतानुकर्षणात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1000,7 +1000,7 @@ But wherefrom do you conclude that the quoted declaration of form refers to the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूतयोनिं हि प्रकृत्य ‘एतस्माज्जायते प्राणः’ ‘एष सर्वभूतान्तरात्मा’ इति वचनं भूतयोनिविषयमेव भवति। यथा उपाध्यायं प्रकृत्य ‘एतस्मादधीष्व, एष वेदवेदाङ्गपारगः’ इति वचनमुपाध्यायविषयं भवति, तद्वत्।
+भूतयोनिं हि प्रकृत्य ‘एतस्माज्जायते प्राणः’ ‘एष सर्व-भूतान्तरात्मा’ इति वचनं भूतयोनिविषयमेव भवति। यथा उपाध्यायं प्रकृत्य ‘एतस्मादधीष्व, एष वेदवेदाङ्गपारगः’ इति वचनम् उपाध्याय-विषयं भवति, तद्वत्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1015,7 +1015,7 @@ As the source of all beings constitutes the general topic, the whole passage, fr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथं पुनरदृश्यत्वादिगुणकस्य भूतयोनेर्विग्रहवद्रूपं सम्भवति ? सर्वात्मत्वविवक्षयेदमुच्यते, न तु विग्रहवत्त्वविवक्षया इत्यदोषः, ‘अहमन्नम्’ ‘अहमन्नादः’ (तै. उ. ३। १०। ६) इत्यादिवत् ॥
+कथं पुनर् अदृश्यत्वादि-गुणकस्य भूतयोनेर् विग्रहवद्-रूपं सम्भवति ? सर्वात्मत्व-विवक्षयेदम् उच्यते, न तु विग्रहवत्त्व-विवक्षया इत्यदोषः, ‘अहमन्नम्’ ‘अहमन्नादः’ (तै. उ. ३। १०। ६) इत्यादिवत् ॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1057,7 +1057,7 @@ The statement of the two former commentators must be understood to mean--in agre
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘एतस्माज्जायते प्राणो मनः सर्वेन्द्रियाणि च। खं वायुर्ज्योतिरापः पृथिवी विश्वस्य धारिणी’ इति हि पूर्वत्र प्राणादि पृथिव्यन्तं तत्त्वजातं जायमानत्वेन निरदिक्षत्।
+‘एतस्माज्जायते प्राणो मनः सर्वेन्द्रियाणि च। खं वायुर् ज्योतिर् आपः पृथिवी विश्वस्य धारिणी’ इति हि पूर्वत्र प्राणादि पृथिव्यन्तं तत्त्वजातं जायमानत्वेन निरदिक्षत्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1087,7 +1087,7 @@ and, on the other hand, a passage met with later on ('From him comes Agni, the s
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इहैव कथमकस्मादन्तराले भूतयोनेः रूपमुपन्यसेत् ?
+इहैव कथम् अकस्माद् अन्तराले भूतयोनेः रूपमुपन्यसेत् ?
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1122,7 +1122,7 @@ The attribute of being the Self of all beings, (which above was said to be menti
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रुतिस्मृत्योश्च त्रैलोक्यशरीरस्य प्रजापतेर्जन्मादि निर्दिश्यमानमुपलभामहे — ‘हिरण्यगर्भः समवर्तताग्रे भूतस्य जातः पतिरेक आसीत्। स दाधार पृथिवीं द्यामुतेमां कस्मै देवाय हविषा विधेम’ (ऋ. सं. १०। १२१। १) इति; समवर्ततेति अजायतेत्यर्थः — तथा, ‘स वै शरीरी प्रथमः स वै पुरुष उच्यते। आदिकर्ता स भूतानां ब्रह्माग्रे समवर्तत’ इति च।
+श्रुति-स्मृत्योश् च त्रैलोक्य-शरीरस्य प्रजापतेर् जन्मादि निर्दिश्यमानम् उपलभामहे — ‘हिरण्यगर्भः समवर्तताग्रे भूतस्य जातः पतिरेक आसीत्। स दाधार पृथिवीं द्यामुतेमां कस्मै देवाय हविषा विधेम’ (ऋ. सं. १०। १२१। १) इति; समवर्ततेति अजायतेत्यर्थः — तथा, ‘स वै शरीरी प्रथमः स वै पुरुष उच्यते। आदिकर्ता स भूतानां ब्रह्माग्रे समवर्तत’ इति च।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1137,7 +1137,7 @@ Now, we see that śruti as well as smr̥ti speaks of the birth of Prajāpati, wh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विकारपुरुषस्यापि सर्वभूतान्तरात्मत्वं सम्भवति, प्राणात्मना सर्वभूतानामध्यात्ममवस्थानात्।
+विकार-पुरुषस्यापि सर्व-भूतान्तरात्मत्वं सम्भवति, प्राणात्मना सर्व-भूतानाम् अध्यात्मम् अवस्थानात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1152,7 +1152,7 @@ This Person which is (not the original Brahman but) an effect (like other create
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्मिन्पक्षे ‘पुरुष एवेदं विश्वं कर्म’ इत्यादिसर्वरूपोपन्यासः परमेश्वरप्रतिपत्तिहेतुरिति व्याख्येयम् ॥ २३ ॥
+अस्मिन्पक्षे ‘पुरुष एवेदं विश्वं कर्म’ इत्य्-आदि-सर्व-रूपोपन्यासः परमेश्वर-प्रतिपत्ति-हेतुर् इति व्याख्येयम् ॥ २३ ॥
 </details>
 
 <details><summary>Thibaut</summary>

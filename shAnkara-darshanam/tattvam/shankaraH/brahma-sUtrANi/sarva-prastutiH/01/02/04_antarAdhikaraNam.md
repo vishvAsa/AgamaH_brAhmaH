@@ -8,7 +8,7 @@ title = "०४ अन्तराधिकरणम्"
 <details><summary>वैयासिक-न्याय-माला</summary>
 
 छाया-जीवौ देवतेशौ  
-वाऽसौ योऽक्षणि दृश्यते ॥  
+वाऽसौ यो ऽक्षणि दृश्यते ॥  
 आधार-दृश्यतोक्त्येशाद्  
 अन्येषु त्रिषु कश्चन ॥ ७ ॥  
 कं खं ब्रह्म यद् उक्तं प्राक्  
@@ -218,7 +218,7 @@ the following answer is given.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च्छायात्मादिरितर इह ग्रहणमर्हति। 
+न च्छायात्मादिर् इतर इह ग्रहणम् अर्हति। 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -285,7 +285,7 @@ The reflected Self, in the first place, does not permanently abide in the eye.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदैव हि कश्चित् पुरुषश् चक्षुर् आसीदति,  
-तदा चक्षुषि पुरुषच्छाया दृश्यते। 
+तदा चक्षुषि पुरुष-च्छाया दृश्यते। 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -306,7 +306,7 @@ For when some person approaches the eye the reflection of that person is seen in
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपगते तस्मिन्न दृश्यते। 
+अपगते तस्मिन् न दृश्यते। 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -327,7 +327,7 @@ but when the person moves away the reflection is seen no longer.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘य एषोऽक्षिणि पुरुषः’ इति च श्रुतिः  
+‘य एषो ऽक्षिणि पुरुषः’ इति च श्रुतिः  
 सन्निधानात् स्व-चक्षुषि दृश्यमानं पुरुषम् उपास्यत्वेनोपदिशति। 
 </details>
 
@@ -433,7 +433,7 @@ And, further, 'on account of impossibility' (the person in the eye cannot be the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा विज्ञानात्मनोऽपि  
+तथा विज्ञानात्मनो ऽपि  
 साधारणे कृत्स्न-शरीरेन्द्रिय-सम्बन्धे सति  
 न चक्षुष्य् एवावस्थितत्वं शक्यं वक्तुम्। 
 </details>
@@ -456,7 +456,7 @@ Of the cognitional Self, in the second place, which is in general connexion with
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मणस् तु सर्व-व्यापिनोऽपि  
+ब्रह्मणस् तु सर्व-व्यापिनो ऽपि  
 दृष्ट उपलब्ध्य्-अर्थो  
 हृदयादि-देश-विशेष-सम्बन्धः। 
 </details>
@@ -499,7 +499,7 @@ The cognitional Self shares (with the reflected Self) the impossibility of havin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्य् अपि विज्ञानात्मा परमात्मनोऽनन्य एव,  
+यद्य् अपि विज्ञानात्मा परमात्मनो ऽनन्य एव,  
 तथाप्य् अ-विद्या--काम-कर्म-कृतं तस्मिन् मर्त्यत्वम् अध्यारोपितं भयं चेत्य्  
 अमृतत्वाभयत्वे नोपपद्येते।
 </details>
@@ -569,7 +569,7 @@ still Selfhood cannot be ascribed to the sun, on account of his externality (par
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अमृतत्वादयोऽपि न सम्भवन्ति, उत्पत्तिप्रलयश्रवणात्। 
+अमृतत्वादयो ऽपि न सम्भवन्ति, उत्पत्ति-प्रलय-श्रवणात्। 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -590,7 +590,7 @@ Immortality, &c. also cannot be predicated of him, as Scripture speaks of his or
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अमरत्वमपि देवानां चिरकालावस्थानापेक्षम्। +++(5)+++
+अमरत्वम् अपि देवानां चिरकालावस्थानापेक्षम्। +++(5)+++
 </details>
 
 <details><summary>Thibaut</summary>
@@ -610,7 +610,7 @@ For the (so-called) deathlessness of the gods only means their (comparatively) l
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐश्वर्यमपि परमेश्वरायत्तम् , न स्वाभाविकम्; 
+ऐश्वर्यम् अपि परमेश्वरायत्तम् , न स्वाभाविकम्; 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -631,10 +631,10 @@ And their lordly power also is based on the highest Lord and does not naturally 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘भीषास्माद्वातः पवते।  
+> ‘भीषास्माद् वातः पवते।  
 भीषोदेति सूर्यः।  
 भीषास्माद् अग्निश् चेन्द्रश्च।  
-मृत्युर्धावति पञ्चमः’  
+मृत्युर् धावति पञ्चमः’  
 (तै. उ. २। ८। १)  
 
 इति मन्त्रवर्णात्। 
@@ -663,7 +663,7 @@ as the mantra declares, 'From terror of it (Brahman) the wind blows, from terror
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मात्परमेश्वर एवायमक्षिस्थानः प्रत्येतव्यः। 
+तस्मात् परमेश्वर एवायम् अक्षि-स्थानः प्रत्येतव्यः। 
 </details>
 
 <details><summary>Thibaut</summary>
